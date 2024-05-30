@@ -1,0 +1,5 @@
+sigID
+**__pycache__
+settings.json
+data.json
+*.tar
