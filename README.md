@@ -4,8 +4,9 @@
 
 <div align="center">
 
-  <a href="">![GitHub Release](https://img.shields.io/github/v/release/AresValley/Artemis-DB?label=Latest%20release)</a>
-  <a href="">![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/AresValley/Artemis-DB/total?label=DB%20requests)</a>
+  ![GitHub Release](https://img.shields.io/github/v/release/AresValley/Artemis-DB?label=Latest%20release)
+  ![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/AresValley/Artemis-DB/total?label=DB%20requests)
+  ![GitHub Release Date](https://img.shields.io/github/release-date/AresValley/Artemis-DB)
 
 </div>
 
