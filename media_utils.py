@@ -16,14 +16,14 @@ def download_file(url, destination):
         # Report failed download
         pass
   
-def download_spectrum(url, file_name):
-    output_path = Path.MEDIA_DIR / "{}.png".format(file_name)
+def download_spectrum(url, file_name, save_path):
+    output_path = save_path / "{}.png".format(file_name)
     download_file(url, output_path)
 
     im = Image.open(output_path) 
     im = im.convert("RGB")
     im.save(output_path, "PNG")
 
-def download_audio(url, file_name):
-    audio_path = Path.MEDIA_DIR / "{}.m4a".format(file_name)
+def download_audio(url, file_name, save_path):
+    audio_path = save_path / "{}.m4a".format(file_name)
     os.system("ffmpeg -i {} -ar 48000 -loglevel error -hide_banner -nostats {}".format(url, audio_path))

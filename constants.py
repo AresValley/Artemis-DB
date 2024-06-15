@@ -7,6 +7,7 @@ class Path():
     BASE_DIR        = Path(os.path.dirname(__file__))
     DATA_DIR        = BASE_DIR / "sigID"
     MEDIA_DIR       = DATA_DIR / "media"
+    STATIC_DIR      = BASE_DIR / "static"
 
 class Url():
     SIGID_DOMAIN        = "https://www.sigidwiki.com"

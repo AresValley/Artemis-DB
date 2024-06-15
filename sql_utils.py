@@ -68,7 +68,8 @@ class ArtemisDB(Database):
         self.execute(Query.INSERT_CATEGORY, [sig_id, clb_id])
 
     def add_category_label(self, value):
-        self.execute(Query.INSERT_CATEGORY_LABEL, [value])
+        last_row = self.execute(Query.INSERT_CATEGORY_LABEL, [value], True)
+        return last_row
 
     def add_frequency(self, sig_id, value, description):
         self.execute(Query.INSERT_FREQUENCY, [sig_id, value, description])

@@ -119,7 +119,7 @@ class SigidDataparser():
                         'Image',
                         1
                     )
-                    download_spectrum(sig_param['Spectrum'], last_row)
+                    download_spectrum(sig_param['Spectrum'], last_row, Path.MEDIA_DIR)
 
                 if 'Audio' in sig_param:
                     last_row = sig_db.add_document(
@@ -130,7 +130,7 @@ class SigidDataparser():
                         'Audio',
                         1
                     )
-                    download_audio(sig_param['Audio'], last_row)
+                    download_audio(sig_param['Audio'], last_row, Path.MEDIA_DIR)
 
             time.sleep(3)
 
