@@ -1,0 +1,1 @@
+GRAW DFM-09 radiosonde measures temperature, humidity, air pressure, wind direction, and wind speed.

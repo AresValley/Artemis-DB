@@ -1,0 +1,30 @@
+{
+    "signal": {
+        "name": "Rain Master sprinkler control",
+        "url": "https://www.sigidwiki.com/wiki/Rain_Master_sprinkler_control"
+    },
+    "category": [
+        "Utility"
+    ],
+    "frequency": [
+        {
+            "value": 154600000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [],
+    "acf": [],
+    "modulation": [],
+    "mode": [
+        {
+            "value": "FM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "signal": {
+        "name": "TT2300",
+        "url": "https://www.sigidwiki.com/wiki/TT2300"
+    },
+    "category": [
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 5028700,
+            "description": ""
+        },
+        {
+            "value": 5109700,
+            "description": ""
+        },
+        {
+            "value": 7716700,
+            "description": ""
+        },
+        {
+            "value": 7719700,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 1600,
+            "description": ""
+        },
+        {
+            "value": 1700,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "MFSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

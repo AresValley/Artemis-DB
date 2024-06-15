@@ -1,0 +1,56 @@
+{
+    "signal": {
+        "name": "Emergency Managers Weather Information Network (EMWIN) - Repeater",
+        "url": "https://www.sigidwiki.com/wiki/Emergency_Managers_Weather_Information_Network_(EMWIN)_-_Repeater"
+    },
+    "category": [
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 163325000,
+            "description": ""
+        },
+        {
+            "value": 163350000,
+            "description": ""
+        },
+        {
+            "value": 168812500,
+            "description": ""
+        },
+        {
+            "value": 168712500,
+            "description": ""
+        },
+        {
+            "value": 163300000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 20000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "AFSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "NFM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "United States",
+            "description": ""
+        }
+    ]
+}

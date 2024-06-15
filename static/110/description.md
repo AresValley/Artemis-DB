@@ -1,0 +1,1 @@
+A Chinese over the horizon radar, known as "foghorn" among amateur radio operators. Not much is known about it.

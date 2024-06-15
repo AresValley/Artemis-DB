@@ -1,0 +1,1 @@
+Long Term Evolution Network. Also known as 4G LTE Data and Evolved Universal Terrestrial Radio Access (E-UTRA). Data service for wireless consumer devices.

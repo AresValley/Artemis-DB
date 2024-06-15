@@ -1,0 +1,1 @@
+LTR Passport is a type of control channel (unlike the standalone LTR that doesnt have one) which consists of multiple radio repeater sites linked together to form a wide-area radio dispatch network.

@@ -1,0 +1,1 @@
+BIIS (also known as BIIS 1200) is an ETSI protocol for a digital selective calling method with the added benefit of extended capability of transmitting data that exceeds what could be done with old 5-tone analog calling methods like CCIR and ZVEI.

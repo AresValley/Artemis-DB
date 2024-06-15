@@ -1,0 +1,1 @@
+BPC is the callsign of the Chinese low-frequency time broadcasting station, located near Shangqiu, Henan in China.

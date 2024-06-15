@@ -1,0 +1,1 @@
+HAARP is a ionospheric research program conducted in Gakona, Alaska.

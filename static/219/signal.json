@@ -1,0 +1,44 @@
+{
+    "signal": {
+        "name": "HP Laptop",
+        "url": "https://www.sigidwiki.com/wiki/HP_Laptop"
+    },
+    "category": [
+        "Interfering"
+    ],
+    "frequency": [
+        {
+            "value": 50900,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 1500,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "USB",
+            "description": ""
+        },
+        {
+            "value": "LSB",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "CW",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

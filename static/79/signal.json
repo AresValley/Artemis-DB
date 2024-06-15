@@ -1,0 +1,48 @@
+{
+    "signal": {
+        "name": "CIS MFSK-21-13",
+        "url": "https://www.sigidwiki.com/wiki/CIS_MFSK-21-13"
+    },
+    "category": [
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 4834000,
+            "description": ""
+        },
+        {
+            "value": 16292000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 3300,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "MFSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Russia",
+            "description": ""
+        },
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

@@ -1,0 +1,1 @@
+Method for transmitting digital images via radio, similar to WinDRM or KG-STV

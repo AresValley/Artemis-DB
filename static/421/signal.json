@@ -1,0 +1,50 @@
+{
+    "signal": {
+        "name": "SITOR-A",
+        "url": "https://www.sigidwiki.com/wiki/SITOR-A"
+    },
+    "category": [
+        "Marine",
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 3000000,
+            "description": ""
+        },
+        {
+            "value": 30000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 350,
+            "description": ""
+        }
+    ],
+    "acf": [
+        {
+            "value": 450.0,
+            "description": "Main"
+        }
+    ],
+    "modulation": [
+        {
+            "value": "FSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

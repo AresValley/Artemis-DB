@@ -1,0 +1,1 @@
+Gandalf MDT was developed by Gandalf Mobile Systems, a subsidiary of Canadian company Gandalf Technologies. Used primarily by taxi and courier services in Canada and the United States. This protocol was used in Gandalf's Cabmate systems.

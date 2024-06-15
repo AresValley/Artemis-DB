@@ -1,0 +1,1 @@
+SIGFOX is a IoT wireless network system utilizing ETSI's specification for Low Throughput Networks (LTN) and Ultra Narrow-Band (UNB) modulation.

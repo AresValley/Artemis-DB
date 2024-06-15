@@ -1,0 +1,1 @@
+Three 144 Bd FSK signals in a 3100 Hz VFT bandwidth. Reportedly phased out.

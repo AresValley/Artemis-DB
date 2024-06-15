@@ -1,0 +1,45 @@
+{
+    "signal": {
+        "name": "Aircraft Communications Addressing and Reporting System (ACARS)",
+        "url": "https://www.sigidwiki.com/wiki/Aircraft_Communications_Addressing_and_Reporting_System_(ACARS)"
+    },
+    "category": [
+        "Aviation",
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 129000000,
+            "description": ""
+        },
+        {
+            "value": 137000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 5000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "MSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "AM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

@@ -1,0 +1,84 @@
+{
+    "signal": {
+        "name": "Global Positioning System (GPS)",
+        "url": "https://www.sigidwiki.com/wiki/Global_Positioning_System_(GPS)"
+    },
+    "category": [
+        "Navigation",
+        "Utility",
+        "Digital",
+        "Satellite",
+        "Time"
+    ],
+    "frequency": [
+        {
+            "value": 1176450000,
+            "description": ""
+        },
+        {
+            "value": 1227600000,
+            "description": ""
+        },
+        {
+            "value": 1381050000,
+            "description": ""
+        },
+        {
+            "value": 1379913000,
+            "description": ""
+        },
+        {
+            "value": 1575420000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 24000000,
+            "description": ""
+        },
+        {
+            "value": 22000000,
+            "description": ""
+        },
+        {
+            "value": 25000000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "BPSK",
+            "description": ""
+        },
+        {
+            "value": "BOC",
+            "description": ""
+        },
+        {
+            "value": "TMBOC",
+            "description": ""
+        },
+        {
+            "value": "QAM",
+            "description": ""
+        },
+        {
+            "value": "DSSS",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

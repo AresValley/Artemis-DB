@@ -1,0 +1,1 @@
+ARQ-M4-242 (Also known as TDM 242, TDM-4, 192-TDM, and ARQ-56) is a four-channel time division multiplexed telex system. This is the CCIR 242 standard version. Used in Aeronautical, Maritime, and Point-to-Point services.

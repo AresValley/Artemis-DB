@@ -1,0 +1,1 @@
+HDMI is a popular media source for delivering video, audio, all in the same stream. Unfortunately, there is massive interference from it when a neighboring SDR is near it. It can disrupt receiving to a great degree.

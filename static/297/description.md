@@ -1,0 +1,1 @@
+MIL-STD-188-110 Serial is a US Department of Defense standard for HF Communications, Serial PSK mode. Can transmit both data and voice with a range of interleaving and speed modes for optimal propagation.

@@ -1,0 +1,53 @@
+{
+    "signal": {
+        "name": "Non-Directional Beacon (NDB)",
+        "url": "https://www.sigidwiki.com/wiki/Non-Directional_Beacon_(NDB)"
+    },
+    "category": [
+        "Aviation",
+        "Navigation"
+    ],
+    "frequency": [
+        {
+            "value": 190000,
+            "description": ""
+        },
+        {
+            "value": 535000,
+            "description": ""
+        },
+        {
+            "value": 1750000,
+            "description": ""
+        },
+        {
+            "value": 1800000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 2000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "A2A (AM)",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "CW",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

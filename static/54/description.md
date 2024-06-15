@@ -1,0 +1,1 @@
+B-Netz, was an analog, commercial mobile radio telephone network that was operated by the Deutsche Bundespost in Germany (at first only West Germany) from 1972 until 1994. The system was also implemented in neighboring countries Austria, The Netherlands and Luxembourg.

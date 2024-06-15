@@ -1,0 +1,1 @@
+Distributed power refers to the placing of an extra locomotive at an intermediate point in the middle section of a train. This locomotive unit is remotely controlled from the lead locomotive, and greatly increases both the pulling and stopping power of longer trains.

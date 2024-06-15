@@ -1,0 +1,1 @@
+CRY2001 is a voice scrambling mode used on Sailor CRY2001 Scramblers. Fisherman often use these modes to communicate with privacy.

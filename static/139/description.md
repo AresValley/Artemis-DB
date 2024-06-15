@@ -1,0 +1,1 @@
+Digital Dispatch Systems Mobile Data Terminal is a dispatching system used by taxi and private transportation companies.

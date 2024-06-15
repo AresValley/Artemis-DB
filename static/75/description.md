@@ -1,0 +1,1 @@
+Three 50 bd Baudot signals in a 3100 Hz VFT bandwidth.

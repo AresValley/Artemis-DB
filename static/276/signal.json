@@ -1,0 +1,29 @@
+{
+    "signal": {
+        "name": "Lightning Sferics",
+        "url": "https://www.sigidwiki.com/wiki/Lightning_Sferics"
+    },
+    "category": [
+        "Interfering"
+    ],
+    "frequency": [
+        {
+            "value": 0,
+            "description": ""
+        },
+        {
+            "value": 30000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [],
+    "acf": [],
+    "modulation": [],
+    "mode": [],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

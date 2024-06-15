@@ -1,0 +1,41 @@
+{
+    "signal": {
+        "name": "LEOSAR Downlink",
+        "url": "https://www.sigidwiki.com/wiki/LEOSAR_Downlink"
+    },
+    "category": [
+        "Digital",
+        "Satellite"
+    ],
+    "frequency": [
+        {
+            "value": 1544500000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 350000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "PSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "NFM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

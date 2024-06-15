@@ -1,0 +1,31 @@
+{
+    "signal": {
+        "name": "Portable Traffic Lights",
+        "url": "https://www.sigidwiki.com/wiki/Portable_Traffic_Lights"
+    },
+    "category": [
+        "Utility",
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 154463000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [],
+    "acf": [],
+    "modulation": [],
+    "mode": [
+        {
+            "value": "NFM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

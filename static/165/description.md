@@ -1,0 +1,1 @@
+The Emergency Alert System (EAS) is a national warning system in the United States, implemented since 1997, superceding the Emergency Broadcast System (EBS).

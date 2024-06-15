@@ -1,0 +1,1 @@
+POL-ARQ was a duplex ARQ system used by Polish and Italian diplomatic services. This system uses the CCIR 476-4 alphabet with polatiry retained. No longer in use.

@@ -1,0 +1,52 @@
+{
+    "signal": {
+        "name": "Driftnet Buoy Radio Beacon",
+        "url": "https://www.sigidwiki.com/wiki/Driftnet_Buoy_Radio_Beacon"
+    },
+    "category": [
+        "Marine"
+    ],
+    "frequency": [
+        {
+            "value": 1600000,
+            "description": ""
+        },
+        {
+            "value": 2850000,
+            "description": ""
+        },
+        {
+            "value": 4000000,
+            "description": ""
+        },
+        {
+            "value": 28000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 1,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "OOK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

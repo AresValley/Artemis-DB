@@ -1,0 +1,1 @@
+Fast Low-latency Access with Seamless Handoff Orthogonal Frequency Division Multiplexing (FLASH-OFDM) is a mobile data access technology developed by Flarion.

@@ -1,0 +1,1 @@
+CBET "Critical Band Encoded Tones" are tones added into radio broadcast's audio output for identification purposes.

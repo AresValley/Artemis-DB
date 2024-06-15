@@ -1,0 +1,42 @@
+{
+    "signal": {
+        "name": "UIC 751-3",
+        "url": "https://www.sigidwiki.com/wiki/UIC_751-3"
+    },
+    "category": [],
+    "frequency": [
+        {
+            "value": 457000000,
+            "description": ""
+        },
+        {
+            "value": 468000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 10000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "FSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "NFM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Spain",
+            "description": ""
+        }
+    ]
+}

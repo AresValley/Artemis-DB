@@ -1,0 +1,53 @@
+{
+    "signal": {
+        "name": "Coherent BPSK",
+        "url": "https://www.sigidwiki.com/wiki/Coherent_BPSK"
+    },
+    "category": [
+        "Amateur Radio",
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 138000,
+            "description": ""
+        },
+        {
+            "value": 1881000,
+            "description": ""
+        },
+        {
+            "value": 14081000,
+            "description": ""
+        },
+        {
+            "value": 18081000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 200,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "PSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

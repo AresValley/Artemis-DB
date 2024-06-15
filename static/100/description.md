@@ -1,0 +1,1 @@
+CLOVER-I was the first iteration of the Clover series of digital modes. Was never released for commercial use, replaced by CLOVER-II. Also known as Cloverleaf.

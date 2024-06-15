@@ -1,0 +1,46 @@
+{
+    "signal": {
+        "name": "Automatic Link Establishment (2G ALE)",
+        "url": "https://www.sigidwiki.com/wiki/Automatic_Link_Establishment_(2G_ALE)"
+    },
+    "category": [
+        "Amateur Radio",
+        "Military",
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 3068000,
+            "description": ""
+        },
+        {
+            "value": 28312500,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 2000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "MFSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

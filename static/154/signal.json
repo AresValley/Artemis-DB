@@ -1,0 +1,45 @@
+{
+    "signal": {
+        "name": "DominoF",
+        "url": "https://www.sigidwiki.com/wiki/DominoF"
+    },
+    "category": [
+        "Amateur Radio",
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 1838000,
+            "description": ""
+        },
+        {
+            "value": 28080000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 220,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "IFK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

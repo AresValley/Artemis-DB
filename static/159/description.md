@@ -1,0 +1,1 @@
+EEA is a 5-tone selcall mode defined by the Electronic Engineering Association in the United Kingdom.

@@ -1,0 +1,50 @@
+{
+    "signal": {
+        "name": "SiriusXM Satellite Radio",
+        "url": "https://www.sigidwiki.com/wiki/SiriusXM_Satellite_Radio"
+    },
+    "category": [
+        "Commercial",
+        "Digital",
+        "Satellite"
+    ],
+    "frequency": [
+        {
+            "value": 2332500000,
+            "description": ""
+        },
+        {
+            "value": 2345000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 12500000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "OFDM",
+            "description": ""
+        },
+        {
+            "value": "PSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "RAW",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "United States",
+            "description": ""
+        }
+    ]
+}

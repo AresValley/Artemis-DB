@@ -1,0 +1,43 @@
+{
+    "signal": {
+        "name": "Narrow-Bandwidth Television (NBTV)",
+        "url": "https://www.sigidwiki.com/wiki/Narrow-Bandwidth_Television_(NBTV)"
+    },
+    "category": [
+        "Amateur Radio"
+    ],
+    "frequency": [
+        {
+            "value": 50000000,
+            "description": ""
+        },
+        {
+            "value": 1800000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 13000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "AM",
+            "description": ""
+        },
+        {
+            "value": "FM",
+            "description": ""
+        }
+    ],
+    "mode": [],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

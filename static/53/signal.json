@@ -1,0 +1,45 @@
+{
+    "signal": {
+        "name": "Automatic Vehicle Monitoring (AVM)",
+        "url": "https://www.sigidwiki.com/wiki/Automatic_Vehicle_Monitoring_(AVM)"
+    },
+    "category": [
+        "Commercial",
+        "Analogue"
+    ],
+    "frequency": [
+        {
+            "value": 517875000,
+            "description": ""
+        },
+        {
+            "value": 507225000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 7500,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "FFSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "NFM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Australia",
+            "description": ""
+        }
+    ]
+}

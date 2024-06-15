@@ -1,0 +1,1 @@
+Phase Alternating Line (PAL) Analogue Television Broadcast. Now phased out in most of the world.

@@ -1,0 +1,1 @@
+Amplitude Modulation Signalling System (AMSS) is a DRM-based radiotext and data technology for AM broadcasting, like RDS that is used for FM. It transmits as a subcarrier, phase-modulating the carrier frequency.

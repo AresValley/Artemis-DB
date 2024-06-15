@@ -1,0 +1,1 @@
+THROB is a unique data mode that relies heavily on DSP techniques, using MFSK and AM modulation techniques together.

@@ -1,0 +1,45 @@
+{
+    "signal": {
+        "name": "Primex Wireless Time Sync",
+        "url": "https://www.sigidwiki.com/wiki/Primex_Wireless_Time_Sync"
+    },
+    "category": [
+        "Commercial",
+        "Time"
+    ],
+    "frequency": [
+        {
+            "value": 72020000,
+            "description": ""
+        },
+        {
+            "value": 72980000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 20000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "PSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "NFM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

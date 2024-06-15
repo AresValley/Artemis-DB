@@ -1,0 +1,32 @@
+{
+    "signal": {
+        "name": "Futuba RC Controller",
+        "url": "https://www.sigidwiki.com/wiki/Futuba_RC_Controller"
+    },
+    "category": [],
+    "frequency": [
+        {
+            "value": 75000000,
+            "description": ""
+        },
+        {
+            "value": 72000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 12000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [],
+    "mode": [
+        {
+            "value": "AM",
+            "description": ""
+        }
+    ],
+    "location": []
+}

@@ -1,0 +1,1 @@
+Transmits train telemetry such as brake status and accidental seperation information to the head locomotive.

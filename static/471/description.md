@@ -1,0 +1,1 @@
+The Buzzer, call-sign NZhTI (formerly ANVF, ZhUOZ, MDZhB and UZB-76), is a Russian Military Commandment system signal used to broadcast diplomatic ciphered messages known as "monolit" to the russian navy. If there is no message to broadcast, its "homing" signal is a loud ship-horn buzzing sound. It is believed to serve a similar purposes to The Alarm and The Air Horn.

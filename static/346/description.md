@@ -1,0 +1,1 @@
+North Korean Diplomatic PSK link. Also known as KRE-PSK. Four speed modes have been seen, 150 bd, 300 bd, 600 bd, and 1200 bd. All use BPSK modulation. The main identifying feature of this signal are the preambles and end of transmission patterns.

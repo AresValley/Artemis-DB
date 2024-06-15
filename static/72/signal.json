@@ -1,0 +1,53 @@
+{
+    "signal": {
+        "name": "CHU",
+        "url": "https://www.sigidwiki.com/wiki/CHU"
+    },
+    "category": [
+        "Digital",
+        "Time"
+    ],
+    "frequency": [
+        {
+            "value": 3330000,
+            "description": ""
+        },
+        {
+            "value": 7850000,
+            "description": ""
+        },
+        {
+            "value": 14670000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 2250,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "OOK",
+            "description": ""
+        },
+        {
+            "value": "FSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Canada",
+            "description": ""
+        }
+    ]
+}

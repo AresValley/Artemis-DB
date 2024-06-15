@@ -1,0 +1,1 @@
+STANAG 4197 is a NATO QPSK OFDM signal used in ANDVT modems that transmit encrypted digital voice over HF.

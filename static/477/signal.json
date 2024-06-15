@@ -1,0 +1,56 @@
+{
+    "signal": {
+        "name": "Traffic Light Control R09",
+        "url": "https://www.sigidwiki.com/wiki/Traffic_Light_Control_R09"
+    },
+    "category": [
+        "Utility",
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 68000000,
+            "description": ""
+        },
+        {
+            "value": 87500000,
+            "description": ""
+        },
+        {
+            "value": 146000000,
+            "description": ""
+        },
+        {
+            "value": 174000000,
+            "description": ""
+        },
+        {
+            "value": 450000000,
+            "description": ""
+        },
+        {
+            "value": 470000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 10000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "AFSK",
+            "description": ""
+        }
+    ],
+    "mode": [],
+    "location": [
+        {
+            "value": "Germany",
+            "description": ""
+        }
+    ]
+}

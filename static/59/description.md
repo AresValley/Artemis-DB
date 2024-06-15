@@ -1,0 +1,1 @@
+BR-6028 is a VFT (Voice Frequency Telegraph) frequency and time diversity modem using 7 data channels. It is sometimes also known as BARRIE, USA-7, or 6028.

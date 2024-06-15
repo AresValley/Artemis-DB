@@ -1,0 +1,45 @@
+{
+    "signal": {
+        "name": "ICAO Selcal",
+        "url": "https://www.sigidwiki.com/wiki/ICAO_Selcal"
+    },
+    "category": [
+        "Aviation",
+        "Analogue"
+    ],
+    "frequency": [
+        {
+            "value": 300000000,
+            "description": ""
+        },
+        {
+            "value": 3000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 1500,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "MFSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

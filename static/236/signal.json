@@ -1,0 +1,43 @@
+{
+    "signal": {
+        "name": "IS-54 D-AMPS",
+        "url": "https://www.sigidwiki.com/wiki/IS-54_D-AMPS"
+    },
+    "category": [
+        "Commercial",
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 824000000,
+            "description": ""
+        },
+        {
+            "value": 849000000,
+            "description": ""
+        },
+        {
+            "value": 869000000,
+            "description": ""
+        },
+        {
+            "value": 894000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 30000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "PSK",
+            "description": ""
+        }
+    ],
+    "mode": [],
+    "location": []
+}

@@ -1,0 +1,1 @@
+Swedish navy transmitter for submarine communication. It shares the antenna with SAQ (Grimeton Radio)

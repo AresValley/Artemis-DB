@@ -1,0 +1,1 @@
+MIL-STD-188-110 Appendix A is a 16-tone OFDM PSK signal used to transmit data. As of 110C revision, this mode is being phased out.

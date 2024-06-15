@@ -1,0 +1,1 @@
+72-75 MHz transmitters are used to control various types of RC models. RC Controllers that use 72-75 MHz don't seem to be used as often as they used to.

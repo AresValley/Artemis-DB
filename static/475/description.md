@@ -1,0 +1,1 @@
+A first generation analogue mobile cellular system which operated in the United Kingdom and a handful of other countries in Europe. It is also the EU's form of AMPS.

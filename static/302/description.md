@@ -1,0 +1,1 @@
+MPT1327 (Ministry of Posts and Telegraph 1327) is a signaling protocol standard for analog trunked radio

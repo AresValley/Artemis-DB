@@ -1,0 +1,49 @@
+{
+    "signal": {
+        "name": "QO-100-modem",
+        "url": "https://www.sigidwiki.com/wiki/QO-100-modem"
+    },
+    "category": [
+        "Amateur Radio",
+        "Digital",
+        "Satellite"
+    ],
+    "frequency": [
+        {
+            "value": 10489500000,
+            "description": ""
+        },
+        {
+            "value": 10490000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 2700,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "QPSK",
+            "description": ""
+        },
+        {
+            "value": "BPSK",
+            "description": ""
+        },
+        {
+            "value": "APSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": []
+}

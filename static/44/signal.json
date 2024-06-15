@@ -1,0 +1,44 @@
+{
+    "signal": {
+        "name": "Automated Train Control System (ATCS)",
+        "url": "https://www.sigidwiki.com/wiki/Automated_Train_Control_System_(ATCS)"
+    },
+    "category": [
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 936987500,
+            "description": ""
+        },
+        {
+            "value": 896887500,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 12500,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "FSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "NFM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "United States",
+            "description": ""
+        }
+    ]
+}

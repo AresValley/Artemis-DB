@@ -1,0 +1,1 @@
+A high-speed digital link used by METOP weather satellites for direct data dissemination.

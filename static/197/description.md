@@ -1,0 +1,1 @@
+GRAW DFM-09 performs measurement of temperature, humidity, air pressure, wind direction and wind speed.

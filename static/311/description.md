@@ -1,0 +1,1 @@
+Mazielka (X06) is a diplomatic selcall system used by the Russian Ministry of Foreign Affairs. Used to alert that a Serdolik transmission is going to occur soon, usually on a different frequency.

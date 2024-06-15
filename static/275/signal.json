@@ -1,0 +1,65 @@
+{
+    "signal": {
+        "name": "Lentus",
+        "url": "https://www.sigidwiki.com/wiki/Lentus"
+    },
+    "category": [
+        "Amateur Radio",
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 136300,
+            "description": ""
+        },
+        {
+            "value": 1837000,
+            "description": ""
+        },
+        {
+            "value": 3589000,
+            "description": ""
+        },
+        {
+            "value": 7037500,
+            "description": ""
+        },
+        {
+            "value": 10138700,
+            "description": ""
+        },
+        {
+            "value": 14074000,
+            "description": ""
+        },
+        {
+            "value": 14095600,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 25,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "MFSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

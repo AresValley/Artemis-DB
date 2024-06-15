@@ -1,0 +1,1 @@
+"The Air Horn" is a Russian military commandment network serving the Western Military District, which also serves the same purpose as the buzzer. It transmits on 3510 kHz around the clock. So far, apart from test counts and other technical tests, it has not been heard with any actual traffic.

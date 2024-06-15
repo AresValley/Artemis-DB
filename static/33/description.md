@@ -1,0 +1,1 @@
+Accurate positioning by Low Frequencies, a former German DGPS navigation system. No longer in use as of 2013.

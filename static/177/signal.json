@@ -1,0 +1,49 @@
+{
+    "signal": {
+        "name": "FSQ",
+        "url": "https://www.sigidwiki.com/wiki/FSQ"
+    },
+    "category": [
+        "Amateur Radio",
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 3580000,
+            "description": ""
+        },
+        {
+            "value": 7104000,
+            "description": ""
+        },
+        {
+            "value": 10149000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 300,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "IFK+",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

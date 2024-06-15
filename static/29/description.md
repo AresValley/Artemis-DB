@@ -1,0 +1,1 @@
+ASCII (also known as ITA5 or IRA) is an amateur radio telegraphy signal using the ITA-5 alphabet.

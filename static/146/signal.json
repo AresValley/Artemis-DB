@@ -1,0 +1,40 @@
+{
+    "signal": {
+        "name": "Digital Radio Mondiale Plus (DRM+)",
+        "url": "https://www.sigidwiki.com/wiki/Digital_Radio_Mondiale_Plus_(DRM%2B)"
+    },
+    "category": [
+        "Commercial",
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 47000000,
+            "description": ""
+        },
+        {
+            "value": 230000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 100000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "OFDM",
+            "description": ""
+        }
+    ],
+    "mode": [],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

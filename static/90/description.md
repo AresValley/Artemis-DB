@@ -1,0 +1,1 @@
+Known as CIS-300 Burst, FSK mode used with 300 Bd rate with a starting and ending tone on the upper part of the signal.

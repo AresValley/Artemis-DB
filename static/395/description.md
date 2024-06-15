@@ -1,0 +1,1 @@
+RTTYM, developed by Nick Fedoseev (UT2UZ) in 2005, is a digital mode derived from Olivia. It aims to deliver a compromise of speed and performance. RTTYM is about 4x faster than Olivia, but trades the speed for reduced robustness and sensitivity.

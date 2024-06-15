@@ -1,0 +1,42 @@
+{
+    "signal": {
+        "name": "GRAW DFM-09 Weather Balloon (Radiosonde)",
+        "url": "https://www.sigidwiki.com/wiki/GRAW_DFM-09_Weather_Balloon_(Radiosonde)"
+    },
+    "category": [],
+    "frequency": [
+        {
+            "value": 400010000,
+            "description": ""
+        },
+        {
+            "value": 405990000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 20000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "FSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "NFM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

@@ -1,0 +1,77 @@
+{
+    "signal": {
+        "name": "Automatic Packet Reporting System (APRS)",
+        "url": "https://www.sigidwiki.com/wiki/Automatic_Packet_Reporting_System_(APRS)"
+    },
+    "category": [
+        "Amateur Radio",
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 144390000,
+            "description": ""
+        },
+        {
+            "value": 145570000,
+            "description": ""
+        },
+        {
+            "value": 144575000,
+            "description": ""
+        },
+        {
+            "value": 144640000,
+            "description": ""
+        },
+        {
+            "value": 144660000,
+            "description": ""
+        },
+        {
+            "value": 144930000,
+            "description": ""
+        },
+        {
+            "value": 145825000,
+            "description": ""
+        },
+        {
+            "value": 432500000,
+            "description": ""
+        },
+        {
+            "value": 144800000,
+            "description": ""
+        },
+        {
+            "value": 145175000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 12500,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "AFSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "NFM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

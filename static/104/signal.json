@@ -1,0 +1,42 @@
+{
+    "signal": {
+        "name": "CORIOLIS Tactical Direct Broadcast",
+        "url": "https://www.sigidwiki.com/wiki/CORIOLIS_Tactical_Direct_Broadcast"
+    },
+    "category": [
+        "Military",
+        "Digital",
+        "Satellite"
+    ],
+    "frequency": [
+        {
+            "value": 2221500000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 2000000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "BPSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "RAW",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

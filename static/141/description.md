@@ -1,0 +1,1 @@
+Digital Mobile Radio (DMR) is an open digital mobile radio standard defined by ETSI and used in commercial products around the world. Mostly used by private network and local police, can be encrypted. Used in MOTOTRBO products.

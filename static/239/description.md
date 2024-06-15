@@ -1,0 +1,1 @@
+An ISM band device such as a power meter or a wireless doorbell.

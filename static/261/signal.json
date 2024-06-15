@@ -1,0 +1,45 @@
+{
+    "signal": {
+        "name": "JT9",
+        "url": "https://www.sigidwiki.com/wiki/JT9"
+    },
+    "category": [
+        "Amateur Radio",
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 3578000,
+            "description": ""
+        },
+        {
+            "value": 28079000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 20,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "MFSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

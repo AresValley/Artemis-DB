@@ -1,0 +1,1 @@
+JT6M is part of the WSJT suite of digital weak signal software applications developed by Joe Taylor, K1JT

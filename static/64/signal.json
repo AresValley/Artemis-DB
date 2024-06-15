@@ -1,0 +1,46 @@
+{
+    "signal": {
+        "name": "CAS-4A/B Satellite Telemetry",
+        "url": "https://www.sigidwiki.com/wiki/CAS-4A/B_Satellite_Telemetry"
+    },
+    "category": [
+        "Amateur Radio",
+        "Digital",
+        "Satellite"
+    ],
+    "frequency": [
+        {
+            "value": 145835000,
+            "description": ""
+        },
+        {
+            "value": 145890000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 10000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "GMSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "NFM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

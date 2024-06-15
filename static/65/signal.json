@@ -1,0 +1,46 @@
+{
+    "signal": {
+        "name": "CBET",
+        "url": "https://www.sigidwiki.com/wiki/CBET"
+    },
+    "category": [
+        "Commercial"
+    ],
+    "frequency": [
+        {
+            "value": 88000000,
+            "description": ""
+        },
+        {
+            "value": 108000000,
+            "description": ""
+        },
+        {
+            "value": 520,
+            "description": ""
+        },
+        {
+            "value": 1700000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 2000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "FM",
+            "description": ""
+        },
+        {
+            "value": "AM",
+            "description": ""
+        }
+    ],
+    "mode": [],
+    "location": []
+}

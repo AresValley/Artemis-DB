@@ -1,0 +1,53 @@
+{
+    "signal": {
+        "name": "Quadcopter Telemetry Signal",
+        "url": "https://www.sigidwiki.com/wiki/Quadcopter_Telemetry_Signal"
+    },
+    "category": [
+        "Aviation",
+        "Amateur Radio",
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 414000000,
+            "description": ""
+        },
+        {
+            "value": 433000000,
+            "description": ""
+        },
+        {
+            "value": 935000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "BPSK",
+            "description": ""
+        },
+        {
+            "value": "8PSK",
+            "description": ""
+        },
+        {
+            "value": "QAM",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "FHSS-TDM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

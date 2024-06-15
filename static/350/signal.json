@@ -1,0 +1,44 @@
+{
+    "signal": {
+        "name": "OPERA Beacon and Data",
+        "url": "https://www.sigidwiki.com/wiki/OPERA_Beacon_and_Data"
+    },
+    "category": [
+        "Amateur Radio"
+    ],
+    "frequency": [
+        {
+            "value": 136000,
+            "description": ""
+        },
+        {
+            "value": 10000000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 1,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "ASK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

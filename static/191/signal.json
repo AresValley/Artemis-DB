@@ -1,0 +1,69 @@
+{
+    "signal": {
+        "name": "GMDSS Digital Selective Calling",
+        "url": "https://www.sigidwiki.com/wiki/GMDSS_Digital_Selective_Calling"
+    },
+    "category": [
+        "Marine",
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 2187500,
+            "description": ""
+        },
+        {
+            "value": 4207500,
+            "description": ""
+        },
+        {
+            "value": 6312000,
+            "description": ""
+        },
+        {
+            "value": 8414500,
+            "description": ""
+        },
+        {
+            "value": 12577000,
+            "description": ""
+        },
+        {
+            "value": 16804500,
+            "description": ""
+        },
+        {
+            "value": 2177000,
+            "description": ""
+        },
+        {
+            "value": 156525000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 350,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "FSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

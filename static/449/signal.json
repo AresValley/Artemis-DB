@@ -1,0 +1,35 @@
+{
+    "signal": {
+        "name": "Snap Circuits SCROV-10 Remote Control",
+        "url": "https://www.sigidwiki.com/wiki/Snap_Circuits_SCROV-10_Remote_Control"
+    },
+    "category": [
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 27145000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 6000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "ASK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "RAW",
+            "description": ""
+        }
+    ],
+    "location": []
+}

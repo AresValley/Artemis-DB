@@ -1,0 +1,1 @@
+Thales Système 3000 Skyhopper is the frequency hopping mode of the Système 3000 Modem. Characterized by it's very short bursts and frequency hopping behavior.

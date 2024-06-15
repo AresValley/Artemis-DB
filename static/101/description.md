@@ -1,0 +1,1 @@
+CLOVER-II is the advancement of CLOVER-I, with 4 tone pulses and a max data rate of 750 bps. Also known as Q-CLOVER and QUAD-CLOVER.

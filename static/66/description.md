@@ -1,0 +1,1 @@
+CCIR 493-4 Selcall, also known as HF Selcall, Australian Selcall, and Codan 8580 Selcall, is a Selcall standard developed in Australia for the HF band. Used by Amateur radio and Codan Modems.

@@ -1,0 +1,31 @@
+{
+    "signal": {
+        "name": "Eurobalise downlink",
+        "url": "https://www.sigidwiki.com/wiki/Eurobalise_downlink"
+    },
+    "category": [
+        "Navigation",
+        "Analogue"
+    ],
+    "frequency": [
+        {
+            "value": 27095000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [],
+    "acf": [],
+    "modulation": [],
+    "mode": [
+        {
+            "value": "AM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Europe",
+            "description": ""
+        }
+    ]
+}

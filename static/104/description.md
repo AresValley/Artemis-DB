@@ -1,0 +1,1 @@
+Direct Broadcast digital signal from the CORIOLIS satellite, primarily carries data from the WindSat instrument.

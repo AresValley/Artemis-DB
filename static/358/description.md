@@ -1,0 +1,1 @@
+PACTOR II is an advancement of PACTOR I. It is up to 8 times faster than PACTOR I.

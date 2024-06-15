@@ -1,0 +1,1 @@
+HNG-FEC was a full duplex system developed and used solely by the Ministry of Foreign Affairs in Hungary. Used 100.05 bd with 500 Hz shift FSK. This mode is no longer used today.

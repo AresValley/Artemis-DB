@@ -1,0 +1,1 @@
+PLUTO II is an Over The Horizon Radar located in the Sovereign Base Area just outside RAF Akrotiri in Cyprus. PLUTO II is very active in Europe.

@@ -1,0 +1,1 @@
+CAS-4A/B Satellite 4.8 kbps GMSK Telemetry Downlink.

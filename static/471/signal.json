@@ -1,0 +1,46 @@
+{
+    "signal": {
+        "name": "The Buzzer (ZhUOZ MDZhB UZB76)",
+        "url": "https://www.sigidwiki.com/wiki/The_Buzzer_(ZhUOZ_MDZhB_UZB76)"
+    },
+    "category": [
+        "Military",
+        "Analogue",
+        "Numbers Stations"
+    ],
+    "frequency": [
+        {
+            "value": 4625000,
+            "description": ""
+        },
+        {
+            "value": 6998000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 2800,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "AM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Russia",
+            "description": ""
+        }
+    ]
+}

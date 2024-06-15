@@ -1,0 +1,31 @@
+{
+    "signal": {
+        "name": "IsatData Pro",
+        "url": "https://www.sigidwiki.com/wiki/IsatData_Pro"
+    },
+    "category": [
+        "Commercial",
+        "Digital",
+        "Satellite"
+    ],
+    "frequency": [
+        {
+            "value": 1525000000,
+            "description": ""
+        },
+        {
+            "value": 1559000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [],
+    "acf": [],
+    "modulation": [],
+    "mode": [],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

@@ -1,0 +1,1 @@
+UTC (Coordinated Universal Time) time standard transmission from NIST (National Institute of Standards and Technology) stations WWV in Fort Collins, Colorado USA and WWVH in Kauai, Hawaii.

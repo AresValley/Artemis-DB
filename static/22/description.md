@@ -1,0 +1,1 @@
+ARQ-M2-242 (Also known as TDM 242, TDM-2, 96-TDM, and ARQ-28) is a two-channel time division multiplexed telex system. This is the CCIR 242 standard version. Used in Aeronautical, Marine, and Point-to-Point services.

@@ -1,0 +1,1 @@
+PACTOR III introduces 6 speed levels that provide higher throughput and improved robustness compared to PACTOR I and II. PACTOR III is on average 3.5 times faster than PACTOR II. With optimal conditions, PACTOR III becomes over 5 times faster.

@@ -1,0 +1,1 @@
+EURO is a 6/7-tone selcall mode used in VHF/UHF radios. Also known as EuroSignal.

@@ -1,0 +1,1 @@
+An Ionosonde (Also known as a chirpsounder or ionospheric sounder) is a radar that examines the Ionosphere and monitors HF propagation conditions by sweeping the HF band and receiving the echoes.

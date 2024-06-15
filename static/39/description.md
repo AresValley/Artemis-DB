@@ -1,0 +1,1 @@
+Long range commercial broadcast and international radio. Also used for aviation communications.

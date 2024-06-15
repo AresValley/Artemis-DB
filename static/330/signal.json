@@ -1,0 +1,41 @@
+{
+    "signal": {
+        "name": "NOAA ITOS High Resolution Picture Transmission (HRPT)",
+        "url": "https://www.sigidwiki.com/wiki/NOAA_ITOS_High_Resolution_Picture_Transmission_(HRPT)"
+    },
+    "category": [
+        "Analogue",
+        "Satellite"
+    ],
+    "frequency": [
+        {
+            "value": 1697500000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 1000000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "FM",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "WFM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

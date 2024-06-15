@@ -1,0 +1,1 @@
+This signal comes from Logitech(R) Brand wireless mouse and keyboard combo unit.

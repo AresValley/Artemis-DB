@@ -1,0 +1,1 @@
+LoJack is a vehicle tracking system that allows vehicles to be tracked by police, with the aim of recovering them in case of theft via a small radio transceiver clandestinely installed in a vehicle.

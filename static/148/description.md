@@ -1,0 +1,1 @@
+Digital in-band signalling used to squelch and manage transmissions on a given frequency.

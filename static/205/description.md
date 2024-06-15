@@ -1,0 +1,1 @@
+Golay Paging (or Golay Sequential Code, GSC) is a one-way 2-FSK paging format developed by Motorola. It is capable of transmitting tone, numeric, alphanumeric, and voice pages.

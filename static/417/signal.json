@@ -1,0 +1,31 @@
+{
+    "signal": {
+        "name": "SHR",
+        "url": "https://www.sigidwiki.com/wiki/SHR"
+    },
+    "category": [
+        "Marine",
+        "Military"
+    ],
+    "frequency": [
+        {
+            "value": 38000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "MSK",
+            "description": ""
+        }
+    ],
+    "mode": [],
+    "location": [
+        {
+            "value": "Sweden",
+            "description": ""
+        }
+    ]
+}

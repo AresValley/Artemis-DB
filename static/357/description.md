@@ -1,0 +1,1 @@
+PACTOR-I is a digital data protocol combining elements of PACKET and AMTOR ARQ.

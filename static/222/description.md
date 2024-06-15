@@ -1,0 +1,1 @@
+HFDL, also known as HF-ACARS, ARINC 753, ARINC 635, and HF DATALINK,is a data link that aircraft use to communicate short messages over long distances using HF signals.

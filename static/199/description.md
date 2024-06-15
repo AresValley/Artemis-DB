@@ -1,0 +1,1 @@
+Transmitting site owned by the Ministry of Defense. Originally constructed in 1946 and was originally used as a shortwave radio station. In present time, the transmitting site is used by the British Navy in order to transmit encrypted messages to submarines at sea. The site is also capable of DRM and is beamed at 121°, towards Germany and Central Europe

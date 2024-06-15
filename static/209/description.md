@@ -1,0 +1,1 @@
+SAQ stands as the sole transmitter reliant on an alternating current generator. Recognized as a UNESCO World Heritage site, it employs the last operational Alexanderson alternator for RF production.

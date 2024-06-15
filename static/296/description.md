@@ -1,0 +1,1 @@
+MIL-STD-188-110 Appendix B is a 39-tone OFDM DQPSK mode used to send data and voice.

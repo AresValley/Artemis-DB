@@ -1,0 +1,1 @@
+GPS is the USA's global navigation satellite system which provides precision position, navigation, and timing services to devices around the globe.

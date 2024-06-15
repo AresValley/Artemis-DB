@@ -1,0 +1,1 @@
+ARQ-N is a synchronous dual channel ARQ mode identical to ARQ-E, with the only difference being that ARQ-N has no symbol inversions. Formerly used by Italian Diplomatic services.

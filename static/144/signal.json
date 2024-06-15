@@ -1,0 +1,62 @@
+{
+    "signal": {
+        "name": "Digital Private Mobile Radio (dPMR)",
+        "url": "https://www.sigidwiki.com/wiki/Digital_Private_Mobile_Radio_(dPMR)"
+    },
+    "category": [
+        "Trunked Radio",
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 446200000,
+            "description": ""
+        },
+        {
+            "value": 149118750,
+            "description": ""
+        },
+        {
+            "value": 446100000,
+            "description": ""
+        },
+        {
+            "value": 149018750,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 6250,
+            "description": ""
+        }
+    ],
+    "acf": [
+        {
+            "value": 80.0,
+            "description": "Frame"
+        },
+        {
+            "value": 320.0,
+            "description": "Superframe"
+        }
+    ],
+    "modulation": [
+        {
+            "value": "4FSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "NFM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

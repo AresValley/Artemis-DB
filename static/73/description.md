@@ -1,0 +1,1 @@
+Three CIS-14 signals overlaid on top of each other in a 3100 Hz VFT bandwidth, operating at 100 bd

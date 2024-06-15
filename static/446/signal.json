@@ -1,0 +1,66 @@
+{
+    "signal": {
+        "name": "SkyOFDM",
+        "url": "https://www.sigidwiki.com/wiki/SkyOFDM"
+    },
+    "category": [
+        "Military",
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 3000000,
+            "description": ""
+        },
+        {
+            "value": 30000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 2000,
+            "description": ""
+        },
+        {
+            "value": 2400,
+            "description": ""
+        }
+    ],
+    "acf": [
+        {
+            "value": 76.2,
+            "description": "Main"
+        },
+        {
+            "value": 78.0,
+            "description": "Main"
+        },
+        {
+            "value": 113.4,
+            "description": "Main"
+        }
+    ],
+    "modulation": [
+        {
+            "value": "PSK",
+            "description": ""
+        },
+        {
+            "value": "OFDM",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Finland",
+            "description": ""
+        }
+    ]
+}

@@ -1,0 +1,1 @@
+8PSK is an amateur digital UTF8-text and data mode designed by John Phelps KL4YFD in 2014. It's goal is to provide medium speed data using generic FM and SSB radios.

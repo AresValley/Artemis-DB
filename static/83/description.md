@@ -1,0 +1,1 @@
+CIS-112 OFDM signal. Has a preamble of 7 Tones (not including carrier), then 56 tones before entering into the 112 tone data transmission.

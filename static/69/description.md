@@ -1,0 +1,1 @@
+CDMA is another standard for Cellular Devices with GSM being the first encrypted standard.

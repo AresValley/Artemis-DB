@@ -1,0 +1,1 @@
+DominoF was the first experimental implementation of the Domino family of IFK modes, developed by Con ZL2AFP. DominoF used dual interleaved tone sets. Superseded by DominoEX.

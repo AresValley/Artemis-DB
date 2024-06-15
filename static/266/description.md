@@ -1,0 +1,1 @@
+JORN is an Australian OTHR system that operates uniquely in that it's radar bursts include an intro tone before the burst.

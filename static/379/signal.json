@@ -1,0 +1,48 @@
+{
+    "signal": {
+        "name": "Primary Aeronautical Surveillance Radar",
+        "url": "https://www.sigidwiki.com/wiki/Primary_Aeronautical_Surveillance_Radar"
+    },
+    "category": [
+        "Aviation",
+        "Navigation",
+        "Commercial",
+        "Analogue",
+        "Radar"
+    ],
+    "frequency": [
+        {
+            "value": 1215000000,
+            "description": ""
+        },
+        {
+            "value": 1400000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 3000000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "Pulse",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "RAW",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

@@ -1,0 +1,1 @@
+RBU is a time code radio station located in Moscow. It transmits a continuous 10 kW time code on 66.66 kHz.

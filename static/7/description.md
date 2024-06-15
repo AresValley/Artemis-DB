@@ -1,0 +1,1 @@
+CDMA-One also known as IS-95, was the first ever cellular standard technology based off of CDMA. It is now defunct due to GSM and later classes of cellular techs replacing it. It is a predecessor of the 1xRTT (CDMA2000/IS-2000) standard, which is backwards compatible.

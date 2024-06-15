@@ -1,0 +1,1 @@
+Coherent BPSK, also known as C-BPSK, was an experimental amateur mode developed by Bill DeCarle VE2IQ.

@@ -1,0 +1,1 @@
+Packet, also known as FSK300, AFSK1200, BPSK300, QPSK600, BPSK1200, QPSK2400, AX.25 and IL2P, is a packet based protocol derived from X.25 and HDLC computer network protocols. Packet radio is a synchronous system in which data is transmitted in frames.

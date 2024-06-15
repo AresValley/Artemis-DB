@@ -1,0 +1,47 @@
+{
+    "signal": {
+        "name": "UK AM Data System (UK-AMDS)",
+        "url": "https://www.sigidwiki.com/wiki/UK_AM_Data_System_(UK-AMDS)"
+    },
+    "category": [
+        "Commercial",
+        "Analogue",
+        "Digital",
+        "Time"
+    ],
+    "frequency": [
+        {
+            "value": 198000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 85,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "AM",
+            "description": ""
+        },
+        {
+            "value": "PSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "SSB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "United Kingdom",
+            "description": ""
+        }
+    ]
+}

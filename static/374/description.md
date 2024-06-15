@@ -1,0 +1,1 @@
+Piccolo was a MFSK system developed by the UK Foreign and Commonwealth Office (FCO) to communicate with foreign embassies and UK military stations around the world. No longer used.

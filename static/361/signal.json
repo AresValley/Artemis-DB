@@ -1,0 +1,61 @@
+{
+    "signal": {
+        "name": "PAL Broadcast",
+        "url": "https://www.sigidwiki.com/wiki/PAL_Broadcast"
+    },
+    "category": [
+        "Commercial",
+        "Analogue"
+    ],
+    "frequency": [
+        {
+            "value": 47000000,
+            "description": ""
+        },
+        {
+            "value": 862000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 6000000,
+            "description": ""
+        },
+        {
+            "value": 7000000,
+            "description": ""
+        },
+        {
+            "value": 8000000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "QAM",
+            "description": ""
+        },
+        {
+            "value": "VSB",
+            "description": ""
+        },
+        {
+            "value": "FM",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "RAW",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

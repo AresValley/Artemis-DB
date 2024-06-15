@@ -1,0 +1,1 @@
+AMSAT-P3D (Known as Phase 3D, OSCAR-40, and AO-40) is a amateur radio satellite built by AMSAT. As of 2004, the satellite's systems have failed.

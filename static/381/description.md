@@ -1,0 +1,1 @@
+ProVoice is a digital voice mode used in EDACS trunked systems.

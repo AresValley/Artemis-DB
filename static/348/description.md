@@ -1,0 +1,1 @@
+OFDM NBTV is an analog technique, in fact it is a true Fuzzy design as well. The transmission technique used is quite different from conventional TV

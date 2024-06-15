@@ -1,0 +1,1 @@
+ATIS systems are identification tags used by inland commercial waterway traffic on rivers in Europe. The FSK burst is appended at the end of every voice transmission by the vessel operator.

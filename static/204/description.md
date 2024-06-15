@@ -1,0 +1,1 @@
+Globe Wireless' Maritime Digital Radio was a system of 24 stations around the globe offering data services to large cargo vessels. Since 2014, GW has discontinued their HF network.

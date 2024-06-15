@@ -1,0 +1,1 @@
+Used in analog walkie-talkies and communication systems.

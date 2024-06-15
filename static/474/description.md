@@ -1,0 +1,1 @@
+TPMS (Tire-Pressure Monitoring System), more specifically Direct TPMS (dTPMS), is a system that uses pressure sensors to monitor tire pressure on vehicles.

@@ -1,0 +1,1 @@
+ACARS is a digital datalink system for the transmission of short messages between aircraft and ground stations via airband radio or satellite.

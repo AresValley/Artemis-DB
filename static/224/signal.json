@@ -1,0 +1,29 @@
+{
+    "signal": {
+        "name": "High Power Auroral Stimulation (HIPAS)",
+        "url": "https://www.sigidwiki.com/wiki/High_Power_Auroral_Stimulation_(HIPAS)"
+    },
+    "category": [
+        "Radar"
+    ],
+    "frequency": [
+        {
+            "value": 2850000,
+            "description": ""
+        },
+        {
+            "value": 4530000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [],
+    "acf": [],
+    "modulation": [],
+    "mode": [],
+    "location": [
+        {
+            "value": "United States",
+            "description": ""
+        }
+    ]
+}

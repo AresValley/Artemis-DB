@@ -1,0 +1,1 @@
+Convergent Digital Radio (CDR) or China Digital Radio is an in-band-on-channel (IBOC) digital radio broadcasting format used in China. It can be found in multiple bandwidth configurations with different modulation formats.

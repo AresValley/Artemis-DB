@@ -1,0 +1,40 @@
+{
+    "signal": {
+        "name": "Morse Code (CW)",
+        "url": "https://www.sigidwiki.com/wiki/Morse_Code_(CW)"
+    },
+    "category": [
+        "Amateur Radio",
+        "Military"
+    ],
+    "frequency": [
+        {
+            "value": 3000,
+            "description": ""
+        },
+        {
+            "value": 250000000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "OOK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "CW",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

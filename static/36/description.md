@@ -1,0 +1,1 @@
+AHSC uses a randomly generated One-Time-Pad to secure communications between transmitter and receiver. Used for unscheduled transferring of data due to the architecture of the protocol / mode which makes decoding the message impossible if the transmission was not listened to from the beginning.

@@ -1,0 +1,44 @@
+{
+    "signal": {
+        "name": "Supervisory Control And Data Acquisition (SCADA)",
+        "url": "https://www.sigidwiki.com/wiki/Supervisory_Control_And_Data_Acquisition_(SCADA)"
+    },
+    "category": [
+        "Utility",
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 450000000,
+            "description": ""
+        },
+        {
+            "value": 950000000,
+            "description": ""
+        },
+        {
+            "value": 413000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 12000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "FSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "FM",
+            "description": ""
+        }
+    ],
+    "location": []
+}

@@ -1,0 +1,45 @@
+{
+    "signal": {
+        "name": "Microsonde Mark II Weather Balloon - LORAN-C signal (Radiosonde)",
+        "url": "https://www.sigidwiki.com/wiki/Microsonde_Mark_II_Weather_Balloon_-_LORAN-C_signal_(Radiosonde)"
+    },
+    "category": [
+        "Utility",
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 400000000,
+            "description": ""
+        },
+        {
+            "value": 406000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 130000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "FSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "WFM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

@@ -1,0 +1,1 @@
+This signal originates from the Silicon Instruments Si1000 Software Defined Radio (SDR) that is a component of the 3DR Telemetry Radio, sold for use as a data link between a computer ground station and a UAV "a drone".

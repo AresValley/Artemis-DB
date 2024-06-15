@@ -1,0 +1,1 @@
+Europäische Funk-Rundsteuerung (EFR) Teleswitch (European Radio Ripple Control GmbH (ERA) Teleswitch) is an energy management system operated via long-wave radio. Uses two transmitters in Germany and one in Hungary. Also known by DCF39, DCF49 and HGA22.

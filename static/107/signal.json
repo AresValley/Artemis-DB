@@ -1,0 +1,35 @@
+{
+    "signal": {
+        "name": "California Smart-Meter",
+        "url": "https://www.sigidwiki.com/wiki/California_Smart-Meter"
+    },
+    "category": [
+        "Utility",
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 902000000,
+            "description": ""
+        },
+        {
+            "value": 928000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 15000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [],
+    "mode": [],
+    "location": [
+        {
+            "value": "United States",
+            "description": ""
+        }
+    ]
+}

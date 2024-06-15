@@ -1,0 +1,1 @@
+FT8 is an extremely-weak-signal amateur radio mode that transmits very limited communications. JS8, a variant of FT8, can send full conversations and relay messages

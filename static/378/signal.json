@@ -1,0 +1,42 @@
+{
+    "signal": {
+        "name": "Powerline Over Ethernet",
+        "url": "https://www.sigidwiki.com/wiki/Powerline_Over_Ethernet"
+    },
+    "category": [],
+    "frequency": [
+        {
+            "value": 0,
+            "description": ""
+        },
+        {
+            "value": 60000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 60000000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "PAM",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "AM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

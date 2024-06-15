@@ -1,0 +1,1 @@
+An analog signal broadcast from NOAA ITOS polar satellites that transmitted images from the VHRR radiometer.

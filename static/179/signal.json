@@ -1,0 +1,77 @@
+{
+    "signal": {
+        "name": "FT4",
+        "url": "https://www.sigidwiki.com/wiki/FT4"
+    },
+    "category": [
+        "Amateur Radio",
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 14080000,
+            "description": ""
+        },
+        {
+            "value": 3575000,
+            "description": ""
+        },
+        {
+            "value": 7047500,
+            "description": ""
+        },
+        {
+            "value": 10140,
+            "description": ""
+        },
+        {
+            "value": 18104000,
+            "description": ""
+        },
+        {
+            "value": 21140000,
+            "description": ""
+        },
+        {
+            "value": 24919000,
+            "description": ""
+        },
+        {
+            "value": 28180000,
+            "description": ""
+        },
+        {
+            "value": 50318000,
+            "description": ""
+        },
+        {
+            "value": 144170000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 83,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "GFSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

@@ -1,0 +1,1 @@
+Popular antenna analyzer among ham operators and the like. Output power is only ~20mW so if heard, source is nearby. Other MFJ models may be similar.

@@ -1,0 +1,1 @@
+Haegelin Crypto ARQ (HC-ARQ) was an FSK synchronous simplex ARQ system used by the UN and International Rescue Committee. This mode has been phased out and is no longer in use.

@@ -1,0 +1,58 @@
+{
+    "signal": {
+        "name": "IMet-1 RS Radiosonde",
+        "url": "https://www.sigidwiki.com/wiki/IMet-1_RS_Radiosonde"
+    },
+    "category": [],
+    "frequency": [
+        {
+            "value": 402000000,
+            "description": ""
+        },
+        {
+            "value": 406000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 10,
+            "description": ""
+        },
+        {
+            "value": 0,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "AFSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "NFM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Israel",
+            "description": ""
+        },
+        {
+            "value": "Belgium",
+            "description": ""
+        },
+        {
+            "value": "United States",
+            "description": ""
+        },
+        {
+            "value": "South Africa",
+            "description": ""
+        }
+    ]
+}

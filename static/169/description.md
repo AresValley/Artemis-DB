@@ -1,0 +1,1 @@
+Downlink from train to balise. A Eurobalise is a specific variant of a balise, a transponder placed between the rails of a railway.

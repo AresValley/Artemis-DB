@@ -1,0 +1,61 @@
+{
+    "signal": {
+        "name": "Motorola Type II",
+        "url": "https://www.sigidwiki.com/wiki/Motorola_Type_II"
+    },
+    "category": [
+        "Trunked Radio",
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 136000000,
+            "description": ""
+        },
+        {
+            "value": 174000000,
+            "description": ""
+        },
+        {
+            "value": 380000000,
+            "description": ""
+        },
+        {
+            "value": 520000000,
+            "description": ""
+        },
+        {
+            "value": 851000000,
+            "description": ""
+        },
+        {
+            "value": 941000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 16000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "FSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "NFM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

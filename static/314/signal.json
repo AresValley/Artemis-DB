@@ -1,0 +1,40 @@
+{
+    "signal": {
+        "name": "Meteosat WEFAX",
+        "url": "https://www.sigidwiki.com/wiki/Meteosat_WEFAX"
+    },
+    "category": [
+        "Analogue",
+        "Satellite"
+    ],
+    "frequency": [
+        {
+            "value": 1691000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "AM",
+            "description": ""
+        },
+        {
+            "value": "FM",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "FM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

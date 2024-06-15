@@ -1,0 +1,1 @@
+DTMF is a signaling mode used for a variety of purposes. It's most known for telephony dialing, but is in use for many different applications such as DTMF paging for DTMF-enabled VHF/UHF radios.

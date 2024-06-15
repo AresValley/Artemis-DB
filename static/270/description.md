@@ -1,0 +1,1 @@
+Kiwi is a telemetry mode developed by CNES used on amateur rockets and radio balloons in France.

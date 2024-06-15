@@ -1,0 +1,1 @@
+North Korean Diplomatic FSK link, teletype radio diplomatic usage. Also known as DPRK-FSK, KRE-FSK, DPRK-ARQ, and KEGURI. Has a FEC stream mode and a burst ARQ mode.

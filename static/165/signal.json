@@ -1,0 +1,48 @@
+{
+    "signal": {
+        "name": "Emergency Alert System (EAS)",
+        "url": "https://www.sigidwiki.com/wiki/Emergency_Alert_System_(EAS)"
+    },
+    "category": [
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 162400000,
+            "description": ""
+        },
+        {
+            "value": 162550000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 5000,
+            "description": ""
+        },
+        {
+            "value": 30000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "FSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "NFM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "United States",
+            "description": ""
+        }
+    ]
+}

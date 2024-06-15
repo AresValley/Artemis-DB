@@ -1,0 +1,1 @@
+Global Maritime Distress and Safety System's Digital Selective Calling (GMDSS-DSC) is a maritime communication protocol intended to initiate ship-to-ship, ship-to-shore and shore-to-ship radiotelephone and MF/HF radiotelex calls.

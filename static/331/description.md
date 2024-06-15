@@ -1,0 +1,1 @@
+A digital link to transmit images and other data collected from the satellite at a high resolution.

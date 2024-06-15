@@ -1,0 +1,1 @@
+CIS-128 is an OFDM mode that uses 128 channels, with one “off” channel in the center, so the signal is divided into two 64 channel parts.

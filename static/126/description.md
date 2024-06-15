@@ -1,0 +1,1 @@
+DCF77 is a German longwave time signal radio station based at 77.5 kHz. DCF uses an AM modulated carrier and phase modulation sidebands to transmit its time signal.

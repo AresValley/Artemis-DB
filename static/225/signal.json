@@ -1,0 +1,48 @@
+{
+    "signal": {
+        "name": "High Resolution Data (HRD)",
+        "url": "https://www.sigidwiki.com/wiki/High_Resolution_Data_(HRD)"
+    },
+    "category": [
+        "Satellite"
+    ],
+    "frequency": [
+        {
+            "value": 7812000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 25000000,
+            "description": ""
+        },
+        {
+            "value": 35000000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "QPSK",
+            "description": ""
+        },
+        {
+            "value": "OQPSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "RAW",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

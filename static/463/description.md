@@ -1,0 +1,1 @@
+TETRA is a professional mobile radio and two-way transceiver (walkie-talkie) specification

@@ -1,0 +1,1 @@
+CW Morse Code is the simplest form of transmission found virtually all over the RF bands for a variety of uses. The most common use of this is for Call-sign Beacons by both Amateur and Military operators.

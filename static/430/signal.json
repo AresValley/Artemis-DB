@@ -1,0 +1,65 @@
+{
+    "signal": {
+        "name": "STANAG 4481",
+        "url": "https://www.sigidwiki.com/wiki/STANAG_4481"
+    },
+    "category": [
+        "Military",
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 2815000,
+            "description": ""
+        },
+        {
+            "value": 3046000,
+            "description": ""
+        },
+        {
+            "value": 11213000,
+            "description": ""
+        },
+        {
+            "value": 18016000,
+            "description": ""
+        },
+        {
+            "value": 8986000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 1500,
+            "description": ""
+        },
+        {
+            "value": 2750,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "FSK",
+            "description": ""
+        },
+        {
+            "value": "PSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

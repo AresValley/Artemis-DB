@@ -1,0 +1,45 @@
+{
+    "signal": {
+        "name": "NOAA Direct Sounder Broadcast (DSB)",
+        "url": "https://www.sigidwiki.com/wiki/NOAA_Direct_Sounder_Broadcast_(DSB)"
+    },
+    "category": [
+        "Digital",
+        "Satellite"
+    ],
+    "frequency": [
+        {
+            "value": 137350000,
+            "description": ""
+        },
+        {
+            "value": 137770000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 33500,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "PSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "NFM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

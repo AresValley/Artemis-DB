@@ -1,0 +1,1 @@
+One-way error-correcting broadcast system, used by one of Russian intelligence agencies for delivery of messages to their operatives abroad on fixed schedules.

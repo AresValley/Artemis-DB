@@ -1,0 +1,1 @@
+CLOVER 2000 is an upgrade to CLOVER-II, a digital data protocol developed by Ray Petit and HAL Communications. Sometimes referred to as XCLOVER or 8 Tone CLOVER.

@@ -1,0 +1,1 @@
+FM NBTV is a method to send moving images in a very narrow bandwidth (maximum 3 KHz)

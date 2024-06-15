@@ -1,0 +1,1 @@
+RF interference from nearby induction cooker can sometimes be mistaken for a real LF or VLF transmission.

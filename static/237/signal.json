@@ -1,0 +1,57 @@
+{
+    "signal": {
+        "name": "ISCAT",
+        "url": "https://www.sigidwiki.com/wiki/ISCAT"
+    },
+    "category": [
+        "Amateur Radio",
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 50000000,
+            "description": ""
+        },
+        {
+            "value": 54000000,
+            "description": ""
+        },
+        {
+            "value": 144000000,
+            "description": ""
+        },
+        {
+            "value": 148000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 904,
+            "description": ""
+        },
+        {
+            "value": 1809,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "MFSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

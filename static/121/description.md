@@ -1,0 +1,1 @@
+"Speed control by beacons" railway safety system used in France and the Channel Tunnel line in the UK.

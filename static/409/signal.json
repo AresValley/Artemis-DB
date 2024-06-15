@@ -1,0 +1,45 @@
+{
+    "signal": {
+        "name": "Russian Diplo VFT PSK 64Bd",
+        "url": "https://www.sigidwiki.com/wiki/Russian_Diplo_VFT_PSK_64Bd"
+    },
+    "category": [
+        "Digital",
+        "Numbers Stations"
+    ],
+    "frequency": [
+        {
+            "value": 4022000,
+            "description": ""
+        },
+        {
+            "value": 23131000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 2500,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "PSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Russia",
+            "description": ""
+        }
+    ]
+}

@@ -1,0 +1,1 @@
+Schneider Trio E-Series Modems are industrial modems used for SCADA, telemetry, and other ASCII-based messaging applications.

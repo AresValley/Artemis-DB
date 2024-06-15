@@ -1,0 +1,50 @@
+{
+    "signal": {
+        "name": "DCF77",
+        "url": "https://www.sigidwiki.com/wiki/DCF77"
+    },
+    "category": [
+        "Digital",
+        "Time"
+    ],
+    "frequency": [
+        {
+            "value": 77500,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 1300,
+            "description": ""
+        }
+    ],
+    "acf": [
+        {
+            "value": 1000.0,
+            "description": "Main"
+        }
+    ],
+    "modulation": [
+        {
+            "value": "AM",
+            "description": ""
+        },
+        {
+            "value": "PSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Germany",
+            "description": ""
+        }
+    ]
+}

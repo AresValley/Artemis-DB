@@ -1,0 +1,1 @@
+MOBITEX is an OSI based open standard, national public access wireless packet-switched data network.

@@ -1,0 +1,48 @@
+{
+    "signal": {
+        "name": "EFR Teleswitch",
+        "url": "https://www.sigidwiki.com/wiki/EFR_Teleswitch"
+    },
+    "category": [
+        "Utility"
+    ],
+    "frequency": [
+        {
+            "value": 135600,
+            "description": ""
+        },
+        {
+            "value": 139900,
+            "description": ""
+        },
+        {
+            "value": 129100,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 1000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "FSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Europe",
+            "description": ""
+        }
+    ]
+}

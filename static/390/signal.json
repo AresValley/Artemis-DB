@@ -1,0 +1,40 @@
+{
+    "signal": {
+        "name": "RBU",
+        "url": "https://www.sigidwiki.com/wiki/RBU"
+    },
+    "category": [
+        "Time"
+    ],
+    "frequency": [
+        {
+            "value": 66660,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 650,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "FSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Russia",
+            "description": ""
+        }
+    ]
+}

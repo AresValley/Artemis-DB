@@ -1,0 +1,1 @@
+Enigma Designation XPA2, also known as MFSK-16, CIS MFSK-14, and CIS MFSK-16, is a 14-tone MFSK signal said to have origin from Russian Intelligence and Foreign Ministry stations.

@@ -1,0 +1,57 @@
+{
+    "signal": {
+        "name": "PAX",
+        "url": "https://www.sigidwiki.com/wiki/PAX"
+    },
+    "category": [
+        "Amateur Radio",
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 3590000,
+            "description": ""
+        },
+        {
+            "value": 7042000,
+            "description": ""
+        },
+        {
+            "value": 10148000,
+            "description": ""
+        },
+        {
+            "value": 14075000,
+            "description": ""
+        },
+        {
+            "value": 144620000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 500,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "MFSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

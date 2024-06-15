@@ -1,0 +1,32 @@
+{
+    "signal": {
+        "name": "Pulse Coded Modulated (PCM) RC Toy",
+        "url": "https://www.sigidwiki.com/wiki/Pulse_Coded_Modulated_(PCM)_RC_Toy"
+    },
+    "category": [],
+    "frequency": [
+        {
+            "value": 27145000,
+            "description": ""
+        },
+        {
+            "value": 49000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "PCM",
+            "description": ""
+        }
+    ],
+    "mode": [],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

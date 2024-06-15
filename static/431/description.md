@@ -1,0 +1,1 @@
+STANAG 4529 a modification of STANAG 4285 to deliver data and voice in 1240 Hz of bandwidth at rates of up to 1800 bps.

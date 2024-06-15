@@ -1,0 +1,1 @@
+PAX and PAX2 are developed by Patrick Lindecker F6CTE in 2005, and was derived from Olivia. It utilizes the AX.25 protocol that PACKET uses, and had a minimum SNR of -10dB. Can transmit APRS frames.

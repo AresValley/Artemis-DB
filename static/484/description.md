@@ -1,0 +1,1 @@
+A 48k or 24k baud OQPSK signal that is strongly suspected (through numerous circumstancial pieces of evidence) to be either an experimental or active P2P RF link between financial market data centers, used for High Frequency Trading (HFT) and other latency-sensitive market activities.

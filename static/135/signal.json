@@ -1,0 +1,49 @@
+{
+    "signal": {
+        "name": "Differential Global Positioning System (DGPS)",
+        "url": "https://www.sigidwiki.com/wiki/Differential_Global_Positioning_System_(DGPS)"
+    },
+    "category": [
+        "Navigation",
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 283500,
+            "description": ""
+        },
+        {
+            "value": 2950000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 150,
+            "description": ""
+        },
+        {
+            "value": 250,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "MSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

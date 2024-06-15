@@ -1,0 +1,1 @@
+'Ghadir', is an Iranian over the horizon radar, part of Iran's Sepehr Phased Radar System.

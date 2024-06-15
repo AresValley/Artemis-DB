@@ -1,0 +1,1 @@
+This transmitter is found within the UHF FMRS bands, most likely used at airshows to give off barometric pressure, height in altitude represented by a voice, including various tones representing how high/how low the model plane is in the air.

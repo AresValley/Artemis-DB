@@ -1,0 +1,1 @@
+ARQ-E, also known as ARQ-1000 Duplex or ARQ-1000D, is a synchronous full-duplex ARQ system. ARQ-E3 is a variant that uses a different alphabet encoding. Mainly used by French Military Forces. Stations commonly idled for hours on end.

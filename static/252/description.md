@@ -1,0 +1,1 @@
+This is the L-band uplink/downlink for the Low Earth Orbit Iridium Satellite Constellation. This system is used for satellite based phone calls.

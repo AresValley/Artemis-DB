@@ -1,0 +1,1 @@
+Thales Système 3000 is a HF modem capable of many different modes of transmission. It has a unique preamble and format to it's signals.

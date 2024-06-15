@@ -1,0 +1,1 @@
+Meteosat WEFAX is a WEFAX used to transmit satellite images via Meteosat Satellites. WEFAX was introduced with the first Meteosat in 1977.

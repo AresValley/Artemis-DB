@@ -1,0 +1,27 @@
+{
+    "signal": {
+        "name": "Adam H Image Capable Digital Mode (AHICDM)",
+        "url": "https://www.sigidwiki.com/wiki/Adam_H_Image_Capable_Digital_Mode_(AHICDM)"
+    },
+    "category": [
+        "Amateur Radio",
+        "Utility",
+        "Digital"
+    ],
+    "frequency": [],
+    "bandwidth": [],
+    "acf": [],
+    "modulation": [],
+    "mode": [
+        {
+            "value": "Digital",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "United Kingdom",
+            "description": ""
+        }
+    ]
+}

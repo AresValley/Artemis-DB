@@ -1,0 +1,1 @@
+This coded signal was sent by BMW Car-Key. It is used to open and lock bimmer doors.

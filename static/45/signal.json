@@ -1,0 +1,49 @@
+{
+    "signal": {
+        "name": "Automatic Dependent Surveillance-Broadcast (ADS-B)",
+        "url": "https://www.sigidwiki.com/wiki/Automatic_Dependent_Surveillance-Broadcast_(ADS-B)"
+    },
+    "category": [
+        "Aviation",
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 1090000000,
+            "description": ""
+        },
+        {
+            "value": 1030000000,
+            "description": ""
+        },
+        {
+            "value": 978000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 2000000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "PPM",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "RAW",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

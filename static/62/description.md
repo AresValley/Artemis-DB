@@ -1,0 +1,1 @@
+Bluetooth is a wireless technology standard for exchanging data over short distances from fixed and mobile devices and building personal area networks (PANs). Invented by telecom vendor Ericsson in 1994, it was initially conceived as a wireless alternative to RS-232 data cables. It can connect several devices, overcoming synchronization problems.

@@ -1,0 +1,1 @@
+This is the proprietary HF Data Signal Protocol for the Rohde & Schwarz HF Modem GM2100.

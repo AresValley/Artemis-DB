@@ -1,0 +1,48 @@
+{
+    "signal": {
+        "name": "Pursuit Wireless Car Key",
+        "url": "https://www.sigidwiki.com/wiki/Pursuit_Wireless_Car_Key"
+    },
+    "category": [
+        "Utility"
+    ],
+    "frequency": [
+        {
+            "value": 301500000,
+            "description": ""
+        },
+        {
+            "value": 302500000,
+            "description": ""
+        },
+        {
+            "value": 434000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 40000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "AM",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "AM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

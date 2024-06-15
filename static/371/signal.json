@@ -1,0 +1,42 @@
+{
+    "signal": {
+        "name": "Pager SSTV",
+        "url": "https://www.sigidwiki.com/wiki/Pager_SSTV"
+    },
+    "category": [],
+    "frequency": [
+        {
+            "value": 152,
+            "description": ""
+        },
+        {
+            "value": 450,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 12500,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "FSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "NFM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "United States",
+            "description": ""
+        }
+    ]
+}

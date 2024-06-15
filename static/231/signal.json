@@ -1,0 +1,41 @@
+{
+    "signal": {
+        "name": "ICARUS (International Cooperation for Animal Research Using Space)",
+        "url": "https://www.sigidwiki.com/wiki/ICARUS_(International_Cooperation_for_Animal_Research_Using_Space)"
+    },
+    "category": [
+        "Digital",
+        "Satellite"
+    ],
+    "frequency": [
+        {
+            "value": 468100000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 32000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "PSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "NFM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

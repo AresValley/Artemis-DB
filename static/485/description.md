@@ -1,0 +1,1 @@
+VARA HF is a sound-card mode used to exchange traffic (Mostly Winlink traffic) on the HF bands

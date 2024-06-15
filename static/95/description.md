@@ -1,0 +1,1 @@
+CIS-50-50 is very similar to CIS-36-50. The main difference is in the available baud rates and frequency shifts used.

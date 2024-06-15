@@ -1,0 +1,39 @@
+{
+    "signal": {
+        "name": "ICV",
+        "url": "https://www.sigidwiki.com/wiki/ICV"
+    },
+    "category": [
+        "Military"
+    ],
+    "frequency": [
+        {
+            "value": 20270,
+            "description": ""
+        },
+        {
+            "value": 20760,
+            "description": ""
+        }
+    ],
+    "bandwidth": [],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "MSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "CW",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Italy",
+            "description": ""
+        }
+    ]
+}

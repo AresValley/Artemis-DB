@@ -1,0 +1,1 @@
+The Modernised High Frequency Communications System (MHFCS) is an Australian Department of Defense HF System for their military communications network. Also known as AUS MIL ISB Modem, AUS MHFCS, and ADF HFCS.

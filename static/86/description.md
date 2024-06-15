@@ -1,0 +1,1 @@
+CIS-1280 is a OQPSK (Offset Quadrature Phase Shift-Keying) modulation data modem signal. Also known as Soviet Mil(MOD)/FAPSI/PTT system. These stations are recognizable in that they are all placed on .081 offsets from a kilohertz or half kilohertz point.

@@ -1,0 +1,1 @@
+Weather balloon telemetry data. The LORAN-C signal is mixed into the carrier.

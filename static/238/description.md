@@ -1,0 +1,1 @@
+Data returned from a consumer weather sensor using the AlectoV1 protocol.

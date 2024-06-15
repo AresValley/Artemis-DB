@@ -1,0 +1,45 @@
+{
+    "signal": {
+        "name": "Digital Audio Broadcasting (DAB)",
+        "url": "https://www.sigidwiki.com/wiki/Digital_Audio_Broadcasting_(DAB)"
+    },
+    "category": [
+        "Commercial",
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 174000000,
+            "description": ""
+        },
+        {
+            "value": 239000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 1536000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "OFDM",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "AM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

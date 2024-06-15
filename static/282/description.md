@@ -1,0 +1,1 @@
+Logic Trunked Radio, is an analog trunked radio format developed by EF Johnson Company.

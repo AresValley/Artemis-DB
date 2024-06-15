@@ -1,0 +1,36 @@
+{
+    "signal": {
+        "name": "Near Field Communication (NFC)",
+        "url": "https://www.sigidwiki.com/wiki/Near_Field_Communication_(NFC)"
+    },
+    "category": [
+        "Commercial",
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 13560000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 1700000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "ASK",
+            "description": ""
+        }
+    ],
+    "mode": [],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

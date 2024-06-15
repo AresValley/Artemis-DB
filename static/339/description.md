@@ -1,0 +1,1 @@
+NICAM is used to provide digital stereo audio alongside PAL video for television broadcasts.

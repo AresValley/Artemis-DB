@@ -1,0 +1,1 @@
+JTMS is a meteor scatter mode that uses MSK. JTMS behaves similarily to FSK441.

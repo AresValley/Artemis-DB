@@ -1,0 +1,57 @@
+{
+    "signal": {
+        "name": "Datawell Buoy HF Link",
+        "url": "https://www.sigidwiki.com/wiki/Datawell_Buoy_HF_Link"
+    },
+    "category": [
+        "Marine",
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 25500000,
+            "description": ""
+        },
+        {
+            "value": 35500000,
+            "description": ""
+        },
+        {
+            "value": 45000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 200,
+            "description": ""
+        },
+        {
+            "value": 400,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "FSK",
+            "description": ""
+        },
+        {
+            "value": "MFSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

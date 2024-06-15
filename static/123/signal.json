@@ -1,0 +1,77 @@
+{
+    "signal": {
+        "name": "Cuban Jammer",
+        "url": "https://www.sigidwiki.com/wiki/Cuban_Jammer"
+    },
+    "category": [],
+    "frequency": [
+        {
+            "value": 7335000,
+            "description": ""
+        },
+        {
+            "value": 7355000,
+            "description": ""
+        },
+        {
+            "value": 7375000,
+            "description": ""
+        },
+        {
+            "value": 7435000,
+            "description": ""
+        },
+        {
+            "value": 9490000,
+            "description": ""
+        },
+        {
+            "value": 9565000,
+            "description": ""
+        },
+        {
+            "value": 9955000,
+            "description": ""
+        },
+        {
+            "value": 11860000,
+            "description": ""
+        },
+        {
+            "value": 11930000,
+            "description": ""
+        },
+        {
+            "value": 13820000,
+            "description": ""
+        },
+        {
+            "value": 5980000,
+            "description": ""
+        },
+        {
+            "value": 6030000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 10000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [],
+    "mode": [
+        {
+            "value": "DSB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Cuba",
+            "description": ""
+        }
+    ]
+}

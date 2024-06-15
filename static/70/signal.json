@@ -1,0 +1,45 @@
+{
+    "signal": {
+        "name": "CDMA420",
+        "url": "https://www.sigidwiki.com/wiki/CDMA420"
+    },
+    "category": [
+        "Commercial",
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 410000000,
+            "description": ""
+        },
+        {
+            "value": 425000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 2500000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "QPSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "AM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Poland",
+            "description": ""
+        }
+    ]
+}

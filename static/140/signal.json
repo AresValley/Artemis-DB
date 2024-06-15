@@ -1,0 +1,49 @@
+{
+    "signal": {
+        "name": "Digital Enhanced Cordless Telecommunications (DECT)",
+        "url": "https://www.sigidwiki.com/wiki/Digital_Enhanced_Cordless_Telecommunications_(DECT)"
+    },
+    "category": [
+        "Commercial"
+    ],
+    "frequency": [
+        {
+            "value": 1880000000,
+            "description": ""
+        },
+        {
+            "value": 1900000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 1600000,
+            "description": ""
+        }
+    ],
+    "acf": [
+        {
+            "value": 10.0,
+            "description": "Main"
+        }
+    ],
+    "modulation": [
+        {
+            "value": "GFSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

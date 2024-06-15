@@ -1,0 +1,48 @@
+{
+    "signal": {
+        "name": "Inmarsat-D(D+) Downlink",
+        "url": "https://www.sigidwiki.com/wiki/Inmarsat-D(D%2B)_Downlink"
+    },
+    "category": [
+        "Marine",
+        "Commercial",
+        "Utility",
+        "Digital",
+        "Satellite"
+    ],
+    "frequency": [
+        {
+            "value": 1525000000,
+            "description": ""
+        },
+        {
+            "value": 1559000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 640,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "MFSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

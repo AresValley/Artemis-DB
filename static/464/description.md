@@ -1,0 +1,1 @@
+Tetrapol is a digital professional mobile radio standard for digital voice and data communication used by public safety and military throughout Europe. Tetrapol was originally developed by Matra Communication (Currently part of EADS/Airbus Group) in France in the 1980's.

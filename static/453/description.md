@@ -1,0 +1,1 @@
+SuperDARN (Super Dual Auroral Radar Network) is an international radar network used for scientific purposes. The network is used to study plasma convection in the upper atmosphere.

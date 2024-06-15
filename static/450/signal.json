@@ -1,0 +1,47 @@
+{
+    "signal": {
+        "name": "Sonne",
+        "url": "https://www.sigidwiki.com/wiki/Sonne"
+    },
+    "category": [
+        "Aviation",
+        "Marine",
+        "Navigation",
+        "Analogue"
+    ],
+    "frequency": [
+        {
+            "value": 250000,
+            "description": ""
+        },
+        {
+            "value": 350000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 1,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "OOK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

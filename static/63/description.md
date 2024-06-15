@@ -1,0 +1,1 @@
+Proprietary satellite network owned and operated by Inmarsat that provides cellular 3G equivalent data and voice services to subscribers.

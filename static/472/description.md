@@ -1,0 +1,1 @@
+Channel marker of the Russian military station nicknamed "The Goose", for its distinct channel marker sound. Uses 3243 kHz in nighttime, and 4310kHz in daytime.

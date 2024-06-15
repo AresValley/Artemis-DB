@@ -1,0 +1,45 @@
+{
+    "signal": {
+        "name": "VHF Data Link - Mode 2 (VDL-M2)",
+        "url": "https://www.sigidwiki.com/wiki/VHF_Data_Link_-_Mode_2_(VDL-M2)"
+    },
+    "category": [
+        "Aviation",
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 117975000,
+            "description": ""
+        },
+        {
+            "value": 137000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 25000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "PSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "RAW",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

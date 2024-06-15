@@ -1,0 +1,1 @@
+Switch-mode power supplies, used in many types of electronic devices, can generate RF noise on wide frequency ranges.

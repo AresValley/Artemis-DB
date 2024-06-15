@@ -1,0 +1,1 @@
+CIS-36-50, also known as BEE-36 and T-600, is an FSK modem used by the Russian Navy.

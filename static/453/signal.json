@@ -1,0 +1,39 @@
+{
+    "signal": {
+        "name": "SuperDARN (Super Dual Auroral Radar Network)",
+        "url": "https://www.sigidwiki.com/wiki/SuperDARN_(Super_Dual_Auroral_Radar_Network)"
+    },
+    "category": [
+        "Radar"
+    ],
+    "frequency": [
+        {
+            "value": 8000000,
+            "description": ""
+        },
+        {
+            "value": 20000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 6000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

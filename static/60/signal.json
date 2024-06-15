@@ -1,0 +1,52 @@
+{
+    "signal": {
+        "name": "Binary Interchange of Information and Signaling (BIIS)",
+        "url": "https://www.sigidwiki.com/wiki/Binary_Interchange_of_Information_and_Signaling_(BIIS)"
+    },
+    "category": [
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 446000000,
+            "description": ""
+        },
+        {
+            "value": 800000000,
+            "description": ""
+        },
+        {
+            "value": 150000000,
+            "description": ""
+        },
+        {
+            "value": 35000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 6000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "FFSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "NFM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Europe",
+            "description": ""
+        }
+    ]
+}

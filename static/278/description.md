@@ -1,0 +1,1 @@
+This is the UHF band variant of Link-11, which is transmitted on a FM carrier. The FM-demodulated baseband is identical to the HF Link-11 waveform.

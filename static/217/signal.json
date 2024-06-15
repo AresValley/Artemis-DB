@@ -1,0 +1,44 @@
+{
+    "signal": {
+        "name": "HNG-FEC",
+        "url": "https://www.sigidwiki.com/wiki/HNG-FEC"
+    },
+    "category": [
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 2400000,
+            "description": ""
+        },
+        {
+            "value": 24000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 600,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "FSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Hungary",
+            "description": ""
+        }
+    ]
+}

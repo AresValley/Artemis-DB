@@ -1,0 +1,58 @@
+{
+    "signal": {
+        "name": "Motorola ASTRO 25 HPD Air Interface",
+        "url": "https://www.sigidwiki.com/wiki/Motorola_ASTRO_25_HPD_Air_Interface"
+    },
+    "category": [
+        "Trunked Radio",
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 769000000,
+            "description": ""
+        },
+        {
+            "value": 775000000,
+            "description": ""
+        },
+        {
+            "value": 851000000,
+            "description": ""
+        },
+        {
+            "value": 869000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 17700,
+            "description": ""
+        }
+    ],
+    "acf": [
+        {
+            "value": 120.0,
+            "description": "Main"
+        }
+    ],
+    "modulation": [
+        {
+            "value": "QAM",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "RAW",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "United States",
+            "description": ""
+        }
+    ]
+}

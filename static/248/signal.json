@@ -1,0 +1,48 @@
+{
+    "signal": {
+        "name": "Integrated Services Digital Broadcasting\u2014Terrestrial (ISDB-T)",
+        "url": "https://www.sigidwiki.com/wiki/Integrated_Services_Digital_Broadcasting%E2%80%94Terrestrial_(ISDB-T)"
+    },
+    "category": [
+        "Commercial"
+    ],
+    "frequency": [
+        {
+            "value": 470000000,
+            "description": ""
+        },
+        {
+            "value": 770000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 6000000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "QPSK",
+            "description": ""
+        },
+        {
+            "value": "64QAM",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "RAW",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

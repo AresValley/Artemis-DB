@@ -1,0 +1,1 @@
+ALE-400 is an amateur version of the 2G ALE standard. It is adapted to the demands of amateur radio emergency traffic handling.

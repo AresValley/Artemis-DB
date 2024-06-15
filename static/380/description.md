@@ -1,0 +1,1 @@
+Primex Wireless Time Sync is a VHF Time Synchronization signal used in Primex Wireless's XR Series.

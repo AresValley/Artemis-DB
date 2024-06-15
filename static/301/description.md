@@ -1,0 +1,1 @@
+Monitor-2 is a Russian 3u Cubesat used for cosmic flare observation. It is most likely only active when above Russia.

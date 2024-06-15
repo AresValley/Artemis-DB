@@ -1,0 +1,45 @@
+{
+    "signal": {
+        "name": "Japan Military 8-Channel FSK",
+        "url": "https://www.sigidwiki.com/wiki/Japan_Military_8-Channel_FSK"
+    },
+    "category": [
+        "Military",
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 16553500,
+            "description": ""
+        },
+        {
+            "value": 4295000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 2400,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "FSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Japan",
+            "description": ""
+        }
+    ]
+}

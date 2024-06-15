@@ -1,0 +1,89 @@
+{
+    "signal": {
+        "name": "FT8",
+        "url": "https://www.sigidwiki.com/wiki/FT8"
+    },
+    "category": [
+        "Amateur Radio",
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 3573000,
+            "description": ""
+        },
+        {
+            "value": 7074000,
+            "description": ""
+        },
+        {
+            "value": 10136000,
+            "description": ""
+        },
+        {
+            "value": 14074000,
+            "description": ""
+        },
+        {
+            "value": 24915000,
+            "description": ""
+        },
+        {
+            "value": 50323000,
+            "description": ""
+        },
+        {
+            "value": 70100000,
+            "description": ""
+        },
+        {
+            "value": 144174000,
+            "description": ""
+        },
+        {
+            "value": 1840000,
+            "description": ""
+        },
+        {
+            "value": 18100000,
+            "description": ""
+        },
+        {
+            "value": 21074000,
+            "description": ""
+        },
+        {
+            "value": 28074000,
+            "description": ""
+        },
+        {
+            "value": 50313000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 50,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "GFSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

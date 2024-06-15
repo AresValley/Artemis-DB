@@ -1,0 +1,1 @@
+MIL-STD-110-342 was a US Dept. of Defense standard for a 16 channel VFT teletype transmission. This mode was officially cancelled as of December 5th, 1995.

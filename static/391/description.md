@@ -1,0 +1,1 @@
+RDL is a Russian VLF station located in Krasnodar. It is one of the few VLF stations that changes modes during routine transmissions.

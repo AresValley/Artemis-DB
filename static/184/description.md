@@ -1,0 +1,1 @@
+FreeDV Coherent PSK (Also known as FreeDV 700) is a robust Digital Voice mode developed by David Rowe for his FreeDV Digital Voice Software.

@@ -1,0 +1,1 @@
+3G ALE (ARCS) is the next generation of ALE (Designated by MIL-STD-188-141B (Appendix C)). Also known as STANAG 4538, although MIL 188-141 does not provide Fast LSU.

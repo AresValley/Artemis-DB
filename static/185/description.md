@@ -1,0 +1,1 @@
+FreeDV plus Video (also known as FreeDV+) combines analog FM multicarrier Narrow Band TV (NBTV) by Con Wassilieff, ZL2AFP, and FreeDV digital voice by David Rowe, VK5DGR.

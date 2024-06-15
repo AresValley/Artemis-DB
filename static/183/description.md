@@ -1,0 +1,1 @@
+Signalling protocol developed for Federal Signal's line of civil defense warning siren systems. This signal is used for activation and telemetry of all units in a network.

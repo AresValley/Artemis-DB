@@ -1,0 +1,1 @@
+PSK is a digital teletype mode based on Phase-Shift Keying (PSK) modulation. The most popular amateur radio PSK mode is PSK 31.

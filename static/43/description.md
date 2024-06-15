@@ -1,0 +1,1 @@
+This is an example of the Autocab Media Data Terminals used by cab companies all over the world.

@@ -1,0 +1,1 @@
+Multitone Paging signal, developed by Multitone Electronics in the UK. Uses similar coding to POCSAG but the headers are different and only work with Multitone's range of paging products

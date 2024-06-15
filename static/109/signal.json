@@ -1,0 +1,57 @@
+{
+    "signal": {
+        "name": "China digital radio (CDR)",
+        "url": "https://www.sigidwiki.com/wiki/China_digital_radio_(CDR)"
+    },
+    "category": [
+        "Commercial",
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 106100000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 100000,
+            "description": ""
+        },
+        {
+            "value": 200000,
+            "description": ""
+        },
+        {
+            "value": 300000,
+            "description": ""
+        },
+        {
+            "value": 400000,
+            "description": ""
+        },
+        {
+            "value": 500000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "OFDM",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "China",
+            "description": ""
+        }
+    ]
+}

@@ -1,0 +1,1 @@
+OPERA Ad-Hoc Data/Beacon. The system is unique in that utilizes a serial data stream and Manchester coding, its therefore impossible to lose lock and its extremely robust in disturbed paths and heavy static.

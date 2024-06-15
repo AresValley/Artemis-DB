@@ -1,0 +1,1 @@
+Driftnet Radio Buoys are extensively used by fishing boats operating in open seas and oceans for collecting long fishing lines or fishing nets, with the assistance of a radio direction finder

@@ -1,0 +1,1 @@
+A variant of POCSAG/FLEX with audio FSK modulation based off of the bell 202 tones. Typically found as uplinks/downlinks to pager network transmitters.

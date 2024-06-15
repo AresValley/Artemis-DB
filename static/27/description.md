@@ -1,0 +1,1 @@
+ARQ6-90, also known as ARQ-6-90 and ARQ-6/90, is a 6-character block simplex ARQ system formerly used by French and Italian diplomatic services exchange of teletype-data. It is no longer used or seen today.

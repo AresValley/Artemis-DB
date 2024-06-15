@@ -1,0 +1,1 @@
+Also known as AMOR and AMOR96. Synchronous FSK duplex teleprinter system with ARQ.

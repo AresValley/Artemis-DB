@@ -1,0 +1,1 @@
+Link-11 (Also known as ALLIGATOR, STANAG 5511, TADIL-A, MIL-STD-6011, and MIL-STD-188-203-1A) is a Tactical Data Link standard (formerly known as Tactical Digital Information Link (TADIL) used by NATO and the US Military for Maritime Tactical Data Exchange.

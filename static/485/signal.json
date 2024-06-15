@@ -1,0 +1,58 @@
+{
+    "signal": {
+        "name": "VARA HF",
+        "url": "https://www.sigidwiki.com/wiki/VARA_HF"
+    },
+    "category": [
+        "Amateur Radio",
+        "Utility",
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 54000000,
+            "description": ""
+        },
+        {
+            "value": 1800000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 2750,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "FSK",
+            "description": ""
+        },
+        {
+            "value": "BPSK",
+            "description": ""
+        },
+        {
+            "value": "4-8PSK",
+            "description": ""
+        },
+        {
+            "value": "16-32QAM",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

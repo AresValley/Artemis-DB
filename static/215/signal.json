@@ -1,0 +1,49 @@
+{
+    "signal": {
+        "name": "HDMI RFI Clock",
+        "url": "https://www.sigidwiki.com/wiki/HDMI_RFI_Clock"
+    },
+    "category": [
+        "Interfering"
+    ],
+    "frequency": [
+        {
+            "value": 148350000,
+            "description": ""
+        },
+        {
+            "value": 148500000,
+            "description": ""
+        },
+        {
+            "value": 296700000,
+            "description": ""
+        },
+        {
+            "value": 297000000,
+            "description": ""
+        },
+        {
+            "value": 445500000,
+            "description": ""
+        },
+        {
+            "value": 742,
+            "description": ""
+        },
+        {
+            "value": 445050000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [],
+    "acf": [],
+    "modulation": [],
+    "mode": [],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

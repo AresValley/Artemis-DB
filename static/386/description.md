@@ -1,0 +1,1 @@
+Q15X25, also known as NEWQPSK, is an experimental amateur radio packet modem developed by Pawel Jalocha SP9VRC. Q15X25 is a OFDM QPSK implementation of the AX.25 Packet protocol used in PACKET.

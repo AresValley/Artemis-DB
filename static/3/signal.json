@@ -1,0 +1,40 @@
+{
+    "signal": {
+        "name": "'Vario' Airplane Data Controller",
+        "url": "https://www.sigidwiki.com/wiki/%27Vario%27_Airplane_Data_Controller"
+    },
+    "category": [
+        "Aviation",
+        "Navigation"
+    ],
+    "frequency": [
+        {
+            "value": 462610000,
+            "description": ""
+        },
+        {
+            "value": 462725000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 6000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [],
+    "mode": [
+        {
+            "value": "NFM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "United States",
+            "description": ""
+        }
+    ]
+}

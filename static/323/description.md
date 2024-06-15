@@ -1,0 +1,1 @@
+MFSK is a family of multi-frequency shift keying digital transmission modes. MFSK-8 and MFSK-16 are two well-known amateur radio modes.

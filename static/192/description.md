@@ -1,0 +1,1 @@
+Telemetry signal sent from GOES 16, 17 and 18. GOES is a family of Geostationary Operational Environmental Satellite operated by the United States National Oceanic and Atmospheric Administration (NOAA).

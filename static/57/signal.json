@@ -1,0 +1,40 @@
+{
+    "signal": {
+        "name": "BPC",
+        "url": "https://www.sigidwiki.com/wiki/BPC"
+    },
+    "category": [
+        "Time"
+    ],
+    "frequency": [
+        {
+            "value": 68500,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 1,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "AM",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "China",
+            "description": ""
+        }
+    ]
+}

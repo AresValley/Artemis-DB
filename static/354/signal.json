@@ -1,0 +1,51 @@
+{
+    "signal": {
+        "name": "OrbComm Mobile Telephony",
+        "url": "https://www.sigidwiki.com/wiki/OrbComm_Mobile_Telephony"
+    },
+    "category": [
+        "Satellite"
+    ],
+    "frequency": [
+        {
+            "value": 137440000,
+            "description": ""
+        },
+        {
+            "value": 137460000,
+            "description": ""
+        },
+        {
+            "value": 137200000,
+            "description": ""
+        },
+        {
+            "value": 137225000,
+            "description": ""
+        },
+        {
+            "value": 137250000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 15000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [],
+    "mode": [
+        {
+            "value": "NFM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

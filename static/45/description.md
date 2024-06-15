@@ -1,0 +1,1 @@
+ADS-B is used by aircraft as an alternative to secondary radar. It broadcasts GPS position (latitude, longitude), pressure altitude, callsign, as well as track and ground speed.

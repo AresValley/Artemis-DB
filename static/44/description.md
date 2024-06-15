@@ -1,0 +1,1 @@
+Automated Train Control System (ATCS), specifically ATCS Spec. 200, is a standardized communication system for railroads designed to ensure safety by monitoring locations of trains and locomotives, providing analysis and reporting, and automation of track warrants and similar orders.

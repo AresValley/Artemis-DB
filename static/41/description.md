@@ -1,0 +1,1 @@
+Data downlink from Aprizesat microsatellites. Aprizesat constellation consists of 12 Active satellites, These provide a worldwide M2M asset tracking service and relay AIS packets.

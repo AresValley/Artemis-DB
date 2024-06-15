@@ -1,0 +1,1 @@
+A type of radio navigation system used by aircraft. It is distinctive in that the center frequency is flanked by two FM waves.

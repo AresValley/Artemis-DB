@@ -1,0 +1,1 @@
+Radio signal used by MRI machines to excite protons and obtain their response.

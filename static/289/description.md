@@ -1,0 +1,1 @@
+Motorola's MDC-4800 is a data protocol that was used in ARDIS and DataTAC Networks as well as in MDT networks. RD-LAP was derived from this mode. Also known as Motorola Mobile Data Communications System (MODACOM)

@@ -1,0 +1,1 @@
+Thales SALAMANDRE (using HFXL waveform) uses up to 16 separate contiguous or not-contiguous narrowband HF channels for high datarate military and tactical communications. Operates on a modified STANAG-4539 platform.

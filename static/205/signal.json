@@ -1,0 +1,45 @@
+{
+    "signal": {
+        "name": "Golay Paging (GSC)",
+        "url": "https://www.sigidwiki.com/wiki/Golay_Paging_(GSC)"
+    },
+    "category": [
+        "Commercial",
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 932000000,
+            "description": ""
+        },
+        {
+            "value": 33000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 2600,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "FSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "NFM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

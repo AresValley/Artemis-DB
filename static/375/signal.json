@@ -1,0 +1,54 @@
+{
+    "signal": {
+        "name": "Polish Intelligence 100bd 625Hz FSK",
+        "url": "https://www.sigidwiki.com/wiki/Polish_Intelligence_100bd_625Hz_FSK"
+    },
+    "category": [
+        "Digital",
+        "Numbers Stations"
+    ],
+    "frequency": [
+        {
+            "value": 4000000,
+            "description": ""
+        },
+        {
+            "value": 20000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 3500,
+            "description": ""
+        }
+    ],
+    "acf": [
+        {
+            "value": 960.0,
+            "description": "Primary"
+        },
+        {
+            "value": 160.0,
+            "description": "Secondary"
+        }
+    ],
+    "modulation": [
+        {
+            "value": "FSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Poland",
+            "description": ""
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "signal": {
+        "name": "Kiwi",
+        "url": "https://www.sigidwiki.com/wiki/Kiwi"
+    },
+    "category": [
+        "Amateur Radio",
+        "Utility",
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 137950000,
+            "description": ""
+        },
+        {
+            "value": 138500000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 12500,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "FSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "NFM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "France",
+            "description": ""
+        }
+    ]
+}

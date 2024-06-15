@@ -1,0 +1,1 @@
+CIS-48 is an interesting data mode with a unique format. It uses a 4 DBPSK Preamble with a constant tone and changing OFDM modes as it transmits data. Origin is suspected to be in Russia.

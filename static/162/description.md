@@ -1,0 +1,1 @@
+Broadcasts the data from the GGAK-E cosmic ray detector onboard ELEKTRO-L geostationary weather satellites

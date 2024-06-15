@@ -1,0 +1,57 @@
+{
+    "signal": {
+        "name": "BR-6028",
+        "url": "https://www.sigidwiki.com/wiki/BR-6028"
+    },
+    "category": [
+        "Military",
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 13458200,
+            "description": ""
+        },
+        {
+            "value": 15937000,
+            "description": ""
+        },
+        {
+            "value": 5750000,
+            "description": ""
+        },
+        {
+            "value": 11010000,
+            "description": ""
+        },
+        {
+            "value": 8045000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 3100,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "FSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

@@ -1,0 +1,1 @@
+An efficient RTTY-like 4FSK mode that transmits binary data, used for amateur high altitude balloon telemetry. Developed by the Project Horus group.

@@ -1,0 +1,1 @@
+Motorola's ASTRO 25 High Performance Data Air Interface allows Motorola ASTRO 25 HPD modems to transfer data at up to 96 kbps over a 25 kHz channel in the 700 MHz or 800 MHz bands.

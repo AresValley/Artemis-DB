@@ -1,0 +1,1 @@
+CV-786 is a wideband FSK mode built in Rockwell-Collins MDM-2001 modems. Also known as TRC-75, as it was used in TRC-75 transceivers. A military-based Radio TeleTYpe mode.

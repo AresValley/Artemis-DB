@@ -1,0 +1,1 @@
+The Low Rate Picture Transmission (LRPT) is a digital transmission system, commonly transmitted by METEOR-M satellites, used to deliver weather images and data.

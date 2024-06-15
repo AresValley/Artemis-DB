@@ -1,0 +1,1 @@
+RUM-FEC, also known as ROU-FEC and SAU-FEC, is a FSK FEC system used by Romanian diplomatic services. This is no longer used today, replaced by MIL-STD 188-110 Serial.

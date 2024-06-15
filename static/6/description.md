@@ -1,0 +1,1 @@
+29B6, nicknamed 'Контейнер' (Kontayner), is a Russian over the horizon radar. It is currently very active in Europe. The radar uses 150 antenna masts with data transmission systems, transmitters and receivers, a power station, and control buildings. It can detect high-altitude and low-altitude aircraft and missiles at very long ranges.

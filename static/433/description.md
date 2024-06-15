@@ -1,0 +1,1 @@
+STANAG 5065 is defined as "Minimum Standards for Naval Low Frequency (LF) Shore-To-Ship Surface Broadcast Systems", with two primary protocols, FSK75 and MSK300.

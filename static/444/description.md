@@ -1,0 +1,1 @@
+Russian telemetry system, transmitted over the overhead power lines.

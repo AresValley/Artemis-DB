@@ -1,0 +1,1 @@
+UK AM Data System (UK-AMDS) was developed by BBC Research and Development in 1984 as a way to transmit low bitrate data on BBC Radio 4's LF AM carrier. Elements of this system were adopted into ETSI's AMSS.

@@ -1,0 +1,1 @@
+CCIR selcall consists of CCIR-1, CCIR-2, and PCCIR, which are 5-tone selcall modes for VHF/UHF radios. CCIR-1 and CCIR-2 only differ in the tone duration, and PCCIR only differs in the group, reset, and repeat tone frequencies.

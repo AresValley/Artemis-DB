@@ -1,0 +1,1 @@
+VISEL, also known as YUG-MIL 120.9 Bd, FEC-12, and YUG-MIL FEC, is a synchronous teleprinter system used by the former Yugoslav military. No longer active today.

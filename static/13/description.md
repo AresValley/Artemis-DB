@@ -1,0 +1,1 @@
+IEEE 802.11n-2009, commonly shortened to 802.11n, is a wireless-networking standard that uses multiple antennas to increase data rates. The Wi-Fi Alliance has also retroactively labeled the technology for the standard as Wi-Fi 4.

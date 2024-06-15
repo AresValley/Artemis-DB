@@ -1,0 +1,1 @@
+Russian OFDM HDR (High Data Rate) Modem. Has three main modes: CIS-45, CIS-60, and CIS-93, corresponding to the number of OFDM tones in the signal.

@@ -1,0 +1,1 @@
+Automatic Identification System (AIS) is used by ships to broadcast position and vessel information.

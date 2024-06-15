@@ -1,0 +1,39 @@
+{
+    "signal": {
+        "name": "Glenayre Paging Link",
+        "url": "https://www.sigidwiki.com/wiki/Glenayre_Paging_Link"
+    },
+    "category": [
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 512000000,
+            "description": ""
+        },
+        {
+            "value": 152000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "QAM",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "NFM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "United States",
+            "description": ""
+        }
+    ]
+}

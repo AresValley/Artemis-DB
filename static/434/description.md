@@ -1,0 +1,1 @@
+STP403 is a bus PIT system used to update digital displays at bus stops. STP403 was developed by French companies INEO and CESATEC.

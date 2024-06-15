@@ -1,0 +1,1 @@
+5G cellular, also known by 3GPP '5G' NR (new radio), etc. is a newly released cellular standard that allows for backwards compatibility with 4G LTE, and will allow for several gigabits of connection speeds, (up to 10-100Gb) per second. This is the 600 MHz downlink band for the new standard.

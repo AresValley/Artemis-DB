@@ -1,0 +1,1 @@
+RS92-KL and RS92-K are analog radiosondes built by Vaisala in Finland. These radiosondes are used for weather balloons.

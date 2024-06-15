@@ -1,0 +1,1 @@
+NATEL is a 5-tone selcall mode defined by Scandinavian National Telephone recommendations.

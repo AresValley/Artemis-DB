@@ -1,0 +1,46 @@
+{
+    "signal": {
+        "name": "Distress Radiobeacon (Analog)",
+        "url": "https://www.sigidwiki.com/wiki/Distress_Radiobeacon_(Analog)"
+    },
+    "category": [
+        "Aviation",
+        "Marine",
+        "Analogue"
+    ],
+    "frequency": [
+        {
+            "value": 121500000,
+            "description": ""
+        },
+        {
+            "value": 243000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 10000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "AM",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "AM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

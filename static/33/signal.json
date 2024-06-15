@@ -1,0 +1,41 @@
+{
+    "signal": {
+        "name": "Accurate positioning by Low Frequencies (ALF)",
+        "url": "https://www.sigidwiki.com/wiki/Accurate_positioning_by_Low_Frequencies_(ALF)"
+    },
+    "category": [
+        "Navigation",
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 123700,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 2100,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "PSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Germany",
+            "description": ""
+        }
+    ]
+}

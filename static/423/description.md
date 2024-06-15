@@ -1,0 +1,1 @@
+SNOTEL stations are a set of precipitation and other sensors spread across the mountains of the United States by the Department of Agriculture through the National Resources Conservation Service.

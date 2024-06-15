@@ -1,0 +1,1 @@
+JJY, also known as JJY-40 and JJY-60, is the call sign for a pair of longwave Time Signal stations in Japan.

@@ -1,0 +1,45 @@
+{
+    "signal": {
+        "name": "The Goose",
+        "url": "https://www.sigidwiki.com/wiki/The_Goose"
+    },
+    "category": [
+        "Military",
+        "Analogue"
+    ],
+    "frequency": [
+        {
+            "value": 3243000,
+            "description": ""
+        },
+        {
+            "value": 4310000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 3100,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "AM",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Russia",
+            "description": ""
+        }
+    ]
+}

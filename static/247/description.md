@@ -1,0 +1,1 @@
+iDEN is a TDMA-based digital wireless standard developed by Motorola. It is a type of trunked radio with cellular phone benefits.

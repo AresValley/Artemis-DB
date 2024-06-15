@@ -1,0 +1,57 @@
+{
+    "signal": {
+        "name": "PSK-AM",
+        "url": "https://www.sigidwiki.com/wiki/PSK-AM"
+    },
+    "category": [
+        "Amateur Radio",
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 14075000,
+            "description": ""
+        },
+        {
+            "value": 10148000,
+            "description": ""
+        },
+        {
+            "value": 144620000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 40,
+            "description": ""
+        },
+        {
+            "value": 110,
+            "description": ""
+        },
+        {
+            "value": 180,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "PSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

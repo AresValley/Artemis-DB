@@ -1,0 +1,56 @@
+{
+    "signal": {
+        "name": "Transit 5B-5",
+        "url": "https://www.sigidwiki.com/wiki/Transit_5B-5"
+    },
+    "category": [
+        "Navigation",
+        "Military",
+        "Analogue",
+        "Digital",
+        "Satellite"
+    ],
+    "frequency": [
+        {
+            "value": 136658000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 32000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "PCM",
+            "description": ""
+        },
+        {
+            "value": "PAM",
+            "description": ""
+        },
+        {
+            "value": "FM",
+            "description": ""
+        },
+        {
+            "value": "PM",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "WFM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

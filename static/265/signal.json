@@ -1,0 +1,40 @@
+{
+    "signal": {
+        "name": "Jim Creek (NLK)",
+        "url": "https://www.sigidwiki.com/wiki/Jim_Creek_(NLK)"
+    },
+    "category": [
+        "Military"
+    ],
+    "frequency": [
+        {
+            "value": 24800,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 300,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "MSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "CW",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "United States",
+            "description": ""
+        }
+    ]
+}

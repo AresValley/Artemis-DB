@@ -1,0 +1,1 @@
+AHICDM is a simple, slow and reliable modulation protocol that allows binary data in standard ASCII to be sent over audio.

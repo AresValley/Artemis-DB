@@ -1,0 +1,45 @@
+{
+    "signal": {
+        "name": "Near Instantaneous Companded Audio Multiplex (NICAM)",
+        "url": "https://www.sigidwiki.com/wiki/Near_Instantaneous_Companded_Audio_Multiplex_(NICAM)"
+    },
+    "category": [
+        "Commercial",
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 174000000,
+            "description": ""
+        },
+        {
+            "value": 700000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 400000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "PSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "RAW",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

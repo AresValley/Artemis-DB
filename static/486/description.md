@@ -1,0 +1,1 @@
+VDEW is a 5-tone selcall mode defined by the Vereinigung Deutscher Elektrizitaetswerke in Germany.

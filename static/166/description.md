@@ -1,0 +1,1 @@
+The Emergency Managers Weather Information Network (EMWIN) is a system for distributing a live stream of weather information in the United States. This is the VHF Repeater of the network.

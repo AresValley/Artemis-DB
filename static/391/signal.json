@@ -1,0 +1,39 @@
+{
+    "signal": {
+        "name": "RDL",
+        "url": "https://www.sigidwiki.com/wiki/RDL"
+    },
+    "category": [
+        "Military"
+    ],
+    "frequency": [
+        {
+            "value": 18100,
+            "description": ""
+        }
+    ],
+    "bandwidth": [],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "FSK",
+            "description": ""
+        },
+        {
+            "value": "CW-FSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "CW",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Russia",
+            "description": ""
+        }
+    ]
+}

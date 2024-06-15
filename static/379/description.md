@@ -1,0 +1,1 @@
+A Primary radar (PSR Primary Surveillance Radar) is a conventional radar sensor that illuminates a large portion of space with an electromagnetic wave and receives back the reflected waves from targets within that space.

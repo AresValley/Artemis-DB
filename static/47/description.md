@@ -1,0 +1,1 @@
+Automatic Link Establishment, 2G ALE (Official designation MIL-STD-188-141A and/or MIL-STD-188-141B (Appendix A)) is the current standardized method of establishing connections between radio operators. Also known as FED-STD 1045, FED-STD 1049, and STANAG 5066.

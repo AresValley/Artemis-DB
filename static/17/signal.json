@@ -1,0 +1,40 @@
+{
+    "signal": {
+        "name": "AKKORD-SS-PD",
+        "url": "https://www.sigidwiki.com/wiki/AKKORD-SS-PD"
+    },
+    "category": [
+        "Military"
+    ],
+    "frequency": [
+        {
+            "value": 7051000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 1200,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "MSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Russia",
+            "description": ""
+        }
+    ]
+}

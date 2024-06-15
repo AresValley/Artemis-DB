@@ -1,0 +1,1 @@
+LoRa (Long Range) is a proprietary low-power wide-area network modulation technique.

@@ -1,0 +1,1 @@
+A variant of the NOAA HRPT signal, which has a different data structure and better low-signal handling characteristics.

@@ -1,0 +1,1 @@
+One Beep, Two Beeps is a nickname given to a signal emitted by the Norwegian Navy communications center in Bodø

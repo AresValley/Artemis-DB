@@ -1,0 +1,1 @@
+CTCSS, also known as Private Line and Channel Guard, is a low continuous tone transmitted on NFM voice transmissions that is used to squelch and manage transmissions on a given frequency.

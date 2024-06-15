@@ -1,0 +1,65 @@
+{
+    "signal": {
+        "name": "THOR",
+        "url": "https://www.sigidwiki.com/wiki/THOR"
+    },
+    "category": [
+        "Amateur Radio",
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 3000000,
+            "description": ""
+        },
+        {
+            "value": 30000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 173,
+            "description": ""
+        },
+        {
+            "value": 244,
+            "description": ""
+        },
+        {
+            "value": 346,
+            "description": ""
+        },
+        {
+            "value": 262,
+            "description": ""
+        },
+        {
+            "value": 355,
+            "description": ""
+        },
+        {
+            "value": 524,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "IFK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

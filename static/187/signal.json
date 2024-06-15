@@ -1,0 +1,28 @@
+{
+    "signal": {
+        "name": "Friedland Libra+ 48249SL wireless doorbell",
+        "url": "https://www.sigidwiki.com/wiki/Friedland_Libra%2B_48249SL_wireless_doorbell"
+    },
+    "category": [],
+    "frequency": [
+        {
+            "value": 868000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "FSK",
+            "description": ""
+        }
+    ],
+    "mode": [],
+    "location": [
+        {
+            "value": "Finland",
+            "description": ""
+        }
+    ]
+}

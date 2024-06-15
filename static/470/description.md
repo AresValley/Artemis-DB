@@ -1,0 +1,1 @@
+Channel marker of a Russian military station nicknamed "The Alarm". "The Alarm" is a Russian military commandment network serving the Western Military District. So far, apart from test counts, it has not been heard with any actual traffic.

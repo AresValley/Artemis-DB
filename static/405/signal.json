@@ -1,0 +1,65 @@
+{
+    "signal": {
+        "name": "ReFLEX",
+        "url": "https://www.sigidwiki.com/wiki/ReFLEX"
+    },
+    "category": [
+        "Commercial",
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 896000000,
+            "description": ""
+        },
+        {
+            "value": 902000000,
+            "description": ""
+        },
+        {
+            "value": 929000000,
+            "description": ""
+        },
+        {
+            "value": 932000000,
+            "description": ""
+        },
+        {
+            "value": 940000000,
+            "description": ""
+        },
+        {
+            "value": 941000000,
+            "description": ""
+        },
+        {
+            "value": 940210000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 40000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "FFSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "NFM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "United States",
+            "description": ""
+        }
+    ]
+}

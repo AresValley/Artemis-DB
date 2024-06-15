@@ -1,0 +1,49 @@
+{
+    "signal": {
+        "name": "Modernised High Frequency Communications System (MHFCS)",
+        "url": "https://www.sigidwiki.com/wiki/Modernised_High_Frequency_Communications_System_(MHFCS)"
+    },
+    "category": [
+        "Military",
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 27477500,
+            "description": ""
+        },
+        {
+            "value": 2009999,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 750,
+            "description": ""
+        },
+        {
+            "value": 400,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "FSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Australia",
+            "description": ""
+        }
+    ]
+}

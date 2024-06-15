@@ -1,0 +1,1 @@
+GBAS is an advanced aircraft navigation system that provides GPS corrections to aircraft on approach.

@@ -1,0 +1,1 @@
+The first generation of cellular mobile telecommunications, which used analogue NFM voice.

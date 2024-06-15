@@ -1,0 +1,1 @@
+Wideband telemetry signal from BlueWalker-3 experimental satellite.

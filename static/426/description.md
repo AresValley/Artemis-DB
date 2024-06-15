@@ -1,0 +1,1 @@
+Slow-scan television (SSTV) is a method for picture transmission used by amateur radio operators to transmit and receive images.

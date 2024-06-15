@@ -1,0 +1,1 @@
+CIS-3000 is an 8-PSK Data Modem protocol. Its source is traced to Russia. 3000 is for its 3000 Baud speed (maximum speed is technically 9000 bps).

@@ -1,0 +1,1 @@
+MODAT is a 7-tone Automatic Number Identification (ANI) status system used by handheld radios. It provides unit ID and emergency statuses to receiving radio sets when transmitted.

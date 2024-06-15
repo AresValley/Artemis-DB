@@ -1,0 +1,23 @@
+{
+    "signal": {
+        "name": "49MHz RC Car Controller",
+        "url": "https://www.sigidwiki.com/wiki/49MHz_RC_Car_Controller"
+    },
+    "category": [],
+    "frequency": [
+        {
+            "value": 49200000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [],
+    "acf": [],
+    "modulation": [],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": []
+}

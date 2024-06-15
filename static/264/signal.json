@@ -1,0 +1,73 @@
+{
+    "signal": {
+        "name": "Japanese Slot Machine (XSL)",
+        "url": "https://www.sigidwiki.com/wiki/Japanese_Slot_Machine_(XSL)"
+    },
+    "category": [
+        "Military",
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 4152500,
+            "description": ""
+        },
+        {
+            "value": 4231000,
+            "description": ""
+        },
+        {
+            "value": 4290500,
+            "description": ""
+        },
+        {
+            "value": 6249500,
+            "description": ""
+        },
+        {
+            "value": 6416500,
+            "description": ""
+        },
+        {
+            "value": 6444500,
+            "description": ""
+        },
+        {
+            "value": 8312500,
+            "description": ""
+        },
+        {
+            "value": 8587500,
+            "description": ""
+        },
+        {
+            "value": 8703000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 2000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "PSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Japan",
+            "description": ""
+        }
+    ]
+}

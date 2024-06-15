@@ -1,0 +1,1 @@
+CODAR (Coastal Ocean Dynamics Applications Radar) is used for near-surface ocean monitoring, such as waves and water current.

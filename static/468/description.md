@@ -1,0 +1,1 @@
+Voice Scrambling mode from Thales Système 3000 HF Modem. Has characteristic PSK and MFSK bursts at the beginning and end of a voice transmission.

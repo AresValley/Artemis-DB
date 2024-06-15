@@ -1,0 +1,1 @@
+Enigma designation XPB is a custom 16-tone MFSK mode said to have origin from Russian Intelligence and Foreign Ministry stations.

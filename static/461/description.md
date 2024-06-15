@@ -1,0 +1,1 @@
+TWINPLEX, also known as F7B4 and TWINPLEX-SITOR, was a diplex 4-FSK ARQ mode developed by Mackay Radio and Telegraph Company, based in New York City, in the early 1950's. TWINPLEX was used by Interpol, the United Nations, and other diplomatic services.

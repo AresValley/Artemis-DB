@@ -1,0 +1,1 @@
+ROS is an amateur radio teletype free running QSO mode designed for low signal/high noise conditions.

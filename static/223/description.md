@@ -1,0 +1,1 @@
+HFDVL (or HFD+VL) is an experimental mode developed by research groups from The University of Las Palmas de Gran Canaria and The Polytechnic University of Madrid. This mode is intended for military use in accordance with STANAG 5066 parameters.

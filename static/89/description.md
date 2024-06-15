@@ -1,0 +1,1 @@
+Russian AT-3104 Modem signal, 20-tone OFDM DQPSK signal. Has characteristic pilot tone located 3300 Hz from suppressed carrier. All 20 channels operate at 75 Bd.

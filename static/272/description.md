@@ -1,0 +1,1 @@
+LORAN (short for LOng RAnge Navigation) is a hyperbolic radio navigation system.

@@ -1,0 +1,1 @@
+The Q-MAC HF Modem is a military modem developed by Q-MAC (acquired by Barrett Communications). It uses OFDM with a BPSK sync channel in a gap of the signal.

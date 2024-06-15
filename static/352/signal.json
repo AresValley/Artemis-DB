@@ -1,0 +1,38 @@
+{
+    "signal": {
+        "name": "One Beep, Two Beeps",
+        "url": "https://www.sigidwiki.com/wiki/One_Beep,_Two_Beeps"
+    },
+    "category": [
+        "Military"
+    ],
+    "frequency": [
+        {
+            "value": 4508000,
+            "description": ""
+        },
+        {
+            "value": 4500000,
+            "description": ""
+        },
+        {
+            "value": 6429200,
+            "description": ""
+        }
+    ],
+    "bandwidth": [],
+    "acf": [],
+    "modulation": [],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Norway",
+            "description": ""
+        }
+    ]
+}

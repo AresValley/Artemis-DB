@@ -1,0 +1,1 @@
+OLIVIA is an amateur digital teletype mode designed by Pawel Jalocha SP9VRC in 2005. Its goal was to be effective even in poor propagation conditions.

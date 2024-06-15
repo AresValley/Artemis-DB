@@ -1,0 +1,45 @@
+{
+    "signal": {
+        "name": "End of Train Device (EOTD)",
+        "url": "https://www.sigidwiki.com/wiki/End_of_Train_Device_(EOTD)"
+    },
+    "category": [
+        "Utility",
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 452,
+            "description": ""
+        },
+        {
+            "value": 457937500,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 8000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "FSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "NFM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

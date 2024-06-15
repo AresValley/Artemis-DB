@@ -1,0 +1,74 @@
+{
+    "signal": {
+        "name": "5G 'New Radio' cellular network - Downlink",
+        "url": "https://www.sigidwiki.com/wiki/5G_%22New_Radio%22_cellular_network_-_Downlink"
+    },
+    "category": [],
+    "frequency": [
+        {
+            "value": 600000000,
+            "description": ""
+        },
+        {
+            "value": 2400000000,
+            "description": ""
+        },
+        {
+            "value": 20000000000,
+            "description": ""
+        },
+        {
+            "value": 50000000000,
+            "description": ""
+        },
+        {
+            "value": 770000000,
+            "description": ""
+        },
+        {
+            "value": 945000000,
+            "description": ""
+        },
+        {
+            "value": 3600000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 100000000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "UFMC",
+            "description": ""
+        },
+        {
+            "value": "FBMC",
+            "description": ""
+        },
+        {
+            "value": "GFDM",
+            "description": ""
+        },
+        {
+            "value": "OFDM",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "AM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

@@ -1,0 +1,1 @@
+Golay-Teleprinting Over Radio (G-TOR) is an FSK proprietary standard developed by Kantronics Inc. and is used by radio amateurs, military (Irish Air Corps/Navy, Mexican army) and governmental agencies (ICRC).

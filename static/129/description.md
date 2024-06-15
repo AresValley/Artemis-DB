@@ -1,0 +1,1 @@
+DUP-ARQ-2 (also known as ARTRAC II) is a further development of the DUP-ARQ system and the system characteristics are very similar. DUP-ARQ-2 allows transmission of ITA-2 (Baudot) or ITA-5 (ASCII) characters depending on the application.

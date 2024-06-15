@@ -1,0 +1,1 @@
+ARQ6-98, also known as ARQ-6-98 and ARQ-6/98, is a 6-character block simplex ARQ system formerly used by French and Italian diplomatic services for the exchange of teletype-data. It is no longer used or seen today.

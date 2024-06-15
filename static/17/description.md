@@ -1,0 +1,1 @@
+Akkord-SS-PD (АККОРД-СС-ПД), also known as “Akkord-165” is a Russian datalink used during the invasion of Ukraine. Akkord is a rather old family of datalink protocols, and Akkord-165 is the most recent version.
