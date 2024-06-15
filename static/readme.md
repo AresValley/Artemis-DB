@@ -42,7 +42,7 @@
 - [ ] 42	Aqua Direct Broadcast (DB)
 - [ ] 43	Autocab
 - [ ] 44	Automated Train Control System (ATCS)
-- [ ] 45	Automatic Dependent Surveillance-Broadcast (ADS-B)
+- [x] 45	Automatic Dependent Surveillance-Broadcast (ADS-B)
 - [ ] 46	Automatic Identification System (AIS)
 - [ ] 47	Automatic Link Establishment (2G ALE)
 - [ ] 48	Automatic Link Establishment (3G ALE ARCS)

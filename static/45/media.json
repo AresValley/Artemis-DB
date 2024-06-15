@@ -5,6 +5,14 @@
         "name": "sigId Spectrum",
         "description": "This is the wiki spectrum of the signal from www.sigidwiki.com",
         "type": "Image",
+        "preview": 0
+    },
+    {
+        "file_name": "2",
+        "extension": "jpg",
+        "name": "Spectrum",
+        "description": "",
+        "type": "Image",
         "preview": 1
     },
     {
@@ -14,5 +22,13 @@
         "description": "This is the wiki audio sample of the signal from www.sigidwiki.com",
         "type": "Audio",
         "preview": 1
+    },
+    {
+        "file_name": "2",
+        "extension": "mp3",
+        "name": "sigId Audio",
+        "description": "This is the wiki audio sample of the signal from www.sigidwiki.com",
+        "type": "Audio",
+        "preview": 0
     }
 ]
