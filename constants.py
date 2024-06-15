@@ -15,7 +15,7 @@ class Url():
     IMG_EXCLUSION_URL   = ["https://www.sigidwiki.com/images/1/12/NoWaterfallFiller.png"]
 
 class Constants():
-    EDITABLE = 0
+    EDITABLE = -1
     
     UNIT_TO_FACTOR = {"Hz": 1, "kHz": 10**3, "MHz": 10**6, "GHz": 10**9}
 
@@ -76,7 +76,8 @@ class Constants():
     'PCM': 'Pulse Code Modulation',
     'PPM': 'Pulse Position Modulation',
     'FMCW': 'Frequency-Modulated Continuous Wave',
-    'Pulse': 'Pulse'
+    'Pulse': 'Pulse',
+    'THSS': 'Time Hopping Spread Spectrum'
     }
 
 class Query():
