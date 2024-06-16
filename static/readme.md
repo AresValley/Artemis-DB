@@ -1,9 +1,5 @@
 # TODO
 
-- 11	5G 'New Radio' cellular network - Downlink
-- 12	77Ya6 'Voronezh' radar
-- 13	802.11n
-- 14	8PSK
 - 15	AFSK Paging Link
 - 16	AIST 2D
 - 17	AKKORD-SS-PD
