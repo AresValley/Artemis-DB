@@ -1,9 +1,12 @@
 {
     "signal": {
-        "name": "5G 'New Radio' cellular network - Downlink",
+        "name": "5G \"New Radio\" cellular network - Downlink",
         "url": "https://www.sigidwiki.com/wiki/5G_%22New_Radio%22_cellular_network_-_Downlink"
     },
-    "category": [],
+    "category": [
+        "Commercial",
+        "Digital"
+    ],
     "frequency": [
         {
             "value": 600000000,
