@@ -1,0 +1,50 @@
+[
+    {
+        "file_name": "1",
+        "extension": "png",
+        "name": "sigId Spectrum",
+        "description": "This is the wiki spectrum of the signal from www.sigidwiki.com",
+        "type": "Image",
+        "preview": 1
+    },
+    {
+        "file_name": "2",
+        "extension": "png",
+        "name": "Short bursts",
+        "description": "This is the wiki spectrum of the signal from www.sigidwiki.com",
+        "type": "Image",
+        "preview": 0
+    },
+    {
+        "file_name": "3",
+        "extension": "png",
+        "name": "Short bursts, possibly idling",
+        "description": "This is the wiki spectrum of the signal from www.sigidwiki.com",
+        "type": "Image",
+        "preview": 0
+    },
+    {
+        "file_name": "1",
+        "extension": "m4a",
+        "name": "sigId Audio",
+        "description": "This is the wiki audio sample of the signal from www.sigidwiki.com",
+        "type": "Audio",
+        "preview": 1
+    },
+    {
+        "file_name": "2",
+        "extension": "m4a",
+        "name": "Short bursts",
+        "description": "This is the wiki audio sample of the signal from www.sigidwiki.com",
+        "type": "Audio",
+        "preview": 0
+    },
+    {
+        "file_name": "3",
+        "extension": "m4a",
+        "name": "Short bursts, possibly idling",
+        "description": "This is the wiki audio sample of the signal from www.sigidwiki.com",
+        "type": "Audio",
+        "preview": 0
+    }
+]

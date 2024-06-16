@@ -1974,5 +1974,9 @@
     "Vaisala RS92-SGP Weather Balloon (Radiosonde)": {
         "dir": 494,
         "url": "https://www.sigidwiki.com/wiki/Vaisala_RS92-SGP_Weather_Balloon_(Radiosonde)"
+    },
+    "Chinese 30-tone OFDM modem": {
+        "dir": 495,
+        "url": "https://www.sigidwiki.com/wiki/Chinese_30-tone_OFDM_modem"
     }
 }

@@ -1,0 +1,77 @@
+{
+    "signal": {
+        "name": "Chinese 30-tone OFDM modem",
+        "url": "https://www.sigidwiki.com/wiki/Chinese_30-tone_OFDM_modem"
+    },
+    "category": [
+        "Military",
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 4557000,
+            "description": ""
+        },
+        {
+            "value": 8250000,
+            "description": ""
+        },
+        {
+            "value": 8310000,
+            "description": ""
+        },
+        {
+            "value": 8563000,
+            "description": ""
+        },
+        {
+            "value": 9144000,
+            "description": ""
+        },
+        {
+            "value": 14433000,
+            "description": ""
+        },
+        {
+            "value": 16500000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 3000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "QPSK",
+            "description": ""
+        },
+        {
+            "value": "BPSK",
+            "description": ""
+        },
+        {
+            "value": "OFDM",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "LSB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "China",
+            "description": ""
+        },
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}
