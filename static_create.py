@@ -16,7 +16,7 @@ class SigidDataparser():
 
         idx_all = {}
         for idx, signal in enumerate(tmp_idx_all):
-            idx_all[signal.replace('"', "'")] = {
+            idx_all[signal] = {
                 'dir': idx + 1,
                 'url': tmp_idx_all[signal]
             }
