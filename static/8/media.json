@@ -14,5 +14,21 @@
         "description": "This is the wiki audio sample of the signal from www.sigidwiki.com",
         "type": "Audio",
         "preview": 1
+    },
+    {
+        "file_name": "2",
+        "extension": "m4a",
+        "name": "3G Uplink",
+        "description": "This is the wiki audio sample of the signal from www.sigidwiki.com",
+        "type": "Audio",
+        "preview": 0
+    },
+    {
+        "file_name": "3",
+        "extension": "m4a",
+        "name": "3G Downlink with R99 voice and HSPA traffic",
+        "description": "This is the wiki audio sample of the signal from www.sigidwiki.com",
+        "type": "Audio",
+        "preview": 0
     }
 ]

@@ -8,6 +8,14 @@
         "preview": 1
     },
     {
+        "file_name": "2",
+        "extension": "png",
+        "name": "sigId Spectrum",
+        "description": "OTH-SW with 43Hz PRF captured in Maui, Hawaii",
+        "type": "Image",
+        "preview": 0
+    },
+    {
         "file_name": "1",
         "extension": "m4a",
         "name": "sigId Audio",
