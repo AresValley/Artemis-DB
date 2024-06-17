@@ -1,44 +1,39 @@
 {
     "signal": {
-        "name": "SP-14 (XP)",
-        "url": "https://www.sigidwiki.com/wiki/SP-14_(XP)"
+        "name": "SNOTEL (Snow Telemetry)",
+        "url": "https://www.sigidwiki.com/wiki/SNOTEL_(Snow_Telemetry)"
     },
     "category": [
-        "Digital",
-        "Numbers Stations"
+        "Utility"
     ],
     "frequency": [
         {
-            "value": 9000000,
-            "description": ""
-        },
-        {
-            "value": 12000000,
+            "value": 40670000,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 1200,
+            "value": 9000,
             "description": ""
         }
     ],
     "acf": [],
     "modulation": [
         {
-            "value": "MFSK",
+            "value": "PSK",
             "description": ""
         }
     ],
     "mode": [
         {
-            "value": "AM",
+            "value": "NFM",
             "description": ""
         }
     ],
     "location": [
         {
-            "value": "Russia",
+            "value": "United States",
             "description": ""
         }
     ]

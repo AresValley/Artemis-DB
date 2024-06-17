@@ -1,58 +1,54 @@
 {
     "signal": {
-        "name": "Multi Frequency Shift Keying (MFSK)",
-        "url": "https://www.sigidwiki.com/wiki/Multi_Frequency_Shift_Keying_(MFSK)"
+        "name": "Motorola Type II",
+        "url": "https://www.sigidwiki.com/wiki/Motorola_Type_II"
     },
     "category": [
-        "Amateur Radio",
-        "Digital"
+        "Digital",
+        "Trunked Radio"
     ],
     "frequency": [
         {
-            "value": 3000000,
+            "value": 136000000,
             "description": ""
         },
         {
-            "value": 30000000,
+            "value": 174000000,
+            "description": ""
+        },
+        {
+            "value": 380000000,
+            "description": ""
+        },
+        {
+            "value": 520000000,
+            "description": ""
+        },
+        {
+            "value": 851000000,
+            "description": ""
+        },
+        {
+            "value": 941000000,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 154,
-            "description": ""
-        },
-        {
-            "value": 218,
-            "description": ""
-        },
-        {
-            "value": 316,
-            "description": ""
-        },
-        {
-            "value": 330,
-            "description": ""
-        },
-        {
-            "value": 435,
-            "description": ""
-        },
-        {
-            "value": 630,
+            "value": 16000,
             "description": ""
         }
     ],
     "acf": [],
     "modulation": [
         {
-            "value": "MFSK",
+            "value": "FSK",
             "description": ""
         }
     ],
     "mode": [
         {
-            "value": "USB",
+            "value": "NFM",
             "description": ""
         }
     ],

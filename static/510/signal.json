@@ -1,0 +1,46 @@
+{
+    "signal": {
+        "name": "Yachta T-219 Voice Scrambler",
+        "url": "https://www.sigidwiki.com/wiki/Yachta_T-219_Voice_Scrambler"
+    },
+    "category": [
+        "Military",
+        "Analogue",
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 3000000,
+            "description": ""
+        },
+        {
+            "value": 30000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 2700,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "FSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Russia",
+            "description": ""
+        }
+    ]
+}

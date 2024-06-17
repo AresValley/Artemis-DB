@@ -1,1 +1,1 @@
-STANAG 5065 is defined as "Minimum Standards for Naval Low Frequency (LF) Shore-To-Ship Surface Broadcast Systems", with two primary protocols, FSK75 and MSK300.
+STANAG 4539 or MIL-STD-188-110B/C Appendix C is a HDR (110B) / MDR (110C) serial PSK/QAM signal that can reach speeds up to 9600 bps (12800 bps with no interleaving).

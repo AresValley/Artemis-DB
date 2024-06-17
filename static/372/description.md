@@ -1,1 +1,1 @@
-Panther-H is an intelligent frequency hopping transceiver developed by Racal (now Thales Group). Has a signature 8-burst SOC (Start Of Conversation) sync procedure. Used in Panther-2000H radios
+An unknown use of pager data thats sent in the form of frames, possibly used to send SSTV or confidnetial Faxes over a re-purposed POCSAG or FLEX transmitter.

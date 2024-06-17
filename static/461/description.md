@@ -1,1 +1,1 @@
-TWINPLEX, also known as F7B4 and TWINPLEX-SITOR, was a diplex 4-FSK ARQ mode developed by Mackay Radio and Telegraph Company, based in New York City, in the early 1950's. TWINPLEX was used by Interpol, the United Nations, and other diplomatic services.
+TT2300, also known as TT2300B, TT2300-ARQ, TRA-2300, and TPLEX, is an 8MFSK synchronous system developed by Thrane & Thrane of Denmark (acquired by UK defense firm Cobham in 2012).

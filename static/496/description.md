@@ -1,0 +1,1 @@
+Data transmitted from a vehicle counting system installed in car parks. The data is frequency hopping over 10 MHz.

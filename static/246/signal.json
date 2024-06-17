@@ -1,33 +1,41 @@
 {
     "signal": {
-        "name": "Instrument Landing System",
-        "url": "https://www.sigidwiki.com/wiki/Instrument_Landing_System"
+        "name": "Inmarsat-D(D+) Downlink",
+        "url": "https://www.sigidwiki.com/wiki/Inmarsat-D(D%2B)_Downlink"
     },
     "category": [
-        "Aviation",
-        "Navigation"
+        "Satellite",
+        "Commercial",
+        "Digital",
+        "Marine",
+        "Utility"
     ],
     "frequency": [
         {
-            "value": 108000000,
+            "value": 1525000000,
             "description": ""
         },
         {
-            "value": 335000000,
+            "value": 1559000000,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 15000,
+            "value": 640,
             "description": ""
         }
     ],
     "acf": [],
-    "modulation": [],
+    "modulation": [
+        {
+            "value": "MFSK",
+            "description": ""
+        }
+    ],
     "mode": [
         {
-            "value": "AM",
+            "value": "USB",
             "description": ""
         }
     ],

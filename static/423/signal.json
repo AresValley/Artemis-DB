@@ -1,39 +1,43 @@
 {
     "signal": {
-        "name": "SNOTEL (Snow Telemetry)",
-        "url": "https://www.sigidwiki.com/wiki/SNOTEL_(Snow_Telemetry)"
+        "name": "SITOR-B",
+        "url": "https://www.sigidwiki.com/wiki/SITOR-B"
     },
     "category": [
-        "Utility"
+        "Marine"
     ],
     "frequency": [
         {
-            "value": 40670000,
+            "value": 3000000,
+            "description": ""
+        },
+        {
+            "value": 30000000,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 9000,
+            "value": 350,
             "description": ""
         }
     ],
     "acf": [],
     "modulation": [
         {
-            "value": "PSK",
+            "value": "FSK",
             "description": ""
         }
     ],
     "mode": [
         {
-            "value": "NFM",
+            "value": "USB",
             "description": ""
         }
     ],
     "location": [
         {
-            "value": "United States",
+            "value": "Worldwide",
             "description": ""
         }
     ]

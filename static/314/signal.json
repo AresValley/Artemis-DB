@@ -1,33 +1,38 @@
 {
     "signal": {
-        "name": "Meteosat WEFAX",
-        "url": "https://www.sigidwiki.com/wiki/Meteosat_WEFAX"
+        "name": "Meteomodem PilotSonde Weather Balloon",
+        "url": "https://www.sigidwiki.com/wiki/Meteomodem_PilotSonde_Weather_Balloon"
     },
     "category": [
-        "Analogue",
-        "Satellite"
+        "Digital",
+        "Utility"
     ],
     "frequency": [
         {
-            "value": 1691000000,
-            "description": ""
-        }
-    ],
-    "bandwidth": [],
-    "acf": [],
-    "modulation": [
-        {
-            "value": "AM",
+            "value": 400000000,
             "description": ""
         },
         {
-            "value": "FM",
+            "value": 406000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 15000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "FSK",
             "description": ""
         }
     ],
     "mode": [
         {
-            "value": "FM",
+            "value": "NFM",
             "description": ""
         }
     ],

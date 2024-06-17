@@ -1,37 +1,24 @@
 {
     "signal": {
-        "name": "PSK-AM",
-        "url": "https://www.sigidwiki.com/wiki/PSK-AM"
+        "name": "PSK Paging link",
+        "url": "https://www.sigidwiki.com/wiki/PSK_Paging_link"
     },
     "category": [
-        "Amateur Radio",
         "Digital"
     ],
     "frequency": [
         {
-            "value": 14075000,
+            "value": 470000000,
             "description": ""
         },
         {
-            "value": 10148000,
-            "description": ""
-        },
-        {
-            "value": 144620000,
+            "value": 150000000,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 40,
-            "description": ""
-        },
-        {
-            "value": 110,
-            "description": ""
-        },
-        {
-            "value": 180,
+            "value": 12500,
             "description": ""
         }
     ],
@@ -44,13 +31,13 @@
     ],
     "mode": [
         {
-            "value": "USB",
+            "value": "FM",
             "description": ""
         }
     ],
     "location": [
         {
-            "value": "Worldwide",
+            "value": "United States",
             "description": ""
         }
     ]

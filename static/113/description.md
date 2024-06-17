@@ -1,1 +1,1 @@
-Chinese radio jamming signals intended to disrupt/censor broadcast communications.
+Commercial AM Broadcast jamming signal that plays Chinese folk songs to jam specific radio stations in Asia from being received by listeners.

@@ -1,1 +1,1 @@
-SI-ARQ, also known as ARQ-S and ARQ-1000S, is a simplex ARQ system designed by Siemens formerly used by Austrian and Indonesian diplomatic services. No longer used today.
+Swedish navy transmitter for submarine communication. It shares the antenna with SAQ (Grimeton Radio).

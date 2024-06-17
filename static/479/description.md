@@ -1,1 +1,1 @@
-LTR Passport is a type of control channel (unlike the standalone LTR that doesnt have one) which consists of multiple radio repeater sites linked together to form a wide-area radio dispatch network.
+Transit 5B-5, a former TRANSIT navigation satellite, is the oldest satellite known to still transmit a signal. Considered "dead" because its navigational systems failed after 19 days of operation, it still emits a telemetry signal when illuminated.

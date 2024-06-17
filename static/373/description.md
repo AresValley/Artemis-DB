@@ -1,1 +1,1 @@
-PSK is a digital teletype mode based on Phase-Shift Keying (PSK) modulation. The most popular amateur radio PSK mode is PSK 31.
+Panther-H is an intelligent frequency hopping transceiver developed by Racal (now Thales Group). Has a signature 8-burst SOC (Start Of Conversation) sync procedure. Used in Panther-2000H radios

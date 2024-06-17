@@ -1,38 +1,40 @@
 {
     "signal": {
-        "name": "ICV",
-        "url": "https://www.sigidwiki.com/wiki/ICV"
+        "name": "ICARUS (International Cooperation for Animal Research Using Space)",
+        "url": "https://www.sigidwiki.com/wiki/ICARUS_(International_Cooperation_for_Animal_Research_Using_Space)"
     },
     "category": [
-        "Military"
+        "Satellite",
+        "Digital"
     ],
     "frequency": [
         {
-            "value": 20270,
-            "description": ""
-        },
-        {
-            "value": 20760,
+            "value": 468100000,
             "description": ""
         }
     ],
-    "bandwidth": [],
+    "bandwidth": [
+        {
+            "value": 32000,
+            "description": ""
+        }
+    ],
     "acf": [],
     "modulation": [
         {
-            "value": "MSK",
+            "value": "PSK",
             "description": ""
         }
     ],
     "mode": [
         {
-            "value": "CW",
+            "value": "NFM",
             "description": ""
         }
     ],
     "location": [
         {
-            "value": "Italy",
+            "value": "Worldwide",
             "description": ""
         }
     ]

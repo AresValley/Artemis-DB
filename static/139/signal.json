@@ -1,43 +1,39 @@
 {
     "signal": {
-        "name": "Digital Dispatch Systems MDT",
-        "url": "https://www.sigidwiki.com/wiki/Digital_Dispatch_Systems_MDT"
+        "name": "Digital Audio Broadcasting Plus (DAB+)",
+        "url": "https://www.sigidwiki.com/wiki/Digital_Audio_Broadcasting_Plus_(DAB%2B)"
     },
     "category": [
+        "Digital",
         "Commercial"
     ],
     "frequency": [
         {
-            "value": 152000000,
+            "value": 174000000,
             "description": ""
         },
         {
-            "value": 854787500,
+            "value": 230000000,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 8000,
+            "value": 1536000,
             "description": ""
         }
     ],
     "acf": [],
     "modulation": [
         {
-            "value": "PSK",
+            "value": "OFDM",
             "description": ""
         }
     ],
-    "mode": [
-        {
-            "value": "NFM",
-            "description": ""
-        }
-    ],
+    "mode": [],
     "location": [
         {
-            "value": "United States",
+            "value": "Worldwide",
             "description": ""
         }
     ]

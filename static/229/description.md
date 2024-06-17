@@ -1,1 +1,1 @@
-Hyundai Mobis RKE-4F16 Wireless Key Fob for Hyundai Sonata models 2014-Present.
+HyperFix was a radio-navigation system developed by Racal. Was used by vessels and ships. Has largely been phased out in favor of Differential GPS.

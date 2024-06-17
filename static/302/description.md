@@ -1,1 +1,1 @@
-MPT1327 (Ministry of Posts and Telegraph 1327) is a signaling protocol standard for analog trunked radio
+Monitor-2 is a Russian 3u Cubesat used for cosmic flare observation. It is most likely only active when above Russia.

@@ -1,32 +1,43 @@
 {
     "signal": {
-        "name": "End of Train Device (EOTD)",
-        "url": "https://www.sigidwiki.com/wiki/End_of_Train_Device_(EOTD)"
+        "name": "Emergency Managers Weather Information Network (EMWIN) - Repeater",
+        "url": "https://www.sigidwiki.com/wiki/Emergency_Managers_Weather_Information_Network_(EMWIN)_-_Repeater"
     },
     "category": [
-        "Utility",
         "Digital"
     ],
     "frequency": [
         {
-            "value": 452,
+            "value": 163325000,
             "description": ""
         },
         {
-            "value": 457937500,
+            "value": 163350000,
+            "description": ""
+        },
+        {
+            "value": 168812500,
+            "description": ""
+        },
+        {
+            "value": 168712500,
+            "description": ""
+        },
+        {
+            "value": 163300000,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 8000,
+            "value": 20000,
             "description": ""
         }
     ],
     "acf": [],
     "modulation": [
         {
-            "value": "FSK",
+            "value": "AFSK",
             "description": ""
         }
     ],
@@ -38,7 +49,7 @@
     ],
     "location": [
         {
-            "value": "Worldwide",
+            "value": "United States",
             "description": ""
         }
     ]

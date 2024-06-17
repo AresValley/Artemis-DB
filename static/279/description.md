@@ -1,1 +1,1 @@
-LoJack is a vehicle tracking system that allows vehicles to be tracked by police, with the aim of recovering them in case of theft via a small radio transceiver clandestinely installed in a vehicle.
+This is the UHF band variant of Link-11, which is transmitted on a FM carrier. The FM-demodulated baseband is identical to the HF Link-11 waveform.

@@ -1,1 +1,1 @@
-POL-ARQ was a duplex ARQ system used by Polish and Italian diplomatic services. This system uses the CCIR 476-4 alphabet with polatiry retained. No longer in use.
+POCSAG (Post Office Code Standardisation Advisory Group), also known as Super-POCSAG, Radio Paging Code No. 1 or RPC1, is a one-way 2FSK paging protocol that supports 512, 1200, and 2400 bps.

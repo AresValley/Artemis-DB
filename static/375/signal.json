@@ -1,41 +1,36 @@
 {
     "signal": {
-        "name": "Polish Intelligence 100bd 625Hz FSK",
-        "url": "https://www.sigidwiki.com/wiki/Polish_Intelligence_100bd_625Hz_FSK"
+        "name": "Piccolo",
+        "url": "https://www.sigidwiki.com/wiki/Piccolo"
     },
     "category": [
-        "Digital",
-        "Numbers Stations"
+        "Military",
+        "Digital"
     ],
     "frequency": [
         {
-            "value": 4000000,
+            "value": 3000000,
             "description": ""
         },
         {
-            "value": 20000000,
+            "value": 30000000,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 3500,
+            "value": 180,
+            "description": ""
+        },
+        {
+            "value": 300,
             "description": ""
         }
     ],
-    "acf": [
-        {
-            "value": 960.0,
-            "description": "Primary"
-        },
-        {
-            "value": 160.0,
-            "description": "Secondary"
-        }
-    ],
+    "acf": [],
     "modulation": [
         {
-            "value": "FSK",
+            "value": "MFSK",
             "description": ""
         }
     ],
@@ -47,7 +42,7 @@
     ],
     "location": [
         {
-            "value": "Poland",
+            "value": "Worldwide",
             "description": ""
         }
     ]

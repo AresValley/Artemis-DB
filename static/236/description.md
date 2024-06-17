@@ -1,1 +1,1 @@
-D-AMPS, also known as IS-54 and IS-136, is a second generation (2G) mobile phone system standard which develops on analog AMPS, a 1G standard. This system is also colloquially known as TDMA.
+IRA-ARQ, also known as BULG-ASCII and ASCII-ARQ, is a high data rate ARQ FSK system used by Bulgarian, Slovakian, and Czech diplomatic stations. The maximum speed of this mode has been seen to reach 1200 bd. Not seen much much nowadays

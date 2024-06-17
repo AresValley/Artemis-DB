@@ -1,36 +1,108 @@
 {
     "signal": {
-        "name": "Piccolo",
-        "url": "https://www.sigidwiki.com/wiki/Piccolo"
+        "name": "Phase Shift Keying (PSK)",
+        "url": "https://www.sigidwiki.com/wiki/Phase_Shift_Keying_(PSK)"
     },
     "category": [
-        "Military",
+        "Amateur Radio",
         "Digital"
     ],
     "frequency": [
         {
-            "value": 3000000,
+            "value": 7035000,
             "description": ""
         },
         {
-            "value": 30000000,
+            "value": 7040000,
+            "description": ""
+        },
+        {
+            "value": 10142000,
+            "description": ""
+        },
+        {
+            "value": 14070000,
+            "description": ""
+        },
+        {
+            "value": 21080000,
+            "description": ""
+        },
+        {
+            "value": 50290000,
+            "description": ""
+        },
+        {
+            "value": 144144000,
+            "description": ""
+        },
+        {
+            "value": 222070000,
+            "description": ""
+        },
+        {
+            "value": 432200000,
+            "description": ""
+        },
+        {
+            "value": 909000000,
+            "description": ""
+        },
+        {
+            "value": 1838000,
+            "description": ""
+        },
+        {
+            "value": 3580000,
+            "description": ""
+        },
+        {
+            "value": 18100000,
+            "description": ""
+        },
+        {
+            "value": 24920000,
+            "description": ""
+        },
+        {
+            "value": 28120000,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 180,
+            "value": 63,
             "description": ""
         },
         {
-            "value": 300,
+            "value": 125,
+            "description": ""
+        },
+        {
+            "value": 250,
+            "description": ""
+        },
+        {
+            "value": 500,
+            "description": ""
+        },
+        {
+            "value": 1000,
+            "description": ""
+        },
+        {
+            "value": 31,
+            "description": ""
+        },
+        {
+            "value": 10,
             "description": ""
         }
     ],
     "acf": [],
     "modulation": [
         {
-            "value": "MFSK",
+            "value": "PSK",
             "description": ""
         }
     ],

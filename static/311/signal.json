@@ -1,44 +1,40 @@
 {
     "signal": {
-        "name": "Mazielka (X06)",
-        "url": "https://www.sigidwiki.com/wiki/Mazielka_(X06)"
+        "name": "Mazda SKE126-01 Key Fob",
+        "url": "https://www.sigidwiki.com/wiki/Mazda_SKE126-01_Key_Fob"
     },
     "category": [
-        "Digital",
-        "Numbers Stations"
+        "Utility",
+        "Digital"
     ],
     "frequency": [
         {
-            "value": 4963000,
-            "description": ""
-        },
-        {
-            "value": 23458000,
+            "value": 433412500,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 200,
+            "value": 100000,
             "description": ""
         }
     ],
     "acf": [],
     "modulation": [
         {
-            "value": "MFSK",
+            "value": "FSK",
             "description": ""
         }
     ],
     "mode": [
         {
-            "value": "USB",
+            "value": "WFM",
             "description": ""
         }
     ],
     "location": [
         {
-            "value": "Russia",
+            "value": "Worldwide",
             "description": ""
         }
     ]

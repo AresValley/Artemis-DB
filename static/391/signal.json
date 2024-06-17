@@ -1,32 +1,33 @@
 {
     "signal": {
-        "name": "RDL",
-        "url": "https://www.sigidwiki.com/wiki/RDL"
+        "name": "RBU",
+        "url": "https://www.sigidwiki.com/wiki/RBU"
     },
     "category": [
-        "Military"
+        "Time"
     ],
     "frequency": [
         {
-            "value": 18100,
+            "value": 66660,
             "description": ""
         }
     ],
-    "bandwidth": [],
+    "bandwidth": [
+        {
+            "value": 650,
+            "description": ""
+        }
+    ],
     "acf": [],
     "modulation": [
         {
             "value": "FSK",
             "description": ""
-        },
-        {
-            "value": "CW-FSK",
-            "description": ""
         }
     ],
     "mode": [
         {
-            "value": "CW",
+            "value": "USB",
             "description": ""
         }
     ],

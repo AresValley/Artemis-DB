@@ -1,1 +1,1 @@
-HFDVL (or HFD+VL) is an experimental mode developed by research groups from The University of Las Palmas de Gran Canaria and The Polytechnic University of Madrid. This mode is intended for military use in accordance with STANAG 5066 parameters.
+HFDL, also known as HF-ACARS, ARINC 753, ARINC 635, and HF DATALINK,is a data link that aircraft use to communicate short messages over long distances using HF signals.

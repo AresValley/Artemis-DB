@@ -1,25 +1,61 @@
 {
     "signal": {
-        "name": "Lightning Sferics",
-        "url": "https://www.sigidwiki.com/wiki/Lightning_Sferics"
+        "name": "Lentus",
+        "url": "https://www.sigidwiki.com/wiki/Lentus"
     },
     "category": [
-        "Interfering"
+        "Digital",
+        "Amateur Radio"
     ],
     "frequency": [
         {
-            "value": 0,
+            "value": 136300,
             "description": ""
         },
         {
-            "value": 30000000,
+            "value": 1837000,
+            "description": ""
+        },
+        {
+            "value": 3589000,
+            "description": ""
+        },
+        {
+            "value": 7037500,
+            "description": ""
+        },
+        {
+            "value": 10138700,
+            "description": ""
+        },
+        {
+            "value": 14074000,
+            "description": ""
+        },
+        {
+            "value": 14095600,
             "description": ""
         }
     ],
-    "bandwidth": [],
+    "bandwidth": [
+        {
+            "value": 25,
+            "description": ""
+        }
+    ],
     "acf": [],
-    "modulation": [],
-    "mode": [],
+    "modulation": [
+        {
+            "value": "MFSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
     "location": [
         {
             "value": "Worldwide",

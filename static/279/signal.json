@@ -1,27 +1,32 @@
 {
     "signal": {
-        "name": "LoJack",
-        "url": "https://www.sigidwiki.com/wiki/LoJack"
+        "name": "Link-11 (UHF)",
+        "url": "https://www.sigidwiki.com/wiki/Link-11_(UHF)"
     },
     "category": [
-        "Utility"
+        "Military",
+        "Digital"
     ],
     "frequency": [
         {
-            "value": 173075000,
+            "value": 225000000,
+            "description": ""
+        },
+        {
+            "value": 399975000,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 10000,
+            "value": 30000,
             "description": ""
         }
     ],
     "acf": [],
     "modulation": [
         {
-            "value": "FFSK",
+            "value": "PSK",
             "description": ""
         }
     ],

@@ -1,33 +1,59 @@
 {
     "signal": {
-        "name": "Digital-Coded Squelch (DCS)",
-        "url": "https://www.sigidwiki.com/wiki/Digital-Coded_Squelch_(DCS)"
+        "name": "Digital Video Broadcasting \u2014 Terrestrial (DVB-T)",
+        "url": "https://www.sigidwiki.com/wiki/Digital_Video_Broadcasting_%E2%80%94_Terrestrial_(DVB-T)"
     },
     "category": [
-        "Commercial",
-        "Digital"
+        "Digital",
+        "Commercial"
     ],
     "frequency": [
         {
-            "value": 433000000,
+            "value": 786000000,
             "description": ""
         },
         {
-            "value": 446000000,
+            "value": 174000000,
             "description": ""
         }
     ],
-    "bandwidth": [],
-    "acf": [],
+    "bandwidth": [
+        {
+            "value": 6000000,
+            "description": ""
+        },
+        {
+            "value": 7000000,
+            "description": ""
+        },
+        {
+            "value": 8000000,
+            "description": ""
+        }
+    ],
+    "acf": [
+        {
+            "value": 4.48,
+            "description": "Main"
+        }
+    ],
     "modulation": [
         {
-            "value": "FSK",
+            "value": "QAM",
+            "description": ""
+        },
+        {
+            "value": "QPSK",
+            "description": ""
+        },
+        {
+            "value": "OFDM",
             "description": ""
         }
     ],
     "mode": [
         {
-            "value": "NFM",
+            "value": "USB",
             "description": ""
         }
     ],

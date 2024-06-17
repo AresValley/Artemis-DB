@@ -1,1 +1,1 @@
-The MHF-50 MFSK Modem by Saab Grintek Technologies in South Africa is a data modem that utilizes RTTY, 2-FSK, and 33-MFSK to transmit data
+SWED-ARQ, also known as ARQ-SWE, was a Swedish simplex ARQ system used by Swedish diplomatic services. This protocol supported three packet lengths and was able to change packet length mid-transmission. No longer used today.

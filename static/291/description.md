@@ -1,1 +1,1 @@
-A variant of the NOAA HRPT signal, which has a different data structure and better low-signal handling characteristics.
+MDC (Motorola Data Communications), also known as Stat-Alert, MDC-1200 and MDC-600, is a Motorola two-way radio low-speed data system.

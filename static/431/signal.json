@@ -1,7 +1,7 @@
 {
     "signal": {
-        "name": "STANAG 4529",
-        "url": "https://www.sigidwiki.com/wiki/STANAG_4529"
+        "name": "STANAG 4481",
+        "url": "https://www.sigidwiki.com/wiki/STANAG_4481"
     },
     "category": [
         "Military",
@@ -9,31 +9,42 @@
     ],
     "frequency": [
         {
-            "value": 3000000,
+            "value": 2815000,
             "description": ""
         },
         {
-            "value": 9870000,
+            "value": 3046000,
             "description": ""
         },
         {
-            "value": 30000000,
+            "value": 11213000,
+            "description": ""
+        },
+        {
+            "value": 18016000,
+            "description": ""
+        },
+        {
+            "value": 8986000,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 1240,
+            "value": 1500,
+            "description": ""
+        },
+        {
+            "value": 2750,
             "description": ""
         }
     ],
-    "acf": [
-        {
-            "value": 213.32,
-            "description": "Main"
-        }
-    ],
+    "acf": [],
     "modulation": [
+        {
+            "value": "FSK",
+            "description": ""
+        },
         {
             "value": "PSK",
             "description": ""

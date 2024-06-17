@@ -1,43 +1,54 @@
 {
     "signal": {
-        "name": "Continuous Tone-Coded Squelch System (CTCSS)",
-        "url": "https://www.sigidwiki.com/wiki/Continuous_Tone-Coded_Squelch_System_(CTCSS)"
+        "name": "Contestia",
+        "url": "https://www.sigidwiki.com/wiki/Contestia"
     },
-    "category": [],
+    "category": [
+        "Digital",
+        "Amateur Radio"
+    ],
     "frequency": [
         {
-            "value": 30000000,
+            "value": 3000000,
             "description": ""
         },
         {
-            "value": 800000000,
+            "value": 30000000,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 5000,
+            "value": 150,
             "description": ""
         },
         {
-            "value": 12500,
+            "value": 250,
             "description": ""
         },
         {
-            "value": 30000,
+            "value": 500,
+            "description": ""
+        },
+        {
+            "value": 1000,
+            "description": ""
+        },
+        {
+            "value": 2000,
             "description": ""
         }
     ],
     "acf": [],
     "modulation": [
         {
-            "value": "CW",
+            "value": "MFSK",
             "description": ""
         }
     ],
     "mode": [
         {
-            "value": "NFM",
+            "value": "USB",
             "description": ""
         }
     ],

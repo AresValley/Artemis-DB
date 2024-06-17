@@ -1,1 +1,1 @@
-One Beep, Two Beeps is a nickname given to a signal emitted by the Norwegian Navy communications center in Bodø
+OLIVIA is an amateur digital teletype mode designed by Pawel Jalocha SP9VRC in 2005. Its goal was to be effective even in poor propagation conditions.

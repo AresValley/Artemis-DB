@@ -1,45 +1,47 @@
 {
     "signal": {
-        "name": "MMP-4800",
-        "url": "https://www.sigidwiki.com/wiki/MMP-4800"
+        "name": "MIL-STD-188-110 Serial",
+        "url": "https://www.sigidwiki.com/wiki/MIL-STD-188-110_Serial"
     },
     "category": [
-        "Commercial",
+        "Military",
         "Digital"
     ],
     "frequency": [
         {
-            "value": 400000000,
+            "value": 3000000,
             "description": ""
         },
         {
-            "value": 500000000,
-            "description": ""
-        },
-        {
-            "value": 900000000,
-            "description": ""
-        },
-        {
-            "value": 150000000,
+            "value": 30000000,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 25000,
-            "description": ""
-        },
-        {
-            "value": 12500,
+            "value": 2750,
             "description": ""
         }
     ],
-    "acf": [],
-    "modulation": [],
+    "acf": [
+        {
+            "value": 200.0,
+            "description": "Header"
+        },
+        {
+            "value": 66.66,
+            "description": "Body"
+        }
+    ],
+    "modulation": [
+        {
+            "value": "PSK",
+            "description": ""
+        }
+    ],
     "mode": [
         {
-            "value": "NFM",
+            "value": "USB",
             "description": ""
         }
     ],

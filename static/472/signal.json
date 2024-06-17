@@ -1,38 +1,39 @@
 {
     "signal": {
-        "name": "The Goose",
-        "url": "https://www.sigidwiki.com/wiki/The_Goose"
+        "name": "The Buzzer (ZhUOZ MDZhB UZB76)",
+        "url": "https://www.sigidwiki.com/wiki/The_Buzzer_(ZhUOZ_MDZhB_UZB76)"
     },
     "category": [
         "Military",
-        "Analogue"
+        "Analogue",
+        "Numbers Stations"
     ],
     "frequency": [
         {
-            "value": 3243000,
+            "value": 4625000,
             "description": ""
         },
         {
-            "value": 4310000,
+            "value": 6998000,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 3100,
+            "value": 2800,
             "description": ""
         }
     ],
     "acf": [],
     "modulation": [
         {
-            "value": "AM",
+            "value": "USB",
             "description": ""
         }
     ],
     "mode": [
         {
-            "value": "USB",
+            "value": "AM",
             "description": ""
         }
     ],

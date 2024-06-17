@@ -1,43 +1,68 @@
 {
     "signal": {
-        "name": "GOES CDA Telemetry",
-        "url": "https://www.sigidwiki.com/wiki/GOES_CDA_Telemetry"
+        "name": "GMDSS Digital Selective Calling",
+        "url": "https://www.sigidwiki.com/wiki/GMDSS_Digital_Selective_Calling"
     },
     "category": [
-        "Satellite"
+        "Marine",
+        "Digital"
     ],
     "frequency": [
         {
-            "value": 1693000000,
+            "value": 2187500,
+            "description": ""
+        },
+        {
+            "value": 4207500,
+            "description": ""
+        },
+        {
+            "value": 6312000,
+            "description": ""
+        },
+        {
+            "value": 8414500,
+            "description": ""
+        },
+        {
+            "value": 12577000,
+            "description": ""
+        },
+        {
+            "value": 16804500,
+            "description": ""
+        },
+        {
+            "value": 2177000,
+            "description": ""
+        },
+        {
+            "value": 156525000,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 80000,
+            "value": 350,
             "description": ""
         }
     ],
     "acf": [],
     "modulation": [
         {
-            "value": "BPSK",
+            "value": "FSK",
             "description": ""
         }
     ],
     "mode": [
         {
-            "value": "RAW",
+            "value": "USB",
             "description": ""
         }
     ],
     "location": [
         {
-            "value": "United States",
-            "description": ""
-        },
-        {
-            "value": "Asia",
+            "value": "Worldwide",
             "description": ""
         }
     ]

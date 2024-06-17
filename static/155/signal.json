@@ -1,39 +1,32 @@
 {
     "signal": {
-        "name": "Driftnet Buoy Radio Beacon",
-        "url": "https://www.sigidwiki.com/wiki/Driftnet_Buoy_Radio_Beacon"
+        "name": "DominoF",
+        "url": "https://www.sigidwiki.com/wiki/DominoF"
     },
     "category": [
-        "Marine"
+        "Digital",
+        "Amateur Radio"
     ],
     "frequency": [
         {
-            "value": 1600000,
+            "value": 1838000,
             "description": ""
         },
         {
-            "value": 2850000,
-            "description": ""
-        },
-        {
-            "value": 4000000,
-            "description": ""
-        },
-        {
-            "value": 28000000,
+            "value": 28080000,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 1,
+            "value": 220,
             "description": ""
         }
     ],
     "acf": [],
     "modulation": [
         {
-            "value": "OOK",
+            "value": "IFK",
             "description": ""
         }
     ],

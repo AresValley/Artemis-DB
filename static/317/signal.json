@@ -1,48 +1,45 @@
 {
     "signal": {
-        "name": "Modernised High Frequency Communications System (MHFCS)",
-        "url": "https://www.sigidwiki.com/wiki/Modernised_High_Frequency_Communications_System_(MHFCS)"
+        "name": "Milstar",
+        "url": "https://www.sigidwiki.com/wiki/Milstar"
     },
     "category": [
+        "Digital",
         "Military",
-        "Digital"
+        "Satellite"
     ],
     "frequency": [
         {
-            "value": 27477500,
+            "value": 243785000,
             "description": ""
         },
         {
-            "value": 2009999,
+            "value": 243822000,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 750,
-            "description": ""
-        },
-        {
-            "value": 400,
+            "value": 50000,
             "description": ""
         }
     ],
     "acf": [],
     "modulation": [
         {
-            "value": "FSK",
+            "value": "FHSS",
             "description": ""
         }
     ],
     "mode": [
         {
-            "value": "USB",
+            "value": "RAW",
             "description": ""
         }
     ],
     "location": [
         {
-            "value": "Australia",
+            "value": "Worldwide",
             "description": ""
         }
     ]

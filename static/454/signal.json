@@ -1,44 +1,39 @@
 {
     "signal": {
-        "name": "Supervisory Control And Data Acquisition (SCADA)",
-        "url": "https://www.sigidwiki.com/wiki/Supervisory_Control_And_Data_Acquisition_(SCADA)"
+        "name": "SuperDARN (Super Dual Auroral Radar Network)",
+        "url": "https://www.sigidwiki.com/wiki/SuperDARN_(Super_Dual_Auroral_Radar_Network)"
     },
     "category": [
-        "Utility",
-        "Digital"
+        "Radar"
     ],
     "frequency": [
         {
-            "value": 450000000,
+            "value": 8000000,
             "description": ""
         },
         {
-            "value": 950000000,
-            "description": ""
-        },
-        {
-            "value": 413000000,
+            "value": 20000000,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 12000,
+            "value": 6000,
             "description": ""
         }
     ],
     "acf": [],
-    "modulation": [
-        {
-            "value": "FSK",
-            "description": ""
-        }
-    ],
+    "modulation": [],
     "mode": [
         {
-            "value": "FM",
+            "value": "USB",
             "description": ""
         }
     ],
-    "location": []
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
 }

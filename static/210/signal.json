@@ -1,44 +1,31 @@
 {
     "signal": {
-        "name": "Ground-Based Augmentation System (GBAS)",
-        "url": "https://www.sigidwiki.com/wiki/Ground-Based_Augmentation_System_(GBAS)"
+        "name": "Grimeton Radio (SAQ)",
+        "url": "https://www.sigidwiki.com/wiki/Grimeton_Radio_(SAQ)"
     },
-    "category": [
-        "Aviation",
-        "Navigation"
-    ],
+    "category": [],
     "frequency": [
         {
-            "value": 108000000,
+            "value": 17200,
             "description": ""
         },
         {
-            "value": 117975000,
+            "value": 40400,
             "description": ""
         }
     ],
-    "bandwidth": [
-        {
-            "value": 15000,
-            "description": ""
-        }
-    ],
+    "bandwidth": [],
     "acf": [],
-    "modulation": [
-        {
-            "value": "D8PSK",
-            "description": ""
-        }
-    ],
+    "modulation": [],
     "mode": [
         {
-            "value": "AM",
+            "value": "CW",
             "description": ""
         }
     ],
     "location": [
         {
-            "value": "Worldwide",
+            "value": "Sweden",
             "description": ""
         }
     ]

@@ -1,37 +1,45 @@
 {
     "signal": {
-        "name": "Dual Tone Multi Frequency (DTMF)",
-        "url": "https://www.sigidwiki.com/wiki/Dual_Tone_Multi_Frequency_(DTMF)"
+        "name": "Driftnet Buoy Radio Beacon",
+        "url": "https://www.sigidwiki.com/wiki/Driftnet_Buoy_Radio_Beacon"
     },
     "category": [
-        "Analogue"
+        "Marine"
     ],
     "frequency": [
         {
-            "value": 30000000,
+            "value": 1600000,
             "description": ""
         },
         {
-            "value": 800000000,
+            "value": 2850000,
+            "description": ""
+        },
+        {
+            "value": 4000000,
+            "description": ""
+        },
+        {
+            "value": 28000000,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 3300,
+            "value": 1,
             "description": ""
         }
     ],
     "acf": [],
     "modulation": [
         {
-            "value": "MFSK",
+            "value": "OOK",
             "description": ""
         }
     ],
     "mode": [
         {
-            "value": "NFM",
+            "value": "USB",
             "description": ""
         }
     ],

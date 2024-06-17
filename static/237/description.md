@@ -1,1 +1,1 @@
-Ionospheric Scattering (ISCAT) mode used for weak signal long distance radio contact by meteor and Ionosphere scattering.
+D-AMPS, also known as IS-54 and IS-136, is a second generation (2G) mobile phone system standard which develops on analog AMPS, a 1G standard. This system is also colloquially known as TDMA.

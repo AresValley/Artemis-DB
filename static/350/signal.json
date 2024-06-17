@@ -1,37 +1,37 @@
 {
     "signal": {
-        "name": "OPERA Beacon and Data",
-        "url": "https://www.sigidwiki.com/wiki/OPERA_Beacon_and_Data"
+        "name": "OOK RC Car Remote Control",
+        "url": "https://www.sigidwiki.com/wiki/OOK_RC_Car_Remote_Control"
     },
     "category": [
-        "Amateur Radio"
+        "Analogue"
     ],
     "frequency": [
         {
-            "value": 136000,
+            "value": 27000000,
             "description": ""
         },
         {
-            "value": 10000000000,
+            "value": 49000000,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 1,
+            "value": 1600,
             "description": ""
         }
     ],
     "acf": [],
     "modulation": [
         {
-            "value": "ASK",
+            "value": "OOK",
             "description": ""
         }
     ],
     "mode": [
         {
-            "value": "USB",
+            "value": "AM",
             "description": ""
         }
     ],

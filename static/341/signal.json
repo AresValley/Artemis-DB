@@ -1,41 +1,55 @@
 {
     "signal": {
-        "name": "Nissan Car Key",
-        "url": "https://www.sigidwiki.com/wiki/Nissan_Car_Key"
+        "name": "Next Generation Digital Narrowband (NXDN)",
+        "url": "https://www.sigidwiki.com/wiki/Next_Generation_Digital_Narrowband_(NXDN)"
     },
     "category": [
-        "Utility",
-        "Digital"
+        "Digital",
+        "Trunked Radio"
     ],
     "frequency": [
         {
-            "value": 315000000,
+            "value": 136000000,
             "description": ""
         },
         {
-            "value": 433000000,
+            "value": 174000000,
             "description": ""
         },
         {
-            "value": 301500000,
+            "value": 400000000,
             "description": ""
         },
         {
-            "value": 302500000,
+            "value": 520000000,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 40000,
+            "value": 6250,
+            "description": ""
+        },
+        {
+            "value": 12500,
             "description": ""
         }
     ],
-    "acf": [],
-    "modulation": [],
+    "acf": [
+        {
+            "value": 80.0,
+            "description": "Main"
+        }
+    ],
+    "modulation": [
+        {
+            "value": "C4FM",
+            "description": ""
+        }
+    ],
     "mode": [
         {
-            "value": "AM",
+            "value": "NFM",
             "description": ""
         }
     ],

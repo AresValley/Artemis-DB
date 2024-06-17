@@ -1,33 +1,24 @@
 {
     "signal": {
-        "name": "Datawell Buoy HF Link",
-        "url": "https://www.sigidwiki.com/wiki/Datawell_Buoy_HF_Link"
+        "name": "DUP-FEC-2",
+        "url": "https://www.sigidwiki.com/wiki/DUP-FEC-2"
     },
     "category": [
-        "Marine",
         "Digital"
     ],
     "frequency": [
         {
-            "value": 25500000,
+            "value": 3000000,
             "description": ""
         },
         {
-            "value": 35500000,
-            "description": ""
-        },
-        {
-            "value": 45000000,
+            "value": 30000000,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 200,
-            "description": ""
-        },
-        {
-            "value": 400,
+            "value": 1100,
             "description": ""
         }
     ],
@@ -35,10 +26,6 @@
     "modulation": [
         {
             "value": "FSK",
-            "description": ""
-        },
-        {
-            "value": "MFSK",
             "description": ""
         }
     ],

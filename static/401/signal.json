@@ -1,44 +1,49 @@
 {
     "signal": {
-        "name": "Radio Telephone Network C (C-Netz)",
-        "url": "https://www.sigidwiki.com/wiki/Radio_Telephone_Network_C_(C-Netz)"
+        "name": "Radio Data System (RDS)",
+        "url": "https://www.sigidwiki.com/wiki/Radio_Data_System_(RDS)"
     },
     "category": [
-        "Digital"
+        "Digital",
+        "Commercial"
     ],
     "frequency": [
         {
-            "value": 450000000,
+            "value": 65000000,
+            "description": ""
+        },
+        {
+            "value": 108000000,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 12500,
+            "value": 4000,
             "description": ""
         }
     ],
     "acf": [
         {
-            "value": 150.0,
+            "value": 87.6,
             "description": "Main"
         }
     ],
     "modulation": [
         {
-            "value": "FSK",
+            "value": "PSK",
             "description": ""
         }
     ],
     "mode": [
         {
-            "value": "FM",
+            "value": "DSB",
             "description": ""
         }
     ],
     "location": [
         {
-            "value": "Germany",
+            "value": "Worldwide",
             "description": ""
         }
     ]

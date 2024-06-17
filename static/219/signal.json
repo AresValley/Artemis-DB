@@ -1,37 +1,29 @@
 {
     "signal": {
-        "name": "HP Laptop",
-        "url": "https://www.sigidwiki.com/wiki/HP_Laptop"
+        "name": "HORYU-4 Telemetry",
+        "url": "https://www.sigidwiki.com/wiki/HORYU-4_Telemetry"
     },
     "category": [
-        "Interfering"
+        "Satellite",
+        "Digital"
     ],
     "frequency": [
         {
-            "value": 50900,
+            "value": 437375000,
             "description": ""
         }
     ],
-    "bandwidth": [
-        {
-            "value": 1500,
-            "description": ""
-        }
-    ],
+    "bandwidth": [],
     "acf": [],
     "modulation": [
         {
-            "value": "USB",
-            "description": ""
-        },
-        {
-            "value": "LSB",
+            "value": "BPSK",
             "description": ""
         }
     ],
     "mode": [
         {
-            "value": "CW",
+            "value": "USB",
             "description": ""
         }
     ],

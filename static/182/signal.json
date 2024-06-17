@@ -1,34 +1,35 @@
 {
     "signal": {
-        "name": "Factory installed alarm system Land Rover Discovery 4",
-        "url": "https://www.sigidwiki.com/wiki/Factory_installed_alarm_system_Land_Rover_Discovery_4"
+        "name": "FUNcube-1 Telemetry",
+        "url": "https://www.sigidwiki.com/wiki/FUNcube-1_Telemetry"
     },
     "category": [
-        "Utility",
+        "Amateur Radio",
+        "Satellite",
         "Digital"
     ],
     "frequency": [
         {
-            "value": 433930000,
+            "value": 145935000,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 950000,
+            "value": 2000,
             "description": ""
         }
     ],
     "acf": [],
     "modulation": [
         {
-            "value": "FSK2",
+            "value": "PSK",
             "description": ""
         }
     ],
     "mode": [
         {
-            "value": "NFM",
+            "value": "USB",
             "description": ""
         }
     ],

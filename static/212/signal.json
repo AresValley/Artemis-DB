@@ -1,9 +1,10 @@
 {
     "signal": {
-        "name": "HC-ARQ",
-        "url": "https://www.sigidwiki.com/wiki/HC-ARQ"
+        "name": "HC-265 Voice Scrambler",
+        "url": "https://www.sigidwiki.com/wiki/HC-265_Voice_Scrambler"
     },
     "category": [
+        "Military",
         "Digital"
     ],
     "frequency": [
@@ -18,7 +19,11 @@
     ],
     "bandwidth": [
         {
-            "value": 300,
+            "value": 2250,
+            "description": ""
+        },
+        {
+            "value": 3000,
             "description": ""
         }
     ],

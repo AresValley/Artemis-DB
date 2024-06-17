@@ -1,44 +1,41 @@
 {
     "signal": {
-        "name": "Panther-H Modem",
-        "url": "https://www.sigidwiki.com/wiki/Panther-H_Modem"
+        "name": "Pager SSTV",
+        "url": "https://www.sigidwiki.com/wiki/Pager_SSTV"
     },
-    "category": [
-        "Military",
-        "Digital"
-    ],
+    "category": [],
     "frequency": [
         {
-            "value": 1500000,
+            "value": 152,
             "description": ""
         },
         {
-            "value": 30000000,
+            "value": 450,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 3000,
+            "value": 12500,
             "description": ""
         }
     ],
     "acf": [],
     "modulation": [
         {
-            "value": "PSK",
+            "value": "FSK",
             "description": ""
         }
     ],
     "mode": [
         {
-            "value": "USB",
+            "value": "NFM",
             "description": ""
         }
     ],
     "location": [
         {
-            "value": "Worldwide",
+            "value": "United States",
             "description": ""
         }
     ]

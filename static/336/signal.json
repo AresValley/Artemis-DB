@@ -1,42 +1,40 @@
 {
     "signal": {
-        "name": "Narrow-Bandwidth Television (NBTV)",
-        "url": "https://www.sigidwiki.com/wiki/Narrow-Bandwidth_Television_(NBTV)"
+        "name": "NWC",
+        "url": "https://www.sigidwiki.com/wiki/NWC"
     },
     "category": [
-        "Amateur Radio"
+        "Military",
+        "Digital"
     ],
     "frequency": [
         {
-            "value": 50000000,
-            "description": ""
-        },
-        {
-            "value": 1800000,
+            "value": 19800,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 13000,
+            "value": 300,
             "description": ""
         }
     ],
     "acf": [],
     "modulation": [
         {
-            "value": "AM",
-            "description": ""
-        },
-        {
-            "value": "FM",
+            "value": "FSK",
             "description": ""
         }
     ],
-    "mode": [],
+    "mode": [
+        {
+            "value": "CW",
+            "description": ""
+        }
+    ],
     "location": [
         {
-            "value": "Worldwide",
+            "value": "Australia",
             "description": ""
         }
     ]

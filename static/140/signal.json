@@ -1,48 +1,43 @@
 {
     "signal": {
-        "name": "Digital Enhanced Cordless Telecommunications (DECT)",
-        "url": "https://www.sigidwiki.com/wiki/Digital_Enhanced_Cordless_Telecommunications_(DECT)"
+        "name": "Digital Dispatch Systems MDT",
+        "url": "https://www.sigidwiki.com/wiki/Digital_Dispatch_Systems_MDT"
     },
     "category": [
         "Commercial"
     ],
     "frequency": [
         {
-            "value": 1880000000,
+            "value": 152000000,
             "description": ""
         },
         {
-            "value": 1900000000,
+            "value": 854787500,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 1600000,
+            "value": 8000,
             "description": ""
         }
     ],
-    "acf": [
-        {
-            "value": 10.0,
-            "description": "Main"
-        }
-    ],
+    "acf": [],
     "modulation": [
         {
-            "value": "GFSK",
+            "value": "PSK",
             "description": ""
         }
     ],
     "mode": [
         {
-            "value": "USB",
+            "value": "NFM",
             "description": ""
         }
     ],
     "location": [
         {
-            "value": "Worldwide",
+            "value": "United States",
             "description": ""
         }
     ]

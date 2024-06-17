@@ -1,37 +1,51 @@
 {
     "signal": {
-        "name": "VDEW",
-        "url": "https://www.sigidwiki.com/wiki/VDEW"
+        "name": "VARA HF",
+        "url": "https://www.sigidwiki.com/wiki/VARA_HF"
     },
     "category": [
-        "Analogue"
+        "Amateur Radio",
+        "Digital",
+        "Utility"
     ],
     "frequency": [
         {
-            "value": 30000000,
+            "value": 54000000,
             "description": ""
         },
         {
-            "value": 800000000,
+            "value": 1800000,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 5000,
+            "value": 2750,
             "description": ""
         }
     ],
     "acf": [],
     "modulation": [
         {
-            "value": "MFSK",
+            "value": "FSK",
+            "description": ""
+        },
+        {
+            "value": "BPSK",
+            "description": ""
+        },
+        {
+            "value": "4-8PSK",
+            "description": ""
+        },
+        {
+            "value": "16-32QAM",
             "description": ""
         }
     ],
     "mode": [
         {
-            "value": "NFM",
+            "value": "USB",
             "description": ""
         }
     ],

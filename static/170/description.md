@@ -1,1 +1,1 @@
-European Radio Message System (ERMES) is a European common standard for paging developed by the European Telecommunications Standards Institute (ESTI)
+Downlink from train to balise. A Eurobalise is a specific variant of a balise, a transponder placed between the rails of a railway.

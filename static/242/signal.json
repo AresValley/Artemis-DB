@@ -1,49 +1,17 @@
 {
     "signal": {
-        "name": "Inmarsat Aero",
-        "url": "https://www.sigidwiki.com/wiki/Inmarsat_Aero"
+        "name": "Induction cooker interference",
+        "url": "https://www.sigidwiki.com/wiki/Induction_cooker_interference"
     },
     "category": [
-        "Aviation",
-        "Commercial",
-        "Satellite"
+        "Interfering"
     ],
-    "frequency": [
-        {
-            "value": 1545000000,
-            "description": ""
-        },
-        {
-            "value": 1547000000,
-            "description": ""
-        },
-        {
-            "value": 3685000000,
-            "description": ""
-        },
-        {
-            "value": 3687000000,
-            "description": ""
-        }
-    ],
-    "bandwidth": [
-        {
-            "value": 10500000,
-            "description": ""
-        },
-        {
-            "value": 800,
-            "description": ""
-        },
-        {
-            "value": 1600,
-            "description": ""
-        }
-    ],
+    "frequency": [],
+    "bandwidth": [],
     "acf": [],
     "modulation": [
         {
-            "value": "PSK",
+            "value": "OOK",
             "description": ""
         }
     ],

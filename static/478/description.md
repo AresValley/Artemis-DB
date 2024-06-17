@@ -1,1 +1,1 @@
-Transit 5B-5, a former TRANSIT navigation satellite, is the oldest satellite known to still transmit a signal. Considered "dead" because its navigational systems failed after 19 days of operation, it still emits a telemetry signal when illuminated.
+AFSK Modulated signal with 2400Baud for traffic light control. Contains R09.16 telegrams as specified per VDV Standard 420.

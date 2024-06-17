@@ -1,39 +1,49 @@
 {
     "signal": {
-        "name": "Toyota Car Key",
-        "url": "https://www.sigidwiki.com/wiki/Toyota_Car_Key"
+        "name": "Total Access Communication System (TACS)",
+        "url": "https://www.sigidwiki.com/wiki/Total_Access_Communication_System_(TACS)"
     },
     "category": [
-        "Utility",
+        "Commercial",
+        "Analogue",
         "Digital"
     ],
     "frequency": [
         {
-            "value": 315000000,
+            "value": 872000000,
             "description": ""
         },
         {
-            "value": 433000000,
+            "value": 960000000,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 40000,
+            "value": 25000,
             "description": ""
         }
     ],
     "acf": [],
-    "modulation": [],
+    "modulation": [
+        {
+            "value": "FM",
+            "description": ""
+        },
+        {
+            "value": "FSK",
+            "description": ""
+        }
+    ],
     "mode": [
         {
-            "value": "AM",
+            "value": "NFM",
             "description": ""
         }
     ],
     "location": [
         {
-            "value": "Worldwide",
+            "value": "Europe",
             "description": ""
         }
     ]

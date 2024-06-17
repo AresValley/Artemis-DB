@@ -1,38 +1,43 @@
 {
     "signal": {
-        "name": "Duga 3",
-        "url": "https://www.sigidwiki.com/wiki/Duga_3"
+        "name": "Dual Tone Multi Frequency (DTMF)",
+        "url": "https://www.sigidwiki.com/wiki/Dual_Tone_Multi_Frequency_(DTMF)"
     },
     "category": [
-        "Military",
-        "Radar"
+        "Analogue"
     ],
     "frequency": [
         {
-            "value": 7000000,
+            "value": 30000000,
             "description": ""
         },
         {
-            "value": 19000000,
+            "value": 800000000,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 20000,
-            "description": ""
-        },
-        {
-            "value": 800000,
+            "value": 3300,
             "description": ""
         }
     ],
     "acf": [],
-    "modulation": [],
-    "mode": [],
+    "modulation": [
+        {
+            "value": "MFSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "NFM",
+            "description": ""
+        }
+    ],
     "location": [
         {
-            "value": "Ukraine",
+            "value": "Worldwide",
             "description": ""
         }
     ]

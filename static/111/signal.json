@@ -1,43 +1,76 @@
 {
     "signal": {
-        "name": "Chinese 4+4",
-        "url": "https://www.sigidwiki.com/wiki/Chinese_4%2B4"
+        "name": "Chinese 30-tone OFDM modem",
+        "url": "https://www.sigidwiki.com/wiki/Chinese_30-tone_OFDM_modem"
     },
     "category": [
+        "Military",
         "Digital"
     ],
     "frequency": [
         {
-            "value": 3000000,
+            "value": 4557000,
             "description": ""
         },
         {
-            "value": 30000000,
+            "value": 8250000,
+            "description": ""
+        },
+        {
+            "value": 8310000,
+            "description": ""
+        },
+        {
+            "value": 8563000,
+            "description": ""
+        },
+        {
+            "value": 9144000,
+            "description": ""
+        },
+        {
+            "value": 14433000,
+            "description": ""
+        },
+        {
+            "value": 16500000,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 2500,
+            "value": 3000,
             "description": ""
         }
     ],
     "acf": [],
     "modulation": [
         {
-            "value": "PSK",
+            "value": "QPSK",
+            "description": ""
+        },
+        {
+            "value": "BPSK",
+            "description": ""
+        },
+        {
+            "value": "OFDM",
             "description": ""
         }
     ],
     "mode": [
         {
-            "value": "USB",
+            "value": "LSB",
             "description": ""
         }
     ],
     "location": [
         {
             "value": "China",
+            "description": ""
+        },
+        {
+            "value": "Worldwide",
             "description": ""
         }
     ]

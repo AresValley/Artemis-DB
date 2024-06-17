@@ -1,1 +1,1 @@
-The Q-MAC HF Modem is a military modem developed by Q-MAC (acquired by Barrett Communications). It uses OFDM with a BPSK sync channel in a gap of the signal.
+Pursuit series wireless car alarm entry key, for use on vehicles equipped with Pursuit Series Car Alarm System.

@@ -1,1 +1,1 @@
-The HIPAS (HIgh Power Auroral Stimulation) Observatory was a research facility, built to study the ionosphere and its influence on radio communications. It was located 25 miles east of Fairbanks, Alaska in the Fairbanks North Star Borough area.
+HFDVL (or HFD+VL) is an experimental mode developed by research groups from The University of Las Palmas de Gran Canaria and The Polytechnic University of Madrid. This mode is intended for military use in accordance with STANAG 5066 parameters.

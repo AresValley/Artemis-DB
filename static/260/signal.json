@@ -1,25 +1,65 @@
 {
     "signal": {
-        "name": "JT6M",
-        "url": "https://www.sigidwiki.com/wiki/JT6M"
+        "name": "JT65",
+        "url": "https://www.sigidwiki.com/wiki/JT65"
     },
     "category": [
-        "Amateur Radio",
-        "Digital"
+        "Digital",
+        "Amateur Radio"
     ],
     "frequency": [
         {
-            "value": 50250000,
+            "value": 24917000,
             "description": ""
         },
         {
-            "value": 50215000,
+            "value": 1838000,
+            "description": ""
+        },
+        {
+            "value": 3576000,
+            "description": ""
+        },
+        {
+            "value": 7039000,
+            "description": ""
+        },
+        {
+            "value": 7076000,
+            "description": ""
+        },
+        {
+            "value": 10139000,
+            "description": ""
+        },
+        {
+            "value": 14076000,
+            "description": ""
+        },
+        {
+            "value": 18102000,
+            "description": ""
+        },
+        {
+            "value": 18098000,
+            "description": ""
+        },
+        {
+            "value": 50276000,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 1000,
+            "value": 180,
+            "description": ""
+        },
+        {
+            "value": 360,
+            "description": ""
+        },
+        {
+            "value": 710,
             "description": ""
         }
     ],

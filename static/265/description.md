@@ -1,1 +1,1 @@
-Jim Creek Naval Radio Station is used by the US Navy to transmit commands to distant submarines.
+The Japanese Slot Machine (Enigma Designation XSL) is a simplex system used by the Japanese Maritime Self-Defense Force in Ichihara, Japan.

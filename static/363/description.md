@@ -1,1 +1,1 @@
-PLUTO II is an Over The Horizon Radar located in the Sovereign Base Area just outside RAF Akrotiri in Cyprus. PLUTO II is very active in Europe.
+PAX and PAX2 are developed by Patrick Lindecker F6CTE in 2005, and was derived from Olivia. It utilizes the AX.25 protocol that PACKET uses, and had a minimum SNR of -10dB. Can transmit APRS frames.

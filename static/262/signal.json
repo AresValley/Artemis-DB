@@ -1,32 +1,32 @@
 {
     "signal": {
-        "name": "JTMS",
-        "url": "https://www.sigidwiki.com/wiki/JTMS"
+        "name": "JT9",
+        "url": "https://www.sigidwiki.com/wiki/JT9"
     },
     "category": [
-        "Amateur Radio",
-        "Digital"
+        "Digital",
+        "Amateur Radio"
     ],
     "frequency": [
         {
-            "value": 3000000,
+            "value": 3578000,
             "description": ""
         },
         {
-            "value": 30000000,
+            "value": 28079000,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 1700,
+            "value": 20,
             "description": ""
         }
     ],
     "acf": [],
     "modulation": [
         {
-            "value": "MSK",
+            "value": "MFSK",
             "description": ""
         }
     ],

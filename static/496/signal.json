@@ -1,0 +1,46 @@
+{
+    "signal": {
+        "name": "Vehicle Counting System",
+        "url": "https://www.sigidwiki.com/wiki/Vehicle_Counting_System"
+    },
+    "category": [
+        "Commercial",
+        "Digital",
+        "Utility"
+    ],
+    "frequency": [
+        {
+            "value": 915000000,
+            "description": ""
+        },
+        {
+            "value": 925000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 10000000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "FSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "RAW",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Australia",
+            "description": ""
+        }
+    ]
+}

@@ -1,1 +1,1 @@
-Inmarsat D+ (and it's predecessor, Inmarsat D) was Inmarsat's satellite paging system. The main use of the technology was in tracking trucks and buoys and SCADA applications.
+Inmarsat C provides two-way data and messaging communication services to and from virtually anywhere in the world. The low-cost terminals and antennas are small enough to be fitted to any size of ship.

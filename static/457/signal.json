@@ -1,20 +1,24 @@
 {
     "signal": {
-        "name": "TDF",
-        "url": "https://www.sigidwiki.com/wiki/TDF"
+        "name": "T-230-1A 'Mahovik'",
+        "url": "https://www.sigidwiki.com/wiki/T-230-1A_%27Mahovik%27"
     },
     "category": [
-        "Time"
+        "Digital"
     ],
     "frequency": [
         {
-            "value": 162000,
+            "value": 3000000,
+            "description": ""
+        },
+        {
+            "value": 30000000,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 1,
+            "value": 2500,
             "description": ""
         }
     ],
@@ -33,7 +37,7 @@
     ],
     "location": [
         {
-            "value": "France",
+            "value": "Russia",
             "description": ""
         }
     ]

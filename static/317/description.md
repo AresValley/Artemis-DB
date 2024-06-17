@@ -1,1 +1,1 @@
-The Modernised High Frequency Communications System (MHFCS) is an Australian Department of Defense HF System for their military communications network. Also known as AUS MIL ISB Modem, AUS MHFCS, and ADF HFCS.
+UHF FHSS Downlink of Milstar, a US joint military service satellite communications system that provides secure, jam resistant, worldwide communications. Nicknamed 'Waterdroplets' for it's characteristic waveform and sound.

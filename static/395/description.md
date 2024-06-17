@@ -1,1 +1,3 @@
-RTTYM, developed by Nick Fedoseev (UT2UZ) in 2005, is a digital mode derived from Olivia. It aims to deliver a compromise of speed and performance. RTTYM is about 4x faster than Olivia, but trades the speed for reduced robustness and sensitivity.
+Valsala Radiosonde RS80. This is an analog weather balloon radiosonde.
+
+Measures Temperature, Pressure and Humidity.

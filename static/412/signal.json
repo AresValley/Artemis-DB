@@ -1,34 +1,20 @@
 {
     "signal": {
-        "name": "Russian overhead power line telemetry system",
-        "url": "https://www.sigidwiki.com/wiki/Russian_overhead_power_line_telemetry_system"
+        "name": "Russian OTH 'Ghadir' type",
+        "url": "https://www.sigidwiki.com/wiki/Russian_OTH_%27Ghadir%27_type"
     },
     "category": [
-        "Digital"
+        "Radar"
     ],
     "frequency": [
         {
-            "value": 50000,
-            "description": ""
-        },
-        {
-            "value": 1000000,
+            "value": 28600000,
             "description": ""
         }
     ],
-    "bandwidth": [
-        {
-            "value": 400,
-            "description": ""
-        }
-    ],
+    "bandwidth": [],
     "acf": [],
-    "modulation": [
-        {
-            "value": "FSK",
-            "description": ""
-        }
-    ],
+    "modulation": [],
     "mode": [
         {
             "value": "USB",

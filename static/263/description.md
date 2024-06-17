@@ -1,1 +1,1 @@
-Data signal thought to originate from Japanese Military/Navy
+JTMS is a meteor scatter mode that uses MSK. JTMS behaves similarily to FSK441.

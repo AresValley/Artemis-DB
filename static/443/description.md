@@ -1,1 +1,1 @@
-Single-sideband voice is a subtype of AM voice modulation. It is used in HF amateur bands and for weak signal VHF and UHF voice, as well as aircraft weather reports.
+CHX200, also known as Siemens CHP200 and PRC-921/GY, is a backpack HF ECCOM transceiver, designed and built by Siemens.

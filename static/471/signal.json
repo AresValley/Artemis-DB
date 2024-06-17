@@ -1,39 +1,28 @@
 {
     "signal": {
-        "name": "The Buzzer (ZhUOZ MDZhB UZB76)",
-        "url": "https://www.sigidwiki.com/wiki/The_Buzzer_(ZhUOZ_MDZhB_UZB76)"
+        "name": "The Alarm",
+        "url": "https://www.sigidwiki.com/wiki/The_Alarm"
     },
     "category": [
-        "Military",
-        "Analogue",
-        "Numbers Stations"
+        "Military"
     ],
     "frequency": [
         {
-            "value": 4625000,
-            "description": ""
-        },
-        {
-            "value": 6998000,
+            "value": 4770000,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 2800,
+            "value": 2400,
             "description": ""
         }
     ],
     "acf": [],
-    "modulation": [
-        {
-            "value": "USB",
-            "description": ""
-        }
-    ],
+    "modulation": [],
     "mode": [
         {
-            "value": "AM",
+            "value": "USB",
             "description": ""
         }
     ],

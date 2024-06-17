@@ -1,43 +1,48 @@
 {
     "signal": {
-        "name": "IS-54 D-AMPS",
-        "url": "https://www.sigidwiki.com/wiki/IS-54_D-AMPS"
+        "name": "IRA-ARQ",
+        "url": "https://www.sigidwiki.com/wiki/IRA-ARQ"
     },
     "category": [
-        "Commercial",
         "Digital"
     ],
     "frequency": [
         {
-            "value": 824000000,
+            "value": 3000000,
             "description": ""
         },
         {
-            "value": 849000000,
-            "description": ""
-        },
-        {
-            "value": 869000000,
-            "description": ""
-        },
-        {
-            "value": 894000000,
+            "value": 30000000,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 30000,
+            "value": 650,
+            "description": ""
+        },
+        {
+            "value": 1350,
             "description": ""
         }
     ],
     "acf": [],
     "modulation": [
         {
-            "value": "PSK",
+            "value": "FSK",
             "description": ""
         }
     ],
-    "mode": [],
-    "location": []
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
 }

@@ -1,1 +1,1 @@
-Gonets (Russian Гонец, for Messenger) is a Russian civilian low Earth orbit communications satellite system.
+Golay Paging (or Golay Sequential Code, GSC) is a one-way 2-FSK paging format developed by Motorola. It is capable of transmitting tone, numeric, alphanumeric, and voice pages.

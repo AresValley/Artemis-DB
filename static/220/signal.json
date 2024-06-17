@@ -1,51 +1,37 @@
 {
     "signal": {
-        "name": "Hellschreiber",
-        "url": "https://www.sigidwiki.com/wiki/Hellschreiber"
+        "name": "HP Laptop",
+        "url": "https://www.sigidwiki.com/wiki/HP_Laptop"
     },
     "category": [
-        "Amateur Radio",
-        "Analogue",
-        "Digital"
+        "Interfering"
     ],
     "frequency": [
         {
-            "value": 3000000,
-            "description": ""
-        },
-        {
-            "value": 30000000,
+            "value": 50900,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 350,
-            "description": ""
-        },
-        {
-            "value": 800,
+            "value": 1500,
             "description": ""
         }
     ],
     "acf": [],
     "modulation": [
         {
-            "value": "OOK",
+            "value": "USB",
             "description": ""
         },
         {
-            "value": "FSK",
-            "description": ""
-        },
-        {
-            "value": "MSK",
+            "value": "LSB",
             "description": ""
         }
     ],
     "mode": [
         {
-            "value": "USB",
+            "value": "CW",
             "description": ""
         }
     ],

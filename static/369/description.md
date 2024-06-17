@@ -1,1 +1,1 @@
-PSK-AM is an amateur digital mode developed by Patrick Lindecker F6CTE in 2002/2003, and incorporates FEC interleaving. PSK-AM uses the modulation of PSK10/31 with the FEC of SITOR-B.
+Also known as PSK paging, is a signal that allows side-by-side PSK to exist in AFSK paging links, allowing for more dynamically processed DSP available.

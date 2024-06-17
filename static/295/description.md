@@ -1,1 +1,1 @@
-MIL-STD-188-110 Appendix A is a 16-tone OFDM PSK signal used to transmit data. As of 110C revision, this mode is being phased out.
+MIL-STD-110-342 was a US Dept. of Defense standard for a 16 channel VFT teletype transmission. This mode was officially cancelled as of December 5th, 1995.

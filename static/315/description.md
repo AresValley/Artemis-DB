@@ -1,1 +1,1 @@
-Weather balloon telemetry data. The LORAN-C signal is mixed into the carrier.
+Meteosat WEFAX is a WEFAX used to transmit satellite images via Meteosat Satellites. WEFAX was introduced with the first Meteosat in 1977.

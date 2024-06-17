@@ -1,1 +1,1 @@
-UTC (Coordinated Universal Time) time standard transmission from NIST (National Institute of Standards and Technology) stations WWV in Fort Collins, Colorado USA and WWVH in Kauai, Hawaii.
+UK GOV/MIL "WinDRM51" variant. Unknown purpose, But link between UK & Cyprus has been found some years ago.

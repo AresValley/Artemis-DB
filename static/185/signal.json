@@ -1,10 +1,11 @@
 {
     "signal": {
-        "name": "FreeDV plus Video",
-        "url": "https://www.sigidwiki.com/wiki/FreeDV_plus_Video"
+        "name": "FreeDV COHPSK",
+        "url": "https://www.sigidwiki.com/wiki/FreeDV_COHPSK"
     },
     "category": [
-        "Amateur Radio"
+        "Amateur Radio",
+        "Digital"
     ],
     "frequency": [
         {
@@ -14,26 +15,30 @@
         {
             "value": 30000000,
             "description": ""
-        },
-        {
-            "value": 14236000,
-            "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 3500,
+            "value": 1500,
             "description": ""
         }
     ],
     "acf": [],
     "modulation": [
         {
-            "value": "OFDM",
+            "value": "PSK",
             "description": ""
         },
         {
-            "value": "FM",
+            "value": "QPSK",
+            "description": ""
+        },
+        {
+            "value": "DQPSK",
+            "description": ""
+        },
+        {
+            "value": "OFDM",
             "description": ""
         }
     ],

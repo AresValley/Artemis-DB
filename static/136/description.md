@@ -1,1 +1,1 @@
-Digisondes are ionosondes that use pulsed signal that can gather more radar information than a traditional ionosonde sweep.
+Differential GPS (DGPS), also known as M823 DGPS and SC-104 DGPS, is a supplementary correction signal used by GPS receivers to increase the accuracy of GPS based positioning.

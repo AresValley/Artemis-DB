@@ -1,41 +1,51 @@
 {
     "signal": {
-        "name": "MSM-1250 Modem",
-        "url": "https://www.sigidwiki.com/wiki/MSM-1250_Modem"
+        "name": "MSK144",
+        "url": "https://www.sigidwiki.com/wiki/MSK144"
     },
     "category": [
+        "Amateur Radio",
         "Digital"
     ],
     "frequency": [
         {
-            "value": 3000000,
+            "value": 144000000,
             "description": ""
         },
         {
-            "value": 30000000,
+            "value": 440000000,
+            "description": ""
+        },
+        {
+            "value": 50000000,
+            "description": ""
+        },
+        {
+            "value": 70000000,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 2400,
-            "description": ""
-        },
-        {
             "value": 2500,
             "description": ""
         }
     ],
-    "acf": [],
+    "acf": [
+        {
+            "value": 72.0,
+            "description": "Main"
+        }
+    ],
     "modulation": [
         {
-            "value": "FSK",
+            "value": "MSK",
             "description": ""
         }
     ],
     "mode": [
         {
-            "value": "USB",
+            "value": "FM",
             "description": ""
         }
     ],

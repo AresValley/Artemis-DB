@@ -1,1 +1,1 @@
-Multitone Paging signal, developed by Multitone Electronics in the UK. Uses similar coding to POCSAG but the headers are different and only work with Multitone's range of paging products
+MFSK is a family of multi-frequency shift keying digital transmission modes. MFSK-8 and MFSK-16 are two well-known amateur radio modes.

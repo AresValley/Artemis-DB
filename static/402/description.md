@@ -1,1 +1,1 @@
-RTTY (Also known as Baudot or ITA2) uses the Baudot 5-bit alphabet with FSK to send text messages over the shortwave. This mode is gradually dying out in favor of more robust modes like PSK31 in the amateur service.
+The Radio Telephone Network C (German: Funktelefonnetz-C, abbreviated as C-Netz), was a first generation analog cellular phone system deployed and operated in Germany (at first West Germany) by DeTeMobil (formerly of Deutsche Bundespost Telekom, currently Deutsche Telekom).

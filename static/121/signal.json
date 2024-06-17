@@ -1,36 +1,49 @@
 {
     "signal": {
-        "name": "Contr\u00f4le de vitesse par balises (KVB)",
-        "url": "https://www.sigidwiki.com/wiki/Contr%C3%B4le_de_vitesse_par_balises_(KVB)"
+        "name": "Continuous Tone-Coded Squelch System (CTCSS)",
+        "url": "https://www.sigidwiki.com/wiki/Continuous_Tone-Coded_Squelch_System_(CTCSS)"
     },
     "category": [],
     "frequency": [
         {
-            "value": 4500000,
+            "value": 30000000,
+            "description": ""
+        },
+        {
+            "value": 800000000,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 100000,
+            "value": 5000,
+            "description": ""
+        },
+        {
+            "value": 12500,
+            "description": ""
+        },
+        {
+            "value": 30000,
             "description": ""
         }
     ],
     "acf": [],
     "modulation": [
         {
-            "value": "AM",
+            "value": "CW",
             "description": ""
         }
     ],
-    "mode": [],
+    "mode": [
+        {
+            "value": "NFM",
+            "description": ""
+        }
+    ],
     "location": [
         {
-            "value": "France",
-            "description": ""
-        },
-        {
-            "value": "United Kingdom",
+            "value": "Worldwide",
             "description": ""
         }
     ]

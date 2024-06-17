@@ -10,15 +10,15 @@
     "frequency": [
         {
             "value": 1090000000,
-            "description": "Mode-S Extended Squitter"
+            "description": ""
         },
         {
             "value": 1030000000,
-            "description": "Interrogator"
+            "description": ""
         },
         {
             "value": 978000000,
-            "description": "UAT"
+            "description": ""
         }
     ],
     "bandwidth": [

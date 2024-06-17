@@ -1,26 +1,32 @@
 {
     "signal": {
-        "name": "Glenayre Paging Link",
-        "url": "https://www.sigidwiki.com/wiki/Glenayre_Paging_Link"
+        "name": "Gandalf MDT",
+        "url": "https://www.sigidwiki.com/wiki/Gandalf_MDT"
     },
     "category": [
-        "Digital"
+        "Digital",
+        "Commercial"
     ],
     "frequency": [
         {
-            "value": 512000000,
+            "value": 150000000,
             "description": ""
         },
         {
-            "value": 152000000,
+            "value": 450000000,
             "description": ""
         }
     ],
-    "bandwidth": [],
+    "bandwidth": [
+        {
+            "value": 10000,
+            "description": ""
+        }
+    ],
     "acf": [],
     "modulation": [
         {
-            "value": "QAM",
+            "value": "4FSK",
             "description": ""
         }
     ],
@@ -32,7 +38,7 @@
     ],
     "location": [
         {
-            "value": "United States",
+            "value": "Worldwide",
             "description": ""
         }
     ]

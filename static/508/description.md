@@ -1,0 +1,1 @@
+The freezer temperature is requested by a master at regular intervals, and the slave attached to a freezer responds. The communication format appears to be a variant of chirp spread spectrum, (although the spectrum it consumes is quite narrow at ~150 kHz).

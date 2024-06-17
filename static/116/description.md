@@ -1,1 +1,1 @@
-Coherent BPSK, also known as C-BPSK, was an experimental amateur mode developed by Bill DeCarle VE2IQ.
+Codan Data Modulation for Codan Data Modems. Has 3 distinct signals: Data, ALE, and SELCAL. This modulation is used in Codan's 9001, 9002, 3012 and 3212 modems.

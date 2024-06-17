@@ -1,41 +1,53 @@
 {
     "signal": {
-        "name": "DCF77",
-        "url": "https://www.sigidwiki.com/wiki/DCF77"
+        "name": "DB0UPB research beacon",
+        "url": "https://www.sigidwiki.com/wiki/DB0UPB_research_beacon"
     },
     "category": [
-        "Digital",
-        "Time"
+        "Amateur Radio",
+        "Analogue",
+        "Digital"
     ],
     "frequency": [
         {
-            "value": 77500,
+            "value": 3600000,
+            "description": ""
+        },
+        {
+            "value": 7050000,
+            "description": ""
+        },
+        {
+            "value": 14101000,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 1300,
+            "value": 2700,
             "description": ""
         }
     ],
-    "acf": [
-        {
-            "value": 1000.0,
-            "description": "Main"
-        }
-    ],
+    "acf": [],
     "modulation": [
         {
-            "value": "AM",
+            "value": "MFSK",
             "description": ""
         },
         {
-            "value": "PSK",
+            "value": "LSB",
+            "description": ""
+        },
+        {
+            "value": "USB",
             "description": ""
         }
     ],
     "mode": [
+        {
+            "value": "LSB",
+            "description": ""
+        },
         {
             "value": "USB",
             "description": ""

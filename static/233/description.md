@@ -1,1 +1,1 @@
-ILS Marker Beacons are used by aircraft for Instrument Landing Systems, transmitted by an upward-facing directive antenna at known distances along the approach path.
+ICV is a NATO-operated VLF transmitted located in the island of Tavolara, Sardinia, Italy.

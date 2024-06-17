@@ -1,38 +1,34 @@
 {
     "signal": {
-        "name": "DeltaFix",
-        "url": "https://www.sigidwiki.com/wiki/DeltaFix"
+        "name": "Delfi-C3 Telemetry",
+        "url": "https://www.sigidwiki.com/wiki/Delfi-C3_Telemetry"
     },
     "category": [
-        "Marine",
-        "Navigation"
+        "Satellite",
+        "Digital"
     ],
     "frequency": [
         {
-            "value": 1700000,
-            "description": ""
-        },
-        {
-            "value": 3400000,
+            "value": 145870000,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 250,
+            "value": 10000,
             "description": ""
         }
     ],
     "acf": [],
     "modulation": [
         {
-            "value": "FSK",
+            "value": "BPSK",
             "description": ""
         }
     ],
     "mode": [
         {
-            "value": "USB",
+            "value": "LSB",
             "description": ""
         }
     ],

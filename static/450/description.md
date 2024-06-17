@@ -1,1 +1,1 @@
-Sonne (Called Consol by the Britons) was a low-frequency radio range based radio navigation system used for long range navigation.
+A remote control transmission from the controller from an Elenco Snap Circuits SCROV-10 kit.

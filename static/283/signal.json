@@ -1,44 +1,44 @@
 {
     "signal": {
-        "name": "Logitech(R) Wireless Mouse+Keyboard Signal",
-        "url": "https://www.sigidwiki.com/wiki/Logitech(R)_Wireless_Mouse%2BKeyboard_Signal"
+        "name": "Logic Trunked Radio (LTR)",
+        "url": "https://www.sigidwiki.com/wiki/Logic_Trunked_Radio_(LTR)"
     },
     "category": [
-        "Digital"
+        "Digital",
+        "Commercial"
     ],
     "frequency": [
         {
-            "value": 2400000000,
+            "value": 150000000,
+            "description": ""
+        },
+        {
+            "value": 470000000,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 500000,
+            "value": 12500,
+            "description": ""
+        },
+        {
+            "value": 25000,
             "description": ""
         }
     ],
     "acf": [],
     "modulation": [
         {
-            "value": "PPM",
-            "description": ""
-        },
-        {
-            "value": "GFSK",
+            "value": "FSK",
             "description": ""
         }
     ],
     "mode": [
         {
-            "value": "RAW",
+            "value": "NFM",
             "description": ""
         }
     ],
-    "location": [
-        {
-            "value": "Worldwide",
-            "description": ""
-        }
-    ]
+    "location": []
 }

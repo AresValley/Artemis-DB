@@ -1,34 +1,33 @@
 {
     "signal": {
-        "name": "Hyundai Mobis RKE-4F16 Key Fob",
-        "url": "https://www.sigidwiki.com/wiki/Hyundai_Mobis_RKE-4F16_Key_Fob"
+        "name": "HyperFix",
+        "url": "https://www.sigidwiki.com/wiki/HyperFix"
     },
     "category": [
-        "Utility",
-        "Digital"
+        "Marine",
+        "Navigation"
     ],
     "frequency": [
         {
-            "value": 433920000,
+            "value": 3400000,
+            "description": ""
+        },
+        {
+            "value": 1600000,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 110000,
+            "value": 250,
             "description": ""
         }
     ],
     "acf": [],
-    "modulation": [
-        {
-            "value": "FSK",
-            "description": ""
-        }
-    ],
+    "modulation": [],
     "mode": [
         {
-            "value": "WFM",
+            "value": "USB",
             "description": ""
         }
     ],

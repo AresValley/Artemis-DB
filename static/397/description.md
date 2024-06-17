@@ -1,1 +1,1 @@
-RUM-MOI FEC, also known as RUM-MIL 115.76 Bd, is a FSK FEC mode used by the Romanian Ministry of Internal Affairs, supposedly under military use. This is no longer used today, replaced by MIL-STD 188-110 Serial.
+RUM-FEC, also known as ROU-FEC and SAU-FEC, is a FSK FEC system used by Romanian diplomatic services. This is no longer used today, replaced by MIL-STD 188-110 Serial.

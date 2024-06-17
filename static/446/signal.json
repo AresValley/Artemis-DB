@@ -1,65 +1,49 @@
 {
     "signal": {
-        "name": "SkyOFDM",
-        "url": "https://www.sigidwiki.com/wiki/SkyOFDM"
+        "name": "SiriusXM Satellite Radio",
+        "url": "https://www.sigidwiki.com/wiki/SiriusXM_Satellite_Radio"
     },
     "category": [
-        "Military",
-        "Digital"
+        "Digital",
+        "Satellite",
+        "Commercial"
     ],
     "frequency": [
         {
-            "value": 3000000,
+            "value": 2332500000,
             "description": ""
         },
         {
-            "value": 30000000,
+            "value": 2345000000,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 2000,
-            "description": ""
-        },
-        {
-            "value": 2400,
+            "value": 12500000,
             "description": ""
         }
     ],
-    "acf": [
-        {
-            "value": 76.2,
-            "description": "Main"
-        },
-        {
-            "value": 78.0,
-            "description": "Main"
-        },
-        {
-            "value": 113.4,
-            "description": "Main"
-        }
-    ],
+    "acf": [],
     "modulation": [
         {
-            "value": "PSK",
+            "value": "OFDM",
             "description": ""
         },
         {
-            "value": "OFDM",
+            "value": "PSK",
             "description": ""
         }
     ],
     "mode": [
         {
-            "value": "USB",
+            "value": "RAW",
             "description": ""
         }
     ],
     "location": [
         {
-            "value": "Finland",
+            "value": "United States",
             "description": ""
         }
     ]

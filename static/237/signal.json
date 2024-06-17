@@ -1,57 +1,43 @@
 {
     "signal": {
-        "name": "ISCAT",
-        "url": "https://www.sigidwiki.com/wiki/ISCAT"
+        "name": "IS-54 D-AMPS",
+        "url": "https://www.sigidwiki.com/wiki/IS-54_D-AMPS"
     },
     "category": [
-        "Amateur Radio",
-        "Digital"
+        "Digital",
+        "Commercial"
     ],
     "frequency": [
         {
-            "value": 50000000,
+            "value": 824000000,
             "description": ""
         },
         {
-            "value": 54000000,
+            "value": 849000000,
             "description": ""
         },
         {
-            "value": 144000000,
+            "value": 869000000,
             "description": ""
         },
         {
-            "value": 148000000,
+            "value": 894000000,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 904,
-            "description": ""
-        },
-        {
-            "value": 1809,
+            "value": 30000,
             "description": ""
         }
     ],
     "acf": [],
     "modulation": [
         {
-            "value": "MFSK",
+            "value": "PSK",
             "description": ""
         }
     ],
-    "mode": [
-        {
-            "value": "USB",
-            "description": ""
-        }
-    ],
-    "location": [
-        {
-            "value": "Worldwide",
-            "description": ""
-        }
-    ]
+    "mode": [],
+    "location": []
 }

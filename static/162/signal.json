@@ -1,44 +1,43 @@
 {
     "signal": {
-        "name": "ELEKTRO-L GGAK-E Direct Broadcast",
-        "url": "https://www.sigidwiki.com/wiki/ELEKTRO-L_GGAK-E_Direct_Broadcast"
+        "name": "EIA",
+        "url": "https://www.sigidwiki.com/wiki/EIA"
     },
     "category": [
-        "Digital",
-        "Satellite"
+        "Digital"
     ],
     "frequency": [
         {
-            "value": 1693000000,
+            "value": 30000000,
+            "description": ""
+        },
+        {
+            "value": 800000000,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 15000,
+            "value": 5000,
             "description": ""
         }
     ],
     "acf": [],
     "modulation": [
         {
-            "value": "PSK",
+            "value": "MFSK",
             "description": ""
         }
     ],
     "mode": [
         {
-            "value": "DSB",
+            "value": "NFM",
             "description": ""
         }
     ],
     "location": [
         {
-            "value": "Asia",
-            "description": ""
-        },
-        {
-            "value": "Europe",
+            "value": "Worldwide",
             "description": ""
         }
     ]

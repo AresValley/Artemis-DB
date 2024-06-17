@@ -1,1 +1,1 @@
-Radio-frequency identification (RFID) uses electromagnetic fields to automatically identify and track tags attached to objects. The tags contain electronically-stored information. Passive tags collect energy from a nearby RFID reader's interrogating radio waves.
+RDL is a Russian VLF station located in Krasnodar. It is one of the few VLF stations that changes modes during routine transmissions.

@@ -1,1 +1,1 @@
-STANAG 4539 or MIL-STD-188-110B/C Appendix C is a HDR (110B) / MDR (110C) serial PSK/QAM signal that can reach speeds up to 9600 bps (12800 bps with no interleaving).
+STANAG 4529 a modification of STANAG 4285 to deliver data and voice in 1240 Hz of bandwidth at rates of up to 1800 bps.

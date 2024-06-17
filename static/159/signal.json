@@ -1,41 +1,39 @@
 {
     "signal": {
-        "name": "EEA",
-        "url": "https://www.sigidwiki.com/wiki/EEA"
+        "name": "ECG Telemetry",
+        "url": "https://www.sigidwiki.com/wiki/ECG_Telemetry"
     },
-    "category": [],
+    "category": [
+        "Utility"
+    ],
     "frequency": [
         {
-            "value": 30000000,
-            "description": ""
-        },
-        {
-            "value": 800000000,
+            "value": 403959000,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 5000,
+            "value": 1000,
             "description": ""
         }
     ],
     "acf": [],
     "modulation": [
         {
-            "value": "MFSK",
+            "value": "FSK",
             "description": ""
         }
     ],
     "mode": [
         {
-            "value": "NFM",
+            "value": "FM",
             "description": ""
         }
     ],
     "location": [
         {
-            "value": "Worldwide",
+            "value": "Australia",
             "description": ""
         }
     ]

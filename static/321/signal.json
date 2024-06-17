@@ -1,49 +1,29 @@
 {
     "signal": {
-        "name": "Motorola SECURENET",
-        "url": "https://www.sigidwiki.com/wiki/Motorola_SECURENET"
+        "name": "Motorola MOSCAD SCADA telemetry",
+        "url": "https://www.sigidwiki.com/wiki/Motorola_MOSCAD_SCADA_telemetry"
     },
     "category": [
-        "Trunked Radio",
-        "Commercial"
+        "Utility",
+        "Digital"
     ],
     "frequency": [
-        {
-            "value": 137000000,
-            "description": ""
-        },
-        {
-            "value": 174000000,
-            "description": ""
-        },
-        {
-            "value": 400000000,
-            "description": ""
-        },
-        {
-            "value": 420000000,
-            "description": ""
-        },
         {
             "value": 450000000,
             "description": ""
         },
         {
-            "value": 520000000,
+            "value": 950000000,
             "description": ""
         },
         {
-            "value": 941000000,
-            "description": ""
-        },
-        {
-            "value": 851000000,
+            "value": 413000000,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 16000,
+            "value": 12000,
             "description": ""
         }
     ],
@@ -60,10 +40,5 @@
             "description": ""
         }
     ],
-    "location": [
-        {
-            "value": "Worldwide",
-            "description": ""
-        }
-    ]
+    "location": []
 }

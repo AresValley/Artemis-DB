@@ -1,1 +1,1 @@
-OPERA Ad-Hoc Data/Beacon. The system is unique in that utilizes a serial data stream and Manchester coding, its therefore impossible to lose lock and its extremely robust in disturbed paths and heavy static.
+Cheap RC Cars with only for buttons (Forward, Reverse, Left, Right) Typically use 27Mhz or 49Mhz as the transmit frequency. There's typically no channel switching system on the remote control, which leads to interference with operating two RC vehicles at once.

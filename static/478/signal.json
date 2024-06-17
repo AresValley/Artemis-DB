@@ -1,55 +1,55 @@
 {
     "signal": {
-        "name": "Transit 5B-5",
-        "url": "https://www.sigidwiki.com/wiki/Transit_5B-5"
+        "name": "Traffic Light Control R09",
+        "url": "https://www.sigidwiki.com/wiki/Traffic_Light_Control_R09"
     },
     "category": [
-        "Navigation",
-        "Military",
-        "Analogue",
         "Digital",
-        "Satellite"
+        "Utility"
     ],
     "frequency": [
         {
-            "value": 136658000,
+            "value": 68000000,
+            "description": ""
+        },
+        {
+            "value": 87500000,
+            "description": ""
+        },
+        {
+            "value": 146000000,
+            "description": ""
+        },
+        {
+            "value": 174000000,
+            "description": ""
+        },
+        {
+            "value": 450000000,
+            "description": ""
+        },
+        {
+            "value": 470000000,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 32000,
+            "value": 10000,
             "description": ""
         }
     ],
     "acf": [],
     "modulation": [
         {
-            "value": "PCM",
-            "description": ""
-        },
-        {
-            "value": "PAM",
-            "description": ""
-        },
-        {
-            "value": "FM",
-            "description": ""
-        },
-        {
-            "value": "PM",
+            "value": "AFSK",
             "description": ""
         }
     ],
-    "mode": [
-        {
-            "value": "WFM",
-            "description": ""
-        }
-    ],
+    "mode": [],
     "location": [
         {
-            "value": "Worldwide",
+            "value": "Germany",
             "description": ""
         }
     ]

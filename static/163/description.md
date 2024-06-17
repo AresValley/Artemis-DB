@@ -1,1 +1,1 @@
-EURO is a 6/7-tone selcall mode used in VHF/UHF radios. Also known as EuroSignal.
+Broadcasts the data from the GGAK-E cosmic ray detector onboard ELEKTRO-L geostationary weather satellites

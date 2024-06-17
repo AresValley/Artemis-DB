@@ -1,42 +1,38 @@
 {
     "signal": {
-        "name": "Differential Global Positioning System (DGPS)",
-        "url": "https://www.sigidwiki.com/wiki/Differential_Global_Positioning_System_(DGPS)"
+        "name": "Denso 4EA Key Fob",
+        "url": "https://www.sigidwiki.com/wiki/Denso_4EA_Key_Fob"
     },
     "category": [
-        "Navigation",
+        "Utility",
         "Digital"
     ],
     "frequency": [
         {
-            "value": 283500,
-            "description": ""
-        },
-        {
-            "value": 2950000,
+            "value": 433920000,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 150,
-            "description": ""
-        },
-        {
-            "value": 250,
+            "value": 15000,
             "description": ""
         }
     ],
     "acf": [],
     "modulation": [
         {
-            "value": "MSK",
+            "value": "AM",
+            "description": ""
+        },
+        {
+            "value": "ASK",
             "description": ""
         }
     ],
     "mode": [
         {
-            "value": "USB",
+            "value": "AM",
             "description": ""
         }
     ],

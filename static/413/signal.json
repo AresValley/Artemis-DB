@@ -1,40 +1,43 @@
 {
     "signal": {
-        "name": "S-Band Jammer",
-        "url": "https://www.sigidwiki.com/wiki/S-Band_Jammer"
+        "name": "Russian overhead power line telemetry system",
+        "url": "https://www.sigidwiki.com/wiki/Russian_overhead_power_line_telemetry_system"
     },
     "category": [
-        "Military",
-        "Commercial",
-        "Analogue"
+        "Digital"
     ],
     "frequency": [
         {
-            "value": 2400000000,
+            "value": 50000,
+            "description": ""
+        },
+        {
+            "value": 1000000,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 100000,
-            "description": ""
-        },
-        {
-            "value": 100000000,
+            "value": 400,
             "description": ""
         }
     ],
     "acf": [],
     "modulation": [
         {
-            "value": "Noise",
+            "value": "FSK",
             "description": ""
         }
     ],
-    "mode": [],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
     "location": [
         {
-            "value": "Worldwide",
+            "value": "Russia",
             "description": ""
         }
     ]

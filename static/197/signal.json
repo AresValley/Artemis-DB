@@ -1,41 +1,35 @@
 {
     "signal": {
-        "name": "GRAW DFM-09 Weather Balloon (Radiosonde)",
-        "url": "https://www.sigidwiki.com/wiki/GRAW_DFM-09_Weather_Balloon_(Radiosonde)"
+        "name": "GRAVES",
+        "url": "https://www.sigidwiki.com/wiki/GRAVES"
     },
-    "category": [],
+    "category": [
+        "Military",
+        "Radar"
+    ],
     "frequency": [
         {
-            "value": 400010000,
-            "description": ""
-        },
-        {
-            "value": 405990000,
+            "value": 143050000,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 20000,
+            "value": 1000,
             "description": ""
         }
     ],
     "acf": [],
-    "modulation": [
-        {
-            "value": "FSK",
-            "description": ""
-        }
-    ],
+    "modulation": [],
     "mode": [
         {
-            "value": "NFM",
+            "value": "RAW I/Q",
             "description": ""
         }
     ],
     "location": [
         {
-            "value": "Worldwide",
+            "value": "France",
             "description": ""
         }
     ]

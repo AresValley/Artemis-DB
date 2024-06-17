@@ -1,1 +1,1 @@
-SWED-ARQ, also known as ARQ-SWE, was a Swedish simplex ARQ system used by Swedish diplomatic services. This protocol supported three packet lengths and was able to change packet length mid-transmission. No longer used today.
+STP403 is a bus PIT system used to update digital displays at bus stops. STP403 was developed by French companies INEO and CESATEC.

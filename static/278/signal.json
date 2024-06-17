@@ -1,7 +1,7 @@
 {
     "signal": {
-        "name": "Link-11 (UHF)",
-        "url": "https://www.sigidwiki.com/wiki/Link-11_(UHF)"
+        "name": "Link-11",
+        "url": "https://www.sigidwiki.com/wiki/Link-11"
     },
     "category": [
         "Military",
@@ -9,17 +9,29 @@
     ],
     "frequency": [
         {
-            "value": 225000000,
+            "value": 2000000,
             "description": ""
         },
         {
-            "value": 399975000,
+            "value": 29999900,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 30000,
+            "value": 2500,
+            "description": ""
+        },
+        {
+            "value": 3000,
+            "description": ""
+        },
+        {
+            "value": 5000,
+            "description": ""
+        },
+        {
+            "value": 6000,
             "description": ""
         }
     ],
@@ -32,7 +44,7 @@
     ],
     "mode": [
         {
-            "value": "NFM",
+            "value": "USB",
             "description": ""
         }
     ],

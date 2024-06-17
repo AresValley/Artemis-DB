@@ -1,35 +1,35 @@
 {
     "signal": {
-        "name": "Snap Circuits SCROV-10 Remote Control",
-        "url": "https://www.sigidwiki.com/wiki/Snap_Circuits_SCROV-10_Remote_Control"
+        "name": "Smart TV Interference",
+        "url": "https://www.sigidwiki.com/wiki/Smart_TV_Interference"
     },
     "category": [
-        "Digital"
+        "Interfering"
     ],
     "frequency": [
         {
-            "value": 27145000,
+            "value": 528000000,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 6000,
+            "value": 84000,
             "description": ""
         }
     ],
     "acf": [],
-    "modulation": [
-        {
-            "value": "ASK",
-            "description": ""
-        }
-    ],
+    "modulation": [],
     "mode": [
         {
-            "value": "RAW",
+            "value": "USB",
             "description": ""
         }
     ],
-    "location": []
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
 }

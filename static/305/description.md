@@ -1,1 +1,1 @@
-MRZ-N1 is a russian weather radiosonde.
+MRZ-3MK is a Russian weather radiosonde.

@@ -1,0 +1,1 @@
+Yachta or Yakhta (Russian for 'Boat') T-219 is an analogue voice scrambler. It is unique in that an FSK sync signal is transmitted in the middle of the main signal, with the scrambled voice stream split above and below the FSK signal.

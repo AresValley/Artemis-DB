@@ -1,74 +1,51 @@
 {
     "signal": {
-        "name": "Chinese 30-tone OFDM modem",
-        "url": "https://www.sigidwiki.com/wiki/Chinese_30-tone_OFDM_modem"
+        "name": "Vaisala RS92-SGP Weather Balloon (Radiosonde)",
+        "url": "https://www.sigidwiki.com/wiki/Vaisala_RS92-SGP_Weather_Balloon_(Radiosonde)"
     },
     "category": [
-        "Military",
-        "Digital"
+        "Digital",
+        "Utility"
     ],
     "frequency": [
         {
-            "value": 4557000,
+            "value": 400150000,
             "description": ""
         },
         {
-            "value": 8250000,
-            "description": ""
-        },
-        {
-            "value": 8310000,
-            "description": ""
-        },
-        {
-            "value": 8563000,
-            "description": ""
-        },
-        {
-            "value": 9144000,
-            "description": ""
-        },
-        {
-            "value": 14433000,
-            "description": ""
-        },
-        {
-            "value": 16500000,
+            "value": 405990000,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 3000,
+            "value": 10000,
             "description": ""
         }
     ],
-    "acf": [],
+    "acf": [
+        {
+            "value": 1000.0,
+            "description": "Frame"
+        },
+        {
+            "value": 4.166,
+            "description": "Word"
+        }
+    ],
     "modulation": [
         {
-            "value": "QPSK",
-            "description": ""
-        },
-        {
-            "value": "BPSK",
-            "description": ""
-        },
-        {
-            "value": "OFDM",
+            "value": "GFSK",
             "description": ""
         }
     ],
     "mode": [
         {
-            "value": "LSB",
+            "value": "NFM",
             "description": ""
         }
     ],
     "location": [
-        {
-            "value": "China",
-            "description": ""
-        },
         {
             "value": "Worldwide",
             "description": ""

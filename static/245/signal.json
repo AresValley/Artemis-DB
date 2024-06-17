@@ -1,35 +1,49 @@
 {
     "signal": {
-        "name": "Inmarsat-D(D+) Downlink",
-        "url": "https://www.sigidwiki.com/wiki/Inmarsat-D(D%2B)_Downlink"
+        "name": "Inmarsat-C TDM",
+        "url": "https://www.sigidwiki.com/wiki/Inmarsat-C_TDM"
     },
     "category": [
-        "Marine",
-        "Commercial",
-        "Utility",
-        "Digital",
-        "Satellite"
+        "Satellite",
+        "Marine"
     ],
     "frequency": [
         {
-            "value": 1525000000,
+            "value": 1537700000,
             "description": ""
         },
         {
-            "value": 1559000000,
+            "value": 1539585000,
+            "description": ""
+        },
+        {
+            "value": 1539685000,
+            "description": ""
+        },
+        {
+            "value": 1539525000,
+            "description": ""
+        },
+        {
+            "value": 1539555000,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 640,
+            "value": 2500,
             "description": ""
         }
     ],
-    "acf": [],
+    "acf": [
+        {
+            "value": 135.0,
+            "description": "Main"
+        }
+    ],
     "modulation": [
         {
-            "value": "MFSK",
+            "value": "PSK",
             "description": ""
         }
     ],

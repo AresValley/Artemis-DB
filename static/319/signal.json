@@ -1,57 +1,39 @@
 {
     "signal": {
-        "name": "Motorola ASTRO 25 HPD Air Interface",
-        "url": "https://www.sigidwiki.com/wiki/Motorola_ASTRO_25_HPD_Air_Interface"
+        "name": "Morse Code (CW)",
+        "url": "https://www.sigidwiki.com/wiki/Morse_Code_(CW)"
     },
     "category": [
-        "Trunked Radio",
-        "Digital"
+        "Amateur Radio",
+        "Military"
     ],
     "frequency": [
         {
-            "value": 769000000,
+            "value": 3000,
             "description": ""
         },
         {
-            "value": 775000000,
-            "description": ""
-        },
-        {
-            "value": 851000000,
-            "description": ""
-        },
-        {
-            "value": 869000000,
+            "value": 250000000000,
             "description": ""
         }
     ],
-    "bandwidth": [
-        {
-            "value": 17700,
-            "description": ""
-        }
-    ],
-    "acf": [
-        {
-            "value": 120.0,
-            "description": "Main"
-        }
-    ],
+    "bandwidth": [],
+    "acf": [],
     "modulation": [
         {
-            "value": "QAM",
+            "value": "OOK",
             "description": ""
         }
     ],
     "mode": [
         {
-            "value": "RAW",
+            "value": "CW",
             "description": ""
         }
     ],
     "location": [
         {
-            "value": "United States",
+            "value": "Worldwide",
             "description": ""
         }
     ]

@@ -1,1 +1,1 @@
-MD-674, also known as Wireline FSK, is a very old United States Military FSK Modem from the 1960's. Uses 85 Hz FSK shift. Speeds of 50 Bd, 75 Bd, 100 Bd, and 150 Bd have been logged. No longer seen today.
+MD-522 (Also known as MIL-M-55529A) is a synchronous FSK mode built into GRC-MD522 teletypewriter sets and used for wirelessly transmitting ASCII information. MD-522 has a narrowband, wideband, and diversity mode.

@@ -1,19 +1,18 @@
 {
     "signal": {
-        "name": "MDC1200",
-        "url": "https://www.sigidwiki.com/wiki/MDC1200"
+        "name": "MDC-4800",
+        "url": "https://www.sigidwiki.com/wiki/MDC-4800"
     },
     "category": [
-        "Commercial",
         "Digital"
     ],
     "frequency": [
         {
-            "value": 30000000,
+            "value": 150000000,
             "description": ""
         },
         {
-            "value": 960000000,
+            "value": 850000000,
             "description": ""
         }
     ],
@@ -21,22 +20,18 @@
         {
             "value": 12500,
             "description": ""
-        },
-        {
-            "value": 20000,
-            "description": ""
         }
     ],
     "acf": [],
     "modulation": [
         {
-            "value": "AFSK",
+            "value": "GFSK",
             "description": ""
         }
     ],
     "mode": [
         {
-            "value": "FM",
+            "value": "NFM",
             "description": ""
         }
     ],

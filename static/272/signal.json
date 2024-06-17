@@ -1,34 +1,34 @@
 {
     "signal": {
-        "name": "LORAN",
-        "url": "https://www.sigidwiki.com/wiki/LORAN"
+        "name": "LEOSAR Downlink",
+        "url": "https://www.sigidwiki.com/wiki/LEOSAR_Downlink"
     },
     "category": [
-        "Marine",
-        "Navigation"
+        "Satellite",
+        "Digital"
     ],
     "frequency": [
         {
-            "value": 100000,
+            "value": 1544500000,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 20000,
+            "value": 350000,
             "description": ""
         }
     ],
     "acf": [],
     "modulation": [
         {
-            "value": "PPM",
+            "value": "PSK",
             "description": ""
         }
     ],
     "mode": [
         {
-            "value": "USB",
+            "value": "NFM",
             "description": ""
         }
     ],

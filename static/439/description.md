@@ -1,1 +1,1 @@
-These are samples from the Sensus Water meters. They are a FHSS ASK encoded data transmission for purposes of providing municipalities water meter telemetry (for billing how much water you use).
+Secondary surveillance radar (SSR)is a radar system used in air traffic control. A surveillance radar system which uses transmitters/receivers (interrogators) and transponders.

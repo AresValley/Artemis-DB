@@ -1,1 +1,1 @@
-Method for transmitting digital images via radio, similar to WinDRM or KG-STV
+Digital Multimedia Broadcasting (DMB) is a digital radio transmission technology developed in South Korea as part of the national IT project for sending multimedia such as TV, radio and datacasting to mobile devices such as mobile phones, laptops and GPS navigation systems.

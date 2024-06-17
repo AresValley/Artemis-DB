@@ -1,44 +1,40 @@
 {
     "signal": {
-        "name": "NOAA Direct Sounder Broadcast (DSB)",
-        "url": "https://www.sigidwiki.com/wiki/NOAA_Direct_Sounder_Broadcast_(DSB)"
+        "name": "NML",
+        "url": "https://www.sigidwiki.com/wiki/NML"
     },
     "category": [
-        "Digital",
-        "Satellite"
+        "Military",
+        "Digital"
     ],
     "frequency": [
         {
-            "value": 137350000,
-            "description": ""
-        },
-        {
-            "value": 137770000,
+            "value": 25200,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 33500,
+            "value": 300,
             "description": ""
         }
     ],
     "acf": [],
     "modulation": [
         {
-            "value": "PSK",
+            "value": "FSK",
             "description": ""
         }
     ],
     "mode": [
         {
-            "value": "NFM",
+            "value": "CW",
             "description": ""
         }
     ],
     "location": [
         {
-            "value": "Worldwide",
+            "value": "United States",
             "description": ""
         }
     ]

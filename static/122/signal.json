@@ -1,48 +1,36 @@
 {
     "signal": {
-        "name": "Coquelet",
-        "url": "https://www.sigidwiki.com/wiki/Coquelet"
+        "name": "Contr\u00f4le de vitesse par balises (KVB)",
+        "url": "https://www.sigidwiki.com/wiki/Contr%C3%B4le_de_vitesse_par_balises_(KVB)"
     },
-    "category": [
-        "Military",
-        "Digital"
-    ],
+    "category": [],
     "frequency": [
         {
-            "value": 3000000,
-            "description": ""
-        },
-        {
-            "value": 30000000,
+            "value": 4500000,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 300,
-            "description": ""
-        },
-        {
-            "value": 500,
+            "value": 100000,
             "description": ""
         }
     ],
     "acf": [],
     "modulation": [
         {
-            "value": "MFSK",
+            "value": "AM",
             "description": ""
         }
     ],
-    "mode": [
-        {
-            "value": "USB",
-            "description": ""
-        }
-    ],
+    "mode": [],
     "location": [
         {
-            "value": "Worldwide",
+            "value": "France",
+            "description": ""
+        },
+        {
+            "value": "United Kingdom",
             "description": ""
         }
     ]

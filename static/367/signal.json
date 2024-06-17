@@ -1,40 +1,43 @@
 {
     "signal": {
-        "name": "PROBA 1/2 Downlink",
-        "url": "https://www.sigidwiki.com/wiki/PROBA_1/2_Downlink"
+        "name": "PRC-16",
+        "url": "https://www.sigidwiki.com/wiki/PRC-16"
     },
     "category": [
-        "Digital",
-        "Satellite"
+        "Military"
     ],
     "frequency": [
         {
-            "value": 2235000000,
+            "value": 14300000,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 4000000,
+            "value": 2200,
             "description": ""
         }
     ],
     "acf": [],
     "modulation": [
         {
-            "value": "BPSK",
+            "value": "PSK",
+            "description": ""
+        },
+        {
+            "value": "OFDM",
             "description": ""
         }
     ],
     "mode": [
         {
-            "value": "RAW",
+            "value": "USB",
             "description": ""
         }
     ],
     "location": [
         {
-            "value": "Europe",
+            "value": "China",
             "description": ""
         }
     ]

@@ -1,83 +1,33 @@
 {
     "signal": {
-        "name": "MPT 1327",
-        "url": "https://www.sigidwiki.com/wiki/MPT_1327"
+        "name": "MONITOR-2(RS39S)",
+        "url": "https://www.sigidwiki.com/wiki/MONITOR-2(RS39S)"
     },
     "category": [
-        "Trunked Radio",
-        "Digital"
+        "Satellite"
     ],
     "frequency": [
         {
-            "value": 176500000,
-            "description": ""
-        },
-        {
-            "value": 184500000,
-            "description": ""
-        },
-        {
-            "value": 201500000,
-            "description": ""
-        },
-        {
-            "value": 162500000,
-            "description": ""
-        },
-        {
-            "value": 207500000,
-            "description": ""
-        },
-        {
-            "value": 420000000,
-            "description": ""
-        },
-        {
-            "value": 800000000,
-            "description": ""
-        },
-        {
-            "value": 461000000,
+            "value": 435815000,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 10000,
-            "description": ""
-        },
-        {
-            "value": 25000,
-            "description": ""
-        },
-        {
-            "value": 20000,
-            "description": ""
-        },
-        {
             "value": 12500,
             "description": ""
         }
     ],
-    "acf": [
-        {
-            "value": 106.66,
-            "description": "Main"
-        }
-    ],
+    "acf": [],
     "modulation": [
         {
-            "value": "FM",
-            "description": ""
-        },
-        {
-            "value": "FFSK",
+            "value": "AFSK",
             "description": ""
         }
     ],
     "mode": [
         {
-            "value": "NFM",
+            "value": "FM",
             "description": ""
         }
     ],

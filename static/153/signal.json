@@ -1,62 +1,28 @@
 {
     "signal": {
-        "name": "DominoEX",
-        "url": "https://www.sigidwiki.com/wiki/DominoEX"
+        "name": "Distributed Power Unit (DPU)",
+        "url": "https://www.sigidwiki.com/wiki/Distributed_Power_Unit_(DPU)"
     },
     "category": [
-        "Amateur Radio",
-        "Digital"
+        "Utility"
     ],
     "frequency": [
         {
-            "value": 10142000,
-            "description": ""
-        },
-        {
-            "value": 5332000,
-            "description": ""
-        },
-        {
-            "value": 28117000,
+            "value": 457925000,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 173,
-            "description": ""
-        },
-        {
-            "value": 244,
-            "description": ""
-        },
-        {
-            "value": 346,
-            "description": ""
-        },
-        {
-            "value": 262,
-            "description": ""
-        },
-        {
-            "value": 355,
-            "description": ""
-        },
-        {
-            "value": 524,
+            "value": 6000,
             "description": ""
         }
     ],
     "acf": [],
-    "modulation": [
-        {
-            "value": "IFK",
-            "description": ""
-        }
-    ],
+    "modulation": [],
     "mode": [
         {
-            "value": "USB",
+            "value": "NFM",
             "description": ""
         }
     ],

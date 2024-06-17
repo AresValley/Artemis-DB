@@ -1,44 +1,24 @@
 {
     "signal": {
-        "name": "Gandalf MDT",
-        "url": "https://www.sigidwiki.com/wiki/Gandalf_MDT"
+        "name": "GYN2 GBR",
+        "url": "https://www.sigidwiki.com/wiki/GYN2_GBR"
     },
     "category": [
-        "Commercial",
-        "Digital"
+        "Military"
     ],
     "frequency": [
         {
-            "value": 150000000,
-            "description": ""
-        },
-        {
-            "value": 450000000,
+            "value": 81000,
             "description": ""
         }
     ],
-    "bandwidth": [
-        {
-            "value": 10000,
-            "description": ""
-        }
-    ],
+    "bandwidth": [],
     "acf": [],
-    "modulation": [
-        {
-            "value": "4FSK",
-            "description": ""
-        }
-    ],
-    "mode": [
-        {
-            "value": "NFM",
-            "description": ""
-        }
-    ],
+    "modulation": [],
+    "mode": [],
     "location": [
         {
-            "value": "Worldwide",
+            "value": "United Kingdom",
             "description": ""
         }
     ]

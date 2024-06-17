@@ -1,1 +1,1 @@
-Downlink from train to balise. A Eurobalise is a specific variant of a balise, a transponder placed between the rails of a railway.
+EDACS is a trunked radio system developed by General Electric and Ericsson. EDACS was invented by General Electric in the mid-80s and is currently owned by Harris Corporation. Harris has announced that EDACS systems will no longer be supported by 2017.

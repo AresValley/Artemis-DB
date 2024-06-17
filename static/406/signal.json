@@ -1,45 +1,64 @@
 {
     "signal": {
-        "name": "Redundant Digital File Transfer (RDFT)",
-        "url": "https://www.sigidwiki.com/wiki/Redundant_Digital_File_Transfer_(RDFT)"
+        "name": "ReFLEX",
+        "url": "https://www.sigidwiki.com/wiki/ReFLEX"
     },
     "category": [
-        "Amateur Radio",
         "Digital",
-        "Numbers Stations"
+        "Commercial"
     ],
     "frequency": [
         {
-            "value": 9240000,
+            "value": 896000000,
             "description": ""
         },
         {
-            "value": 9065000,
+            "value": 902000000,
+            "description": ""
+        },
+        {
+            "value": 929000000,
+            "description": ""
+        },
+        {
+            "value": 932000000,
+            "description": ""
+        },
+        {
+            "value": 940000000,
+            "description": ""
+        },
+        {
+            "value": 941000000,
+            "description": ""
+        },
+        {
+            "value": 940210000,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 1800,
+            "value": 40000,
             "description": ""
         }
     ],
     "acf": [],
     "modulation": [
         {
-            "value": "PSK",
+            "value": "FFSK",
             "description": ""
         }
     ],
     "mode": [
         {
-            "value": "USB",
+            "value": "NFM",
             "description": ""
         }
     ],
     "location": [
         {
-            "value": "Worldwide",
+            "value": "United States",
             "description": ""
         }
     ]

@@ -1,0 +1,1 @@
+The Yugoslavian 20-Tone Modem, also known as YUG-MIL 20-Tone and YUG Diplo 20-Tone, is a 20 tone OFDM PSK modem used in former Yugoslavia for military and diplomatic use. No longer used today.

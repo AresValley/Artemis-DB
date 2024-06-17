@@ -1,0 +1,1 @@
+Electrical substation SCADA protocol used by EDF (Électricité de France).

@@ -1,7 +1,7 @@
 {
     "signal": {
-        "name": "Russian Intelligence 200bd 1000Hz FSK",
-        "url": "https://www.sigidwiki.com/wiki/Russian_Intelligence_200bd_1000Hz_FSK"
+        "name": "Russian Diplo VFT PSK 64Bd",
+        "url": "https://www.sigidwiki.com/wiki/Russian_Diplo_VFT_PSK_64Bd"
     },
     "category": [
         "Digital",
@@ -9,24 +9,24 @@
     ],
     "frequency": [
         {
-            "value": 4000000,
+            "value": 4022000,
             "description": ""
         },
         {
-            "value": 23000000,
+            "value": 23131000,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 1000,
+            "value": 2500,
             "description": ""
         }
     ],
     "acf": [],
     "modulation": [
         {
-            "value": "FSK",
+            "value": "PSK",
             "description": ""
         }
     ],

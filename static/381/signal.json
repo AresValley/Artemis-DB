@@ -1,47 +1,32 @@
 {
     "signal": {
-        "name": "ProVoice",
-        "url": "https://www.sigidwiki.com/wiki/ProVoice"
+        "name": "Primex Wireless Time Sync",
+        "url": "https://www.sigidwiki.com/wiki/Primex_Wireless_Time_Sync"
     },
     "category": [
-        "Trunked Radio",
-        "Digital"
+        "Time",
+        "Commercial"
     ],
     "frequency": [
         {
-            "value": 160000000,
+            "value": 72020000,
             "description": ""
         },
         {
-            "value": 450000000,
-            "description": ""
-        },
-        {
-            "value": 700000000,
-            "description": ""
-        },
-        {
-            "value": 806000000,
-            "description": ""
-        },
-        {
-            "value": 870000000,
-            "description": ""
-        },
-        {
-            "value": 896000000,
-            "description": ""
-        },
-        {
-            "value": 941000000,
+            "value": 72980000,
             "description": ""
         }
     ],
-    "bandwidth": [],
+    "bandwidth": [
+        {
+            "value": 20000,
+            "description": ""
+        }
+    ],
     "acf": [],
     "modulation": [
         {
-            "value": "GFSK",
+            "value": "PSK",
             "description": ""
         }
     ],

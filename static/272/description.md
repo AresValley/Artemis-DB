@@ -1,1 +1,1 @@
-LORAN (short for LOng RAnge Navigation) is a hyperbolic radio navigation system.
+Cospas-Sarsat downlink from polar-orbiting weather satellites. The International Cospas-Sarsat Programme is a satellite-aided search and rescue initiative.

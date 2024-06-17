@@ -1,43 +1,35 @@
 {
     "signal": {
-        "name": "Emergency Managers Weather Information Network (EMWIN) - Repeater",
-        "url": "https://www.sigidwiki.com/wiki/Emergency_Managers_Weather_Information_Network_(EMWIN)_-_Repeater"
+        "name": "Emergency Alert System (EAS)",
+        "url": "https://www.sigidwiki.com/wiki/Emergency_Alert_System_(EAS)"
     },
     "category": [
         "Digital"
     ],
     "frequency": [
         {
-            "value": 163325000,
+            "value": 162400000,
             "description": ""
         },
         {
-            "value": 163350000,
-            "description": ""
-        },
-        {
-            "value": 168812500,
-            "description": ""
-        },
-        {
-            "value": 168712500,
-            "description": ""
-        },
-        {
-            "value": 163300000,
+            "value": 162550000,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 20000,
+            "value": 5000,
+            "description": ""
+        },
+        {
+            "value": 30000,
             "description": ""
         }
     ],
     "acf": [],
     "modulation": [
         {
-            "value": "AFSK",
+            "value": "FSK",
             "description": ""
         }
     ],

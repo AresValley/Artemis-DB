@@ -1,1 +1,1 @@
-AFSK Modulated signal with 2400Baud for traffic light control. Contains R09.16 telegrams as specified per VDV Standard 420.
+Wireless entry rolling code car key.

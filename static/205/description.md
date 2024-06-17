@@ -1,1 +1,1 @@
-Golay Paging (or Golay Sequential Code, GSC) is a one-way 2-FSK paging format developed by Motorola. It is capable of transmitting tone, numeric, alphanumeric, and voice pages.
+Globe Wireless' Maritime Digital Radio was a system of 24 stations around the globe offering data services to large cargo vessels. Since 2014, GW has discontinued their HF network.

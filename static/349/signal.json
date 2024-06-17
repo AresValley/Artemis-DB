@@ -1,37 +1,38 @@
 {
     "signal": {
-        "name": "OOK RC Car Remote Control",
-        "url": "https://www.sigidwiki.com/wiki/OOK_RC_Car_Remote_Control"
+        "name": "OFDM NBTV",
+        "url": "https://www.sigidwiki.com/wiki/OFDM_NBTV"
     },
     "category": [
+        "Amateur Radio",
         "Analogue"
     ],
     "frequency": [
         {
-            "value": 27000000,
+            "value": 3,
             "description": ""
         },
         {
-            "value": 49000000,
+            "value": 30000000,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 1600,
+            "value": 2000,
             "description": ""
         }
     ],
     "acf": [],
     "modulation": [
         {
-            "value": "OOK",
+            "value": "Analog OFDM",
             "description": ""
         }
     ],
     "mode": [
         {
-            "value": "AM",
+            "value": "SSB",
             "description": ""
         }
     ],

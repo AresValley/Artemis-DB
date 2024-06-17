@@ -1,1 +1,1 @@
-MSM-1250 (Medium Speed Modem) is a 10 FSK-2 OFDM digital data protocol used by the stand-alone modem "SkyFax", used to transmit and receive faxes on HF.
+MSK144 is a Minimum Shift Keying FSK signal used for amateur radio meteor-scatter contacts. It transmits 144 bit long packets at a baudrate of 2000 bps using frequencies 1000 and 2000 Hz.

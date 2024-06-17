@@ -1,1 +1,1 @@
-Transmits train telemetry such as brake status and accidental seperation information to the head locomotive.
+The Emergency Managers Weather Information Network (EMWIN) is a system for distributing a live stream of weather information in the United States. This is the VHF Repeater of the network.

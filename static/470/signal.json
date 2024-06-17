@@ -1,20 +1,18 @@
 {
     "signal": {
-        "name": "The Alarm",
-        "url": "https://www.sigidwiki.com/wiki/The_Alarm"
+        "name": "The 'Air Horn'",
+        "url": "https://www.sigidwiki.com/wiki/The_%27Air_Horn%27"
     },
-    "category": [
-        "Military"
-    ],
+    "category": [],
     "frequency": [
         {
-            "value": 4770000,
+            "value": 3500000,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 2400,
+            "value": 5000,
             "description": ""
         }
     ],
@@ -22,7 +20,7 @@
     "modulation": [],
     "mode": [
         {
-            "value": "USB",
+            "value": "SSB",
             "description": ""
         }
     ],

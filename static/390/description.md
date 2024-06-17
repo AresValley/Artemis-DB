@@ -1,1 +1,1 @@
-RBU is a time code radio station located in Moscow. It transmits a continuous 10 kW time code on 66.66 kHz.
+RAC-ARQ, also known as MEROD and RACAL-ARQ, is a teleprinter system by Racal, used in MEROD devices. MEROD stands for Message Entry and Read Out Device. Hasn't been seen since 2010.

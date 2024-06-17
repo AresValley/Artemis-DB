@@ -1,26 +1,39 @@
 {
     "signal": {
-        "name": "Cobra Dane",
-        "url": "https://www.sigidwiki.com/wiki/Cobra_Dane"
+        "name": "Chinese Multitonal Jammer",
+        "url": "https://www.sigidwiki.com/wiki/Chinese_Multitonal_Jammer"
     },
-    "category": [],
+    "category": [
+        "Interfering"
+    ],
     "frequency": [
         {
-            "value": 1215000000,
-            "description": ""
-        },
-        {
-            "value": 1400000000,
+            "value": 9045000,
             "description": ""
         }
     ],
-    "bandwidth": [],
+    "bandwidth": [
+        {
+            "value": 10000,
+            "description": ""
+        }
+    ],
     "acf": [],
-    "modulation": [],
-    "mode": [],
+    "modulation": [
+        {
+            "value": "PPM",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
     "location": [
         {
-            "value": "United States",
+            "value": "Worldwide",
             "description": ""
         }
     ]

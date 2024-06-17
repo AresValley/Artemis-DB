@@ -1,41 +1,19 @@
 {
     "signal": {
-        "name": "Siemens CHX-200 FSK Modem",
-        "url": "https://www.sigidwiki.com/wiki/Siemens_CHX-200_FSK_Modem"
+        "name": "Siemens 1.5T MRI Scanner",
+        "url": "https://www.sigidwiki.com/wiki/Siemens_1.5T_MRI_Scanner"
     },
-    "category": [
-        "Military",
-        "Digital"
-    ],
+    "category": [],
     "frequency": [
         {
-            "value": 1500000,
-            "description": ""
-        },
-        {
-            "value": 30000000,
+            "value": 64000000,
             "description": ""
         }
     ],
-    "bandwidth": [
-        {
-            "value": 300,
-            "description": ""
-        }
-    ],
+    "bandwidth": [],
     "acf": [],
-    "modulation": [
-        {
-            "value": "FSK",
-            "description": ""
-        }
-    ],
-    "mode": [
-        {
-            "value": "USB",
-            "description": ""
-        }
-    ],
+    "modulation": [],
+    "mode": [],
     "location": [
         {
             "value": "Worldwide",

@@ -1,11 +1,11 @@
 {
     "signal": {
-        "name": "GM2100 (R&S)",
-        "url": "https://www.sigidwiki.com/wiki/GM2100_(R%26S)"
+        "name": "G-TOR",
+        "url": "https://www.sigidwiki.com/wiki/G-TOR"
     },
     "category": [
-        "Military",
-        "Digital"
+        "Digital",
+        "Amateur Radio"
     ],
     "frequency": [
         {
@@ -19,19 +19,14 @@
     ],
     "bandwidth": [
         {
-            "value": 3000,
+            "value": 350,
             "description": ""
         }
     ],
-    "acf": [
-        {
-            "value": 133.3,
-            "description": "Main"
-        }
-    ],
+    "acf": [],
     "modulation": [
         {
-            "value": "PSK",
+            "value": "FSK",
             "description": ""
         }
     ],
@@ -43,7 +38,7 @@
     ],
     "location": [
         {
-            "value": "Europe",
+            "value": "Worldwide",
             "description": ""
         }
     ]

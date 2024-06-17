@@ -1,1 +1,1 @@
-Russian Diplomatic 3 channel VFT PSK running at 64 Bd. Enigma M42 designation
+Robust PACKET, also known as HF-APRS, RPR, Winlink RMS, and APRSlink, is an OFDM version of the amateur mode PACKET which is optimized for shortwave use. This mode was developed by Spezielle Communications Systeme GmbH & Co. KG (SCS).

@@ -1,1 +1,1 @@
-IsatM2M Service operated by Inmarsat on existing Inmarsat-D/D+ infrastructure.
+Inmarsat Aero is the protocol that's used to link ground stations with aircraft via Inmarsat's satellite link. This protocol carries digital voice, fax and low speed data such as ACARS and ADS-C.

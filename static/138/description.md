@@ -1,1 +1,1 @@
-DAB+ is a medium of delivering broadcast radio, containing multiple stations in a single multiplex.
+DAB is an audio broadcasting standard containing a multiplex of digital radio stations in the signal.

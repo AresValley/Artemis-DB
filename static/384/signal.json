@@ -1,44 +1,28 @@
 {
     "signal": {
-        "name": "Pursuit Wireless Car Key",
-        "url": "https://www.sigidwiki.com/wiki/Pursuit_Wireless_Car_Key"
+        "name": "Pulse Coded Modulated (PCM) RC Toy",
+        "url": "https://www.sigidwiki.com/wiki/Pulse_Coded_Modulated_(PCM)_RC_Toy"
     },
-    "category": [
-        "Utility"
-    ],
+    "category": [],
     "frequency": [
         {
-            "value": 301500000,
+            "value": 27145000,
             "description": ""
         },
         {
-            "value": 302500000,
-            "description": ""
-        },
-        {
-            "value": 434000000,
+            "value": 49000000,
             "description": ""
         }
     ],
-    "bandwidth": [
-        {
-            "value": 40000,
-            "description": ""
-        }
-    ],
+    "bandwidth": [],
     "acf": [],
     "modulation": [
         {
-            "value": "AM",
+            "value": "PCM",
             "description": ""
         }
     ],
-    "mode": [
-        {
-            "value": "AM",
-            "description": ""
-        }
-    ],
+    "mode": [],
     "location": [
         {
             "value": "Worldwide",

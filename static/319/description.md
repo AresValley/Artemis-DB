@@ -1,1 +1,1 @@
-Motorola's ASTRO 25 High Performance Data Air Interface allows Motorola ASTRO 25 HPD modems to transfer data at up to 96 kbps over a 25 kHz channel in the 700 MHz or 800 MHz bands.
+CW Morse Code is the simplest form of transmission found virtually all over the RF bands for a variety of uses. The most common use of this is for Call-sign Beacons by both Amateur and Military operators.

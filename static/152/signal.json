@@ -1,25 +1,32 @@
 {
     "signal": {
-        "name": "Distributed Power Unit (DPU)",
-        "url": "https://www.sigidwiki.com/wiki/Distributed_Power_Unit_(DPU)"
+        "name": "Distress Radiobeacon (Digital)",
+        "url": "https://www.sigidwiki.com/wiki/Distress_Radiobeacon_(Digital)"
     },
     "category": [
-        "Utility"
+        "Digital",
+        "Marine",
+        "Aviation"
     ],
     "frequency": [
         {
-            "value": 457925000,
+            "value": 406000000,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 6000,
+            "value": 1400,
             "description": ""
         }
     ],
     "acf": [],
-    "modulation": [],
+    "modulation": [
+        {
+            "value": "PSK",
+            "description": ""
+        }
+    ],
     "mode": [
         {
             "value": "NFM",

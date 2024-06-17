@@ -1,1 +1,1 @@
-The Japanese Slot Machine (Enigma Designation XSL) is a simplex system used by the Japanese Maritime Self-Defense Force in Ichihara, Japan.
+Data signal thought to originate from Japanese Military/Navy

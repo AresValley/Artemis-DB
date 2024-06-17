@@ -1,1 +1,1 @@
-Denso Wireless Key Fob 4EA built by Denso Corporation for General Motors auto brands Chevrolet and Buick. Used on Chevrolet Camaro and Malibu from 2016+. Used on Buick Lacrosse 2017+.
+DeltaFix was a DGPS system that was used to provide precision positioning used in the survey and oceanographic industry.

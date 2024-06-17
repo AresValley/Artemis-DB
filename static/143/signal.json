@@ -1,48 +1,43 @@
 {
     "signal": {
-        "name": "Digital NBTV",
-        "url": "https://www.sigidwiki.com/wiki/Digital_NBTV"
+        "name": "Digital Multimedia Broadcasting (DMB)",
+        "url": "https://www.sigidwiki.com/wiki/Digital_Multimedia_Broadcasting_(DMB)"
     },
     "category": [
-        "Amateur Radio",
-        "Digital"
+        "Digital",
+        "Commercial"
     ],
     "frequency": [
         {
-            "value": 3000000,
+            "value": 174000000,
             "description": ""
         },
         {
-            "value": 470000000,
+            "value": 216000000,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 2500,
+            "value": 1536000,
             "description": ""
         }
     ],
     "acf": [],
     "modulation": [
         {
-            "value": "BPSK",
-            "description": ""
-        }
-    ],
-    "mode": [
-        {
-            "value": "SSB",
+            "value": "DQPSK",
             "description": ""
         },
         {
-            "value": "FM",
+            "value": "OFDM",
             "description": ""
         }
     ],
+    "mode": [],
     "location": [
         {
-            "value": "Worldwide",
+            "value": "South Korea",
             "description": ""
         }
     ]

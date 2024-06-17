@@ -1,58 +1,42 @@
 {
     "signal": {
-        "name": "Lentus",
-        "url": "https://www.sigidwiki.com/wiki/Lentus"
+        "name": "LTE-M",
+        "url": "https://www.sigidwiki.com/wiki/LTE-M"
     },
     "category": [
-        "Amateur Radio",
+        "Commercial",
         "Digital"
     ],
     "frequency": [
         {
-            "value": 136300,
+            "value": 412500000,
             "description": ""
         },
         {
-            "value": 1837000,
-            "description": ""
-        },
-        {
-            "value": 3589000,
-            "description": ""
-        },
-        {
-            "value": 7037500,
-            "description": ""
-        },
-        {
-            "value": 10138700,
-            "description": ""
-        },
-        {
-            "value": 14074000,
-            "description": ""
-        },
-        {
-            "value": 14095600,
+            "value": 2690000000,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 25,
+            "value": 1080000,
             "description": ""
         }
     ],
     "acf": [],
     "modulation": [
         {
-            "value": "MFSK",
+            "value": "OFDMA",
+            "description": ""
+        },
+        {
+            "value": "16-QAM",
             "description": ""
         }
     ],
     "mode": [
         {
-            "value": "USB",
+            "value": "AM",
             "description": ""
         }
     ],

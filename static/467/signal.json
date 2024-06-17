@@ -1,11 +1,10 @@
 {
     "signal": {
-        "name": "Thales Syst\u00e8me 3000 Skyhopper",
-        "url": "https://www.sigidwiki.com/wiki/Thales_Syst%C3%A8me_3000_Skyhopper"
+        "name": "Thales Syst\u00e8me 3000 HF Modem",
+        "url": "https://www.sigidwiki.com/wiki/Thales_Syst%C3%A8me_3000_HF_Modem"
     },
     "category": [
-        "Military",
-        "Digital"
+        "Military"
     ],
     "frequency": [
         {
@@ -23,7 +22,7 @@
             "description": ""
         },
         {
-            "value": 2600,
+            "value": 3000,
             "description": ""
         }
     ],

@@ -1,19 +1,19 @@
 {
     "signal": {
-        "name": "STANAG 4415",
-        "url": "https://www.sigidwiki.com/wiki/STANAG_4415"
+        "name": "STANAG 4285",
+        "url": "https://www.sigidwiki.com/wiki/STANAG_4285"
     },
     "category": [
-        "Military",
-        "Digital"
+        "Digital",
+        "Military"
     ],
     "frequency": [
         {
-            "value": 3000000,
+            "value": 1890000,
             "description": ""
         },
         {
-            "value": 30000000,
+            "value": 22700000,
             "description": ""
         }
     ],
@@ -25,12 +25,8 @@
     ],
     "acf": [
         {
-            "value": 200.0,
-            "description": "Header"
-        },
-        {
-            "value": 66.66,
-            "description": "Body"
+            "value": 106.66,
+            "description": "Main"
         }
     ],
     "modulation": [

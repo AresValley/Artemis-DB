@@ -1,1 +1,1 @@
-A first generation analogue mobile cellular system which operated in the United Kingdom and a handful of other countries in Europe. It is also the EU's form of AMPS.
+TPMS (Tire-Pressure Monitoring System), more specifically Direct TPMS (dTPMS), is a system that uses pressure sensors to monitor tire pressure on vehicles.

@@ -1,7 +1,7 @@
 {
     "signal": {
-        "name": "STANAG 5065",
-        "url": "https://www.sigidwiki.com/wiki/STANAG_5065"
+        "name": "STANAG 4539",
+        "url": "https://www.sigidwiki.com/wiki/STANAG_4539"
     },
     "category": [
         "Military",
@@ -9,32 +9,33 @@
     ],
     "frequency": [
         {
-            "value": 50000,
+            "value": 3000000,
             "description": ""
         },
         {
-            "value": 160000,
+            "value": 30000000,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 235,
-            "description": ""
-        },
-        {
-            "value": 360,
+            "value": 3000,
             "description": ""
         }
     ],
-    "acf": [],
+    "acf": [
+        {
+            "value": 119.6,
+            "description": "Main"
+        }
+    ],
     "modulation": [
         {
-            "value": "FSK",
+            "value": "PSK",
             "description": ""
         },
         {
-            "value": "MSK",
+            "value": "QAM",
             "description": ""
         }
     ],

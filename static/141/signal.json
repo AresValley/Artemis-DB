@@ -1,67 +1,42 @@
 {
     "signal": {
-        "name": "Digital Mobile Radio (DMR)",
-        "url": "https://www.sigidwiki.com/wiki/Digital_Mobile_Radio_(DMR)"
+        "name": "Digital Enhanced Cordless Telecommunications (DECT)",
+        "url": "https://www.sigidwiki.com/wiki/Digital_Enhanced_Cordless_Telecommunications_(DECT)"
     },
     "category": [
-        "Trunked Radio",
-        "Digital"
+        "Commercial"
     ],
     "frequency": [
         {
-            "value": 860000000,
+            "value": 1880000000,
             "description": ""
         },
         {
-            "value": 400000000,
-            "description": ""
-        },
-        {
-            "value": 512000000,
-            "description": ""
-        },
-        {
-            "value": 136000000,
-            "description": ""
-        },
-        {
-            "value": 174000000,
-            "description": ""
-        },
-        {
-            "value": 66000000,
-            "description": ""
-        },
-        {
-            "value": 88000000,
+            "value": 1900000000,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 12500,
+            "value": 1600000,
             "description": ""
         }
     ],
     "acf": [
         {
-            "value": 60.0,
-            "description": "Frame"
-        },
-        {
-            "value": 30.0,
-            "description": "Slot"
+            "value": 10.0,
+            "description": "Main"
         }
     ],
     "modulation": [
         {
-            "value": "4FSK",
+            "value": "GFSK",
             "description": ""
         }
     ],
     "mode": [
         {
-            "value": "NFM",
+            "value": "USB",
             "description": ""
         }
     ],

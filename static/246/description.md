@@ -1,1 +1,1 @@
-Radio navigation system that allows aircraft to perform precision approaches in low visibility conditions.
+Inmarsat D+ (and it's predecessor, Inmarsat D) was Inmarsat's satellite paging system. The main use of the technology was in tracking trucks and buoys and SCADA applications.

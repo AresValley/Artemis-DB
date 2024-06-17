@@ -1,46 +1,41 @@
 {
     "signal": {
-        "name": "Non-Directional Beacon (NDB)",
-        "url": "https://www.sigidwiki.com/wiki/Non-Directional_Beacon_(NDB)"
+        "name": "Nokia Adaptive Message Terminal",
+        "url": "https://www.sigidwiki.com/wiki/Nokia_Adaptive_Message_Terminal"
     },
     "category": [
-        "Aviation",
-        "Navigation"
+        "Digital"
     ],
     "frequency": [
         {
-            "value": 190000,
+            "value": 3000000,
             "description": ""
         },
         {
-            "value": 535000,
-            "description": ""
-        },
-        {
-            "value": 1750000,
-            "description": ""
-        },
-        {
-            "value": 1800000,
+            "value": 30000000,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 2000,
+            "value": 1000,
+            "description": ""
+        },
+        {
+            "value": 1600,
             "description": ""
         }
     ],
     "acf": [],
     "modulation": [
         {
-            "value": "A2A (AM)",
+            "value": "FSK",
             "description": ""
         }
     ],
     "mode": [
         {
-            "value": "CW",
+            "value": "USB",
             "description": ""
         }
     ],

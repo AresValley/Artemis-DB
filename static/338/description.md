@@ -1,1 +1,1 @@
-Near-field communication (NFC) is a set of communication protocols that enables communication between two electronic devices over a distance of 4 cm (11⁄2 in) or less.
+The National Public Alerting System (NPAS), branded to consumers as Alert Ready, is a national warning system in Canada. The tone does not carry any information to be decoded. Information about Emergencies is communicated via on screen text and text-to-speech.

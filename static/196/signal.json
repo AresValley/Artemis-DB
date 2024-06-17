@@ -1,35 +1,52 @@
 {
     "signal": {
-        "name": "GRAVES",
-        "url": "https://www.sigidwiki.com/wiki/GRAVES"
+        "name": "GOES Rebroadcast (GRB)",
+        "url": "https://www.sigidwiki.com/wiki/GOES_Rebroadcast_(GRB)"
     },
     "category": [
-        "Military",
-        "Radar"
+        "Satellite",
+        "Digital"
     ],
     "frequency": [
         {
-            "value": 143050000,
+            "value": 1681600000,
+            "description": ""
+        },
+        {
+            "value": 1686600000,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 1000,
+            "value": 10000000,
             "description": ""
         }
     ],
     "acf": [],
-    "modulation": [],
+    "modulation": [
+        {
+            "value": "QPSK16",
+            "description": ""
+        },
+        {
+            "value": "8PSK",
+            "description": ""
+        }
+    ],
     "mode": [
         {
-            "value": "RAW I/Q",
+            "value": "DVB-S2",
+            "description": ""
+        },
+        {
+            "value": "RAW",
             "description": ""
         }
     ],
     "location": [
         {
-            "value": "France",
+            "value": "Worldwide",
             "description": ""
         }
     ]

@@ -1,1 +1,1 @@
-TETRA is a professional mobile radio and two-way transceiver (walkie-talkie) specification
+Radio navigation technology that measures the slant range (distance) between an aircraft and a ground station by timing the propagation delay of radio signals.

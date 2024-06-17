@@ -1,1 +1,1 @@
-Kia SVI-JFRGE04 Keyless entry transponder used for multiple Kia models, for model years 2014-2020
+KG-STV is an image transmission mode developed by JJ0OBZ in Japan.

@@ -1,47 +1,28 @@
 {
     "signal": {
-        "name": "High Resolution Data (HRD)",
-        "url": "https://www.sigidwiki.com/wiki/High_Resolution_Data_(HRD)"
+        "name": "High Power Auroral Stimulation (HIPAS)",
+        "url": "https://www.sigidwiki.com/wiki/High_Power_Auroral_Stimulation_(HIPAS)"
     },
     "category": [
-        "Satellite"
+        "Radar"
     ],
     "frequency": [
         {
-            "value": 7812000000,
-            "description": ""
-        }
-    ],
-    "bandwidth": [
-        {
-            "value": 25000000,
+            "value": 2850000,
             "description": ""
         },
         {
-            "value": 35000000,
+            "value": 4530000,
             "description": ""
         }
     ],
+    "bandwidth": [],
     "acf": [],
-    "modulation": [
-        {
-            "value": "QPSK",
-            "description": ""
-        },
-        {
-            "value": "OQPSK",
-            "description": ""
-        }
-    ],
-    "mode": [
-        {
-            "value": "RAW",
-            "description": ""
-        }
-    ],
+    "modulation": [],
+    "mode": [],
     "location": [
         {
-            "value": "Worldwide",
+            "value": "United States",
             "description": ""
         }
     ]

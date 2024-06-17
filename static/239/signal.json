@@ -1,62 +1,29 @@
 {
     "signal": {
-        "name": "ISM Band device",
-        "url": "https://www.sigidwiki.com/wiki/ISM_Band_device"
+        "name": "ISM Band Weather sensor",
+        "url": "https://www.sigidwiki.com/wiki/ISM_Band_Weather_sensor"
     },
     "category": [
-        "Utility",
-        "Digital"
+        "Digital",
+        "Utility"
     ],
     "frequency": [
         {
-            "value": 900000000,
-            "description": ""
-        },
-        {
-            "value": 920000000,
-            "description": ""
-        },
-        {
-            "value": 315000000,
-            "description": ""
-        },
-        {
-            "value": 868000000,
-            "description": ""
-        },
-        {
-            "value": 433920000,
+            "value": 433000000,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 20000,
+            "value": 4400,
             "description": ""
         }
     ],
     "acf": [],
-    "modulation": [
-        {
-            "value": "ASK",
-            "description": ""
-        },
-        {
-            "value": "OOK",
-            "description": ""
-        },
-        {
-            "value": "FSK",
-            "description": ""
-        }
-    ],
+    "modulation": [],
     "mode": [
         {
             "value": "AM",
-            "description": ""
-        },
-        {
-            "value": "NFM",
             "description": ""
         }
     ],

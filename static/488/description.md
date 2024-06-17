@@ -1,1 +1,1 @@
-VDL-M2 (Known as VDL2 or VDLM2) is a means of sending information between aircraft and ground stations. VDL Mode 2 is the only VDL mode being implemented operationally to support Controller Pilot Data Link Communications (CPDLC). An extension to the AVLC protocol permits ACARS over AVLC (AOA) transmissions. VDL-M2 is implemented by Eurocontrol.
+Two-way 100 Bd/500 Hz Russian Telegraph system, attributed name VEZHA-C (Tower-S), usage claimed to be by Russian Ministry of Communications (MinComSvyaz Rossii). Possible usage in meteorology under callsign RWD59.

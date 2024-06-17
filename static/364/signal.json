@@ -1,44 +1,48 @@
 {
     "signal": {
-        "name": "POCSAG",
-        "url": "https://www.sigidwiki.com/wiki/POCSAG"
+        "name": "PLUTO II OTH Radar",
+        "url": "https://www.sigidwiki.com/wiki/PLUTO_II_OTH_Radar"
     },
     "category": [
-        "Commercial",
-        "Digital"
+        "Military",
+        "Radar"
     ],
     "frequency": [
         {
-            "value": 932000000,
+            "value": 8000000,
             "description": ""
         },
         {
-            "value": 25000000,
+            "value": 38000000,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 9000,
+            "value": 20000,
+            "description": ""
+        },
+        {
+            "value": 40000,
             "description": ""
         }
     ],
     "acf": [],
     "modulation": [
         {
-            "value": "FSK",
+            "value": "FMCW",
             "description": ""
         }
     ],
     "mode": [
         {
-            "value": "NFM",
+            "value": "USB",
             "description": ""
         }
     ],
     "location": [
         {
-            "value": "Worldwide",
+            "value": "Cyprus",
             "description": ""
         }
     ]

@@ -1,1 +1,1 @@
-Logic Trunked Radio, is an analog trunked radio format developed by EF Johnson Company.
+The LMS-6 is a radiosonde developed by Lockheed Martin which contains a temperature, barometric pressure (On the 1680 MHz models only), and humidity sensor for upper air weather observations.

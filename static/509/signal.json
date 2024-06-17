@@ -1,0 +1,48 @@
+{
+    "signal": {
+        "name": "XMPP trials",
+        "url": "https://www.sigidwiki.com/wiki/XMPP_trials"
+    },
+    "category": [
+        "Military"
+    ],
+    "frequency": [
+        {
+            "value": 2000000,
+            "description": ""
+        },
+        {
+            "value": 7800000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 34000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "PSK",
+            "description": ""
+        },
+        {
+            "value": "QAM",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

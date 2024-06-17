@@ -1,1 +1,1 @@
-Radio trunking control channel.
+Motorola SECURENET ("analog" encryption) was a secure voice option for conventional and Motorola Type II trunked systems, encoding the voice using 12kbps CVSD and encrypting the bitstream. It is easily identified by the 6 kHz tone at the end of transmission. As it is not 12.5 kHz FCC narrowbanding mandate compliant, it does not see much use anymore.

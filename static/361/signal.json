@@ -1,54 +1,47 @@
 {
     "signal": {
-        "name": "PAL Broadcast",
-        "url": "https://www.sigidwiki.com/wiki/PAL_Broadcast"
+        "name": "PACTOR IV",
+        "url": "https://www.sigidwiki.com/wiki/PACTOR_IV"
     },
     "category": [
+        "Digital",
         "Commercial",
-        "Analogue"
+        "Amateur Radio"
     ],
     "frequency": [
         {
-            "value": 47000000,
+            "value": 3000000,
             "description": ""
         },
         {
-            "value": 862000000,
+            "value": 30000000,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 6000000,
+            "value": 2400,
             "description": ""
         },
         {
-            "value": 7000000,
-            "description": ""
-        },
-        {
-            "value": 8000000,
+            "value": 300,
             "description": ""
         }
     ],
     "acf": [],
     "modulation": [
         {
+            "value": "PSK",
+            "description": ""
+        },
+        {
             "value": "QAM",
-            "description": ""
-        },
-        {
-            "value": "VSB",
-            "description": ""
-        },
-        {
-            "value": "FM",
             "description": ""
         }
     ],
     "mode": [
         {
-            "value": "RAW",
+            "value": "USB",
             "description": ""
         }
     ],

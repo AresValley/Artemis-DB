@@ -1,1 +1,1 @@
-GOES HRIT is a retransmission of satellite imagery and other information from the GOES-R series of satellites.
+Comes from the geostationary satellites GOES 16 and GOES 17. Relays information about water levels, lightning strikes, and other information.

@@ -1,29 +1,51 @@
 {
     "signal": {
-        "name": "Rain Master sprinkler control",
-        "url": "https://www.sigidwiki.com/wiki/Rain_Master_sprinkler_control"
+        "name": "Radioteknicheskaya Systema Dalyoloiy Navigatsii (RSDN-20)",
+        "url": "https://www.sigidwiki.com/wiki/Radioteknicheskaya_Systema_Dalyoloiy_Navigatsii_(RSDN-20)"
     },
     "category": [
-        "Utility"
+        "Military",
+        "Navigation"
     ],
     "frequency": [
         {
-            "value": 154600000,
+            "value": 11910,
+            "description": ""
+        },
+        {
+            "value": 12090,
+            "description": ""
+        },
+        {
+            "value": 12650,
+            "description": ""
+        },
+        {
+            "value": 14880,
+            "description": ""
+        },
+        {
+            "value": 12040,
             "description": ""
         }
     ],
-    "bandwidth": [],
+    "bandwidth": [
+        {
+            "value": 20,
+            "description": ""
+        }
+    ],
     "acf": [],
     "modulation": [],
     "mode": [
         {
-            "value": "FM",
+            "value": "CW",
             "description": ""
         }
     ],
     "location": [
         {
-            "value": "Worldwide",
+            "value": "Russia",
             "description": ""
         }
     ]

@@ -1,1 +1,1 @@
-Weather balloon (radiosonde) telemetry data.
+VOICE is a MFSK mode developed by Patrick Lindecker F6CTE in 2006, and was derived from Olivia. It was designed for blind or partially sighted amateur radio operators.

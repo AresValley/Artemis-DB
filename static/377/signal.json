@@ -1,35 +1,30 @@
 {
     "signal": {
-        "name": "Positive Train Control (PTC)",
-        "url": "https://www.sigidwiki.com/wiki/Positive_Train_Control_(PTC)"
+        "name": "Portable Traffic Lights",
+        "url": "https://www.sigidwiki.com/wiki/Portable_Traffic_Lights"
     },
     "category": [
-        "Utility",
-        "Digital"
+        "Digital",
+        "Utility"
     ],
     "frequency": [
         {
-            "value": 220000000,
+            "value": 154463000,
             "description": ""
         }
     ],
-    "bandwidth": [
-        {
-            "value": 20000,
-            "description": ""
-        }
-    ],
+    "bandwidth": [],
     "acf": [],
     "modulation": [],
     "mode": [
         {
-            "value": "RAW",
+            "value": "NFM",
             "description": ""
         }
     ],
     "location": [
         {
-            "value": "United States",
+            "value": "Worldwide",
             "description": ""
         }
     ]

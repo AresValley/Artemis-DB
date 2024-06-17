@@ -1,1 +1,1 @@
-An ISM band device such as a power meter or a wireless doorbell.
+Data returned from a consumer weather sensor using the AlectoV1 protocol.

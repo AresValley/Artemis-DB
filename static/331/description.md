@@ -1,1 +1,1 @@
-A digital link to transmit images and other data collected from the satellite at a high resolution.
+An analog signal broadcast from NOAA ITOS polar satellites that transmitted images from the VHRR radiometer.

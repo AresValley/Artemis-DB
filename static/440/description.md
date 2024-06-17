@@ -1,1 +1,1 @@
-Serdolik is a MFSK signal used by the Russian diplomatic service.
+These are samples from the Sensus Water meters. They are a FHSS ASK encoded data transmission for purposes of providing municipalities water meter telemetry (for billing how much water you use).

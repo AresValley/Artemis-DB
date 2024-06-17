@@ -1,55 +1,35 @@
 {
     "signal": {
-        "name": "GSM TCH traffic channels non frequency hopping",
-        "url": "https://www.sigidwiki.com/wiki/GSM_TCH_traffic_channels_non_frequency_hopping"
+        "name": "GRAW DFM-09 Weather Balloon (Radiosonde)",
+        "url": "https://www.sigidwiki.com/wiki/GRAW_DFM-09_Weather_Balloon_(Radiosonde)"
     },
     "category": [],
     "frequency": [
         {
-            "value": 450000000,
+            "value": 400010000,
             "description": ""
         },
         {
-            "value": 850000000,
-            "description": ""
-        },
-        {
-            "value": 900000000,
-            "description": ""
-        },
-        {
-            "value": 1800000000,
-            "description": ""
-        },
-        {
-            "value": 1900000000,
+            "value": 405990000,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 200000,
+            "value": 20000,
             "description": ""
         }
     ],
     "acf": [],
     "modulation": [
         {
-            "value": "GMSK",
+            "value": "FSK",
             "description": ""
         }
     ],
     "mode": [
         {
-            "value": "RAW",
-            "description": ""
-        },
-        {
-            "value": "AM",
-            "description": ""
-        },
-        {
-            "value": "FM",
+            "value": "NFM",
             "description": ""
         }
     ],

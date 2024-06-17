@@ -1,32 +1,32 @@
 {
     "signal": {
-        "name": "Gonets",
-        "url": "https://www.sigidwiki.com/wiki/Gonets"
+        "name": "Golay Paging (GSC)",
+        "url": "https://www.sigidwiki.com/wiki/Golay_Paging_(GSC)"
     },
     "category": [
-        "Commercial",
-        "Satellite"
+        "Digital",
+        "Commercial"
     ],
     "frequency": [
         {
-            "value": 265,
+            "value": 932000000,
             "description": ""
         },
         {
-            "value": 388000000,
+            "value": 33000000,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 20000,
+            "value": 2600,
             "description": ""
         }
     ],
     "acf": [],
     "modulation": [
         {
-            "value": "GMSK",
+            "value": "FSK",
             "description": ""
         }
     ],

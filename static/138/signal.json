@@ -1,11 +1,11 @@
 {
     "signal": {
-        "name": "Digital Audio Broadcasting Plus (DAB+)",
-        "url": "https://www.sigidwiki.com/wiki/Digital_Audio_Broadcasting_Plus_(DAB%2B)"
+        "name": "Digital Audio Broadcasting (DAB)",
+        "url": "https://www.sigidwiki.com/wiki/Digital_Audio_Broadcasting_(DAB)"
     },
     "category": [
-        "Commercial",
-        "Digital"
+        "Digital",
+        "Commercial"
     ],
     "frequency": [
         {
@@ -13,7 +13,7 @@
             "description": ""
         },
         {
-            "value": 230000000,
+            "value": 239000000,
             "description": ""
         }
     ],
@@ -30,7 +30,12 @@
             "description": ""
         }
     ],
-    "mode": [],
+    "mode": [
+        {
+            "value": "AM",
+            "description": ""
+        }
+    ],
     "location": [
         {
             "value": "Worldwide",

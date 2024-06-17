@@ -1,1 +1,1 @@
-SITOR-A (Also known as AMTOR-A) is one of two modes of SITOR, which stands for Simplex Teletype Over Radio.
+SIGFOX is a IoT wireless network system utilizing ETSI's specification for Low Throughput Networks (LTN) and Ultra Narrow-Band (UNB) modulation.

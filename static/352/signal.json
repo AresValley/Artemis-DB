@@ -1,28 +1,51 @@
 {
     "signal": {
-        "name": "One Beep, Two Beeps",
-        "url": "https://www.sigidwiki.com/wiki/One_Beep,_Two_Beeps"
+        "name": "Olivia",
+        "url": "https://www.sigidwiki.com/wiki/Olivia"
     },
     "category": [
-        "Military"
+        "Digital",
+        "Amateur Radio"
     ],
     "frequency": [
         {
-            "value": 4508000,
+            "value": 3000000,
             "description": ""
         },
         {
-            "value": 4500000,
-            "description": ""
-        },
-        {
-            "value": 6429200,
+            "value": 30000000,
             "description": ""
         }
     ],
-    "bandwidth": [],
+    "bandwidth": [
+        {
+            "value": 500,
+            "description": ""
+        },
+        {
+            "value": 125,
+            "description": ""
+        },
+        {
+            "value": 250,
+            "description": ""
+        },
+        {
+            "value": 1000,
+            "description": ""
+        },
+        {
+            "value": 2000,
+            "description": ""
+        }
+    ],
     "acf": [],
-    "modulation": [],
+    "modulation": [
+        {
+            "value": "MFSK",
+            "description": ""
+        }
+    ],
     "mode": [
         {
             "value": "USB",
@@ -31,7 +54,7 @@
     ],
     "location": [
         {
-            "value": "Norway",
+            "value": "Worldwide",
             "description": ""
         }
     ]

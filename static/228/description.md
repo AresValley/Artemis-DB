@@ -1,1 +1,1 @@
-HyperFix was a radio-navigation system developed by Racal. Was used by vessels and ships. Has largely been phased out in favor of Differential GPS.
+An efficient RTTY-like 4FSK mode that transmits binary data, used for amateur high altitude balloon telemetry. Developed by the Project Horus group.

@@ -1,1 +1,1 @@
-RAC-ARQ, also known as MEROD and RACAL-ARQ, is a teleprinter system by Racal, used in MEROD devices. MEROD stands for Message Entry and Read Out Device. Hasn't been seen since 2010.
+This signal originates from the Silicon Instruments Si1000 Software Defined Radio (SDR) that is a component of the 3DR Telemetry Radio, sold for use as a data link between a computer ground station and a UAV "a drone".

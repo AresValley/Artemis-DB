@@ -1,7 +1,7 @@
 {
     "signal": {
-        "name": "DUP-FEC-2",
-        "url": "https://www.sigidwiki.com/wiki/DUP-FEC-2"
+        "name": "DUP-ARQ-2",
+        "url": "https://www.sigidwiki.com/wiki/DUP-ARQ-2"
     },
     "category": [
         "Digital"
@@ -18,7 +18,7 @@
     ],
     "bandwidth": [
         {
-            "value": 1100,
+            "value": 1300,
             "description": ""
         }
     ],

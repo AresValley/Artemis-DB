@@ -1,7 +1,7 @@
 {
     "signal": {
-        "name": "Israeli VFT",
-        "url": "https://www.sigidwiki.com/wiki/Israeli_VFT"
+        "name": "Israeli Navy Hybrid Modem (188-110 MOD)",
+        "url": "https://www.sigidwiki.com/wiki/Israeli_Navy_Hybrid_Modem_(188-110_MOD)"
     },
     "category": [
         "Military",
@@ -19,16 +19,17 @@
     ],
     "bandwidth": [
         {
-            "value": 3100,
+            "value": 2750,
             "description": ""
         }
     ],
-    "acf": [],
-    "modulation": [
+    "acf": [
         {
-            "value": "FSK",
-            "description": ""
-        },
+            "value": 66.6,
+            "description": "MIL-STD body"
+        }
+    ],
+    "modulation": [
         {
             "value": "PSK",
             "description": ""

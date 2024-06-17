@@ -1,19 +1,42 @@
 {
     "signal": {
-        "name": "National Public Alerting System (NPAS)",
-        "url": "https://www.sigidwiki.com/wiki/National_Public_Alerting_System_(NPAS)"
+        "name": "Narrow-Bandwidth Television (NBTV)",
+        "url": "https://www.sigidwiki.com/wiki/Narrow-Bandwidth_Television_(NBTV)"
     },
     "category": [
-        "Analogue"
+        "Amateur Radio"
     ],
-    "frequency": [],
-    "bandwidth": [],
+    "frequency": [
+        {
+            "value": 50000000,
+            "description": ""
+        },
+        {
+            "value": 1800000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 13000,
+            "description": ""
+        }
+    ],
     "acf": [],
-    "modulation": [],
+    "modulation": [
+        {
+            "value": "AM",
+            "description": ""
+        },
+        {
+            "value": "FM",
+            "description": ""
+        }
+    ],
     "mode": [],
     "location": [
         {
-            "value": "Canada",
+            "value": "Worldwide",
             "description": ""
         }
     ]

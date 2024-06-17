@@ -1,1 +1,1 @@
-STANAG 4529 a modification of STANAG 4285 to deliver data and voice in 1240 Hz of bandwidth at rates of up to 1800 bps.
+STANAG 4481, also known as CRATT, Link-4, and NATO-75, is specified by the NATO (North Atlantic Treaty Organization) Military Agency for Standardization as a "Minimum technical equipment standards for naval HF shore-to-ship broadcast system"

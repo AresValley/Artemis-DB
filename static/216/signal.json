@@ -1,61 +1,45 @@
 {
     "signal": {
-        "name": "HFGCS (High Frequency Global Communications System)",
-        "url": "https://www.sigidwiki.com/wiki/HFGCS_(High_Frequency_Global_Communications_System)"
+        "name": "HDMI RFI Clock",
+        "url": "https://www.sigidwiki.com/wiki/HDMI_RFI_Clock"
     },
     "category": [
-        "Aviation",
-        "Military"
+        "Interfering"
     ],
     "frequency": [
         {
-            "value": 4724000,
+            "value": 148350000,
             "description": ""
         },
         {
-            "value": 6712000,
+            "value": 148500000,
             "description": ""
         },
         {
-            "value": 6739000,
+            "value": 296700000,
             "description": ""
         },
         {
-            "value": 8992000,
+            "value": 297000000,
             "description": ""
         },
         {
-            "value": 11175000,
+            "value": 445500000,
             "description": ""
         },
         {
-            "value": 13200000,
+            "value": 742,
             "description": ""
         },
         {
-            "value": 15016000,
+            "value": 445050000,
             "description": ""
         }
     ],
-    "bandwidth": [
-        {
-            "value": 2950,
-            "description": ""
-        }
-    ],
+    "bandwidth": [],
     "acf": [],
-    "modulation": [
-        {
-            "value": "USB",
-            "description": ""
-        }
-    ],
-    "mode": [
-        {
-            "value": "USB",
-            "description": ""
-        }
-    ],
+    "modulation": [],
+    "mode": [],
     "location": [
         {
             "value": "Worldwide",

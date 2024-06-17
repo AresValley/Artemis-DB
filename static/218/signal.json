@@ -1,23 +1,31 @@
 {
     "signal": {
-        "name": "HORYU-4 Telemetry",
-        "url": "https://www.sigidwiki.com/wiki/HORYU-4_Telemetry"
+        "name": "HNG-FEC",
+        "url": "https://www.sigidwiki.com/wiki/HNG-FEC"
     },
     "category": [
-        "Digital",
-        "Satellite"
+        "Digital"
     ],
     "frequency": [
         {
-            "value": 437375000,
+            "value": 2400000,
+            "description": ""
+        },
+        {
+            "value": 24000000,
             "description": ""
         }
     ],
-    "bandwidth": [],
+    "bandwidth": [
+        {
+            "value": 600,
+            "description": ""
+        }
+    ],
     "acf": [],
     "modulation": [
         {
-            "value": "BPSK",
+            "value": "FSK",
             "description": ""
         }
     ],
@@ -29,7 +37,7 @@
     ],
     "location": [
         {
-            "value": "Worldwide",
+            "value": "Hungary",
             "description": ""
         }
     ]

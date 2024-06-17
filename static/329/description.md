@@ -1,1 +1,1 @@
-The Direct Sounder Broadcast (DSB) is an auxiliary telemetry downlink from NOAA Polar Operational Environmental Satellites (POES), transmitted alongside Automatic Picture Transmission (APT) broadcasts.
+Naval Radio Transmitter Facility (NRTF) transmits encrypted commands to submerged US submarines.

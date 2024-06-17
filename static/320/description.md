@@ -1,1 +1,1 @@
-Supervisory Control And Data Acquisition (SCADA) is a control system architecture that is used in industrial applications for computerized automated systems. Wireless telemetry is used on RTU's to send data to control units for operators to utilize.
+Motorola's ASTRO 25 High Performance Data Air Interface allows Motorola ASTRO 25 HPD modems to transfer data at up to 96 kbps over a 25 kHz channel in the 700 MHz or 800 MHz bands.

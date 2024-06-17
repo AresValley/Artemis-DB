@@ -1,1 +1,1 @@
-TDF is a time signal transmitted on the former carrier of France's France Inter longwave AM radio station on 162 kHz.
+Mahovik, "Flywheel" in Russian, is a PSK based mode that can transmit both voice and data. It is transmitted from a Russian T-230-1A radio transceiver.

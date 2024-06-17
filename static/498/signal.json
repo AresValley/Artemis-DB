@@ -1,0 +1,56 @@
+{
+    "signal": {
+        "name": "Visonic MCT-201",
+        "url": "https://www.sigidwiki.com/wiki/Visonic_MCT-201"
+    },
+    "category": [
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 868000000,
+            "description": ""
+        },
+        {
+            "value": 315000000,
+            "description": ""
+        },
+        {
+            "value": 404000000,
+            "description": ""
+        },
+        {
+            "value": 418000000,
+            "description": ""
+        },
+        {
+            "value": 433920000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 5000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "PWM",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

@@ -1,1 +1,1 @@
-Radio signal used by MRI machines to excite protons and obtain their response.
+Serdolik is a MFSK signal used by the Russian diplomatic service.

@@ -1,1 +1,1 @@
-Positive train control (PTC) is a system of functional requirements for monitoring and controlling train movements as an attempt to provide increased safety.
+Signals sent from portable traffic lights that are often used at roadworks.

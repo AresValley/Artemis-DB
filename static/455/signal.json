@@ -1,34 +1,44 @@
 {
     "signal": {
-        "name": "Switch-mode power supply interference",
-        "url": "https://www.sigidwiki.com/wiki/Switch-mode_power_supply_interference"
+        "name": "Supervisory Control And Data Acquisition (SCADA)",
+        "url": "https://www.sigidwiki.com/wiki/Supervisory_Control_And_Data_Acquisition_(SCADA)"
     },
     "category": [
-        "Interfering"
+        "Utility",
+        "Digital"
     ],
     "frequency": [
         {
-            "value": 10000,
+            "value": 450000000,
             "description": ""
         },
         {
-            "value": 200000000,
+            "value": 950000000,
+            "description": ""
+        },
+        {
+            "value": 413000000,
             "description": ""
         }
     ],
-    "bandwidth": [],
+    "bandwidth": [
+        {
+            "value": 12000,
+            "description": ""
+        }
+    ],
     "acf": [],
-    "modulation": [],
+    "modulation": [
+        {
+            "value": "FSK",
+            "description": ""
+        }
+    ],
     "mode": [
         {
-            "value": "USB",
+            "value": "FM",
             "description": ""
         }
     ],
-    "location": [
-        {
-            "value": "Worldwide",
-            "description": ""
-        }
-    ]
+    "location": []
 }

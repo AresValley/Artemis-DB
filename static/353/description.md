@@ -1,1 +1,1 @@
-OpenSky is an encrypted TDMA protocol that is heavily used but is being phased out by the Pennsylvania State Police. No one other than the intended user has been able to decrypt the signal.
+One Beep, Two Beeps is a nickname given to a signal emitted by the Norwegian Navy communications center in Bodø

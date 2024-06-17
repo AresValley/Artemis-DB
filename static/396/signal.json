@@ -1,10 +1,11 @@
 {
     "signal": {
-        "name": "RUM-FEC",
-        "url": "https://www.sigidwiki.com/wiki/RUM-FEC"
+        "name": "RTTYM",
+        "url": "https://www.sigidwiki.com/wiki/RTTYM"
     },
     "category": [
-        "Digital"
+        "Digital",
+        "Amateur Radio"
     ],
     "frequency": [
         {
@@ -18,14 +19,30 @@
     ],
     "bandwidth": [
         {
-            "value": 750,
+            "value": 150,
+            "description": ""
+        },
+        {
+            "value": 250,
+            "description": ""
+        },
+        {
+            "value": 500,
+            "description": ""
+        },
+        {
+            "value": 1000,
+            "description": ""
+        },
+        {
+            "value": 2000,
             "description": ""
         }
     ],
     "acf": [],
     "modulation": [
         {
-            "value": "FSK",
+            "value": "MFSK",
             "description": ""
         }
     ],
@@ -37,7 +54,7 @@
     ],
     "location": [
         {
-            "value": "Romania",
+            "value": "Worldwide",
             "description": ""
         }
     ]

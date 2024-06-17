@@ -1,1 +1,1 @@
-The is a research beacon for training neuronal networks.
+D-STAR is a digital voice protocol used by ham radio. Is sometimes routed over the internet for international communications.

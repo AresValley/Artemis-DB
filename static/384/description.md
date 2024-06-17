@@ -1,1 +1,1 @@
-Pursuit series wireless car alarm entry key, for use on vehicles equipped with Pursuit Series Car Alarm System.
+Signal used for remote control (RC) Toys.

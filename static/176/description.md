@@ -1,1 +1,1 @@
-FSK441 is a high speed meteor scatter communication mode. FSK441 uses a baud rate of 441 Bd.
+FM NBTV is a method to send moving images in a very narrow bandwidth (maximum 3 KHz)

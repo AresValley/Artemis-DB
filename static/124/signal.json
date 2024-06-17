@@ -1,49 +1,76 @@
 {
     "signal": {
-        "name": "D-STAR",
-        "url": "https://www.sigidwiki.com/wiki/D-STAR"
+        "name": "Cuban Jammer",
+        "url": "https://www.sigidwiki.com/wiki/Cuban_Jammer"
     },
-    "category": [
-        "Amateur Radio",
-        "Digital"
-    ],
+    "category": [],
     "frequency": [
         {
-            "value": 145670000,
+            "value": 7335000,
+            "description": ""
+        },
+        {
+            "value": 7355000,
+            "description": ""
+        },
+        {
+            "value": 7375000,
+            "description": ""
+        },
+        {
+            "value": 7435000,
+            "description": ""
+        },
+        {
+            "value": 9490000,
+            "description": ""
+        },
+        {
+            "value": 9565000,
+            "description": ""
+        },
+        {
+            "value": 9955000,
+            "description": ""
+        },
+        {
+            "value": 11860000,
+            "description": ""
+        },
+        {
+            "value": 11930000,
+            "description": ""
+        },
+        {
+            "value": 13820000,
+            "description": ""
+        },
+        {
+            "value": 5980000,
+            "description": ""
+        },
+        {
+            "value": 6030000,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 6250,
+            "value": 10000,
             "description": ""
         }
     ],
-    "acf": [
-        {
-            "value": 20.0,
-            "description": "Frame"
-        },
-        {
-            "value": 420.0,
-            "description": "Superframe"
-        }
-    ],
-    "modulation": [
-        {
-            "value": "GMSK",
-            "description": ""
-        }
-    ],
+    "acf": [],
+    "modulation": [],
     "mode": [
         {
-            "value": "NFM",
+            "value": "DSB",
             "description": ""
         }
     ],
     "location": [
         {
-            "value": "Worldwide",
+            "value": "Cuba",
             "description": ""
         }
     ]

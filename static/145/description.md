@@ -1,1 +1,1 @@
-Digital Radio Mondiale (DRM) is a digital commercial broadcasting mode used to deliver FM-comparable sound quality to shortwave radio.
+dPMR is an open, non-proprietary trunked radio standard developed by ETSI, published under ETSI TS 102 658. Supports both data and digital voice transmission.

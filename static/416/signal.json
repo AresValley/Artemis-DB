@@ -1,15 +1,15 @@
 {
     "signal": {
-        "name": "SAS3",
-        "url": "https://www.sigidwiki.com/wiki/SAS3"
+        "name": "SAS2",
+        "url": "https://www.sigidwiki.com/wiki/SAS2"
     },
     "category": [
-        "Marine",
-        "Military"
+        "Military",
+        "Marine"
     ],
     "frequency": [
         {
-            "value": 44200,
+            "value": 42500,
             "description": ""
         }
     ],

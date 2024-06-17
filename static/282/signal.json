@@ -1,36 +1,40 @@
 {
     "signal": {
-        "name": "Logic Trunked Radio (LTR)",
-        "url": "https://www.sigidwiki.com/wiki/Logic_Trunked_Radio_(LTR)"
+        "name": "Lockheed Martin LMS-6 (Radiosonde)",
+        "url": "https://www.sigidwiki.com/wiki/Lockheed_Martin_LMS-6_(Radiosonde)"
     },
     "category": [
-        "Commercial",
+        "Utility",
         "Digital"
     ],
     "frequency": [
         {
-            "value": 150000000,
+            "value": 400000000,
             "description": ""
         },
         {
-            "value": 470000000,
+            "value": 403000000,
+            "description": ""
+        },
+        {
+            "value": 1676000000,
+            "description": ""
+        },
+        {
+            "value": 1682000000,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 12500,
-            "description": ""
-        },
-        {
-            "value": 25000,
+            "value": 10000,
             "description": ""
         }
     ],
     "acf": [],
     "modulation": [
         {
-            "value": "FSK",
+            "value": "GFSK",
             "description": ""
         }
     ],
@@ -40,5 +44,10 @@
             "description": ""
         }
     ],
-    "location": []
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
 }

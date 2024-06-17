@@ -1,1 +1,1 @@
-Inmarsat's M2M data service for SCADA asset tracking and reporting.
+This is the L-band uplink/downlink for the Low Earth Orbit Iridium Satellite Constellation. This system is used for satellite based phone calls.

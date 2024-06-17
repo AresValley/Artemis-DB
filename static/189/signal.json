@@ -1,45 +1,32 @@
 {
     "signal": {
-        "name": "G-TOR",
-        "url": "https://www.sigidwiki.com/wiki/G-TOR"
+        "name": "Futuba RC Controller",
+        "url": "https://www.sigidwiki.com/wiki/Futuba_RC_Controller"
     },
-    "category": [
-        "Amateur Radio",
-        "Digital"
-    ],
+    "category": [],
     "frequency": [
         {
-            "value": 3000000,
+            "value": 75000000,
             "description": ""
         },
         {
-            "value": 30000000,
+            "value": 72000000,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 350,
+            "value": 12000,
             "description": ""
         }
     ],
     "acf": [],
-    "modulation": [
-        {
-            "value": "FSK",
-            "description": ""
-        }
-    ],
+    "modulation": [],
     "mode": [
         {
-            "value": "USB",
+            "value": "AM",
             "description": ""
         }
     ],
-    "location": [
-        {
-            "value": "Worldwide",
-            "description": ""
-        }
-    ]
+    "location": []
 }

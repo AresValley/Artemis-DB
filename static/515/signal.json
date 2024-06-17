@@ -1,0 +1,44 @@
+{
+    "signal": {
+        "name": "\u00c9lectricit\u00e9 de France HNZ",
+        "url": "https://www.sigidwiki.com/wiki/%C3%89lectricit%C3%A9_de_France_HNZ"
+    },
+    "category": [
+        "Utility"
+    ],
+    "frequency": [
+        {
+            "value": 68500000,
+            "description": ""
+        },
+        {
+            "value": 73300000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 8000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "AFSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "FM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "France",
+            "description": ""
+        }
+    ]
+}

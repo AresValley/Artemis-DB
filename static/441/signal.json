@@ -1,22 +1,43 @@
 {
     "signal": {
-        "name": "Siemens 1.5T MRI Scanner",
-        "url": "https://www.sigidwiki.com/wiki/Siemens_1.5T_MRI_Scanner"
+        "name": "Serdolik",
+        "url": "https://www.sigidwiki.com/wiki/Serdolik"
     },
-    "category": [],
+    "category": [
+        "Digital"
+    ],
     "frequency": [
         {
-            "value": 64000000,
+            "value": 3000000,
+            "description": ""
+        },
+        {
+            "value": 30000000,
             "description": ""
         }
     ],
-    "bandwidth": [],
+    "bandwidth": [
+        {
+            "value": 1400,
+            "description": ""
+        }
+    ],
     "acf": [],
-    "modulation": [],
-    "mode": [],
+    "modulation": [
+        {
+            "value": "MFSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
     "location": [
         {
-            "value": "Worldwide",
+            "value": "Russia",
             "description": ""
         }
     ]

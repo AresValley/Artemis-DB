@@ -1,27 +1,56 @@
 {
     "signal": {
-        "name": "Tactical Air Navigation System (TACAN)",
-        "url": "https://www.sigidwiki.com/wiki/Tactical_Air_Navigation_System_(TACAN)"
+        "name": "TWINPLEX",
+        "url": "https://www.sigidwiki.com/wiki/TWINPLEX"
     },
     "category": [
-        "Aviation",
-        "Navigation",
-        "Military"
+        "Digital"
     ],
     "frequency": [
         {
-            "value": 1213000000,
+            "value": 3000000,
             "description": ""
         },
         {
-            "value": 960000000,
+            "value": 30000000,
             "description": ""
         }
     ],
-    "bandwidth": [],
+    "bandwidth": [
+        {
+            "value": 450,
+            "description": ""
+        },
+        {
+            "value": 550,
+            "description": ""
+        },
+        {
+            "value": 660,
+            "description": ""
+        },
+        {
+            "value": 750,
+            "description": ""
+        },
+        {
+            "value": 950,
+            "description": ""
+        }
+    ],
     "acf": [],
-    "modulation": [],
-    "mode": [],
+    "modulation": [
+        {
+            "value": "MFSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
     "location": [
         {
             "value": "Worldwide",

@@ -1,1 +1,1 @@
-Commercial AM Broadcast jamming signal that plays Chinese folk songs to jam specific radio stations in Asia from being received by listeners.
+Chinese 4+4, also known as 4+4 or PRC 4+4, is a multi-carrier transmission mode. It used by Chinese Diplomatic services with most traffic originating from Beijing, China.

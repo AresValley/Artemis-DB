@@ -1,1 +1,1 @@
-Inmarsat Aero is the protocol that's used to link ground stations with aircraft via Inmarsat's satellite link. This protocol carries digital voice, fax and low speed data such as ACARS and ADS-C.
+RF interference from nearby induction cooker can sometimes be mistaken for a real LF or VLF transmission.

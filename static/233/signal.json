@@ -1,39 +1,38 @@
 {
     "signal": {
-        "name": "ILS Marker Beacon",
-        "url": "https://www.sigidwiki.com/wiki/ILS_Marker_Beacon"
+        "name": "ICV",
+        "url": "https://www.sigidwiki.com/wiki/ICV"
     },
     "category": [
-        "Aviation"
+        "Military"
     ],
     "frequency": [
         {
-            "value": 75000000,
+            "value": 20270,
             "description": ""
-        }
-    ],
-    "bandwidth": [
+        },
         {
-            "value": 3000,
+            "value": 20760,
             "description": ""
         }
     ],
+    "bandwidth": [],
     "acf": [],
     "modulation": [
         {
-            "value": "OOK",
+            "value": "MSK",
             "description": ""
         }
     ],
     "mode": [
         {
-            "value": "AM",
+            "value": "CW",
             "description": ""
         }
     ],
     "location": [
         {
-            "value": "Worldwide",
+            "value": "Italy",
             "description": ""
         }
     ]

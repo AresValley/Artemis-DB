@@ -1,42 +1,38 @@
 {
     "signal": {
-        "name": "VHF Omnidirectional Range (VOR)",
-        "url": "https://www.sigidwiki.com/wiki/VHF_Omnidirectional_Range_(VOR)"
+        "name": "VHF Data Link - Mode 2 (VDL-M2)",
+        "url": "https://www.sigidwiki.com/wiki/VHF_Data_Link_-_Mode_2_(VDL-M2)"
     },
     "category": [
         "Aviation",
-        "Navigation"
+        "Digital"
     ],
     "frequency": [
         {
-            "value": 108000000,
+            "value": 117975000,
             "description": ""
         },
         {
-            "value": 117950000,
+            "value": 137000000,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 21000,
+            "value": 25000,
             "description": ""
         }
     ],
     "acf": [],
     "modulation": [
         {
-            "value": "AM",
-            "description": ""
-        },
-        {
-            "value": "FM",
+            "value": "PSK",
             "description": ""
         }
     ],
     "mode": [
         {
-            "value": "NFM",
+            "value": "RAW",
             "description": ""
         }
     ],

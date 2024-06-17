@@ -1,1 +1,1 @@
-OFDM NBTV is an analog technique, in fact it is a true Fuzzy design as well. The transmission technique used is quite different from conventional TV
+The North Korean Siren Jammer is among the signal disruption techniques employed by North Korea, commonly targeting shortwave radio stations.

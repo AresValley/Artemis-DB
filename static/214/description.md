@@ -1,1 +1,1 @@
-HD Radio is a proprietary digital broadcast radio format transmitted in North America, usually as sidebands on analog carriers. This is the FM band implementation of HD Radio.
+HD Radio is a proprietary digital broadcast radio format transmitted in North America, usually as sidebands on analog carriers. This is the AM band implementation of HD Radio.

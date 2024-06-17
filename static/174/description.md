@@ -1,1 +1,1 @@
-Commercial Broadcast FM radio stations. Used for the broadcast of many different radio programs, including music, news, sports, weather, and talk shows.
+FLEX (Flexible Wide Area Paging Protocol) is Motorola's high speed one-way paging protocol that supports 1600, 3200, and 6400 bps. FLEX can transmit tone, numeric, alphanumeric, and binary data.

@@ -1,1 +1,1 @@
-NXDN is a digital narrowband trunked radio protocol used in commercial, business & industry, transport and Public Safety professional radio systems.
+NICAM is used to provide digital stereo audio alongside PAL video for television broadcasts.

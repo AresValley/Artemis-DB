@@ -1,1 +1,1 @@
-The UIC radio is an analogue radio, which consists of lineside and mobile (trainborne) equipment. Radio systems following this basic subset allow for simplex and duplex voice communication and use of operating signals (tones), and for selective calls and for data transmission.
+LTR Passport is a type of control channel (unlike the standalone LTR that doesnt have one) which consists of multiple radio repeater sites linked together to form a wide-area radio dispatch network.

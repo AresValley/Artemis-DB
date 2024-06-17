@@ -1,1 +1,1 @@
-RUM-FEC, also known as ROU-FEC and SAU-FEC, is a FSK FEC system used by Romanian diplomatic services. This is no longer used today, replaced by MIL-STD 188-110 Serial.
+RTTYM, developed by Nick Fedoseev (UT2UZ) in 2005, is a digital mode derived from Olivia. It aims to deliver a compromise of speed and performance. RTTYM is about 4x faster than Olivia, but trades the speed for reduced robustness and sensitivity.

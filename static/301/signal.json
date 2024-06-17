@@ -1,33 +1,35 @@
 {
     "signal": {
-        "name": "MONITOR-2(RS39S)",
-        "url": "https://www.sigidwiki.com/wiki/MONITOR-2(RS39S)"
+        "name": "MODAT",
+        "url": "https://www.sigidwiki.com/wiki/MODAT"
     },
-    "category": [
-        "Satellite"
-    ],
+    "category": [],
     "frequency": [
         {
-            "value": 435815000,
+            "value": 30000000,
+            "description": ""
+        },
+        {
+            "value": 800000000,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 12500,
+            "value": 5000,
             "description": ""
         }
     ],
     "acf": [],
     "modulation": [
         {
-            "value": "AFSK",
+            "value": "MFSK",
             "description": ""
         }
     ],
     "mode": [
         {
-            "value": "FM",
+            "value": "NFM",
             "description": ""
         }
     ],

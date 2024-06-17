@@ -1,46 +1,33 @@
 {
     "signal": {
-        "name": "LoRa",
-        "url": "https://www.sigidwiki.com/wiki/LoRa"
+        "name": "LoJack",
+        "url": "https://www.sigidwiki.com/wiki/LoJack"
     },
     "category": [
-        "Commercial",
-        "Digital"
+        "Utility"
     ],
     "frequency": [
         {
-            "value": 433000000,
-            "description": ""
-        },
-        {
-            "value": 863000000,
-            "description": ""
-        },
-        {
-            "value": 870000000,
-            "description": ""
-        },
-        {
-            "value": 915000000,
+            "value": 173075000,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 250000,
+            "value": 10000,
             "description": ""
         }
     ],
     "acf": [],
     "modulation": [
         {
-            "value": "CSS",
+            "value": "FFSK",
             "description": ""
         }
     ],
     "mode": [
         {
-            "value": "FM",
+            "value": "NFM",
             "description": ""
         }
     ],

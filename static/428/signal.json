@@ -1,7 +1,7 @@
 {
     "signal": {
-        "name": "STANAG 4285",
-        "url": "https://www.sigidwiki.com/wiki/STANAG_4285"
+        "name": "STANAG 4197",
+        "url": "https://www.sigidwiki.com/wiki/STANAG_4197"
     },
     "category": [
         "Military",
@@ -9,29 +9,28 @@
     ],
     "frequency": [
         {
-            "value": 1890000,
+            "value": 3000000,
             "description": ""
         },
         {
-            "value": 22700000,
+            "value": 30000000,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 2750,
+            "value": 2300,
             "description": ""
         }
     ],
-    "acf": [
-        {
-            "value": 106.66,
-            "description": "Main"
-        }
-    ],
+    "acf": [],
     "modulation": [
         {
             "value": "PSK",
+            "description": ""
+        },
+        {
+            "value": "OFDM",
             "description": ""
         }
     ],

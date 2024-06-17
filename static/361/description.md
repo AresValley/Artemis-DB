@@ -1,1 +1,1 @@
-Phase Alternating Line (PAL) Analogue Television Broadcast. Now phased out in most of the world.
+PACTOR IV is the newest iteration of the PACTOR series, advancing from PACTOR I-III. It is 1.5x-3x faster than PACTOR III, and has 10 speed levels.

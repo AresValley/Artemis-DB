@@ -1,1 +1,1 @@
-Thales SALAMANDRE (using HFXL waveform) uses up to 16 separate contiguous or not-contiguous narrowband HF channels for high datarate military and tactical communications. Operates on a modified STANAG-4539 platform.
+Tetrapol is a digital professional mobile radio standard for digital voice and data communication used by public safety and military throughout Europe. Tetrapol was originally developed by Matra Communication (Currently part of EADS/Airbus Group) in France in the 1980's.

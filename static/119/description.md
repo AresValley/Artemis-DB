@@ -1,1 +1,1 @@
-Contestia, developed by Nick Fedoseev (UT2UZ) in 2005, is a digital mode derived from Olivia. It aims to deliver a compromise of speed and performance.
+Low speed FSK telemetry to monitor and control warning sirens that are used to warn the public of threats such as tsunamis, severe weather, chemical spills and civil emergencies.

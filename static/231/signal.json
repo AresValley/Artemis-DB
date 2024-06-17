@@ -1,34 +1,38 @@
 {
     "signal": {
-        "name": "ICARUS (International Cooperation for Animal Research Using Space)",
-        "url": "https://www.sigidwiki.com/wiki/ICARUS_(International_Cooperation_for_Animal_Research_Using_Space)"
+        "name": "ICAO Selcal",
+        "url": "https://www.sigidwiki.com/wiki/ICAO_Selcal"
     },
     "category": [
-        "Digital",
-        "Satellite"
+        "Aviation",
+        "Analogue"
     ],
     "frequency": [
         {
-            "value": 468100000,
+            "value": 300000000,
+            "description": ""
+        },
+        {
+            "value": 3000000,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 32000,
+            "value": 1500,
             "description": ""
         }
     ],
     "acf": [],
     "modulation": [
         {
-            "value": "PSK",
+            "value": "MFSK",
             "description": ""
         }
     ],
     "mode": [
         {
-            "value": "NFM",
+            "value": "USB",
             "description": ""
         }
     ],

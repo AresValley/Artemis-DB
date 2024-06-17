@@ -1,37 +1,23 @@
 {
     "signal": {
-        "name": "Ionosonde",
-        "url": "https://www.sigidwiki.com/wiki/Ionosonde"
+        "name": "Ionized Meteor Trails",
+        "url": "https://www.sigidwiki.com/wiki/Ionized_Meteor_Trails"
     },
     "category": [
-        "Radar"
+        "Interfering"
     ],
     "frequency": [
         {
-            "value": 1000000,
-            "description": ""
-        },
-        {
-            "value": 40000000,
+            "value": 88300000,
             "description": ""
         }
     ],
-    "bandwidth": [
-        {
-            "value": 1,
-            "description": ""
-        }
-    ],
+    "bandwidth": [],
     "acf": [],
-    "modulation": [
-        {
-            "value": "FMCW",
-            "description": ""
-        }
-    ],
+    "modulation": [],
     "mode": [
         {
-            "value": "USB",
+            "value": "FM",
             "description": ""
         }
     ],

@@ -1,1 +1,1 @@
-PSK2K is a meteor scatter type of mode written by DJ5HG Using a modulation scheme of BPSK at 2000 Bd.
+PSK-AM is an amateur digital mode developed by Patrick Lindecker F6CTE in 2002/2003, and incorporates FEC interleaving. PSK-AM uses the modulation of PSK10/31 with the FEC of SITOR-B.

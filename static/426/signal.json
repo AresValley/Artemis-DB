@@ -1,48 +1,37 @@
 {
     "signal": {
-        "name": "SSTV",
-        "url": "https://www.sigidwiki.com/wiki/SSTV"
+        "name": "SPREAD",
+        "url": "https://www.sigidwiki.com/wiki/SPREAD"
     },
-    "category": [],
+    "category": [
+        "Digital"
+    ],
     "frequency": [
         {
             "value": 3000000,
             "description": ""
         },
         {
-            "value": 450000000,
+            "value": 30000000,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 2500,
+            "value": 600,
             "description": ""
         }
     ],
-    "acf": [
-        {
-            "value": 0,
-            "description": "Line per minute"
-        }
-    ],
+    "acf": [],
     "modulation": [
         {
-            "value": "FM",
+            "value": "FSK",
             "description": ""
         }
     ],
     "mode": [
         {
             "value": "USB",
-            "description": ""
-        },
-        {
-            "value": "LSB",
-            "description": ""
-        },
-        {
-            "value": "NFM",
             "description": ""
         }
     ],

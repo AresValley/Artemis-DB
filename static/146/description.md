@@ -1,1 +1,1 @@
-DRM+ is a VHF implementation of DRM primarily for the FM broadcast band.
+Digital Radio Mondiale (DRM) is a digital commercial broadcasting mode used to deliver FM-comparable sound quality to shortwave radio.

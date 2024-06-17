@@ -1,1 +1,1 @@
-STANAG 4415 is a NATO standard for robust, non-hopping digital data communication, used on severely degraded HF channels with large Doppler and multipath spreads.
+STANAG 4285 is specified by the NATO (North Atlantic Treaty Organization) Military Agency for Standardization in "Characteristics of 1200 / 2400 / 3600 Bits per Second Single Tone Modulators / Demodulators for HF Radio Links"

@@ -1,1 +1,1 @@
-DUP-ARQ, also known as ARTRAC and 125-ARTRAC, is a semi-duplex ARQ system once used by Thai and Hungarian Diplomatic services.
+GRAW DFM-09 radiosonde measures temperature, humidity, air pressure, wind direction, and wind speed.

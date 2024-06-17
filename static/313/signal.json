@@ -1,11 +1,11 @@
 {
     "signal": {
-        "name": "Meteomodem PilotSonde Weather Balloon",
-        "url": "https://www.sigidwiki.com/wiki/Meteomodem_PilotSonde_Weather_Balloon"
+        "name": "Meteomodem M10 Weather Balloon (Radiosonde)",
+        "url": "https://www.sigidwiki.com/wiki/Meteomodem_M10_Weather_Balloon_(Radiosonde)"
     },
     "category": [
-        "Utility",
-        "Digital"
+        "Digital",
+        "Utility"
     ],
     "frequency": [
         {
@@ -19,14 +19,14 @@
     ],
     "bandwidth": [
         {
-            "value": 15000,
+            "value": 30000,
             "description": ""
         }
     ],
     "acf": [],
     "modulation": [
         {
-            "value": "FSK",
+            "value": "PSK",
             "description": ""
         }
     ],

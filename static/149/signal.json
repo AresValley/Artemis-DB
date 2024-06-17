@@ -1,32 +1,33 @@
 {
     "signal": {
-        "name": "DisplayPort Interference",
-        "url": "https://www.sigidwiki.com/wiki/DisplayPort_Interference"
+        "name": "Digital-Coded Squelch (DCS)",
+        "url": "https://www.sigidwiki.com/wiki/Digital-Coded_Squelch_(DCS)"
     },
     "category": [
-        "Interfering"
+        "Commercial",
+        "Digital"
     ],
     "frequency": [
         {
-            "value": 381500000,
+            "value": 433000000,
             "description": ""
         },
         {
-            "value": 159557500,
+            "value": 446000000,
             "description": ""
         }
     ],
-    "bandwidth": [
-        {
-            "value": 250000,
-            "description": ""
-        }
-    ],
+    "bandwidth": [],
     "acf": [],
-    "modulation": [],
+    "modulation": [
+        {
+            "value": "FSK",
+            "description": ""
+        }
+    ],
     "mode": [
         {
-            "value": "RAW",
+            "value": "NFM",
             "description": ""
         }
     ],

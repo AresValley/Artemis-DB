@@ -1,35 +1,49 @@
 {
     "signal": {
-        "name": "Inmarsat IsatM2M",
-        "url": "https://www.sigidwiki.com/wiki/Inmarsat_IsatM2M"
+        "name": "Inmarsat Aero",
+        "url": "https://www.sigidwiki.com/wiki/Inmarsat_Aero"
     },
     "category": [
-        "Marine",
+        "Satellite",
         "Commercial",
-        "Utility",
-        "Digital",
-        "Satellite"
+        "Aviation"
     ],
     "frequency": [
         {
-            "value": 1525000000,
+            "value": 1545000000,
             "description": ""
         },
         {
-            "value": 1559000000,
+            "value": 1547000000,
+            "description": ""
+        },
+        {
+            "value": 3685000000,
+            "description": ""
+        },
+        {
+            "value": 3687000000,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 1024,
+            "value": 10500000,
+            "description": ""
+        },
+        {
+            "value": 800,
+            "description": ""
+        },
+        {
+            "value": 1600,
             "description": ""
         }
     ],
     "acf": [],
     "modulation": [
         {
-            "value": "MFSK",
+            "value": "PSK",
             "description": ""
         }
     ],

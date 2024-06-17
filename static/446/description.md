@@ -1,1 +1,1 @@
-Data transmission mode developed by SkySweep Technologies in Finland. Probably used by Finnish MFA
+SiriusXM Satellite Radio: Terrestrial Repeater Signal

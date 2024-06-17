@@ -1,32 +1,38 @@
 {
     "signal": {
-        "name": "RFID",
-        "url": "https://www.sigidwiki.com/wiki/RFID"
+        "name": "RDL",
+        "url": "https://www.sigidwiki.com/wiki/RDL"
     },
-    "category": [],
+    "category": [
+        "Military"
+    ],
     "frequency": [
         {
-            "value": 13560000,
+            "value": 18100,
             "description": ""
         }
     ],
-    "bandwidth": [
-        {
-            "value": 3300,
-            "description": ""
-        }
-    ],
+    "bandwidth": [],
     "acf": [],
-    "modulation": [],
+    "modulation": [
+        {
+            "value": "FSK",
+            "description": ""
+        },
+        {
+            "value": "CW-FSK",
+            "description": ""
+        }
+    ],
     "mode": [
         {
-            "value": "USB",
+            "value": "CW",
             "description": ""
         }
     ],
     "location": [
         {
-            "value": "Worldwide",
+            "value": "Russia",
             "description": ""
         }
     ]

@@ -1,24 +1,64 @@
 {
     "signal": {
-        "name": "GYN2 GBR",
-        "url": "https://www.sigidwiki.com/wiki/GYN2_GBR"
+        "name": "GSM TCH traffic channels non frequency hopping",
+        "url": "https://www.sigidwiki.com/wiki/GSM_TCH_traffic_channels_non_frequency_hopping"
     },
     "category": [
-        "Military"
+        "Digital",
+        "Commercial"
     ],
     "frequency": [
         {
-            "value": 81000,
+            "value": 450000000,
+            "description": ""
+        },
+        {
+            "value": 850000000,
+            "description": ""
+        },
+        {
+            "value": 900000000,
+            "description": ""
+        },
+        {
+            "value": 1800000000,
+            "description": ""
+        },
+        {
+            "value": 1900000000,
             "description": ""
         }
     ],
-    "bandwidth": [],
+    "bandwidth": [
+        {
+            "value": 200000,
+            "description": ""
+        }
+    ],
     "acf": [],
-    "modulation": [],
-    "mode": [],
+    "modulation": [
+        {
+            "value": "GMSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "RAW",
+            "description": ""
+        },
+        {
+            "value": "AM",
+            "description": ""
+        },
+        {
+            "value": "FM",
+            "description": ""
+        }
+    ],
     "location": [
         {
-            "value": "United Kingdom",
+            "value": "Worldwide",
             "description": ""
         }
     ]

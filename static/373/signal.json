@@ -1,101 +1,25 @@
 {
     "signal": {
-        "name": "Phase Shift Keying (PSK)",
-        "url": "https://www.sigidwiki.com/wiki/Phase_Shift_Keying_(PSK)"
+        "name": "Panther-H Modem",
+        "url": "https://www.sigidwiki.com/wiki/Panther-H_Modem"
     },
     "category": [
-        "Amateur Radio",
+        "Military",
         "Digital"
     ],
     "frequency": [
         {
-            "value": 7035000,
+            "value": 1500000,
             "description": ""
         },
         {
-            "value": 7040000,
-            "description": ""
-        },
-        {
-            "value": 10142000,
-            "description": ""
-        },
-        {
-            "value": 14070000,
-            "description": ""
-        },
-        {
-            "value": 21080000,
-            "description": ""
-        },
-        {
-            "value": 50290000,
-            "description": ""
-        },
-        {
-            "value": 144144000,
-            "description": ""
-        },
-        {
-            "value": 222070000,
-            "description": ""
-        },
-        {
-            "value": 432200000,
-            "description": ""
-        },
-        {
-            "value": 909000000,
-            "description": ""
-        },
-        {
-            "value": 1838000,
-            "description": ""
-        },
-        {
-            "value": 3580000,
-            "description": ""
-        },
-        {
-            "value": 18100000,
-            "description": ""
-        },
-        {
-            "value": 24920000,
-            "description": ""
-        },
-        {
-            "value": 28120000,
+            "value": 30000000,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 63,
-            "description": ""
-        },
-        {
-            "value": 125,
-            "description": ""
-        },
-        {
-            "value": 250,
-            "description": ""
-        },
-        {
-            "value": 500,
-            "description": ""
-        },
-        {
-            "value": 1000,
-            "description": ""
-        },
-        {
-            "value": 31,
-            "description": ""
-        },
-        {
-            "value": 10,
+            "value": 3000,
             "description": ""
         }
     ],

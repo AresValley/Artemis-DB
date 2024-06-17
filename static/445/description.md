@@ -1,1 +1,1 @@
-SiriusXM Satellite Radio: Terrestrial Repeater Signal
+Russian telemetry system, transmitted over the overhead power lines.

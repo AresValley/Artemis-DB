@@ -1,1 +1,1 @@
-DominoF was the first experimental implementation of the Domino family of IFK modes, developed by Con ZL2AFP. DominoF used dual interleaved tone sets. Superseded by DominoEX.
+DominoEX, also known as just Domino, is an IFK (Incremental Frequency Keying) mode developed by Murray Greenman ZL1BPU and Con Wassilieff ZL2AFP in 2004 that was the first fully developed iteration of the Domino IFK family modes. Used to send text over RF.

@@ -1,33 +1,32 @@
 {
     "signal": {
-        "name": "Coherent BPSK",
-        "url": "https://www.sigidwiki.com/wiki/Coherent_BPSK"
+        "name": "Codan Data Modem",
+        "url": "https://www.sigidwiki.com/wiki/Codan_Data_Modem"
     },
     "category": [
-        "Amateur Radio",
         "Digital"
     ],
     "frequency": [
         {
-            "value": 138000,
+            "value": 3000000,
             "description": ""
         },
         {
-            "value": 1881000,
-            "description": ""
-        },
-        {
-            "value": 14081000,
-            "description": ""
-        },
-        {
-            "value": 18081000,
+            "value": 30000000,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 200,
+            "value": 1800,
+            "description": ""
+        },
+        {
+            "value": 2560,
+            "description": ""
+        },
+        {
+            "value": 400,
             "description": ""
         }
     ],
@@ -35,6 +34,10 @@
     "modulation": [
         {
             "value": "PSK",
+            "description": ""
+        },
+        {
+            "value": "FSK",
             "description": ""
         }
     ],

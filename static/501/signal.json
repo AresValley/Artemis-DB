@@ -1,0 +1,101 @@
+{
+    "signal": {
+        "name": "WSPR",
+        "url": "https://www.sigidwiki.com/wiki/WSPR"
+    },
+    "category": [
+        "Amateur Radio",
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 136000,
+            "description": ""
+        },
+        {
+            "value": 474200,
+            "description": ""
+        },
+        {
+            "value": 1836600,
+            "description": ""
+        },
+        {
+            "value": 3568600,
+            "description": ""
+        },
+        {
+            "value": 7038600,
+            "description": ""
+        },
+        {
+            "value": 10138700,
+            "description": ""
+        },
+        {
+            "value": 14095600,
+            "description": ""
+        },
+        {
+            "value": 21094600,
+            "description": ""
+        },
+        {
+            "value": 50293000,
+            "description": ""
+        },
+        {
+            "value": 70091000,
+            "description": ""
+        },
+        {
+            "value": 144489000,
+            "description": ""
+        },
+        {
+            "value": 1296500000,
+            "description": ""
+        },
+        {
+            "value": 18104600,
+            "description": ""
+        },
+        {
+            "value": 24924600,
+            "description": ""
+        },
+        {
+            "value": 28124600,
+            "description": ""
+        },
+        {
+            "value": 432300000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 6,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "MFSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

@@ -1,1 +1,1 @@
-Robust PACKET, also known as HF-APRS, RPR, Winlink RMS, and APRSlink, is an OFDM version of the amateur mode PACKET which is optimized for shortwave use. This mode was developed by Spezielle Communications Systeme GmbH & Co. KG (SCS).
+Relocatable Over-the-Horizon Radar (ROTHR), also known as AN/TPS-71, is an OTH Radar used by the United States Navy that uses bistatic ionospheric backscattering for wide area surveillance.

@@ -1,34 +1,38 @@
 {
     "signal": {
-        "name": "CompuLert",
-        "url": "https://www.sigidwiki.com/wiki/CompuLert"
+        "name": "Coherent CW",
+        "url": "https://www.sigidwiki.com/wiki/Coherent_CW"
     },
     "category": [
-        "Utility",
-        "Digital"
+        "Digital",
+        "Amateur Radio"
     ],
     "frequency": [
         {
-            "value": 453375000,
+            "value": 3000000,
+            "description": ""
+        },
+        {
+            "value": 30000000,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 5000,
+            "value": 1,
             "description": ""
         }
     ],
     "acf": [],
     "modulation": [
         {
-            "value": "FSK",
+            "value": "OOK",
             "description": ""
         }
     ],
     "mode": [
         {
-            "value": "NFM",
+            "value": "USB",
             "description": ""
         }
     ],

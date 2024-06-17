@@ -1,1 +1,1 @@
-Delfi-C3 Telemetry was a telemetry signal sent from the Delfi-C3 university-class satellite.
+Datawell Buoy HF Links transmitted by Datawell Marine measurement buoys, measuring ocean conditions, temperature, and wave current.

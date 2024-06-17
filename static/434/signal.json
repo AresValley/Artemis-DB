@@ -1,44 +1,52 @@
 {
     "signal": {
-        "name": "STP403 Bus PIT System",
-        "url": "https://www.sigidwiki.com/wiki/STP403_Bus_PIT_System"
+        "name": "STANAG 5065",
+        "url": "https://www.sigidwiki.com/wiki/STANAG_5065"
     },
     "category": [
-        "Commercial",
-        "Utility"
+        "Military",
+        "Digital"
     ],
     "frequency": [
         {
-            "value": 164000000,
+            "value": 50000,
             "description": ""
         },
         {
-            "value": 468487500,
+            "value": 160000,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 8000,
+            "value": 235,
+            "description": ""
+        },
+        {
+            "value": 360,
             "description": ""
         }
     ],
     "acf": [],
     "modulation": [
         {
-            "value": "FFSK",
+            "value": "FSK",
+            "description": ""
+        },
+        {
+            "value": "MSK",
             "description": ""
         }
     ],
     "mode": [
         {
-            "value": "NFM",
+            "value": "USB",
             "description": ""
         }
     ],
     "location": [
         {
-            "value": "France",
+            "value": "Worldwide",
             "description": ""
         }
     ]

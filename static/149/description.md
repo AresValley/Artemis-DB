@@ -1,1 +1,1 @@
-DisplayPort is a digital standard used to carry video and audio data to computer monitors. It emits RF interference in the 300-400 MHz range when in use.
+Digital in-band signalling used to squelch and manage transmissions on a given frequency.

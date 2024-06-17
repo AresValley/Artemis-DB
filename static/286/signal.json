@@ -1,32 +1,32 @@
 {
     "signal": {
-        "name": "M20 Radiosonde",
-        "url": "https://www.sigidwiki.com/wiki/M20_Radiosonde"
+        "name": "M17 RF Protocol",
+        "url": "https://www.sigidwiki.com/wiki/M17_RF_Protocol"
     },
     "category": [
-        "Utility",
+        "Amateur Radio",
         "Digital"
     ],
     "frequency": [
         {
-            "value": 400150000,
+            "value": 30000000,
             "description": ""
         },
         {
-            "value": 406000000,
+            "value": 10500000000,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 30000,
+            "value": 9000,
             "description": ""
         }
     ],
     "acf": [],
     "modulation": [
         {
-            "value": "PSK",
+            "value": "4FSK",
             "description": ""
         }
     ],

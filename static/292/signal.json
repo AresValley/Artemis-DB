@@ -1,32 +1,28 @@
 {
     "signal": {
-        "name": "METOP Advanced High Resolution Picture Transmission (AHRPT)",
-        "url": "https://www.sigidwiki.com/wiki/METOP_Advanced_High_Resolution_Picture_Transmission_(AHRPT)"
+        "name": "METEOR-M High Resolution Picture Transmission (HRPT)",
+        "url": "https://www.sigidwiki.com/wiki/METEOR-M_High_Resolution_Picture_Transmission_(HRPT)"
     },
     "category": [
-        "Digital",
-        "Satellite"
+        "Satellite",
+        "Digital"
     ],
     "frequency": [
         {
-            "value": 1701300000,
-            "description": ""
-        },
-        {
-            "value": 1707000000,
+            "value": 1700000000,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 6000000,
+            "value": 3000000,
             "description": ""
         }
     ],
     "acf": [],
     "modulation": [
         {
-            "value": "QPSK",
+            "value": "PSK",
             "description": ""
         }
     ],

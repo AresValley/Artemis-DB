@@ -1,1 +1,1 @@
-SNOTEL stations are a set of precipitation and other sensors spread across the mountains of the United States by the Department of Agriculture through the National Resources Conservation Service.
+SITOR-B is one of two modes of SITOR (Simplex Teletype Over Radio).

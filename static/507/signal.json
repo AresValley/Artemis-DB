@@ -1,0 +1,35 @@
+{
+    "signal": {
+        "name": "Wireless Hydrophone System (WHS)",
+        "url": "https://www.sigidwiki.com/wiki/Wireless_Hydrophone_System_(WHS)"
+    },
+    "category": [
+        "Utility"
+    ],
+    "frequency": [
+        {
+            "value": 434225000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "PPM",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "RAW",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Europe",
+            "description": ""
+        }
+    ]
+}

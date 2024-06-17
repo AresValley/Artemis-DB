@@ -1,1 +1,1 @@
-Narrowband Internet of Things (NB-IoT) is a Low Power Wide Area Network (LPWAN) radio technology standard developed by 3GPP to enable a wide range of cellular devices and services.
+NATEL is a 5-tone selcall mode defined by Scandinavian National Telephone recommendations.

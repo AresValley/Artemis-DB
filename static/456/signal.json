@@ -1,34 +1,24 @@
 {
     "signal": {
-        "name": "T-230-1A 'Mahovik'",
-        "url": "https://www.sigidwiki.com/wiki/T-230-1A_%27Mahovik%27"
+        "name": "Switch-mode power supply interference",
+        "url": "https://www.sigidwiki.com/wiki/Switch-mode_power_supply_interference"
     },
     "category": [
-        "Digital"
+        "Interfering"
     ],
     "frequency": [
         {
-            "value": 3000000,
+            "value": 10000,
             "description": ""
         },
         {
-            "value": 30000000,
+            "value": 200000000,
             "description": ""
         }
     ],
-    "bandwidth": [
-        {
-            "value": 2500,
-            "description": ""
-        }
-    ],
+    "bandwidth": [],
     "acf": [],
-    "modulation": [
-        {
-            "value": "PSK",
-            "description": ""
-        }
-    ],
+    "modulation": [],
     "mode": [
         {
             "value": "USB",
@@ -37,7 +27,7 @@
     ],
     "location": [
         {
-            "value": "Russia",
+            "value": "Worldwide",
             "description": ""
         }
     ]

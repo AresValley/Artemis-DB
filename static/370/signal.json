@@ -1,34 +1,41 @@
 {
     "signal": {
-        "name": "PSK2K",
-        "url": "https://www.sigidwiki.com/wiki/PSK2K"
+        "name": "PSK-AM",
+        "url": "https://www.sigidwiki.com/wiki/PSK-AM"
     },
     "category": [
-        "Amateur Radio",
-        "Digital"
+        "Digital",
+        "Amateur Radio"
     ],
     "frequency": [
         {
-            "value": 50360000,
+            "value": 14075000,
             "description": ""
         },
         {
-            "value": 144360000,
+            "value": 10148000,
+            "description": ""
+        },
+        {
+            "value": 144620000,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 2000,
+            "value": 40,
+            "description": ""
+        },
+        {
+            "value": 110,
+            "description": ""
+        },
+        {
+            "value": 180,
             "description": ""
         }
     ],
-    "acf": [
-        {
-            "value": 129.0,
-            "description": "Main"
-        }
-    ],
+    "acf": [],
     "modulation": [
         {
             "value": "PSK",

@@ -1,57 +1,39 @@
 {
     "signal": {
-        "name": "IMet-1 RS Radiosonde",
-        "url": "https://www.sigidwiki.com/wiki/IMet-1_RS_Radiosonde"
+        "name": "ILS Marker Beacon",
+        "url": "https://www.sigidwiki.com/wiki/ILS_Marker_Beacon"
     },
-    "category": [],
+    "category": [
+        "Aviation"
+    ],
     "frequency": [
         {
-            "value": 402000000,
-            "description": ""
-        },
-        {
-            "value": 406000000,
+            "value": 75000000,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 10,
-            "description": ""
-        },
-        {
-            "value": 0,
+            "value": 3000,
             "description": ""
         }
     ],
     "acf": [],
     "modulation": [
         {
-            "value": "AFSK",
+            "value": "OOK",
             "description": ""
         }
     ],
     "mode": [
         {
-            "value": "NFM",
+            "value": "AM",
             "description": ""
         }
     ],
     "location": [
         {
-            "value": "Israel",
-            "description": ""
-        },
-        {
-            "value": "Belgium",
-            "description": ""
-        },
-        {
-            "value": "United States",
-            "description": ""
-        },
-        {
-            "value": "South Africa",
+            "value": "Worldwide",
             "description": ""
         }
     ]

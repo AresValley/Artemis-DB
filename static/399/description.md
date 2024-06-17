@@ -1,1 +1,1 @@
-Motorola's Radio Data Link Access Procedure (RD-LAP) is a 1G protocol that was used in ARDIS and DataTAC Networks, and is still used in some MDT's, as well as gas companies, police departments, fire departments, financial companies, etc.
+RWM is a Russian shortwave time signal station.

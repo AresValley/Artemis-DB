@@ -1,1 +1,1 @@
-MD-522 (Also known as MIL-M-55529A) is a synchronous FSK mode built into GRC-MD522 teletypewriter sets and used for wirelessly transmitting ASCII information. MD-522 has a narrowband, wideband, and diversity mode.
+Telemetry signal transmitted by M20 radiosondes

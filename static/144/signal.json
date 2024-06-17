@@ -1,55 +1,42 @@
 {
     "signal": {
-        "name": "Digital Private Mobile Radio (dPMR)",
-        "url": "https://www.sigidwiki.com/wiki/Digital_Private_Mobile_Radio_(dPMR)"
+        "name": "Digital NBTV",
+        "url": "https://www.sigidwiki.com/wiki/Digital_NBTV"
     },
     "category": [
-        "Trunked Radio",
+        "Amateur Radio",
         "Digital"
     ],
     "frequency": [
         {
-            "value": 446200000,
+            "value": 3000000,
             "description": ""
         },
         {
-            "value": 149118750,
-            "description": ""
-        },
-        {
-            "value": 446100000,
-            "description": ""
-        },
-        {
-            "value": 149018750,
+            "value": 470000000,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 6250,
+            "value": 2500,
             "description": ""
         }
     ],
-    "acf": [
-        {
-            "value": 80.0,
-            "description": "Frame"
-        },
-        {
-            "value": 320.0,
-            "description": "Superframe"
-        }
-    ],
+    "acf": [],
     "modulation": [
         {
-            "value": "4FSK",
+            "value": "BPSK",
             "description": ""
         }
     ],
     "mode": [
         {
-            "value": "NFM",
+            "value": "SSB",
+            "description": ""
+        },
+        {
+            "value": "FM",
             "description": ""
         }
     ],

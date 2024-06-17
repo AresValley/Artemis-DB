@@ -1,36 +1,44 @@
 {
     "signal": {
-        "name": "PLUTO II OTH Radar",
-        "url": "https://www.sigidwiki.com/wiki/PLUTO_II_OTH_Radar"
+        "name": "PAX",
+        "url": "https://www.sigidwiki.com/wiki/PAX"
     },
     "category": [
-        "Military",
-        "Radar"
+        "Digital",
+        "Amateur Radio"
     ],
     "frequency": [
         {
-            "value": 8000000,
+            "value": 3590000,
             "description": ""
         },
         {
-            "value": 38000000,
+            "value": 7042000,
+            "description": ""
+        },
+        {
+            "value": 10148000,
+            "description": ""
+        },
+        {
+            "value": 14075000,
+            "description": ""
+        },
+        {
+            "value": 144620000,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 20000,
-            "description": ""
-        },
-        {
-            "value": 40000,
+            "value": 500,
             "description": ""
         }
     ],
     "acf": [],
     "modulation": [
         {
-            "value": "FMCW",
+            "value": "MFSK",
             "description": ""
         }
     ],
@@ -42,7 +50,7 @@
     ],
     "location": [
         {
-            "value": "Cyprus",
+            "value": "Worldwide",
             "description": ""
         }
     ]

@@ -1,56 +1,37 @@
 {
     "signal": {
-        "name": "GMDSS Digital Selective Calling",
-        "url": "https://www.sigidwiki.com/wiki/GMDSS_Digital_Selective_Calling"
+        "name": "GM2100 (R&S)",
+        "url": "https://www.sigidwiki.com/wiki/GM2100_(R%26S)"
     },
     "category": [
-        "Marine",
-        "Digital"
+        "Digital",
+        "Military"
     ],
     "frequency": [
         {
-            "value": 2187500,
+            "value": 3000000,
             "description": ""
         },
         {
-            "value": 4207500,
-            "description": ""
-        },
-        {
-            "value": 6312000,
-            "description": ""
-        },
-        {
-            "value": 8414500,
-            "description": ""
-        },
-        {
-            "value": 12577000,
-            "description": ""
-        },
-        {
-            "value": 16804500,
-            "description": ""
-        },
-        {
-            "value": 2177000,
-            "description": ""
-        },
-        {
-            "value": 156525000,
+            "value": 30000000,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 350,
+            "value": 3000,
             "description": ""
         }
     ],
-    "acf": [],
+    "acf": [
+        {
+            "value": 133.3,
+            "description": "Main"
+        }
+    ],
     "modulation": [
         {
-            "value": "FSK",
+            "value": "PSK",
             "description": ""
         }
     ],
@@ -62,7 +43,7 @@
     ],
     "location": [
         {
-            "value": "Worldwide",
+            "value": "Europe",
             "description": ""
         }
     ]

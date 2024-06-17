@@ -1,52 +1,37 @@
 {
     "signal": {
-        "name": "OpenSky",
-        "url": "https://www.sigidwiki.com/wiki/OpenSky"
+        "name": "One Beep, Two Beeps",
+        "url": "https://www.sigidwiki.com/wiki/One_Beep,_Two_Beeps"
     },
     "category": [
-        "Trunked Radio",
-        "Digital"
+        "Military"
     ],
     "frequency": [
         {
-            "value": 700000000,
+            "value": 4508000,
             "description": ""
         },
         {
-            "value": 800000000,
+            "value": 4500000,
             "description": ""
         },
         {
-            "value": 1000000000,
-            "description": ""
-        },
-        {
-            "value": 900000000,
+            "value": 6429200,
             "description": ""
         }
     ],
-    "bandwidth": [
-        {
-            "value": 20070,
-            "description": ""
-        }
-    ],
+    "bandwidth": [],
     "acf": [],
-    "modulation": [
-        {
-            "value": "TDMA",
-            "description": ""
-        }
-    ],
+    "modulation": [],
     "mode": [
         {
-            "value": "NFM",
+            "value": "USB",
             "description": ""
         }
     ],
     "location": [
         {
-            "value": "Worldwide",
+            "value": "Norway",
             "description": ""
         }
     ]

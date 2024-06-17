@@ -1,1 +1,1 @@
-Signal used for remote control (RC) Toys.
+Project 25 (P25 or APCO-25) is a trunked radio standard developed by The Association of Public Safety Communications Officials International (APCO-25) for use with public safety organizations around the world.

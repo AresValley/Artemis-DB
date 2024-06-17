@@ -1,0 +1,1 @@
+WiMAX is a family of of wireless broadband communication standards based on the IEEE 802.16 set of standards, which provide physical layer (PHY) and media access control (MAC) options.

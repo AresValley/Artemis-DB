@@ -1,1 +1,1 @@
-STANAG 4481, also known as CRATT, Link-4, and NATO-75, is specified by the NATO (North Atlantic Treaty Organization) Military Agency for Standardization as a "Minimum technical equipment standards for naval HF shore-to-ship broadcast system"
+STANAG 4415 is a NATO standard for robust, non-hopping digital data communication, used on severely degraded HF channels with large Doppler and multipath spreads.

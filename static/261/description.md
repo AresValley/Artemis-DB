@@ -1,1 +1,1 @@
-JT9 is a very narrow 9-FSK mode for making contact (QSO's) under extreme weak-signal conditions.
+JT6M is part of the WSJT suite of digital weak signal software applications developed by Joe Taylor, K1JT

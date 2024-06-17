@@ -1,36 +1,46 @@
 {
     "signal": {
-        "name": "Secondary surveillance radar (SSR)",
-        "url": "https://www.sigidwiki.com/wiki/Secondary_surveillance_radar_(SSR)"
+        "name": "Schneider Trio E-Series Modem",
+        "url": "https://www.sigidwiki.com/wiki/Schneider_Trio_E-Series_Modem"
     },
     "category": [
-        "Aviation",
-        "Navigation",
-        "Commercial",
-        "Radar"
+        "Digital",
+        "Utility"
     ],
     "frequency": [
         {
-            "value": 1030000000,
+            "value": 370000000,
+            "description": ""
+        },
+        {
+            "value": 518000000,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 3000000,
+            "value": 12500,
+            "description": ""
+        },
+        {
+            "value": 25000,
             "description": ""
         }
     ],
     "acf": [],
     "modulation": [
         {
-            "value": "PPM",
+            "value": "GMSK",
+            "description": ""
+        },
+        {
+            "value": "FSK",
             "description": ""
         }
     ],
     "mode": [
         {
-            "value": "RAW",
+            "value": "USB",
             "description": ""
         }
     ],

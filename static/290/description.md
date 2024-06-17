@@ -1,1 +1,1 @@
-MDC (Motorola Data Communications), also known as Stat-Alert, MDC-1200 and MDC-600, is a Motorola two-way radio low-speed data system.
+Motorola's MDC-4800 is a data protocol that was used in ARDIS and DataTAC Networks as well as in MDT networks. RD-LAP was derived from this mode. Also known as Motorola Mobile Data Communications System (MODACOM)

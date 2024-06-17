@@ -1,1 +1,1 @@
-RDL is a Russian VLF station located in Krasnodar. It is one of the few VLF stations that changes modes during routine transmissions.
+RBU is a time code radio station located in Moscow. It transmits a continuous 10 kW time code on 66.66 kHz.

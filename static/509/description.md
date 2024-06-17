@@ -1,0 +1,1 @@
+XMPP (Extensible Messaging and Presence Protocol) on shortwave is used by the military and are known for using MIL 188-110A Serial HF waveform and 6-bit code clear text with dual bursts of STANAG-5439 and STANAG-5066 as for XMPP Multi-User Chat (MUC) messages

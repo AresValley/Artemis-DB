@@ -1,1 +1,1 @@
-Driftnet Radio Buoys are extensively used by fishing boats operating in open seas and oceans for collecting long fishing lines or fishing nets, with the assistance of a radio direction finder
+DominoF was the first experimental implementation of the Domino family of IFK modes, developed by Con ZL2AFP. DominoF used dual interleaved tone sets. Superseded by DominoEX.

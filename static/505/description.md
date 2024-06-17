@@ -1,0 +1,1 @@
+WinDRM is an amateur radio derivation of the Digital Radio Mondiale (DRM) digital voice and data transmission protocol. Also known as HamDRM, and Digital SSTV.

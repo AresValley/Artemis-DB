@@ -1,32 +1,39 @@
 {
     "signal": {
-        "name": "SuperDARN (Super Dual Auroral Radar Network)",
-        "url": "https://www.sigidwiki.com/wiki/SuperDARN_(Super_Dual_Auroral_Radar_Network)"
+        "name": "Spectrum Painting",
+        "url": "https://www.sigidwiki.com/wiki/Spectrum_Painting"
     },
-    "category": [
-        "Radar"
-    ],
+    "category": [],
     "frequency": [
         {
-            "value": 8000000,
+            "value": 2000000,
             "description": ""
         },
         {
-            "value": 20000000,
+            "value": 10000000,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 6000,
+            "value": 4000,
             "description": ""
         }
     ],
     "acf": [],
-    "modulation": [],
+    "modulation": [
+        {
+            "value": "OFDM",
+            "description": ""
+        }
+    ],
     "mode": [
         {
             "value": "USB",
+            "description": ""
+        },
+        {
+            "value": "LSB",
             "description": ""
         }
     ],

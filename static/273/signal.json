@@ -1,50 +1,34 @@
 {
     "signal": {
-        "name": "LTE Uplink",
-        "url": "https://www.sigidwiki.com/wiki/LTE_Uplink"
+        "name": "LORAN",
+        "url": "https://www.sigidwiki.com/wiki/LORAN"
     },
     "category": [
-        "Commercial",
-        "Digital"
+        "Marine",
+        "Navigation"
     ],
     "frequency": [
         {
-            "value": 700000000,
-            "description": ""
-        },
-        {
-            "value": 800000000,
-            "description": ""
-        },
-        {
-            "value": 1800000000,
-            "description": ""
-        },
-        {
-            "value": 2300000000,
-            "description": ""
-        },
-        {
-            "value": 2600000000,
+            "value": 100000,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 5000000,
+            "value": 20000,
             "description": ""
         }
     ],
     "acf": [],
     "modulation": [
         {
-            "value": "QPSK",
+            "value": "PPM",
             "description": ""
         }
     ],
     "mode": [
         {
-            "value": "SC-FDMA",
+            "value": "USB",
             "description": ""
         }
     ],

@@ -1,1 +1,1 @@
-Codan Data Modulation for Codan Data Modems. Has 3 distinct signals: Data, ALE, and SELCAL. This modulation is used in Codan's 9001, 9002, 3012 and 3212 modems.
+The AN/FPS-108 COBRA DANE is a PESA phased array radar installation operated by Raytheon for the United States Space Force (originally for the United States Air Force) at Eareckson Air Station on the island of Shemya, Aleutian Islands, Alaska.

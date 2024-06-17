@@ -1,53 +1,25 @@
 {
     "signal": {
-        "name": "Link-11",
-        "url": "https://www.sigidwiki.com/wiki/Link-11"
+        "name": "Lightning Sferics",
+        "url": "https://www.sigidwiki.com/wiki/Lightning_Sferics"
     },
     "category": [
-        "Military",
-        "Digital"
+        "Interfering"
     ],
     "frequency": [
         {
-            "value": 2000000,
+            "value": 0,
             "description": ""
         },
         {
-            "value": 29999900,
+            "value": 30000000,
             "description": ""
         }
     ],
-    "bandwidth": [
-        {
-            "value": 2500,
-            "description": ""
-        },
-        {
-            "value": 3000,
-            "description": ""
-        },
-        {
-            "value": 5000,
-            "description": ""
-        },
-        {
-            "value": 6000,
-            "description": ""
-        }
-    ],
+    "bandwidth": [],
     "acf": [],
-    "modulation": [
-        {
-            "value": "PSK",
-            "description": ""
-        }
-    ],
-    "mode": [
-        {
-            "value": "USB",
-            "description": ""
-        }
-    ],
+    "modulation": [],
+    "mode": [],
     "location": [
         {
             "value": "Worldwide",

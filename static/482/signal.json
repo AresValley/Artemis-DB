@@ -1,49 +1,46 @@
 {
     "signal": {
-        "name": "UK GOV MIL WINDRM51",
-        "url": "https://www.sigidwiki.com/wiki/UK_GOV_MIL_WINDRM51"
+        "name": "UK AM Data System (UK-AMDS)",
+        "url": "https://www.sigidwiki.com/wiki/UK_AM_Data_System_(UK-AMDS)"
     },
     "category": [
-        "Military",
+        "Commercial",
+        "Time",
+        "Analogue",
         "Digital"
     ],
     "frequency": [
         {
-            "value": 9104000,
-            "description": ""
-        },
-        {
-            "value": 13451250,
+            "value": 198000,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 2500,
+            "value": 85,
             "description": ""
         }
     ],
-    "acf": [
-        {
-            "value": 106.66,
-            "description": "Main"
-        }
-    ],
+    "acf": [],
     "modulation": [
         {
-            "value": "OFDM",
+            "value": "AM",
+            "description": ""
+        },
+        {
+            "value": "PSK",
             "description": ""
         }
     ],
     "mode": [
         {
-            "value": "USB",
+            "value": "SSB",
             "description": ""
         }
     ],
     "location": [
         {
-            "value": "Europe",
+            "value": "United Kingdom",
             "description": ""
         }
     ]

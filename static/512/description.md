@@ -1,0 +1,1 @@
+The Yugoslavian 16-Tone Modem, also known as YUG-Diplo 16-Tone, is a 16 tone OFDM PSK modem used in former Yugoslavia for diplomatic use. No longer used today.

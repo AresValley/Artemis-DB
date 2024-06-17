@@ -1,15 +1,15 @@
 {
     "signal": {
-        "name": "Graw DFM-17 (Radiosonde)",
-        "url": "https://www.sigidwiki.com/wiki/Graw_DFM-17_(Radiosonde)"
+        "name": "Graw DFM-06 Weather Balloon (Radiosonde)",
+        "url": "https://www.sigidwiki.com/wiki/Graw_DFM-06_Weather_Balloon_(Radiosonde)"
     },
     "category": [
-        "Utility",
-        "Digital"
+        "Digital",
+        "Utility"
     ],
     "frequency": [
         {
-            "value": 400000000,
+            "value": 400010000,
             "description": ""
         },
         {
@@ -19,14 +19,19 @@
     ],
     "bandwidth": [
         {
-            "value": 10000,
+            "value": 20000,
             "description": ""
         }
     ],
-    "acf": [],
+    "acf": [
+        {
+            "value": 2000.0,
+            "description": "Main"
+        }
+    ],
     "modulation": [
         {
-            "value": "GFSK",
+            "value": "FSK",
             "description": ""
         }
     ],
@@ -38,7 +43,7 @@
     ],
     "location": [
         {
-            "value": "Worldwide",
+            "value": "Europe",
             "description": ""
         }
     ]

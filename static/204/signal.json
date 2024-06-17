@@ -1,55 +1,58 @@
 {
     "signal": {
-        "name": "Globe Wireless HF Network",
-        "url": "https://www.sigidwiki.com/wiki/Globe_Wireless_HF_Network"
+        "name": "Global System for Mobile Communications (GSM)",
+        "url": "https://www.sigidwiki.com/wiki/Global_System_for_Mobile_Communications_(GSM)"
     },
     "category": [
-        "Marine",
-        "Commercial",
-        "Digital"
+        "Digital",
+        "Commercial"
     ],
     "frequency": [
         {
-            "value": 3000000,
+            "value": 450000000,
             "description": ""
         },
         {
-            "value": 30000000,
+            "value": 850000000,
+            "description": ""
+        },
+        {
+            "value": 900000000,
+            "description": ""
+        },
+        {
+            "value": 1800000000,
+            "description": ""
+        },
+        {
+            "value": 1900000000,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 400,
-            "description": ""
-        },
-        {
-            "value": 750,
-            "description": ""
-        },
-        {
-            "value": 2000,
+            "value": 200000,
             "description": ""
         }
     ],
     "acf": [],
     "modulation": [
         {
-            "value": "PSK",
-            "description": ""
-        },
-        {
-            "value": "FSK",
-            "description": ""
-        },
-        {
-            "value": "OFDM",
+            "value": "GMSK",
             "description": ""
         }
     ],
     "mode": [
         {
-            "value": "USB",
+            "value": "RAW",
+            "description": ""
+        },
+        {
+            "value": "AM",
+            "description": ""
+        },
+        {
+            "value": "FM",
             "description": ""
         }
     ],

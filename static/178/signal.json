@@ -1,31 +1,36 @@
 {
     "signal": {
-        "name": "FST4W",
-        "url": "https://www.sigidwiki.com/wiki/FST4W"
+        "name": "FSQ",
+        "url": "https://www.sigidwiki.com/wiki/FSQ"
     },
     "category": [
-        "Amateur Radio",
-        "Digital"
+        "Digital",
+        "Amateur Radio"
     ],
     "frequency": [
         {
-            "value": 136000,
+            "value": 3580000,
             "description": ""
         },
         {
-            "value": 474200,
+            "value": 7104000,
             "description": ""
         },
         {
-            "value": 1839000,
+            "value": 10149000,
             "description": ""
         }
     ],
-    "bandwidth": [],
+    "bandwidth": [
+        {
+            "value": 300,
+            "description": ""
+        }
+    ],
     "acf": [],
     "modulation": [
         {
-            "value": "4-GFSK",
+            "value": "IFK+",
             "description": ""
         }
     ],

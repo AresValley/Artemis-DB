@@ -1,1 +1,1 @@
-Cospas-Sarsat downlink from polar-orbiting weather satellites. The International Cospas-Sarsat Programme is a satellite-aided search and rescue initiative.
+Kiwi is a telemetry mode developed by CNES used on amateur rockets and radio balloons in France.

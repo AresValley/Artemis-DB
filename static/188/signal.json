@@ -1,32 +1,28 @@
 {
     "signal": {
-        "name": "Futuba RC Controller",
-        "url": "https://www.sigidwiki.com/wiki/Futuba_RC_Controller"
+        "name": "Friedland Libra+ 48249SL wireless doorbell",
+        "url": "https://www.sigidwiki.com/wiki/Friedland_Libra%2B_48249SL_wireless_doorbell"
     },
     "category": [],
     "frequency": [
         {
-            "value": 75000000,
-            "description": ""
-        },
-        {
-            "value": 72000000,
+            "value": 868000000,
             "description": ""
         }
     ],
-    "bandwidth": [
-        {
-            "value": 12000,
-            "description": ""
-        }
-    ],
+    "bandwidth": [],
     "acf": [],
-    "modulation": [],
-    "mode": [
+    "modulation": [
         {
-            "value": "AM",
+            "value": "FSK",
             "description": ""
         }
     ],
-    "location": []
+    "mode": [],
+    "location": [
+        {
+            "value": "Finland",
+            "description": ""
+        }
+    ]
 }

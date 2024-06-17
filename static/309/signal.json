@@ -1,11 +1,11 @@
 {
     "signal": {
-        "name": "Marconi Selenia 25-Tone Modem",
-        "url": "https://www.sigidwiki.com/wiki/Marconi_Selenia_25-Tone_Modem"
+        "name": "MT63",
+        "url": "https://www.sigidwiki.com/wiki/MT63"
     },
     "category": [
-        "Military",
-        "Digital"
+        "Digital",
+        "Amateur Radio"
     ],
     "frequency": [
         {
@@ -19,18 +19,26 @@
     ],
     "bandwidth": [
         {
-            "value": 1600,
+            "value": 500,
+            "description": ""
+        },
+        {
+            "value": 1000,
+            "description": ""
+        },
+        {
+            "value": 2000,
             "description": ""
         }
     ],
     "acf": [],
     "modulation": [
         {
-            "value": "PSK",
+            "value": "OFDM",
             "description": ""
         },
         {
-            "value": "OFDM",
+            "value": "PSK",
             "description": ""
         }
     ],

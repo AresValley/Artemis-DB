@@ -1,1 +1,1 @@
-iDEN is a TDMA-based digital wireless standard developed by Motorola. It is a type of trunked radio with cellular phone benefits.
+Radio navigation system that allows aircraft to perform precision approaches in low visibility conditions.

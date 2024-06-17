@@ -1,1 +1,1 @@
-The National Public Alerting System (NPAS), branded to consumers as Alert Ready, is a national warning system in Canada. The tone does not carry any information to be decoded. Information about Emergencies is communicated via on screen text and text-to-speech.
+Narrow-Bandwidth Television (NBTV).

@@ -1,1 +1,1 @@
-RDFT is an amateur radio digital mode used to transmit files.
+ReFLEX is a two-way paging variant of FLEX.

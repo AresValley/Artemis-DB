@@ -1,19 +1,19 @@
 {
     "signal": {
-        "name": "Graw DFM-06 Weather Balloon (Radiosonde)",
-        "url": "https://www.sigidwiki.com/wiki/Graw_DFM-06_Weather_Balloon_(Radiosonde)"
+        "name": "Gonets",
+        "url": "https://www.sigidwiki.com/wiki/Gonets"
     },
     "category": [
-        "Utility",
-        "Digital"
+        "Commercial",
+        "Satellite"
     ],
     "frequency": [
         {
-            "value": 400010000,
+            "value": 265,
             "description": ""
         },
         {
-            "value": 405990000,
+            "value": 388000000,
             "description": ""
         }
     ],
@@ -23,15 +23,10 @@
             "description": ""
         }
     ],
-    "acf": [
-        {
-            "value": 2000.0,
-            "description": "Main"
-        }
-    ],
+    "acf": [],
     "modulation": [
         {
-            "value": "FSK",
+            "value": "GMSK",
             "description": ""
         }
     ],
@@ -43,7 +38,7 @@
     ],
     "location": [
         {
-            "value": "Europe",
+            "value": "Worldwide",
             "description": ""
         }
     ]

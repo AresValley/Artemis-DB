@@ -1,45 +1,18 @@
 {
     "signal": {
-        "name": "OFDM NBTV",
-        "url": "https://www.sigidwiki.com/wiki/OFDM_NBTV"
+        "name": "North Korean Siren Jammer",
+        "url": "https://www.sigidwiki.com/wiki/North_Korean_Siren_Jammer"
     },
-    "category": [
-        "Amateur Radio",
-        "Analogue"
-    ],
+    "category": [],
     "frequency": [
         {
-            "value": 3,
-            "description": ""
-        },
-        {
-            "value": 30000000,
+            "value": 4450000,
             "description": ""
         }
     ],
-    "bandwidth": [
-        {
-            "value": 2000,
-            "description": ""
-        }
-    ],
+    "bandwidth": [],
     "acf": [],
-    "modulation": [
-        {
-            "value": "Analog OFDM",
-            "description": ""
-        }
-    ],
-    "mode": [
-        {
-            "value": "SSB",
-            "description": ""
-        }
-    ],
-    "location": [
-        {
-            "value": "Worldwide",
-            "description": ""
-        }
-    ]
+    "modulation": [],
+    "mode": [],
+    "location": []
 }

@@ -1,48 +1,31 @@
 {
     "signal": {
-        "name": "Olivia",
-        "url": "https://www.sigidwiki.com/wiki/Olivia"
+        "name": "OPERA Beacon and Data",
+        "url": "https://www.sigidwiki.com/wiki/OPERA_Beacon_and_Data"
     },
     "category": [
-        "Amateur Radio",
-        "Digital"
+        "Amateur Radio"
     ],
     "frequency": [
         {
-            "value": 3000000,
+            "value": 136000,
             "description": ""
         },
         {
-            "value": 30000000,
+            "value": 10000000000,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 500,
-            "description": ""
-        },
-        {
-            "value": 125,
-            "description": ""
-        },
-        {
-            "value": 250,
-            "description": ""
-        },
-        {
-            "value": 1000,
-            "description": ""
-        },
-        {
-            "value": 2000,
+            "value": 1,
             "description": ""
         }
     ],
     "acf": [],
     "modulation": [
         {
-            "value": "MFSK",
+            "value": "ASK",
             "description": ""
         }
     ],

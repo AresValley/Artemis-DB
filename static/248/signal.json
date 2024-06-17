@@ -1,41 +1,50 @@
 {
     "signal": {
-        "name": "Integrated Services Digital Broadcasting\u2014Terrestrial (ISDB-T)",
-        "url": "https://www.sigidwiki.com/wiki/Integrated_Services_Digital_Broadcasting%E2%80%94Terrestrial_(ISDB-T)"
+        "name": "Integrated Digital Enhanced Network (iDEN)",
+        "url": "https://www.sigidwiki.com/wiki/Integrated_Digital_Enhanced_Network_(iDEN)"
     },
     "category": [
-        "Commercial"
+        "Digital",
+        "Trunked Radio"
     ],
     "frequency": [
         {
-            "value": 470000000,
+            "value": 806000000,
             "description": ""
         },
         {
-            "value": 770000000,
+            "value": 824000000,
+            "description": ""
+        },
+        {
+            "value": 851000000,
+            "description": ""
+        },
+        {
+            "value": 869000000,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 6000000,
+            "value": 18500,
             "description": ""
         }
     ],
     "acf": [],
     "modulation": [
         {
-            "value": "QPSK",
+            "value": "QAM",
             "description": ""
         },
         {
-            "value": "64QAM",
+            "value": "TDMA",
             "description": ""
         }
     ],
     "mode": [
         {
-            "value": "RAW",
+            "value": "NFM",
             "description": ""
         }
     ],

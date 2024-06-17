@@ -1,1 +1,1 @@
-FreeDV plus Video (also known as FreeDV+) combines analog FM multicarrier Narrow Band TV (NBTV) by Con Wassilieff, ZL2AFP, and FreeDV digital voice by David Rowe, VK5DGR.
+FreeDV Coherent PSK (Also known as FreeDV 700) is a robust Digital Voice mode developed by David Rowe for his FreeDV Digital Voice Software.

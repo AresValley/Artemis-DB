@@ -1,1 +1,1 @@
-Globe Wireless' Maritime Digital Radio was a system of 24 stations around the globe offering data services to large cargo vessels. Since 2014, GW has discontinued their HF network.
+GSM (Global System for Mobile Communications) is a standard developed by ETSI to describe the protocols for second-generation (2G) digital cellular networks used by mobile phones. As of 2014, it has become the default global standard for mobile communications.

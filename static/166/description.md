@@ -1,1 +1,1 @@
-The Emergency Managers Weather Information Network (EMWIN) is a system for distributing a live stream of weather information in the United States. This is the VHF Repeater of the network.
+The Emergency Alert System (EAS) is a national warning system in the United States, implemented since 1997, superceding the Emergency Broadcast System (EBS).

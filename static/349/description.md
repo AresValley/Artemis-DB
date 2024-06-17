@@ -1,1 +1,1 @@
-Cheap RC Cars with only for buttons (Forward, Reverse, Left, Right) Typically use 27Mhz or 49Mhz as the transmit frequency. There's typically no channel switching system on the remote control, which leads to interference with operating two RC vehicles at once.
+OFDM NBTV is an analog technique, in fact it is a true Fuzzy design as well. The transmission technique used is quite different from conventional TV

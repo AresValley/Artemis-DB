@@ -1,1 +1,1 @@
-ProVoice is a digital voice mode used in EDACS trunked systems.
+Primex Wireless Time Sync is a VHF Time Synchronization signal used in Primex Wireless's XR Series.

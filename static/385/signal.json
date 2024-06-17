@@ -1,42 +1,41 @@
 {
     "signal": {
-        "name": "Q-MAC HF Modem",
-        "url": "https://www.sigidwiki.com/wiki/Q-MAC_HF_Modem"
+        "name": "Pursuit Wireless Car Key",
+        "url": "https://www.sigidwiki.com/wiki/Pursuit_Wireless_Car_Key"
     },
     "category": [
-        "Military",
-        "Digital"
+        "Utility"
     ],
     "frequency": [
         {
-            "value": 3000000,
+            "value": 301500000,
             "description": ""
         },
         {
-            "value": 30000000,
+            "value": 302500000,
+            "description": ""
+        },
+        {
+            "value": 434000000,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 2000,
+            "value": 40000,
             "description": ""
         }
     ],
     "acf": [],
     "modulation": [
         {
-            "value": "PSK",
-            "description": ""
-        },
-        {
-            "value": "OFDM",
+            "value": "AM",
             "description": ""
         }
     ],
     "mode": [
         {
-            "value": "USB",
+            "value": "AM",
             "description": ""
         }
     ],

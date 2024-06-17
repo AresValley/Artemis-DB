@@ -1,1 +1,1 @@
-HAARP is a ionospheric research program conducted in Gakona, Alaska.
+Hellschreiber (Also known as Feld Hell or just Hell) is a teleprinter system developed in the late 1920's by Rudolf Hell, a German inventor.

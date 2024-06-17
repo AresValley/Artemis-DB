@@ -1,40 +1,23 @@
 {
     "signal": {
-        "name": "ROS",
-        "url": "https://www.sigidwiki.com/wiki/ROS"
+        "name": "RFID",
+        "url": "https://www.sigidwiki.com/wiki/RFID"
     },
-    "category": [
-        "Amateur Radio",
-        "Digital"
-    ],
+    "category": [],
     "frequency": [
         {
-            "value": 30000000,
-            "description": ""
-        },
-        {
-            "value": 1800000,
+            "value": 13560000,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 2000,
+            "value": 3300,
             "description": ""
         }
     ],
-    "acf": [
-        {
-            "value": 4.0,
-            "description": "Main"
-        }
-    ],
-    "modulation": [
-        {
-            "value": "DSSS",
-            "description": ""
-        }
-    ],
+    "acf": [],
+    "modulation": [],
     "mode": [
         {
             "value": "USB",

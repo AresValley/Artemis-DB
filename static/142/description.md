@@ -1,1 +1,1 @@
-Digital Multimedia Broadcasting (DMB) is a digital radio transmission technology developed in South Korea as part of the national IT project for sending multimedia such as TV, radio and datacasting to mobile devices such as mobile phones, laptops and GPS navigation systems.
+Digital Mobile Radio (DMR) is an open digital mobile radio standard defined by ETSI and used in commercial products around the world. Mostly used by private network and local police, can be encrypted. Used in MOTOTRBO products.

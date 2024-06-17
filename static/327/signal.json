@@ -1,53 +1,50 @@
 {
     "signal": {
-        "name": "NFM Voice",
-        "url": "https://www.sigidwiki.com/wiki/NFM_Voice"
+        "name": "NB-IOT",
+        "url": "https://www.sigidwiki.com/wiki/NB-IOT"
     },
     "category": [
-        "Analogue"
+        "Digital",
+        "Commercial"
     ],
     "frequency": [
         {
-            "value": 27000000,
+            "value": 700000000,
             "description": ""
         },
         {
-            "value": 470000000,
+            "value": 850000000,
             "description": ""
         },
         {
-            "value": 864000000,
+            "value": 900000000,
             "description": ""
         },
         {
-            "value": 162400000,
+            "value": 1800000000,
+            "description": ""
+        },
+        {
+            "value": 1900000000,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 5000,
-            "description": ""
-        },
-        {
-            "value": 30000,
-            "description": ""
-        },
-        {
-            "value": 12500,
+            "value": 200000,
             "description": ""
         }
     ],
     "acf": [],
     "modulation": [
         {
-            "value": "FM",
+            "value": "QPSK",
             "description": ""
         }
     ],
     "mode": [
         {
-            "value": "NFM",
+            "value": "AM",
             "description": ""
         }
     ],

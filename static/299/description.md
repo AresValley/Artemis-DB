@@ -1,1 +1,1 @@
-MOBITEX is an OSI based open standard, national public access wireless packet-switched data network.
+MMP-4800 was a MDT (Mobile Data Terminal) protocol developed by Canadian company Mobile Data International (MDI) in 1982 for their Mobile Data Terminals. Used by public safety and commercial industries. Phased out.

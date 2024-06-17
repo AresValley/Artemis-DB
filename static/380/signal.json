@@ -1,38 +1,41 @@
 {
     "signal": {
-        "name": "Primex Wireless Time Sync",
-        "url": "https://www.sigidwiki.com/wiki/Primex_Wireless_Time_Sync"
+        "name": "Primary Aeronautical Surveillance Radar",
+        "url": "https://www.sigidwiki.com/wiki/Primary_Aeronautical_Surveillance_Radar"
     },
     "category": [
+        "Radar",
         "Commercial",
-        "Time"
+        "Navigation",
+        "Analogue",
+        "Aviation"
     ],
     "frequency": [
         {
-            "value": 72020000,
+            "value": 1215000000,
             "description": ""
         },
         {
-            "value": 72980000,
+            "value": 1400000000,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 20000,
+            "value": 3000000,
             "description": ""
         }
     ],
     "acf": [],
     "modulation": [
         {
-            "value": "PSK",
+            "value": "Pulse",
             "description": ""
         }
     ],
     "mode": [
         {
-            "value": "NFM",
+            "value": "RAW",
             "description": ""
         }
     ],

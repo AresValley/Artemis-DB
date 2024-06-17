@@ -1,1 +1,1 @@
-Haegelin Crypto ARQ (HC-ARQ) was an FSK synchronous simplex ARQ system used by the UN and International Rescue Committee. This mode has been phased out and is no longer in use.
+HC-265 is a Voice Scrambling mode developed by Hagelin Crypto for their HC-265 CRYPTOCOM secure voice unit.

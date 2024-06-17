@@ -1,0 +1,1 @@
+WWVB is the lowest frequency time signal in the USA.

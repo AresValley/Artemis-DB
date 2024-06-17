@@ -1,1 +1,1 @@
-JS8Call is an extremely-weak-signal amateur radio communication mode based on FT8. It allows FT8 to be used for conversations and message relaying.
+JJY, also known as JJY-40 and JJY-60, is the call sign for a pair of longwave Time Signal stations in Japan.

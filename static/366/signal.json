@@ -1,31 +1,31 @@
 {
     "signal": {
-        "name": "PRC-16",
-        "url": "https://www.sigidwiki.com/wiki/PRC-16"
+        "name": "POL-ARQ",
+        "url": "https://www.sigidwiki.com/wiki/POL-ARQ"
     },
     "category": [
-        "Military"
+        "Digital"
     ],
     "frequency": [
         {
-            "value": 14300000,
+            "value": 3000000,
+            "description": ""
+        },
+        {
+            "value": 30000000,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 2200,
+            "value": 350,
             "description": ""
         }
     ],
     "acf": [],
     "modulation": [
         {
-            "value": "PSK",
-            "description": ""
-        },
-        {
-            "value": "OFDM",
+            "value": "FSK",
             "description": ""
         }
     ],
@@ -37,7 +37,7 @@
     ],
     "location": [
         {
-            "value": "China",
+            "value": "Europe",
             "description": ""
         }
     ]

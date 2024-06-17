@@ -1,1 +1,1 @@
-FreeDV Coherent PSK (Also known as FreeDV 700) is a robust Digital Voice mode developed by David Rowe for his FreeDV Digital Voice Software.
+Signalling protocol developed for Federal Signal's line of civil defense warning siren systems. This signal is used for activation and telemetry of all units in a network.

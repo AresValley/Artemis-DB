@@ -1,1 +1,1 @@
-KG-STV is an image transmission mode developed by JJ0OBZ in Japan.
+Real-time Kinematic GPS is a satellite navigation technique used to enhance the precision of position data derived from satellite-based positioning systems (global navigation satellite systems, GNSS) such as GPS, BeiDou, GLONASS, Galileo and NavIC.

@@ -2,113 +2,17 @@
     {
         "file_name": "1",
         "extension": "png",
-        "name": "sigId Spectrum",
+        "name": "Main",
         "description": "This is the wiki spectrum of the signal from www.sigidwiki.com",
         "type": "Image",
         "preview": 1
-    },
-    {
-        "file_name": "2",
-        "extension": "png",
-        "name": "50 pulses/sec, old",
-        "description": "This is the wiki spectrum of the signal from www.sigidwiki.com",
-        "type": "Image",
-        "preview": 0
-    },
-    {
-        "file_name": "3",
-        "extension": "png",
-        "name": "40 pulses/sec",
-        "description": "This is the wiki spectrum of the signal from www.sigidwiki.com",
-        "type": "Image",
-        "preview": 0
-    },
-    {
-        "file_name": "4",
-        "extension": "png",
-        "name": "50 pulses/sec, new",
-        "description": "This is the wiki spectrum of the signal from www.sigidwiki.com",
-        "type": "Image",
-        "preview": 0
-    },
-    {
-        "file_name": "5",
-        "extension": "png",
-        "name": "29B6 Sounder",
-        "description": "This is the wiki spectrum of the signal from www.sigidwiki.com",
-        "type": "Image",
-        "preview": 0
-    },
-    {
-        "file_name": "6",
-        "extension": "png",
-        "name": "29B6 Sounder, new",
-        "description": "This is the wiki spectrum of the signal from www.sigidwiki.com",
-        "type": "Image",
-        "preview": 0
-    },
-    {
-        "file_name": "7",
-        "extension": "png",
-        "name": "29B6 Sounder Slow",
-        "description": "This is the wiki spectrum of the signal from www.sigidwiki.com",
-        "type": "Image",
-        "preview": 0
     },
     {
         "file_name": "1",
-        "extension": "m4a",
-        "name": "sigId Audio",
+        "extension": "ogg",
+        "name": "Main",
         "description": "This is the wiki audio sample of the signal from www.sigidwiki.com",
         "type": "Audio",
         "preview": 1
-    },
-    {
-        "file_name": "2",
-        "extension": "mp3",
-        "name": "50 pulses/sec, old",
-        "description": "This is the wiki audio sample of the signal from www.sigidwiki.com",
-        "type": "Audio",
-        "preview": 0
-    },
-    {
-        "file_name": "3",
-        "extension": "m4a",
-        "name": "40 pulses/sec",
-        "description": "This is the wiki audio sample of the signal from www.sigidwiki.com",
-        "type": "Audio",
-        "preview": 0
-    },
-    {
-        "file_name": "4",
-        "extension": "m4a",
-        "name": "50 pulses/sec, new",
-        "description": "This is the wiki audio sample of the signal from www.sigidwiki.com",
-        "type": "Audio",
-        "preview": 0
-    },
-    {
-        "file_name": "5",
-        "extension": "mp3",
-        "name": "29B6 Sounder",
-        "description": "This is the wiki audio sample of the signal from www.sigidwiki.com",
-        "type": "Audio",
-        "preview": 0
-    },
-    {
-        "file_name": "6",
-        "extension": "m4a",
-        "name": "29B6 Sounder, new",
-        "description": "This is the wiki audio sample of the signal from www.sigidwiki.com",
-        "type": "Audio",
-        "preview": 0
-    },
-    {
-        "file_name": "7",
-        "extension": "mp3",
-        "name": "29B6 Sounder Slow",
-        "description": "This is the wiki audio sample of the signal from www.sigidwiki.com",
-        "type": "Audio",
-        "preview": 0
     }
 ]

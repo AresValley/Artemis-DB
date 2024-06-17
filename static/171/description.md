@@ -1,1 +1,1 @@
-FEC-A, also known as FEC-100 or FEC-100A, is a synchronous simplex ARQ system that uses the ITA 2 alphabet. This mode was once used by many embassies, diplomatic services, and news agencies worldwide. This mode was developed by Siemens.
+European Radio Message System (ERMES) is a European common standard for paging developed by the European Telecommunications Standards Institute (ESTI)

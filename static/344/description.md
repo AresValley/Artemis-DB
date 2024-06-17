@@ -1,1 +1,1 @@
-Nordic Mobile Telephone (NMT, NMT-450, and NMT-900) is a first generation analog cell phone system. Originally designed for and by Nordic countries (Finland, Sweden, Norway, Denmark) it was widely deployed around the world. Nowadays (as of 2015) NMT is defunct.
+A Non-Directional Beacon (NDB) is a ground-based, low frequency radio transmitter used as an instrument approach for airports and offshore platforms.

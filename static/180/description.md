@@ -1,1 +1,1 @@
-FT8 is an extremely-weak-signal amateur radio mode that transmits very limited communications. JS8, a variant of FT8, can send full conversations and relay messages
+FT4 is an amateur radio contesting communication protocol developed by Joe Taylor (K1JT) and Steve Franke (K9AN) descended from FT8.

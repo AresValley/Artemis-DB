@@ -1,1 +1,1 @@
-GOES Rebroadcast (GRB) is a form of data sent from the GOES-R series of satellites that contain information from all of the instruments on board the GOES satellites
+GOES HRIT is a retransmission of satellite imagery and other information from the GOES-R series of satellites.

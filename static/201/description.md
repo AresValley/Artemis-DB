@@ -1,1 +1,1 @@
-Glenayre's Paging Link. With QAM being used, It is a way to upkeep a linked paging transmitter when no data is broadcast. Glenayre C2100/C2000 model control systems were likely to use this.
+Gandalf MDT was developed by Gandalf Mobile Systems, a subsidiary of Canadian company Gandalf Technologies. Used primarily by taxi and courier services in Canada and the United States. This protocol was used in Gandalf's Cabmate systems.

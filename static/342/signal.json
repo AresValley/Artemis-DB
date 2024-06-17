@@ -1,41 +1,41 @@
 {
     "signal": {
-        "name": "Nokia Adaptive Message Terminal",
-        "url": "https://www.sigidwiki.com/wiki/Nokia_Adaptive_Message_Terminal"
+        "name": "Nissan Car Key",
+        "url": "https://www.sigidwiki.com/wiki/Nissan_Car_Key"
     },
     "category": [
-        "Digital"
+        "Digital",
+        "Utility"
     ],
     "frequency": [
         {
-            "value": 3000000,
+            "value": 315000000,
             "description": ""
         },
         {
-            "value": 30000000,
+            "value": 433000000,
+            "description": ""
+        },
+        {
+            "value": 301500000,
+            "description": ""
+        },
+        {
+            "value": 302500000,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 1000,
-            "description": ""
-        },
-        {
-            "value": 1600,
+            "value": 40000,
             "description": ""
         }
     ],
     "acf": [],
-    "modulation": [
-        {
-            "value": "FSK",
-            "description": ""
-        }
-    ],
+    "modulation": [],
     "mode": [
         {
-            "value": "USB",
+            "value": "AM",
             "description": ""
         }
     ],

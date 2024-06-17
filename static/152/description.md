@@ -1,1 +1,1 @@
-Distributed power refers to the placing of an extra locomotive at an intermediate point in the middle section of a train. This locomotive unit is remotely controlled from the lead locomotive, and greatly increases both the pulling and stopping power of longer trains.
+Digital Distress Radiobeacons (EPIRB's, PLB's and ELT's) are emergency radio beacons used for search and rescue operations to locate a vessel, plane, or person in distress.

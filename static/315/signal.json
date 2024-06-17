@@ -1,38 +1,33 @@
 {
     "signal": {
-        "name": "Microsonde Mark II Weather Balloon - LORAN-C signal (Radiosonde)",
-        "url": "https://www.sigidwiki.com/wiki/Microsonde_Mark_II_Weather_Balloon_-_LORAN-C_signal_(Radiosonde)"
+        "name": "Meteosat WEFAX",
+        "url": "https://www.sigidwiki.com/wiki/Meteosat_WEFAX"
     },
     "category": [
-        "Utility",
-        "Digital"
+        "Analogue",
+        "Satellite"
     ],
     "frequency": [
         {
-            "value": 400000000,
-            "description": ""
-        },
-        {
-            "value": 406000000,
+            "value": 1691000000,
             "description": ""
         }
     ],
-    "bandwidth": [
-        {
-            "value": 130000,
-            "description": ""
-        }
-    ],
+    "bandwidth": [],
     "acf": [],
     "modulation": [
         {
-            "value": "FSK",
+            "value": "AM",
+            "description": ""
+        },
+        {
+            "value": "FM",
             "description": ""
         }
     ],
     "mode": [
         {
-            "value": "WFM",
+            "value": "FM",
             "description": ""
         }
     ],

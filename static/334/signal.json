@@ -1,48 +1,40 @@
 {
     "signal": {
-        "name": "NTSC Broadcast",
-        "url": "https://www.sigidwiki.com/wiki/NTSC_Broadcast"
+        "name": "NPM",
+        "url": "https://www.sigidwiki.com/wiki/NPM"
     },
     "category": [
-        "Commercial",
-        "Analogue"
+        "Military",
+        "Digital"
     ],
     "frequency": [
         {
-            "value": 54000000,
-            "description": ""
-        },
-        {
-            "value": 806000000,
+            "value": 21400,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 6000000,
+            "value": 300,
             "description": ""
         }
     ],
     "acf": [],
     "modulation": [
         {
-            "value": "QAM",
-            "description": ""
-        },
-        {
-            "value": "VSB",
+            "value": "FSK",
             "description": ""
         }
     ],
     "mode": [
         {
-            "value": "RAW",
+            "value": "CW",
             "description": ""
         }
     ],
     "location": [
         {
-            "value": "Worldwide",
+            "value": "United States",
             "description": ""
         }
     ]

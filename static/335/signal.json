@@ -1,40 +1,48 @@
 {
     "signal": {
-        "name": "NWC",
-        "url": "https://www.sigidwiki.com/wiki/NWC"
+        "name": "NTSC Broadcast",
+        "url": "https://www.sigidwiki.com/wiki/NTSC_Broadcast"
     },
     "category": [
-        "Military",
-        "Digital"
+        "Analogue",
+        "Commercial"
     ],
     "frequency": [
         {
-            "value": 19800,
+            "value": 54000000,
+            "description": ""
+        },
+        {
+            "value": 806000000,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 300,
+            "value": 6000000,
             "description": ""
         }
     ],
     "acf": [],
     "modulation": [
         {
-            "value": "FSK",
+            "value": "QAM",
+            "description": ""
+        },
+        {
+            "value": "VSB",
             "description": ""
         }
     ],
     "mode": [
         {
-            "value": "CW",
+            "value": "RAW",
             "description": ""
         }
     ],
     "location": [
         {
-            "value": "Australia",
+            "value": "Worldwide",
             "description": ""
         }
     ]

@@ -1,1 +1,1 @@
-Radiosonde launched on a weather balloon.
+ILS Marker Beacons are used by aircraft for Instrument Landing Systems, transmitted by an upward-facing directive antenna at known distances along the approach path.

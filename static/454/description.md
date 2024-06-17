@@ -1,1 +1,1 @@
-Supervisory Control And Data Acquisition (SCADA) is a control system architecture that is used in industrial applications for computerized automated systems. Wireless telemetry is used on RTU's to send data to control units for operators to utilize.
+SuperDARN (Super Dual Auroral Radar Network) is an international radar network used for scientific purposes. The network is used to study plasma convection in the upper atmosphere.

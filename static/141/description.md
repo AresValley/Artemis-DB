@@ -1,1 +1,3 @@
-Digital Mobile Radio (DMR) is an open digital mobile radio standard defined by ETSI and used in commercial products around the world. Mostly used by private network and local police, can be encrypted. Used in MOTOTRBO products.
+DECT is a ETSI standard for short range communications, mainly cordless phones. It uses a 10 channel/24 slots in a TDMA FDD structure.
+
+Audio sample is 100 times slower than real for listening purposes.

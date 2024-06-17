@@ -1,44 +1,48 @@
 {
     "signal": {
-        "name": "Robust PACKET",
-        "url": "https://www.sigidwiki.com/wiki/Robust_PACKET"
+        "name": "Relocatable Over-the-Horizon Radar (ROTHR)",
+        "url": "https://www.sigidwiki.com/wiki/Relocatable_Over-the-Horizon_Radar_(ROTHR)"
     },
     "category": [
-        "Amateur Radio",
-        "Digital"
+        "Radar",
+        "Military"
     ],
     "frequency": [
         {
-            "value": 3610000,
+            "value": 5000000,
             "description": ""
         },
         {
-            "value": 7047300,
-            "description": ""
-        },
-        {
-            "value": 10147300,
-            "description": ""
-        },
-        {
-            "value": 14103300,
+            "value": 28000000,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 500,
+            "value": 4000,
+            "description": ""
+        },
+        {
+            "value": 8000,
+            "description": ""
+        },
+        {
+            "value": 16000,
+            "description": ""
+        },
+        {
+            "value": 50000,
+            "description": ""
+        },
+        {
+            "value": 100000,
             "description": ""
         }
     ],
     "acf": [],
     "modulation": [
         {
-            "value": "PSK",
-            "description": ""
-        },
-        {
-            "value": "OFDM",
+            "value": "FMCW",
             "description": ""
         }
     ],
@@ -50,7 +54,7 @@
     ],
     "location": [
         {
-            "value": "Worldwide",
+            "value": "United States",
             "description": ""
         }
     ]

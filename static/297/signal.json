@@ -1,7 +1,7 @@
 {
     "signal": {
-        "name": "MIL-STD-188-110 Serial",
-        "url": "https://www.sigidwiki.com/wiki/MIL-STD-188-110_Serial"
+        "name": "MIL-STD-188-110 Appendix B 39-Tone",
+        "url": "https://www.sigidwiki.com/wiki/MIL-STD-188-110_Appendix_B_39-Tone"
     },
     "category": [
         "Military",
@@ -19,23 +19,18 @@
     ],
     "bandwidth": [
         {
-            "value": 2750,
+            "value": 2400,
             "description": ""
         }
     ],
-    "acf": [
-        {
-            "value": 200.0,
-            "description": "Header"
-        },
-        {
-            "value": 66.66,
-            "description": "Body"
-        }
-    ],
+    "acf": [],
     "modulation": [
         {
             "value": "PSK",
+            "description": ""
+        },
+        {
+            "value": "OFDM",
             "description": ""
         }
     ],

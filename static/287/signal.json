@@ -1,52 +1,44 @@
 {
     "signal": {
-        "name": "MD-522",
-        "url": "https://www.sigidwiki.com/wiki/MD-522"
+        "name": "M20 Radiosonde",
+        "url": "https://www.sigidwiki.com/wiki/M20_Radiosonde"
     },
     "category": [
-        "Military",
-        "Digital"
+        "Digital",
+        "Utility"
     ],
     "frequency": [
         {
-            "value": 3000000,
+            "value": 400150000,
             "description": ""
         },
         {
-            "value": 30000000,
+            "value": 406000000,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 200,
-            "description": ""
-        },
-        {
-            "value": 250,
-            "description": ""
-        },
-        {
-            "value": 300,
+            "value": 30000,
             "description": ""
         }
     ],
     "acf": [],
     "modulation": [
         {
-            "value": "FSK",
+            "value": "PSK",
             "description": ""
         }
     ],
     "mode": [
         {
-            "value": "USB",
+            "value": "NFM",
             "description": ""
         }
     ],
     "location": [
         {
-            "value": "United States",
+            "value": "Worldwide",
             "description": ""
         }
     ]

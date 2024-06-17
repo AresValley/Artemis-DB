@@ -1,1 +1,1 @@
-VOICE is a MFSK mode developed by Patrick Lindecker F6CTE in 2006, and was derived from Olivia. It was designed for blind or partially sighted amateur radio operators.
+VISEL, also known as YUG-MIL 120.9 Bd, FEC-12, and YUG-MIL FEC, is a synchronous teleprinter system used by the former Yugoslav military. No longer active today.

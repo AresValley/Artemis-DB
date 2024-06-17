@@ -1,47 +1,42 @@
 {
     "signal": {
-        "name": "MOBITEX",
-        "url": "https://www.sigidwiki.com/wiki/MOBITEX"
+        "name": "MMP-4800",
+        "url": "https://www.sigidwiki.com/wiki/MMP-4800"
     },
     "category": [
-        "Commercial",
-        "Digital"
+        "Digital",
+        "Commercial"
     ],
     "frequency": [
-        {
-            "value": 900000000,
-            "description": ""
-        },
         {
             "value": 400000000,
             "description": ""
         },
         {
-            "value": 450000000,
+            "value": 500000000,
             "description": ""
         },
         {
-            "value": 424000000,
+            "value": 900000000,
+            "description": ""
+        },
+        {
+            "value": 150000000,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 15000,
+            "value": 25000,
+            "description": ""
+        },
+        {
+            "value": 12500,
             "description": ""
         }
     ],
     "acf": [],
-    "modulation": [
-        {
-            "value": "GMSK",
-            "description": ""
-        },
-        {
-            "value": "FFSK",
-            "description": ""
-        }
-    ],
+    "modulation": [],
     "mode": [
         {
             "value": "NFM",

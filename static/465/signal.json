@@ -1,44 +1,53 @@
 {
     "signal": {
-        "name": "Thales SALAMANDRE (HFXL)",
-        "url": "https://www.sigidwiki.com/wiki/Thales_SALAMANDRE_(HFXL)"
+        "name": "Tetrapol",
+        "url": "https://www.sigidwiki.com/wiki/Tetrapol"
     },
     "category": [
-        "Military",
+        "Trunked Radio",
         "Digital"
     ],
     "frequency": [
         {
-            "value": 3000000,
+            "value": 370000000,
             "description": ""
         },
         {
-            "value": 30000000,
+            "value": 400000000,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 150000,
+            "value": 12500,
+            "description": ""
+        },
+        {
+            "value": 10000,
             "description": ""
         }
     ],
-    "acf": [],
+    "acf": [
+        {
+            "value": 20.0,
+            "description": "Main"
+        }
+    ],
     "modulation": [
         {
-            "value": "PSK",
+            "value": "GMSK",
             "description": ""
         }
     ],
     "mode": [
         {
-            "value": "USB",
+            "value": "NFM",
             "description": ""
         }
     ],
     "location": [
         {
-            "value": "Worldwide",
+            "value": "Europe",
             "description": ""
         }
     ]

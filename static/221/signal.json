@@ -1,52 +1,57 @@
 {
     "signal": {
-        "name": "High Frequency Active Auroral Research Program (HAARP)",
-        "url": "https://www.sigidwiki.com/wiki/High_Frequency_Active_Auroral_Research_Program_(HAARP)"
+        "name": "Hellschreiber",
+        "url": "https://www.sigidwiki.com/wiki/Hellschreiber"
     },
     "category": [
-        "Military",
-        "Radar"
+        "Amateur Radio",
+        "Digital",
+        "Analogue"
     ],
     "frequency": [
         {
-            "value": 10000000,
+            "value": 3000000,
             "description": ""
         },
         {
-            "value": 2700000,
+            "value": 30000000,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 100000,
+            "value": 350,
+            "description": ""
+        },
+        {
+            "value": 800,
             "description": ""
         }
     ],
     "acf": [],
     "modulation": [
         {
-            "value": "CW",
+            "value": "OOK",
             "description": ""
         },
         {
-            "value": "FMCW",
+            "value": "FSK",
+            "description": ""
+        },
+        {
+            "value": "MSK",
             "description": ""
         }
     ],
     "mode": [
         {
-            "value": "AM",
-            "description": ""
-        },
-        {
-            "value": "CW",
+            "value": "USB",
             "description": ""
         }
     ],
     "location": [
         {
-            "value": "United States",
+            "value": "Worldwide",
             "description": ""
         }
     ]

@@ -1,0 +1,1 @@
+MCT-201 is a Miniature Pendant PowerCode Wireless Transmitter by Visonic. It is designed for emergency and control applications in wireless security systems, and home automation and remote control systems.

@@ -1,41 +1,58 @@
 {
     "signal": {
-        "name": "Motorola MOSCAD SCADA telemetry",
-        "url": "https://www.sigidwiki.com/wiki/Motorola_MOSCAD_SCADA_telemetry"
+        "name": "Motorola ASTRO 25 HPD Air Interface",
+        "url": "https://www.sigidwiki.com/wiki/Motorola_ASTRO_25_HPD_Air_Interface"
     },
-    "category": [],
+    "category": [
+        "Digital",
+        "Trunked Radio"
+    ],
     "frequency": [
         {
-            "value": 450000000,
+            "value": 769000000,
             "description": ""
         },
         {
-            "value": 950000000,
+            "value": 775000000,
             "description": ""
         },
         {
-            "value": 413000000,
+            "value": 851000000,
+            "description": ""
+        },
+        {
+            "value": 869000000,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 12000,
+            "value": 17700,
             "description": ""
         }
     ],
-    "acf": [],
+    "acf": [
+        {
+            "value": 120.0,
+            "description": "Main"
+        }
+    ],
     "modulation": [
         {
-            "value": "FSK",
+            "value": "QAM",
             "description": ""
         }
     ],
     "mode": [
         {
-            "value": "FM",
+            "value": "RAW",
             "description": ""
         }
     ],
-    "location": []
+    "location": [
+        {
+            "value": "United States",
+            "description": ""
+        }
+    ]
 }

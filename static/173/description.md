@@ -1,1 +1,1 @@
-FLEX (Flexible Wide Area Paging Protocol) is Motorola's high speed one-way paging protocol that supports 1600, 3200, and 6400 bps. FLEX can transmit tone, numeric, alphanumeric, and binary data.
+Fast Low-latency Access with Seamless Handoff Orthogonal Frequency Division Multiplexing (FLASH-OFDM) is a mobile data access technology developed by Flarion.

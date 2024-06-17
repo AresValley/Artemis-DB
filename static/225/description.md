@@ -1,1 +1,1 @@
-The HRD direct broadcast is an X-band continuous downlink from NOAA JPSS satellites of mission environmental data to users on the ground that are equipped with a suitable receiver.
+The HIPAS (HIgh Power Auroral Stimulation) Observatory was a research facility, built to study the ionosphere and its influence on radio communications. It was located 25 miles east of Fairbanks, Alaska in the Fairbanks North Star Borough area.

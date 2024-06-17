@@ -1,1 +1,1 @@
-PCM-FM Soyuz-MS spacecraft telemetry.
+Sonne (Called Consol by the Britons) was a low-frequency radio range based radio navigation system used for long range navigation.

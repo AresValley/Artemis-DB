@@ -1,47 +1,49 @@
 {
     "signal": {
-        "name": "FEC-A",
-        "url": "https://www.sigidwiki.com/wiki/FEC-A"
+        "name": "European Radio Message System (ERMES)",
+        "url": "https://www.sigidwiki.com/wiki/European_Radio_Message_System_(ERMES)"
     },
     "category": [
-        "Digital"
+        "Digital",
+        "Commercial"
     ],
     "frequency": [
         {
-            "value": 3000000,
+            "value": 169412500,
             "description": ""
         },
         {
-            "value": 30000000,
+            "value": 169832500,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 100,
-            "description": ""
-        },
-        {
-            "value": 1200,
+            "value": 25000,
             "description": ""
         }
     ],
-    "acf": [],
+    "acf": [
+        {
+            "value": 740.0,
+            "description": "Main"
+        }
+    ],
     "modulation": [
         {
-            "value": "FSK",
+            "value": "4FSK",
             "description": ""
         }
     ],
     "mode": [
         {
-            "value": "USB",
+            "value": "NFM",
             "description": ""
         }
     ],
     "location": [
         {
-            "value": "Worldwide",
+            "value": "Europe",
             "description": ""
         }
     ]

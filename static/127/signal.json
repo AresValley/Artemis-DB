@@ -1,38 +1,49 @@
 {
     "signal": {
-        "name": "DFM-09",
-        "url": "https://www.sigidwiki.com/wiki/DFM-09"
+        "name": "DCF77",
+        "url": "https://www.sigidwiki.com/wiki/DCF77"
     },
     "category": [
-        "Utility"
+        "Time",
+        "Digital"
     ],
     "frequency": [
         {
-            "value": 400010000,
-            "description": ""
-        },
-        {
-            "value": 405990000,
+            "value": 77500,
             "description": ""
         }
     ],
-    "bandwidth": [],
-    "acf": [],
+    "bandwidth": [
+        {
+            "value": 1300,
+            "description": ""
+        }
+    ],
+    "acf": [
+        {
+            "value": 1000.0,
+            "description": "Main"
+        }
+    ],
     "modulation": [
         {
-            "value": "FSK",
+            "value": "AM",
+            "description": ""
+        },
+        {
+            "value": "PSK",
             "description": ""
         }
     ],
     "mode": [
         {
-            "value": "FM",
+            "value": "USB",
             "description": ""
         }
     ],
     "location": [
         {
-            "value": "Europe",
+            "value": "Germany",
             "description": ""
         }
     ]

@@ -1,1 +1,1 @@
-NATEL is a 5-tone selcall mode defined by Scandinavian National Telephone recommendations.
+Multitone Paging signal, developed by Multitone Electronics in the UK. Uses similar coding to POCSAG but the headers are different and only work with Multitone's range of paging products

@@ -1,44 +1,55 @@
 {
     "signal": {
-        "name": "UHF Vehicle Location System",
-        "url": "https://www.sigidwiki.com/wiki/UHF_Vehicle_Location_System"
+        "name": "Transit 5B-5",
+        "url": "https://www.sigidwiki.com/wiki/Transit_5B-5"
     },
     "category": [
-        "Commercial",
-        "Digital"
+        "Satellite",
+        "Digital",
+        "Analogue",
+        "Military",
+        "Navigation"
     ],
     "frequency": [
         {
-            "value": 400,
-            "description": ""
-        },
-        {
-            "value": 900000000,
+            "value": 136658000,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 5500,
+            "value": 32000,
             "description": ""
         }
     ],
     "acf": [],
     "modulation": [
         {
-            "value": "PSK",
+            "value": "PCM",
+            "description": ""
+        },
+        {
+            "value": "PAM",
+            "description": ""
+        },
+        {
+            "value": "FM",
+            "description": ""
+        },
+        {
+            "value": "PM",
             "description": ""
         }
     ],
     "mode": [
         {
-            "value": "NFM",
+            "value": "WFM",
             "description": ""
         }
     ],
     "location": [
         {
-            "value": "United States",
+            "value": "Worldwide",
             "description": ""
         }
     ]

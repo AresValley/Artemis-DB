@@ -1,39 +1,72 @@
 {
     "signal": {
-        "name": "Jim Creek (NLK)",
-        "url": "https://www.sigidwiki.com/wiki/Jim_Creek_(NLK)"
+        "name": "Japanese Slot Machine (XSL)",
+        "url": "https://www.sigidwiki.com/wiki/Japanese_Slot_Machine_(XSL)"
     },
     "category": [
+        "Digital",
         "Military"
     ],
     "frequency": [
         {
-            "value": 24800,
+            "value": 4152500,
+            "description": ""
+        },
+        {
+            "value": 4231000,
+            "description": ""
+        },
+        {
+            "value": 4290500,
+            "description": ""
+        },
+        {
+            "value": 6249500,
+            "description": ""
+        },
+        {
+            "value": 6416500,
+            "description": ""
+        },
+        {
+            "value": 6444500,
+            "description": ""
+        },
+        {
+            "value": 8312500,
+            "description": ""
+        },
+        {
+            "value": 8587500,
+            "description": ""
+        },
+        {
+            "value": 8703000,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 300,
+            "value": 2000,
             "description": ""
         }
     ],
     "acf": [],
     "modulation": [
         {
-            "value": "MSK",
+            "value": "PSK",
             "description": ""
         }
     ],
     "mode": [
         {
-            "value": "CW",
+            "value": "USB",
             "description": ""
         }
     ],
     "location": [
         {
-            "value": "United States",
+            "value": "Japan",
             "description": ""
         }
     ]

@@ -1,14 +1,16 @@
 {
     "signal": {
-        "name": "Chinese Multitonal Jammer",
-        "url": "https://www.sigidwiki.com/wiki/Chinese_Multitonal_Jammer"
+        "name": "Chinese Firedrake Jammer",
+        "url": "https://www.sigidwiki.com/wiki/Chinese_Firedrake_Jammer"
     },
-    "category": [
-        "Interfering"
-    ],
+    "category": [],
     "frequency": [
         {
-            "value": 9045000,
+            "value": 6000000,
+            "description": ""
+        },
+        {
+            "value": 18000000,
             "description": ""
         }
     ],
@@ -21,19 +23,19 @@
     "acf": [],
     "modulation": [
         {
-            "value": "PPM",
+            "value": "AM",
             "description": ""
         }
     ],
     "mode": [
         {
-            "value": "USB",
+            "value": "AM",
             "description": ""
         }
     ],
     "location": [
         {
-            "value": "Worldwide",
+            "value": "China",
             "description": ""
         }
     ]

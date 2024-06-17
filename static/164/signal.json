@@ -1,33 +1,37 @@
 {
     "signal": {
-        "name": "Electric Fence Remote Control",
-        "url": "https://www.sigidwiki.com/wiki/Electric_Fence_Remote_Control"
+        "name": "EURO",
+        "url": "https://www.sigidwiki.com/wiki/EURO"
     },
     "category": [
-        "Utility"
+        "Analogue"
     ],
     "frequency": [
         {
-            "value": 433920000,
+            "value": 30000000,
+            "description": ""
+        },
+        {
+            "value": 800000000,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 10000,
+            "value": 5000,
             "description": ""
         }
     ],
     "acf": [],
     "modulation": [
         {
-            "value": "AM",
+            "value": "MFSK",
             "description": ""
         }
     ],
     "mode": [
         {
-            "value": "AM",
+            "value": "NFM",
             "description": ""
         }
     ],

@@ -1,0 +1,1 @@
+Radiofax (Also known as Weatherfax, HF-FAX, WEFAX, and Weather Facsimile) is a slow scan analog image transmission mode used for the transmission of weather charts and meteorological reports.

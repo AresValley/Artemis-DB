@@ -1,11 +1,11 @@
 {
     "signal": {
-        "name": "VOICE",
-        "url": "https://www.sigidwiki.com/wiki/VOICE"
+        "name": "VISEL",
+        "url": "https://www.sigidwiki.com/wiki/VISEL"
     },
     "category": [
-        "Amateur Radio",
-        "Digital"
+        "Digital",
+        "Military"
     ],
     "frequency": [
         {
@@ -19,14 +19,14 @@
     ],
     "bandwidth": [
         {
-            "value": 200,
+            "value": 400,
             "description": ""
         }
     ],
     "acf": [],
     "modulation": [
         {
-            "value": "MFSK",
+            "value": "FSK",
             "description": ""
         }
     ],
@@ -38,7 +38,7 @@
     ],
     "location": [
         {
-            "value": "Worldwide",
+            "value": "Europe",
             "description": ""
         }
     ]

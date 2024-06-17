@@ -1,1 +1,1 @@
-Piccolo was a MFSK system developed by the UK Foreign and Commonwealth Office (FCO) to communicate with foreign embassies and UK military stations around the world. No longer used.
+PSK is a digital teletype mode based on Phase-Shift Keying (PSK) modulation. The most popular amateur radio PSK mode is PSK 31.

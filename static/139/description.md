@@ -1,1 +1,1 @@
-Digital Dispatch Systems Mobile Data Terminal is a dispatching system used by taxi and private transportation companies.
+DAB+ is a medium of delivering broadcast radio, containing multiple stations in a single multiplex.

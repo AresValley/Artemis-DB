@@ -1,25 +1,25 @@
 {
     "signal": {
-        "name": "JT9",
-        "url": "https://www.sigidwiki.com/wiki/JT9"
+        "name": "JT6M",
+        "url": "https://www.sigidwiki.com/wiki/JT6M"
     },
     "category": [
-        "Amateur Radio",
-        "Digital"
+        "Digital",
+        "Amateur Radio"
     ],
     "frequency": [
         {
-            "value": 3578000,
+            "value": 50250000,
             "description": ""
         },
         {
-            "value": 28079000,
+            "value": 50215000,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 20,
+            "value": 1000,
             "description": ""
         }
     ],

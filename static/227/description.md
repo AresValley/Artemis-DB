@@ -1,1 +1,1 @@
-An efficient RTTY-like 4FSK mode that transmits binary data, used for amateur high altitude balloon telemetry. Developed by the Project Horus group.
+High Speed USB 2.0 clock noise. Shows up at multiples of 480 MHz.

@@ -1,1 +1,1 @@
-HC-265 is a Voice Scrambling mode developed by Hagelin Crypto for their HC-265 CRYPTOCOM secure voice unit.
+GBAS is an advanced aircraft navigation system that provides GPS corrections to aircraft on approach.

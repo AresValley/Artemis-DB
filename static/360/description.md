@@ -1,1 +1,1 @@
-PACTOR IV is the newest iteration of the PACTOR series, advancing from PACTOR I-III. It is 1.5x-3x faster than PACTOR III, and has 10 speed levels.
+PACTOR III introduces 6 speed levels that provide higher throughput and improved robustness compared to PACTOR I and II. PACTOR III is on average 3.5 times faster than PACTOR II. With optimal conditions, PACTOR III becomes over 5 times faster.

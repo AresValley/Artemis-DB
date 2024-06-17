@@ -1,1 +1,1 @@
-MT63 is a Orthogonal Frequency Division Multiplexed (OFDM) digital data mode aimed for use in high noise environments.
+MSM-1250 (Medium Speed Modem) is a 10 FSK-2 OFDM digital data protocol used by the stand-alone modem "SkyFax", used to transmit and receive faxes on HF.

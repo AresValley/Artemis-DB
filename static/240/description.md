@@ -1,1 +1,1 @@
-ALIS-2, also known as RS-ARQ, RS ARQ 240, and MERLIN, is an improvement of the original ALIS system. ALIS-2 is used in the Rohde & Schwarz MERLIN modem.
+An ISM band device such as a power meter or a wireless doorbell.

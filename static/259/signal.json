@@ -1,7 +1,7 @@
 {
     "signal": {
-        "name": "JT65",
-        "url": "https://www.sigidwiki.com/wiki/JT65"
+        "name": "JS8",
+        "url": "https://www.sigidwiki.com/wiki/JS8"
     },
     "category": [
         "Amateur Radio",
@@ -9,64 +9,60 @@
     ],
     "frequency": [
         {
-            "value": 24917000,
+            "value": 3578000,
             "description": ""
         },
         {
-            "value": 1838000,
+            "value": 14078000,
             "description": ""
         },
         {
-            "value": 3576000,
+            "value": 18104000,
             "description": ""
         },
         {
-            "value": 7039000,
+            "value": 21078000,
             "description": ""
         },
         {
-            "value": 7076000,
+            "value": 24922000,
             "description": ""
         },
         {
-            "value": 10139000,
+            "value": 28078000,
             "description": ""
         },
         {
-            "value": 14076000,
+            "value": 50318000,
             "description": ""
         },
         {
-            "value": 18102000,
+            "value": 1842000,
             "description": ""
         },
         {
-            "value": 18098000,
+            "value": 7078000,
             "description": ""
         },
         {
-            "value": 50276000,
+            "value": 10130000,
+            "description": ""
+        },
+        {
+            "value": 27245000,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 180,
-            "description": ""
-        },
-        {
-            "value": 360,
-            "description": ""
-        },
-        {
-            "value": 710,
+            "value": 50,
             "description": ""
         }
     ],
     "acf": [],
     "modulation": [
         {
-            "value": "MFSK",
+            "value": "GFSK",
             "description": ""
         }
     ],

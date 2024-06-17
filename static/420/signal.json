@@ -1,44 +1,43 @@
 {
     "signal": {
-        "name": "SIGFOX",
-        "url": "https://www.sigidwiki.com/wiki/SIGFOX"
+        "name": "SI-FEC",
+        "url": "https://www.sigidwiki.com/wiki/SI-FEC"
     },
     "category": [
-        "Commercial",
         "Digital"
     ],
     "frequency": [
         {
-            "value": 868000000,
+            "value": 3000000,
             "description": ""
         },
         {
-            "value": 868600000,
+            "value": 30000000,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 200000,
+            "value": 280,
             "description": ""
         }
     ],
     "acf": [],
     "modulation": [
         {
-            "value": "BPSK",
+            "value": "FSK",
             "description": ""
         }
     ],
     "mode": [
         {
-            "value": "RAW",
+            "value": "USB",
             "description": ""
         }
     ],
     "location": [
         {
-            "value": "Worldwide",
+            "value": "Europe",
             "description": ""
         }
     ]

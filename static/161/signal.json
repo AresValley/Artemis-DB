@@ -1,43 +1,47 @@
 {
     "signal": {
-        "name": "EIA",
-        "url": "https://www.sigidwiki.com/wiki/EIA"
+        "name": "EFR Teleswitch",
+        "url": "https://www.sigidwiki.com/wiki/EFR_Teleswitch"
     },
     "category": [
-        "Digital"
+        "Utility"
     ],
     "frequency": [
         {
-            "value": 30000000,
+            "value": 135600,
             "description": ""
         },
         {
-            "value": 800000000,
+            "value": 139900,
+            "description": ""
+        },
+        {
+            "value": 129100,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 5000,
+            "value": 1000,
             "description": ""
         }
     ],
     "acf": [],
     "modulation": [
         {
-            "value": "MFSK",
+            "value": "FSK",
             "description": ""
         }
     ],
     "mode": [
         {
-            "value": "NFM",
+            "value": "USB",
             "description": ""
         }
     ],
     "location": [
         {
-            "value": "Worldwide",
+            "value": "Europe",
             "description": ""
         }
     ]

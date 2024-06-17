@@ -1,29 +1,26 @@
 {
     "signal": {
-        "name": "North Korean Diplo FSK",
-        "url": "https://www.sigidwiki.com/wiki/North_Korean_Diplo_FSK"
+        "name": "Nordic Mobile Telephone (NMT)",
+        "url": "https://www.sigidwiki.com/wiki/Nordic_Mobile_Telephone_(NMT)"
     },
     "category": [
+        "Analogue",
         "Digital",
-        "Numbers Stations"
+        "Commercial"
     ],
     "frequency": [
         {
-            "value": 9000000,
+            "value": 453000000,
             "description": ""
         },
         {
-            "value": 29000000,
+            "value": 960000000,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 1200,
-            "description": ""
-        },
-        {
-            "value": 1400,
+            "value": 25000,
             "description": ""
         }
     ],
@@ -36,13 +33,13 @@
     ],
     "mode": [
         {
-            "value": "USB",
+            "value": "NFM",
             "description": ""
         }
     ],
     "location": [
         {
-            "value": "North Korea",
+            "value": "Worldwide",
             "description": ""
         }
     ]

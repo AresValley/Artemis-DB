@@ -1,1 +1,1 @@
-DAB is an audio broadcasting standard containing a multiplex of digital radio stations in the signal.
+Digisondes are ionosondes that use pulsed signal that can gather more radar information than a traditional ionosonde sweep.

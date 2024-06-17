@@ -1,20 +1,28 @@
 {
     "signal": {
-        "name": "RBU",
-        "url": "https://www.sigidwiki.com/wiki/RBU"
+        "name": "RAC-ARQ",
+        "url": "https://www.sigidwiki.com/wiki/RAC-ARQ"
     },
     "category": [
-        "Time"
+        "Digital"
     ],
     "frequency": [
         {
-            "value": 66660,
+            "value": 3000000,
+            "description": ""
+        },
+        {
+            "value": 30000000,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 650,
+            "value": 1000,
+            "description": ""
+        },
+        {
+            "value": 1300,
             "description": ""
         }
     ],
@@ -33,7 +41,7 @@
     ],
     "location": [
         {
-            "value": "Russia",
+            "value": "Worldwide",
             "description": ""
         }
     ]

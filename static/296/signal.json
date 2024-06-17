@@ -1,7 +1,7 @@
 {
     "signal": {
-        "name": "MIL-STD-188-110 Appendix B 39-Tone",
-        "url": "https://www.sigidwiki.com/wiki/MIL-STD-188-110_Appendix_B_39-Tone"
+        "name": "MIL-STD-188-110 Appendix A 16-Tone",
+        "url": "https://www.sigidwiki.com/wiki/MIL-STD-188-110_Appendix_A_16-Tone"
     },
     "category": [
         "Military",
@@ -19,7 +19,7 @@
     ],
     "bandwidth": [
         {
-            "value": 2400,
+            "value": 2100,
             "description": ""
         }
     ],

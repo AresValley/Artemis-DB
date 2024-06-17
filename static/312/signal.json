@@ -1,44 +1,44 @@
 {
     "signal": {
-        "name": "Meteomodem M10 Weather Balloon (Radiosonde)",
-        "url": "https://www.sigidwiki.com/wiki/Meteomodem_M10_Weather_Balloon_(Radiosonde)"
+        "name": "Mazielka (X06)",
+        "url": "https://www.sigidwiki.com/wiki/Mazielka_(X06)"
     },
     "category": [
-        "Utility",
-        "Digital"
+        "Digital",
+        "Numbers Stations"
     ],
     "frequency": [
         {
-            "value": 400000000,
+            "value": 4963000,
             "description": ""
         },
         {
-            "value": 406000000,
+            "value": 23458000,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 30000,
+            "value": 200,
             "description": ""
         }
     ],
     "acf": [],
     "modulation": [
         {
-            "value": "PSK",
+            "value": "MFSK",
             "description": ""
         }
     ],
     "mode": [
         {
-            "value": "NFM",
+            "value": "USB",
             "description": ""
         }
     ],
     "location": [
         {
-            "value": "Worldwide",
+            "value": "Russia",
             "description": ""
         }
     ]

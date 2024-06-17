@@ -1,27 +1,22 @@
 {
     "signal": {
-        "name": "DUP-ARQ",
-        "url": "https://www.sigidwiki.com/wiki/DUP-ARQ"
+        "name": "DFM-09",
+        "url": "https://www.sigidwiki.com/wiki/DFM-09"
     },
     "category": [
-        "Digital"
+        "Utility"
     ],
     "frequency": [
         {
-            "value": 3000000,
+            "value": 400010000,
             "description": ""
         },
         {
-            "value": 30000000,
+            "value": 405990000,
             "description": ""
         }
     ],
-    "bandwidth": [
-        {
-            "value": 325,
-            "description": ""
-        }
-    ],
+    "bandwidth": [],
     "acf": [],
     "modulation": [
         {
@@ -31,13 +26,13 @@
     ],
     "mode": [
         {
-            "value": "USB",
+            "value": "FM",
             "description": ""
         }
     ],
     "location": [
         {
-            "value": "Worldwide",
+            "value": "Europe",
             "description": ""
         }
     ]

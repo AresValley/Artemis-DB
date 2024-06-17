@@ -1,54 +1,42 @@
 {
     "signal": {
-        "name": "FM Broadcast Radio",
-        "url": "https://www.sigidwiki.com/wiki/FM_Broadcast_Radio"
+        "name": "FLEX",
+        "url": "https://www.sigidwiki.com/wiki/FLEX"
     },
     "category": [
-        "Commercial",
-        "Analogue"
+        "Digital",
+        "Commercial"
     ],
     "frequency": [
         {
-            "value": 65000000,
+            "value": 152600000,
             "description": ""
         },
         {
-            "value": 108000000,
+            "value": 931938000,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 38000,
-            "description": ""
-        },
-        {
-            "value": 108000,
-            "description": ""
-        },
-        {
-            "value": 118000,
-            "description": ""
-        },
-        {
-            "value": 184000,
-            "description": ""
-        },
-        {
-            "value": 200000,
+            "value": 5000,
             "description": ""
         }
     ],
     "acf": [],
     "modulation": [
         {
-            "value": "FM",
+            "value": "FSK",
+            "description": ""
+        },
+        {
+            "value": "4FSK",
             "description": ""
         }
     ],
     "mode": [
         {
-            "value": "WFM",
+            "value": "NFM",
             "description": ""
         }
     ],

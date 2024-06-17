@@ -1,38 +1,49 @@
 {
     "signal": {
-        "name": "UTC (Coordinated Universal Time) Time Standard",
-        "url": "https://www.sigidwiki.com/wiki/UTC_(Coordinated_Universal_Time)_Time_Standard"
+        "name": "UK GOV MIL WINDRM51",
+        "url": "https://www.sigidwiki.com/wiki/UK_GOV_MIL_WINDRM51"
     },
     "category": [
-        "Time"
+        "Military",
+        "Digital"
     ],
     "frequency": [
         {
-            "value": 2500000,
+            "value": 9104000,
             "description": ""
         },
         {
-            "value": 25000000,
+            "value": 13451250,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 4000,
+            "value": 2500,
             "description": ""
         }
     ],
-    "acf": [],
-    "modulation": [],
+    "acf": [
+        {
+            "value": 106.66,
+            "description": "Main"
+        }
+    ],
+    "modulation": [
+        {
+            "value": "OFDM",
+            "description": ""
+        }
+    ],
     "mode": [
         {
-            "value": "AM",
+            "value": "USB",
             "description": ""
         }
     ],
     "location": [
         {
-            "value": "United States",
+            "value": "Europe",
             "description": ""
         }
     ]

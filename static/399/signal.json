@@ -1,47 +1,56 @@
 {
     "signal": {
-        "name": "Radio Data Link Access Procedure (RD-LAP)",
-        "url": "https://www.sigidwiki.com/wiki/Radio_Data_Link_Access_Procedure_(RD-LAP)"
+        "name": "RWM",
+        "url": "https://www.sigidwiki.com/wiki/RWM"
     },
     "category": [
-        "Digital"
+        "Time"
     ],
     "frequency": [
         {
-            "value": 150000000,
+            "value": 4996000,
             "description": ""
         },
         {
-            "value": 850000000,
+            "value": 14996000,
+            "description": ""
+        },
+        {
+            "value": 9996000,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 12500,
-            "description": ""
-        },
-        {
-            "value": 25000,
+            "value": 5,
             "description": ""
         }
     ],
-    "acf": [],
+    "acf": [
+        {
+            "value": 1000.0,
+            "description": "Primary"
+        },
+        {
+            "value": 100.0,
+            "description": "Secondary"
+        }
+    ],
     "modulation": [
         {
-            "value": "4FSK",
+            "value": "OOK",
             "description": ""
         }
     ],
     "mode": [
         {
-            "value": "NFM",
+            "value": "USB",
             "description": ""
         }
     ],
     "location": [
         {
-            "value": "Worldwide",
+            "value": "Russia",
             "description": ""
         }
     ]

@@ -1,1 +1,1 @@
-Data returned from a consumer weather sensor using the AlectoV1 protocol.
+Ionospheric Scattering (ISCAT) mode used for weak signal long distance radio contact by meteor and Ionosphere scattering.

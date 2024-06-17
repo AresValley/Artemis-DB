@@ -1,34 +1,42 @@
 {
     "signal": {
-        "name": "METEOR-M High Resolution Picture Transmission (HRPT)",
-        "url": "https://www.sigidwiki.com/wiki/METEOR-M_High_Resolution_Picture_Transmission_(HRPT)"
+        "name": "MDC1200",
+        "url": "https://www.sigidwiki.com/wiki/MDC1200"
     },
     "category": [
-        "Digital",
-        "Satellite"
+        "Commercial",
+        "Digital"
     ],
     "frequency": [
         {
-            "value": 1700000000,
+            "value": 30000000,
+            "description": ""
+        },
+        {
+            "value": 960000000,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 3000000,
+            "value": 12500,
+            "description": ""
+        },
+        {
+            "value": 20000,
             "description": ""
         }
     ],
     "acf": [],
     "modulation": [
         {
-            "value": "PSK",
+            "value": "AFSK",
             "description": ""
         }
     ],
     "mode": [
         {
-            "value": "RAW",
+            "value": "FM",
             "description": ""
         }
     ],

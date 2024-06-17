@@ -1,1 +1,1 @@
-Schneider Trio E-Series Modems are industrial modems used for SCADA, telemetry, and other ASCII-based messaging applications.
+The MHF-50 MFSK Modem by Saab Grintek Technologies in South Africa is a data modem that utilizes RTTY, 2-FSK, and 33-MFSK to transmit data

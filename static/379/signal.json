@@ -1,41 +1,35 @@
 {
     "signal": {
-        "name": "Primary Aeronautical Surveillance Radar",
-        "url": "https://www.sigidwiki.com/wiki/Primary_Aeronautical_Surveillance_Radar"
+        "name": "Powerline Over Ethernet",
+        "url": "https://www.sigidwiki.com/wiki/Powerline_Over_Ethernet"
     },
-    "category": [
-        "Aviation",
-        "Navigation",
-        "Commercial",
-        "Analogue",
-        "Radar"
-    ],
+    "category": [],
     "frequency": [
         {
-            "value": 1215000000,
+            "value": 0,
             "description": ""
         },
         {
-            "value": 1400000000,
+            "value": 60000000,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 3000000,
+            "value": 60000000,
             "description": ""
         }
     ],
     "acf": [],
     "modulation": [
         {
-            "value": "Pulse",
+            "value": "PAM",
             "description": ""
         }
     ],
     "mode": [
         {
-            "value": "RAW",
+            "value": "AM",
             "description": ""
         }
     ],

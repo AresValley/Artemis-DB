@@ -1,1 +1,1 @@
-Acquired via telecommunications carrier hardware during interference investigation of an Australian cellular network.
+LORAN (short for LOng RAnge Navigation) is a hyperbolic radio navigation system.

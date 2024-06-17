@@ -1,49 +1,43 @@
 {
     "signal": {
-        "name": "GOES Data Collection System (DCS)",
-        "url": "https://www.sigidwiki.com/wiki/GOES_Data_Collection_System_(DCS)"
+        "name": "GOES CDA Telemetry",
+        "url": "https://www.sigidwiki.com/wiki/GOES_CDA_Telemetry"
     },
     "category": [
-        "Utility",
-        "Digital",
         "Satellite"
     ],
     "frequency": [
         {
-            "value": 1679900000,
-            "description": ""
-        },
-        {
-            "value": 1680200000,
+            "value": 1693000000,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 300,
-            "description": ""
-        },
-        {
-            "value": 1200,
+            "value": 80000,
             "description": ""
         }
     ],
     "acf": [],
     "modulation": [
         {
-            "value": "8PSK",
+            "value": "BPSK",
             "description": ""
         }
     ],
     "mode": [
         {
-            "value": "USB",
+            "value": "RAW",
             "description": ""
         }
     ],
     "location": [
         {
-            "value": "Worldwide",
+            "value": "United States",
+            "description": ""
+        },
+        {
+            "value": "Asia",
             "description": ""
         }
     ]

@@ -1,15 +1,15 @@
 {
     "signal": {
-        "name": "Motorola Type II",
-        "url": "https://www.sigidwiki.com/wiki/Motorola_Type_II"
+        "name": "Motorola SECURENET",
+        "url": "https://www.sigidwiki.com/wiki/Motorola_SECURENET"
     },
     "category": [
-        "Trunked Radio",
-        "Digital"
+        "Commercial",
+        "Trunked Radio"
     ],
     "frequency": [
         {
-            "value": 136000000,
+            "value": 137000000,
             "description": ""
         },
         {
@@ -17,7 +17,15 @@
             "description": ""
         },
         {
-            "value": 380000000,
+            "value": 400000000,
+            "description": ""
+        },
+        {
+            "value": 420000000,
+            "description": ""
+        },
+        {
+            "value": 450000000,
             "description": ""
         },
         {
@@ -25,11 +33,11 @@
             "description": ""
         },
         {
-            "value": 851000000,
+            "value": 941000000,
             "description": ""
         },
         {
-            "value": 941000000,
+            "value": 851000000,
             "description": ""
         }
     ],
@@ -48,7 +56,7 @@
     ],
     "mode": [
         {
-            "value": "NFM",
+            "value": "FM",
             "description": ""
         }
     ],

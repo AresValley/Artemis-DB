@@ -1,7 +1,7 @@
 {
     "signal": {
-        "name": "SI-FEC",
-        "url": "https://www.sigidwiki.com/wiki/SI-FEC"
+        "name": "SI-ARQ",
+        "url": "https://www.sigidwiki.com/wiki/SI-ARQ"
     },
     "category": [
         "Digital"
@@ -18,7 +18,7 @@
     ],
     "bandwidth": [
         {
-            "value": 280,
+            "value": 350,
             "description": ""
         }
     ],

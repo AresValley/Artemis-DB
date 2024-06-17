@@ -1,33 +1,25 @@
 {
     "signal": {
-        "name": "Q15X25",
-        "url": "https://www.sigidwiki.com/wiki/Q15X25"
+        "name": "Q-MAC HF Modem",
+        "url": "https://www.sigidwiki.com/wiki/Q-MAC_HF_Modem"
     },
     "category": [
-        "Amateur Radio",
-        "Digital"
+        "Digital",
+        "Military"
     ],
     "frequency": [
         {
-            "value": 3585000,
+            "value": 3000000,
             "description": ""
         },
         {
-            "value": 7035000,
-            "description": ""
-        },
-        {
-            "value": 14109000,
+            "value": 30000000,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 1950,
-            "description": ""
-        },
-        {
-            "value": 2350,
+            "value": 2000,
             "description": ""
         }
     ],

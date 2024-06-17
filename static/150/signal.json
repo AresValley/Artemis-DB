@@ -1,39 +1,32 @@
 {
     "signal": {
-        "name": "Distress Radiobeacon (Analog)",
-        "url": "https://www.sigidwiki.com/wiki/Distress_Radiobeacon_(Analog)"
+        "name": "DisplayPort Interference",
+        "url": "https://www.sigidwiki.com/wiki/DisplayPort_Interference"
     },
     "category": [
-        "Aviation",
-        "Marine",
-        "Analogue"
+        "Interfering"
     ],
     "frequency": [
         {
-            "value": 121500000,
+            "value": 381500000,
             "description": ""
         },
         {
-            "value": 243000000,
+            "value": 159557500,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 10000,
+            "value": 250000,
             "description": ""
         }
     ],
     "acf": [],
-    "modulation": [
-        {
-            "value": "AM",
-            "description": ""
-        }
-    ],
+    "modulation": [],
     "mode": [
         {
-            "value": "AM",
+            "value": "RAW",
             "description": ""
         }
     ],

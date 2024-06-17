@@ -1,1 +1,1 @@
-HD Radio is a proprietary digital broadcast radio format transmitted in North America, usually as sidebands on analog carriers. This is the AM band implementation of HD Radio.
+Haegelin Crypto ARQ (HC-ARQ) was an FSK synchronous simplex ARQ system used by the UN and International Rescue Committee. This mode has been phased out and is no longer in use.

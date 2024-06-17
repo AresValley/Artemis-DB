@@ -1,36 +1,60 @@
 {
     "signal": {
-        "name": "Schneider Trio E-Series Modem",
-        "url": "https://www.sigidwiki.com/wiki/Schneider_Trio_E-Series_Modem"
+        "name": "Saab Grintek MHF-50 MFSK Modem",
+        "url": "https://www.sigidwiki.com/wiki/Saab_Grintek_MHF-50_MFSK_Modem"
     },
     "category": [
-        "Utility",
+        "Military",
         "Digital"
     ],
     "frequency": [
         {
-            "value": 370000000,
+            "value": 8580000,
             "description": ""
         },
         {
-            "value": 518000000,
+            "value": 12982000,
+            "description": ""
+        },
+        {
+            "value": 11237000,
+            "description": ""
+        },
+        {
+            "value": 4245000,
+            "description": ""
+        },
+        {
+            "value": 4346000,
+            "description": ""
+        },
+        {
+            "value": 6407000,
+            "description": ""
+        },
+        {
+            "value": 6493000,
+            "description": ""
+        },
+        {
+            "value": 6504000,
+            "description": ""
+        },
+        {
+            "value": 8603000,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 12500,
-            "description": ""
-        },
-        {
-            "value": 25000,
+            "value": 2200,
             "description": ""
         }
     ],
     "acf": [],
     "modulation": [
         {
-            "value": "GMSK",
+            "value": "MFSK",
             "description": ""
         },
         {
@@ -46,7 +70,7 @@
     ],
     "location": [
         {
-            "value": "Worldwide",
+            "value": "South Africa",
             "description": ""
         }
     ]

@@ -1,44 +1,31 @@
 {
     "signal": {
-        "name": "RWM",
-        "url": "https://www.sigidwiki.com/wiki/RWM"
+        "name": "RUM-MOI FEC",
+        "url": "https://www.sigidwiki.com/wiki/RUM-MOI_FEC"
     },
     "category": [
-        "Time"
+        "Digital"
     ],
     "frequency": [
         {
-            "value": 4996000,
+            "value": 3000000,
             "description": ""
         },
         {
-            "value": 14996000,
-            "description": ""
-        },
-        {
-            "value": 9996000,
+            "value": 30000000,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 5,
+            "value": 600,
             "description": ""
         }
     ],
-    "acf": [
-        {
-            "value": 1000.0,
-            "description": "Primary"
-        },
-        {
-            "value": 100.0,
-            "description": "Secondary"
-        }
-    ],
+    "acf": [],
     "modulation": [
         {
-            "value": "OOK",
+            "value": "FSK",
             "description": ""
         }
     ],
@@ -50,7 +37,7 @@
     ],
     "location": [
         {
-            "value": "Russia",
+            "value": "Romania",
             "description": ""
         }
     ]

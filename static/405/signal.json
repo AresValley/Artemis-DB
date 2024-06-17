@@ -1,64 +1,29 @@
 {
     "signal": {
-        "name": "ReFLEX",
-        "url": "https://www.sigidwiki.com/wiki/ReFLEX"
+        "name": "Rain Master sprinkler control",
+        "url": "https://www.sigidwiki.com/wiki/Rain_Master_sprinkler_control"
     },
     "category": [
-        "Commercial",
-        "Digital"
+        "Utility"
     ],
     "frequency": [
         {
-            "value": 896000000,
-            "description": ""
-        },
-        {
-            "value": 902000000,
-            "description": ""
-        },
-        {
-            "value": 929000000,
-            "description": ""
-        },
-        {
-            "value": 932000000,
-            "description": ""
-        },
-        {
-            "value": 940000000,
-            "description": ""
-        },
-        {
-            "value": 941000000,
-            "description": ""
-        },
-        {
-            "value": 940210000,
+            "value": 154600000,
             "description": ""
         }
     ],
-    "bandwidth": [
-        {
-            "value": 40000,
-            "description": ""
-        }
-    ],
+    "bandwidth": [],
     "acf": [],
-    "modulation": [
-        {
-            "value": "FFSK",
-            "description": ""
-        }
-    ],
+    "modulation": [],
     "mode": [
         {
-            "value": "NFM",
+            "value": "FM",
             "description": ""
         }
     ],
     "location": [
         {
-            "value": "United States",
+            "value": "Worldwide",
             "description": ""
         }
     ]

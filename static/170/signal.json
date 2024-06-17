@@ -1,43 +1,24 @@
 {
     "signal": {
-        "name": "European Radio Message System (ERMES)",
-        "url": "https://www.sigidwiki.com/wiki/European_Radio_Message_System_(ERMES)"
+        "name": "Eurobalise downlink",
+        "url": "https://www.sigidwiki.com/wiki/Eurobalise_downlink"
     },
     "category": [
-        "Commercial",
-        "Digital"
+        "Navigation",
+        "Analogue"
     ],
     "frequency": [
         {
-            "value": 169412500,
-            "description": ""
-        },
-        {
-            "value": 169832500,
+            "value": 27095000,
             "description": ""
         }
     ],
-    "bandwidth": [
-        {
-            "value": 25000,
-            "description": ""
-        }
-    ],
-    "acf": [
-        {
-            "value": 740.0,
-            "description": "Main"
-        }
-    ],
-    "modulation": [
-        {
-            "value": "4FSK",
-            "description": ""
-        }
-    ],
+    "bandwidth": [],
+    "acf": [],
+    "modulation": [],
     "mode": [
         {
-            "value": "NFM",
+            "value": "AM",
             "description": ""
         }
     ],

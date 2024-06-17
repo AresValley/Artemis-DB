@@ -1,34 +1,42 @@
 {
     "signal": {
-        "name": "Mazda SKE126-01 Key Fob",
-        "url": "https://www.sigidwiki.com/wiki/Mazda_SKE126-01_Key_Fob"
+        "name": "Marconi Selenia 25-Tone Modem",
+        "url": "https://www.sigidwiki.com/wiki/Marconi_Selenia_25-Tone_Modem"
     },
     "category": [
-        "Utility",
-        "Digital"
+        "Digital",
+        "Military"
     ],
     "frequency": [
         {
-            "value": 433412500,
+            "value": 3000000,
+            "description": ""
+        },
+        {
+            "value": 30000000,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 100000,
+            "value": 1600,
             "description": ""
         }
     ],
     "acf": [],
     "modulation": [
         {
-            "value": "FSK",
+            "value": "PSK",
+            "description": ""
+        },
+        {
+            "value": "OFDM",
             "description": ""
         }
     ],
     "mode": [
         {
-            "value": "WFM",
+            "value": "USB",
             "description": ""
         }
     ],

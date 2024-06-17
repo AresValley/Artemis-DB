@@ -1,53 +1,49 @@
 {
     "signal": {
-        "name": "Quadcopter Telemetry Signal",
-        "url": "https://www.sigidwiki.com/wiki/Quadcopter_Telemetry_Signal"
+        "name": "QO-100-modem",
+        "url": "https://www.sigidwiki.com/wiki/QO-100-modem"
     },
     "category": [
-        "Aviation",
         "Amateur Radio",
+        "Satellite",
         "Digital"
     ],
     "frequency": [
         {
-            "value": 414000000,
+            "value": 10489500000,
             "description": ""
         },
         {
-            "value": 433000000,
-            "description": ""
-        },
-        {
-            "value": 935000000,
+            "value": 10490000000,
             "description": ""
         }
     ],
-    "bandwidth": [],
+    "bandwidth": [
+        {
+            "value": 2700,
+            "description": ""
+        }
+    ],
     "acf": [],
     "modulation": [
+        {
+            "value": "QPSK",
+            "description": ""
+        },
         {
             "value": "BPSK",
             "description": ""
         },
         {
-            "value": "8PSK",
-            "description": ""
-        },
-        {
-            "value": "QAM",
+            "value": "APSK",
             "description": ""
         }
     ],
     "mode": [
         {
-            "value": "FHSS-TDM",
+            "value": "USB",
             "description": ""
         }
     ],
-    "location": [
-        {
-            "value": "Worldwide",
-            "description": ""
-        }
-    ]
+    "location": []
 }

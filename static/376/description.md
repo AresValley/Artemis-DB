@@ -1,1 +1,1 @@
-Signals sent from portable traffic lights that are often used at roadworks.
+One-way broadcast system, used by one of Polish intelligence agencies for delivery of messages to their operatives abroad on fixed schedules.

@@ -1,1 +1,1 @@
-Weather balloon telemetry data.
+Weather balloon (radiosonde) telemetry data.

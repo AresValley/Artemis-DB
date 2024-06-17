@@ -1,41 +1,35 @@
 {
     "signal": {
-        "name": "Powerline Over Ethernet",
-        "url": "https://www.sigidwiki.com/wiki/Powerline_Over_Ethernet"
+        "name": "Positive Train Control (PTC)",
+        "url": "https://www.sigidwiki.com/wiki/Positive_Train_Control_(PTC)"
     },
-    "category": [],
+    "category": [
+        "Digital",
+        "Utility"
+    ],
     "frequency": [
         {
-            "value": 0,
-            "description": ""
-        },
-        {
-            "value": 60000000,
+            "value": 220000000,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 60000000,
+            "value": 20000,
             "description": ""
         }
     ],
     "acf": [],
-    "modulation": [
-        {
-            "value": "PAM",
-            "description": ""
-        }
-    ],
+    "modulation": [],
     "mode": [
         {
-            "value": "AM",
+            "value": "RAW",
             "description": ""
         }
     ],
     "location": [
         {
-            "value": "Worldwide",
+            "value": "United States",
             "description": ""
         }
     ]

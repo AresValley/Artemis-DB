@@ -1,1 +1,1 @@
-Differential GPS (DGPS), also known as M823 DGPS and SC-104 DGPS, is a supplementary correction signal used by GPS receivers to increase the accuracy of GPS based positioning.
+Denso Wireless Key Fob 4EA built by Denso Corporation for General Motors auto brands Chevrolet and Buick. Used on Chevrolet Camaro and Malibu from 2016+. Used on Buick Lacrosse 2017+.

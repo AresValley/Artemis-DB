@@ -1,1 +1,1 @@
-FST4W is an amateur radio digital protocol designed particularly for the LF and MF bands, for quasi-beacon transmissions of WSPR-style messages. FST4W uses 4-GFSK modulation and offers T/R sequence lengths of 120, 300, 900, and 1800 seconds.
+Fast Simple QSO (FSQ) is an amateur radio digital modulation mode developed by Con Wassilieff ZL2AFP with Murray Greenman ZL1BPU in 2015.

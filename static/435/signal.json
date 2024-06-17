@@ -1,43 +1,44 @@
 {
     "signal": {
-        "name": "SWED-ARQ",
-        "url": "https://www.sigidwiki.com/wiki/SWED-ARQ"
+        "name": "STP403 Bus PIT System",
+        "url": "https://www.sigidwiki.com/wiki/STP403_Bus_PIT_System"
     },
     "category": [
-        "Digital"
+        "Utility",
+        "Commercial"
     ],
     "frequency": [
         {
-            "value": 3000000,
+            "value": 164000000,
             "description": ""
         },
         {
-            "value": 30000000,
+            "value": 468487500,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 600,
+            "value": 8000,
             "description": ""
         }
     ],
     "acf": [],
     "modulation": [
         {
-            "value": "FSK",
+            "value": "FFSK",
             "description": ""
         }
     ],
     "mode": [
         {
-            "value": "USB",
+            "value": "NFM",
             "description": ""
         }
     ],
     "location": [
         {
-            "value": "Sweden",
+            "value": "France",
             "description": ""
         }
     ]

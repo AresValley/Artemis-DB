@@ -1,43 +1,30 @@
 {
     "signal": {
-        "name": "SI-ARQ",
-        "url": "https://www.sigidwiki.com/wiki/SI-ARQ"
+        "name": "SHR",
+        "url": "https://www.sigidwiki.com/wiki/SHR"
     },
     "category": [
-        "Digital"
+        "Military",
+        "Marine"
     ],
     "frequency": [
         {
-            "value": 3000000,
-            "description": ""
-        },
-        {
-            "value": 30000000,
+            "value": 38000,
             "description": ""
         }
     ],
-    "bandwidth": [
-        {
-            "value": 350,
-            "description": ""
-        }
-    ],
+    "bandwidth": [],
     "acf": [],
     "modulation": [
         {
-            "value": "FSK",
+            "value": "MSK",
             "description": ""
         }
     ],
-    "mode": [
-        {
-            "value": "USB",
-            "description": ""
-        }
-    ],
+    "mode": [],
     "location": [
         {
-            "value": "Europe",
+            "value": "Sweden",
             "description": ""
         }
     ]

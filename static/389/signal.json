@@ -1,41 +1,46 @@
 {
     "signal": {
-        "name": "RAC-ARQ",
-        "url": "https://www.sigidwiki.com/wiki/RAC-ARQ"
+        "name": "Quadcopter Telemetry Signal",
+        "url": "https://www.sigidwiki.com/wiki/Quadcopter_Telemetry_Signal"
     },
     "category": [
+        "Amateur Radio",
+        "Aviation",
         "Digital"
     ],
     "frequency": [
         {
-            "value": 3000000,
+            "value": 414000000,
             "description": ""
         },
         {
-            "value": 30000000,
-            "description": ""
-        }
-    ],
-    "bandwidth": [
-        {
-            "value": 1000,
+            "value": 433000000,
             "description": ""
         },
         {
-            "value": 1300,
+            "value": 935000000,
             "description": ""
         }
     ],
+    "bandwidth": [],
     "acf": [],
     "modulation": [
         {
-            "value": "FSK",
+            "value": "BPSK",
+            "description": ""
+        },
+        {
+            "value": "8PSK",
+            "description": ""
+        },
+        {
+            "value": "QAM",
             "description": ""
         }
     ],
     "mode": [
         {
-            "value": "USB",
+            "value": "FHSS-TDM",
             "description": ""
         }
     ],

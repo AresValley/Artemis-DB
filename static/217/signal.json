@@ -1,31 +1,52 @@
 {
     "signal": {
-        "name": "HNG-FEC",
-        "url": "https://www.sigidwiki.com/wiki/HNG-FEC"
+        "name": "HFGCS (High Frequency Global Communications System)",
+        "url": "https://www.sigidwiki.com/wiki/HFGCS_(High_Frequency_Global_Communications_System)"
     },
     "category": [
-        "Digital"
+        "Military",
+        "Aviation"
     ],
     "frequency": [
         {
-            "value": 2400000,
+            "value": 4724000,
             "description": ""
         },
         {
-            "value": 24000000,
+            "value": 6712000,
+            "description": ""
+        },
+        {
+            "value": 6739000,
+            "description": ""
+        },
+        {
+            "value": 8992000,
+            "description": ""
+        },
+        {
+            "value": 11175000,
+            "description": ""
+        },
+        {
+            "value": 13200000,
+            "description": ""
+        },
+        {
+            "value": 15016000,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 600,
+            "value": 2950,
             "description": ""
         }
     ],
     "acf": [],
     "modulation": [
         {
-            "value": "FSK",
+            "value": "USB",
             "description": ""
         }
     ],
@@ -37,7 +58,7 @@
     ],
     "location": [
         {
-            "value": "Hungary",
+            "value": "Worldwide",
             "description": ""
         }
     ]

@@ -1,1 +1,1 @@
-ICV is a NATO-operated VLF transmitted located in the island of Tavolara, Sardinia, Italy.
+ICARUS aims its services primarily at scientific groups that perform basic and application-oriented research with migrating animals.

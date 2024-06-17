@@ -1,29 +1,60 @@
 {
     "signal": {
-        "name": "NATEL",
-        "url": "https://www.sigidwiki.com/wiki/NATEL"
+        "name": "Multitone Paging",
+        "url": "https://www.sigidwiki.com/wiki/Multitone_Paging"
     },
-    "category": [],
+    "category": [
+        "Digital",
+        "Commercial"
+    ],
     "frequency": [
         {
-            "value": 30000000,
+            "value": 25000000,
             "description": ""
         },
         {
-            "value": 800000000,
+            "value": 54000000,
+            "description": ""
+        },
+        {
+            "value": 137000000,
+            "description": ""
+        },
+        {
+            "value": 174000000,
+            "description": ""
+        },
+        {
+            "value": 407000000,
+            "description": ""
+        },
+        {
+            "value": 417000000,
+            "description": ""
+        },
+        {
+            "value": 430000000,
+            "description": ""
+        },
+        {
+            "value": 470000000,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 5000,
+            "value": 12500,
+            "description": ""
+        },
+        {
+            "value": 25000,
             "description": ""
         }
     ],
     "acf": [],
     "modulation": [
         {
-            "value": "MFSK",
+            "value": "FFSK",
             "description": ""
         }
     ],

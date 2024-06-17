@@ -1,28 +1,57 @@
 {
     "signal": {
-        "name": "High Power Auroral Stimulation (HIPAS)",
-        "url": "https://www.sigidwiki.com/wiki/High_Power_Auroral_Stimulation_(HIPAS)"
+        "name": "High Frequency Data and Voice Link (HFDVL)",
+        "url": "https://www.sigidwiki.com/wiki/High_Frequency_Data_and_Voice_Link_(HFDVL)"
     },
     "category": [
-        "Radar"
+        "Digital",
+        "Military"
     ],
     "frequency": [
         {
-            "value": 2850000,
+            "value": 14828500,
             "description": ""
         },
         {
-            "value": 4530000,
+            "value": 14350000,
             "description": ""
         }
     ],
-    "bandwidth": [],
-    "acf": [],
-    "modulation": [],
-    "mode": [],
+    "bandwidth": [
+        {
+            "value": 3000,
+            "description": ""
+        }
+    ],
+    "acf": [
+        {
+            "value": 100.0,
+            "description": "Main"
+        }
+    ],
+    "modulation": [
+        {
+            "value": "PSK",
+            "description": ""
+        },
+        {
+            "value": "OFDM",
+            "description": ""
+        },
+        {
+            "value": "QAM",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
     "location": [
         {
-            "value": "United States",
+            "value": "Spain",
             "description": ""
         }
     ]

@@ -1,1 +1,1 @@
-The Marconi Selenia 25-Tone Modem is a military modem developed sometime around 2003 by Marconi Selenia Communications (Now Finmeccanica). It supports ECCM capability and transmits at a datarate of 2400bps.
+MT63 is a Orthogonal Frequency Division Multiplexed (OFDM) digital data mode aimed for use in high noise environments.

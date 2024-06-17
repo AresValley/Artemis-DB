@@ -1,1 +1,1 @@
-SP-14 (XP) was a 14 tone MFSK mode with origins from the Russian Intelligence and Foreign Ministry. Also known as NUM-13. Inactive since 2005, superseded by XPA.
+SNOTEL stations are a set of precipitation and other sensors spread across the mountains of the United States by the Department of Agriculture through the National Resources Conservation Service.

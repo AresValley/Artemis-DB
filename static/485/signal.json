@@ -1,57 +1,45 @@
 {
     "signal": {
-        "name": "VARA HF",
-        "url": "https://www.sigidwiki.com/wiki/VARA_HF"
+        "name": "Ultra Low Latency (ULL) Electronic Trading Network",
+        "url": "https://www.sigidwiki.com/wiki/Ultra_Low_Latency_(ULL)_Electronic_Trading_Network"
     },
-    "category": [
-        "Amateur Radio",
-        "Utility",
-        "Digital"
-    ],
+    "category": [],
     "frequency": [
         {
-            "value": 54000000,
+            "value": 6000000,
             "description": ""
         },
         {
-            "value": 1800000,
+            "value": 20000000,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 2750,
+            "value": 60000,
+            "description": ""
+        },
+        {
+            "value": 30000,
             "description": ""
         }
     ],
     "acf": [],
     "modulation": [
         {
-            "value": "FSK",
-            "description": ""
-        },
-        {
-            "value": "BPSK",
-            "description": ""
-        },
-        {
-            "value": "4-8PSK",
-            "description": ""
-        },
-        {
-            "value": "16-32QAM",
+            "value": "OQPSK",
             "description": ""
         }
     ],
     "mode": [
         {
-            "value": "USB",
+            "value": "RAW",
             "description": ""
         }
     ],
     "location": [
         {
-            "value": "Worldwide",
+            "value": "United States",
             "description": ""
         }
     ]

@@ -1,1 +1,1 @@
-JTMS is a meteor scatter mode that uses MSK. JTMS behaves similarily to FSK441.
+JT9 is a very narrow 9-FSK mode for making contact (QSO's) under extreme weak-signal conditions.

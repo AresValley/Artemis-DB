@@ -1,52 +1,27 @@
 {
     "signal": {
-        "name": "THOR",
-        "url": "https://www.sigidwiki.com/wiki/THOR"
+        "name": "TDF",
+        "url": "https://www.sigidwiki.com/wiki/TDF"
     },
     "category": [
-        "Amateur Radio",
-        "Digital"
+        "Time"
     ],
     "frequency": [
         {
-            "value": 3000000,
-            "description": ""
-        },
-        {
-            "value": 30000000,
+            "value": 162000,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 173,
-            "description": ""
-        },
-        {
-            "value": 244,
-            "description": ""
-        },
-        {
-            "value": 346,
-            "description": ""
-        },
-        {
-            "value": 262,
-            "description": ""
-        },
-        {
-            "value": 355,
-            "description": ""
-        },
-        {
-            "value": 524,
+            "value": 1,
             "description": ""
         }
     ],
     "acf": [],
     "modulation": [
         {
-            "value": "IFK",
+            "value": "PSK",
             "description": ""
         }
     ],
@@ -58,7 +33,7 @@
     ],
     "location": [
         {
-            "value": "Worldwide",
+            "value": "France",
             "description": ""
         }
     ]

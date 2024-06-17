@@ -1,41 +1,49 @@
 {
     "signal": {
-        "name": "Pager SSTV",
-        "url": "https://www.sigidwiki.com/wiki/Pager_SSTV"
+        "name": "PSK2K",
+        "url": "https://www.sigidwiki.com/wiki/PSK2K"
     },
-    "category": [],
+    "category": [
+        "Digital",
+        "Amateur Radio"
+    ],
     "frequency": [
         {
-            "value": 152,
+            "value": 50360000,
             "description": ""
         },
         {
-            "value": 450,
+            "value": 144360000,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 12500,
+            "value": 2000,
             "description": ""
         }
     ],
-    "acf": [],
+    "acf": [
+        {
+            "value": 129.0,
+            "description": "Main"
+        }
+    ],
     "modulation": [
         {
-            "value": "FSK",
+            "value": "PSK",
             "description": ""
         }
     ],
     "mode": [
         {
-            "value": "NFM",
+            "value": "USB",
             "description": ""
         }
     ],
     "location": [
         {
-            "value": "United States",
+            "value": "Worldwide",
             "description": ""
         }
     ]

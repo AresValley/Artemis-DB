@@ -1,1 +1,1 @@
-Relocatable Over-the-Horizon Radar (ROTHR), also known as AN/TPS-71, is an OTH Radar used by the United States Navy that uses bistatic ionospheric backscattering for wide area surveillance.
+RDFT is an amateur radio digital mode used to transmit files.

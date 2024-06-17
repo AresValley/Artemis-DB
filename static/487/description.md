@@ -1,1 +1,1 @@
-Two-way 100 Bd/500 Hz Russian Telegraph system, attributed name VEZHA-C (Tower-S), usage claimed to be by Russian Ministry of Communications (MinComSvyaz Rossii). Possible usage in meteorology under callsign RWD59.
+VDEW is a 5-tone selcall mode defined by the Vereinigung Deutscher Elektrizitaetswerke in Germany.

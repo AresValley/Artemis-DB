@@ -1,41 +1,36 @@
 {
     "signal": {
-        "name": "Vaisala RS92-SGP Weather Balloon (Radiosonde)",
-        "url": "https://www.sigidwiki.com/wiki/Vaisala_RS92-SGP_Weather_Balloon_(Radiosonde)"
+        "name": "Vaisala RS92-KL Weather Balloon (Radiosonde)",
+        "url": "https://www.sigidwiki.com/wiki/Vaisala_RS92-KL_Weather_Balloon_(Radiosonde)"
     },
     "category": [
-        "Utility",
-        "Digital"
+        "Analogue",
+        "Utility"
     ],
     "frequency": [
         {
-            "value": 400150000,
+            "value": 400000000,
             "description": ""
         },
         {
-            "value": 405990000,
+            "value": 403000000,
+            "description": ""
+        },
+        {
+            "value": 406000000,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 10000,
+            "value": 200000,
             "description": ""
         }
     ],
-    "acf": [
-        {
-            "value": 1000.0,
-            "description": "Frame"
-        },
-        {
-            "value": 4.166,
-            "description": "Word"
-        }
-    ],
+    "acf": [],
     "modulation": [
         {
-            "value": "GFSK",
+            "value": "MFSK",
             "description": ""
         }
     ],

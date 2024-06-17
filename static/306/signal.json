@@ -1,45 +1,27 @@
 {
     "signal": {
-        "name": "MSK144",
-        "url": "https://www.sigidwiki.com/wiki/MSK144"
+        "name": "MRZ-N1 Weather Balloon (radiosonde)",
+        "url": "https://www.sigidwiki.com/wiki/MRZ-N1_Weather_Balloon_(radiosonde)"
     },
     "category": [
-        "Amateur Radio",
         "Digital"
     ],
     "frequency": [
         {
-            "value": 144000000,
-            "description": ""
-        },
-        {
-            "value": 440000000,
-            "description": ""
-        },
-        {
-            "value": 50000000,
-            "description": ""
-        },
-        {
-            "value": 70000000,
+            "value": 403000000,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 2500,
+            "value": 5000,
             "description": ""
         }
     ],
-    "acf": [
-        {
-            "value": 72.0,
-            "description": "Main"
-        }
-    ],
+    "acf": [],
     "modulation": [
         {
-            "value": "MSK",
+            "value": "FSK",
             "description": ""
         }
     ],
@@ -51,7 +33,7 @@
     ],
     "location": [
         {
-            "value": "Worldwide",
+            "value": "Russia",
             "description": ""
         }
     ]

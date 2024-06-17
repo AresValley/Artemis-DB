@@ -1,1 +1,1 @@
-This is the proprietary HF Data Signal Protocol for the Rohde & Schwarz HF Modem GM2100.
+Golay-Teleprinting Over Radio (G-TOR) is an FSK proprietary standard developed by Kantronics Inc. and is used by radio amateurs, military (Irish Air Corps/Navy, Mexican army) and governmental agencies (ICRC).

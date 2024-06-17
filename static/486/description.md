@@ -1,1 +1,1 @@
-VDEW is a 5-tone selcall mode defined by the Vereinigung Deutscher Elektrizitaetswerke in Germany.
+VARA HF is a sound-card mode used to exchange traffic (Mostly Winlink traffic) on the HF bands

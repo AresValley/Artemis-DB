@@ -1,26 +1,15 @@
 {
     "signal": {
-        "name": "Kiwi",
-        "url": "https://www.sigidwiki.com/wiki/Kiwi"
+        "name": "Kia SVI-JFRGE04 Key Fob",
+        "url": "https://www.sigidwiki.com/wiki/Kia_SVI-JFRGE04_Key_Fob"
     },
     "category": [
-        "Amateur Radio",
-        "Utility",
-        "Digital"
+        "Utility"
     ],
-    "frequency": [
-        {
-            "value": 137950000,
-            "description": ""
-        },
-        {
-            "value": 138500000,
-            "description": ""
-        }
-    ],
+    "frequency": [],
     "bandwidth": [
         {
-            "value": 12500,
+            "value": 55000,
             "description": ""
         }
     ],
@@ -39,7 +28,7 @@
     ],
     "location": [
         {
-            "value": "France",
+            "value": "Worldwide",
             "description": ""
         }
     ]

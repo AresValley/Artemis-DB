@@ -1,76 +1,48 @@
 {
     "signal": {
-        "name": "Cuban Jammer",
-        "url": "https://www.sigidwiki.com/wiki/Cuban_Jammer"
+        "name": "Coquelet",
+        "url": "https://www.sigidwiki.com/wiki/Coquelet"
     },
-    "category": [],
+    "category": [
+        "Military",
+        "Digital"
+    ],
     "frequency": [
         {
-            "value": 7335000,
+            "value": 3000000,
             "description": ""
         },
         {
-            "value": 7355000,
-            "description": ""
-        },
-        {
-            "value": 7375000,
-            "description": ""
-        },
-        {
-            "value": 7435000,
-            "description": ""
-        },
-        {
-            "value": 9490000,
-            "description": ""
-        },
-        {
-            "value": 9565000,
-            "description": ""
-        },
-        {
-            "value": 9955000,
-            "description": ""
-        },
-        {
-            "value": 11860000,
-            "description": ""
-        },
-        {
-            "value": 11930000,
-            "description": ""
-        },
-        {
-            "value": 13820000,
-            "description": ""
-        },
-        {
-            "value": 5980000,
-            "description": ""
-        },
-        {
-            "value": 6030000,
+            "value": 30000000,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 10000,
+            "value": 300,
+            "description": ""
+        },
+        {
+            "value": 500,
             "description": ""
         }
     ],
     "acf": [],
-    "modulation": [],
+    "modulation": [
+        {
+            "value": "MFSK",
+            "description": ""
+        }
+    ],
     "mode": [
         {
-            "value": "DSB",
+            "value": "USB",
             "description": ""
         }
     ],
     "location": [
         {
-            "value": "Cuba",
+            "value": "Worldwide",
             "description": ""
         }
     ]

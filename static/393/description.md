@@ -1,1 +1,1 @@
-ROS is an amateur radio teletype free running QSO mode designed for low signal/high noise conditions.
+Radio-frequency identification (RFID) uses electromagnetic fields to automatically identify and track tags attached to objects. The tags contain electronically-stored information. Passive tags collect energy from a nearby RFID reader's interrogating radio waves.

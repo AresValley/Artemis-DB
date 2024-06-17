@@ -1,7 +1,7 @@
 {
     "signal": {
-        "name": "FT4",
-        "url": "https://www.sigidwiki.com/wiki/FT4"
+        "name": "FST4W",
+        "url": "https://www.sigidwiki.com/wiki/FST4W"
     },
     "category": [
         "Amateur Radio",
@@ -9,56 +9,23 @@
     ],
     "frequency": [
         {
-            "value": 14080000,
+            "value": 136000,
             "description": ""
         },
         {
-            "value": 3575000,
+            "value": 474200,
             "description": ""
         },
         {
-            "value": 7047500,
-            "description": ""
-        },
-        {
-            "value": 10140,
-            "description": ""
-        },
-        {
-            "value": 18104000,
-            "description": ""
-        },
-        {
-            "value": 21140000,
-            "description": ""
-        },
-        {
-            "value": 24919000,
-            "description": ""
-        },
-        {
-            "value": 28180000,
-            "description": ""
-        },
-        {
-            "value": 50318000,
-            "description": ""
-        },
-        {
-            "value": 144170000,
+            "value": 1839000,
             "description": ""
         }
     ],
-    "bandwidth": [
-        {
-            "value": 83,
-            "description": ""
-        }
-    ],
+    "bandwidth": [],
     "acf": [],
     "modulation": [
         {
-            "value": "GFSK",
+            "value": "4-GFSK",
             "description": ""
         }
     ],

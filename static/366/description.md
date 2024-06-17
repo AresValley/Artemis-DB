@@ -1,1 +1,1 @@
-PRC-16 is a Chinese sourced PSK data link, traced to Shanghai. Suspected user Chinese Military.
+POL-ARQ was a duplex ARQ system used by Polish and Italian diplomatic services. This system uses the CCIR 476-4 alphabet with polatiry retained. No longer in use.

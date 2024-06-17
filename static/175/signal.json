@@ -1,25 +1,41 @@
 {
     "signal": {
-        "name": "FM NBTV",
-        "url": "https://www.sigidwiki.com/wiki/FM_NBTV"
+        "name": "FM Broadcast Radio",
+        "url": "https://www.sigidwiki.com/wiki/FM_Broadcast_Radio"
     },
     "category": [
-        "Amateur Radio",
+        "Commercial",
         "Analogue"
     ],
     "frequency": [
         {
-            "value": 3000000,
+            "value": 65000000,
             "description": ""
         },
         {
-            "value": 470000000,
+            "value": 108000000,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 2300,
+            "value": 38000,
+            "description": ""
+        },
+        {
+            "value": 108000,
+            "description": ""
+        },
+        {
+            "value": 118000,
+            "description": ""
+        },
+        {
+            "value": 184000,
+            "description": ""
+        },
+        {
+            "value": 200000,
             "description": ""
         }
     ],
@@ -28,19 +44,11 @@
         {
             "value": "FM",
             "description": ""
-        },
-        {
-            "value": "BPSK",
-            "description": ""
         }
     ],
     "mode": [
         {
-            "value": "SSB",
-            "description": ""
-        },
-        {
-            "value": "FM",
+            "value": "WFM",
             "description": ""
         }
     ],

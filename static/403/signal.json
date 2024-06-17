@@ -1,51 +1,120 @@
 {
     "signal": {
-        "name": "Radioteknicheskaya Systema Dalyoloiy Navigatsii (RSDN-20)",
-        "url": "https://www.sigidwiki.com/wiki/Radioteknicheskaya_Systema_Dalyoloiy_Navigatsii_(RSDN-20)"
+        "name": "Radio Teletype (RTTY)",
+        "url": "https://www.sigidwiki.com/wiki/Radio_Teletype_(RTTY)"
     },
     "category": [
-        "Navigation",
-        "Military"
+        "Amateur Radio",
+        "Digital"
     ],
     "frequency": [
         {
-            "value": 11910,
+            "value": 147300,
             "description": ""
         },
         {
-            "value": 12090,
+            "value": 3570000,
             "description": ""
         },
         {
-            "value": 12650,
+            "value": 4583000,
             "description": ""
         },
         {
-            "value": 14880,
+            "value": 5330500,
             "description": ""
         },
         {
-            "value": 12040,
+            "value": 5346500,
+            "description": ""
+        },
+        {
+            "value": 5357000,
+            "description": ""
+        },
+        {
+            "value": 5371500,
+            "description": ""
+        },
+        {
+            "value": 5403500,
+            "description": ""
+        },
+        {
+            "value": 7040000,
+            "description": ""
+        },
+        {
+            "value": 7080000,
+            "description": ""
+        },
+        {
+            "value": 7125000,
+            "description": ""
+        },
+        {
+            "value": 7646000,
+            "description": ""
+        },
+        {
+            "value": 11039000,
+            "description": ""
+        },
+        {
+            "value": 14070000,
+            "description": ""
+        },
+        {
+            "value": 14467300,
+            "description": ""
+        },
+        {
+            "value": 28150000,
+            "description": ""
+        },
+        {
+            "value": 10100800,
+            "description": ""
+        },
+        {
+            "value": 10130000,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 20,
+            "value": 85,
+            "description": ""
+        },
+        {
+            "value": 170,
+            "description": ""
+        },
+        {
+            "value": 450,
+            "description": ""
+        },
+        {
+            "value": 850,
             "description": ""
         }
     ],
     "acf": [],
-    "modulation": [],
+    "modulation": [
+        {
+            "value": "FSK",
+            "description": ""
+        }
+    ],
     "mode": [
         {
-            "value": "CW",
+            "value": "USB",
             "description": ""
         }
     ],
     "location": [
         {
-            "value": "Russia",
+            "value": "Worldwide",
             "description": ""
         }
     ]

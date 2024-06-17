@@ -1,1 +1,1 @@
-HDMI is a popular media source for delivering video, audio, all in the same stream. Unfortunately, there is massive interference from it when a neighboring SDR is near it. It can disrupt receiving to a great degree.
+HD Radio is a proprietary digital broadcast radio format transmitted in North America, usually as sidebands on analog carriers. This is the FM band implementation of HD Radio.

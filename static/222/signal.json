@@ -1,44 +1,52 @@
 {
     "signal": {
-        "name": "High Frequency Data Link (HFDL)",
-        "url": "https://www.sigidwiki.com/wiki/High_Frequency_Data_Link_(HFDL)"
+        "name": "High Frequency Active Auroral Research Program (HAARP)",
+        "url": "https://www.sigidwiki.com/wiki/High_Frequency_Active_Auroral_Research_Program_(HAARP)"
     },
     "category": [
-        "Aviation",
-        "Digital"
+        "Radar",
+        "Military"
     ],
     "frequency": [
         {
-            "value": 2900000,
+            "value": 10000000,
             "description": ""
         },
         {
-            "value": 22000000,
+            "value": 2700000,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 2400,
+            "value": 100000,
             "description": ""
         }
     ],
     "acf": [],
     "modulation": [
         {
-            "value": "PSK",
+            "value": "CW",
+            "description": ""
+        },
+        {
+            "value": "FMCW",
             "description": ""
         }
     ],
     "mode": [
         {
-            "value": "USB",
+            "value": "AM",
+            "description": ""
+        },
+        {
+            "value": "CW",
             "description": ""
         }
     ],
     "location": [
         {
-            "value": "Worldwide",
+            "value": "United States",
             "description": ""
         }
     ]

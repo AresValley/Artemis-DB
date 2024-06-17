@@ -1,1 +1,1 @@
-EDACS is a trunked radio system developed by General Electric and Ericsson. EDACS was invented by General Electric in the mid-80s and is currently owned by Harris Corporation. Harris has announced that EDACS systems will no longer be supported by 2017.
+Transmits train telemetry such as brake status and accidental seperation information to the head locomotive.

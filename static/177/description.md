@@ -1,1 +1,1 @@
-Fast Simple QSO (FSQ) is an amateur radio digital modulation mode developed by Con Wassilieff ZL2AFP with Murray Greenman ZL1BPU in 2015.
+FSK441 is a high speed meteor scatter communication mode. FSK441 uses a baud rate of 441 Bd.

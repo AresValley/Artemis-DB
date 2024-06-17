@@ -1,44 +1,43 @@
 {
     "signal": {
-        "name": "HD Radio (AM)",
-        "url": "https://www.sigidwiki.com/wiki/HD_Radio_(AM)"
+        "name": "HC-ARQ",
+        "url": "https://www.sigidwiki.com/wiki/HC-ARQ"
     },
     "category": [
-        "Commercial",
         "Digital"
     ],
     "frequency": [
         {
-            "value": 535000,
+            "value": 3000000,
             "description": ""
         },
         {
-            "value": 1700000,
+            "value": 30000000,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 30000,
+            "value": 300,
             "description": ""
         }
     ],
     "acf": [],
     "modulation": [
         {
-            "value": "OFDM",
+            "value": "FSK",
             "description": ""
         }
     ],
     "mode": [
         {
-            "value": "RAW",
+            "value": "USB",
             "description": ""
         }
     ],
     "location": [
         {
-            "value": "United States",
+            "value": "Worldwide",
             "description": ""
         }
     ]

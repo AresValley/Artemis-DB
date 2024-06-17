@@ -1,55 +1,26 @@
 {
     "signal": {
-        "name": "Codan Data Modem",
-        "url": "https://www.sigidwiki.com/wiki/Codan_Data_Modem"
+        "name": "Cobra Dane",
+        "url": "https://www.sigidwiki.com/wiki/Cobra_Dane"
     },
-    "category": [
-        "Digital"
-    ],
+    "category": [],
     "frequency": [
         {
-            "value": 3000000,
+            "value": 1215000000,
             "description": ""
         },
         {
-            "value": 30000000,
+            "value": 1400000000,
             "description": ""
         }
     ],
-    "bandwidth": [
-        {
-            "value": 1800,
-            "description": ""
-        },
-        {
-            "value": 2560,
-            "description": ""
-        },
-        {
-            "value": 400,
-            "description": ""
-        }
-    ],
+    "bandwidth": [],
     "acf": [],
-    "modulation": [
-        {
-            "value": "PSK",
-            "description": ""
-        },
-        {
-            "value": "FSK",
-            "description": ""
-        }
-    ],
-    "mode": [
-        {
-            "value": "USB",
-            "description": ""
-        }
-    ],
+    "modulation": [],
+    "mode": [],
     "location": [
         {
-            "value": "Worldwide",
+            "value": "United States",
             "description": ""
         }
     ]

@@ -1,41 +1,44 @@
 {
     "signal": {
-        "name": "QO-100-modem",
-        "url": "https://www.sigidwiki.com/wiki/QO-100-modem"
+        "name": "Q15X25",
+        "url": "https://www.sigidwiki.com/wiki/Q15X25"
     },
     "category": [
         "Amateur Radio",
-        "Digital",
-        "Satellite"
+        "Digital"
     ],
     "frequency": [
         {
-            "value": 10489500000,
+            "value": 3585000,
             "description": ""
         },
         {
-            "value": 10490000000,
+            "value": 7035000,
+            "description": ""
+        },
+        {
+            "value": 14109000,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 2700,
+            "value": 1950,
+            "description": ""
+        },
+        {
+            "value": 2350,
             "description": ""
         }
     ],
     "acf": [],
     "modulation": [
         {
-            "value": "QPSK",
+            "value": "PSK",
             "description": ""
         },
         {
-            "value": "BPSK",
-            "description": ""
-        },
-        {
-            "value": "APSK",
+            "value": "OFDM",
             "description": ""
         }
     ],
@@ -45,5 +48,10 @@
             "description": ""
         }
     ],
-    "location": []
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
 }

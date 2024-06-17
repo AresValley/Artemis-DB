@@ -1,1 +1,1 @@
-GSM (Global System for Mobile Communications) is a standard developed by ETSI to describe the protocols for second-generation (2G) digital cellular networks used by mobile phones. As of 2014, it has become the default global standard for mobile communications.
+GPS is the USA's global navigation satellite system which provides precision position, navigation, and timing services to devices around the globe.

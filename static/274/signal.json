@@ -1,7 +1,7 @@
 {
     "signal": {
-        "name": "LTE-M",
-        "url": "https://www.sigidwiki.com/wiki/LTE-M"
+        "name": "LTE Uplink",
+        "url": "https://www.sigidwiki.com/wiki/LTE_Uplink"
     },
     "category": [
         "Commercial",
@@ -9,34 +9,42 @@
     ],
     "frequency": [
         {
-            "value": 412500000,
+            "value": 700000000,
             "description": ""
         },
         {
-            "value": 2690000000,
+            "value": 800000000,
+            "description": ""
+        },
+        {
+            "value": 1800000000,
+            "description": ""
+        },
+        {
+            "value": 2300000000,
+            "description": ""
+        },
+        {
+            "value": 2600000000,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 1080000,
+            "value": 5000000,
             "description": ""
         }
     ],
     "acf": [],
     "modulation": [
         {
-            "value": "OFDMA",
-            "description": ""
-        },
-        {
-            "value": "16-QAM",
+            "value": "QPSK",
             "description": ""
         }
     ],
     "mode": [
         {
-            "value": "AM",
+            "value": "SC-FDMA",
             "description": ""
         }
     ],

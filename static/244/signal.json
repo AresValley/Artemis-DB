@@ -1,49 +1,35 @@
 {
     "signal": {
-        "name": "Inmarsat-C TDM",
-        "url": "https://www.sigidwiki.com/wiki/Inmarsat-C_TDM"
+        "name": "Inmarsat IsatM2M",
+        "url": "https://www.sigidwiki.com/wiki/Inmarsat_IsatM2M"
     },
     "category": [
+        "Satellite",
+        "Commercial",
+        "Digital",
         "Marine",
-        "Satellite"
+        "Utility"
     ],
     "frequency": [
         {
-            "value": 1537700000,
+            "value": 1525000000,
             "description": ""
         },
         {
-            "value": 1539585000,
-            "description": ""
-        },
-        {
-            "value": 1539685000,
-            "description": ""
-        },
-        {
-            "value": 1539525000,
-            "description": ""
-        },
-        {
-            "value": 1539555000,
+            "value": 1559000000,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 2500,
+            "value": 1024,
             "description": ""
         }
     ],
-    "acf": [
-        {
-            "value": 135.0,
-            "description": "Main"
-        }
-    ],
+    "acf": [],
     "modulation": [
         {
-            "value": "PSK",
+            "value": "MFSK",
             "description": ""
         }
     ],

@@ -1,1 +1,1 @@
-Coherent CW (also known as CCW) was a strictly timed morse code mode designed by Ray Petit W7GHM (The same inventor of CLOVER). CCW depended on accurate timing from both receiver and transmitter.
+Coherent BPSK, also known as C-BPSK, was an experimental amateur mode developed by Bill DeCarle VE2IQ.

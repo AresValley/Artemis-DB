@@ -1,40 +1,30 @@
 {
     "signal": {
-        "name": "Tire Pressure Monitoring System (TPMS)",
-        "url": "https://www.sigidwiki.com/wiki/Tire_Pressure_Monitoring_System_(TPMS)"
+        "name": "The Pip",
+        "url": "https://www.sigidwiki.com/wiki/The_Pip"
     },
     "category": [
-        "Utility"
+        "Military",
+        "Numbers Stations"
     ],
     "frequency": [
         {
-            "value": 315000000,
+            "value": 5448000,
             "description": ""
         },
         {
-            "value": 434000000,
+            "value": 3756000,
             "description": ""
         }
     ],
-    "bandwidth": [
-        {
-            "value": 100000,
-            "description": ""
-        }
-    ],
-    "acf": [
-        {
-            "value": 7.433,
-            "description": "Main"
-        }
-    ],
-    "modulation": [
-        {
-            "value": "FSK",
-            "description": ""
-        }
-    ],
+    "bandwidth": [],
+    "acf": [],
+    "modulation": [],
     "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        },
         {
             "value": "AM",
             "description": ""
@@ -42,7 +32,7 @@
     ],
     "location": [
         {
-            "value": "Worldwide",
+            "value": "Russia",
             "description": ""
         }
     ]

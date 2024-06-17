@@ -1,15 +1,15 @@
 {
     "signal": {
-        "name": "SAS2",
-        "url": "https://www.sigidwiki.com/wiki/SAS2"
+        "name": "SAS/SRC",
+        "url": "https://www.sigidwiki.com/wiki/SAS/SRC"
     },
     "category": [
-        "Marine",
-        "Military"
+        "Military",
+        "Marine"
     ],
     "frequency": [
         {
-            "value": 42500,
+            "value": 40400,
             "description": ""
         }
     ],

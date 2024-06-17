@@ -1,41 +1,43 @@
 {
     "signal": {
-        "name": "OrbComm Mobile Telephony",
-        "url": "https://www.sigidwiki.com/wiki/OrbComm_Mobile_Telephony"
+        "name": "OpenSky",
+        "url": "https://www.sigidwiki.com/wiki/OpenSky"
     },
     "category": [
-        "Satellite"
+        "Digital",
+        "Trunked Radio"
     ],
     "frequency": [
         {
-            "value": 137440000,
+            "value": 700000000,
             "description": ""
         },
         {
-            "value": 137460000,
+            "value": 800000000,
             "description": ""
         },
         {
-            "value": 137200000,
+            "value": 1000000000,
             "description": ""
         },
         {
-            "value": 137225000,
-            "description": ""
-        },
-        {
-            "value": 137250000,
+            "value": 900000000,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 15000,
+            "value": 20070,
             "description": ""
         }
     ],
     "acf": [],
-    "modulation": [],
+    "modulation": [
+        {
+            "value": "TDMA",
+            "description": ""
+        }
+    ],
     "mode": [
         {
             "value": "NFM",

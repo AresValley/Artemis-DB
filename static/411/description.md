@@ -1,1 +1,1 @@
-Over The Horizon radar with a very similar signal structure as Ghadir. Operating in west Russia.
+One-way error-correcting broadcast system, used by one of Russian intelligence agencies for delivery of messages to their operatives abroad on fixed schedules.

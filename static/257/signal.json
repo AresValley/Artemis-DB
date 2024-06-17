@@ -1,31 +1,36 @@
 {
     "signal": {
-        "name": "JJY",
-        "url": "https://www.sigidwiki.com/wiki/JJY"
+        "name": "Israeli VFT",
+        "url": "https://www.sigidwiki.com/wiki/Israeli_VFT"
     },
     "category": [
-        "Time"
+        "Digital",
+        "Military"
     ],
     "frequency": [
         {
-            "value": 40000,
+            "value": 3000000,
             "description": ""
         },
         {
-            "value": 60000,
+            "value": 30000000,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 1,
+            "value": 3100,
             "description": ""
         }
     ],
     "acf": [],
     "modulation": [
         {
-            "value": "AM",
+            "value": "FSK",
+            "description": ""
+        },
+        {
+            "value": "PSK",
             "description": ""
         }
     ],
@@ -37,7 +42,7 @@
     ],
     "location": [
         {
-            "value": "Japan",
+            "value": "Israel",
             "description": ""
         }
     ]

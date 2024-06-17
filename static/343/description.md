@@ -1,1 +1,1 @@
-A Non-Directional Beacon (NDB) is a ground-based, low frequency radio transmitter used as an instrument approach for airports and offshore platforms.
+The Nokia Adaptive Message Terminal, also known as Nokia Adaptive Burst Modem and Kryapp 302, is a Finnish encrypted messaging system suggested to be used by Finnish Intelligence Services and Swedish Military.

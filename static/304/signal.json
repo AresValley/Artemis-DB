@@ -1,27 +1,25 @@
 {
     "signal": {
-        "name": "MRZ-3MK Weather Balloon (radiosonde)",
-        "url": "https://www.sigidwiki.com/wiki/MRZ-3MK_Weather_Balloon_(radiosonde)"
+        "name": "MPT1394 Keyfob",
+        "url": "https://www.sigidwiki.com/wiki/MPT1394_Keyfob"
     },
-    "category": [
-        "Digital"
-    ],
+    "category": [],
     "frequency": [
         {
-            "value": 1680000000,
+            "value": 433920000,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 6000000,
+            "value": 10300,
             "description": ""
         }
     ],
     "acf": [],
     "modulation": [
         {
-            "value": "PFM",
+            "value": "ASK",
             "description": ""
         }
     ],
@@ -33,7 +31,15 @@
     ],
     "location": [
         {
-            "value": "Russia",
+            "value": "Europe",
+            "description": ""
+        },
+        {
+            "value": "Japan",
+            "description": ""
+        },
+        {
+            "value": "Asia",
             "description": ""
         }
     ]

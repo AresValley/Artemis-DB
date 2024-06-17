@@ -1,63 +1,37 @@
 {
     "signal": {
-        "name": "KG-STV",
-        "url": "https://www.sigidwiki.com/wiki/KG-STV"
+        "name": "John Deere RTK Radio 450",
+        "url": "https://www.sigidwiki.com/wiki/John_Deere_RTK_Radio_450"
     },
     "category": [
-        "Amateur Radio",
-        "Digital"
+        "Navigation"
     ],
     "frequency": [
         {
-            "value": 3733000,
+            "value": 435000000,
             "description": ""
         },
         {
-            "value": 7173000,
-            "description": ""
-        },
-        {
-            "value": 10489625000,
-            "description": ""
-        },
-        {
-            "value": 14233000,
+            "value": 470000000,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 500,
-            "description": ""
-        },
-        {
-            "value": 2500,
+            "value": 7490,
             "description": ""
         }
     ],
-    "acf": [
-        {
-            "value": 0,
-            "description": "Header: variable"
-        },
-        {
-            "value": 142.5,
-            "description": "Trailer"
-        }
-    ],
+    "acf": [],
     "modulation": [
         {
-            "value": "4FSK",
-            "description": ""
-        },
-        {
-            "value": "MSK",
+            "value": "FSK",
             "description": ""
         }
     ],
     "mode": [
         {
-            "value": "USB",
+            "value": "FM",
             "description": ""
         }
     ],

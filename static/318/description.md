@@ -1,1 +1,1 @@
-CW Morse Code is the simplest form of transmission found virtually all over the RF bands for a variety of uses. The most common use of this is for Call-sign Beacons by both Amateur and Military operators.
+The Modernised High Frequency Communications System (MHFCS) is an Australian Department of Defense HF System for their military communications network. Also known as AUS MIL ISB Modem, AUS MHFCS, and ADF HFCS.

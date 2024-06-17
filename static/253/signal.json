@@ -1,27 +1,41 @@
 {
     "signal": {
-        "name": "IsatData Pro",
-        "url": "https://www.sigidwiki.com/wiki/IsatData_Pro"
+        "name": "Iridium",
+        "url": "https://www.sigidwiki.com/wiki/Iridium"
     },
     "category": [
-        "Commercial",
-        "Digital",
-        "Satellite"
+        "Satellite",
+        "Commercial"
     ],
     "frequency": [
         {
-            "value": 1525000000,
+            "value": 1616000000,
             "description": ""
         },
         {
-            "value": 1559000000,
+            "value": 1626500000,
             "description": ""
         }
     ],
-    "bandwidth": [],
+    "bandwidth": [
+        {
+            "value": 31500,
+            "description": ""
+        }
+    ],
     "acf": [],
-    "modulation": [],
-    "mode": [],
+    "modulation": [
+        {
+            "value": "PSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "RAW",
+            "description": ""
+        }
+    ],
     "location": [
         {
             "value": "Worldwide",

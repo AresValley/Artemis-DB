@@ -1,1 +1,1 @@
-Analog Distress Radiobeacons are simple siren-based transmitters that were installed in older EPIRB's, PLB's and ELT's. Currently used as a supplementary homing signal in modern digital radiobeacons.
+DisplayPort is a digital standard used to carry video and audio data to computer monitors. It emits RF interference in the 300-400 MHz range when in use.

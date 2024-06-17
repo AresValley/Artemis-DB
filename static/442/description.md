@@ -1,1 +1,1 @@
-CHX200, also known as Siemens CHP200 and PRC-921/GY, is a backpack HF ECCOM transceiver, designed and built by Siemens.
+Radio signal used by MRI machines to excite protons and obtain their response.

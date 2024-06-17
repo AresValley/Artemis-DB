@@ -1,50 +1,33 @@
 {
     "signal": {
-        "name": "Integrated Digital Enhanced Network (iDEN)",
-        "url": "https://www.sigidwiki.com/wiki/Integrated_Digital_Enhanced_Network_(iDEN)"
+        "name": "Instrument Landing System",
+        "url": "https://www.sigidwiki.com/wiki/Instrument_Landing_System"
     },
     "category": [
-        "Trunked Radio",
-        "Digital"
+        "Aviation",
+        "Navigation"
     ],
     "frequency": [
         {
-            "value": 806000000,
+            "value": 108000000,
             "description": ""
         },
         {
-            "value": 824000000,
-            "description": ""
-        },
-        {
-            "value": 851000000,
-            "description": ""
-        },
-        {
-            "value": 869000000,
+            "value": 335000000,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 18500,
+            "value": 15000,
             "description": ""
         }
     ],
     "acf": [],
-    "modulation": [
-        {
-            "value": "QAM",
-            "description": ""
-        },
-        {
-            "value": "TDMA",
-            "description": ""
-        }
-    ],
+    "modulation": [],
     "mode": [
         {
-            "value": "NFM",
+            "value": "AM",
             "description": ""
         }
     ],

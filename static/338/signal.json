@@ -1,35 +1,19 @@
 {
     "signal": {
-        "name": "Near Field Communication (NFC)",
-        "url": "https://www.sigidwiki.com/wiki/Near_Field_Communication_(NFC)"
+        "name": "National Public Alerting System (NPAS)",
+        "url": "https://www.sigidwiki.com/wiki/National_Public_Alerting_System_(NPAS)"
     },
     "category": [
-        "Commercial",
-        "Digital"
+        "Analogue"
     ],
-    "frequency": [
-        {
-            "value": 13560000,
-            "description": ""
-        }
-    ],
-    "bandwidth": [
-        {
-            "value": 1700000,
-            "description": ""
-        }
-    ],
+    "frequency": [],
+    "bandwidth": [],
     "acf": [],
-    "modulation": [
-        {
-            "value": "ASK",
-            "description": ""
-        }
-    ],
+    "modulation": [],
     "mode": [],
     "location": [
         {
-            "value": "Worldwide",
+            "value": "Canada",
             "description": ""
         }
     ]

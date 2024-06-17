@@ -1,16 +1,8 @@
 [
     {
         "file_name": "1",
-        "extension": "png",
-        "name": "sigId Spectrum",
-        "description": "This is the wiki spectrum of the signal from www.sigidwiki.com",
-        "type": "Image",
-        "preview": 1
-    },
-    {
-        "file_name": "1",
-        "extension": "m4a",
-        "name": "sigId Audio",
+        "extension": "ogg",
+        "name": "Main",
         "description": "This is the wiki audio sample of the signal from www.sigidwiki.com",
         "type": "Audio",
         "preview": 1

@@ -1,7 +1,7 @@
 {
     "signal": {
-        "name": "NPM",
-        "url": "https://www.sigidwiki.com/wiki/NPM"
+        "name": "NOV",
+        "url": "https://www.sigidwiki.com/wiki/NOV"
     },
     "category": [
         "Military",
@@ -9,23 +9,13 @@
     ],
     "frequency": [
         {
-            "value": 21400,
+            "value": 26900,
             "description": ""
         }
     ],
-    "bandwidth": [
-        {
-            "value": 300,
-            "description": ""
-        }
-    ],
+    "bandwidth": [],
     "acf": [],
-    "modulation": [
-        {
-            "value": "FSK",
-            "description": ""
-        }
-    ],
+    "modulation": [],
     "mode": [
         {
             "value": "CW",
@@ -34,7 +24,7 @@
     ],
     "location": [
         {
-            "value": "United States",
+            "value": "Worldwide",
             "description": ""
         }
     ]

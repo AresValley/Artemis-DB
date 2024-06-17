@@ -1,1 +1,1 @@
-Datawell Buoy HF Links transmitted by Datawell Marine measurement buoys, measuring ocean conditions, temperature, and wave current.
+DUP-FEC-2 is a further development of the DUP-ARQ system and the system characteristics are very similar. Uses FEC instead of ARQ and runs at either 125 bd or 250 bd.

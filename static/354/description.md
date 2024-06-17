@@ -1,1 +1,1 @@
-Orbcomm digitized mobile satellite-based telephone signal intercepted over Hawaii, preceding NOAA 19 pass.
+OpenSky is an encrypted TDMA protocol that is heavily used but is being phased out by the Pennsylvania State Police. No one other than the intended user has been able to decrypt the signal.

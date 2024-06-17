@@ -1,1 +1,1 @@
-FT4 is an amateur radio contesting communication protocol developed by Joe Taylor (K1JT) and Steve Franke (K9AN) descended from FT8.
+FST4W is an amateur radio digital protocol designed particularly for the LF and MF bands, for quasi-beacon transmissions of WSPR-style messages. FST4W uses 4-GFSK modulation and offers T/R sequence lengths of 120, 300, 900, and 1800 seconds.

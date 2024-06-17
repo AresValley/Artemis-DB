@@ -1,50 +1,54 @@
 {
     "signal": {
-        "name": "PAX",
-        "url": "https://www.sigidwiki.com/wiki/PAX"
+        "name": "PAL Broadcast",
+        "url": "https://www.sigidwiki.com/wiki/PAL_Broadcast"
     },
     "category": [
-        "Amateur Radio",
-        "Digital"
+        "Analogue",
+        "Commercial"
     ],
     "frequency": [
         {
-            "value": 3590000,
+            "value": 47000000,
             "description": ""
         },
         {
-            "value": 7042000,
-            "description": ""
-        },
-        {
-            "value": 10148000,
-            "description": ""
-        },
-        {
-            "value": 14075000,
-            "description": ""
-        },
-        {
-            "value": 144620000,
+            "value": 862000000,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 500,
+            "value": 6000000,
+            "description": ""
+        },
+        {
+            "value": 7000000,
+            "description": ""
+        },
+        {
+            "value": 8000000,
             "description": ""
         }
     ],
     "acf": [],
     "modulation": [
         {
-            "value": "MFSK",
+            "value": "QAM",
+            "description": ""
+        },
+        {
+            "value": "VSB",
+            "description": ""
+        },
+        {
+            "value": "FM",
             "description": ""
         }
     ],
     "mode": [
         {
-            "value": "USB",
+            "value": "RAW",
             "description": ""
         }
     ],

@@ -1,1 +1,1 @@
-SIGFOX is a IoT wireless network system utilizing ETSI's specification for Low Throughput Networks (LTN) and Ultra Narrow-Band (UNB) modulation.
+SI-FEC, also known as FEC-S, FEC 1000 Simplex, and FEC-1000S, was the FEC variant of SI-ARQ, and was only used under extremely poor propagation conditions. SI-FEC was developed by Siemens and was used by Austrian and Indonesian diplomatic services.

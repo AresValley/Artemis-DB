@@ -1,1 +1,1 @@
-Naval Radio Transmitting Facility (NRTF) sends encrypted commands to submerged US naval submarines in the Pacific.
+TACAMO (take charge and move out) is the back up communications system to the US nuclear submarine fleet in case an attack on land based transmitters disables them. A rotating fleet of Navy E6 jets equipped with 200 KW transmitters and two 2½-mile-long trailing wire antennas (TWA) at 35,000 ft altitude to provide 24/7 coverage. Short pings are transmitted every few seconds.

@@ -1,52 +1,47 @@
 {
     "signal": {
-        "name": "FLASH-OFDM",
-        "url": "https://www.sigidwiki.com/wiki/FLASH-OFDM"
+        "name": "FEC-A",
+        "url": "https://www.sigidwiki.com/wiki/FEC-A"
     },
     "category": [
-        "Commercial",
         "Digital"
     ],
     "frequency": [
         {
-            "value": 450000000,
+            "value": 3000000,
+            "description": ""
+        },
+        {
+            "value": 30000000,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 2000000,
+            "value": 100,
+            "description": ""
+        },
+        {
+            "value": 1200,
             "description": ""
         }
     ],
     "acf": [],
     "modulation": [
         {
-            "value": "MC-CDMA",
+            "value": "FSK",
             "description": ""
         }
     ],
     "mode": [
         {
-            "value": "WFM",
+            "value": "USB",
             "description": ""
         }
     ],
     "location": [
         {
-            "value": "Finland",
-            "description": ""
-        },
-        {
-            "value": "Slovakia",
-            "description": ""
-        },
-        {
-            "value": "Germany",
-            "description": ""
-        },
-        {
-            "value": "United States",
+            "value": "Worldwide",
             "description": ""
         }
     ]

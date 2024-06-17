@@ -1,27 +1,48 @@
 {
     "signal": {
-        "name": "Friedland Libra+ 48249SL wireless doorbell",
-        "url": "https://www.sigidwiki.com/wiki/Friedland_Libra%2B_48249SL_wireless_doorbell"
+        "name": "Frequency Division Multiplex Digital Voice (FDMDV)",
+        "url": "https://www.sigidwiki.com/wiki/Frequency_Division_Multiplex_Digital_Voice_(FDMDV)"
     },
-    "category": [],
+    "category": [
+        "Amateur Radio",
+        "Digital"
+    ],
     "frequency": [
         {
-            "value": 868000000,
+            "value": 3000000,
+            "description": ""
+        },
+        {
+            "value": 30000000,
             "description": ""
         }
     ],
-    "bandwidth": [],
+    "bandwidth": [
+        {
+            "value": 1125,
+            "description": ""
+        },
+        {
+            "value": 1300,
+            "description": ""
+        }
+    ],
     "acf": [],
     "modulation": [
         {
-            "value": "FSK",
+            "value": "PSK",
             "description": ""
         }
     ],
-    "mode": [],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
     "location": [
         {
-            "value": "Finland",
+            "value": "Worldwide",
             "description": ""
         }
     ]

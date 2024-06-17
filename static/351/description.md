@@ -1,1 +1,1 @@
-OLIVIA is an amateur digital teletype mode designed by Pawel Jalocha SP9VRC in 2005. Its goal was to be effective even in poor propagation conditions.
+OPERA Ad-Hoc Data/Beacon. The system is unique in that utilizes a serial data stream and Manchester coding, its therefore impossible to lose lock and its extremely robust in disturbed paths and heavy static.

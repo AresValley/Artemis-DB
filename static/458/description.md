@@ -1,1 +1,1 @@
-THOR is an adaptation of DominoEX with MFSK16 binary varicode and FEC.
+TDF is a time signal transmitted on the former carrier of France's France Inter longwave AM radio station on 162 kHz.

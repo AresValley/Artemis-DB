@@ -1,1 +1,1 @@
-POCSAG (Post Office Code Standardisation Advisory Group), also known as Super-POCSAG, Radio Paging Code No. 1 or RPC1, is a one-way 2FSK paging protocol that supports 512, 1200, and 2400 bps.
+PLUTO II is an Over The Horizon Radar located in the Sovereign Base Area just outside RAF Akrotiri in Cyprus. PLUTO II is very active in Europe.

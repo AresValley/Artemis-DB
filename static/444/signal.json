@@ -1,24 +1,25 @@
 {
     "signal": {
-        "name": "Single frequency russian overhead power line telemetry system",
-        "url": "https://www.sigidwiki.com/wiki/Single_frequency_russian_overhead_power_line_telemetry_system"
+        "name": "Single Sideband Voice",
+        "url": "https://www.sigidwiki.com/wiki/Single_Sideband_Voice"
     },
     "category": [
-        "Digital"
+        "Analogue",
+        "Amateur Radio"
     ],
     "frequency": [
         {
-            "value": 50000,
+            "value": 3000000,
             "description": ""
         },
         {
-            "value": 1000000,
+            "value": 30000000,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 300,
+            "value": 1900,
             "description": ""
         }
     ],
@@ -37,7 +38,7 @@
     ],
     "location": [
         {
-            "value": "Russia",
+            "value": "Worldwide",
             "description": ""
         }
     ]

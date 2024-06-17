@@ -1,1 +1,1 @@
-MIL-STD-188-110 Serial is a US Department of Defense standard for HF Communications, Serial PSK mode. Can transmit both data and voice with a range of interleaving and speed modes for optimal propagation.
+MIL-STD-188-110 Appendix B is a 39-tone OFDM DQPSK mode used to send data and voice.

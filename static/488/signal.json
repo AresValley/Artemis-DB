@@ -1,44 +1,43 @@
 {
     "signal": {
-        "name": "VHF Data Link - Mode 2 (VDL-M2)",
-        "url": "https://www.sigidwiki.com/wiki/VHF_Data_Link_-_Mode_2_(VDL-M2)"
+        "name": "VEZHA-S",
+        "url": "https://www.sigidwiki.com/wiki/VEZHA-S"
     },
     "category": [
-        "Aviation",
         "Digital"
     ],
     "frequency": [
         {
-            "value": 117975000,
+            "value": 2755000,
             "description": ""
         },
         {
-            "value": 137000000,
+            "value": 12165000,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 25000,
+            "value": 650,
             "description": ""
         }
     ],
     "acf": [],
     "modulation": [
         {
-            "value": "PSK",
+            "value": "FSK",
             "description": ""
         }
     ],
     "mode": [
         {
-            "value": "RAW",
+            "value": "USB",
             "description": ""
         }
     ],
     "location": [
         {
-            "value": "Worldwide",
+            "value": "Russia",
             "description": ""
         }
     ]

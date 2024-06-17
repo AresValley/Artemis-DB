@@ -1,1 +1,1 @@
-GRAW DFM-09 performs measurement of temperature, humidity, air pressure, wind direction and wind speed.
+The Grand Réseau Adapté à la Veille Spatiale (GRAVES) system is a French space-surveillance system for low-orbit (up to 1000km) satellites. Emitter is based near Dijon, France.

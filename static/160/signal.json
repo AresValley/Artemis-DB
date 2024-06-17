@@ -1,47 +1,41 @@
 {
     "signal": {
-        "name": "EFR Teleswitch",
-        "url": "https://www.sigidwiki.com/wiki/EFR_Teleswitch"
+        "name": "EEA",
+        "url": "https://www.sigidwiki.com/wiki/EEA"
     },
-    "category": [
-        "Utility"
-    ],
+    "category": [],
     "frequency": [
         {
-            "value": 135600,
+            "value": 30000000,
             "description": ""
         },
         {
-            "value": 139900,
-            "description": ""
-        },
-        {
-            "value": 129100,
+            "value": 800000000,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 1000,
+            "value": 5000,
             "description": ""
         }
     ],
     "acf": [],
     "modulation": [
         {
-            "value": "FSK",
+            "value": "MFSK",
             "description": ""
         }
     ],
     "mode": [
         {
-            "value": "USB",
+            "value": "NFM",
             "description": ""
         }
     ],
     "location": [
         {
-            "value": "Europe",
+            "value": "Worldwide",
             "description": ""
         }
     ]

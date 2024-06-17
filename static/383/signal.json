@@ -1,28 +1,73 @@
 {
     "signal": {
-        "name": "Pulse Coded Modulated (PCM) RC Toy",
-        "url": "https://www.sigidwiki.com/wiki/Pulse_Coded_Modulated_(PCM)_RC_Toy"
+        "name": "Project 25 (P25)",
+        "url": "https://www.sigidwiki.com/wiki/Project_25_(P25)"
     },
-    "category": [],
+    "category": [
+        "Digital",
+        "Trunked Radio"
+    ],
     "frequency": [
         {
-            "value": 27145000,
+            "value": 136000000,
             "description": ""
         },
         {
-            "value": 49000000,
+            "value": 174000000,
+            "description": ""
+        },
+        {
+            "value": 380000000,
+            "description": ""
+        },
+        {
+            "value": 512000000,
+            "description": ""
+        },
+        {
+            "value": 769000000,
+            "description": ""
+        },
+        {
+            "value": 824000000,
+            "description": ""
+        },
+        {
+            "value": 851000000,
+            "description": ""
+        },
+        {
+            "value": 859000000,
             "description": ""
         }
     ],
-    "bandwidth": [],
+    "bandwidth": [
+        {
+            "value": 12500,
+            "description": ""
+        }
+    ],
     "acf": [],
     "modulation": [
         {
-            "value": "PCM",
+            "value": "PSK",
+            "description": ""
+        },
+        {
+            "value": "C4FM",
+            "description": ""
+        },
+        {
+            "value": "TDMA",
             "description": ""
         }
     ],
-    "mode": [],
+    "mode": [
+        {
+            "value": "NFM",
+            "description": ""
+        }
+    ],
     "location": [
         {
             "value": "Worldwide",

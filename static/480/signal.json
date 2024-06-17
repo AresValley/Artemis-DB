@@ -1,29 +1,32 @@
 {
     "signal": {
-        "name": "UIC 751-3",
-        "url": "https://www.sigidwiki.com/wiki/UIC_751-3"
+        "name": "UHF Vehicle Location System",
+        "url": "https://www.sigidwiki.com/wiki/UHF_Vehicle_Location_System"
     },
-    "category": [],
+    "category": [
+        "Digital",
+        "Commercial"
+    ],
     "frequency": [
         {
-            "value": 457000000,
+            "value": 400,
             "description": ""
         },
         {
-            "value": 468000000,
+            "value": 900000000,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 10000,
+            "value": 5500,
             "description": ""
         }
     ],
     "acf": [],
     "modulation": [
         {
-            "value": "FSK",
+            "value": "PSK",
             "description": ""
         }
     ],
@@ -35,7 +38,7 @@
     ],
     "location": [
         {
-            "value": "Spain",
+            "value": "United States",
             "description": ""
         }
     ]

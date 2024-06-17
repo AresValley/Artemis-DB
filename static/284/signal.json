@@ -1,37 +1,31 @@
 {
     "signal": {
-        "name": "Low Rate Picture Transmission (LRPT)",
-        "url": "https://www.sigidwiki.com/wiki/Low_Rate_Picture_Transmission_(LRPT)"
+        "name": "Logitech(R) Wireless Mouse+Keyboard Signal",
+        "url": "https://www.sigidwiki.com/wiki/Logitech(R)_Wireless_Mouse%2BKeyboard_Signal"
     },
     "category": [
-        "Digital",
-        "Satellite"
+        "Digital"
     ],
     "frequency": [
         {
-            "value": 137000000,
-            "description": ""
-        },
-        {
-            "value": 138000000,
+            "value": 2400000000,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 120000,
+            "value": 500000,
             "description": ""
         }
     ],
-    "acf": [
-        {
-            "value": 0.5,
-            "description": "Main"
-        }
-    ],
+    "acf": [],
     "modulation": [
         {
-            "value": "QPSK",
+            "value": "PPM",
+            "description": ""
+        },
+        {
+            "value": "GFSK",
             "description": ""
         }
     ],

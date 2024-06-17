@@ -1,7 +1,7 @@
 {
     "signal": {
-        "name": "HD Radio (FM)",
-        "url": "https://www.sigidwiki.com/wiki/HD_Radio_(FM)"
+        "name": "HD Radio (AM)",
+        "url": "https://www.sigidwiki.com/wiki/HD_Radio_(AM)"
     },
     "category": [
         "Commercial",
@@ -9,17 +9,17 @@
     ],
     "frequency": [
         {
-            "value": 87700000,
+            "value": 535000,
             "description": ""
         },
         {
-            "value": 107900000,
+            "value": 1700000,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 400000,
+            "value": 30000,
             "description": ""
         }
     ],

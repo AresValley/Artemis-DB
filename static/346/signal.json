@@ -1,10 +1,11 @@
 {
     "signal": {
-        "name": "North Korean Diplo PSK",
-        "url": "https://www.sigidwiki.com/wiki/North_Korean_Diplo_PSK"
+        "name": "North Korean Diplo FSK",
+        "url": "https://www.sigidwiki.com/wiki/North_Korean_Diplo_FSK"
     },
     "category": [
-        "Digital"
+        "Digital",
+        "Numbers Stations"
     ],
     "frequency": [
         {
@@ -22,22 +23,14 @@
             "description": ""
         },
         {
-            "value": 300,
-            "description": ""
-        },
-        {
-            "value": 600,
-            "description": ""
-        },
-        {
-            "value": 2400,
+            "value": 1400,
             "description": ""
         }
     ],
     "acf": [],
     "modulation": [
         {
-            "value": "PSK",
+            "value": "FSK",
             "description": ""
         }
     ],

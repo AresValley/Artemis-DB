@@ -1,24 +1,25 @@
 {
     "signal": {
-        "name": "POL-ARQ",
-        "url": "https://www.sigidwiki.com/wiki/POL-ARQ"
+        "name": "POCSAG",
+        "url": "https://www.sigidwiki.com/wiki/POCSAG"
     },
     "category": [
-        "Digital"
+        "Digital",
+        "Commercial"
     ],
     "frequency": [
         {
-            "value": 3000000,
+            "value": 932000000,
             "description": ""
         },
         {
-            "value": 30000000,
+            "value": 25000000,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 350,
+            "value": 9000,
             "description": ""
         }
     ],
@@ -31,13 +32,13 @@
     ],
     "mode": [
         {
-            "value": "USB",
+            "value": "NFM",
             "description": ""
         }
     ],
     "location": [
         {
-            "value": "Europe",
+            "value": "Worldwide",
             "description": ""
         }
     ]

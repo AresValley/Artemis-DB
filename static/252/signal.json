@@ -1,25 +1,57 @@
 {
     "signal": {
-        "name": "Iridium",
-        "url": "https://www.sigidwiki.com/wiki/Iridium"
+        "name": "Iranian Navy QPSK Modem",
+        "url": "https://www.sigidwiki.com/wiki/Iranian_Navy_QPSK_Modem"
     },
     "category": [
-        "Commercial",
-        "Satellite"
+        "Military",
+        "Digital"
     ],
     "frequency": [
         {
-            "value": 1616000000,
+            "value": 8475000,
             "description": ""
         },
         {
-            "value": 1626500000,
+            "value": 8045999,
+            "description": ""
+        },
+        {
+            "value": 10724000,
+            "description": ""
+        },
+        {
+            "value": 17382200,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 31500,
+            "value": 700,
+            "description": ""
+        },
+        {
+            "value": 300,
+            "description": ""
+        },
+        {
+            "value": 620,
+            "description": ""
+        },
+        {
+            "value": 1250,
+            "description": ""
+        },
+        {
+            "value": 2520,
+            "description": ""
+        },
+        {
+            "value": 1420,
+            "description": ""
+        },
+        {
+            "value": 2850,
             "description": ""
         }
     ],
@@ -32,13 +64,13 @@
     ],
     "mode": [
         {
-            "value": "RAW",
+            "value": "USB",
             "description": ""
         }
     ],
     "location": [
         {
-            "value": "Worldwide",
+            "value": "Iran",
             "description": ""
         }
     ]

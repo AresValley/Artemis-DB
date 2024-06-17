@@ -1,1 +1,1 @@
-Switch-mode power supplies, used in many types of electronic devices, can generate RF noise on wide frequency ranges.
+Supervisory Control And Data Acquisition (SCADA) is a control system architecture that is used in industrial applications for computerized automated systems. Wireless telemetry is used on RTU's to send data to control units for operators to utilize.

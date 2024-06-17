@@ -1,1 +1,1 @@
-Secondary surveillance radar (SSR)is a radar system used in air traffic control. A surveillance radar system which uses transmitters/receivers (interrogators) and transponders.
+Schneider Trio E-Series Modems are industrial modems used for SCADA, telemetry, and other ASCII-based messaging applications.

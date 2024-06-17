@@ -1,1 +1,1 @@
-Digital Distress Radiobeacons (EPIRB's, PLB's and ELT's) are emergency radio beacons used for search and rescue operations to locate a vessel, plane, or person in distress.
+Analog Distress Radiobeacons are simple siren-based transmitters that were installed in older EPIRB's, PLB's and ELT's. Currently used as a supplementary homing signal in modern digital radiobeacons.

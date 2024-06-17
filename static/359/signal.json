@@ -1,12 +1,12 @@
 {
     "signal": {
-        "name": "PACTOR III",
-        "url": "https://www.sigidwiki.com/wiki/PACTOR_III"
+        "name": "PACTOR II",
+        "url": "https://www.sigidwiki.com/wiki/PACTOR_II"
     },
     "category": [
-        "Amateur Radio",
+        "Digital",
         "Commercial",
-        "Digital"
+        "Amateur Radio"
     ],
     "frequency": [
         {
@@ -20,11 +20,7 @@
     ],
     "bandwidth": [
         {
-            "value": 400,
-            "description": ""
-        },
-        {
-            "value": 2400,
+            "value": 450,
             "description": ""
         }
     ],

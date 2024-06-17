@@ -1,38 +1,37 @@
 {
     "signal": {
-        "name": "MIL-STD-110-342",
-        "url": "https://www.sigidwiki.com/wiki/MIL-STD-110-342"
+        "name": "MFJ-269C Antenna SWR Analyzer",
+        "url": "https://www.sigidwiki.com/wiki/MFJ-269C_Antenna_SWR_Analyzer"
     },
     "category": [
-        "Military",
-        "Digital"
+        "Amateur Radio",
+        "Analogue"
     ],
     "frequency": [
         {
-            "value": 3000000,
+            "value": 500000,
             "description": ""
         },
         {
-            "value": 30000000,
+            "value": 500000000,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 3100,
+            "value": 1000,
             "description": ""
         }
     ],
     "acf": [],
-    "modulation": [
-        {
-            "value": "FSK",
-            "description": ""
-        }
-    ],
+    "modulation": [],
     "mode": [
         {
-            "value": "USB",
+            "value": "AM",
+            "description": ""
+        },
+        {
+            "value": "NFM",
             "description": ""
         }
     ],

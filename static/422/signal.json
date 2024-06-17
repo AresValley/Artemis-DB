@@ -1,10 +1,11 @@
 {
     "signal": {
-        "name": "SITOR-B",
-        "url": "https://www.sigidwiki.com/wiki/SITOR-B"
+        "name": "SITOR-A",
+        "url": "https://www.sigidwiki.com/wiki/SITOR-A"
     },
     "category": [
-        "Marine"
+        "Marine",
+        "Digital"
     ],
     "frequency": [
         {
@@ -22,7 +23,12 @@
             "description": ""
         }
     ],
-    "acf": [],
+    "acf": [
+        {
+            "value": 450.0,
+            "description": "Main"
+        }
+    ],
     "modulation": [
         {
             "value": "FSK",

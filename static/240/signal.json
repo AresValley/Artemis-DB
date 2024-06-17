@@ -1,34 +1,50 @@
 {
     "signal": {
-        "name": "Improved Automatic Link Set-up (ALIS-2)",
-        "url": "https://www.sigidwiki.com/wiki/Improved_Automatic_Link_Set-up_(ALIS-2)"
+        "name": "ISM Band device",
+        "url": "https://www.sigidwiki.com/wiki/ISM_Band_device"
     },
     "category": [
-        "Digital"
+        "Digital",
+        "Utility"
     ],
     "frequency": [
         {
-            "value": 3000000,
+            "value": 900000000,
             "description": ""
         },
         {
-            "value": 30000000,
+            "value": 920000000,
+            "description": ""
+        },
+        {
+            "value": 315000000,
+            "description": ""
+        },
+        {
+            "value": 868000000,
+            "description": ""
+        },
+        {
+            "value": 433920000,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 2000,
+            "value": 20000,
             "description": ""
         }
     ],
-    "acf": [
-        {
-            "value": 490.0,
-            "description": "Main"
-        }
-    ],
+    "acf": [],
     "modulation": [
+        {
+            "value": "ASK",
+            "description": ""
+        },
+        {
+            "value": "OOK",
+            "description": ""
+        },
         {
             "value": "FSK",
             "description": ""
@@ -36,7 +52,11 @@
     ],
     "mode": [
         {
-            "value": "USB",
+            "value": "AM",
+            "description": ""
+        },
+        {
+            "value": "NFM",
             "description": ""
         }
     ],

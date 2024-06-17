@@ -1,38 +1,38 @@
 {
     "signal": {
-        "name": "Vaisala RS41-SG Weather Balloon (Radiosonde)",
-        "url": "https://www.sigidwiki.com/wiki/Vaisala_RS41-SG_Weather_Balloon_(Radiosonde)"
+        "name": "VOICE",
+        "url": "https://www.sigidwiki.com/wiki/VOICE"
     },
     "category": [
-        "Utility",
-        "Digital"
+        "Digital",
+        "Amateur Radio"
     ],
     "frequency": [
         {
-            "value": 400000000,
+            "value": 3000000,
             "description": ""
         },
         {
-            "value": 406000000,
+            "value": 30000000,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 4800,
+            "value": 200,
             "description": ""
         }
     ],
     "acf": [],
     "modulation": [
         {
-            "value": "GFSK",
+            "value": "MFSK",
             "description": ""
         }
     ],
     "mode": [
         {
-            "value": "NFM",
+            "value": "USB",
             "description": ""
         }
     ],

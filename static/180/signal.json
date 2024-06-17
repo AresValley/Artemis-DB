@@ -1,7 +1,7 @@
 {
     "signal": {
-        "name": "FT8",
-        "url": "https://www.sigidwiki.com/wiki/FT8"
+        "name": "FT4",
+        "url": "https://www.sigidwiki.com/wiki/FT4"
     },
     "category": [
         "Amateur Radio",
@@ -9,61 +9,49 @@
     ],
     "frequency": [
         {
-            "value": 3573000,
+            "value": 14080000,
             "description": ""
         },
         {
-            "value": 7074000,
+            "value": 3575000,
             "description": ""
         },
         {
-            "value": 10136000,
+            "value": 7047500,
             "description": ""
         },
         {
-            "value": 14074000,
+            "value": 10140,
             "description": ""
         },
         {
-            "value": 24915000,
+            "value": 18104000,
             "description": ""
         },
         {
-            "value": 50323000,
+            "value": 21140000,
             "description": ""
         },
         {
-            "value": 70100000,
+            "value": 24919000,
             "description": ""
         },
         {
-            "value": 144174000,
+            "value": 28180000,
             "description": ""
         },
         {
-            "value": 1840000,
+            "value": 50318000,
             "description": ""
         },
         {
-            "value": 18100000,
-            "description": ""
-        },
-        {
-            "value": 21074000,
-            "description": ""
-        },
-        {
-            "value": 28074000,
-            "description": ""
-        },
-        {
-            "value": 50313000,
+            "value": 144170000,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 50,
+            "value": 83,
             "description": ""
         }
     ],

@@ -1,46 +1,46 @@
 {
     "signal": {
-        "name": "Lockheed Martin LMS-6 (Radiosonde)",
-        "url": "https://www.sigidwiki.com/wiki/Lockheed_Martin_LMS-6_(Radiosonde)"
+        "name": "LoRa",
+        "url": "https://www.sigidwiki.com/wiki/LoRa"
     },
     "category": [
-        "Utility",
+        "Commercial",
         "Digital"
     ],
     "frequency": [
         {
-            "value": 400000000,
+            "value": 433000000,
             "description": ""
         },
         {
-            "value": 403000000,
+            "value": 863000000,
             "description": ""
         },
         {
-            "value": 1676000000,
+            "value": 870000000,
             "description": ""
         },
         {
-            "value": 1682000000,
+            "value": 915000000,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 10000,
+            "value": 250000,
             "description": ""
         }
     ],
     "acf": [],
     "modulation": [
         {
-            "value": "GFSK",
+            "value": "CSS",
             "description": ""
         }
     ],
     "mode": [
         {
-            "value": "NFM",
+            "value": "FM",
             "description": ""
         }
     ],

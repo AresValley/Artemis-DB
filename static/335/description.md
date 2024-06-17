@@ -1,1 +1,1 @@
-Naval Communication Station (NCS) Harold E. Holt. Used jointly by the Australian and United States navies to transmit encrypted orders to submerged submarines in the Pacific.
+National Television System Committee (NTSC) Television broadcast is an analogue television broadcast mode. Currently being phased out in parts of the world in favor of digital broadcast.

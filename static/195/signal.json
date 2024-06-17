@@ -1,44 +1,31 @@
 {
     "signal": {
-        "name": "GOES Rebroadcast (GRB)",
-        "url": "https://www.sigidwiki.com/wiki/GOES_Rebroadcast_(GRB)"
+        "name": "GOES High Rate Information Transmission (HRIT)",
+        "url": "https://www.sigidwiki.com/wiki/GOES_High_Rate_Information_Transmission_(HRIT)"
     },
     "category": [
-        "Digital",
-        "Satellite"
+        "Digital"
     ],
     "frequency": [
         {
-            "value": 1681600000,
-            "description": ""
-        },
-        {
-            "value": 1686600000,
+            "value": 1694100000,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 10000000,
+            "value": 1205000,
             "description": ""
         }
     ],
     "acf": [],
     "modulation": [
         {
-            "value": "QPSK16",
-            "description": ""
-        },
-        {
-            "value": "8PSK",
+            "value": "BPSK",
             "description": ""
         }
     ],
     "mode": [
-        {
-            "value": "DVB-S2",
-            "description": ""
-        },
         {
             "value": "RAW",
             "description": ""

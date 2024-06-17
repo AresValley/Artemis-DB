@@ -1,1 +1,1 @@
-High Speed USB 2.0 clock noise. Shows up at multiples of 480 MHz.
+The HRD direct broadcast is an X-band continuous downlink from NOAA JPSS satellites of mission environmental data to users on the ground that are equipped with a suitable receiver.

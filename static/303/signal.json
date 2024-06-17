@@ -1,45 +1,89 @@
 {
     "signal": {
-        "name": "MPT1394 Keyfob",
-        "url": "https://www.sigidwiki.com/wiki/MPT1394_Keyfob"
+        "name": "MPT 1327",
+        "url": "https://www.sigidwiki.com/wiki/MPT_1327"
     },
-    "category": [],
+    "category": [
+        "Digital",
+        "Trunked Radio"
+    ],
     "frequency": [
         {
-            "value": 433920000,
+            "value": 176500000,
+            "description": ""
+        },
+        {
+            "value": 184500000,
+            "description": ""
+        },
+        {
+            "value": 201500000,
+            "description": ""
+        },
+        {
+            "value": 162500000,
+            "description": ""
+        },
+        {
+            "value": 207500000,
+            "description": ""
+        },
+        {
+            "value": 420000000,
+            "description": ""
+        },
+        {
+            "value": 800000000,
+            "description": ""
+        },
+        {
+            "value": 461000000,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 10300,
+            "value": 10000,
+            "description": ""
+        },
+        {
+            "value": 25000,
+            "description": ""
+        },
+        {
+            "value": 20000,
+            "description": ""
+        },
+        {
+            "value": 12500,
             "description": ""
         }
     ],
-    "acf": [],
+    "acf": [
+        {
+            "value": 106.66,
+            "description": "Main"
+        }
+    ],
     "modulation": [
         {
-            "value": "ASK",
+            "value": "FM",
+            "description": ""
+        },
+        {
+            "value": "FFSK",
             "description": ""
         }
     ],
     "mode": [
         {
-            "value": "AM",
+            "value": "NFM",
             "description": ""
         }
     ],
     "location": [
         {
-            "value": "Europe",
-            "description": ""
-        },
-        {
-            "value": "Japan",
-            "description": ""
-        },
-        {
-            "value": "Asia",
+            "value": "Worldwide",
             "description": ""
         }
     ]

@@ -1,31 +1,44 @@
 {
     "signal": {
-        "name": "Grimeton Radio (SAQ)",
-        "url": "https://www.sigidwiki.com/wiki/Grimeton_Radio_(SAQ)"
+        "name": "Graw DFM-17 (Radiosonde)",
+        "url": "https://www.sigidwiki.com/wiki/Graw_DFM-17_(Radiosonde)"
     },
-    "category": [],
+    "category": [
+        "Utility",
+        "Digital"
+    ],
     "frequency": [
         {
-            "value": 17200,
+            "value": 400000000,
             "description": ""
         },
         {
-            "value": 40400,
+            "value": 405990000,
             "description": ""
         }
     ],
-    "bandwidth": [],
+    "bandwidth": [
+        {
+            "value": 10000,
+            "description": ""
+        }
+    ],
     "acf": [],
-    "modulation": [],
+    "modulation": [
+        {
+            "value": "GFSK",
+            "description": ""
+        }
+    ],
     "mode": [
         {
-            "value": "CW",
+            "value": "NFM",
             "description": ""
         }
     ],
     "location": [
         {
-            "value": "Sweden",
+            "value": "Worldwide",
             "description": ""
         }
     ]

@@ -1,55 +1,38 @@
 {
     "signal": {
-        "name": "Next Generation Digital Narrowband (NXDN)",
-        "url": "https://www.sigidwiki.com/wiki/Next_Generation_Digital_Narrowband_(NXDN)"
+        "name": "Near Instantaneous Companded Audio Multiplex (NICAM)",
+        "url": "https://www.sigidwiki.com/wiki/Near_Instantaneous_Companded_Audio_Multiplex_(NICAM)"
     },
     "category": [
-        "Trunked Radio",
-        "Digital"
+        "Digital",
+        "Commercial"
     ],
     "frequency": [
-        {
-            "value": 136000000,
-            "description": ""
-        },
         {
             "value": 174000000,
             "description": ""
         },
         {
-            "value": 400000000,
-            "description": ""
-        },
-        {
-            "value": 520000000,
+            "value": 700000000,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 6250,
-            "description": ""
-        },
-        {
-            "value": 12500,
+            "value": 400000,
             "description": ""
         }
     ],
-    "acf": [
-        {
-            "value": 80.0,
-            "description": "Main"
-        }
-    ],
+    "acf": [],
     "modulation": [
         {
-            "value": "C4FM",
+            "value": "PSK",
             "description": ""
         }
     ],
     "mode": [
         {
-            "value": "NFM",
+            "value": "RAW",
             "description": ""
         }
     ],

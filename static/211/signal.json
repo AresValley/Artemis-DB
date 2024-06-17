@@ -1,42 +1,38 @@
 {
     "signal": {
-        "name": "HC-265 Voice Scrambler",
-        "url": "https://www.sigidwiki.com/wiki/HC-265_Voice_Scrambler"
+        "name": "Ground-Based Augmentation System (GBAS)",
+        "url": "https://www.sigidwiki.com/wiki/Ground-Based_Augmentation_System_(GBAS)"
     },
     "category": [
-        "Military",
-        "Digital"
+        "Aviation",
+        "Navigation"
     ],
     "frequency": [
         {
-            "value": 3000000,
+            "value": 108000000,
             "description": ""
         },
         {
-            "value": 30000000,
+            "value": 117975000,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 2250,
-            "description": ""
-        },
-        {
-            "value": 3000,
+            "value": 15000,
             "description": ""
         }
     ],
     "acf": [],
     "modulation": [
         {
-            "value": "FSK",
+            "value": "D8PSK",
             "description": ""
         }
     ],
     "mode": [
         {
-            "value": "USB",
+            "value": "AM",
             "description": ""
         }
     ],

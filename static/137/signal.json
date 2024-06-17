@@ -1,38 +1,46 @@
 {
     "signal": {
-        "name": "Digital Audio Broadcasting (DAB)",
-        "url": "https://www.sigidwiki.com/wiki/Digital_Audio_Broadcasting_(DAB)"
+        "name": "Digisonde",
+        "url": "https://www.sigidwiki.com/wiki/Digisonde"
     },
     "category": [
-        "Commercial",
-        "Digital"
+        "Radar"
     ],
     "frequency": [
         {
-            "value": 174000000,
+            "value": 500000,
             "description": ""
         },
         {
-            "value": 239000000,
+            "value": 30000000,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 1536000,
+            "value": 30000,
             "description": ""
         }
     ],
-    "acf": [],
+    "acf": [
+        {
+            "value": 5.0,
+            "description": "Main"
+        },
+        {
+            "value": 10.0,
+            "description": "Main"
+        }
+    ],
     "modulation": [
         {
-            "value": "OFDM",
+            "value": "Pulsed",
             "description": ""
         }
     ],
     "mode": [
         {
-            "value": "AM",
+            "value": "RAW",
             "description": ""
         }
     ],

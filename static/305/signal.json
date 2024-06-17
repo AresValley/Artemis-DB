@@ -1,33 +1,33 @@
 {
     "signal": {
-        "name": "MRZ-N1 Weather Balloon (radiosonde)",
-        "url": "https://www.sigidwiki.com/wiki/MRZ-N1_Weather_Balloon_(radiosonde)"
+        "name": "MRZ-3MK Weather Balloon (radiosonde)",
+        "url": "https://www.sigidwiki.com/wiki/MRZ-3MK_Weather_Balloon_(radiosonde)"
     },
     "category": [
         "Digital"
     ],
     "frequency": [
         {
-            "value": 403000000,
+            "value": 1680000000,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 5000,
+            "value": 6000000,
             "description": ""
         }
     ],
     "acf": [],
     "modulation": [
         {
-            "value": "FSK",
+            "value": "PFM",
             "description": ""
         }
     ],
     "mode": [
         {
-            "value": "FM",
+            "value": "AM",
             "description": ""
         }
     ],

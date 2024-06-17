@@ -1,1 +1,1 @@
-FM NBTV is a method to send moving images in a very narrow bandwidth (maximum 3 KHz)
+Commercial Broadcast FM radio stations. Used for the broadcast of many different radio programs, including music, news, sports, weather, and talk shows.

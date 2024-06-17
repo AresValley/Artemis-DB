@@ -1,1 +1,1 @@
-National Television System Committee (NTSC) Television broadcast is an analogue television broadcast mode. Currently being phased out in parts of the world in favor of digital broadcast.
+Naval Radio Transmitting Facility (NRTF) sends encrypted commands to submerged US naval submarines in the Pacific.

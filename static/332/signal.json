@@ -1,24 +1,46 @@
 {
     "signal": {
-        "name": "NOV",
-        "url": "https://www.sigidwiki.com/wiki/NOV"
+        "name": "NOAA POES High Resolution Picture Transmission (HRPT)",
+        "url": "https://www.sigidwiki.com/wiki/NOAA_POES_High_Resolution_Picture_Transmission_(HRPT)"
     },
     "category": [
-        "Military",
+        "Satellite",
         "Digital"
     ],
     "frequency": [
         {
-            "value": 26900,
+            "value": 1698000000,
+            "description": ""
+        },
+        {
+            "value": 1702500000,
+            "description": ""
+        },
+        {
+            "value": 1707000000,
+            "description": ""
+        },
+        {
+            "value": 2247500000,
             "description": ""
         }
     ],
-    "bandwidth": [],
+    "bandwidth": [
+        {
+            "value": 3000000,
+            "description": ""
+        }
+    ],
     "acf": [],
-    "modulation": [],
+    "modulation": [
+        {
+            "value": "PSK",
+            "description": ""
+        }
+    ],
     "mode": [
         {
-            "value": "CW",
+            "value": "RAW",
             "description": ""
         }
     ],

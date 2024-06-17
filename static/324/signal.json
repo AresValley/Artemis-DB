@@ -1,66 +1,58 @@
 {
     "signal": {
-        "name": "Multitone Paging",
-        "url": "https://www.sigidwiki.com/wiki/Multitone_Paging"
+        "name": "Multi Frequency Shift Keying (MFSK)",
+        "url": "https://www.sigidwiki.com/wiki/Multi_Frequency_Shift_Keying_(MFSK)"
     },
     "category": [
-        "Commercial",
-        "Digital"
+        "Digital",
+        "Amateur Radio"
     ],
     "frequency": [
         {
-            "value": 25000000,
+            "value": 3000000,
             "description": ""
         },
         {
-            "value": 54000000,
-            "description": ""
-        },
-        {
-            "value": 137000000,
-            "description": ""
-        },
-        {
-            "value": 174000000,
-            "description": ""
-        },
-        {
-            "value": 407000000,
-            "description": ""
-        },
-        {
-            "value": 417000000,
-            "description": ""
-        },
-        {
-            "value": 430000000,
-            "description": ""
-        },
-        {
-            "value": 470000000,
+            "value": 30000000,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 12500,
+            "value": 154,
             "description": ""
         },
         {
-            "value": 25000,
+            "value": 218,
+            "description": ""
+        },
+        {
+            "value": 316,
+            "description": ""
+        },
+        {
+            "value": 330,
+            "description": ""
+        },
+        {
+            "value": 435,
+            "description": ""
+        },
+        {
+            "value": 630,
             "description": ""
         }
     ],
     "acf": [],
     "modulation": [
         {
-            "value": "FFSK",
+            "value": "MFSK",
             "description": ""
         }
     ],
     "mode": [
         {
-            "value": "NFM",
+            "value": "USB",
             "description": ""
         }
     ],

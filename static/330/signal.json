@@ -1,34 +1,38 @@
 {
     "signal": {
-        "name": "NOAA ITOS High Resolution Picture Transmission (HRPT)",
-        "url": "https://www.sigidwiki.com/wiki/NOAA_ITOS_High_Resolution_Picture_Transmission_(HRPT)"
+        "name": "NOAA Direct Sounder Broadcast (DSB)",
+        "url": "https://www.sigidwiki.com/wiki/NOAA_Direct_Sounder_Broadcast_(DSB)"
     },
     "category": [
-        "Analogue",
+        "Digital",
         "Satellite"
     ],
     "frequency": [
         {
-            "value": 1697500000,
+            "value": 137350000,
+            "description": ""
+        },
+        {
+            "value": 137770000,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 1000000,
+            "value": 33500,
             "description": ""
         }
     ],
     "acf": [],
     "modulation": [
         {
-            "value": "FM",
+            "value": "PSK",
             "description": ""
         }
     ],
     "mode": [
         {
-            "value": "WFM",
+            "value": "NFM",
             "description": ""
         }
     ],

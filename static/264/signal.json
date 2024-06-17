@@ -1,60 +1,32 @@
 {
     "signal": {
-        "name": "Japanese Slot Machine (XSL)",
-        "url": "https://www.sigidwiki.com/wiki/Japanese_Slot_Machine_(XSL)"
+        "name": "Japan Military 8-Channel FSK",
+        "url": "https://www.sigidwiki.com/wiki/Japan_Military_8-Channel_FSK"
     },
     "category": [
-        "Military",
-        "Digital"
+        "Digital",
+        "Military"
     ],
     "frequency": [
         {
-            "value": 4152500,
+            "value": 16553500,
             "description": ""
         },
         {
-            "value": 4231000,
-            "description": ""
-        },
-        {
-            "value": 4290500,
-            "description": ""
-        },
-        {
-            "value": 6249500,
-            "description": ""
-        },
-        {
-            "value": 6416500,
-            "description": ""
-        },
-        {
-            "value": 6444500,
-            "description": ""
-        },
-        {
-            "value": 8312500,
-            "description": ""
-        },
-        {
-            "value": 8587500,
-            "description": ""
-        },
-        {
-            "value": 8703000,
+            "value": 4295000,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 2000,
+            "value": 2400,
             "description": ""
         }
     ],
     "acf": [],
     "modulation": [
         {
-            "value": "PSK",
+            "value": "FSK",
             "description": ""
         }
     ],

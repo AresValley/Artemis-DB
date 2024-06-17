@@ -1,1 +1,1 @@
-Frequency Division Multiplex Digital Voice (FDMDV), also known as FDMDV 14+1-tone, is a digital voice mode originally developed by Peter Martinez G3PLX and Francesca Lanza HB9TLK. It has since been improved upon by David Rowe.
+FreeDV plus Video (also known as FreeDV+) combines analog FM multicarrier Narrow Band TV (NBTV) by Con Wassilieff, ZL2AFP, and FreeDV digital voice by David Rowe, VK5DGR.

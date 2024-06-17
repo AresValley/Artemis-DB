@@ -1,1 +1,1 @@
-An unknown use of pager data thats sent in the form of frames, possibly used to send SSTV or confidnetial Faxes over a re-purposed POCSAG or FLEX transmitter.
+PSK2K is a meteor scatter type of mode written by DJ5HG Using a modulation scheme of BPSK at 2000 Bd.

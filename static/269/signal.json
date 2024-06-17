@@ -1,28 +1,63 @@
 {
     "signal": {
-        "name": "Kia SVI-JFRGE04 Key Fob",
-        "url": "https://www.sigidwiki.com/wiki/Kia_SVI-JFRGE04_Key_Fob"
+        "name": "KG-STV",
+        "url": "https://www.sigidwiki.com/wiki/KG-STV"
     },
     "category": [
-        "Utility"
+        "Digital",
+        "Amateur Radio"
     ],
-    "frequency": [],
-    "bandwidth": [
+    "frequency": [
         {
-            "value": 55000,
+            "value": 3733000,
+            "description": ""
+        },
+        {
+            "value": 7173000,
+            "description": ""
+        },
+        {
+            "value": 10489625000,
+            "description": ""
+        },
+        {
+            "value": 14233000,
             "description": ""
         }
     ],
-    "acf": [],
+    "bandwidth": [
+        {
+            "value": 500,
+            "description": ""
+        },
+        {
+            "value": 2500,
+            "description": ""
+        }
+    ],
+    "acf": [
+        {
+            "value": 0,
+            "description": "Header: variable"
+        },
+        {
+            "value": 142.5,
+            "description": "Trailer"
+        }
+    ],
     "modulation": [
         {
-            "value": "FSK",
+            "value": "4FSK",
+            "description": ""
+        },
+        {
+            "value": "MSK",
             "description": ""
         }
     ],
     "mode": [
         {
-            "value": "NFM",
+            "value": "USB",
             "description": ""
         }
     ],

@@ -1,68 +1,31 @@
 {
     "signal": {
-        "name": "JS8",
-        "url": "https://www.sigidwiki.com/wiki/JS8"
+        "name": "JJY",
+        "url": "https://www.sigidwiki.com/wiki/JJY"
     },
     "category": [
-        "Amateur Radio",
-        "Digital"
+        "Time"
     ],
     "frequency": [
         {
-            "value": 3578000,
+            "value": 40000,
             "description": ""
         },
         {
-            "value": 14078000,
-            "description": ""
-        },
-        {
-            "value": 18104000,
-            "description": ""
-        },
-        {
-            "value": 21078000,
-            "description": ""
-        },
-        {
-            "value": 24922000,
-            "description": ""
-        },
-        {
-            "value": 28078000,
-            "description": ""
-        },
-        {
-            "value": 50318000,
-            "description": ""
-        },
-        {
-            "value": 1842000,
-            "description": ""
-        },
-        {
-            "value": 7078000,
-            "description": ""
-        },
-        {
-            "value": 10130000,
-            "description": ""
-        },
-        {
-            "value": 27245000,
+            "value": 60000,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 50,
+            "value": 1,
             "description": ""
         }
     ],
     "acf": [],
     "modulation": [
         {
-            "value": "GFSK",
+            "value": "AM",
             "description": ""
         }
     ],
@@ -74,7 +37,7 @@
     ],
     "location": [
         {
-            "value": "Worldwide",
+            "value": "Japan",
             "description": ""
         }
     ]

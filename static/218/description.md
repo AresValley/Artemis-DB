@@ -1,1 +1,1 @@
-Telemetry signal sent from the HORYU-4 university-class satellite Launched by Kyushu Institute of Technology in Japan
+HNG-FEC was a full duplex system developed and used solely by the Ministry of Foreign Affairs in Hungary. Used 100.05 bd with 500 Hz shift FSK. This mode is no longer used today.

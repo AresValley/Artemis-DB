@@ -1,1 +1,1 @@
-CTCSS, also known as Private Line and Channel Guard, is a low continuous tone transmitted on NFM voice transmissions that is used to squelch and manage transmissions on a given frequency.
+Contestia, developed by Nick Fedoseev (UT2UZ) in 2005, is a digital mode derived from Olivia. It aims to deliver a compromise of speed and performance.

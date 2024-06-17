@@ -1,45 +1,32 @@
 {
     "signal": {
-        "name": "High Frequency Data and Voice Link (HFDVL)",
-        "url": "https://www.sigidwiki.com/wiki/High_Frequency_Data_and_Voice_Link_(HFDVL)"
+        "name": "High Frequency Data Link (HFDL)",
+        "url": "https://www.sigidwiki.com/wiki/High_Frequency_Data_Link_(HFDL)"
     },
     "category": [
-        "Military",
+        "Aviation",
         "Digital"
     ],
     "frequency": [
         {
-            "value": 14828500,
+            "value": 2900000,
             "description": ""
         },
         {
-            "value": 14350000,
+            "value": 22000000,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 3000,
+            "value": 2400,
             "description": ""
         }
     ],
-    "acf": [
-        {
-            "value": 100.0,
-            "description": "Main"
-        }
-    ],
+    "acf": [],
     "modulation": [
         {
             "value": "PSK",
-            "description": ""
-        },
-        {
-            "value": "OFDM",
-            "description": ""
-        },
-        {
-            "value": "QAM",
             "description": ""
         }
     ],
@@ -51,7 +38,7 @@
     ],
     "location": [
         {
-            "value": "Spain",
+            "value": "Worldwide",
             "description": ""
         }
     ]

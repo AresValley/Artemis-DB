@@ -1,11 +1,11 @@
 {
     "signal": {
-        "name": "MIL-STD-188-110 Appendix A 16-Tone",
-        "url": "https://www.sigidwiki.com/wiki/MIL-STD-188-110_Appendix_A_16-Tone"
+        "name": "MIL-STD-110-342",
+        "url": "https://www.sigidwiki.com/wiki/MIL-STD-110-342"
     },
     "category": [
-        "Military",
-        "Digital"
+        "Digital",
+        "Military"
     ],
     "frequency": [
         {
@@ -19,18 +19,14 @@
     ],
     "bandwidth": [
         {
-            "value": 2100,
+            "value": 3100,
             "description": ""
         }
     ],
     "acf": [],
     "modulation": [
         {
-            "value": "PSK",
-            "description": ""
-        },
-        {
-            "value": "OFDM",
+            "value": "FSK",
             "description": ""
         }
     ],

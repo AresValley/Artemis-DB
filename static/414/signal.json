@@ -1,30 +1,40 @@
 {
     "signal": {
-        "name": "SAS/SRC",
-        "url": "https://www.sigidwiki.com/wiki/SAS/SRC"
+        "name": "S-Band Jammer",
+        "url": "https://www.sigidwiki.com/wiki/S-Band_Jammer"
     },
     "category": [
-        "Marine",
-        "Military"
+        "Military",
+        "Commercial",
+        "Analogue"
     ],
     "frequency": [
         {
-            "value": 40400,
+            "value": 2400000000,
             "description": ""
         }
     ],
-    "bandwidth": [],
+    "bandwidth": [
+        {
+            "value": 100000,
+            "description": ""
+        },
+        {
+            "value": 100000000,
+            "description": ""
+        }
+    ],
     "acf": [],
     "modulation": [
         {
-            "value": "MSK",
+            "value": "Noise",
             "description": ""
         }
     ],
     "mode": [],
     "location": [
         {
-            "value": "Sweden",
+            "value": "Worldwide",
             "description": ""
         }
     ]

@@ -1,35 +1,39 @@
 {
     "signal": {
-        "name": "Distress Radiobeacon (Digital)",
-        "url": "https://www.sigidwiki.com/wiki/Distress_Radiobeacon_(Digital)"
+        "name": "Distress Radiobeacon (Analog)",
+        "url": "https://www.sigidwiki.com/wiki/Distress_Radiobeacon_(Analog)"
     },
     "category": [
-        "Aviation",
         "Marine",
-        "Digital"
+        "Analogue",
+        "Aviation"
     ],
     "frequency": [
         {
-            "value": 406000000,
+            "value": 121500000,
+            "description": ""
+        },
+        {
+            "value": 243000000,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 1400,
+            "value": 10000,
             "description": ""
         }
     ],
     "acf": [],
     "modulation": [
         {
-            "value": "PSK",
+            "value": "AM",
             "description": ""
         }
     ],
     "mode": [
         {
-            "value": "NFM",
+            "value": "AM",
             "description": ""
         }
     ],

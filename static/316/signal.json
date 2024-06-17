@@ -1,39 +1,38 @@
 {
     "signal": {
-        "name": "Milstar",
-        "url": "https://www.sigidwiki.com/wiki/Milstar"
+        "name": "Microsonde Mark II Weather Balloon - LORAN-C signal (Radiosonde)",
+        "url": "https://www.sigidwiki.com/wiki/Microsonde_Mark_II_Weather_Balloon_-_LORAN-C_signal_(Radiosonde)"
     },
     "category": [
-        "Military",
         "Digital",
-        "Satellite"
+        "Utility"
     ],
     "frequency": [
         {
-            "value": 243785000,
+            "value": 400000000,
             "description": ""
         },
         {
-            "value": 243822000,
+            "value": 406000000,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 50000,
+            "value": 130000,
             "description": ""
         }
     ],
     "acf": [],
     "modulation": [
         {
-            "value": "FHSS",
+            "value": "FSK",
             "description": ""
         }
     ],
     "mode": [
         {
-            "value": "RAW",
+            "value": "WFM",
             "description": ""
         }
     ],

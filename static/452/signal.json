@@ -1,39 +1,37 @@
 {
     "signal": {
-        "name": "Spectrum Painting",
-        "url": "https://www.sigidwiki.com/wiki/Spectrum_Painting"
+        "name": "Soyuz-MS spacecraft telemetry",
+        "url": "https://www.sigidwiki.com/wiki/Soyuz-MS_spacecraft_telemetry"
     },
-    "category": [],
+    "category": [
+        "Satellite"
+    ],
     "frequency": [
         {
-            "value": 2000000,
-            "description": ""
-        },
-        {
-            "value": 10000000,
+            "value": 166000000,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 4000,
+            "value": 250000,
             "description": ""
         }
     ],
     "acf": [],
     "modulation": [
         {
-            "value": "OFDM",
+            "value": "PCM",
+            "description": ""
+        },
+        {
+            "value": "FM",
             "description": ""
         }
     ],
     "mode": [
         {
             "value": "USB",
-            "description": ""
-        },
-        {
-            "value": "LSB",
             "description": ""
         }
     ],

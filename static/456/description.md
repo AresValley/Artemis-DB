@@ -1,1 +1,1 @@
-Mahovik, "Flywheel" in Russian, is a PSK based mode that can transmit both voice and data. It is transmitted from a Russian T-230-1A radio transceiver.
+Switch-mode power supplies, used in many types of electronic devices, can generate RF noise on wide frequency ranges.

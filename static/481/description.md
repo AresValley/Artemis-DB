@@ -1,1 +1,1 @@
-UK AM Data System (UK-AMDS) was developed by BBC Research and Development in 1984 as a way to transmit low bitrate data on BBC Radio 4's LF AM carrier. Elements of this system were adopted into ETSI's AMSS.
+The UIC radio is an analogue radio, which consists of lineside and mobile (trainborne) equipment. Radio systems following this basic subset allow for simplex and duplex voice communication and use of operating signals (tones), and for selective calls and for data transmission.

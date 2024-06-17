@@ -1,1 +1,1 @@
-UHF FHSS Downlink of Milstar, a US joint military service satellite communications system that provides secure, jam resistant, worldwide communications. Nicknamed 'Waterdroplets' for it's characteristic waveform and sound.
+Weather balloon telemetry data. The LORAN-C signal is mixed into the carrier.

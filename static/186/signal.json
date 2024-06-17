@@ -1,11 +1,10 @@
 {
     "signal": {
-        "name": "Frequency Division Multiplex Digital Voice (FDMDV)",
-        "url": "https://www.sigidwiki.com/wiki/Frequency_Division_Multiplex_Digital_Voice_(FDMDV)"
+        "name": "FreeDV plus Video",
+        "url": "https://www.sigidwiki.com/wiki/FreeDV_plus_Video"
     },
     "category": [
-        "Amateur Radio",
-        "Digital"
+        "Amateur Radio"
     ],
     "frequency": [
         {
@@ -15,22 +14,26 @@
         {
             "value": 30000000,
             "description": ""
+        },
+        {
+            "value": 14236000,
+            "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 1125,
-            "description": ""
-        },
-        {
-            "value": 1300,
+            "value": 3500,
             "description": ""
         }
     ],
     "acf": [],
     "modulation": [
         {
-            "value": "PSK",
+            "value": "OFDM",
+            "description": ""
+        },
+        {
+            "value": "FM",
             "description": ""
         }
     ],

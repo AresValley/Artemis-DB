@@ -1,0 +1,35 @@
+{
+    "signal": {
+        "name": "WLO",
+        "url": "https://www.sigidwiki.com/wiki/WLO"
+    },
+    "category": [
+        "Marine"
+    ],
+    "frequency": [],
+    "bandwidth": [
+        {
+            "value": 1000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "CW",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "AM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "United States",
+            "description": ""
+        }
+    ]
+}

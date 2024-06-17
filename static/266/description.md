@@ -1,1 +1,1 @@
-JORN is an Australian OTHR system that operates uniquely in that it's radar bursts include an intro tone before the burst.
+Jim Creek Naval Radio Station is used by the US Navy to transmit commands to distant submarines.

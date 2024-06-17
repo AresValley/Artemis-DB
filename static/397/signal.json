@@ -1,7 +1,7 @@
 {
     "signal": {
-        "name": "RUM-MOI FEC",
-        "url": "https://www.sigidwiki.com/wiki/RUM-MOI_FEC"
+        "name": "RUM-FEC",
+        "url": "https://www.sigidwiki.com/wiki/RUM-FEC"
     },
     "category": [
         "Digital"
@@ -18,7 +18,7 @@
     ],
     "bandwidth": [
         {
-            "value": 600,
+            "value": 750,
             "description": ""
         }
     ],

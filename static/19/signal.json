@@ -4,9 +4,9 @@
         "url": "https://www.sigidwiki.com/wiki/AMSAT-P3D"
     },
     "category": [
-        "Amateur Radio",
         "Digital",
-        "Satellite"
+        "Satellite",
+        "Amateur Radio"
     ],
     "frequency": [
         {

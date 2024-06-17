@@ -1,39 +1,38 @@
 {
     "signal": {
-        "name": "ECG Telemetry",
-        "url": "https://www.sigidwiki.com/wiki/ECG_Telemetry"
+        "name": "Duga 3",
+        "url": "https://www.sigidwiki.com/wiki/Duga_3"
     },
     "category": [
-        "Utility"
+        "Military",
+        "Radar"
     ],
     "frequency": [
         {
-            "value": 403959000,
+            "value": 7000000,
+            "description": ""
+        },
+        {
+            "value": 19000000,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 1000,
+            "value": 20000,
+            "description": ""
+        },
+        {
+            "value": 800000,
             "description": ""
         }
     ],
     "acf": [],
-    "modulation": [
-        {
-            "value": "FSK",
-            "description": ""
-        }
-    ],
-    "mode": [
-        {
-            "value": "FM",
-            "description": ""
-        }
-    ],
+    "modulation": [],
+    "mode": [],
     "location": [
         {
-            "value": "Australia",
+            "value": "Ukraine",
             "description": ""
         }
     ]

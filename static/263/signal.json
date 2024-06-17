@@ -1,32 +1,32 @@
 {
     "signal": {
-        "name": "Japan Military 8-Channel FSK",
-        "url": "https://www.sigidwiki.com/wiki/Japan_Military_8-Channel_FSK"
+        "name": "JTMS",
+        "url": "https://www.sigidwiki.com/wiki/JTMS"
     },
     "category": [
-        "Military",
+        "Amateur Radio",
         "Digital"
     ],
     "frequency": [
         {
-            "value": 16553500,
+            "value": 3000000,
             "description": ""
         },
         {
-            "value": 4295000,
+            "value": 30000000,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 2400,
+            "value": 1700,
             "description": ""
         }
     ],
     "acf": [],
     "modulation": [
         {
-            "value": "FSK",
+            "value": "MSK",
             "description": ""
         }
     ],
@@ -38,7 +38,7 @@
     ],
     "location": [
         {
-            "value": "Japan",
+            "value": "Worldwide",
             "description": ""
         }
     ]

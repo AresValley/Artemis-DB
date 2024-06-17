@@ -1,10 +1,9 @@
 {
     "signal": {
-        "name": "MT63",
-        "url": "https://www.sigidwiki.com/wiki/MT63"
+        "name": "MSM-1250 Modem",
+        "url": "https://www.sigidwiki.com/wiki/MSM-1250_Modem"
     },
     "category": [
-        "Amateur Radio",
         "Digital"
     ],
     "frequency": [
@@ -19,26 +18,18 @@
     ],
     "bandwidth": [
         {
-            "value": 500,
+            "value": 2400,
             "description": ""
         },
         {
-            "value": 1000,
-            "description": ""
-        },
-        {
-            "value": 2000,
+            "value": 2500,
             "description": ""
         }
     ],
     "acf": [],
     "modulation": [
         {
-            "value": "OFDM",
-            "description": ""
-        },
-        {
-            "value": "PSK",
+            "value": "FSK",
             "description": ""
         }
     ],

@@ -1,29 +1,38 @@
 {
     "signal": {
-        "name": "High Speed USB Noise",
-        "url": "https://www.sigidwiki.com/wiki/High_Speed_USB_Noise"
+        "name": "High Resolution Data (HRD)",
+        "url": "https://www.sigidwiki.com/wiki/High_Resolution_Data_(HRD)"
     },
     "category": [
-        "Interfering"
+        "Satellite"
     ],
     "frequency": [
         {
-            "value": 480000000,
-            "description": ""
-        },
-        {
-            "value": 960000000,
+            "value": 7812000000,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 200000,
+            "value": 25000000,
+            "description": ""
+        },
+        {
+            "value": 35000000,
             "description": ""
         }
     ],
     "acf": [],
-    "modulation": [],
+    "modulation": [
+        {
+            "value": "QPSK",
+            "description": ""
+        },
+        {
+            "value": "OQPSK",
+            "description": ""
+        }
+    ],
     "mode": [
         {
             "value": "RAW",

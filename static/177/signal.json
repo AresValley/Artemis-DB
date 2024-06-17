@@ -1,36 +1,32 @@
 {
     "signal": {
-        "name": "FSQ",
-        "url": "https://www.sigidwiki.com/wiki/FSQ"
+        "name": "FSK441",
+        "url": "https://www.sigidwiki.com/wiki/FSK441"
     },
     "category": [
-        "Amateur Radio",
-        "Digital"
+        "Digital",
+        "Amateur Radio"
     ],
     "frequency": [
         {
-            "value": 3580000,
+            "value": 144000000,
             "description": ""
         },
         {
-            "value": 7104000,
-            "description": ""
-        },
-        {
-            "value": 10149000,
+            "value": 444000000,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 300,
+            "value": 1750,
             "description": ""
         }
     ],
     "acf": [],
     "modulation": [
         {
-            "value": "IFK+",
+            "value": "FSK",
             "description": ""
         }
     ],

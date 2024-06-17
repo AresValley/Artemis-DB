@@ -1,38 +1,46 @@
 {
     "signal": {
-        "name": "FSK441",
-        "url": "https://www.sigidwiki.com/wiki/FSK441"
+        "name": "FM NBTV",
+        "url": "https://www.sigidwiki.com/wiki/FM_NBTV"
     },
     "category": [
         "Amateur Radio",
-        "Digital"
+        "Analogue"
     ],
     "frequency": [
         {
-            "value": 144000000,
+            "value": 3000000,
             "description": ""
         },
         {
-            "value": 444000000,
+            "value": 470000000,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 1750,
+            "value": 2300,
             "description": ""
         }
     ],
     "acf": [],
     "modulation": [
         {
-            "value": "FSK",
+            "value": "FM",
+            "description": ""
+        },
+        {
+            "value": "BPSK",
             "description": ""
         }
     ],
     "mode": [
         {
-            "value": "USB",
+            "value": "SSB",
+            "description": ""
+        },
+        {
+            "value": "FM",
             "description": ""
         }
     ],

@@ -1,36 +1,37 @@
 {
     "signal": {
-        "name": "TT2300",
-        "url": "https://www.sigidwiki.com/wiki/TT2300"
+        "name": "THROB",
+        "url": "https://www.sigidwiki.com/wiki/THROB"
     },
     "category": [
-        "Digital"
+        "Digital",
+        "Amateur Radio"
     ],
     "frequency": [
         {
-            "value": 5028700,
+            "value": 3000000,
             "description": ""
         },
         {
-            "value": 5109700,
-            "description": ""
-        },
-        {
-            "value": 7716700,
-            "description": ""
-        },
-        {
-            "value": 7719700,
+            "value": 30000000,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 1600,
+            "value": 72,
             "description": ""
         },
         {
-            "value": 1700,
+            "value": 94,
+            "description": ""
+        },
+        {
+            "value": 144,
+            "description": ""
+        },
+        {
+            "value": 188,
             "description": ""
         }
     ],

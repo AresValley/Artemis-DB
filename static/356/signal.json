@@ -1,38 +1,43 @@
 {
     "signal": {
-        "name": "PACKET",
-        "url": "https://www.sigidwiki.com/wiki/PACKET"
+        "name": "Orbcomm",
+        "url": "https://www.sigidwiki.com/wiki/Orbcomm"
     },
     "category": [
-        "Amateur Radio",
-        "Digital"
+        "Digital",
+        "Satellite"
     ],
     "frequency": [
         {
-            "value": 3000000,
+            "value": 137000000,
             "description": ""
         },
         {
-            "value": 800000000,
+            "value": 150000000,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 730,
+            "value": 15000,
             "description": ""
         }
     ],
-    "acf": [],
+    "acf": [
+        {
+            "value": 1000.0,
+            "description": "Main"
+        }
+    ],
     "modulation": [
         {
-            "value": "FSK",
+            "value": "SDPSK",
             "description": ""
         }
     ],
     "mode": [
         {
-            "value": "USB",
+            "value": "NFM",
             "description": ""
         }
     ],

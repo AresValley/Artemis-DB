@@ -1,36 +1,70 @@
 {
     "signal": {
-        "name": "Digital Radio Mondiale Plus (DRM+)",
-        "url": "https://www.sigidwiki.com/wiki/Digital_Radio_Mondiale_Plus_(DRM%2B)"
+        "name": "Digital Radio Mondiale (DRM)",
+        "url": "https://www.sigidwiki.com/wiki/Digital_Radio_Mondiale_(DRM)"
     },
     "category": [
-        "Commercial",
-        "Digital"
+        "Digital",
+        "Commercial"
     ],
     "frequency": [
         {
-            "value": 47000000,
+            "value": 531000,
             "description": ""
         },
         {
-            "value": 230000000,
+            "value": 26060000,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 100000,
+            "value": 4500,
+            "description": ""
+        },
+        {
+            "value": 5000,
+            "description": ""
+        },
+        {
+            "value": 9000,
+            "description": ""
+        },
+        {
+            "value": 10000,
+            "description": ""
+        },
+        {
+            "value": 18000,
+            "description": ""
+        },
+        {
+            "value": 20000,
             "description": ""
         }
     ],
-    "acf": [],
+    "acf": [
+        {
+            "value": 400.0,
+            "description": "Main"
+        }
+    ],
     "modulation": [
+        {
+            "value": "QAM",
+            "description": ""
+        },
         {
             "value": "OFDM",
             "description": ""
         }
     ],
-    "mode": [],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
     "location": [
         {
             "value": "Worldwide",

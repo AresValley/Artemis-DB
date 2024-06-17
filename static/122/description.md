@@ -1,1 +1,1 @@
-Coquelet is an MFSK system, similar to Piccolo. Also known as COQ-8, COQ-12, and COQUELET 8 V 2. Uses ITA-2 charset. It's two main modes are Coquelet-8 and Coquelet-13. No longer in use.
+"Speed control by beacons" railway safety system used in France and the Channel Tunnel line in the UK.

@@ -1,1 +1,1 @@
-THROB is a unique data mode that relies heavily on DSP techniques, using MFSK and AM modulation techniques together.
+THOR is an adaptation of DominoEX with MFSK16 binary varicode and FEC.

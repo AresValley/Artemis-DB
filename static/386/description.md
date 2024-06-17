@@ -1,1 +1,1 @@
-Q15X25, also known as NEWQPSK, is an experimental amateur radio packet modem developed by Pawel Jalocha SP9VRC. Q15X25 is a OFDM QPSK implementation of the AX.25 Packet protocol used in PACKET.
+The Q-MAC HF Modem is a military modem developed by Q-MAC (acquired by Barrett Communications). It uses OFDM with a BPSK sync channel in a gap of the signal.

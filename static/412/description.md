@@ -1,1 +1,1 @@
-Russian telemetry system, transmitted over the overhead power lines.
+Over The Horizon radar with a very similar signal structure as Ghadir. Operating in west Russia.

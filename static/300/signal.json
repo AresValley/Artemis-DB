@@ -1,29 +1,44 @@
 {
     "signal": {
-        "name": "MODAT",
-        "url": "https://www.sigidwiki.com/wiki/MODAT"
+        "name": "MOBITEX",
+        "url": "https://www.sigidwiki.com/wiki/MOBITEX"
     },
-    "category": [],
+    "category": [
+        "Digital",
+        "Commercial"
+    ],
     "frequency": [
         {
-            "value": 30000000,
+            "value": 900000000,
             "description": ""
         },
         {
-            "value": 800000000,
+            "value": 400000000,
+            "description": ""
+        },
+        {
+            "value": 450000000,
+            "description": ""
+        },
+        {
+            "value": 424000000,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 5000,
+            "value": 15000,
             "description": ""
         }
     ],
     "acf": [],
     "modulation": [
         {
-            "value": "MFSK",
+            "value": "GMSK",
+            "description": ""
+        },
+        {
+            "value": "FFSK",
             "description": ""
         }
     ],

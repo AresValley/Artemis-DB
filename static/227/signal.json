@@ -1,39 +1,32 @@
 {
     "signal": {
-        "name": "Horus Binary 4FSK - v2",
-        "url": "https://www.sigidwiki.com/wiki/Horus_Binary_4FSK_-_v2"
+        "name": "High Speed USB Noise",
+        "url": "https://www.sigidwiki.com/wiki/High_Speed_USB_Noise"
     },
     "category": [
-        "Amateur Radio",
-        "Utility",
-        "Analogue"
+        "Interfering"
     ],
     "frequency": [
         {
-            "value": 431000000,
+            "value": 480000000,
             "description": ""
         },
         {
-            "value": 434000000,
+            "value": 960000000,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 1000,
+            "value": 200000,
             "description": ""
         }
     ],
     "acf": [],
-    "modulation": [
-        {
-            "value": "4FSK",
-            "description": ""
-        }
-    ],
+    "modulation": [],
     "mode": [
         {
-            "value": "USB",
+            "value": "RAW",
             "description": ""
         }
     ],

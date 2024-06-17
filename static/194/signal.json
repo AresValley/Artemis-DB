@@ -1,33 +1,43 @@
 {
     "signal": {
-        "name": "GOES High Rate Information Transmission (HRIT)",
-        "url": "https://www.sigidwiki.com/wiki/GOES_High_Rate_Information_Transmission_(HRIT)"
+        "name": "GOES Data Collection System (DCS)",
+        "url": "https://www.sigidwiki.com/wiki/GOES_Data_Collection_System_(DCS)"
     },
     "category": [
-        "Digital"
+        "Satellite",
+        "Digital",
+        "Utility"
     ],
     "frequency": [
         {
-            "value": 1694100000,
+            "value": 1679900000,
+            "description": ""
+        },
+        {
+            "value": 1680200000,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 1205000,
+            "value": 300,
+            "description": ""
+        },
+        {
+            "value": 1200,
             "description": ""
         }
     ],
     "acf": [],
     "modulation": [
         {
-            "value": "BPSK",
+            "value": "8PSK",
             "description": ""
         }
     ],
     "mode": [
         {
-            "value": "RAW",
+            "value": "USB",
             "description": ""
         }
     ],

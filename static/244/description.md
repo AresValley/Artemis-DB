@@ -1,1 +1,1 @@
-Inmarsat C provides two-way data and messaging communication services to and from virtually anywhere in the world. The low-cost terminals and antennas are small enough to be fitted to any size of ship.
+IsatM2M Service operated by Inmarsat on existing Inmarsat-D/D+ infrastructure.

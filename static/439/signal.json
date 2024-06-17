@@ -1,40 +1,39 @@
 {
     "signal": {
-        "name": "Sensus Water meter (Acquisition units)",
-        "url": "https://www.sigidwiki.com/wiki/Sensus_Water_meter_(Acquisition_units)"
+        "name": "Secondary surveillance radar (SSR)",
+        "url": "https://www.sigidwiki.com/wiki/Secondary_surveillance_radar_(SSR)"
     },
     "category": [
+        "Radar",
         "Commercial",
-        "Digital"
+        "Aviation",
+        "Navigation"
     ],
     "frequency": [
         {
-            "value": 902000000,
-            "description": ""
-        },
-        {
-            "value": 927000000,
+            "value": 1030000000,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 175000000,
+            "value": 3000000,
             "description": ""
         }
     ],
     "acf": [],
     "modulation": [
         {
-            "value": "ASK",
-            "description": ""
-        },
-        {
-            "value": "FHSS",
+            "value": "PPM",
             "description": ""
         }
     ],
-    "mode": [],
+    "mode": [
+        {
+            "value": "RAW",
+            "description": ""
+        }
+    ],
     "location": [
         {
             "value": "Worldwide",

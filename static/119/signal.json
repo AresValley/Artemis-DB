@@ -1,54 +1,34 @@
 {
     "signal": {
-        "name": "Contestia",
-        "url": "https://www.sigidwiki.com/wiki/Contestia"
+        "name": "CompuLert",
+        "url": "https://www.sigidwiki.com/wiki/CompuLert"
     },
     "category": [
-        "Amateur Radio",
-        "Digital"
+        "Digital",
+        "Utility"
     ],
     "frequency": [
         {
-            "value": 3000000,
-            "description": ""
-        },
-        {
-            "value": 30000000,
+            "value": 453375000,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 150,
-            "description": ""
-        },
-        {
-            "value": 250,
-            "description": ""
-        },
-        {
-            "value": 500,
-            "description": ""
-        },
-        {
-            "value": 1000,
-            "description": ""
-        },
-        {
-            "value": 2000,
+            "value": 5000,
             "description": ""
         }
     ],
     "acf": [],
     "modulation": [
         {
-            "value": "MFSK",
+            "value": "FSK",
             "description": ""
         }
     ],
     "mode": [
         {
-            "value": "USB",
+            "value": "NFM",
             "description": ""
         }
     ],

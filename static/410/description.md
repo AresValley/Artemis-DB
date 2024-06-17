@@ -1,1 +1,1 @@
-One-way error-correcting broadcast system, used by one of Russian intelligence agencies for delivery of messages to their operatives abroad on fixed schedules.
+Russian Diplomatic 3 channel VFT PSK running at 64 Bd. Enigma M42 designation

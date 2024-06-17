@@ -1,1 +1,1 @@
-The Radio Telephone Network C (German: Funktelefonnetz-C, abbreviated as C-Netz), was a first generation analog cellular phone system deployed and operated in Germany (at first West Germany) by DeTeMobil (formerly of Deutsche Bundespost Telekom, currently Deutsche Telekom).
+Radio Data System (RDS) and its North American variant, Radio Broadcast Data System (RBDS), are data modes transmitted on subcarriers of commercial FM radio station transmissions.

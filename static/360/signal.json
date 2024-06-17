@@ -1,12 +1,12 @@
 {
     "signal": {
-        "name": "PACTOR IV",
-        "url": "https://www.sigidwiki.com/wiki/PACTOR_IV"
+        "name": "PACTOR III",
+        "url": "https://www.sigidwiki.com/wiki/PACTOR_III"
     },
     "category": [
-        "Amateur Radio",
+        "Digital",
         "Commercial",
-        "Digital"
+        "Amateur Radio"
     ],
     "frequency": [
         {
@@ -20,11 +20,11 @@
     ],
     "bandwidth": [
         {
-            "value": 2400,
+            "value": 400,
             "description": ""
         },
         {
-            "value": 300,
+            "value": 2400,
             "description": ""
         }
     ],
@@ -32,10 +32,6 @@
     "modulation": [
         {
             "value": "PSK",
-            "description": ""
-        },
-        {
-            "value": "QAM",
             "description": ""
         }
     ],

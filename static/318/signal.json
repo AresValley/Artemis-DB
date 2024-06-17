@@ -1,39 +1,48 @@
 {
     "signal": {
-        "name": "Morse Code (CW)",
-        "url": "https://www.sigidwiki.com/wiki/Morse_Code_(CW)"
+        "name": "Modernised High Frequency Communications System (MHFCS)",
+        "url": "https://www.sigidwiki.com/wiki/Modernised_High_Frequency_Communications_System_(MHFCS)"
     },
     "category": [
-        "Amateur Radio",
+        "Digital",
         "Military"
     ],
     "frequency": [
         {
-            "value": 3000,
+            "value": 27477500,
             "description": ""
         },
         {
-            "value": 250000000000,
+            "value": 2009999,
             "description": ""
         }
     ],
-    "bandwidth": [],
+    "bandwidth": [
+        {
+            "value": 750,
+            "description": ""
+        },
+        {
+            "value": 400,
+            "description": ""
+        }
+    ],
     "acf": [],
     "modulation": [
         {
-            "value": "OOK",
+            "value": "FSK",
             "description": ""
         }
     ],
     "mode": [
         {
-            "value": "CW",
+            "value": "USB",
             "description": ""
         }
     ],
     "location": [
         {
-            "value": "Worldwide",
+            "value": "Australia",
             "description": ""
         }
     ]

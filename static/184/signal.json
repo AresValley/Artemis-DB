@@ -1,56 +1,44 @@
 {
     "signal": {
-        "name": "FreeDV COHPSK",
-        "url": "https://www.sigidwiki.com/wiki/FreeDV_COHPSK"
+        "name": "Federal Signal Modem-MSK",
+        "url": "https://www.sigidwiki.com/wiki/Federal_Signal_Modem-MSK"
     },
     "category": [
-        "Amateur Radio",
+        "Utility",
         "Digital"
     ],
     "frequency": [
         {
-            "value": 3000000,
+            "value": 150000000,
             "description": ""
         },
         {
-            "value": 30000000,
+            "value": 160000000,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 1500,
+            "value": 6000,
             "description": ""
         }
     ],
     "acf": [],
     "modulation": [
         {
-            "value": "PSK",
-            "description": ""
-        },
-        {
-            "value": "QPSK",
-            "description": ""
-        },
-        {
-            "value": "DQPSK",
-            "description": ""
-        },
-        {
-            "value": "OFDM",
+            "value": "MSK",
             "description": ""
         }
     ],
     "mode": [
         {
-            "value": "USB",
+            "value": "NFM",
             "description": ""
         }
     ],
     "location": [
         {
-            "value": "Worldwide",
+            "value": "United States",
             "description": ""
         }
     ]

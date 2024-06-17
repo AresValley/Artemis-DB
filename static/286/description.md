@@ -1,1 +1,1 @@
-Telemetry signal transmitted by M20 radiosondes
+An open source digital mode developed for amateur and other radio applications.

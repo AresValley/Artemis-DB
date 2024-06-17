@@ -1,25 +1,33 @@
 {
     "signal": {
-        "name": "Russian Diplo VFT PSK 64Bd",
-        "url": "https://www.sigidwiki.com/wiki/Russian_Diplo_VFT_PSK_64Bd"
+        "name": "Robust PACKET",
+        "url": "https://www.sigidwiki.com/wiki/Robust_PACKET"
     },
     "category": [
         "Digital",
-        "Numbers Stations"
+        "Amateur Radio"
     ],
     "frequency": [
         {
-            "value": 4022000,
+            "value": 3610000,
             "description": ""
         },
         {
-            "value": 23131000,
+            "value": 7047300,
+            "description": ""
+        },
+        {
+            "value": 10147300,
+            "description": ""
+        },
+        {
+            "value": 14103300,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 2500,
+            "value": 500,
             "description": ""
         }
     ],
@@ -27,6 +35,10 @@
     "modulation": [
         {
             "value": "PSK",
+            "description": ""
+        },
+        {
+            "value": "OFDM",
             "description": ""
         }
     ],
@@ -38,7 +50,7 @@
     ],
     "location": [
         {
-            "value": "Russia",
+            "value": "Worldwide",
             "description": ""
         }
     ]

@@ -1,1 +1,1 @@
-SKE126-01 Key Fob used for multiple Mazda models between 2006-2014. Manufactured by Mitsubishi Electric Company.
+The Marconi Selenia 25-Tone Modem is a military modem developed sometime around 2003 by Marconi Selenia Communications (Now Finmeccanica). It supports ECCM capability and transmits at a datarate of 2400bps.

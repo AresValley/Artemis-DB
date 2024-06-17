@@ -1,40 +1,59 @@
 {
     "signal": {
-        "name": "NML",
-        "url": "https://www.sigidwiki.com/wiki/NML"
+        "name": "NFM Voice",
+        "url": "https://www.sigidwiki.com/wiki/NFM_Voice"
     },
     "category": [
-        "Military",
-        "Digital"
+        "Analogue"
     ],
     "frequency": [
         {
-            "value": 25200,
+            "value": 27000000,
+            "description": ""
+        },
+        {
+            "value": 470000000,
+            "description": ""
+        },
+        {
+            "value": 864000000,
+            "description": ""
+        },
+        {
+            "value": 162400000,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 300,
+            "value": 5000,
+            "description": ""
+        },
+        {
+            "value": 30000,
+            "description": ""
+        },
+        {
+            "value": 12500,
             "description": ""
         }
     ],
     "acf": [],
     "modulation": [
         {
-            "value": "FSK",
+            "value": "FM",
             "description": ""
         }
     ],
     "mode": [
         {
-            "value": "CW",
+            "value": "NFM",
             "description": ""
         }
     ],
     "location": [
         {
-            "value": "United States",
+            "value": "Worldwide",
             "description": ""
         }
     ]

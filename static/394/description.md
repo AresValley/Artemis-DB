@@ -1,3 +1,1 @@
-Valsala Radiosonde RS80. This is an analog weather balloon radiosonde.
-
-Measures Temperature, Pressure and Humidity.
+ROS is an amateur radio teletype free running QSO mode designed for low signal/high noise conditions.

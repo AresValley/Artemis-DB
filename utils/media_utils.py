@@ -36,6 +36,7 @@ def download_audio(url, file_name, save_path, allvorbis=False):
     audio_path = save_path / "{}.ogg".format(file_name)
 
     if ext == 'wav' or ext == 'flac' and not allvorbis:
+        print('flac')
         codec = 'flac'
     else:
         codec = 'libvorbis'

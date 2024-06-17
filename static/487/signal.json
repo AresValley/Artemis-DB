@@ -1,43 +1,43 @@
 {
     "signal": {
-        "name": "VEZHA-S",
-        "url": "https://www.sigidwiki.com/wiki/VEZHA-S"
+        "name": "VDEW",
+        "url": "https://www.sigidwiki.com/wiki/VDEW"
     },
     "category": [
-        "Digital"
+        "Analogue"
     ],
     "frequency": [
         {
-            "value": 2755000,
+            "value": 30000000,
             "description": ""
         },
         {
-            "value": 12165000,
+            "value": 800000000,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 650,
+            "value": 5000,
             "description": ""
         }
     ],
     "acf": [],
     "modulation": [
         {
-            "value": "FSK",
+            "value": "MFSK",
             "description": ""
         }
     ],
     "mode": [
         {
-            "value": "USB",
+            "value": "NFM",
             "description": ""
         }
     ],
     "location": [
         {
-            "value": "Russia",
+            "value": "Worldwide",
             "description": ""
         }
     ]

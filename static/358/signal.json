@@ -1,12 +1,12 @@
 {
     "signal": {
-        "name": "PACTOR II",
-        "url": "https://www.sigidwiki.com/wiki/PACTOR_II"
+        "name": "PACTOR I",
+        "url": "https://www.sigidwiki.com/wiki/PACTOR_I"
     },
     "category": [
-        "Amateur Radio",
+        "Digital",
         "Commercial",
-        "Digital"
+        "Amateur Radio"
     ],
     "frequency": [
         {
@@ -20,14 +20,14 @@
     ],
     "bandwidth": [
         {
-            "value": 450,
+            "value": 300,
             "description": ""
         }
     ],
     "acf": [],
     "modulation": [
         {
-            "value": "PSK",
+            "value": "FSK",
             "description": ""
         }
     ],

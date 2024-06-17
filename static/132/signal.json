@@ -1,34 +1,50 @@
 {
     "signal": {
-        "name": "Delfi-C3 Telemetry",
-        "url": "https://www.sigidwiki.com/wiki/Delfi-C3_Telemetry"
+        "name": "Datawell Buoy HF Link",
+        "url": "https://www.sigidwiki.com/wiki/Datawell_Buoy_HF_Link"
     },
     "category": [
         "Digital",
-        "Satellite"
+        "Marine"
     ],
     "frequency": [
         {
-            "value": 145870000,
+            "value": 25500000,
+            "description": ""
+        },
+        {
+            "value": 35500000,
+            "description": ""
+        },
+        {
+            "value": 45000000,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 10000,
+            "value": 200,
+            "description": ""
+        },
+        {
+            "value": 400,
             "description": ""
         }
     ],
     "acf": [],
     "modulation": [
         {
-            "value": "BPSK",
+            "value": "FSK",
+            "description": ""
+        },
+        {
+            "value": "MFSK",
             "description": ""
         }
     ],
     "mode": [
         {
-            "value": "LSB",
+            "value": "USB",
             "description": ""
         }
     ],

@@ -1,55 +1,39 @@
 {
     "signal": {
-        "name": "Traffic Light Control R09",
-        "url": "https://www.sigidwiki.com/wiki/Traffic_Light_Control_R09"
+        "name": "Toyota Car Key",
+        "url": "https://www.sigidwiki.com/wiki/Toyota_Car_Key"
     },
     "category": [
-        "Utility",
-        "Digital"
+        "Digital",
+        "Utility"
     ],
     "frequency": [
         {
-            "value": 68000000,
+            "value": 315000000,
             "description": ""
         },
         {
-            "value": 87500000,
-            "description": ""
-        },
-        {
-            "value": 146000000,
-            "description": ""
-        },
-        {
-            "value": 174000000,
-            "description": ""
-        },
-        {
-            "value": 450000000,
-            "description": ""
-        },
-        {
-            "value": 470000000,
+            "value": 433000000,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 10000,
+            "value": 40000,
             "description": ""
         }
     ],
     "acf": [],
-    "modulation": [
+    "modulation": [],
+    "mode": [
         {
-            "value": "AFSK",
+            "value": "AM",
             "description": ""
         }
     ],
-    "mode": [],
     "location": [
         {
-            "value": "Germany",
+            "value": "Worldwide",
             "description": ""
         }
     ]

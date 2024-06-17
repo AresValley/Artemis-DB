@@ -1,1 +1,1 @@
-MIL-STD-110-342 was a US Dept. of Defense standard for a 16 channel VFT teletype transmission. This mode was officially cancelled as of December 5th, 1995.
+Popular antenna analyzer among ham operators and the like. Output power is only ~20mW so if heard, source is nearby. Other MFJ models may be similar.

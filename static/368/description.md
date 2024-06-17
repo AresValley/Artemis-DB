@@ -1,1 +1,1 @@
-Also known as PSK paging, is a signal that allows side-by-side PSK to exist in AFSK paging links, allowing for more dynamically processed DSP available.
+Dump of satellite data to Redu, Belgium ground station from the PROBA (Project for On-Board Autonomy) 1, 2, and V ESA satellites.

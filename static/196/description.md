@@ -1,1 +1,1 @@
-The Grand Réseau Adapté à la Veille Spatiale (GRAVES) system is a French space-surveillance system for low-orbit (up to 1000km) satellites. Emitter is based near Dijon, France.
+GOES Rebroadcast (GRB) is a form of data sent from the GOES-R series of satellites that contain information from all of the instruments on board the GOES satellites

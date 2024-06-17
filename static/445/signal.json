@@ -1,49 +1,43 @@
 {
     "signal": {
-        "name": "SiriusXM Satellite Radio",
-        "url": "https://www.sigidwiki.com/wiki/SiriusXM_Satellite_Radio"
+        "name": "Single frequency russian overhead power line telemetry system",
+        "url": "https://www.sigidwiki.com/wiki/Single_frequency_russian_overhead_power_line_telemetry_system"
     },
     "category": [
-        "Commercial",
-        "Digital",
-        "Satellite"
+        "Digital"
     ],
     "frequency": [
         {
-            "value": 2332500000,
+            "value": 50000,
             "description": ""
         },
         {
-            "value": 2345000000,
+            "value": 1000000,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 12500000,
+            "value": 300,
             "description": ""
         }
     ],
     "acf": [],
     "modulation": [
         {
-            "value": "OFDM",
-            "description": ""
-        },
-        {
-            "value": "PSK",
+            "value": "AM",
             "description": ""
         }
     ],
     "mode": [
         {
-            "value": "RAW",
+            "value": "SSB",
             "description": ""
         }
     ],
     "location": [
         {
-            "value": "United States",
+            "value": "Russia",
             "description": ""
         }
     ]

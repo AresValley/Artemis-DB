@@ -1,1 +1,1 @@
-TT2300, also known as TT2300B, TT2300-ARQ, TRA-2300, and TPLEX, is an 8MFSK synchronous system developed by Thrane & Thrane of Denmark (acquired by UK defense firm Cobham in 2012).
+THROB is a unique data mode that relies heavily on DSP techniques, using MFSK and AM modulation techniques together.

@@ -1,1 +1,1 @@
-This signal comes from Logitech(R) Brand wireless mouse and keyboard combo unit.
+Logic Trunked Radio, is an analog trunked radio format developed by EF Johnson Company.

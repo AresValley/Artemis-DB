@@ -1,1 +1,1 @@
-Fast Low-latency Access with Seamless Handoff Orthogonal Frequency Division Multiplexing (FLASH-OFDM) is a mobile data access technology developed by Flarion.
+FEC-A, also known as FEC-100 or FEC-100A, is a synchronous simplex ARQ system that uses the ITA 2 alphabet. This mode was once used by many embassies, diplomatic services, and news agencies worldwide. This mode was developed by Siemens.

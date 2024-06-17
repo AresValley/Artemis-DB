@@ -1,1 +1,1 @@
-SITOR-B is one of two modes of SITOR (Simplex Teletype Over Radio).
+SITOR-A (Also known as AMTOR-A) is one of two modes of SITOR, which stands for Simplex Teletype Over Radio.
