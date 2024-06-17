@@ -135,3 +135,8 @@ def checksum_sha256(data):
             code.update(mv[:n])
             
     return code.hexdigest()
+
+def get_extension(url):
+    file_name = url.split('/')[-1]
+    extension = file_name.split('.')[-1]
+    return extension

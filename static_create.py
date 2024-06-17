@@ -148,7 +148,7 @@ class SigidDataparser():
                         {
                             'file_name': file_name,
                             'extension': 'png',
-                            'name': 'sigId Spectrum',
+                            'name': 'Main',
                             'description': 'This is the wiki spectrum of the signal from www.sigidwiki.com',
                             'type': 'Image',
                             'preview': 1
@@ -161,8 +161,8 @@ class SigidDataparser():
                     media_json.append(
                         {
                             'file_name': file_name,
-                            'extension': 'm4a',
-                            'name': 'sigId Audio',
+                            'extension': 'ogg',
+                            'name': 'Main',
                             'description': 'This is the wiki audio sample of the signal from www.sigidwiki.com',
                             'type': 'Audio',
                             'preview': 1
