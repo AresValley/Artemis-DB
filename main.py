@@ -2,11 +2,11 @@ import datetime
 import argparse
 import time
 
-import generic_utils as ut
+import utils.generic_utils as ut
 
-from constants import *
-from media_utils import *
-from sql_utils import ArtemisDB
+from utils.constants import *
+from utils.media_utils import *
+from utils.sql_utils import ArtemisDB
 
 
 class SigidDataparser():

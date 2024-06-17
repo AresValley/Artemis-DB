@@ -1,54 +1,50 @@
+import os
 import argparse
 import time
 import json
 
-import generic_utils as ut
+import utils.generic_utils as ut
 
-from constants import *
-from media_utils import *
+from utils.constants import Constants, Path, Url
+from utils.media_utils import download_spectrum, download_audio
 
 
 class SigidDataparser():
 
     def __init__(self, download_media=False):
+
+####################################################### MARK: SIGNAL INDEX
         print('Extract main index...')
-        tmp_idx_all = ut.extract_index(Url.SIGID_ALL)
+        with open('all_signals.json') as file:
+            sigs_idx = json.load(file)
 
         idx_all = {}
-        for idx, signal in enumerate(tmp_idx_all):
-            idx_all[signal] = {
-                'dir': idx + 1,
-                'url': tmp_idx_all[signal]
-            }
+        idx = 1
+        for signal in sigs_idx:
+            if signal not in Constants.SIG_EXCLUSION:
+                idx_all[signal] = {
+                    'dir': idx,
+                    'url': sigs_idx[signal]['fullurl']
+                }
+                idx +=1
 
         with open('static/index.json', 'w') as json_file:
             json.dump(idx_all, json_file, indent=4)
 
-        time.sleep(3)
-
-        print('\nExtract category index...')
-        idx_cat = {}
-        for idx, cat in enumerate(Constants.CATEGORIES):
-            print(f"{idx + 1}/{len(Constants.CATEGORIES)}\t{cat}")
-            cat_sig = ut.extract_index(Url.SIGID_CAT + cat)
-            idx_cat[cat] = list(cat_sig.keys())
-            time.sleep(3)
-
-
+####################################################### MARK: PARSE SIGNALS
         print('\nExtract signals...')
         for sig in idx_all:
             sig_json = {}
 
-            sig_id = idx_all[sig]['dir']
+            sig_num = idx_all[sig]['dir']
             sig_name = sig
             sig_url = idx_all[sig]['url']
-            sig_dir = Path.STATIC_DIR / str(sig_id)
+            sig_dir = Path.STATIC_DIR / str(sig_num)
 
-            print(f"{sig_id}/{len(idx_all)}\t{sig_name}")
+            print(f"{sig_num}/{len(idx_all)}\t{sig_name}")
             os.mkdir(sig_dir)
 
             sig_param = ut.extract_sig_param(sig_url)
-
             sig_json['signal'] = {
                 'name': sig_name,
                 'url': sig_url
@@ -57,15 +53,7 @@ class SigidDataparser():
             with open(sig_dir / 'description.md', 'w', encoding='utf-8') as f:
                 f.write(sig_param['Short Description'])
 
-
-            cat_json = []
-            for cat in Constants.CATEGORIES:
-                if sig in idx_cat[cat]:
-                    cat_json.append(
-                        cat.replace('_', ' ')
-                    )
-            sig_json['category'] = cat_json
-
+            sig_json['category'] = sig_param['Category']
 
             sig_json['frequency'] = []
             if 'Frequencies' in sig_param:
@@ -138,6 +126,8 @@ class SigidDataparser():
             with open(sig_dir / 'signal.json', 'w') as json_file:
                 json.dump(sig_json, json_file, indent=4)
 
+####################################################### MARK: DOWNLOAD MEDIA
+
             if download_media:
                 sig_media_dir = sig_dir / 'media'
                 os.mkdir(sig_media_dir)
@@ -168,7 +158,7 @@ class SigidDataparser():
                             'preview': 1
                         }
                     )
-                    download_audio(sig_param['Audio'], file_name, sig_media_dir)
+                    download_audio(sig_param['Audio'], file_name, sig_media_dir, allvorbis=False)
 
                 with open(sig_dir / 'media.json', 'w') as json_file:
                     json.dump(media_json, json_file, indent=4)

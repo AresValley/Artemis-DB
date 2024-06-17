@@ -1,7 +1,7 @@
 import difflib
 
-from sql_utils import ArtemisDB
-from constants import Constants
+from utils.sql_utils import ArtemisDB
+from utils.constants import Constants
 
 
 WRITE = 0

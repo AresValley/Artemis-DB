@@ -4,7 +4,7 @@ from pathlib import Path
 
 
 class Path():
-    BASE_DIR        = Path(os.path.dirname(__file__))
+    BASE_DIR        = Path(os.path.dirname(__file__)) / '..'
     DATA_DIR        = BASE_DIR / "sigID"
     MEDIA_DIR       = DATA_DIR / "media"
     STATIC_DIR      = BASE_DIR / "static"
@@ -24,8 +24,8 @@ class Constants():
         "Aviation",
         "Marine",
         "Navigation",
-        "Amateur_Radio",
-        "Trunked_Radio",
+        "Amateur Radio",
+        "Trunked Radio",
         "Military",
         "Commercial",
         "Utility",
@@ -34,7 +34,7 @@ class Constants():
         "Satellite",
         "Radar",
         "Interfering",
-        "Numbers_Stations",
+        "Numbers Stations",
         "Time"
     ]
 

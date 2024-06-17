@@ -1,6 +1,6 @@
 import sqlite3
 
-from constants import Query, Path
+from utils.constants import Query, Path
 from contextlib import closing
 
 

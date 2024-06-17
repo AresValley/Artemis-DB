@@ -4,11 +4,11 @@ import argparse
 import datetime
 import shutil
 
-import json_utils as js
+import utils.json_utils as js
 
 from tqdm import tqdm
-from constants import Path, Constants
-from sql_utils import ArtemisDB
+from utils.constants import Path, Constants
+from utils.sql_utils import ArtemisDB
 
 
 class Static2Sqlite():
@@ -17,7 +17,7 @@ class Static2Sqlite():
         sig_db = ArtemisDB('data')
         sig_db.create_db()
 
-        ### Sign DB
+####################### MARK: Sign DB
         sig_db.sign_db(
             'SigID',
             str(datetime.date.today()),
@@ -28,7 +28,7 @@ class Static2Sqlite():
         with open(Path.STATIC_DIR / 'index.json') as file:
             sigs_idx = json.load(file)
 
-        ### Scan all signal to find all category tags
+####################### MARK: Scan Tags
         all_cat = set()
         for sig_idx in sigs_idx.values():
             sig = js.Signal()
@@ -43,7 +43,7 @@ class Static2Sqlite():
             )
             cat_idx[cat] = clb_id
 
-        ### Add signals
+####################### MARK: Scan Signals
         for sig_idx in tqdm(sigs_idx.values()):
             sig = js.Signal()
             sig.load(sig_idx['dir'])
@@ -101,6 +101,8 @@ class Static2Sqlite():
                     location['value'],
                     location['description']
                 )
+
+####################### MARK: Copy Media
 
             for media in sig.media:
                 doc_id = sig_db.add_document(

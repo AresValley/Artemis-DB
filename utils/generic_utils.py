@@ -4,37 +4,13 @@ import re
 
 from bs4 import BeautifulSoup
 
-from constants import *
+from utils.constants import *
 
 
 def _get_source (url):
     response = requests.get(url)
     return response.content
 
-def extract_index(url):
-    """ Extract the signal name and the url of the signals page
-        The signals in the exclusion list are not considered and any possible
-        duplicate is handled.
-    """
-    accepted_sigs = {}
-    
-    source = _get_source(url)
-    soup = BeautifulSoup(source, 'lxml')
-        
-    tr_tag = soup.find_all('tr')
-    
-    for sig in tr_tag:
-        td_tag = sig.find_all('td')
-        
-        if len(td_tag) == 9:
-            sig_name = td_tag[0].find('a').attrs['title']
-            sig_url = td_tag[0].find('a').attrs['href']
-            sig_full_url = Url.SIGID_DOMAIN + sig_url
-            
-            if sig_name not in Constants.SIG_EXCLUSION:
-                accepted_sigs[sig_name] = sig_full_url
-
-    return accepted_sigs
 
 def extract_sig_param(url):
     
@@ -45,7 +21,10 @@ def extract_sig_param(url):
         
     table_tag = soup.find('table', 'infobox')
     tr_tag = table_tag.find_all('tr')
-    
+
+    cat_tag = soup.find('div', 'mw-normal-catlinks')
+    categories = [a.text for a in cat_tag.find_all('a') if 'title' in a.attrs and 'Category:' in a.attrs['title']]
+
     for row in tr_tag:
         th_tag = row.find('th')
         td_tag = row.find('td')
@@ -69,7 +48,9 @@ def extract_sig_param(url):
         elif audio_tag != None:
             sig_param['Audio'] = audio_tag['src']
     
+    sig_param['Category'] = [cat for cat in categories if cat in Constants.CATEGORIES]
     return sig_param
+
 
 def format_freq(freq_string):
     freq_list = []
@@ -80,6 +61,7 @@ def format_freq(freq_string):
         freq_list.append(formatted_freq)
 
     return freq_list
+
 
 def format_acf(acf_string):
     if acf_string == '—':
@@ -112,6 +94,7 @@ def format_acf(acf_string):
 
         return acf_list
 
+
 def format_text(raw_string):
     """ Used for modulation, mode and location
     """
@@ -124,6 +107,7 @@ def format_text(raw_string):
 
     return list_result
 
+
 def checksum_sha256(data):
     """ Calculate SHA256 hash
     """
@@ -135,6 +119,7 @@ def checksum_sha256(data):
             code.update(mv[:n])
             
     return code.hexdigest()
+
 
 def get_extension(url):
     file_name = url.split('/')[-1]

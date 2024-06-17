@@ -1,5 +1,5 @@
 import json
-from constants import Path
+from utils.constants import Path
 
 
 class Signal():

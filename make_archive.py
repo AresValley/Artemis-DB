@@ -1,6 +1,6 @@
 import shutil
 import os
-from generic_utils import checksum_sha256
+from utils.generic_utils import checksum_sha256
 
 shutil.make_archive('sigID', 'tar', 'sigID')
 

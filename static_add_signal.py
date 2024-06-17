@@ -1,17 +1,18 @@
+import os
 import time
 import json
 
-import generic_utils as ut
+import utils.generic_utils as ut
 
-from constants import *
-from media_utils import *
+from utils.constants import Constants, Path, Url
+from utils.media_utils import download_spectrum, download_audio
 
 
 class SigidDataparser():
 
     def __init__(self):
 
-        sig_url = 'https://www.sigidwiki.com/wiki/5G_%22New_Radio%22_cellular_network_-_Downlink'
+        sig_url = ''
 
         print('Extract main index...')
         tmp_idx_all = ut.extract_index(Url.SIGID_ALL)
