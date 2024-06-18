@@ -34,7 +34,7 @@ This mode employs 6 constituent burst waveforms BW0 to BW5 for the various kinds
 |----------|-----------------------------------------------------------------------------------------------|-----------------------------------|-----------|-----------------------------------|
 | BW0      | Used for Robust Link Set Up. 3G-ALE PDUs (Protocol Data Unit)                                  | 613.333 ms                        | 160.0 ms  | 26 bits                           |
 | BW1      | Used for management traffic and HDL ACK (High-rate Data Link Protocol) acknowledgement PDUs    | 1.30667 sec                       | 240.0 ms  | 48 bits                           |
-| BW2      | Used for HDL traffic data PDUs                                                                 | 640 ms + n*400 ms<br>n = 3, 6, 12, or 24 | 26.67 ms  | 1881*n bits<br>n = 3, 6, 12, or 24 |
-| BW3      | Used for LDL traffic (Low-rate Data Link Protocol) traffic data PDUs                           | 373.33 ms + n*13.33 ms<br>n = 64, 128, 256, or 512 | 266.67 ms | 8*n + 25 bits<br>n = 64, 128, 256, or 512 |
+| BW2      | Used for HDL traffic data PDUs                                                                 | 640 ms + n*400 ms n = 3, 6, 12, or 24 | 26.67 ms  | 1881*n bits n = 3, 6, 12, or 24 |
+| BW3      | Used for LDL traffic (Low-rate Data Link Protocol) traffic data PDUs                           | 373.33 ms + n*13.33 ms n = 64, 128, 256, or 512 | 266.67 ms | 8*n + 25 bits n = 64, 128, 256, or 512 |
 | BW4      | Used for LDL ACK (acknowledgement) PDUs                                                        | 640.0 ms                          | None      |                                   |
 | BW5      | Used for Fast Link Set Up (Note: Does not exist in 141B)                                       | 1013.33 ms                        | 240 ms    | 50 bits                           |

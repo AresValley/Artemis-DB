@@ -1,1 +1,3 @@
-New Russian MFSK Modem that uses 68 MFSK (5 tones at a time) as well as a 9000 Bd 8-PSK insert every second which spans 10 kHz wide. This signal is often found attributed with CIS-3000, where CIS-3000 acts as the ALE for this signal as well as CIS-128.
+New Russian MFSK Modem that uses 68 MFSK (5 tones per symbol) as well as a 9000 Bd 8-PSK insert every second which spans 10 kHz wide. This signal is often found attributed with CIS-3000, where CIS-3000 acts as the ALE for this signal as well as CIS-128. It has also been seen precluding a Mazielka (X06) selcall. They may be sent from the same military modem.
+
+The MFSK uses 68 tones at 100 Bd or 50 Bd. The MFSK portion lasts 960 ms, and the PSK insert lasts 40 ms, so a single frame is exactly 1 second long. The 8-PSK insert transmits at 9000 Bd, so roughly 1440 bits are transmitted each time the PSK insert happens.

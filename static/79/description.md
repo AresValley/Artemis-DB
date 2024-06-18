@@ -1,1 +1,3 @@
-An MFSK data mode that is believed to originate from Russian sources. Changes between MFSK-21, MFSK-13 and different speeds.
+This is an MFSK signal that is believed to originate from Russian sources. Transmission changes between 21-tone MFSK with 125 Hz tone spacing and 13-tone MFSK with 250 Hz tone spacing, and different speeds. Sometimes only some of these modes may be used. The purpose of and the equipment used to transmit this signal are unknown.
+
+The MFSK-21 mode occupies about 2600 Hz and the MFSK-13 mode about 3000 Hz of bandwidth. Total bandwidth is slightly more, about 3300 Hz, if the designated transmission frequencies are assumed to hit integer kHz.

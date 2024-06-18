@@ -1,1 +1,3 @@
 Enigma Designation XPA, also known as MFSK-20, CIS MFSK-17, and CIS MFSK-20, is a 17-tone MFSK signal said to have origin from Russian Intelligence and Foreign Ministry stations.
+
+XPA has a very unique preamble sequence, and a lower "sync" tone that other MFSK systems don't have. XPA transmits 5 number groups of unknown meaning. XPA has used 10 baud USB mode and 20 baud DSB (AM) mode, but since 2011 XPA has stopped using the 20 baud mode and is only using the 10 baud USB mode.

@@ -1,1 +1,3 @@
-CIS-128 is an OFDM mode that uses 128 channels, with one “off” channel in the center, so the signal is divided into two 64 channel parts.
+CIS-128 is an OFDM mode that uses 128 channels, with one “off” channel in the center, so the signal is divided into two 64 channel parts. This mode has been seen using QAM and PSK of various modes. QAM-16, QAM-4, and QPSK have been seen so far. Has a baud rate of about 21 Bd in each subchannel. Has been seen with CIS-3000 preluding the transmission.
+
+Also seen in a 6 kHz wideband mode, with double the baud rate but still maintaining 128 channels and the center off channel.

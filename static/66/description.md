@@ -1,1 +1,3 @@
-CCIR 493-4 Selcall, also known as HF Selcall, Australian Selcall, and Codan 8580 Selcall, is a Selcall standard developed in Australia for the HF band. Used by Amateur radio and Codan Modems.
+CCIR 493-4 Selcall, also known as HF Selcall, Australian Selcall, and Codan 8580 Selcall, is a Selcall standard developed in Australia for the HF band. Used by Amateur radio and many HF modems.
+
+Has a 170 Hz shift and transmits at 100 Bd. Has the characteristic long CW tone as the preamble. The earlier version of this selcall mode only supports 4-digit selcall addresses, but support for 6-digit ID's has been implemented in newer systems. Codan, Barrett, QMAC, Micom, Icom, Vertex, and Jenal modems support have implemented the 6-digit version. The 6-digit version is backwards compatible with the original 4-digit version, but the 4-digit version cannot decode a 6-digit selcall.

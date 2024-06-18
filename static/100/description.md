@@ -1,1 +1,3 @@
-CLOVER-I was the first iteration of the Clover series of digital modes. Was never released for commercial use, replaced by CLOVER-II. Also known as Cloverleaf.
+CLOVER-I was the first iteration of the Clover series of digital modes. Was never released for commercial use, replaced by CLOVER-II. Also known as Cloverleaf. Developed by Ray Petit, W7GHM in 1987, taking inspiration from Coherent CW.
+
+The CLOVER-I system uses a single tone Phase (PSK) or Phase-Amplitude (QAM) shift keyed signal to deliver up to 100 bps. Channel spacing was 100 Hz, no guard bands were required with this mode.

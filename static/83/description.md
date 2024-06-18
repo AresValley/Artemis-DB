@@ -1,1 +1,1 @@
-CIS-112 OFDM signal. Has a preamble of 7 Tones (not including carrier), then 56 tones before entering into the 112 tone data transmission.
+CIS-112 OFDM signal. Has a preamble of 8 Tones (including carrier), then a 56 tone OFDM preamble before entering into the 112 tone data transmission. Each channel uses DQPSK at 22.22 baud. As with all MPSK CIS signals, there is a pilot tone 3300 Hz from the suppressed carrier.

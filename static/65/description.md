@@ -1,1 +1,3 @@
 CBET "Critical Band Encoded Tones" are tones added into radio broadcast's audio output for identification purposes.
+
+CBET/eCBET tones are a set of 10 frequency modulated tones between 1-3kHz. These signals are inserted into broadcast audio in over 50 major markets for identification by "Portable People Meters" used in Nielsen's rating scheme. Nielsen controversially purports that these signals are encoded in such a way that they are 'masked' by the program audio.

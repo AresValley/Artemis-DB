@@ -1,1 +1,1 @@
-CIS-16 is a BPSK 16-tone mode, possibly transmitted from a modified AT-3004D or AT-3104 type Russian military transceiver. Also known as CIS 16x75 Bd for the 75 bd speed in each of the 16 sub channels.
+CIS-16 is a BPSK 16-tone mode, possibly transmitted from a modified AT-3004D or AT-3104 type Russian military transceiver. Also known as CIS 16x75 Bd for the 75 bd speed in each of the 16 sub channels. This mode is distinctive by its gap separating the lower 7 channels from the upper 9 channels
