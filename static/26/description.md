@@ -1,1 +1,3 @@
-ARQ-N is a synchronous dual channel ARQ mode identical to ARQ-E, with the only difference being that ARQ-N has no symbol inversions. Formerly used by Italian Diplomatic services.
+ARQ-N is a synchronous dual channel ARQ mode identical to ARQ-E, with the only difference being that ARQ-N has no symbol inversions. Formerly used by Italian Diplomatic services. Also grouped under ARQ1000 Duplex. Uses 7-bit ITA 2-P Alphabet.
+
+Like ARQ-E and E3, this mode was invented by Siemens of Germany, and has all the features of ARQ-E, with the exception of a lack of symbol inversion.The lack of inversion makes it impossible to automatically determine the length of the RQ cycle. However, known systems operate exclusively with a single RQ character and three repeated characters. This mode is most commonly heard at 96 Bd, but baud rates of 48, 50, 64, 72, 96, 144, 184.6, 192, and 288 baud are possible.
