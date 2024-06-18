@@ -1,1 +1,3 @@
-AUTOSPEC is a synchronous FEC teletype system used by British coastal stations to communicate with North Sea oil rigs. Also known as Autospec-bauer, Bauer, and Autospec Mk1. This signal is most likely phased out.
+AUTOSPEC was a synchronous FEC teletype system used by British coastal stations to communicate with North Sea oil rigs. Also known as Autospec-bauer, Bauer, and Autospec Mk1. This signal is most likely phased out. This signal typically used 62.3, 68.5, or 102.7 Bd, along with 137 Bd. It uses the ITA-2 alphabet encoding with Bauer Forward Error Correction (FEC). Uses a 270 Hz FSK shift.
+
+AUTOSPEC may also have been used by the South African Navy, Brazilian Navy, and Romania's Diplomatic Stations.

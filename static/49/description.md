@@ -1,1 +1,3 @@
-Automatic Link Set-up (ALIS) is an automatic link system used by Rohde & Schwarz modems.
+Automatic Link Set-up (ALIS) is an automatic link system used by Rohde & Schwarz modems. Used in the same way as ALE. Primarily uses FSK with 228.66 Bd (variable from 30-650 Bd), and a FSK shift of 170 Hz. ALIS also uses ARQ / PRP for error correction. An improved version of ALIS was made, called ALIS-2
+
+ALIS is described in report 551-2 of the ITU "Reports of the CCIR 1990 - Fixed Services at Frequencies below about 30 MHz".
