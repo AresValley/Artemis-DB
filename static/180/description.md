@@ -1,1 +1,3 @@
-FT4 is an amateur radio contesting communication protocol developed by Joe Taylor (K1JT) and Steve Franke (K9AN) descended from FT8.
+FT4 is an amateur radio contesting communication protocol developed by Joe Taylor (K1JT) and Steve Franke (K9AN) that is descended from FT8. The specifications for FT4 are available on the Princeton Physics website.
+
+FT4 uses 4-GFSK modulation, transmission takes 4.48s with a 7.5s timing window. GFSK modulation is FSK smoothed out with a Gaussian function to maximize power efficiency. FT4 transmissions can be decoded at S/N down to -17.5dB.

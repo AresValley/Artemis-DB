@@ -1,1 +1,3 @@
-This is the proprietary HF Data Signal Protocol for the Rohde & Schwarz HF Modem GM2100.
+This is the proprietary HF Data Signal Protocol for the Rohde & Schwarz HF Modem GM2100. The modem itself supports three data modes, this special R&H data format, STANAG 4285, and MIL-STD-188-110.This R&S signal format is compatible with those of data modems GM857C4 and GM2000. For GM2100 it was optimized to give data rates between 900 and 5400 bit/s.
+
+It uses 2PSK, 4PSK, and 8PSK modulation. Each frame is 320 symbols, and ACF is 133.33 ms. Every frame is made up of 5 data subframes of 64 symbols (26.66 ms).

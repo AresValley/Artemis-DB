@@ -1,1 +1,11 @@
-FT8 is an extremely-weak-signal amateur radio mode that transmits very limited communications. JS8, a variant of FT8, can send full conversations and relay messages
+FT8 ("Franke-Taylor design, 8-FSK modulation") is an extremely-weak-signal, digital, narrow bandwidth (50 Hz), QSO-only communication protocol used by amateur radio ("ham radio") operators. It is popular among amateur radio operators for its ability to send signals despite challenging propagation conditions, high noise environments, low power operations (QRP), or even compromised antennas.
+
+FT8 transmits and receives only the bare essentials needed to make an amateur radio contact (QSO): Exhange of callsigns, readability report, signal strength report, and "best regards" ("73"). Because only this information can be sent, FT8 is not a "conversation" mode. FT8 transmits this minimum of information in a semi-automated fashion on its own time frame. Therefore, FT8 is not a "keyboard-to-keyboard" (real-time chat) mode.
+
+JS8 is a variant of FT8 which allows operators to send more information and converse with each other. JS8 was created to allow the basic principles of FT8 to be applied to sending actual messages (instead of just the bare minimum QSO information that FT8 limits operators with).
+
+Both FT8 and JS8 are heavily dependent on an accurate computer clock, since the modes send/receive information in a recurring, automated, 15s transmit/receive cycle. Transmissions occur in 12.6s intervals (within the 15s transmit cycle window) until an entire message has completed transmitting. FT8 uses 8-GFSK modulation, includes forward error correction (FEC), and has an effective data rate of 5 words per minute. FT8 transmissions can be decoded at S/N down to -21dB (very weak signal).
+
+FT8 was developed by Joe Taylor (K1JT) and Steve Franke (K9AN). It is one of the modes included in the open-source, weak signal, ham radio software package, WSJT-X.
+
+Since FT8 automatically transmits and receives only the bare minimum of information necessary to complete what officially counts as an amateur radio contact (QSO), FT8 has been criticized by some amateur radio enthusiasts as a means for radio amateurs to 'cheat' their way to victory in certain contests and award categories. Other amateur radio operators herald the mode as a boon to the hobby of amateur radio during times when the solar cycle is at a minimum and when radio propagation conditions are poor.

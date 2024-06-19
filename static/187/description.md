@@ -1,1 +1,7 @@
 Frequency Division Multiplex Digital Voice (FDMDV), also known as FDMDV 14+1-tone, is a digital voice mode originally developed by Peter Martinez G3PLX and Francesca Lanza HB9TLK. It has since been improved upon by David Rowe.
+
+The original FDMDV mode uses 1125 Hz bandwidth, and runs on 1450 bps speed. 1400bps is from the open source LPC voice codec, and the 50bps is for textual data. The signal itself consists of 14 DQPSK subcarriers running at 50 baud with 75Hz spacing between subcarriers and a center BPSK carrier with 2x TX power for auto tuning and frame indication. 7 DQPSK subcarriers flank each side of the BPSK center carrier.
+
+Rowe's version is part of his FreeDV open source Digital Voice software, developed by both David Rowe and David Witten. FreeDV started off with a simple open source implementation of the original FDMDV parameters, with the main difference being the usage of Rowe's own Codec 2 voice codec instead of the LPC Codec. Rowe then modified the parameters so that the signal is more robust against signal propagation issues.
+
+The new mode, dubbed FreeDV 1600, uses 1.3kHz of bandwidth, and operates at 1600bps data rate. 1300 bps is for the Codec 2 coded, and 300bps is Golay FEC. This gives the mode more robustness. The general format of the signal is generally the same as the original FDMDV, but a bit wider.

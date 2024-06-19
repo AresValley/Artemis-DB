@@ -1,1 +1,1 @@
-GRAW DFM-09 performs measurement of temperature, humidity, air pressure, wind direction and wind speed.
+GRAW DFM-09 performs measurement of temperature, humidity, air pressure, wind direction and wind speed. The state-of-the-art DFM-09 is one of the lightest and smallest radiosondes on the market and is also one of the most used radiosondes in the world. It was designed for precise and reliable measurement of temperature, humidity, air pressure, wind direction and wind speed. It is easy to use, making it the ideal instrument for daily sounding.

@@ -1,1 +1,3 @@
-Driftnet Radio Buoys are extensively used by fishing boats operating in open seas and oceans for collecting long fishing lines or fishing nets, with the assistance of a radio direction finder
+Driftnet Radio Buoys (DRB) are extensively used by fishing boats operating in open seas and oceans for collecting long fishing lines or fishing nets, with the assistance of a radio direction finder
+
+DRB's use either Morse Code (CW) or a variety of dots and tones for uniquely identifying them. DRB's have a distinctive trait of long pauses and long preamble tones before transmitting their unique identifier. In addition, there is significant frequency drift that can be seen in some beacons; Driftnet buoys use batteries, so when the battery voltage starts to drop, frequency drift occurs in the transmission.

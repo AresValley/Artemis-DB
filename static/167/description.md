@@ -1,1 +1,7 @@
-The Emergency Managers Weather Information Network (EMWIN) is a system for distributing a live stream of weather information in the United States. This is the VHF Repeater of the network.
+The Emergency Managers Weather Information Network (EMWIN) is a system for distributing a live stream of weather information in the United States. This is the VHF Repeater of the network. The backbone of the system is operated via satellite by the U.S. National Weather Service (NWS), but data are transmitted over radio repeaters by the NWS, citizens, and other organizations in many regions, and information can also be downloaded via the Internet.
+
+EMWIN VHF Repeaters use ASCII 8-bit modulation. Typically run at 1200 baud, but 2400 and 9600 baud implementations do exist in certain places.
+
+Local VHF/UHF radio rebroadcasts and older-generation EMWIN satellite systems operate at the speeds of 1200 and 9600 baud. EMWIN data consists of textual observational and forecast information, including a limited number of cloud and radar images. The new EMWIN, labeled EMWIN-N, began being upgraded in 2009. The upgrade continues through 2011 to ready older GOES satellites to provide a higher speed of 19.2 kbit/s. The data broadcasts are monetarily free with both local rebroadcasts and satellite feeds.
+
+EMWIN weather data is primarily transmitted over GOES satellites that observe the United States. The new satellites are the GOES-N series, and are designated GOES 13, GOES 14 and GOES 15.

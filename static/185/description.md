@@ -1,1 +1,3 @@
-FreeDV Coherent PSK (Also known as FreeDV 700) is a robust Digital Voice mode developed by David Rowe for his FreeDV Digital Voice Software.
+FreeDV Coherent PSK (Also known as FreeDV 700) is a robust Digital Voice mode developed by David Rowe for his FreeDV Digital Voice Software. The 14-subcarrier QPSK mode uses pilot symbol assisted coherent PSK, whereas FDMDV uses differential PSK. Coherent PSK is more robust against bit errors than differential PSK. This mode has 14 subcarriers, but it's actually 7 75bd subcarriers duplicated to form the full 14, so there is strong redundancy. The entire system runs at 700 bit/s, using the 700 bit/s Codec 2 voice codec developed by Rowe.
+
+This mode is currently in active development, so details may change significantly as development continues.

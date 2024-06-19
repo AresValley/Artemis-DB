@@ -1,1 +1,7 @@
-Digital Distress Radiobeacons (EPIRB's, PLB's and ELT's) are emergency radio beacons used for search and rescue operations to locate a vessel, plane, or person in distress.
+Digital Distress Radiobeacons (EPIRB's, PLB's and ELT's) are emergency radio beacons used for search and rescue operations to locate a vessel, plane, or person in distress. The digital form of distress radiobeacons are far improved by the ability to send GPS data, and the accuracy of alerts.
+
+Distress Radiobeacons come in three subcategories, PLB (Personal Locator Beacon), ELT (Emergency Locator Transmitter) or EPIRB (Emergency Position-Indicating Radio Beacon). EPIRB is for marine use, ELT is for aviation use, and PLB is for personal usage in areas where normal emergency services are not available.
+
+The Digital (406 MHz) Radiobeacon uses BPSK modulation at 400bps to transmit important data such as location (if GPS-enabled), registered user, serial number, national location protocol, and additional data programmed into the radiobeacon. These transmissions are monitored on the 406 MHz frequency band by satellites. Analog radiobeacons are no longer monitored by satellites as of February 2009.
+
+Digital radiobeacons are replacing the older analog radiobeacons that operate at 121.5 MHz and 243 MHz. Many digital radiobeacons are also equipped with a 121.5 MHz homing signal that's essentially the Analog siren used on old analog radiobeacons. This homing signal continuously transmits and may be interrupted when the 406 MHz data burst is transmitted to conserve energy. This gives new digital radiobeacons both analog radio-finding capability as well as digital GPS-based location capability.
