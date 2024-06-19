@@ -1,1 +1,3 @@
-Datawell Buoy HF Links transmitted by Datawell Marine measurement buoys, measuring ocean conditions, temperature, and wave current.
+Datawell Buoy HF Links transmitted by Datawell Marine measurement buoys, measuring ocean conditions, temperature, and wave current. Developed by Datawell BV in the Netherlands. The buoys get 50 km transmission range with the HF link. There are two transmission modes used by the buoys, 2FSK and 4MFSK. HXV firmware uses 2FSK, where HVA firmware uses 4MFSK.
+
+2FSK uses 65 Hz shift at 40 bd. 4MFSK uses 4 frequencies at ~85 Hz shift between frequencies at 40 bd

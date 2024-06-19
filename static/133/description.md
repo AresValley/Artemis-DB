@@ -1,1 +1,1 @@
-Delfi-C3 Telemetry was a telemetry signal sent from the Delfi-C3 university-class satellite.
+Delfi-C3 Telemetry was a telemetry signal sent from the Delfi-C3 university-class satellite. The telemetry was a 1200 Bd BPSK signal. The satellite was launched on April 28, 2008. On 13th November 2023 Delfi-C3 had re-entered Earth's atmosphere and burnt up ending it's 15 year mission.

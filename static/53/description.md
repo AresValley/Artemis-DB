@@ -6,7 +6,7 @@ Since 2009 the AVM data feeds the PIDs at tram stops and stations, as well as th
 
 # Voice Channels
 
-| Channel | Frequency (MHz) | Usage            |
+| Channel | Frequency (MHz)  | Usage            |
 |---------|------------------|------------------|
 | 9       | 507.200          | Fleet Ops        |
 | 14      | 507.250          | Unknown          |
@@ -20,8 +20,8 @@ Since 2009 the AVM data feeds the PIDs at tram stops and stations, as well as th
 
 # Data Channels
 
-| ID       | Frequency (MHz) | Location               |
-|----------|------------------|------------------------|
+| Frequency (MHz) | Location |
+|----------|------------------|
 | 507.225  | Melbourne Central Tower  |
 | 507.500  | Melbourne Central Tower  |
 | 507.550  | Eureka Tower             |

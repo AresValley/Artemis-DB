@@ -1,1 +1,3 @@
-Commercial AM Broadcast jamming signal that plays Chinese folk songs to jam specific radio stations in Asia from being received by listeners.
+The Chinese Firedrake Jammer (also known as FireDragon) is a Commercial AM Broadcast jamming signal that aims to jam specific radio stations in Asia from being received by listeners. It plays the characteristic Chinese folk song "The Firedrake" which runs for an hour duration, the same duration of radio programmes on shortwave.
+
+The jamming signal has been traced to be sourced from Chinasat 6B within the China National Radio (CNR) satellite feed circuits.The satellite relays the jamming music to ground transmitters across China to then transmit on the same frequencies as radio stations that China sees as unfavorable, including (but not limited to) Voice of America, Radio Free Asia, BBC World Service etc. as well as stations based in Taiwan.
