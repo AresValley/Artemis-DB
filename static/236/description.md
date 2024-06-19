@@ -1,1 +1,3 @@
-IRA-ARQ, also known as BULG-ASCII and ASCII-ARQ, is a high data rate ARQ FSK system used by Bulgarian, Slovakian, and Czech diplomatic stations. The maximum speed of this mode has been seen to reach 1200 bd. Not seen much much nowadays
+IRA-ARQ, also known as BULG-ASCII and ASCII-ARQ, is a high data rate ARQ FSK system used by Bulgarian, Slovakian, and Czech diplomatic stations. The maximum speed of this mode has been seen to reach 1200 bd. IRA-ARQ uses the ASCII (ITA-5 or IRA) alphabet charset. Some transmissions of IRA-ARQ can be decoded using an ASCII decoder.
+
+This mode is typically found with baud rates of 75, 100, 110, 150, 180, 200, 240, 300 or 600 bd. Faster baud rates have also been seen.

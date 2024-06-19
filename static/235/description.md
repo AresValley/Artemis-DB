@@ -1,1 +1,1 @@
-Radiosonde launched on a weather balloon.
+This Radiosonde is mostly used in Israel, Belgium, USA as well as South Africa. The IMET range of Radiosonde's are manufactured by Intermet

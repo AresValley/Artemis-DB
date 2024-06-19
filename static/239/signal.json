@@ -20,7 +20,12 @@
         }
     ],
     "acf": [],
-    "modulation": [],
+    "modulation": [
+        {
+            "value": "OOK",
+            "description": ""
+        }
+    ],
     "mode": [
         {
             "value": "AM",

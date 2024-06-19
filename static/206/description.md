@@ -1,1 +1,5 @@
-Golay Paging (or Golay Sequential Code, GSC) is a one-way 2-FSK paging format developed by Motorola. It is capable of transmitting tone, numeric, alphanumeric, and voice pages.
+Golay Paging (or Golay Sequential Code, GSC) is a one-way 2-FSK paging format developed by Motorola. It is capable of transmitting tone, numeric, alphanumeric, and voice pages. The pager address information is sent at 300 bps while the data is transmitted at 600 bps.
+
+For purposes of improving battery life and avoiding false alerts due to other encoding formats sharing the same frequency, pagers are divided into groups. A preamble code,as in 5/6 tone paging, is transmitted prior to page alerts. Only pagers that fall within the group number specified by the preamble code transmitted need look for their particular pager address within the stream of paging data that follows.
+
+This mode was named Golay for it's use of Golay Code for Forward Error Correction, developed by a mathematician, Marcel J.E. Golay.
