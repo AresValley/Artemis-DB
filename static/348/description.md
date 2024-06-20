@@ -1,1 +1,1 @@
-The North Korean Siren Jammer is among the signal disruption techniques employed by North Korea, commonly targeting shortwave radio stations.
+North Korean Siren Jammer, as the name suggests, is one of the jamming methods that North Korea uses to jam signals. The jammer is typically used on shortwave radio stations that target North Korea. For example, news broadcasts.

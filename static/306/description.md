@@ -1,1 +1,1 @@
-MRZ-N1 is a russian weather radiosonde.
+MRZ-N1 is a russian weather radiosonde. A radiosonde is a battery-powered telemetry instrument carried into the atmosphere usually by a weather balloon that measures various atmospheric parameters and transmits them by radio to a ground receiver. Modern radiosondes measure or calculate the following variables: altitude, pressure, temperature, relative humidity, wind (both wind speed and wind direction), cosmic ray readings at high altitude and geographical position (latitude/longitude).

@@ -1,1 +1,3 @@
-MFSK is a family of multi-frequency shift keying digital transmission modes. MFSK-8 and MFSK-16 are two well-known amateur radio modes.
+MFSK is a family of multi-frequency shift keying digital transmission modes. MFSK-8 and MFSK-16 are two well-known amateur radio modes. MFSK16 and MFSK8 were developed by Murray ZL1BPU and Nino IZ8BLY in 1999.
+
+MFSK-8 uses a set of 32 tones with the equal distance of 7.81 Hz, MFSK-16 a set of 16 tones with the equal distance of 15.625 Hz. The baud rate of MFSK-8 is 7.81 Bd and that of MFSK-16 is 15.625 Bd.

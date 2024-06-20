@@ -1,1 +1,3 @@
-Used in analog walkie-talkies and communication systems.
+Used in analog walkie-talkies and communication systems. In addition, old cordless phones and baby monitors transmit unencoded NFM voice. These older devices are most commonly found in the 49 MHz Part 15 band 49.82 MHz – 49.9 MHz region. FCC type accepted 25 channel analog cordless phones can be found in the 43-49.98 MHz range. They can also be found in the 27 MHz, 40 MHz, 864 MHz and 902-928 MHz regions.
+
+Newer devices utilize the DECT protocol, which is harder to decode.
