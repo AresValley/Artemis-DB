@@ -1,1 +1,3 @@
 Popular antenna analyzer among ham operators and the like. Output power is only ~20mW so if heard, source is nearby. Other MFJ models may be similar.
+
+MFJ's line of antenna analyzers are extremely popular due in part to their simplicity and ease of use. One feature is the ability to attach an antenna and get a rough idea of its center frequency and usable bandwidth among other things. This necessitates the injection of a small signal in order to make these measurements that may be heard nearby.

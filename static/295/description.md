@@ -1,1 +1,3 @@
-MIL-STD-110-342 was a US Dept. of Defense standard for a 16 channel VFT teletype transmission. This mode was officially cancelled as of December 5th, 1995.
+MIL-STD-110-342 was a US Dept. of Defense standard for a 16 channel VFT teletype transmission, published on February 29th, 1972. This mode was officially cancelled as of December 5th, 1995.
+
+This VFT was officially designated as "Standards for Long Haul Communications Equipment Technical Design Standards for Voice Frequency Carrier Telegraph (FSK)".The VFT consisted of 16 CRATT subchannels (Covered RAdio TeleType, 'Covered' meaning encrypted). These CRATT subchannels used the NATO KG-84c encryption protocol and transmitted at 75 baud each.

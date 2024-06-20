@@ -1,1 +1,3 @@
-Cospas-Sarsat downlink from polar-orbiting weather satellites. The International Cospas-Sarsat Programme is a satellite-aided search and rescue initiative.
+The International Cospas-Sarsat Programme is a satellite-aided search and rescue initiative. The system utilizes a network of satellites that provide coverage everywhere on Earth. Distress alerts are detected, located and forwarded to over 200 countries and territories at no cost to beacon owners or the receiving government agencies.
+
+This signal is from LEO (Low Earth Orbit) polar orbiting satellites - NOAA 15/18/19, METOP B, METEOR-M N2-2. Cospas-Sarsat also uses a MEOSAR segment used by satellites in higher orbits such as Galileo, and GEOSAR for geostationary satellites like ELEKTRO-L and GOES.

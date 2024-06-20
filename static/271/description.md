@@ -1,1 +1,1 @@
-Kiwi is a telemetry mode developed by CNES used on amateur rockets and radio balloons in France.
+Kiwi is a telemetry mode developed by CNES used on amateur rockets and radio balloons in France. It's primarily geared towards students and radio clubs as a project, such as making a weather balloon.

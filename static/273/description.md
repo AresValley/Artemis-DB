@@ -1,1 +1,5 @@
-LORAN (short for LOng RAnge Navigation) is a hyperbolic radio navigation system.
+LORAN (short for LOng RAnge Navigation) is a hyperbolic radio navigation system. LORAN-C was the predominant LORAN system in use but in recent years eLORAN, or E-LORAN (Enhanced LORAN) has been replacing obsolete LORAN-C systems. However, eLORAN has not been able to catch on as well as GPS systems become cheaper and more accessible to users, so eLORAN systems have begun to shut down.
+
+eLORAN is, to radio listeners, virtually identical to LORAN-C, but the primary difference is the addition of a Data Channel to send DGPS info, Differential eLORAN corrections, UTC Time of day, eLORAN Integrity info, as well as other data. The data is transmitted at about 20-50 bps using Pulse Position Modulation (Also known as Eurofix), or by using 9th Pulse Modulation.
+
+**Alert:** At the end of 2015, the entire European Loran system was discontinued. This INCLUDES the UK eLORAN Implementation.

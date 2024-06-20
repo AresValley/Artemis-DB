@@ -1,1 +1,1 @@
-An open source digital mode developed for amateur and other radio applications.
+The M17 RF Protocol is an open source digital radio mode developed for amateur radio applications and experimentation. The air interface is designed to transmit digital voice and data with a rate of 3200 bits/s, modulated with square root raised cosine filtered 4FSK at 9600 bits/s and 9 kHz wide channels.

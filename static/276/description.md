@@ -1,1 +1,3 @@
 Lentus is an extremely slow QRP mode developed by Patrick Lindecker F6CTE used to transmit QRP's at very low power. Each 43-character (75 bit) transmission takes roughly 5 minutes to transmit across 32 possible tones in a tight 25 Hz bandwidth.
+
+Lentus has an extremely high sensitivity rating (down to a minimum S/N ratio of -34 dB, with first decoding at -36.5 dB), able to decode even when under the noise floor.Lentus is aimed for usage on LF, MF and HF (up to 14 MHz).

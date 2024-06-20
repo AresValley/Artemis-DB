@@ -1,1 +1,1 @@
-This signal comes from Logitech(R) Brand wireless mouse and keyboard combo unit.
+This signal comes from Logitech(R) Brand wireless mouse and keyboard combo unit. The keyboard contains two radios, one sends the mouse+kbd signal to the USB dongle, the other listens to the mouse's transmitter and multiplexes it into the signal sent to the USB Dongle Receiver, that is the signal in the image. You can't see the much weaker mouse signal, but it is there between the pulses of the main radio. The keyboards main radio sends PPM, the mouse, for some reason, uses GFSK.

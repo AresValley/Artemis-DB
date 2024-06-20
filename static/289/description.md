@@ -1,1 +1,3 @@
 MD-674, also known as Wireline FSK, is a very old United States Military FSK Modem from the 1960's. Uses 85 Hz FSK shift. Speeds of 50 Bd, 75 Bd, 100 Bd, and 150 Bd have been logged. No longer seen today.
+
+The MD-674 Modem is designed to output to a 4-channel VFT wire circuit, so it's use is not in wireless transmission but wired transmissions over telephone circuits. The MD-522 is the wireless version of this signal, designed for transmitting with a radio frequency transmitter and receiver.
