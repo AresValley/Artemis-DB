@@ -1,1 +1,3 @@
-A type of radio navigation system used by aircraft. It is distinctive in that the center frequency is flanked by two FM waves.
+A type of radio navigation system used by aircraft. It is distinctive in that the center frequency is flanked by two FM waves. The center carrier may have subcarriers of AM voice, morse code identifier, or both.
+
+VORs are assigned radio channels between 108.0 MHz and 117.95 MHz (with 50 kHz spacing); this is in the Very High Frequency (VHF) range. The first 4 MHz is shared with the Instrument landing system (ILS) band. To leave channels for ILS, in the range 108.0 to 111.95 MHz, the 100 kHz digit is always even, so 108.00, 108.05, 108.20, 108.25, and so on are VOR frequencies but 108.10, 108.15, 108.30, 108.35 and so on, are reserved for ILS in the US.

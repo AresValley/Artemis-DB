@@ -1,1 +1,3 @@
-VDL-M2 (Known as VDL2 or VDLM2) is a means of sending information between aircraft and ground stations. VDL Mode 2 is the only VDL mode being implemented operationally to support Controller Pilot Data Link Communications (CPDLC). An extension to the AVLC protocol permits ACARS over AVLC (AOA) transmissions. VDL-M2 is implemented by Eurocontrol.
+VDL-M2 (Known as VDL2 or VDLM2) is a means of sending information between aircraft and ground stations. VDL Mode 2 is the only VDL mode being implemented operationally to support Controller Pilot Data Link Communications (CPDLC). An extension to the AVLC protocol permits ACARS over AVLC (AOA) transmissions. VDL-M2 is defined in ICAO documents as “Annex 10 Volume III - Communication Systems” and ”Manual on VHF Digital Link (VDL) Mode 2” and implemented by Eurocontrol.
+
+VDL-M2 uses D8PSK (Differentially Encoded 8-Phase Shift Keying) with 31.5 kbps speed at 25 kHz bandwidth and 10500 Bd.

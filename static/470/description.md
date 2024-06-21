@@ -1,1 +1,7 @@
-"The Air Horn" is a Russian military commandment network serving the Western Military District, which also serves the same purpose as the buzzer. It transmits on 3510 kHz around the clock. So far, apart from test counts and other technical tests, it has not been heard with any actual traffic.
+"The Air Horn" is a Russian military commandment network serving the Western Military District. It transmits on 4930 kHz around the clock. For more than 5 years, apart from test counts, call checks and other technical tests, it had not been heard with any apparent actual traffic, until September 20, 2022 - one day before Russia announced partial mobilization for the war in Ukraine. Its traffic is apparently addressed to Нева-100 (Neva-100).
+
+The Air Horn began operation on February 3, 2017, initially on 4020 kHz. From May 24 to July 5, 2019, the station transmitted on 4070 kHz instead. It was briefly active on 3510 kHz on September 25, 2019; before moving to this frequency permanently on October 1, 2019.
+
+On December 11, 2019, the channel marker suffered a breakdown - experiencing repeated malfunctions throughout that day - and remained off air until it returned on January 16, 2020, still on 3510 kHz. On September 14, 2022, the station moved again, to 4930 kHz; before transmitting its first known actual messages the following week starting on September 20, 2022.
+
+After December 17, 2023, the Air Horn's characteristic air-horn-like channel marker was replaced by the same marker as the Goose.

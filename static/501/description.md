@@ -1,1 +1,1 @@
-Weak Signal Propagation Reporter.
+WSPR (short for Weak Signal Propagation Reporter) is an amateur radio beacon protocol. It is designed to act as an incredibly weak signal beacon, used for examining amateur band conditions. It utilizes 2 minute long transmission times and provides callsign, location, and power information. It is available in WSJT and WSJT-X.
