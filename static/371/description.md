@@ -1,1 +1,1 @@
-PSK2K is a meteor scatter type of mode written by DJ5HG Using a modulation scheme of BPSK at 2000 Bd.
+PSK2K is a meteor scatter type of mode written by DJ5HG Using a modulation scheme of BPSK at 2000 Bd. Every codeword of PSK2k has 258 bits. Since the Baudrate is 2000, a codeword is transmitted in 129 ms. Identical code words are transmitted continuously.

@@ -1,1 +1,1 @@
-Primex Wireless Time Sync is a VHF Time Synchronization signal used in Primex Wireless's XR Series.
+Primex Wireless Time Sync is a VHF Time Synchronization signal used in Primex Wireless's XR Series. Has data rate of 2 KBps. Uses BPSK modulation (possible Offset mode).

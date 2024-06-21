@@ -1,1 +1,1 @@
-Russian telemetry system, transmitted over the overhead power lines.
+Russian telemetry system, transmitted over the overhead power lines. A system for transmitting telemetry and telemechanics commands through overhead high-voltage lines.

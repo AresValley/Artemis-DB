@@ -1,1 +1,1 @@
-ProVoice is a digital voice mode used in EDACS trunked systems.
+ProVoice is a digital voice mode used in EDACS trunked systems. It is transmitted using GFSK modulation at 9.6 kbit/s.

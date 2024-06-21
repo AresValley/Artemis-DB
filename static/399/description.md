@@ -1,1 +1,3 @@
-RWM is a Russian shortwave time signal station.
+RWM is a Russian shortwave time signal station. Unlike other time signal stations, RWM only transmits time intervals, it does not tell you the time of day or month nor year.
+
+Between 0 and 8 minutes past the hour, RWM transmits a straight unmodulated carrier wave. At 9 minutes past, RWM identifies itself in Morse code. Between 10 and 20 minutes past the hour, RWM transmits a 1Hz pulse, with the difference between UT1 and UTC in units of one-fiftieth of a second encoded onto the once-per-second pulses. Between 20 and 30 minutes past the hour, RWM transmits 10 Hz pulses each second. This transmission cycle is repeated every half hour.
