@@ -1,1 +1,5 @@
-STANAG 4197 is a NATO QPSK OFDM signal used in ANDVT modems that transmit encrypted digital voice over HF.
+STANAG 4197 is a NATO QPSK OFDM signal used in Advanced Narrowband Digital Voice Terminal (ANDVT or AN/DVT)modems that transmit encrypted digital voice over HF. These modems include the ANDVT MINTERM KY-99A modem.
+
+STANAG 4197 is defined as "Modulation and coding characteristics that must be common to assure interoperability of 2400 bps linear predictive encoded digital speech transmitted over HF radio facilities". This signal utilizes similar waveforms to the MIL-STD-188-110A/B Appendix B waveform but this does not utilize the 393.75 Hz pilot tone, and has a unique preamble that differs from the App. B waveform.
+
+The preamble starts similarly to how 110A/B App. B 39-Tone OFDM starts, but the signal begins with a 16 tone data header before going into the 39 tone data payload. This signal is predominantly used for digital voice, so encrypted digital voice will be the payload in the 39 tone segment.

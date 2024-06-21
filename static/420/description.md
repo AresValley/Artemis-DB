@@ -1,1 +1,3 @@
-SI-FEC, also known as FEC-S, FEC 1000 Simplex, and FEC-1000S, was the FEC variant of SI-ARQ, and was only used under extremely poor propagation conditions. SI-FEC was developed by Siemens and was used by Austrian and Indonesian diplomatic services.
+SI-FEC, also known as FEC-S, FEC 1000 Simplex, and FEC-1000S, was the FEC variant of SI-ARQ, and was only used under extremely poor propagation conditions. SI-FEC was developed by Siemens and was used by Austrian and Indonesian diplomatic services. No longer used today.
+
+SI-FEC typically uses baudrates of 96, 192 or 200 Bd using the ITA-3 alphabet. During idle mode this system is the same as CCIR 242 (ARQ-M2).

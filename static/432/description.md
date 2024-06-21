@@ -1,1 +1,3 @@
-STANAG 4529 a modification of STANAG 4285 to deliver data and voice in 1240 Hz of bandwidth at rates of up to 1800 bps.
+STANAG 4529 a modification of STANAG 4285 to deliver data and voice in 1240 Hz of bandwidth at rates of up to 1800 bps. STANAG 4529 is officially specified by the NATO (North Atlantic Treaty Organization) Military Agency for Standardization in "Characteristics of Single Tone Modulators / Demodulators for Maritime HF Radio Links with 1240 Hz Bandwidth".
+
+STANAG 4529 has data rates ranging from 75 to 1800 bit/s. Uses BPSK, QPSK, and 8PSK modulations, similar to that of STANAG 4285. The modulation speed (symbol rate) is always 1200 Bd. Through the use of different M-PSK modulation formats and FEC (Forward Error Correction) coding rates, serial binary user information (raw data) can be transmitted at different user data rates.

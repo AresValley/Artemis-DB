@@ -1,1 +1,3 @@
-The MHF-50 MFSK Modem by Saab Grintek Technologies in South Africa is a data modem that utilizes RTTY, 2-FSK, and 33-MFSK to transmit data
+The MHF-50 MFSK Modem by Saab Grintek Technologies in South Africa is a data modem that utilizes RTTY, 2-FSK, and 33-MFSK to transmit data. The unique format of the signal makes it easy to identify. The preamble consists of an RTTY 50Bd with 170 Hz shift followed by a long tone, then a 2-FSK starter with 390 Hz shift and 54.4 Bd. Then, the main data portion of the signal is a 2200 Hz wide 33-MFSK signal, with a 3-tone sequence to mark the end of the transmission.
+
+The primary user of this modem is the South African Navy.

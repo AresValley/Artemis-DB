@@ -1,1 +1,5 @@
-SP-14 (XP) was a 14 tone MFSK mode with origins from the Russian Intelligence and Foreign Ministry. Also known as NUM-13. Inactive since 2005, superseded by XPA.
+SP-14 (XP) was a 13 tone MFSK mode with origins from the Russian Intelligence and Foreign Ministry. Also known as NUM-13. Inactive since 2005, superseded by XPA.
+
+XP was in use from 1993 - 2005. It has a 1 baud intro, which includes a 3-digit ID and the number of messages to be sent, and then two tones at 7.5Bd alternating 20 times, before the 5-digit numeric groups begin to send at 7.5Bd. Just like XPA, there is a distinct sync tone at the lowest tone of the MFSK signal, repeated every 5 MFSK tones, which denotes a space. At the end of the transmission, 319 Hz and 511 Hz tones alternate 20 times, denoting the end of the transmission. The bandwidth of the AM signal was about 1200 Hz, but the individual sideband bandwidth was around 250 Hz.
+
+XP also had some variants, XPH, XPM, and XPL. XPH used higher tones, where XPM uses mid tones, and XPL using low tones. The most common recordings found were on XPH, with very little on XPM and XPL.
