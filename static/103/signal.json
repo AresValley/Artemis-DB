@@ -1,0 +1,66 @@
+{
+    "signal": {
+        "name": "COFDMTV",
+        "url": "https://www.sigidwiki.com/wiki/COFDMTV"
+    },
+    "category": [
+        "Digital"
+    ],
+    "frequency": [],
+    "bandwidth": [
+        {
+            "value": 1600,
+            "description": ""
+        },
+        {
+            "value": 2500,
+            "description": ""
+        },
+        {
+            "value": 2700,
+            "description": ""
+        },
+        {
+            "value": 3200,
+            "description": ""
+        },
+        {
+            "value": 2250,
+            "description": ""
+        },
+        {
+            "value": 2400,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "COFDM",
+            "description": ""
+        },
+        {
+            "value": "8-PSK",
+            "description": ""
+        },
+        {
+            "value": "QPSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "SSB",
+            "description": ""
+        },
+        {
+            "value": "FM",
+            "description": ""
+        },
+        {
+            "value": "AM",
+            "description": ""
+        }
+    ],
+    "location": []
+}

@@ -1,0 +1,57 @@
+{
+    "signal": {
+        "name": "MOBITEX",
+        "url": "https://www.sigidwiki.com/wiki/MOBITEX"
+    },
+    "category": [
+        "Digital",
+        "Commercial"
+    ],
+    "frequency": [
+        {
+            "value": 900000000,
+            "description": ""
+        },
+        {
+            "value": 400000000,
+            "description": ""
+        },
+        {
+            "value": 450000000,
+            "description": ""
+        },
+        {
+            "value": 424000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 15000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "GMSK",
+            "description": ""
+        },
+        {
+            "value": "FFSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "NFM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

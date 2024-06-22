@@ -1,0 +1,5 @@
+CIS-48 is an interesting data mode with a unique format. It uses a 4 DBPSK preamble with a constant tone and changing OFDM modes as it transmits data. Origin is suspected to be in Russia.
+
+The first part of the transmission, the "Channel marker/beacon", is comprised of 4 DBPSK carriers, each pair spaced 500 Hz apart, with 700 Hz spacing within the pair. Each DBPSK carrier runs at 50 Bd, and usually has the tone interrupt up to two times during the transmission, possibly indicating a different type of data being transmitted or codeword. Sometimes this beacon repeats during the transmission, or it may solely repeat without any data.
+
+If there is data, after the beacon it will start transmitting a series of OFDM waveforms, each ~3440 ms long, and often changing the OFDM waveform. The bandwidth of these waveforms range from ~2 kHz to ~3 kHz, and between these waveforms is a constant sinusoid tone.

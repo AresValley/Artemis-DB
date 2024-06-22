@@ -1,0 +1,93 @@
+{
+    "signal": {
+        "name": "Jindalee Operational Radar Network (JORN)",
+        "url": "https://www.sigidwiki.com/wiki/Jindalee_Operational_Radar_Network_(JORN)"
+    },
+    "category": [
+        "Military",
+        "Radar"
+    ],
+    "frequency": [
+        {
+            "value": 10153000,
+            "description": ""
+        },
+        {
+            "value": 22950000,
+            "description": ""
+        },
+        {
+            "value": 5700000,
+            "description": ""
+        },
+        {
+            "value": 32000000,
+            "description": ""
+        },
+        {
+            "value": 33000000,
+            "description": ""
+        },
+        {
+            "value": 8992000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 10000,
+            "description": ""
+        },
+        {
+            "value": 3000,
+            "description": ""
+        },
+        {
+            "value": 12000,
+            "description": ""
+        },
+        {
+            "value": 15000,
+            "description": ""
+        },
+        {
+            "value": 30000,
+            "description": ""
+        },
+        {
+            "value": 35000,
+            "description": ""
+        },
+        {
+            "value": 40000,
+            "description": ""
+        },
+        {
+            "value": 50000,
+            "description": ""
+        },
+        {
+            "value": 60000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "FMCW",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Australia",
+            "description": ""
+        }
+    ]
+}

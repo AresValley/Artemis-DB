@@ -1,0 +1,1 @@
+WWVB is an LF time signal in the USA. The time code is encoded in the duration of the gap between pulses. PSK is also used on the carrier as an additional time code. The time code format and additional information can be found on the WWVB Wikipedia page.

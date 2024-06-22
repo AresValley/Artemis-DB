@@ -1,0 +1,31 @@
+{
+    "signal": {
+        "name": "SAS/SRC",
+        "url": "https://www.sigidwiki.com/wiki/SAS/SRC"
+    },
+    "category": [
+        "Military",
+        "Marine"
+    ],
+    "frequency": [
+        {
+            "value": 40400,
+            "description": ""
+        }
+    ],
+    "bandwidth": [],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "MSK",
+            "description": ""
+        }
+    ],
+    "mode": [],
+    "location": [
+        {
+            "value": "Sweden",
+            "description": ""
+        }
+    ]
+}

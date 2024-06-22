@@ -1,0 +1,3 @@
+RUM-FEC, also known as ROU-FEC and SAU-FEC, is a FSK FEC system used by Romanian diplomatic services. This is no longer used today, replaced by MIL-STD 188-110 Serial.
+
+Two speeds have been known to exist for RUM-FEC, 164.5 Bd and 218.3 Bd, both with ~450 Hz shift. Known to use bitmasking, with values of 10, 15, 24, and 31. This system has a bit spread of 128 bits with each new character starting every 16 bits.

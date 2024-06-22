@@ -1,0 +1,1 @@
+CIS-36-50, also known as BEE-36 and T-600, is an FSK modem used by the Russian Navy. Can be seen with 36, 50, 75, 100 and 150 Bd rates, as well as shifts of 85, 125, 250 and 500 Hz, variable 50-3500 Bd.

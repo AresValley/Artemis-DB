@@ -1,0 +1,41 @@
+{
+    "signal": {
+        "name": "Wettersonde E084 (Radiosonde)",
+        "url": "https://www.sigidwiki.com/wiki/Wettersonde_E084_(Radiosonde)"
+    },
+    "category": [
+        "Utility",
+        "Analogue"
+    ],
+    "frequency": [
+        {
+            "value": 403050000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 2500,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "FM",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "NFM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Europe",
+            "description": ""
+        }
+    ]
+}

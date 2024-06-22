@@ -1,0 +1,40 @@
+{
+    "signal": {
+        "name": "WWVB",
+        "url": "https://www.sigidwiki.com/wiki/WWVB"
+    },
+    "category": [
+        "Time"
+    ],
+    "frequency": [
+        {
+            "value": 60000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 1,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "AM",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "CW",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "United States",
+            "description": ""
+        }
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "signal": {
+        "name": "CHIP",
+        "url": "https://www.sigidwiki.com/wiki/CHIP"
+    },
+    "category": [
+        "Digital",
+        "Amateur Radio"
+    ],
+    "frequency": [
+        {
+            "value": 7090000,
+            "description": ""
+        },
+        {
+            "value": 14110000,
+            "description": ""
+        },
+        {
+            "value": 14077000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 580,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "PSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "signal": {
+        "name": "STANAG 5065",
+        "url": "https://www.sigidwiki.com/wiki/STANAG_5065"
+    },
+    "category": [
+        "Military",
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 50000,
+            "description": ""
+        },
+        {
+            "value": 160000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 235,
+            "description": ""
+        },
+        {
+            "value": 360,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "FSK",
+            "description": ""
+        },
+        {
+            "value": "MSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "signal": {
+        "name": "Russian OTH 'Ghadir' type",
+        "url": "https://www.sigidwiki.com/wiki/Russian_OTH_%27Ghadir%27_type"
+    },
+    "category": [
+        "Radar"
+    ],
+    "frequency": [
+        {
+            "value": 28600000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [],
+    "acf": [],
+    "modulation": [],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Russia",
+            "description": ""
+        }
+    ]
+}

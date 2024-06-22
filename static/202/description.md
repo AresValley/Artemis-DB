@@ -1,0 +1,3 @@
+Glenayre's Paging Link. A way to upkeep a linked paging transmitter when no data is broadcast. Glenayre C2100/C2000 model control systems were likely to use this. Some transmitters in the United States still use this.
+
+Transmitters may transmit modes such as V.29 QAM for this reason, if heard on an uplink/downlink frequency. Some may even utilize this mode with no data at all, thus being constant QAM noise. It also lets the receiver end know that the signal (or license) is "there" (hopefully somewhere, on the band) for other uses (either by a Morse ID, frequency/modulation, etc).

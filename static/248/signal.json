@@ -1,0 +1,57 @@
+{
+    "signal": {
+        "name": "Integrated Digital Enhanced Network (iDEN)",
+        "url": "https://www.sigidwiki.com/wiki/Integrated_Digital_Enhanced_Network_(iDEN)"
+    },
+    "category": [
+        "Digital",
+        "Trunked Radio"
+    ],
+    "frequency": [
+        {
+            "value": 806000000,
+            "description": ""
+        },
+        {
+            "value": 824000000,
+            "description": ""
+        },
+        {
+            "value": 851000000,
+            "description": ""
+        },
+        {
+            "value": 869000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 18500,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "QAM",
+            "description": ""
+        },
+        {
+            "value": "TDMA",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "NFM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

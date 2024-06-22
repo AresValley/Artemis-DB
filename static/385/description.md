@@ -1,0 +1,1 @@
+Pursuit series wireless car alarm entry key, for use on vehicles equipped with Pursuit Series Car Alarm System. The transmitting key fob's are manufactured by Nutek Corporation in Taiwan.

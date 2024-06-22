@@ -1,0 +1,32 @@
+{
+    "signal": {
+        "name": "Grimeton Radio (SAQ)",
+        "url": "https://www.sigidwiki.com/wiki/Grimeton_Radio_(SAQ)"
+    },
+    "category": [],
+    "frequency": [
+        {
+            "value": 17200,
+            "description": ""
+        },
+        {
+            "value": 40400,
+            "description": ""
+        }
+    ],
+    "bandwidth": [],
+    "acf": [],
+    "modulation": [],
+    "mode": [
+        {
+            "value": "CW",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Sweden",
+            "description": ""
+        }
+    ]
+}

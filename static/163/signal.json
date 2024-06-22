@@ -1,0 +1,45 @@
+{
+    "signal": {
+        "name": "ELEKTRO-L GGAK-E Direct Broadcast",
+        "url": "https://www.sigidwiki.com/wiki/ELEKTRO-L_GGAK-E_Direct_Broadcast"
+    },
+    "category": [
+        "Digital",
+        "Satellite"
+    ],
+    "frequency": [
+        {
+            "value": 1693000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 15000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "PSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "DSB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Asia",
+            "description": ""
+        },
+        {
+            "value": "Europe",
+            "description": ""
+        }
+    ]
+}

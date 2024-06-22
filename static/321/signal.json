@@ -1,0 +1,44 @@
+{
+    "signal": {
+        "name": "Motorola MOSCAD SCADA telemetry",
+        "url": "https://www.sigidwiki.com/wiki/Motorola_MOSCAD_SCADA_telemetry"
+    },
+    "category": [
+        "Utility",
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 450000000,
+            "description": ""
+        },
+        {
+            "value": 950000000,
+            "description": ""
+        },
+        {
+            "value": 413000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 12000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "FSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "FM",
+            "description": ""
+        }
+    ],
+    "location": []
+}

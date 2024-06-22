@@ -1,0 +1,62 @@
+{
+    "signal": {
+        "name": "CDMA2000 (3G physical layer)",
+        "url": "https://www.sigidwiki.com/wiki/CDMA2000_(3G_physical_layer)"
+    },
+    "category": [
+        "Commercial",
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 850000000,
+            "description": ""
+        },
+        {
+            "value": 900000000,
+            "description": ""
+        },
+        {
+            "value": 1800000000,
+            "description": ""
+        },
+        {
+            "value": 1900000000,
+            "description": ""
+        },
+        {
+            "value": 450000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 1230000,
+            "description": ""
+        }
+    ],
+    "acf": [
+        {
+            "value": 10.0,
+            "description": "Main"
+        }
+    ],
+    "modulation": [
+        {
+            "value": "QPSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "RAW",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "United States",
+            "description": ""
+        }
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "signal": {
+        "name": "Acer X222W monitor, sleep pulse",
+        "url": "https://www.sigidwiki.com/wiki/Acer_X222W_monitor,_sleep_pulse"
+    },
+    "category": [
+        "Interfering"
+    ],
+    "frequency": [
+        {
+            "value": 470000000,
+            "description": ""
+        },
+        {
+            "value": 420000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 300000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "Pulse",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "FM",
+            "description": ""
+        },
+        {
+            "value": "AM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

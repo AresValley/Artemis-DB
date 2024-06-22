@@ -1,0 +1,50 @@
+{
+    "signal": {
+        "name": "ROS",
+        "url": "https://www.sigidwiki.com/wiki/ROS"
+    },
+    "category": [
+        "Digital",
+        "Amateur Radio"
+    ],
+    "frequency": [
+        {
+            "value": 30000000,
+            "description": ""
+        },
+        {
+            "value": 1800000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 2000,
+            "description": ""
+        }
+    ],
+    "acf": [
+        {
+            "value": 4.0,
+            "description": "Main"
+        }
+    ],
+    "modulation": [
+        {
+            "value": "DSSS",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

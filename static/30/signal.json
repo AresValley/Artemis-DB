@@ -1,0 +1,48 @@
+{
+    "signal": {
+        "name": "ATSC 3.0 Broadcast",
+        "url": "https://www.sigidwiki.com/wiki/ATSC_3.0_Broadcast"
+    },
+    "category": [
+        "Digital",
+        "Commercial"
+    ],
+    "frequency": [],
+    "bandwidth": [
+        {
+            "value": 6000000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "OFDM",
+            "description": ""
+        },
+        {
+            "value": "QAM",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "RAW",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "United States",
+            "description": ""
+        },
+        {
+            "value": "South Korea",
+            "description": ""
+        },
+        {
+            "value": "Jamaica",
+            "description": ""
+        }
+    ]
+}

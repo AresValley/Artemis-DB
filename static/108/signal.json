@@ -1,0 +1,40 @@
+{
+    "signal": {
+        "name": "Chilean Naval Time Signal",
+        "url": "https://www.sigidwiki.com/wiki/Chilean_Naval_Time_Signal"
+    },
+    "category": [
+        "Time"
+    ],
+    "frequency": [
+        {
+            "value": 148125000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 12500,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "FM",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "NFM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Chile",
+            "description": ""
+        }
+    ]
+}

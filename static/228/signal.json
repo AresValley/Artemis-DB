@@ -1,0 +1,46 @@
+{
+    "signal": {
+        "name": "Horus Binary 4FSK - v2",
+        "url": "https://www.sigidwiki.com/wiki/Horus_Binary_4FSK_-_v2"
+    },
+    "category": [
+        "Utility",
+        "Amateur Radio",
+        "Analogue"
+    ],
+    "frequency": [
+        {
+            "value": 431000000,
+            "description": ""
+        },
+        {
+            "value": 434000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 1000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "4FSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

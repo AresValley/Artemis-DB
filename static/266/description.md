@@ -1,0 +1,1 @@
+Jim Creek Naval Radio Station is used by the US Navy to transmit commands to distant submarines.

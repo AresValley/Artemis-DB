@@ -1,0 +1,78 @@
+{
+    "signal": {
+        "name": "Enhanced Digital Access Communications System (EDACS)",
+        "url": "https://www.sigidwiki.com/wiki/Enhanced_Digital_Access_Communications_System_(EDACS)"
+    },
+    "category": [
+        "Digital",
+        "Trunked Radio"
+    ],
+    "frequency": [
+        {
+            "value": 160000000,
+            "description": ""
+        },
+        {
+            "value": 450000000,
+            "description": ""
+        },
+        {
+            "value": 700000000,
+            "description": ""
+        },
+        {
+            "value": 806000000,
+            "description": ""
+        },
+        {
+            "value": 870000000,
+            "description": ""
+        },
+        {
+            "value": 896000000,
+            "description": ""
+        },
+        {
+            "value": 941000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 12500,
+            "description": ""
+        },
+        {
+            "value": 6250,
+            "description": ""
+        }
+    ],
+    "acf": [
+        {
+            "value": 60.0,
+            "description": "edacs48"
+        },
+        {
+            "value": 30.0,
+            "description": "edacs96"
+        }
+    ],
+    "modulation": [
+        {
+            "value": "GFSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "NFM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

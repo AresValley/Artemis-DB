@@ -1,0 +1,3 @@
+ASCII (also known as ITA5 or IRA) is an amateur radio telegraphy signal using the ITA-5 alphabet. Can come in either 7-bit or 8-bit format. The 7-Bit ASCII mode has 170 Hz FSK shift, and about 300 Hz of bandwidth, where the 8-Bit ASCII mode uses a 492 Hz shift and about 600 Hz of bandwidth. The ASCII mode typically runs at 110 or 300 Bd, but can be seen with 50, 75, 100, 150, 180, 200, and 600 Bd, or any non-standard baud rate between 50 and 1200.
+
+FM station remote transmitter link (450.01MHz), 170 Hz shift, 300 Bd, 8-bit, framing 8O1.

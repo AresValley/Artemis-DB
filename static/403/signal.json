@@ -1,0 +1,121 @@
+{
+    "signal": {
+        "name": "Radio Teletype (RTTY)",
+        "url": "https://www.sigidwiki.com/wiki/Radio_Teletype_(RTTY)"
+    },
+    "category": [
+        "Amateur Radio",
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 147300,
+            "description": ""
+        },
+        {
+            "value": 3570000,
+            "description": ""
+        },
+        {
+            "value": 4583000,
+            "description": ""
+        },
+        {
+            "value": 5330500,
+            "description": ""
+        },
+        {
+            "value": 5346500,
+            "description": ""
+        },
+        {
+            "value": 5357000,
+            "description": ""
+        },
+        {
+            "value": 5371500,
+            "description": ""
+        },
+        {
+            "value": 5403500,
+            "description": ""
+        },
+        {
+            "value": 7040000,
+            "description": ""
+        },
+        {
+            "value": 7080000,
+            "description": ""
+        },
+        {
+            "value": 7125000,
+            "description": ""
+        },
+        {
+            "value": 7646000,
+            "description": ""
+        },
+        {
+            "value": 11039000,
+            "description": ""
+        },
+        {
+            "value": 14070000,
+            "description": ""
+        },
+        {
+            "value": 14467300,
+            "description": ""
+        },
+        {
+            "value": 28150000,
+            "description": ""
+        },
+        {
+            "value": 10100800,
+            "description": ""
+        },
+        {
+            "value": 10130000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 85,
+            "description": ""
+        },
+        {
+            "value": 170,
+            "description": ""
+        },
+        {
+            "value": 450,
+            "description": ""
+        },
+        {
+            "value": 850,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "FSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

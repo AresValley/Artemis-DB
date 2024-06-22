@@ -1,0 +1,39 @@
+{
+    "signal": {
+        "name": "WiMAX",
+        "url": "https://www.sigidwiki.com/wiki/WiMAX"
+    },
+    "category": [
+        "Digital",
+        "Commercial"
+    ],
+    "frequency": [],
+    "bandwidth": [
+        {
+            "value": 1250000,
+            "description": ""
+        },
+        {
+            "value": 20000000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "OFDM",
+            "description": ""
+        },
+        {
+            "value": "OFDMA",
+            "description": ""
+        }
+    ],
+    "mode": [],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

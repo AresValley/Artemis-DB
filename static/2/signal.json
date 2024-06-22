@@ -1,0 +1,53 @@
+{
+    "signal": {
+        "name": "'OTH-SW' OTH Radar",
+        "url": "https://www.sigidwiki.com/wiki/%27OTH-SW%27_OTH_Radar"
+    },
+    "category": [
+        "Military",
+        "Radar"
+    ],
+    "frequency": [
+        {
+            "value": 6000000,
+            "description": ""
+        },
+        {
+            "value": 30000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 40000,
+            "description": ""
+        },
+        {
+            "value": 60000,
+            "description": ""
+        },
+        {
+            "value": 80000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "FMCW",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "China",
+            "description": ""
+        }
+    ]
+}

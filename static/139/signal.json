@@ -1,0 +1,40 @@
+{
+    "signal": {
+        "name": "Digital Audio Broadcasting Plus (DAB+)",
+        "url": "https://www.sigidwiki.com/wiki/Digital_Audio_Broadcasting_Plus_(DAB%2B)"
+    },
+    "category": [
+        "Digital",
+        "Commercial"
+    ],
+    "frequency": [
+        {
+            "value": 174000000,
+            "description": ""
+        },
+        {
+            "value": 230000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 1536000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "OFDM",
+            "description": ""
+        }
+    ],
+    "mode": [],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

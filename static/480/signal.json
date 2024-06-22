@@ -1,0 +1,45 @@
+{
+    "signal": {
+        "name": "UHF Vehicle Location System",
+        "url": "https://www.sigidwiki.com/wiki/UHF_Vehicle_Location_System"
+    },
+    "category": [
+        "Digital",
+        "Commercial"
+    ],
+    "frequency": [
+        {
+            "value": 400,
+            "description": ""
+        },
+        {
+            "value": 900000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 5500,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "PSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "NFM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "United States",
+            "description": ""
+        }
+    ]
+}

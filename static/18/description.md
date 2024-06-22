@@ -1,0 +1,1 @@
+ALE-400 is an amateur version of the 2G ALE standard. It is adapted to the demands of amateur radio emergency traffic handling. ALE-400 was developed by Patrick Lindecker F6CTE. This mode was designed to be utilized in 500 Hz channels. It is an 8-MFSK system with 50Bd. For tuning, the center frequency is 1625 Hz.

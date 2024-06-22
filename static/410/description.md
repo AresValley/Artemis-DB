@@ -1,0 +1,1 @@
+Russian Diplomatic 3 channel VFT PSK running at 64 Bd. Enigma M42 designation. Also known as CIS 3xPSK. Using 3 channels of BPSK.

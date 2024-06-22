@@ -1,0 +1,60 @@
+{
+    "signal": {
+        "name": "802.11n",
+        "url": "https://www.sigidwiki.com/wiki/802.11n"
+    },
+    "category": [
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 2412000000,
+            "description": ""
+        },
+        {
+            "value": 5865000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 20000000,
+            "description": ""
+        },
+        {
+            "value": 40000000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "BPSK",
+            "description": ""
+        },
+        {
+            "value": "QPSK",
+            "description": ""
+        },
+        {
+            "value": "16QAM",
+            "description": ""
+        },
+        {
+            "value": "64QAM",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "FM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

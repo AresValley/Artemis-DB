@@ -1,0 +1,85 @@
+{
+    "signal": {
+        "name": "JT65",
+        "url": "https://www.sigidwiki.com/wiki/JT65"
+    },
+    "category": [
+        "Digital",
+        "Amateur Radio"
+    ],
+    "frequency": [
+        {
+            "value": 24917000,
+            "description": ""
+        },
+        {
+            "value": 1838000,
+            "description": ""
+        },
+        {
+            "value": 3576000,
+            "description": ""
+        },
+        {
+            "value": 7039000,
+            "description": ""
+        },
+        {
+            "value": 7076000,
+            "description": ""
+        },
+        {
+            "value": 10139000,
+            "description": ""
+        },
+        {
+            "value": 14076000,
+            "description": ""
+        },
+        {
+            "value": 18102000,
+            "description": ""
+        },
+        {
+            "value": 18098000,
+            "description": ""
+        },
+        {
+            "value": 50276000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 180,
+            "description": ""
+        },
+        {
+            "value": 360,
+            "description": ""
+        },
+        {
+            "value": 710,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "MFSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

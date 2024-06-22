@@ -1,0 +1,46 @@
+{
+    "signal": {
+        "name": "MPT1394 Keyfob",
+        "url": "https://www.sigidwiki.com/wiki/MPT1394_Keyfob"
+    },
+    "category": [],
+    "frequency": [
+        {
+            "value": 433920000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 10300,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "ASK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "AM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Europe",
+            "description": ""
+        },
+        {
+            "value": "Japan",
+            "description": ""
+        },
+        {
+            "value": "Asia",
+            "description": ""
+        }
+    ]
+}

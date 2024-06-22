@@ -1,0 +1,81 @@
+{
+    "signal": {
+        "name": "JS8",
+        "url": "https://www.sigidwiki.com/wiki/JS8"
+    },
+    "category": [
+        "Amateur Radio",
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 3578000,
+            "description": ""
+        },
+        {
+            "value": 14078000,
+            "description": ""
+        },
+        {
+            "value": 18104000,
+            "description": ""
+        },
+        {
+            "value": 21078000,
+            "description": ""
+        },
+        {
+            "value": 24922000,
+            "description": ""
+        },
+        {
+            "value": 28078000,
+            "description": ""
+        },
+        {
+            "value": 50318000,
+            "description": ""
+        },
+        {
+            "value": 1842000,
+            "description": ""
+        },
+        {
+            "value": 7078000,
+            "description": ""
+        },
+        {
+            "value": 10130000,
+            "description": ""
+        },
+        {
+            "value": 27245000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 50,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "GFSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

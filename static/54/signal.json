@@ -1,0 +1,47 @@
+{
+    "signal": {
+        "name": "B-Netz",
+        "url": "https://www.sigidwiki.com/wiki/B-Netz"
+    },
+    "category": [],
+    "frequency": [
+        {
+            "value": 148000000,
+            "description": ""
+        },
+        {
+            "value": 153000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 12500,
+            "description": ""
+        }
+    ],
+    "acf": [
+        {
+            "value": 150.0,
+            "description": "Main"
+        }
+    ],
+    "modulation": [
+        {
+            "value": "FSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "FM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Europe",
+            "description": ""
+        }
+    ]
+}

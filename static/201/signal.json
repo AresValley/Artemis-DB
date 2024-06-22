@@ -1,0 +1,45 @@
+{
+    "signal": {
+        "name": "Gandalf MDT",
+        "url": "https://www.sigidwiki.com/wiki/Gandalf_MDT"
+    },
+    "category": [
+        "Digital",
+        "Commercial"
+    ],
+    "frequency": [
+        {
+            "value": 150000000,
+            "description": ""
+        },
+        {
+            "value": 450000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 10000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "4FSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "NFM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

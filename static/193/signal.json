@@ -1,0 +1,44 @@
+{
+    "signal": {
+        "name": "GOES CDA Telemetry",
+        "url": "https://www.sigidwiki.com/wiki/GOES_CDA_Telemetry"
+    },
+    "category": [
+        "Satellite"
+    ],
+    "frequency": [
+        {
+            "value": 1693000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 80000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "BPSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "RAW",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "United States",
+            "description": ""
+        },
+        {
+            "value": "Asia",
+            "description": ""
+        }
+    ]
+}

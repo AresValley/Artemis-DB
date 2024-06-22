@@ -1,0 +1,6 @@
+In aviation, distance measuring equipment (DME) is a radio navigation technology that measures the slant range (distance) between an aircraft and a ground station by timing the propagation delay of radio signals in the frequency band between 960 and 1215 megahertz (MHz). Line-of-visibility between the aircraft and ground station is required. An interrogator (airborne) initiates an exchange by transmitting a pulse pair, on an assigned 'channel', to the transponder ground station. The channel assignment specifies the carrier frequency and the spacing between the pulses. After a known delay, the transponder replies by transmitting a pulse pair on a frequency that is offset from the interrogation frequency by 63 MHz and having specified separation.
+
+# Frequencies
+- TACAN operates in the UHF aeronautical band with 126 two-way channels in the operational mode (X or Y) for 252 total
+- Air-to-ground DME frequencies are in the 1025 to 1150 MHz range
+- Ground-to-air frequencies are in the 962 to 1213 MHz range

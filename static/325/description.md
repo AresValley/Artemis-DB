@@ -1,0 +1,3 @@
+Multitone Paging signal, developed by Multitone Electronics in the UK. Uses similar coding to POCSAG but the headers are different and only work with Multitone's range of paging products. The encoding uses POCSAG 1200 as a base. Speech may be heard occasionally on the same frequency depending on the setup. Multitone paging systems are usually installed in large hospitals and industrial sites. This is used in Multitone Mk. IV, V, VI, and VII pagers.
+
+Some feature a telephone type handset or a call point for 2 way communication via a PBX and this shares the same channel as the pagers. One way speech is stored in the encoder as a pre-recorded message and is triggered by a closing contact for events such as evacuations as most pagers support this feature.

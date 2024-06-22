@@ -1,0 +1,45 @@
+{
+    "signal": {
+        "name": "Mazielka (X06)",
+        "url": "https://www.sigidwiki.com/wiki/Mazielka_(X06)"
+    },
+    "category": [
+        "Digital",
+        "Numbers Stations"
+    ],
+    "frequency": [
+        {
+            "value": 4963000,
+            "description": ""
+        },
+        {
+            "value": 23458000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 200,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "MFSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Russia",
+            "description": ""
+        }
+    ]
+}

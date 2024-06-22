@@ -1,0 +1,1 @@
+OTH-SW is a Chinese over-the-horizon radar. It is known to operate with pulse repetition frequencies of 43 Hz and 86 Hz.

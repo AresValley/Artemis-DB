@@ -1,0 +1,37 @@
+{
+    "signal": {
+        "name": "Wireless Temperature Sensor",
+        "url": "https://www.sigidwiki.com/wiki/Wireless_Temperature_Sensor"
+    },
+    "category": [
+        "Commercial",
+        "Digital",
+        "Utility"
+    ],
+    "frequency": [
+        {
+            "value": 434000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 150000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [],
+    "mode": [
+        {
+            "value": "Chirp Spread Spectrum",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Australia",
+            "description": ""
+        }
+    ]
+}

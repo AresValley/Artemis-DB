@@ -1,0 +1,1 @@
+Digisondes are ionosondes that use pulsed signal that can gather more radar information than a traditional ionosonde sweep.

@@ -1,0 +1,49 @@
+{
+    "signal": {
+        "name": "PLUTO II OTH Radar",
+        "url": "https://www.sigidwiki.com/wiki/PLUTO_II_OTH_Radar"
+    },
+    "category": [
+        "Military",
+        "Radar"
+    ],
+    "frequency": [
+        {
+            "value": 8000000,
+            "description": ""
+        },
+        {
+            "value": 38000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 20000,
+            "description": ""
+        },
+        {
+            "value": 40000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "FMCW",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Cyprus",
+            "description": ""
+        }
+    ]
+}

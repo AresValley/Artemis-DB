@@ -1,0 +1,41 @@
+{
+    "signal": {
+        "name": "PROBA 1/2 Downlink",
+        "url": "https://www.sigidwiki.com/wiki/PROBA_1/2_Downlink"
+    },
+    "category": [
+        "Satellite",
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 2235000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 4000000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "BPSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "RAW",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Europe",
+            "description": ""
+        }
+    ]
+}

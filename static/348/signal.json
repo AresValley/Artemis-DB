@@ -1,0 +1,18 @@
+{
+    "signal": {
+        "name": "North Korean Siren Jammer",
+        "url": "https://www.sigidwiki.com/wiki/North_Korean_Siren_Jammer"
+    },
+    "category": [],
+    "frequency": [
+        {
+            "value": 4450000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [],
+    "acf": [],
+    "modulation": [],
+    "mode": [],
+    "location": []
+}

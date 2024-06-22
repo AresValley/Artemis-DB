@@ -1,0 +1,45 @@
+{
+    "signal": {
+        "name": "OFDM NBTV",
+        "url": "https://www.sigidwiki.com/wiki/OFDM_NBTV"
+    },
+    "category": [
+        "Amateur Radio",
+        "Analogue"
+    ],
+    "frequency": [
+        {
+            "value": 3,
+            "description": ""
+        },
+        {
+            "value": 30000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 2000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "Analog OFDM",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "SSB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

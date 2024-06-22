@@ -1,0 +1,61 @@
+{
+    "signal": {
+        "name": "Relocatable Over-the-Horizon Radar (ROTHR)",
+        "url": "https://www.sigidwiki.com/wiki/Relocatable_Over-the-Horizon_Radar_(ROTHR)"
+    },
+    "category": [
+        "Radar",
+        "Military"
+    ],
+    "frequency": [
+        {
+            "value": 5000000,
+            "description": ""
+        },
+        {
+            "value": 28000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 4000,
+            "description": ""
+        },
+        {
+            "value": 8000,
+            "description": ""
+        },
+        {
+            "value": 16000,
+            "description": ""
+        },
+        {
+            "value": 50000,
+            "description": ""
+        },
+        {
+            "value": 100000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "FMCW",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "United States",
+            "description": ""
+        }
+    ]
+}

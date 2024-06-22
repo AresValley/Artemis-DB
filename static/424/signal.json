@@ -1,0 +1,40 @@
+{
+    "signal": {
+        "name": "SNOTEL (Snow Telemetry)",
+        "url": "https://www.sigidwiki.com/wiki/SNOTEL_(Snow_Telemetry)"
+    },
+    "category": [
+        "Utility"
+    ],
+    "frequency": [
+        {
+            "value": 40670000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 9000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "PSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "NFM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "United States",
+            "description": ""
+        }
+    ]
+}

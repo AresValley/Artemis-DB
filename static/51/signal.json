@@ -1,0 +1,49 @@
+{
+    "signal": {
+        "name": "Automatic Picture Transmission (APT)",
+        "url": "https://www.sigidwiki.com/wiki/Automatic_Picture_Transmission_(APT)"
+    },
+    "category": [
+        "Satellite",
+        "Analogue"
+    ],
+    "frequency": [
+        {
+            "value": 137100000,
+            "description": ""
+        },
+        {
+            "value": 137620000,
+            "description": ""
+        },
+        {
+            "value": 137912500,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 34000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "AM",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "WFM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

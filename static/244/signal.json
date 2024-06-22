@@ -1,0 +1,48 @@
+{
+    "signal": {
+        "name": "Inmarsat IsatM2M",
+        "url": "https://www.sigidwiki.com/wiki/Inmarsat_IsatM2M"
+    },
+    "category": [
+        "Satellite",
+        "Commercial",
+        "Digital",
+        "Marine",
+        "Utility"
+    ],
+    "frequency": [
+        {
+            "value": 1525000000,
+            "description": ""
+        },
+        {
+            "value": 1559000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 1024,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "MFSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

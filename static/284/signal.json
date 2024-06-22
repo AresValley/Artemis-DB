@@ -1,0 +1,44 @@
+{
+    "signal": {
+        "name": "Logitech(R) Wireless Mouse+Keyboard Signal",
+        "url": "https://www.sigidwiki.com/wiki/Logitech(R)_Wireless_Mouse%2BKeyboard_Signal"
+    },
+    "category": [
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 2400000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 500000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "PPM",
+            "description": ""
+        },
+        {
+            "value": "GFSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "RAW",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

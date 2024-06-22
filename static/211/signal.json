@@ -1,0 +1,45 @@
+{
+    "signal": {
+        "name": "Ground-Based Augmentation System (GBAS)",
+        "url": "https://www.sigidwiki.com/wiki/Ground-Based_Augmentation_System_(GBAS)"
+    },
+    "category": [
+        "Aviation",
+        "Navigation"
+    ],
+    "frequency": [
+        {
+            "value": 108000000,
+            "description": ""
+        },
+        {
+            "value": 117975000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 15000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "D8PSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "AM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

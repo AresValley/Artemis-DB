@@ -1,0 +1,3 @@
+Israeli VFT transmission, most likely used by Israeli government or military.
+
+Has been seen with a number of modes. Seen with 4xPSK-75, 1xFSK-150, and both 4xPSK-75 and 1xFSK-150 together. The 4xPSK-75 data stream takes about 1.25kHz and the 1xFSK-150 1.8kHz, largely due to the shift. Putting both together in one VFT has a total of 1.8kHz bandwidth, with the 4xPSK-75 fitting in right below the 1xFSK-150, taking up the free space.

@@ -1,0 +1,54 @@
+{
+    "signal": {
+        "name": "1G Advanced Mobile Phone System (AMPS)",
+        "url": "https://www.sigidwiki.com/wiki/1G_Advanced_Mobile_Phone_System_(AMPS)"
+    },
+    "category": [
+        "Commercial",
+        "Analogue",
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 824000000,
+            "description": ""
+        },
+        {
+            "value": 894000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 30000,
+            "description": ""
+        },
+        {
+            "value": 10000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "FM",
+            "description": ""
+        },
+        {
+            "value": "FSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "NFM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

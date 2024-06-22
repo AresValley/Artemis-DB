@@ -1,0 +1,35 @@
+{
+    "signal": {
+        "name": "The Alarm",
+        "url": "https://www.sigidwiki.com/wiki/The_Alarm"
+    },
+    "category": [
+        "Military"
+    ],
+    "frequency": [
+        {
+            "value": 4770000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 2400,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Russia",
+            "description": ""
+        }
+    ]
+}

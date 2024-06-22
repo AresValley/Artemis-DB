@@ -1,0 +1,1 @@
+The Grand Réseau Adapté à la Veille Spatiale (GRAVES) system is a French space-surveillance system for low-orbit (up to 1000km) satellites. Emitter is based near Dijon, France.

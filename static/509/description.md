@@ -1,0 +1,3 @@
+XMPP (formerly called Jabber) is short for "Extensible Messaging and Presence Protocol". It is the open standard for Instant messaging (IM) Group Chat and Presence services.
+
+On shortwave, you can see the military use this protocol. They are known for using MIL 188-110A Serial HF waveform (fixed 600bps/S) and 6-bit code clear text with dual bursts of STANAG-5439 and STANAG-5066 as for XMPP Multi-User Chat (MUC) messages, over a bandwidth of 34 kHz. Multi-User Chat (MUC) is a central service for military communication. If data is being provided, it makes sense to share it so that all interested parties can see it. XMPP is widely used for military deployments, where operation over constrained and degraded networks is often essential, particularly for tactical operation.

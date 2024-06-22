@@ -1,0 +1,62 @@
+{
+    "signal": {
+        "name": "Inmarsat Aero",
+        "url": "https://www.sigidwiki.com/wiki/Inmarsat_Aero"
+    },
+    "category": [
+        "Satellite",
+        "Commercial",
+        "Aviation"
+    ],
+    "frequency": [
+        {
+            "value": 1545000000,
+            "description": ""
+        },
+        {
+            "value": 1547000000,
+            "description": ""
+        },
+        {
+            "value": 3685000000,
+            "description": ""
+        },
+        {
+            "value": 3687000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 10500000,
+            "description": ""
+        },
+        {
+            "value": 800,
+            "description": ""
+        },
+        {
+            "value": 1600,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "PSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

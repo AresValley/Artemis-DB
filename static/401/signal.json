@@ -1,0 +1,50 @@
+{
+    "signal": {
+        "name": "Radio Data System (RDS)",
+        "url": "https://www.sigidwiki.com/wiki/Radio_Data_System_(RDS)"
+    },
+    "category": [
+        "Digital",
+        "Commercial"
+    ],
+    "frequency": [
+        {
+            "value": 65000000,
+            "description": ""
+        },
+        {
+            "value": 108000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 4000,
+            "description": ""
+        }
+    ],
+    "acf": [
+        {
+            "value": 87.6,
+            "description": "Main"
+        }
+    ],
+    "modulation": [
+        {
+            "value": "PSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "DSB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

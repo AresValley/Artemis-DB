@@ -1,0 +1,35 @@
+{
+    "signal": {
+        "name": "Smart TV Interference",
+        "url": "https://www.sigidwiki.com/wiki/Smart_TV_Interference"
+    },
+    "category": [
+        "Interfering"
+    ],
+    "frequency": [
+        {
+            "value": 528000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 84000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

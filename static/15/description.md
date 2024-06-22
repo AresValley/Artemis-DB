@@ -1,0 +1,3 @@
+A variant of POCSAG/FLEX with audio FSK modulation based off of the bell 202 tones. Typically found as uplinks/downlinks to pager network transmitters. The bandwidth of the original POCSAG signal determines how intense the modulation deviation is. In the New England states: They use 1000 and 2300 Hz. In the midwest, the bell 202 and a variant known as "1300-2100" also exist. 1300-2100 is for extremely low bandwidth POCSAG.
+
+Phase inversion can also take place in some modulations which give off a slight difference in sound.

@@ -1,0 +1,1 @@
+VLF RF emissions from lightning in the atmosphere that can affect up to HF frequencies and beyond depending on strength. Has a popping crackle sound with both USB and AM modes of reception.

@@ -1,0 +1,50 @@
+{
+    "signal": {
+        "name": "European Radio Message System (ERMES)",
+        "url": "https://www.sigidwiki.com/wiki/European_Radio_Message_System_(ERMES)"
+    },
+    "category": [
+        "Digital",
+        "Commercial"
+    ],
+    "frequency": [
+        {
+            "value": 169412500,
+            "description": ""
+        },
+        {
+            "value": 169832500,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 25000,
+            "description": ""
+        }
+    ],
+    "acf": [
+        {
+            "value": 740.0,
+            "description": "Main"
+        }
+    ],
+    "modulation": [
+        {
+            "value": "4FSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "NFM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Europe",
+            "description": ""
+        }
+    ]
+}

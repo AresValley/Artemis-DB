@@ -1,0 +1,1 @@
+Radio signal used by MRI machines to excite protons and obtain their response. An MRI machine uses kilowatts of radio frequency to excite protons and obtain their response, not only a strong magnetic field. This signals were recorded within <50m from the MRI clinic. Most of the radio frequency field is probably concentrated inside the device, and the room can also be shielded.

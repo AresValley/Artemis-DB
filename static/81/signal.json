@@ -1,0 +1,57 @@
+{
+    "signal": {
+        "name": "CIS OFDM HDR Modem",
+        "url": "https://www.sigidwiki.com/wiki/CIS_OFDM_HDR_Modem"
+    },
+    "category": [
+        "Digital",
+        "Military"
+    ],
+    "frequency": [
+        {
+            "value": 3000000,
+            "description": ""
+        },
+        {
+            "value": 30000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 2800,
+            "description": ""
+        },
+        {
+            "value": 2950,
+            "description": ""
+        },
+        {
+            "value": 3000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "PSK",
+            "description": ""
+        },
+        {
+            "value": "OFDM",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Russia",
+            "description": ""
+        }
+    ]
+}

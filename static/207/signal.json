@@ -1,0 +1,45 @@
+{
+    "signal": {
+        "name": "Gonets",
+        "url": "https://www.sigidwiki.com/wiki/Gonets"
+    },
+    "category": [
+        "Commercial",
+        "Satellite"
+    ],
+    "frequency": [
+        {
+            "value": 265,
+            "description": ""
+        },
+        {
+            "value": 388000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 20000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "GMSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "NFM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

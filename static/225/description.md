@@ -1,0 +1,1 @@
+The HIPAS (HIgh Power Auroral Stimulation) Observatory was a research facility, built to study the ionosphere and its influence on radio communications. It was located 25 miles east of Fairbanks, Alaska in the Fairbanks North Star Borough area.

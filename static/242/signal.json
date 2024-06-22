@@ -1,0 +1,30 @@
+{
+    "signal": {
+        "name": "Induction cooker interference",
+        "url": "https://www.sigidwiki.com/wiki/Induction_cooker_interference"
+    },
+    "category": [
+        "Interfering"
+    ],
+    "frequency": [],
+    "bandwidth": [],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "OOK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

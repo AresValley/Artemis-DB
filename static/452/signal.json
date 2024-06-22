@@ -1,0 +1,44 @@
+{
+    "signal": {
+        "name": "Soyuz-MS spacecraft telemetry",
+        "url": "https://www.sigidwiki.com/wiki/Soyuz-MS_spacecraft_telemetry"
+    },
+    "category": [
+        "Satellite"
+    ],
+    "frequency": [
+        {
+            "value": 166000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 250000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "PCM",
+            "description": ""
+        },
+        {
+            "value": "FM",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

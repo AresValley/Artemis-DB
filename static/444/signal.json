@@ -1,0 +1,45 @@
+{
+    "signal": {
+        "name": "Single Sideband Voice",
+        "url": "https://www.sigidwiki.com/wiki/Single_Sideband_Voice"
+    },
+    "category": [
+        "Analogue",
+        "Amateur Radio"
+    ],
+    "frequency": [
+        {
+            "value": 3000000,
+            "description": ""
+        },
+        {
+            "value": 30000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 1900,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "AM",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "SSB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

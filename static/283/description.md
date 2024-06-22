@@ -1,0 +1,2 @@
+Logic Trunked Radio, is an analog trunked radio format developed by EF Johnson Company.
+Unlike most Trunked radio formats, including analog variants such as Passport, MPT1327, etc. LTR does not have a control channel. However, each repeater has its own controller and is required to report to a master controller.

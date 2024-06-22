@@ -1,0 +1,56 @@
+{
+    "signal": {
+        "name": "CIS-48",
+        "url": "https://www.sigidwiki.com/wiki/CIS-48"
+    },
+    "category": [
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 16459000,
+            "description": ""
+        },
+        {
+            "value": 17289000,
+            "description": ""
+        },
+        {
+            "value": 17234000,
+            "description": ""
+        },
+        {
+            "value": 5017000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 2000000,
+            "description": ""
+        },
+        {
+            "value": 3000000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "PSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Russia",
+            "description": ""
+        }
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "signal": {
+        "name": "RS80",
+        "url": "https://www.sigidwiki.com/wiki/RS80"
+    },
+    "category": [
+        "Analogue",
+        "Utility"
+    ],
+    "frequency": [
+        {
+            "value": 1680000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 120000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "MFSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "FM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

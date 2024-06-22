@@ -1,0 +1,1 @@
+Telemetry signal transmitted by M20 radiosondes

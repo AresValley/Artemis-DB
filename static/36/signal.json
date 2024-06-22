@@ -1,0 +1,26 @@
+{
+    "signal": {
+        "name": "Adam H Secure Communication (AHSC)",
+        "url": "https://www.sigidwiki.com/wiki/Adam_H_Secure_Communication_(AHSC)"
+    },
+    "category": [
+        "Amateur Radio",
+        "Digital"
+    ],
+    "frequency": [],
+    "bandwidth": [],
+    "acf": [],
+    "modulation": [],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "United Kingdom",
+            "description": ""
+        }
+    ]
+}

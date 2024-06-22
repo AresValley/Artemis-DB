@@ -1,0 +1,49 @@
+{
+    "signal": {
+        "name": "'Ghadir' OTH Radar",
+        "url": "https://www.sigidwiki.com/wiki/%27Ghadir%27_OTH_Radar"
+    },
+    "category": [
+        "Military",
+        "Radar"
+    ],
+    "frequency": [
+        {
+            "value": 28000000,
+            "description": ""
+        },
+        {
+            "value": 29700000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 60000,
+            "description": ""
+        },
+        {
+            "value": 1000000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "Pulse",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "AM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Iran",
+            "description": ""
+        }
+    ]
+}

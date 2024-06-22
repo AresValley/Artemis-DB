@@ -1,0 +1,53 @@
+{
+    "signal": {
+        "name": "OpenSky",
+        "url": "https://www.sigidwiki.com/wiki/OpenSky"
+    },
+    "category": [
+        "Digital",
+        "Trunked Radio"
+    ],
+    "frequency": [
+        {
+            "value": 700000000,
+            "description": ""
+        },
+        {
+            "value": 800000000,
+            "description": ""
+        },
+        {
+            "value": 1000000000,
+            "description": ""
+        },
+        {
+            "value": 900000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 20070,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "TDMA",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "NFM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

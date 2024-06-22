@@ -1,0 +1,46 @@
+{
+    "signal": {
+        "name": "Ultra Low Latency (ULL) Electronic Trading Network",
+        "url": "https://www.sigidwiki.com/wiki/Ultra_Low_Latency_(ULL)_Electronic_Trading_Network"
+    },
+    "category": [],
+    "frequency": [
+        {
+            "value": 6000000,
+            "description": ""
+        },
+        {
+            "value": 20000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 60000,
+            "description": ""
+        },
+        {
+            "value": 30000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "OQPSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "RAW",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "United States",
+            "description": ""
+        }
+    ]
+}

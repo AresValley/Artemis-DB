@@ -1,0 +1,44 @@
+{
+    "signal": {
+        "name": "Digital Multimedia Broadcasting (DMB)",
+        "url": "https://www.sigidwiki.com/wiki/Digital_Multimedia_Broadcasting_(DMB)"
+    },
+    "category": [
+        "Digital",
+        "Commercial"
+    ],
+    "frequency": [
+        {
+            "value": 174000000,
+            "description": ""
+        },
+        {
+            "value": 216000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 1536000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "DQPSK",
+            "description": ""
+        },
+        {
+            "value": "OFDM",
+            "description": ""
+        }
+    ],
+    "mode": [],
+    "location": [
+        {
+            "value": "South Korea",
+            "description": ""
+        }
+    ]
+}

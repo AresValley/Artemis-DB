@@ -1,0 +1,3 @@
+Weather balloon telemetry data. The LORAN-C signal's data is retransmitted by the radiosonde to geo-tag it's measurements to the receiving operator.
+
+The Microsonde Mark II was originally made by VIZ Manufacturing Company in Philadelphia, Pennsylvania, USA. VIZ was later bought in 1997 by Sippican Corporation, forming the VIZ Meteorological Systems Group of Sippican's Sea-Air Systems Division. In 2004, Sippican itself was purchased by Lockheed Martin Corporation, becoming part of their MS2 division.

@@ -1,0 +1,3 @@
+SITOR-A is one of two modes of SITOR, which stands for Simplex Teletype Over Radio. Based on CCIR 476-4. It was formerly used to transmit maritime short messages, however the maritime industry is gradually moving away from using this mode in favor of PACTOR. AMTOR is a type of SITOR used by amateur radio operators.
+
+SITOR-A has been seed with shifts of 170 Hz, 300 Hz, 400 Hz, and 850 Hz. SITOR-A is most commonly used with 170 Hz shift and 100 Bd.

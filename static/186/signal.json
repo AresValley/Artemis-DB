@@ -1,0 +1,52 @@
+{
+    "signal": {
+        "name": "FreeDV plus Video",
+        "url": "https://www.sigidwiki.com/wiki/FreeDV_plus_Video"
+    },
+    "category": [
+        "Amateur Radio"
+    ],
+    "frequency": [
+        {
+            "value": 3000000,
+            "description": ""
+        },
+        {
+            "value": 30000000,
+            "description": ""
+        },
+        {
+            "value": 14236000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 3500,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "OFDM",
+            "description": ""
+        },
+        {
+            "value": "FM",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

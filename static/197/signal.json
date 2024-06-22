@@ -1,0 +1,36 @@
+{
+    "signal": {
+        "name": "GRAVES",
+        "url": "https://www.sigidwiki.com/wiki/GRAVES"
+    },
+    "category": [
+        "Military",
+        "Radar"
+    ],
+    "frequency": [
+        {
+            "value": 143050000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 1000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [],
+    "mode": [
+        {
+            "value": "RAW I/Q",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "France",
+            "description": ""
+        }
+    ]
+}

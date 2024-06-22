@@ -1,0 +1,41 @@
+{
+    "signal": {
+        "name": "ISM Band Weather sensor",
+        "url": "https://www.sigidwiki.com/wiki/ISM_Band_Weather_sensor"
+    },
+    "category": [
+        "Digital",
+        "Utility"
+    ],
+    "frequency": [
+        {
+            "value": 433000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 4400,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "OOK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "AM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

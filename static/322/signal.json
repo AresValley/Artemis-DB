@@ -1,0 +1,69 @@
+{
+    "signal": {
+        "name": "Motorola SECURENET",
+        "url": "https://www.sigidwiki.com/wiki/Motorola_SECURENET"
+    },
+    "category": [
+        "Commercial",
+        "Trunked Radio"
+    ],
+    "frequency": [
+        {
+            "value": 137000000,
+            "description": ""
+        },
+        {
+            "value": 174000000,
+            "description": ""
+        },
+        {
+            "value": 400000000,
+            "description": ""
+        },
+        {
+            "value": 420000000,
+            "description": ""
+        },
+        {
+            "value": 450000000,
+            "description": ""
+        },
+        {
+            "value": 520000000,
+            "description": ""
+        },
+        {
+            "value": 941000000,
+            "description": ""
+        },
+        {
+            "value": 851000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 16000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "FSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "FM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

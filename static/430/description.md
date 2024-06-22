@@ -1,0 +1,1 @@
+STANAG 4415 is a NATO standard for robust, non-hopping digital data communication, used on severely degraded HF channels with large Doppler and multipath spreads. It is equivalent to the 75 bps variant of the MIL-STD-188-110 Serial mode.

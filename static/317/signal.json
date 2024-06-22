@@ -1,0 +1,46 @@
+{
+    "signal": {
+        "name": "Milstar",
+        "url": "https://www.sigidwiki.com/wiki/Milstar"
+    },
+    "category": [
+        "Digital",
+        "Military",
+        "Satellite"
+    ],
+    "frequency": [
+        {
+            "value": 243785000,
+            "description": ""
+        },
+        {
+            "value": 243822000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 50000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "FHSS",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "RAW",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

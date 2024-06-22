@@ -1,0 +1,52 @@
+{
+    "signal": {
+        "name": "Thales Syst\u00e8me 3000 HF Modem",
+        "url": "https://www.sigidwiki.com/wiki/Thales_Syst%C3%A8me_3000_HF_Modem"
+    },
+    "category": [
+        "Military"
+    ],
+    "frequency": [
+        {
+            "value": 1500000,
+            "description": ""
+        },
+        {
+            "value": 30000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 2000,
+            "description": ""
+        },
+        {
+            "value": 3000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "PSK",
+            "description": ""
+        },
+        {
+            "value": "MFSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

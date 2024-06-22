@@ -1,0 +1,3 @@
+PRC-16 is a Chinese sourced PSK data link, traced to Shanghai. Suspected user Chinese Military. A woman speaking Chinese has been heard on this frequency before.
+
+An idle tone that repeats every 720ms is possibly a marker to keep the channel free from interfering operators. The data portion of the signal always occurs in a burst, and follows a very similar format to MIL-STD-188-110 App.A 16-tone OFDM, only lacking the pilot tone. PRC-16 has been seen using BPSK modulation in its subcarriers at 75bd each. Each burst lasts about 1150 ms (600ms for preamble, 550ms for the 16x75 BPSK waveform). An interesting characteristic is the 4xBPSK mode right after the toned preamble but before the 16x75 waveform.

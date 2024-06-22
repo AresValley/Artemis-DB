@@ -1,0 +1,42 @@
+{
+    "signal": {
+        "name": "Vietnamese Siren Jammer",
+        "url": "https://www.sigidwiki.com/wiki/Vietnamese_Siren_Jammer"
+    },
+    "category": [],
+    "frequency": [
+        {
+            "value": 1000000,
+            "description": ""
+        },
+        {
+            "value": 20000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 2700000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "Unknown",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

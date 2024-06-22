@@ -1,0 +1,1 @@
+CHIP is a spread-spectrum PSK mode developed by Antonino Porcino IZ8BLY. There are two modes, CHIP64 and CHIP128. Both modes use 300 Bd and look and sound identical, but CHIP128 uses twice the spreading code length. CHIP64 runs at 37.5 bps, where CHIP 128 runs at 21.09 bps. As the names suggest, CHIP64 uses 64 chips and CHIP-128 uses 128 chips. Both use D-BPSK at 300 chips/s.

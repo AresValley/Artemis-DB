@@ -1,0 +1,39 @@
+{
+    "signal": {
+        "name": "DFM-09",
+        "url": "https://www.sigidwiki.com/wiki/DFM-09"
+    },
+    "category": [
+        "Utility"
+    ],
+    "frequency": [
+        {
+            "value": 400010000,
+            "description": ""
+        },
+        {
+            "value": 405990000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "FSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "FM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Europe",
+            "description": ""
+        }
+    ]
+}

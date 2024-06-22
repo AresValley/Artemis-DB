@@ -1,0 +1,3 @@
+Voice Scrambling mode from Thales Système 3000 HF Modem. Has characteristic PSK and MFSK bursts at the beginning and end of a voice transmission. The Système 3000 is used in the TRC-3600 transceiver produced by Thales in France.
+
+The PSK preamble lasts 150ms, and the PSK end of transmission burst lasts 100ms. In between the bursts, there is a very brief MFSK burst right after the preamble, and right before the end of transmission PSK burst. The MFSK is likely 8-MFSK.

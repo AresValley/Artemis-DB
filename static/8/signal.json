@@ -1,0 +1,52 @@
+{
+    "signal": {
+        "name": "3G WCDMA",
+        "url": "https://www.sigidwiki.com/wiki/3G_WCDMA"
+    },
+    "category": [
+        "Digital",
+        "Commercial"
+    ],
+    "frequency": [
+        {
+            "value": 824000000,
+            "description": ""
+        },
+        {
+            "value": 2100000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 4200000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "QAM",
+            "description": ""
+        },
+        {
+            "value": "QPSK",
+            "description": ""
+        },
+        {
+            "value": "CDMA",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "RAW",
+            "description": ""
+        },
+        {
+            "value": "AM",
+            "description": ""
+        }
+    ],
+    "location": []
+}

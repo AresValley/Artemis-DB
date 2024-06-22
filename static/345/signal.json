@@ -1,0 +1,46 @@
+{
+    "signal": {
+        "name": "Nordic Mobile Telephone (NMT)",
+        "url": "https://www.sigidwiki.com/wiki/Nordic_Mobile_Telephone_(NMT)"
+    },
+    "category": [
+        "Analogue",
+        "Digital",
+        "Commercial"
+    ],
+    "frequency": [
+        {
+            "value": 453000000,
+            "description": ""
+        },
+        {
+            "value": 960000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 25000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "FSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "NFM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

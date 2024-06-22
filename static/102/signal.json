@@ -1,0 +1,57 @@
+{
+    "signal": {
+        "name": "CODAR",
+        "url": "https://www.sigidwiki.com/wiki/CODAR"
+    },
+    "category": [
+        "Marine",
+        "Radar"
+    ],
+    "frequency": [
+        {
+            "value": 4438000,
+            "description": ""
+        },
+        {
+            "value": 12920000,
+            "description": ""
+        },
+        {
+            "value": 13500000,
+            "description": ""
+        },
+        {
+            "value": 42500000,
+            "description": ""
+        },
+        {
+            "value": 12470000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 50000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "ILFM",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

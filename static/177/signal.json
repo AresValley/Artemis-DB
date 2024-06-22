@@ -1,0 +1,45 @@
+{
+    "signal": {
+        "name": "FSK441",
+        "url": "https://www.sigidwiki.com/wiki/FSK441"
+    },
+    "category": [
+        "Digital",
+        "Amateur Radio"
+    ],
+    "frequency": [
+        {
+            "value": 144000000,
+            "description": ""
+        },
+        {
+            "value": 444000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 1750,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "FSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

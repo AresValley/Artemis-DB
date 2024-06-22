@@ -1,0 +1,40 @@
+{
+    "signal": {
+        "name": "Digital-Coded Squelch (DCS)",
+        "url": "https://www.sigidwiki.com/wiki/Digital-Coded_Squelch_(DCS)"
+    },
+    "category": [
+        "Commercial",
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 433000000,
+            "description": ""
+        },
+        {
+            "value": 446000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "FSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "NFM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

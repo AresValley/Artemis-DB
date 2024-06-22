@@ -1,0 +1,23 @@
+{
+    "signal": {
+        "name": "Siemens 1.5T MRI Scanner",
+        "url": "https://www.sigidwiki.com/wiki/Siemens_1.5T_MRI_Scanner"
+    },
+    "category": [],
+    "frequency": [
+        {
+            "value": 64000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [],
+    "acf": [],
+    "modulation": [],
+    "mode": [],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

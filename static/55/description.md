@@ -1,0 +1,1 @@
+BalDR weather sensor SCADA telemetry, A signal standard that belongs to the BalDR brand of weather sensors, and might also belong to other brands of weather sensors that use their technologies. Uses a set of randomly-generated delimiters which vary the overall pitch of the signal by slight Hz rates and modulation properties, to send its data and keep the display updated.

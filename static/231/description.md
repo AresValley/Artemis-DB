@@ -1,0 +1,10 @@
+ICAO Selcal (also known as AVCALL, ANNEX 10, or just SELCAL) is a HF/VHF aviation selective calling system used by ground stations to initiate radio communications with aircraft. This mode is defined by the International Civil Aviation Organization (ICAO)
+
+The first version of Selcal in 1985 used only 12 tones (A through M except I). In 1994, the standard was extended to have 16 tones, adding tones P, Q, R, and S. With the 16 tone format, the number of possible allowable codes was extended to 10,920. Selcal codes assigned to aircraft previously use a subset of only twelve letters/tones. Therefore, more than one aircraft may be designated by the same code
+
+Aviation Spectrum Resources, Inc. (ASRI) is the worldwide International Civil Aviation Organization (ICAO) registrar for all Selective Calling (SELCAL) system codes (This was formerly done by Aeronautical Radio, Incorporated (ARINC).) To avoid confusion from two or more aircraft using the same SELCAL code, ASRI tries to assign code duplicates to aircraft that do not usually operate in the same region of the world or on the same HF radio frequencies. However, aircraft commonly move between different geographical regions and it is now routine for two aircraft with the same SELCAL code to be found flying in the same region. Therefore, air crew always verify both SELCAL and call sign (i.e., aircraft tail registration, or telephony designator and flight identification) to be sure their aircraft is the intended recipient.
+
+# Format
+The ICAO Selcal signal itself is USB modulated with a full carrier. The radio transmissions that follow a Selcal are typically USB modulated voice without a carrier.
+
+The Selcal follows a 2 x 2 format. The first group comprises two simultaneous tones, made of 2 of the 16 available tones, and lasts for 1 second. Then there is a 200ms pause before the second group, which follows the same format as the first group. Essentially, every Selcal will have a XX-XX format, where the X's are the letter codes of the tones transmitted.

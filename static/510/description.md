@@ -1,0 +1,3 @@
+Yachta or Yakhta (Russian for 'Yacht' or 'Boat') T-219 is an analogue voice scrambler. It is unique in that an FSK sync signal is transmitted in the middle of the main signal, with the scrambled voice stream split above and below the FSK signal. This mode was replaced by CIS-12.
+
+The FSK sync signal transmits at 100 Bd with 150 Hz shift. Used by the Russian Military to send time-sensitive information.

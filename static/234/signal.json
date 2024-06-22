@@ -1,0 +1,40 @@
+{
+    "signal": {
+        "name": "ILS Marker Beacon",
+        "url": "https://www.sigidwiki.com/wiki/ILS_Marker_Beacon"
+    },
+    "category": [
+        "Aviation"
+    ],
+    "frequency": [
+        {
+            "value": 75000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 3000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "OOK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "AM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

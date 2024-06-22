@@ -1,0 +1,57 @@
+{
+    "signal": {
+        "name": "LTE Uplink",
+        "url": "https://www.sigidwiki.com/wiki/LTE_Uplink"
+    },
+    "category": [
+        "Commercial",
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 700000000,
+            "description": ""
+        },
+        {
+            "value": 800000000,
+            "description": ""
+        },
+        {
+            "value": 1800000000,
+            "description": ""
+        },
+        {
+            "value": 2300000000,
+            "description": ""
+        },
+        {
+            "value": 2600000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 5000000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "QPSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "SC-FDMA",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+The Radio Telephone Network C (German: Funktelefonnetz-C, abbreviated as C-Netz), was a first generation analog cellular phone system deployed and operated in Germany (at first West Germany) by DeTeMobil (formerly of Deutsche Bundespost Telekom, currently Deutsche Telekom).
+
+It utilized the C450 standard, originally developed by Siemens AG, and was the third and last update of a series of analog mobile phone systems used primarily within Germany, superseding the B-Netz and the A-Netz before it. It has been decommissioned, replaced by both the newer D-Netz and E-Netz systems, both based on GSM standards (which are digital) and operating on 900 MHz and 1800 MHz bands respectively.
+
+C-Netz was active from 1985 to 2000, with certain areas until 2001. Since then, all consumer cellular phone services in Germany are digital-only.
+
+The dialing code for the C-Netz was 0161, which is no longer in use. As a result, users were not able to transfer their numbers to GSM networks when the C-Netz was shut down.
+
+The C-Netz was officially introduced in 1985 (with unofficial trials in 1984) to replace the existing B-Netz/B2-Netz system used in Germany at the time. Due to problems with the B-Netz mobile networks, early adoption of C-Netz was very high, especially in rural areas which had lacked prior B-Netz coverage. However, like other first-generation analog systems, it suffered from poor call quality and was susceptible to eavesdropping. The system was built up in West Germany and West Berlin, but following German reunification in 1990, was rapidly built up in the new German states.
+
+By December 1988, the service had grown to nearly 100,000 customers, and reached a peak user base of around 800,000 in the early 1990s. It remained popular throughout the decade as a preferred system for mobile car phones, particularly rural taxi services, where it enjoyed an advantage in reception. However, it was inferior in all other ways to the newer GSM networks, and by the late 1990s Deutsche Telekom stopped accepting new customers. Its user base dropped rapidly; in 1999, it went from 230,000 customers in October to 210,000 customers in November. The C-Netz service was shut down on December 31, 2000. Some cells near the German-Dutch border remained active for several more months but were eventually discontinued as well. Future use The C-Netz radio spectrum in Germany (two 6 MHz wide frequency bands) was reallocated for use with Flarion's Flash-OFDM mobile networking standard which launched in 2005. It was primarily used to service Germany's rail service with Internet connectivity under the name Railnet.
+
+# Details
+The C450 standard was developed by Siemens in 1980. It is a 1G analog cellular standard that utilized non-audible in-band signaling, audio scrambling via band-inversion and cell network call queuing when congested. Cellular nodes varied in size, supporting a primary cell size of 15–20 km and micro-cells of 2–3 km in size. Channel bandwidth was typically 20 kHz, although it could be operated in a narrow-band mode of only 12 kHz. As its name implies, it was designed for the 450 MHz UHF frequency range. Roaming
+
+The C-Netz's C450 standard was a heterogeneous cellular system that inhibited International roaming. France used the RadioCom 2000 analog standard while Sweden, Denmark, the Netherlands and Switzerland used the NMT analog standard in the 450 or 900 MHz bands.
+
+Austria's own C-Netz system utilized the NMT standard, not C450. This differs from previous systems used in Austria (A-Netz, B-Netz) that were based on German standards.

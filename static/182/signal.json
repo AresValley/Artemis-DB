@@ -1,0 +1,42 @@
+{
+    "signal": {
+        "name": "FUNcube-1 Telemetry",
+        "url": "https://www.sigidwiki.com/wiki/FUNcube-1_Telemetry"
+    },
+    "category": [
+        "Amateur Radio",
+        "Satellite",
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 145935000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 2000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "PSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

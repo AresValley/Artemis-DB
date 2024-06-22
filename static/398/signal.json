@@ -1,0 +1,44 @@
+{
+    "signal": {
+        "name": "RUM-MOI FEC",
+        "url": "https://www.sigidwiki.com/wiki/RUM-MOI_FEC"
+    },
+    "category": [
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 3000000,
+            "description": ""
+        },
+        {
+            "value": 30000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 600,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "FSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Romania",
+            "description": ""
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "signal": {
+        "name": "Amplitude Modulation (AM)",
+        "url": "https://www.sigidwiki.com/wiki/Amplitude_Modulation_(AM)"
+    },
+    "category": [
+        "Analogue",
+        "Commercial",
+        "Aviation"
+    ],
+    "frequency": [
+        {
+            "value": 137000000,
+            "description": ""
+        },
+        {
+            "value": 153000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 10000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "AM",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "AM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

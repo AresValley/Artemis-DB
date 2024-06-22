@@ -1,0 +1,39 @@
+{
+    "signal": {
+        "name": "Duga 3",
+        "url": "https://www.sigidwiki.com/wiki/Duga_3"
+    },
+    "category": [
+        "Military",
+        "Radar"
+    ],
+    "frequency": [
+        {
+            "value": 7000000,
+            "description": ""
+        },
+        {
+            "value": 19000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 20000,
+            "description": ""
+        },
+        {
+            "value": 800000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [],
+    "mode": [],
+    "location": [
+        {
+            "value": "Ukraine",
+            "description": ""
+        }
+    ]
+}

@@ -1,0 +1,1 @@
+FUNcube-1 Telemetry is a telemetry signal sent from the Funcube-1 (AO-73) Cubesat amateur radio satellite. The telemetry is a 1200 Bd BPSK signal. The satellite was launched November 21st, 2013.

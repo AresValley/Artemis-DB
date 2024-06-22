@@ -1,0 +1,3 @@
+Three CIS-14 signals overlaid on top of each other in a 3100 Hz VFT (Voice-Frequency Telegraphy) bandwidth, operating at 100 bd. The CIS-14 signals are transmitted with encryption.
+
+VFT (Voice-Frequency Telegraphy), i.e. a technique that uses the entire voice-frequency range 300-3400 Hz for sending multiple transmissions simultaneously over one voice-bandwidth radio channel so that the entire frequency bandwidth of the channel is used.

@@ -1,0 +1,64 @@
+{
+    "signal": {
+        "name": "AFSK Paging Link",
+        "url": "https://www.sigidwiki.com/wiki/AFSK_Paging_Link"
+    },
+    "category": [
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 72000000,
+            "description": ""
+        },
+        {
+            "value": 850000000,
+            "description": ""
+        },
+        {
+            "value": 928000000,
+            "description": ""
+        },
+        {
+            "value": 76000000,
+            "description": ""
+        },
+        {
+            "value": 450000000,
+            "description": ""
+        },
+        {
+            "value": 460000000,
+            "description": ""
+        },
+        {
+            "value": 470000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 9000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "AFSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "NFM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

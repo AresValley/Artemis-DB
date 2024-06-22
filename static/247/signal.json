@@ -1,0 +1,40 @@
+{
+    "signal": {
+        "name": "Instrument Landing System",
+        "url": "https://www.sigidwiki.com/wiki/Instrument_Landing_System"
+    },
+    "category": [
+        "Aviation",
+        "Navigation"
+    ],
+    "frequency": [
+        {
+            "value": 108000000,
+            "description": ""
+        },
+        {
+            "value": 335000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 15000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [],
+    "mode": [
+        {
+            "value": "AM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

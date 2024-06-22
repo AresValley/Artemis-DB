@@ -1,0 +1,39 @@
+{
+    "signal": {
+        "name": "UTC (Coordinated Universal Time) Time Standard",
+        "url": "https://www.sigidwiki.com/wiki/UTC_(Coordinated_Universal_Time)_Time_Standard"
+    },
+    "category": [
+        "Time"
+    ],
+    "frequency": [
+        {
+            "value": 2500000,
+            "description": ""
+        },
+        {
+            "value": 25000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 4000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [],
+    "mode": [
+        {
+            "value": "AM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "United States",
+            "description": ""
+        }
+    ]
+}

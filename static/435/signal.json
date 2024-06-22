@@ -1,0 +1,45 @@
+{
+    "signal": {
+        "name": "STP403 Bus PIT System",
+        "url": "https://www.sigidwiki.com/wiki/STP403_Bus_PIT_System"
+    },
+    "category": [
+        "Utility",
+        "Commercial"
+    ],
+    "frequency": [
+        {
+            "value": 164000000,
+            "description": ""
+        },
+        {
+            "value": 468487500,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 8000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "FFSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "NFM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "France",
+            "description": ""
+        }
+    ]
+}

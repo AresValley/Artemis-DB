@@ -1,0 +1,40 @@
+{
+    "signal": {
+        "name": "TDF",
+        "url": "https://www.sigidwiki.com/wiki/TDF"
+    },
+    "category": [
+        "Time"
+    ],
+    "frequency": [
+        {
+            "value": 162000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 1,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "PSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "France",
+            "description": ""
+        }
+    ]
+}

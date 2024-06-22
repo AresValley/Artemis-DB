@@ -1,0 +1,27 @@
+{
+    "signal": {
+        "name": "Cobra Dane",
+        "url": "https://www.sigidwiki.com/wiki/Cobra_Dane"
+    },
+    "category": [],
+    "frequency": [
+        {
+            "value": 1215000000,
+            "description": ""
+        },
+        {
+            "value": 1400000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [],
+    "acf": [],
+    "modulation": [],
+    "mode": [],
+    "location": [
+        {
+            "value": "United States",
+            "description": ""
+        }
+    ]
+}

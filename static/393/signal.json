@@ -1,0 +1,33 @@
+{
+    "signal": {
+        "name": "RFID",
+        "url": "https://www.sigidwiki.com/wiki/RFID"
+    },
+    "category": [],
+    "frequency": [
+        {
+            "value": 13560000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 3300,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

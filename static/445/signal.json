@@ -1,0 +1,44 @@
+{
+    "signal": {
+        "name": "Single frequency russian overhead power line telemetry system",
+        "url": "https://www.sigidwiki.com/wiki/Single_frequency_russian_overhead_power_line_telemetry_system"
+    },
+    "category": [
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 50000,
+            "description": ""
+        },
+        {
+            "value": 1000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 300,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "AM",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "SSB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Russia",
+            "description": ""
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "signal": {
+        "name": "High Frequency Data Link (HFDL)",
+        "url": "https://www.sigidwiki.com/wiki/High_Frequency_Data_Link_(HFDL)"
+    },
+    "category": [
+        "Aviation",
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 2900000,
+            "description": ""
+        },
+        {
+            "value": 22000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 2400,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "PSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

@@ -1,0 +1,1 @@
+Orbcomm digitized mobile satellite-based telephone signal intercepted over Hawaii, preceding NOAA 19 pass.

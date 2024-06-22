@@ -1,0 +1,45 @@
+{
+    "signal": {
+        "name": "M17 RF Protocol",
+        "url": "https://www.sigidwiki.com/wiki/M17_RF_Protocol"
+    },
+    "category": [
+        "Amateur Radio",
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 30000000,
+            "description": ""
+        },
+        {
+            "value": 10500000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 9000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "4FSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "NFM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

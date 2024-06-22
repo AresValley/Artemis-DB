@@ -1,0 +1,66 @@
+{
+    "signal": {
+        "name": "Digital Video Broadcasting \u2014 Terrestrial (DVB-T)",
+        "url": "https://www.sigidwiki.com/wiki/Digital_Video_Broadcasting_%E2%80%94_Terrestrial_(DVB-T)"
+    },
+    "category": [
+        "Digital",
+        "Commercial"
+    ],
+    "frequency": [
+        {
+            "value": 786000000,
+            "description": ""
+        },
+        {
+            "value": 174000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 6000000,
+            "description": ""
+        },
+        {
+            "value": 7000000,
+            "description": ""
+        },
+        {
+            "value": 8000000,
+            "description": ""
+        }
+    ],
+    "acf": [
+        {
+            "value": 4.48,
+            "description": "Main"
+        }
+    ],
+    "modulation": [
+        {
+            "value": "QAM",
+            "description": ""
+        },
+        {
+            "value": "QPSK",
+            "description": ""
+        },
+        {
+            "value": "OFDM",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "signal": {
+        "name": "Terrestrial Trunked Radio (TETRA)",
+        "url": "https://www.sigidwiki.com/wiki/Terrestrial_Trunked_Radio_(TETRA)"
+    },
+    "category": [
+        "Digital",
+        "Trunked Radio"
+    ],
+    "frequency": [
+        {
+            "value": 380000000,
+            "description": ""
+        },
+        {
+            "value": 430000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 25000,
+            "description": ""
+        }
+    ],
+    "acf": [
+        {
+            "value": 56.67,
+            "description": "Frame"
+        },
+        {
+            "value": 14.16,
+            "description": "Slot"
+        },
+        {
+            "value": 1020.0,
+            "description": "Superframe"
+        }
+    ],
+    "modulation": [
+        {
+            "value": "PSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "NFM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

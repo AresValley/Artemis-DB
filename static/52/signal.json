@@ -1,0 +1,45 @@
+{
+    "signal": {
+        "name": "Automatic Transmitter Identification System (ATIS)",
+        "url": "https://www.sigidwiki.com/wiki/Automatic_Transmitter_Identification_System_(ATIS)"
+    },
+    "category": [
+        "Digital",
+        "Marine"
+    ],
+    "frequency": [
+        {
+            "value": 30000000,
+            "description": ""
+        },
+        {
+            "value": 800000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 12000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "FSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "NFM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Europe",
+            "description": ""
+        }
+    ]
+}

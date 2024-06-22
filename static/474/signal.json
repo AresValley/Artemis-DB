@@ -1,0 +1,39 @@
+{
+    "signal": {
+        "name": "The Pip",
+        "url": "https://www.sigidwiki.com/wiki/The_Pip"
+    },
+    "category": [
+        "Military",
+        "Numbers Stations"
+    ],
+    "frequency": [
+        {
+            "value": 5448000,
+            "description": ""
+        },
+        {
+            "value": 3756000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [],
+    "acf": [],
+    "modulation": [],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        },
+        {
+            "value": "AM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Russia",
+            "description": ""
+        }
+    ]
+}

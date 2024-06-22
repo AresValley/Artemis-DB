@@ -1,0 +1,53 @@
+{
+    "signal": {
+        "name": "FLASH-OFDM",
+        "url": "https://www.sigidwiki.com/wiki/FLASH-OFDM"
+    },
+    "category": [
+        "Commercial",
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 450000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 2000000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "MC-CDMA",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "WFM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Finland",
+            "description": ""
+        },
+        {
+            "value": "Slovakia",
+            "description": ""
+        },
+        {
+            "value": "Germany",
+            "description": ""
+        },
+        {
+            "value": "United States",
+            "description": ""
+        }
+    ]
+}

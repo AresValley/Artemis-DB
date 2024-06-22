@@ -1,0 +1,53 @@
+{
+    "signal": {
+        "name": "Yaesu System Fusion",
+        "url": "https://www.sigidwiki.com/wiki/Yaesu_System_Fusion"
+    },
+    "category": [
+        "Amateur Radio",
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 144000000,
+            "description": ""
+        },
+        {
+            "value": 148000000,
+            "description": ""
+        },
+        {
+            "value": 420000000,
+            "description": ""
+        },
+        {
+            "value": 450000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 16000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "4FSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "FM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

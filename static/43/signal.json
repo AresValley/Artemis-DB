@@ -1,0 +1,41 @@
+{
+    "signal": {
+        "name": "Autocab",
+        "url": "https://www.sigidwiki.com/wiki/Autocab"
+    },
+    "category": [
+        "Digital",
+        "Commercial"
+    ],
+    "frequency": [
+        {
+            "value": 163375000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 12500,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "PSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "NFM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "United Kingdom",
+            "description": ""
+        }
+    ]
+}

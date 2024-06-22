@@ -1,0 +1,66 @@
+{
+    "signal": {
+        "name": "29B6 'Kontayner' OTH Radar",
+        "url": "https://www.sigidwiki.com/wiki/29B6_%27Kontayner%27_OTH_Radar"
+    },
+    "category": [
+        "Military",
+        "Radar"
+    ],
+    "frequency": [
+        {
+            "value": 6100000,
+            "description": ""
+        },
+        {
+            "value": 32000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 3500,
+            "description": ""
+        },
+        {
+            "value": 7000,
+            "description": ""
+        },
+        {
+            "value": 14000,
+            "description": ""
+        },
+        {
+            "value": 28000,
+            "description": ""
+        }
+    ],
+    "acf": [
+        {
+            "value": 25.0,
+            "description": "Main"
+        }
+    ],
+    "modulation": [
+        {
+            "value": "Pulsed",
+            "description": ""
+        },
+        {
+            "value": "FMOP",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Russia",
+            "description": ""
+        }
+    ]
+}

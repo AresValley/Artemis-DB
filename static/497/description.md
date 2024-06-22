@@ -1,0 +1,1 @@
+Used to interrupt AM boardcast stations such as Radio Free Asia, Radio Đáp Lời Song Núi as well as Radio Sweden.

@@ -1,0 +1,5 @@
+Inmarsat D+ (and it's predecessor, Inmarsat D) was Inmarsat's satellite paging system. The main purpose was for tracking trucks and buoys and SCADA applications. The original Inmarsat-D terminals were one-way (to mobile) pagers. The newer Inmarsat-D+ terminals were the equivalent of a two-way pager. This signal is the downlink from satellite to mobile station. The infrastructure is now rendered obsolete by the newer IsatData Pro service.
+
+The downlink comprises a 32 MFSK signal at symbol rates of 4 sym/s or 8 sym/s for data rates of 20 bps and 40 bps respectively. Reed-Solomon (31,15) FEC is used on downlink.
+
+The 4 sym/s signal has shift of 20 Hz for each tone. The bandwidth of the signal is ~640 Hz, but the channel allocated to the downlink is 2.5 kHz wide to account for doppler shifting interference. There is a frequency shift of 20 Hz for each tone.

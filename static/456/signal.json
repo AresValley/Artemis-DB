@@ -1,0 +1,34 @@
+{
+    "signal": {
+        "name": "Switch-mode power supply interference",
+        "url": "https://www.sigidwiki.com/wiki/Switch-mode_power_supply_interference"
+    },
+    "category": [
+        "Interfering"
+    ],
+    "frequency": [
+        {
+            "value": 10000,
+            "description": ""
+        },
+        {
+            "value": 200000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [],
+    "acf": [],
+    "modulation": [],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

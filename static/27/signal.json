@@ -1,0 +1,44 @@
+{
+    "signal": {
+        "name": "ARQ6-90",
+        "url": "https://www.sigidwiki.com/wiki/ARQ6-90"
+    },
+    "category": [
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 10000000,
+            "description": ""
+        },
+        {
+            "value": 23000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 700,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "FSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

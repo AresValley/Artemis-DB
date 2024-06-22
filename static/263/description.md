@@ -1,0 +1,1 @@
+JTMS uses a variation of FSK called Minimum Shift Keying (MSK), which allows a faster transmission rate per unit bandwidth. JTMS performs approximately as well as FSK441, and tends to produce cleaner decodes. Uses MSK at 1378.125 baud, with a character transmission rate 197 cps.

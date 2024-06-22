@@ -1,0 +1,62 @@
+{
+    "signal": {
+        "name": "WinLink Global Email Radio System (WGERS)",
+        "url": "https://www.sigidwiki.com/wiki/WinLink_Global_Email_Radio_System_(WGERS)"
+    },
+    "category": [],
+    "frequency": [
+        {
+            "value": 7000,
+            "description": ""
+        },
+        {
+            "value": 400000000,
+            "description": ""
+        },
+        {
+            "value": 145000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 4000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "2MFSK",
+            "description": ""
+        },
+        {
+            "value": "OFDM",
+            "description": ""
+        },
+        {
+            "value": "PSK",
+            "description": ""
+        },
+        {
+            "value": "MFSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        },
+        {
+            "value": "NFM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

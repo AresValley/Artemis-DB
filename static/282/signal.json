@@ -1,0 +1,53 @@
+{
+    "signal": {
+        "name": "Lockheed Martin LMS-6 (Radiosonde)",
+        "url": "https://www.sigidwiki.com/wiki/Lockheed_Martin_LMS-6_(Radiosonde)"
+    },
+    "category": [
+        "Utility",
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 400000000,
+            "description": ""
+        },
+        {
+            "value": 403000000,
+            "description": ""
+        },
+        {
+            "value": 1676000000,
+            "description": ""
+        },
+        {
+            "value": 1682000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 10000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "GFSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "NFM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

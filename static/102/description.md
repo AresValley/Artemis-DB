@@ -1,0 +1,3 @@
+CODAR (Coastal Ocean Dynamics Applications Radar) is used for near-surface ocean monitoring, such as waves and water current. Commonly becomes a source of interference for amateur radio operators. Developed between 1973 and 1983 at NOAA's Wave Propagation Laboratory, the founders left NOAA and formed the CODAR Ocean Sensors company, producing CODAR radar systems for commercial use.
+
+CODAR is based on Bragg’s Scattering Law. This allowed for the monitoring of ocean current and wave condition with high precision and range of up to 200 km. CODAR uses ILFM (Interpulse Linear Frequency Modulation), which is essentially a FMCW signal that is broken up into pulses in order to create a 50% duty cycle.

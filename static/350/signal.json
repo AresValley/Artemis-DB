@@ -1,0 +1,44 @@
+{
+    "signal": {
+        "name": "OOK RC Car Remote Control",
+        "url": "https://www.sigidwiki.com/wiki/OOK_RC_Car_Remote_Control"
+    },
+    "category": [
+        "Analogue"
+    ],
+    "frequency": [
+        {
+            "value": 27000000,
+            "description": ""
+        },
+        {
+            "value": 49000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 1600,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "OOK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "AM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

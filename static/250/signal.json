@@ -1,0 +1,30 @@
+{
+    "signal": {
+        "name": "Ionized Meteor Trails",
+        "url": "https://www.sigidwiki.com/wiki/Ionized_Meteor_Trails"
+    },
+    "category": [
+        "Interfering"
+    ],
+    "frequency": [
+        {
+            "value": 88300000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [],
+    "acf": [],
+    "modulation": [],
+    "mode": [
+        {
+            "value": "FM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

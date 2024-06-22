@@ -1,0 +1,1 @@
+COFDMTV is an easy-to-use picture transmission mode based on Coded Orthogonal Frequency-Division Multiplexing (COFDM).

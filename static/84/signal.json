@@ -1,0 +1,57 @@
+{
+    "signal": {
+        "name": "CIS-12",
+        "url": "https://www.sigidwiki.com/wiki/CIS-12"
+    },
+    "category": [
+        "Military",
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 7026000,
+            "description": ""
+        },
+        {
+            "value": 7610000,
+            "description": ""
+        },
+        {
+            "value": 8500000,
+            "description": ""
+        },
+        {
+            "value": 10500000,
+            "description": ""
+        },
+        {
+            "value": 14600000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 3100,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "PSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Russia",
+            "description": ""
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "signal": {
+        "name": "Redundant Digital File Transfer (RDFT)",
+        "url": "https://www.sigidwiki.com/wiki/Redundant_Digital_File_Transfer_(RDFT)"
+    },
+    "category": [
+        "Digital",
+        "Amateur Radio",
+        "Numbers Stations"
+    ],
+    "frequency": [
+        {
+            "value": 9240000,
+            "description": ""
+        },
+        {
+            "value": 9065000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 1800,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "PSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

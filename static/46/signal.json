@@ -1,0 +1,45 @@
+{
+    "signal": {
+        "name": "Automatic Identification System (AIS)",
+        "url": "https://www.sigidwiki.com/wiki/Automatic_Identification_System_(AIS)"
+    },
+    "category": [
+        "Marine",
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 161975000,
+            "description": ""
+        },
+        {
+            "value": 162025000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 25000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "GMSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "NFM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

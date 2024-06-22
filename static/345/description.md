@@ -1,0 +1,3 @@
+Nordic Mobile Telephone (NMT, NMT-450, and NMT-900) is a first generation analog cell phone system. Originally designed for and by Nordic countries (Finland, Sweden, Norway, Denmark) it was widely deployed around the world, for example in Saudi Arabia, Russia and Switzerland. It was completely automatic and allowed for users to roam freely in participating countries. Nowadays (as of 2015) NMT is defunct.
+
+Voice is transmitted as NFM, data as FSK. Data rate is 1200 baud, with mark/space frequencies of 1200/1800 Hz.

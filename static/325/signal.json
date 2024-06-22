@@ -1,0 +1,73 @@
+{
+    "signal": {
+        "name": "Multitone Paging",
+        "url": "https://www.sigidwiki.com/wiki/Multitone_Paging"
+    },
+    "category": [
+        "Digital",
+        "Commercial"
+    ],
+    "frequency": [
+        {
+            "value": 25000000,
+            "description": ""
+        },
+        {
+            "value": 54000000,
+            "description": ""
+        },
+        {
+            "value": 137000000,
+            "description": ""
+        },
+        {
+            "value": 174000000,
+            "description": ""
+        },
+        {
+            "value": 407000000,
+            "description": ""
+        },
+        {
+            "value": 417000000,
+            "description": ""
+        },
+        {
+            "value": 430000000,
+            "description": ""
+        },
+        {
+            "value": 470000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 12500,
+            "description": ""
+        },
+        {
+            "value": 25000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "FFSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "NFM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

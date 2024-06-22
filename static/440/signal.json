@@ -1,0 +1,44 @@
+{
+    "signal": {
+        "name": "Sensus Water meter (Acquisition units)",
+        "url": "https://www.sigidwiki.com/wiki/Sensus_Water_meter_(Acquisition_units)"
+    },
+    "category": [
+        "Commercial",
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 902000000,
+            "description": ""
+        },
+        {
+            "value": 927000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 175000000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "ASK",
+            "description": ""
+        },
+        {
+            "value": "FHSS",
+            "description": ""
+        }
+    ],
+    "mode": [],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

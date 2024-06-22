@@ -1,0 +1,3 @@
+The Israeli Naval Hybrid Modem is based on the MIL-STD-188-110 Serial Standard. Has characteristic preamble with 4/6 Tone and 18 QPSK parallel mode before 110 Serial transmission. Possible use as a broadcast transmitter for ships. Used by the Israeli Navy 4XZ station from Haifa.
+
+Variations of this hybrid modem have been seen. Some start with 6 tones, others start with 4 tones. Furthermore, some have a single short 1000 Hz tone right before the 4/6 tone preamble with a length of 233ms.

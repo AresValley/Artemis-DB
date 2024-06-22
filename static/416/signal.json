@@ -1,0 +1,31 @@
+{
+    "signal": {
+        "name": "SAS2",
+        "url": "https://www.sigidwiki.com/wiki/SAS2"
+    },
+    "category": [
+        "Military",
+        "Marine"
+    ],
+    "frequency": [
+        {
+            "value": 42500,
+            "description": ""
+        }
+    ],
+    "bandwidth": [],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "MSK",
+            "description": ""
+        }
+    ],
+    "mode": [],
+    "location": [
+        {
+            "value": "Sweden",
+            "description": ""
+        }
+    ]
+}

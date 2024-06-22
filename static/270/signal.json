@@ -1,0 +1,35 @@
+{
+    "signal": {
+        "name": "Kia SVI-JFRGE04 Key Fob",
+        "url": "https://www.sigidwiki.com/wiki/Kia_SVI-JFRGE04_Key_Fob"
+    },
+    "category": [
+        "Utility"
+    ],
+    "frequency": [],
+    "bandwidth": [
+        {
+            "value": 55000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "FSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "NFM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

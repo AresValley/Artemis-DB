@@ -1,0 +1,1 @@
+Spectrum Painting, also known as RF paint, is a form of SSTV that uses an input image directly modulated to IQ over the RF spectrum to produce a raw result, instead of a modulated scanline sequence in the form of an actual analog signal (Robot, Martin, Scottie, PD) or digital bitstream (FSK, PSK, etc).

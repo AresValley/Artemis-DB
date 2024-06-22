@@ -1,0 +1,57 @@
+{
+    "signal": {
+        "name": "RWM",
+        "url": "https://www.sigidwiki.com/wiki/RWM"
+    },
+    "category": [
+        "Time"
+    ],
+    "frequency": [
+        {
+            "value": 4996000,
+            "description": ""
+        },
+        {
+            "value": 14996000,
+            "description": ""
+        },
+        {
+            "value": 9996000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 5,
+            "description": ""
+        }
+    ],
+    "acf": [
+        {
+            "value": 1000.0,
+            "description": "Primary"
+        },
+        {
+            "value": 100.0,
+            "description": "Secondary"
+        }
+    ],
+    "modulation": [
+        {
+            "value": "OOK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Russia",
+            "description": ""
+        }
+    ]
+}

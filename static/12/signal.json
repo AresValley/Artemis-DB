@@ -1,0 +1,53 @@
+{
+    "signal": {
+        "name": "77Ya6 'Voronezh' radar",
+        "url": "https://www.sigidwiki.com/wiki/77Ya6_%27Voronezh%27_radar"
+    },
+    "category": [
+        "Military",
+        "Radar"
+    ],
+    "frequency": [
+        {
+            "value": 150000000,
+            "description": ""
+        },
+        {
+            "value": 200000000,
+            "description": ""
+        },
+        {
+            "value": 430000000,
+            "description": ""
+        },
+        {
+            "value": 440000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 2000000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "FMCW",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "AM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Russia",
+            "description": ""
+        }
+    ]
+}

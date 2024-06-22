@@ -1,0 +1,3 @@
+Coherent CW (also known as CCW) was a strictly timed morse code mode designed by Ray Petit W7GHM (The same inventor of CLOVER). CCW depended on accurate timing from both receiver and transmitter.
+
+CCW ran at exactly 12 words per minute, with 100ms for dot length and element space and 300ms for dash length and character space. CCW, using a synchronous clock rate, allows for users to take advantage of extremely narrowband filtering what increases the SNR and allows for reception in poor propagation conditions at the expense of very slow transmission. It is technically very simple (OOK) and is easily implemented.

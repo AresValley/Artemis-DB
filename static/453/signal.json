@@ -1,0 +1,46 @@
+{
+    "signal": {
+        "name": "Spectrum Painting",
+        "url": "https://www.sigidwiki.com/wiki/Spectrum_Painting"
+    },
+    "category": [],
+    "frequency": [
+        {
+            "value": 2000000,
+            "description": ""
+        },
+        {
+            "value": 10000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 4000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "OFDM",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        },
+        {
+            "value": "LSB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

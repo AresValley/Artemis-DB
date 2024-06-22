@@ -1,0 +1,1 @@
+Meteors traversing the E region of the atmosphere approximately 60 - 90 miles up create ionizing trails which can reflect and refract radio waves from commercial FM radio stations that are hundreds and sometimes thousands of miles away from the receiver.

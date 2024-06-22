@@ -1,0 +1,50 @@
+{
+    "signal": {
+        "name": "D-STAR",
+        "url": "https://www.sigidwiki.com/wiki/D-STAR"
+    },
+    "category": [
+        "Amateur Radio",
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 145670000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 6250,
+            "description": ""
+        }
+    ],
+    "acf": [
+        {
+            "value": 20.0,
+            "description": "Frame"
+        },
+        {
+            "value": 420.0,
+            "description": "Superframe"
+        }
+    ],
+    "modulation": [
+        {
+            "value": "GMSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "NFM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

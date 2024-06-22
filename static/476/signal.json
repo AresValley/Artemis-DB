@@ -1,0 +1,50 @@
+{
+    "signal": {
+        "name": "Total Access Communication System (TACS)",
+        "url": "https://www.sigidwiki.com/wiki/Total_Access_Communication_System_(TACS)"
+    },
+    "category": [
+        "Commercial",
+        "Analogue",
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 872000000,
+            "description": ""
+        },
+        {
+            "value": 960000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 25000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "FM",
+            "description": ""
+        },
+        {
+            "value": "FSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "NFM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Europe",
+            "description": ""
+        }
+    ]
+}

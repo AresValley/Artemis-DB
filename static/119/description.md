@@ -1,0 +1,2 @@
+Low speed FSK telemetry to monitor and control warning sirens that are used to warn the public of threats such as tsunamis, severe weather, chemical spills and civil emergencies.
+Compulert was developed by Alerting Communicators of America (ACA), now named American Signal Corporation (ASC). It is a SCADA-based proprietary FSK protocol used to manage and monitor warning sirens in an area.

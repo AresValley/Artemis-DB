@@ -1,0 +1,1 @@
+This signal comes from an RF remote control device that transmits in UHF over 433.92MHz and controls the arming and disarming system of an electric fence.

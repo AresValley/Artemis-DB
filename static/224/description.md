@@ -1,0 +1,7 @@
+HFDVL (or HFD+VL) is an experimental mode developed by research groups from The University of Las Palmas de Gran Canaria and The Polytechnic University of Madrid. This mode is intended for military use in accordance with STANAG 5066 parameters.
+
+This mode uses PSK and OFDM with a number of different modes seen as experimentation goes on. The OFDM data portion uses 73 parallel tones. At the beginning of the transmission is an unmodulated tone followed by a brief BPSK burst at 2400 Bd that may act as a preamble and a declaration of transmission parameters for the receiving modem to be able to demodulate and decode. Right after the BPSK burst is the beginning of the OFDM Data transfer.
+
+This mode supports STANAG 5066 ARQ procedures, so this signal can be seen with DATA and ACK behaviors in the transmissions. The short bursts are likely Acknowledgements while the longer runs are probably data.
+
+A key feature of this signal is its ability to transmit data and voice at high speed over the HF band, being very robust against propagation conditions and being able to transmit at speeds of ~8000+ bps. The modes that have been used in the OFDM data segment of the signal includes QPSK and QAM modes. The table below lists some that were used by HFDVL.

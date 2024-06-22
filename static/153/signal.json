@@ -1,0 +1,35 @@
+{
+    "signal": {
+        "name": "Distributed Power Unit (DPU)",
+        "url": "https://www.sigidwiki.com/wiki/Distributed_Power_Unit_(DPU)"
+    },
+    "category": [
+        "Utility"
+    ],
+    "frequency": [
+        {
+            "value": 457925000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 6000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [],
+    "mode": [
+        {
+            "value": "NFM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

@@ -1,0 +1,6 @@
+Relocatable Over-the-Horizon Radar (ROTHR), also known as AN/TPS-71, is an OTH Radar used by the United States Navy that uses bistatic ionospheric backscattering for wide area surveillance. The Radar system was developed by the US Navy with assistance from Raytheon. Three ROTHR systems are in use, in Virginia, Texas and Puerto Rico.
+
+The radar uses FMCW transmission and can use different bandwidths. Lower bandwidth transmissions are easier to receive in distant locations such as Europe. Transmission happens in bursts and a couple of successive bursts are often transmitted. After transmitting a burst sequence, the radar may change its frequency slightly, making it harder to follow compared to other OTH radars. Sweep rate is often changed between successive bursts. The bursts are most commonly transmitted without intro tone, and sometimes a three-part intro tone is used. This three-part intro tone is a characteristic feature of this radar.
+
+
+ROTHR can be confused with the JORN radar, but can be differentiated by its different bandwidth and three-part intro tone or lack of intro tone.

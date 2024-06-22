@@ -1,0 +1,8 @@
+MIL-STD-188-110 Serial is a US Department of Defense standard for HF Communications, Serial PSK mode. The mode was officially specified in the "Military Standard Interoperability and Performance Standards for Data Modems" in 1991. The original waveform was first outlined in the MIL-STD-188-110A standard, and has since remained over the next two revisions, the current one being MIL-STD-188-110C W/ Change 1. This serial waveform is very popular for its HF performance and robustness. This mode is almost identical to STANAG 4285, but has some differences that keeps them from being interchangeable.
+
+# Characteristics
+This mode can transmit both data and voice with a range of interleaving and speed modes for optimal propagation. The signal has a constant baud of 2400 bd, with user bps ranging from 75bps to 4800 bps. Short and long interleaving exists for all speeds except 4800bps, where interleaving is turned off. In addition, for the transmission of digital voice, 2400bps short interleaving must be used. The center tuning frequency for this mode is 1800 Hz. It can also operate in short bursts, as well as long data links.
+
+This signal uses a 8-PSK Modulation tri-bit method. 150, 300, and 600bps use 1-bit (BPSK). 1200 uses 2-bits (QPSK), and 2400 and 4800 use 3-bits (8PSK). 75bps uses a special 2-bit QPSK method called Walsh Modulation.
+
+There are also a number of variants of the MIL STD Serial signal. One is a QPSK Hybrid (called MIL-STD-188-110A-MOD by some), where a 40 channel OFDM QPSK preamble is added to the signal. Another is the Système 3000 Variant from Thales, used in Thales HF Modems. The primary difference in this variant is the preamble at the beginning.

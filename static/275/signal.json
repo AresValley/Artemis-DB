@@ -1,0 +1,49 @@
+{
+    "signal": {
+        "name": "LTE-M",
+        "url": "https://www.sigidwiki.com/wiki/LTE-M"
+    },
+    "category": [
+        "Commercial",
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 412500000,
+            "description": ""
+        },
+        {
+            "value": 2690000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 1080000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "OFDMA",
+            "description": ""
+        },
+        {
+            "value": "16-QAM",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "AM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

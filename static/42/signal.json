@@ -1,0 +1,40 @@
+{
+    "signal": {
+        "name": "Aqua Direct Broadcast (DB)",
+        "url": "https://www.sigidwiki.com/wiki/Aqua_Direct_Broadcast_(DB)"
+    },
+    "category": [
+        "Satellite"
+    ],
+    "frequency": [
+        {
+            "value": 8160000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 15000000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "OQPSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "RAW",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

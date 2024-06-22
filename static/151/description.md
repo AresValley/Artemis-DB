@@ -1,0 +1,9 @@
+Analog Distress Radiobeacons are simple siren-based transmitters that were installed in older EPIRB's, PLB's and ELT's. No longer being used as the main signal but instead as a supplementary homing signal in modern digital radiobeacons. Distress Radiobeacons include PLB (Personal Locator Beacon), ELT (Emergency Locator Transmitter) and EPIRB (Emergency Position-Indicating Radio Beacon).
+
+Old distress beacons equipped solely with the analog distress radiobeacon emit a siren signal when activated and was used in combination with radio direction-finding equipment for Search and Rescue teams to find the vessel, plane, or person in distress. The siren audio is Frequency-Modulated Continuous Wave modulated (FMCW).
+
+When Analog distress beacons were used, many false alerts were made, and confirming if the alert was real required multiple confirmations of reception of signal and triangulation of the signal's location. Since the sirens were also anonymous, it made identifying what was to be looked for difficult (boat, plane, or person). The newer digital radiobeacons on 406 MHz solve this by transmitting data that includes registration information, as well as GPS location if the radiobeacon is GPS-enabled.
+
+Old Analog only distress radiobeacons have stopped being manufactured and are no longer recommended for use. Search and Rescue Satellites have stopped monitoring the 121.5 MHz and 243 MHz bands, instead only monitoring the new 406 MHz digital distress signal band.
+
+Although analog radiobeacons are defunct, the Analog Radiobeacon siren is still being equipped on many digital radiobeacons as a supplementary homing signal transmitted on 121.5 MHz (243 MHz for Military), which are still consistently listened to by SAR (Search and Rescue) stations. This gives the EPIRB, PLB, or ELT both analog and digital capability for locating the distressed persons. Such ELTs have been banned by the FAA from sale, and certification, after December 18 2018.

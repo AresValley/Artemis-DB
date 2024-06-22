@@ -1,0 +1,57 @@
+{
+    "signal": {
+        "name": "NB-IOT",
+        "url": "https://www.sigidwiki.com/wiki/NB-IOT"
+    },
+    "category": [
+        "Digital",
+        "Commercial"
+    ],
+    "frequency": [
+        {
+            "value": 700000000,
+            "description": ""
+        },
+        {
+            "value": 850000000,
+            "description": ""
+        },
+        {
+            "value": 900000000,
+            "description": ""
+        },
+        {
+            "value": 1800000000,
+            "description": ""
+        },
+        {
+            "value": 1900000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 200000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "QPSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "AM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

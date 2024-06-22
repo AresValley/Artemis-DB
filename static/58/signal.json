@@ -1,0 +1,52 @@
+{
+    "signal": {
+        "name": "BPM",
+        "url": "https://www.sigidwiki.com/wiki/BPM"
+    },
+    "category": [
+        "Time"
+    ],
+    "frequency": [
+        {
+            "value": 2500000,
+            "description": ""
+        },
+        {
+            "value": 5000000,
+            "description": ""
+        },
+        {
+            "value": 10000000,
+            "description": ""
+        },
+        {
+            "value": 15000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 3500,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "AM",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "AM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "China",
+            "description": ""
+        }
+    ]
+}

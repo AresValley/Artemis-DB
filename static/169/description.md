@@ -1,0 +1,7 @@
+EDACS is a trunked radio system developed by General Electric and Ericsson. EDACS was invented by General Electric in the mid-80s and then further engineered by Ericsson and is currently owned by Harris Corporation. Harris has announced that EDACS systems will no longer be supported by 2017, urging customers to switch to newer P25 systems.
+
+EDACS is primarily seen with its trunking channels; the voice can either be analog FM or digitally encoded with AEGIS or ProVoice. AEGIS was the original format, but was soon replaced by ProVoice.
+
+EDACS has three modes, Wideband, Narrowband, and Encrypted. Wideband EDACS is the most common form of this channel, and uses a 12.4kHz wide 9.6kbit/s trunking channel segmented on 25 kHz wide channels, where Narrowband EDACS uses 6.25 kHz 4.8kbit/s trunking on 12.5 kHz wide channels. The Encrypted version of EDACS (called EDACS Security Key (ESK), M/A-COM's trademark name for this feature) is a variant of the Wideband EDACS format, using specially coded frames that require a specific security key for two EDACS radios to communicate.
+
+Transmitted using GFSK digital modulation over working channels at either 4.8kbit/s or 9.6kbit/s. EDACS is a type of ESMR (Enhanced Specialized Mobile Radio) network.

@@ -1,0 +1,3 @@
+The Graw DFM-06 is a standard radiosonde for most applications. It is perfectly suited for synoptic observations or military applications.
+
+It is designed to measure the profile of atmospheric pressure, temperature, humidity, wind speed and direction, from the surface up to 40 km altitude. Continuous data sets of measurements are sent down to the ground station by a high quality radio-telemetry link.

@@ -1,0 +1,5 @@
+Advanced Television Systems Committee Television. uses 8VSB Modulation and this is a special kind of PAM Modulation. Each channel has a single carrier signal on the left of the signal.
+
+8VSB uses digital amplitude modulation with 8 distinct amplitude levels representing 3 digital bits. If this were ordinary double-sideband AM, these levels would appear as 8 dots along the I (real) axis. However, a Q channel component is created by the vestigial sideband (VSB) filtering that removes most of the lower sideband. The lower sideband is reconstructed in the receiver just as it was in analog TV, and this cancels the Q channel component leaving only the 8 dots on the real axis.
+
+In contrast, 64-QAM uses eight distinct I and eight distinct Q amplitudes to encode one of 64 combinations representing 6 bits, i.e., twice as many per symbol as 8VSB. To do this it must transmit two complete sidebands (which are not mirror images of each other).

@@ -1,0 +1,5 @@
+BPC is the callsign of a time signal broadcasting from the BPC Shangqiu Low-Frequency Time-Code Radio Station, cooperatively constructed by the National Time Service Center of the Chinese Academy of Sciences (中国科学院国家授时中心) and Xi’an Gaohua Technology Company. It was constructed on April 25, 2002.
+
+BPC transmits a time signal on 68.5 kHz, which can be used for synchronizing radio controlled clocks. As opposed to other time signal transmitters, the signal format is not published openly; a special license is required. The transmission site is situated near Shangqiu, Henan Province (商丘市,河南省) at 34.457°N 115.837°E.
+
+BPC broadcasts at 90 kW for 21 hours per day, with a 3-hour break from 05:00–08:00 (China Standard Time) daily (21:00–24:00 UTC). BPC includes both conventional amplitude modulated time code and additional spread-spectrum time code, about which little is known

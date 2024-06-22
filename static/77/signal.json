@@ -1,0 +1,49 @@
+{
+    "signal": {
+        "name": "CIS MFSK-16 XPB",
+        "url": "https://www.sigidwiki.com/wiki/CIS_MFSK-16_XPB"
+    },
+    "category": [
+        "Numbers Stations",
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 10000000,
+            "description": ""
+        },
+        {
+            "value": 20000000,
+            "description": ""
+        },
+        {
+            "value": 4400000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 2800,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "MFSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Russia",
+            "description": ""
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "signal": {
+        "name": "The 'Air Horn'",
+        "url": "https://www.sigidwiki.com/wiki/The_%27Air_Horn%27"
+    },
+    "category": [],
+    "frequency": [
+        {
+            "value": 3500000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 5000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [],
+    "mode": [
+        {
+            "value": "SSB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Russia",
+            "description": ""
+        }
+    ]
+}

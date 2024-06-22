@@ -1,0 +1,49 @@
+{
+    "signal": {
+        "name": "Tire Pressure Monitoring System (TPMS)",
+        "url": "https://www.sigidwiki.com/wiki/Tire_Pressure_Monitoring_System_(TPMS)"
+    },
+    "category": [
+        "Utility"
+    ],
+    "frequency": [
+        {
+            "value": 315000000,
+            "description": ""
+        },
+        {
+            "value": 434000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 100000,
+            "description": ""
+        }
+    ],
+    "acf": [
+        {
+            "value": 7.433,
+            "description": "Main"
+        }
+    ],
+    "modulation": [
+        {
+            "value": "FSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "AM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

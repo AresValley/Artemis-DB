@@ -1,0 +1,45 @@
+{
+    "signal": {
+        "name": "SP-14 (XP)",
+        "url": "https://www.sigidwiki.com/wiki/SP-14_(XP)"
+    },
+    "category": [
+        "Digital",
+        "Numbers Stations"
+    ],
+    "frequency": [
+        {
+            "value": 9000000,
+            "description": ""
+        },
+        {
+            "value": 12000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 1200,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "MFSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "AM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Russia",
+            "description": ""
+        }
+    ]
+}

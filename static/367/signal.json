@@ -1,0 +1,44 @@
+{
+    "signal": {
+        "name": "PRC-16",
+        "url": "https://www.sigidwiki.com/wiki/PRC-16"
+    },
+    "category": [
+        "Military"
+    ],
+    "frequency": [
+        {
+            "value": 14300000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 2200,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "PSK",
+            "description": ""
+        },
+        {
+            "value": "OFDM",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "China",
+            "description": ""
+        }
+    ]
+}

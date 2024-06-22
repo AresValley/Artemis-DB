@@ -1,0 +1,40 @@
+{
+    "signal": {
+        "name": "GOES High Rate Information Transmission (HRIT)",
+        "url": "https://www.sigidwiki.com/wiki/GOES_High_Rate_Information_Transmission_(HRIT)"
+    },
+    "category": [
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 1694100000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 1205000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "BPSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "RAW",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

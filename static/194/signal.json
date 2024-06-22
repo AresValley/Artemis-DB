@@ -1,0 +1,50 @@
+{
+    "signal": {
+        "name": "GOES Data Collection System (DCS)",
+        "url": "https://www.sigidwiki.com/wiki/GOES_Data_Collection_System_(DCS)"
+    },
+    "category": [
+        "Satellite",
+        "Digital",
+        "Utility"
+    ],
+    "frequency": [
+        {
+            "value": 1679900000,
+            "description": ""
+        },
+        {
+            "value": 1680200000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 300,
+            "description": ""
+        },
+        {
+            "value": 1200,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "8PSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

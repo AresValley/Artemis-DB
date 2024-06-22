@@ -1,0 +1,39 @@
+{
+    "signal": {
+        "name": "DisplayPort Interference",
+        "url": "https://www.sigidwiki.com/wiki/DisplayPort_Interference"
+    },
+    "category": [
+        "Interfering"
+    ],
+    "frequency": [
+        {
+            "value": 381500000,
+            "description": ""
+        },
+        {
+            "value": 159557500,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 250000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [],
+    "mode": [
+        {
+            "value": "RAW",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

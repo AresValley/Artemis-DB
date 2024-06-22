@@ -15,5 +15,16 @@ This repository is used to store the last versione of the SigId wiki database fo
 > [!IMPORTANT]  
 > The repository is intended for internal use only.
 
+## Media
+
+### Waterfall/Spectrum (FFT)
+The image is converted back to png from the original format. The resolution is arbitrary (yet).
+
+### Audio Sample
+The standard format of an audio sample is .ogg with a sampling rate equal to the original recording. The audio codec used depends on the native format:
+
+- **vorbis**, if the original audio is compressed
+- **flac**, if the original audio is lossless
+
 ## License
 Artemis is licensed under the [**GPL-3**](https://github.com/AresValley/Artemis/blob/master/LICENSE) license. 

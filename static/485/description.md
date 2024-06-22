@@ -1,0 +1,5 @@
+This Ultra Low Latency (ULL) Electronic Trading Network is a 48k or 24k baud OQPSK signal that is strongly suspected (through numerous circumstancial pieces of evidence) to be either an experimental or active P2P RF link between financial market data centers, used for High Frequency Trading (HFT) and other latency-sensitive market activities. Not much is known on exactly which commercial entity it belongs to, but the link is likely part of a Chicago <-> New York link to connect the NY and Chicago financial hubs.
+
+It is an OQPSK signal with a baud rate of 48k or 24k. Due to natural fading on HF it is almost never seen at full strength with the natural PSK rounded amplitude shape. There is usually two of these signals present on HF, one lower frequency than the other.
+
+TDoA suggests that the signal is being transmitted outside of Chicago.

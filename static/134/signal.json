@@ -1,0 +1,45 @@
+{
+    "signal": {
+        "name": "DeltaFix",
+        "url": "https://www.sigidwiki.com/wiki/DeltaFix"
+    },
+    "category": [
+        "Marine",
+        "Navigation"
+    ],
+    "frequency": [
+        {
+            "value": 1700000,
+            "description": ""
+        },
+        {
+            "value": 3400000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 250,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "FSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

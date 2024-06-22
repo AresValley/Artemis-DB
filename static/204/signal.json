@@ -1,0 +1,65 @@
+{
+    "signal": {
+        "name": "Global System for Mobile Communications (GSM)",
+        "url": "https://www.sigidwiki.com/wiki/Global_System_for_Mobile_Communications_(GSM)"
+    },
+    "category": [
+        "Digital",
+        "Commercial"
+    ],
+    "frequency": [
+        {
+            "value": 450000000,
+            "description": ""
+        },
+        {
+            "value": 850000000,
+            "description": ""
+        },
+        {
+            "value": 900000000,
+            "description": ""
+        },
+        {
+            "value": 1800000000,
+            "description": ""
+        },
+        {
+            "value": 1900000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 200000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "GMSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "RAW",
+            "description": ""
+        },
+        {
+            "value": "AM",
+            "description": ""
+        },
+        {
+            "value": "FM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

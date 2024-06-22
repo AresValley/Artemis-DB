@@ -1,0 +1,44 @@
+{
+    "signal": {
+        "name": "John Deere RTK Radio 450",
+        "url": "https://www.sigidwiki.com/wiki/John_Deere_RTK_Radio_450"
+    },
+    "category": [
+        "Navigation"
+    ],
+    "frequency": [
+        {
+            "value": 435000000,
+            "description": ""
+        },
+        {
+            "value": 470000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 7490,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "FSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "FM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

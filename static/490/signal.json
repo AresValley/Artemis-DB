@@ -1,0 +1,49 @@
+{
+    "signal": {
+        "name": "VHF Omnidirectional Range (VOR)",
+        "url": "https://www.sigidwiki.com/wiki/VHF_Omnidirectional_Range_(VOR)"
+    },
+    "category": [
+        "Aviation",
+        "Navigation"
+    ],
+    "frequency": [
+        {
+            "value": 108000000,
+            "description": ""
+        },
+        {
+            "value": 117950000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 21000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "AM",
+            "description": ""
+        },
+        {
+            "value": "FM",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "NFM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

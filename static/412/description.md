@@ -1,0 +1,1 @@
+Over The Horizon radar with a very similar signal structure as Ghadir. Operating in west Russia.

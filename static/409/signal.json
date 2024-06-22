@@ -1,0 +1,57 @@
+{
+    "signal": {
+        "name": "Robust PACKET",
+        "url": "https://www.sigidwiki.com/wiki/Robust_PACKET"
+    },
+    "category": [
+        "Digital",
+        "Amateur Radio"
+    ],
+    "frequency": [
+        {
+            "value": 3610000,
+            "description": ""
+        },
+        {
+            "value": 7047300,
+            "description": ""
+        },
+        {
+            "value": 10147300,
+            "description": ""
+        },
+        {
+            "value": 14103300,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 500,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "PSK",
+            "description": ""
+        },
+        {
+            "value": "OFDM",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

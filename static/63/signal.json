@@ -1,0 +1,46 @@
+{
+    "signal": {
+        "name": "Broadband Global Area Network (BGAN)",
+        "url": "https://www.sigidwiki.com/wiki/Broadband_Global_Area_Network_(BGAN)"
+    },
+    "category": [
+        "Commercial",
+        "Digital",
+        "Satellite"
+    ],
+    "frequency": [
+        {
+            "value": 1525000000,
+            "description": ""
+        },
+        {
+            "value": 1559000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 200000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "QPSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "WFM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "signal": {
+        "name": "National Public Alerting System (NPAS)",
+        "url": "https://www.sigidwiki.com/wiki/National_Public_Alerting_System_(NPAS)"
+    },
+    "category": [
+        "Analogue"
+    ],
+    "frequency": [],
+    "bandwidth": [],
+    "acf": [],
+    "modulation": [],
+    "mode": [],
+    "location": [
+        {
+            "value": "Canada",
+            "description": ""
+        }
+    ]
+}

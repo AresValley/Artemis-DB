@@ -1,0 +1,49 @@
+{
+    "signal": {
+        "name": "Chinese 'Foghorn' OTH radar",
+        "url": "https://www.sigidwiki.com/wiki/Chinese_%27Foghorn%27_OTH_radar"
+    },
+    "category": [
+        "Radar",
+        "Military"
+    ],
+    "frequency": [
+        {
+            "value": 6000000,
+            "description": ""
+        },
+        {
+            "value": 29000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 10000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "FMCW",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "China",
+            "description": ""
+        },
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "signal": {
+        "name": "AMSAT-P3D",
+        "url": "https://www.sigidwiki.com/wiki/AMSAT-P3D"
+    },
+    "category": [
+        "Digital",
+        "Satellite",
+        "Amateur Radio"
+    ],
+    "frequency": [
+        {
+            "value": 145805000,
+            "description": ""
+        },
+        {
+            "value": 24048285000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 1600,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "PSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

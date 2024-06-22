@@ -1,0 +1,62 @@
+{
+    "signal": {
+        "name": "DB0UPB research beacon",
+        "url": "https://www.sigidwiki.com/wiki/DB0UPB_research_beacon"
+    },
+    "category": [
+        "Amateur Radio",
+        "Analogue",
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 3600000,
+            "description": ""
+        },
+        {
+            "value": 7050000,
+            "description": ""
+        },
+        {
+            "value": 14101000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 2700,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "MFSK",
+            "description": ""
+        },
+        {
+            "value": "LSB",
+            "description": ""
+        },
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "LSB",
+            "description": ""
+        },
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Germany",
+            "description": ""
+        }
+    ]
+}

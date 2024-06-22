@@ -1,0 +1,3 @@
+A master sends out requests to individual freezer telemetry units and the slave at the freezer responds with the temperature information. The communication format appears to be a variant of chirp spread spectrum, (although the spectrum it consumes is quite narrow at ~150 kHz). The signal can be observed by FM demodulation where the rising or falling chirp can be seen along with the abrupt changes in frequency. The image below shows an FM demodulated radio capture. The signal in blue is the master sending a request to a slave, black is background noise and red is the response from the slave.
+
+Basically, this is a variant of LoRa modulation, perhaps the page needs updating, as similar digital signals can be observed in many other situations.

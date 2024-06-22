@@ -1,0 +1,45 @@
+{
+    "signal": {
+        "name": "HD Radio (FM)",
+        "url": "https://www.sigidwiki.com/wiki/HD_Radio_(FM)"
+    },
+    "category": [
+        "Commercial",
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 87700000,
+            "description": ""
+        },
+        {
+            "value": 107900000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 400000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "OFDM",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "RAW",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "United States",
+            "description": ""
+        }
+    ]
+}

@@ -1,0 +1,3 @@
+JT6M is optimized for 6M meteor scatter but is equally effective with Tropo, weak ES and scatter modes of propagation.
+
+JT6M uses 44-tone FSK with a "sync tone" and 43 possible data tones, one for each character in the supported alphanumeric set. The sync tone is at 1076.66 Hz, and the 43 other possible tones are spaced at 21.53 HZ intervals up to 2002.59 Hz. The tones are keyed at a rate of 21.53 baud, so each one lasts for 1/21.53 = 0.04644 seconds. The sync tone is ON during every 3rd transmission interval; tones representing two data characters follow each sync tone. The transmission rate of user data is therefore (2/3)*21.53 = 14.4 characters per second. The transmitted signal sounds a bit like piccolo music.

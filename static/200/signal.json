@@ -1,0 +1,25 @@
+{
+    "signal": {
+        "name": "GYN2 GBR",
+        "url": "https://www.sigidwiki.com/wiki/GYN2_GBR"
+    },
+    "category": [
+        "Military"
+    ],
+    "frequency": [
+        {
+            "value": 81000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [],
+    "acf": [],
+    "modulation": [],
+    "mode": [],
+    "location": [
+        {
+            "value": "United Kingdom",
+            "description": ""
+        }
+    ]
+}
