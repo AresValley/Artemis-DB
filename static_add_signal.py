@@ -1,10 +1,9 @@
 import os
-import time
 import json
 
 import utils.generic_utils as ut
 
-from utils.constants import Constants, Path, Url
+from utils.constants import Path, Url
 from utils.media_utils import download_spectrum, download_audio
 
 
@@ -12,16 +11,8 @@ class SigidDataparser():
 
     def __init__(self):
 
-        sig_url = ''
-
-        print('Extract main index...')
-        tmp_idx_all = ut.extract_index(Url.SIGID_ALL)
-
-        url_name = {}
-        for idx, signal in enumerate(tmp_idx_all):
-            url_name[tmp_idx_all[signal]] = signal
-
-        sig_name = url_name[sig_url]
+        sig_url     = 'https://www.sigidwiki.com/wiki/PI4'
+        sig_name    = 'PI4'
 
         with open(Path.STATIC_DIR / 'index.json') as file:
             sigs_idx = json.load(file)
@@ -40,16 +31,6 @@ class SigidDataparser():
         with open(Path.STATIC_DIR / 'index.json', 'w') as json_file:
             json.dump(sigs_idx, json_file, indent=4)
 
-        time.sleep(3)
-
-        print('\nExtract category index...')
-        idx_cat = {}
-        for idx, cat in enumerate(Constants.CATEGORIES):
-            print(f"{idx + 1}/{len(Constants.CATEGORIES)}\t{cat}")
-            cat_sig = ut.extract_index(Url.SIGID_CAT + cat)
-            idx_cat[cat] = list(cat_sig.keys())
-            time.sleep(3)
-
         sig_json = {}
 
         sig_dir = Path.STATIC_DIR / str(sig_id)
@@ -64,14 +45,9 @@ class SigidDataparser():
             f.write(sig_param['Short Description'])
 
 
-        cat_json = []
-        for cat in Constants.CATEGORIES:
-            if sig_name in idx_cat[cat]:
-                cat_json.append(
-                    cat.replace('_', ' ')
-                )
-        sig_json['category'] = cat_json
+        sig_json['category'] = sig_param['Category']
 
+        print(sig_param)
 
         sig_json['frequency'] = []
         if 'Frequencies' in sig_param:
