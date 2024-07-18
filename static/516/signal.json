@@ -1,0 +1,78 @@
+{
+    "signal": {
+        "name": "Russian MFSK-OFDM-chirp hybrid modem",
+        "url": "https://www.sigidwiki.com/wiki/Russian_MFSK-OFDM-chirp_hybrid_modem"
+    },
+    "category": [],
+    "frequency": [
+        {
+            "value": 12176000,
+            "description": ""
+        },
+        {
+            "value": 16257000,
+            "description": ""
+        },
+        {
+            "value": 16259000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 24000,
+            "description": ""
+        },
+        {
+            "value": 48000,
+            "description": ""
+        },
+        {
+            "value": 3000,
+            "description": ""
+        },
+        {
+            "value": 12000,
+            "description": ""
+        },
+        {
+            "value": 96000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "FM",
+            "description": ""
+        },
+        {
+            "value": "FMCW",
+            "description": ""
+        },
+        {
+            "value": "MFSK",
+            "description": ""
+        },
+        {
+            "value": "OFDM",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Russia",
+            "description": ""
+        },
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

@@ -2058,5 +2058,13 @@
     "\u00c9lectricit\u00e9 de France HNZ": {
         "dir": 515,
         "url": "https://www.sigidwiki.com/wiki/%C3%89lectricit%C3%A9_de_France_HNZ"
+    },
+    "Russian MFSK-OFDM-chirp hybrid modem": {
+        "dir": 516,
+        "url": "https://www.sigidwiki.com/wiki/Russian_MFSK-OFDM-chirp_hybrid_modem"
+    },
+    "PI4": {
+        "dir": 517,
+        "url": "https://www.sigidwiki.com/wiki/PI4"
     }
 }

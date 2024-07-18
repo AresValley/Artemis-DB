@@ -1,0 +1,137 @@
+{
+    "signal": {
+        "name": "PI4",
+        "url": "https://www.sigidwiki.com/wiki/PI4"
+    },
+    "category": [
+        "Digital",
+        "Amateur Radio"
+    ],
+    "frequency": [
+        {
+            "value": 136000,
+            "description": ""
+        },
+        {
+            "value": 472000,
+            "description": ""
+        },
+        {
+            "value": 3500000,
+            "description": ""
+        },
+        {
+            "value": 5000000,
+            "description": ""
+        },
+        {
+            "value": 7000000,
+            "description": ""
+        },
+        {
+            "value": 10100000,
+            "description": ""
+        },
+        {
+            "value": 14000000,
+            "description": ""
+        },
+        {
+            "value": 21000000,
+            "description": ""
+        },
+        {
+            "value": 24900000,
+            "description": ""
+        },
+        {
+            "value": 28000000,
+            "description": ""
+        },
+        {
+            "value": 50000000,
+            "description": ""
+        },
+        {
+            "value": 70000000,
+            "description": ""
+        },
+        {
+            "value": 144000000,
+            "description": ""
+        },
+        {
+            "value": 220000000,
+            "description": ""
+        },
+        {
+            "value": 430000000,
+            "description": ""
+        },
+        {
+            "value": 902000000,
+            "description": ""
+        },
+        {
+            "value": 1240000000,
+            "description": ""
+        },
+        {
+            "value": 2300000000,
+            "description": ""
+        },
+        {
+            "value": 2400000000,
+            "description": ""
+        },
+        {
+            "value": 3300000000,
+            "description": ""
+        },
+        {
+            "value": 5700000000,
+            "description": ""
+        },
+        {
+            "value": 10000000000,
+            "description": ""
+        },
+        {
+            "value": 1800000,
+            "description": ""
+        },
+        {
+            "value": 18100000,
+            "description": ""
+        },
+        {
+            "value": 40700000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 709,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "MFSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

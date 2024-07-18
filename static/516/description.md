@@ -1,0 +1,5 @@
+A supposedly Russian HF data mode with MFSK, OFDM and frequency sweeps, resulting in an interesting spectrogram and sound.
+
+This is an interesting data mode that is believed to be used by Russian military or other agencies. The official name, purpose and equipment used to transmit this signal are not known, and there doesn't seem to be a commonly agreed name among amateur listeners.
+The signal is transmitted in bursts. Each bursts starts with a pilot tone and a couple of irregular frequency sweeps, then follows a short MFSK part and then a data transmission which apparently consists of OFDM blocks and which is periodically interrupted by upward frequency sweeps, two in this case. The burst ends with a series of frequency sweeps. Frequency sweeps may also be transmitted before the OFDM part begins.
+Purpose of the different modulation techniques is not known. In this sample case there is also a continuous carrier slightly below the burst transmission. It's not always seen and it may or may not belong to this transmission.

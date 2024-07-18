@@ -1,0 +1,4 @@
+PI4 (PharusIgnis4) is a 4-MFSK mode designed for amateur radio beacons. It is based on JT4. PI4 is specifically designed to work via different propagation modes and on all amateur radio bands up to at least 10 GHz.
+Spacing of the MFSK tones is most commonly about 234 Hz which results in about 709 Hz bandwidth. Total USB bandwidth is about 1510 Hz with typical 800 Hz offset for the first tone. Other spacing options of 469 Hz, 563 Hz and 703 Hz can be used. One transmission takes 24.333 seconds. PI4 is theoretically decodable with signal-to-noise ratio of -22.2 dB.
+PI4 beacons commonly transmit other modes in addition to PI4, typically CW or FSK-CW.
+The name PI4 is short for PharusIgnis4 which comes from Latin "pharus" ("lighthouse") and "ignis" ("fire"), and 4 refers to the four MFSK tones.
