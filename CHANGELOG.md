@@ -5,6 +5,10 @@
 
 ## [Unreleased]
 
+### Added
+- Russian MFSK-OFDM-chirp hybrid modem
+- PI4
+
 ## [v65] - 2024-06-22
 
 ### Added

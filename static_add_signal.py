@@ -11,8 +11,8 @@ class SigidDataparser():
 
     def __init__(self):
 
-        sig_url     = 'https://www.sigidwiki.com/wiki/PI4'
-        sig_name    = 'PI4'
+        sig_url     = 'https://www.sigidwiki.com/wiki/Russian_MFSK-OFDM-chirp_hybrid_modem'
+        sig_name    = 'Russian MFSK-OFDM-chirp hybrid modem'
 
         with open(Path.STATIC_DIR / 'index.json') as file:
             sigs_idx = json.load(file)
@@ -47,7 +47,6 @@ class SigidDataparser():
 
         sig_json['category'] = sig_param['Category']
 
-        print(sig_param)
 
         sig_json['frequency'] = []
         if 'Frequencies' in sig_param:
@@ -130,7 +129,7 @@ class SigidDataparser():
                 {
                     'file_name': file_name,
                     'extension': 'png',
-                    'name': 'sigId Spectrum',
+                    'name': 'Main',
                     'description': 'This is the wiki spectrum of the signal from www.sigidwiki.com',
                     'type': 'Image',
                     'preview': 1
@@ -138,19 +137,19 @@ class SigidDataparser():
             )
             download_spectrum(sig_param['Spectrum'], file_name, sig_media_dir)
 
-        if 'Audio' in sig_param:
-            file_name = '1'
-            media_json.append(
-                {
-                    'file_name': file_name,
-                    'extension': 'm4a',
-                    'name': 'sigId Audio',
-                    'description': 'This is the wiki audio sample of the signal from www.sigidwiki.com',
-                    'type': 'Audio',
-                    'preview': 1
-                }
-            )
-            download_audio(sig_param['Audio'], file_name, sig_media_dir)
+            if 'Audio' in sig_param:
+                file_name = '1'
+                media_json.append(
+                    {
+                        'file_name': file_name,
+                        'extension': 'ogg',
+                        'name': 'Main',
+                        'description': 'This is the wiki audio sample of the signal from www.sigidwiki.com',
+                        'type': 'Audio',
+                        'preview': 1
+                    }
+                )
+                download_audio(sig_param['Audio'], file_name, sig_media_dir, allvorbis=False)
 
         with open(sig_dir / 'media.json', 'w') as json_file:
             json.dump(media_json, json_file, indent=4)
