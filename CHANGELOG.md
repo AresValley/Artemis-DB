@@ -5,9 +5,14 @@
 
 ## [Unreleased]
 
+## [v70] - 2024-08-31
+
 ### Added
 - Russian MFSK-OFDM-chirp hybrid modem
 - PI4
+- JT4
+- North Korean noise jammer
+- Wireless Smart Utility Networks (Wi-SUN)
 
 ## [v65] - 2024-06-22
 
@@ -20,5 +25,6 @@
 
 
 <!-- Links definitions -->
-[Unreleased]: https://github.com/AresValley/Artemis/compare/v65...HEAD
+[Unreleased]: https://github.com/AresValley/Artemis/compare/v70...HEAD
+[v70]: https://github.com/AresValley/Artemis/releases/tag/v70
 [v65]: https://github.com/AresValley/Artemis/releases/tag/v65
