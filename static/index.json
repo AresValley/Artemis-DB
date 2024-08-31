@@ -2074,5 +2074,9 @@
     "North Korean Noise Jammer": {
         "dir": 519,
         "url": "https://www.sigidwiki.com/wiki/North_Korean_noise_jammer"
+    },
+    "Wireless Smart Utility Networks (Wi-SUN)": {
+        "dir": 520,
+        "url": "https://www.sigidwiki.com/wiki/Wireless_Smart_Utility_Networks_(Wi-SUN)"
     }
 }

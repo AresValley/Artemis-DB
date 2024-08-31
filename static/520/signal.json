@@ -1,0 +1,35 @@
+{
+    "signal": {
+        "name": "Wireless Smart Utility Networks (Wi-SUN)",
+        "url": "https://www.sigidwiki.com/wiki/Wireless_Smart_Utility_Networks_(Wi-SUN)"
+    },
+    "category": [
+        "Utility"
+    ],
+    "frequency": [
+        {
+            "value": 922500000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 260000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [],
+    "mode": [
+        {
+            "value": "FM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Japan",
+            "description": ""
+        }
+    ]
+}
