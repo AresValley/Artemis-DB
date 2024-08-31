@@ -1,0 +1,38 @@
+{
+    "signal": {
+        "name": "North Korean Noise Jammer",
+        "url": "https://www.sigidwiki.com/wiki/North_Korean_noise_jammer"
+    },
+    "category": [],
+    "frequency": [
+        {
+            "value": 6600000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 7000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "AM",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "AM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "North Korea",
+            "description": ""
+        }
+    ]
+}
