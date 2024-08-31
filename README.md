@@ -4,14 +4,14 @@
 
 <div align="center">
 
-  ![GitHub Release](https://img.shields.io/github/v/release/AresValley/Artemis-DB?label=Latest%20release)
-  ![GitHub repo file or directory count (in path)](https://img.shields.io/github/directory-file-count/aresvalley/artemis-db/static?type=dir&label=DB%20signals)
-  ![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/AresValley/Artemis-DB/total?label=DB%20requests)
-  ![GitHub Release Date](https://img.shields.io/github/release-date/AresValley/Artemis-DB)
+  ![GitHub Release](https://img.shields.io/github/v/release/AresValley/Artemis-DB?label=Latest%20DB)
+  ![GitHub repo file or directory count (in path)](https://img.shields.io/github/directory-file-count/aresvalley/artemis-db/static?type=dir&label=Recognized%20Signals)
+  ![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/AresValley/Artemis-DB/total?label=DB%20requests&color=blue)
+  ![GitHub Release Date](https://img.shields.io/github/release-date/AresValley/Artemis-DB?label=DB%20Latest%20Release&color=blue)
 
 </div>
 
-This repository is used to store the last versione of the SigId wiki database for [Artemis](https://github.com/AresValley/Artemis) and its crawler.
+This repository is used to store the last version of the SigId wiki database for [Artemis](https://github.com/AresValley/Artemis) and its crawler.
 
 > [!IMPORTANT]  
 > The repository is intended for internal use only. However, if bugs/errors are present in the database or if you have suggestions for additions and changes to any signal record, we encourage you to open an issue
