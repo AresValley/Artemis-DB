@@ -1,0 +1,60 @@
+{
+    "signal": {
+        "name": "JT4",
+        "url": "https://www.sigidwiki.com/wiki/JT4"
+    },
+    "category": [
+        "Amateur Radio",
+        "Digital"
+    ],
+    "frequency": [],
+    "bandwidth": [
+        {
+            "value": 17,
+            "description": ""
+        },
+        {
+            "value": 35,
+            "description": ""
+        },
+        {
+            "value": 70,
+            "description": ""
+        },
+        {
+            "value": 158,
+            "description": ""
+        },
+        {
+            "value": 315,
+            "description": ""
+        },
+        {
+            "value": 630,
+            "description": ""
+        },
+        {
+            "value": 1260,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "MFSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}
