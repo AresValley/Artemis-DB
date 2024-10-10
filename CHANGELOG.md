@@ -5,6 +5,12 @@
 
 ## [Unreleased]
 
+### Added
+- 
+
+### Changed
+- Updated signal 452: RTS-9TS (РТС-9Ц) Russian spacecraft telemetry
+
 ## [v70] - 2024-08-31
 
 ### Added

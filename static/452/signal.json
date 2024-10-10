@@ -1,6 +1,6 @@
 {
     "signal": {
-        "name": "Soyuz-MS spacecraft telemetry",
+        "name": "RTS-9TS Russian spacecraft telemetry system",
         "url": "https://www.sigidwiki.com/wiki/Soyuz-MS_spacecraft_telemetry"
     },
     "category": [
@@ -9,7 +9,31 @@
     "frequency": [
         {
             "value": 166000000,
-            "description": ""
+            "description": "Soyuz/Progress spacecraft"
+        },
+        {
+            "value": 626000000,
+            "description": "Meteor M2-3/4"
+        },
+        {
+            "value": 628000000,
+            "description": "Zvezda - ISS Service Module"
+        },
+        {
+            "value": 630000000,
+            "description": "Zvezda - ISS Service Module"
+        },
+        {
+            "value": 631000000,
+            "description": "Nauka - ISS Module"
+        },
+        {
+            "value": 632000000,
+            "description": "Zarya - ISS Control Module"
+        },
+        {
+            "value": 634000000,
+            "description": "Zarya - ISS Control Module"
         }
     ],
     "bandwidth": [

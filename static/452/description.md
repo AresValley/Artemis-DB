@@ -1,3 +1,1 @@
-PCM-FM Soyuz-MS spacecraft telemetry.
-
-Soyuz is a series of spacecraft designed for the Soviet space program by the Korolev Design Bureau (now Energia) in the 1960s that remains in service today, having made more than 140 flights.The Soyuz is heavily used in the ISS programme.
+The RTS-9TS (РТС-9Ц) Russian spacecraft telemetry system is an old and widely used in the USSR/Russia telemetry system for spacecraft. Currently used on the Russian segment of the ISS, Soyuz/Progress spacecraft, and Meteor meteorological satellites. Telemetry transmission is usually switched on only within the visibility range of Russian tracking stations; in the case of the ISS, streams may not be active from every module at the same time.
