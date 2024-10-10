@@ -7,6 +7,7 @@
 
 ### Added
 - Beta (N521)
+- RF heating and welding interference (N522)
 
 ### Changed
 - Updated signal 452: RTS-9TS (РТС-9Ц) Russian spacecraft telemetry

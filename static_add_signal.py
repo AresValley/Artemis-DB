@@ -11,8 +11,8 @@ class SigidDataparser():
 
     def __init__(self):
 
-        sig_url     = 'https://www.sigidwiki.com/wiki/Beta'
-        sig_name    = 'Beta'
+        sig_url     = 'https://www.sigidwiki.com/wiki/RF_heating_and_welding_interference'
+        sig_name    = 'RF heating and welding interference'
 
         with open(Path.STATIC_DIR / 'index.json') as file:
             sigs_idx = json.load(file)
