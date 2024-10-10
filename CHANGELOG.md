@@ -5,6 +5,8 @@
 
 ## [Unreleased]
 
+## [v71] - 2024-10-11
+
 ### Added
 - Beta (N521)
 - RF heating and welding interference (N522)
