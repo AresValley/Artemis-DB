@@ -2098,5 +2098,9 @@
     "CIS FTM-4": {
         "dir": 525,
         "url": "https://www.sigidwiki.com/wiki/CIS_FTM-4"
+    },
+    "Radar altimeter": {
+        "dir": 526,
+        "url": "https://www.sigidwiki.com/wiki/Radar_altimeter"
     }
 }

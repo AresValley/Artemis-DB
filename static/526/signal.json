@@ -1,0 +1,46 @@
+{
+    "signal": {
+        "name": "Radar altimeter",
+        "url": "https://www.sigidwiki.com/wiki/Radar_altimeter"
+    },
+    "category": [
+        "Radar",
+        "Aviation",
+        "Analogue"
+    ],
+    "frequency": [
+        {
+            "value": 4200000000,
+            "description": ""
+        },
+        {
+            "value": 4300000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 20000000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "FMCW",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "AM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}
