@@ -2086,5 +2086,9 @@
     "RF heating and welding interference": {
         "dir": 522,
         "url": "https://www.sigidwiki.com/wiki/RF_heating_and_welding_interference"
+    },
+    "MSF": {
+        "dir": 523,
+        "url": "https://www.sigidwiki.com/wiki/MSF"
     }
 }

@@ -1,0 +1,3 @@
+MSF, previously also known as Rugby clock, is a time signal station in Anthorn, United Kingdom. It transmits the UK national time reference which is maintained by the National Physical Laboratory (NPL). Transmitted power is about 15 kW EIRP. The signal is usable in much of northern and western Europe, and reception outside Europe may be more difficult. Time and date information is encoded in the lengths of the on-off keyed second markers.
+
+The MSF signal can be confused with WWVB and JJY-60. It can be identified by using a decoder, or if a decoder is not available, location of the receiver often gives a clue about which signal was heard.
