@@ -2090,5 +2090,9 @@
     "MSF": {
         "dir": 523,
         "url": "https://www.sigidwiki.com/wiki/MSF"
+    },
+    "Canadian Meteor Orbit Radar (CMOR)": {
+        "dir": 524,
+        "url": "https://www.sigidwiki.com/wiki/Canadian_Meteor_Orbit_Radar_(CMOR)"
     }
 }

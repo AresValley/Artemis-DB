@@ -1,0 +1,1 @@
+Canadian Meteor Orbit Radar, CMOR, is a meteor detection radar operated by University of Western Ontario and located near Tavistock, Ontario. It transmits a pulsed signal on three frequencies with a pulse repetition frequency of 532 Hz and pulse length of 75 µs. Three receiver stations are used to determine incoming meteor orbits based on the reflected signals.

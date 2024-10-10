@@ -11,8 +11,8 @@ class SigidDataparser():
 
     def __init__(self):
 
-        sig_url     = 'https://www.sigidwiki.com/wiki/MSF'
-        sig_name    = 'MSF'
+        sig_url     = 'https://www.sigidwiki.com/wiki/Canadian_Meteor_Orbit_Radar_(CMOR)'
+        sig_name    = 'Canadian Meteor Orbit Radar (CMOR)'
 
         with open(Path.STATIC_DIR / 'index.json') as file:
             sigs_idx = json.load(file)

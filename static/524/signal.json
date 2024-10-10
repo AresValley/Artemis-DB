@@ -1,0 +1,48 @@
+{
+    "signal": {
+        "name": "Canadian Meteor Orbit Radar (CMOR)",
+        "url": "https://www.sigidwiki.com/wiki/Canadian_Meteor_Orbit_Radar_(CMOR)"
+    },
+    "category": [
+        "Radar"
+    ],
+    "frequency": [
+        {
+            "value": 17450000,
+            "description": ""
+        },
+        {
+            "value": 29850000,
+            "description": ""
+        },
+        {
+            "value": 38150000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 28000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "Pulsed",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "AM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Canada",
+            "description": ""
+        }
+    ]
+}
