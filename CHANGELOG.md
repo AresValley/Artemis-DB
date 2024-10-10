@@ -6,7 +6,7 @@
 ## [Unreleased]
 
 ### Added
-- 
+- Beta (N521)
 
 ### Changed
 - Updated signal 452: RTS-9TS (РТС-9Ц) Russian spacecraft telemetry

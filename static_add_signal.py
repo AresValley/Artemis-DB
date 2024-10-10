@@ -11,8 +11,8 @@ class SigidDataparser():
 
     def __init__(self):
 
-        sig_url     = 'https://www.sigidwiki.com/wiki/Russian_MFSK-OFDM-chirp_hybrid_modem'
-        sig_name    = 'Russian MFSK-OFDM-chirp hybrid modem'
+        sig_url     = 'https://www.sigidwiki.com/wiki/Beta'
+        sig_name    = 'Beta'
 
         with open(Path.STATIC_DIR / 'index.json') as file:
             sigs_idx = json.load(file)

@@ -1,0 +1,72 @@
+{
+    "signal": {
+        "name": "Beta",
+        "url": "https://www.sigidwiki.com/wiki/Beta"
+    },
+    "category": [
+        "Time"
+    ],
+    "frequency": [
+        {
+            "value": 20500,
+            "description": ""
+        },
+        {
+            "value": 23000,
+            "description": ""
+        },
+        {
+            "value": 25000,
+            "description": ""
+        },
+        {
+            "value": 25100,
+            "description": ""
+        },
+        {
+            "value": 25500,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 200,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "CW",
+            "description": ""
+        },
+        {
+            "value": "OOK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Russia",
+            "description": ""
+        },
+        {
+            "value": "Belarus",
+            "description": ""
+        },
+        {
+            "value": "Kyrgyzstan",
+            "description": ""
+        },
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

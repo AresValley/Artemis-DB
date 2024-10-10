@@ -2078,5 +2078,9 @@
     "Wireless Smart Utility Networks (Wi-SUN)": {
         "dir": 520,
         "url": "https://www.sigidwiki.com/wiki/Wireless_Smart_Utility_Networks_(Wi-SUN)"
+    },
+    "Beta": {
+        "dir": 521,
+        "url": "https://www.sigidwiki.com/wiki/Beta"
     }
 }
