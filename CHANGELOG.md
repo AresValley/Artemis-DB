@@ -10,6 +10,7 @@
 - RF heating and welding interference (N522)
 - MSF (N523)
 - Canadian Meteor Orbit Radar (CMOR) (N524)
+- CIS FTM-4 (N525)
 
 ### Changed
 - Updated signal 452: RTS-9TS (РТС-9Ц) Russian spacecraft telemetry

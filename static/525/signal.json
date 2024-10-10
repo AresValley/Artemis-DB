@@ -1,0 +1,45 @@
+{
+    "signal": {
+        "name": "CIS FTM-4",
+        "url": "https://www.sigidwiki.com/wiki/CIS_FTM-4"
+    },
+    "category": [
+        "Military",
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 4000000,
+            "description": ""
+        },
+        {
+            "value": 20000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 13000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "MFSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Russia",
+            "description": ""
+        }
+    ]
+}

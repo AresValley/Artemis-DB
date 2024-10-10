@@ -2094,5 +2094,9 @@
     "Canadian Meteor Orbit Radar (CMOR)": {
         "dir": 524,
         "url": "https://www.sigidwiki.com/wiki/Canadian_Meteor_Orbit_Radar_(CMOR)"
+    },
+    "CIS FTM-4": {
+        "dir": 525,
+        "url": "https://www.sigidwiki.com/wiki/CIS_FTM-4"
     }
 }
