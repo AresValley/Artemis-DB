@@ -38,6 +38,7 @@
 
 
 <!-- Links definitions -->
-[Unreleased]: https://github.com/AresValley/Artemis/compare/v70...HEAD
+[Unreleased]: https://github.com/AresValley/Artemis/compare/v71...HEAD
+[v71]: https://github.com/AresValley/Artemis/releases/tag/v71
 [v70]: https://github.com/AresValley/Artemis/releases/tag/v70
 [v65]: https://github.com/AresValley/Artemis/releases/tag/v65
