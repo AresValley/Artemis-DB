@@ -5,6 +5,9 @@
 
 ## [Unreleased]
 
+### Changed
+- Updated MSK144: added 30MHz to frequency table 
+
 ## [v71] - 2024-10-11
 
 ### Added
