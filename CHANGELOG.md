@@ -5,9 +5,12 @@
 
 ## [Unreleased]
 
+### Added
+- DoD Fire Alarm Control Panel (N527)
+
 ### Changed
 - Updated MSK144: added 30MHz to frequency table
-- Updated Bluetooth (62) description
+- Updated Bluetooth (N62) description
 
 ## [v71] - 2024-10-11
 
@@ -20,7 +23,7 @@
 - Radar altimeter (N526)
 
 ### Changed
-- Updated signal 452: RTS-9TS (РТС-9Ц) Russian spacecraft telemetry
+- Updated signal N452: RTS-9TS (РТС-9Ц) Russian spacecraft telemetry
 
 ## [v70] - 2024-08-31
 

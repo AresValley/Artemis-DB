@@ -1,0 +1,41 @@
+{
+    "signal": {
+        "name": "DoD Fire Alarm Control Panel",
+        "url": "https://www.sigidwiki.com/wiki/DoD_Fire_Alarm_Control_Panel"
+    },
+    "category": [
+        "Military",
+        "Digital",
+        "Utility"
+    ],
+    "frequency": [
+        {
+            "value": 138950000,
+            "description": ""
+        },
+        {
+            "value": 139675000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 15000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [],
+    "mode": [
+        {
+            "value": "FM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "United States",
+            "description": ""
+        }
+    ]
+}

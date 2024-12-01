@@ -2102,5 +2102,9 @@
     "Radar altimeter": {
         "dir": 526,
         "url": "https://www.sigidwiki.com/wiki/Radar_altimeter"
+    },
+    "DoD Fire Alarm Control Panel": {
+        "dir": 527,
+        "url": "https://www.sigidwiki.com/wiki/DoD_Fire_Alarm_Control_Panel"
     }
 }
