@@ -6,7 +6,8 @@
 ## [Unreleased]
 
 ### Changed
-- Updated MSK144: added 30MHz to frequency table 
+- Updated MSK144: added 30MHz to frequency table
+- Updated Bluetooth (62) description
 
 ## [v71] - 2024-10-11
 
