@@ -7,6 +7,12 @@ A sync (low) tone is to mark the lower boundary of each station's signal. The sy
 # Submodes
 The three main submodes, JT65A, B, and C, differ in the frequency shifts between each of the 65 tones. For JT65A, the shift is 2.7 Hz. For JT65B, it's 5.4 Hz. For JT65C, it's 10.8 Hz. The general rule used is the resolution function 2.7m, where A uses m=1, B uses m=2, and C uses m=4.
 
+| Submode | Tone spacing | Bandwidth | Minimum SNR for decoding |
+|---|---|---|---|
+| JT65A | 2.69 Hz | 178 Hz | -25 dB |
+| JT65B | 5.38 Hz | 353 Hz | -25 dB |
+| JT65C | 10.8 Hz | 703 Hz | -25 dB |
+
 Two experimental submodes, JT65B2 and JT65C2 are twice as fast as their counterpart JT65B and JT65C respectively. The tone frequency shifts are the same.
 
 # Frequencies

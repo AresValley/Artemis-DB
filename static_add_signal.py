@@ -12,8 +12,8 @@ class SigidDataparser():
 
     def __init__(self):
 
-        sig_url     = 'https://www.sigidwiki.com/wiki/JT9'
-        sig_name    = 'JT9'
+        sig_url     = 'https://www.sigidwiki.com/wiki/SuperDARN_(Super_Dual_Auroral_Radar_Network)'
+        sig_name    = 'SuperDARN (Super Dual Auroral Radar Network)'
 
         with open(Path.STATIC_DIR / 'index.json') as file:
             sigs_idx = json.load(file)

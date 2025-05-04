@@ -30,6 +30,11 @@
 - Updated 5G "New Radio" cellular network - Downlink
 - Updated The Goose
 - Updated JT9
+- Updated Switching Electronic Interference
+- Updated JT65
+- Updated JT4
+- Updated SuperDARN
+- Updated The Buzzer
 
 ## [v71] - 2024-10-11
 
