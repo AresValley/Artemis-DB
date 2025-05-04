@@ -42,6 +42,7 @@
 - Updated CIS MFSK-21-13
 - Updated CIS-14
 - Updated T-230-1A 'Mahovik'
+- Updated Next Generation Digital Narrowband (NXDN)
 
 ## [v71] - 2024-10-11
 
