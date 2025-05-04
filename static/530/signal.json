@@ -1,0 +1,105 @@
+{
+    "signal": {
+        "name": "Q65",
+        "url": "https://www.sigidwiki.com/wiki/Q65"
+    },
+    "category": [
+        "Amateur Radio",
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 50275000,
+            "description": ""
+        },
+        {
+            "value": 50305000,
+            "description": ""
+        },
+        {
+            "value": 144170000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 19,
+            "description": ""
+        },
+        {
+            "value": 38,
+            "description": ""
+        },
+        {
+            "value": 49,
+            "description": ""
+        },
+        {
+            "value": 75,
+            "description": ""
+        },
+        {
+            "value": 150,
+            "description": ""
+        },
+        {
+            "value": 195,
+            "description": ""
+        },
+        {
+            "value": 301,
+            "description": ""
+        },
+        {
+            "value": 390,
+            "description": ""
+        },
+        {
+            "value": 780,
+            "description": ""
+        },
+        {
+            "value": 108,
+            "description": ""
+        },
+        {
+            "value": 217,
+            "description": ""
+        },
+        {
+            "value": 433,
+            "description": ""
+        },
+        {
+            "value": 867,
+            "description": ""
+        },
+        {
+            "value": 1733,
+            "description": ""
+        },
+        {
+            "value": 98,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "MFSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

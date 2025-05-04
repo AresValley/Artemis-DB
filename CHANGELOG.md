@@ -9,6 +9,7 @@
 - DoD Fire Alarm Control Panel (N527)
 - Chinese-64 MFSK (N528)
 - FST4 (N529)
+- Q65 (N530)
 
 ### Changed
 - Updated MSK144: added 30MHz to frequency table
