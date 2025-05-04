@@ -5,6 +5,8 @@
 
 ## [Unreleased]
 
+## [v72] - 2025-05-04
+
 ### Added
 - DoD Fire Alarm Control Panel (N527)
 - Chinese-64 MFSK (N528)
@@ -35,6 +37,11 @@
 - Updated JT4
 - Updated SuperDARN
 - Updated The Buzzer
+- Updated EAS
+- Updated XMPP
+- Updated CIS MFSK-21-13
+- Updated CIS-14
+- Updated T-230-1A 'Mahovik'
 
 ## [v71] - 2024-10-11
 
@@ -69,7 +76,8 @@
 
 
 <!-- Links definitions -->
-[Unreleased]: https://github.com/AresValley/Artemis/compare/v71...HEAD
+[Unreleased]: https://github.com/AresValley/Artemis/compare/v72...HEAD
+[v72]: https://github.com/AresValley/Artemis/releases/tag/v72
 [v71]: https://github.com/AresValley/Artemis/releases/tag/v71
 [v70]: https://github.com/AresValley/Artemis/releases/tag/v70
 [v65]: https://github.com/AresValley/Artemis/releases/tag/v65

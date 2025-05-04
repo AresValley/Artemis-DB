@@ -29,7 +29,7 @@
     "acf": [],
     "modulation": [
         {
-            "value": "FSK",
+            "value": "AFSK",
             "description": ""
         }
     ],

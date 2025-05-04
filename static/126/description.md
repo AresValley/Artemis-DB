@@ -1,1 +1,1 @@
-This is a research beacon for training neuronal networks. The neuronal networks are used for developing a new type of DSP. Between some choppy english sentences are data packets, maybe some sort of MFSK.
+This is a research beacon for training neural networks. The neural networks are used for developing a new type of DSP. Between some choppy english sentences are data packets, maybe some sort of MFSK.
