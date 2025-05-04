@@ -138,7 +138,6 @@ class Constants():
     # Pulse Shaping / Modulation on Pulse (Less common stand-alone terms)
     'FMOP': 'Frequency Modulation on Pulse',
     'PMOP': 'Phase Modulation on Pulse',
-
 }
 
 class Query():
