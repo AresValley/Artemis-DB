@@ -1,0 +1,61 @@
+{
+    "signal": {
+        "name": "FST4",
+        "url": "https://www.sigidwiki.com/wiki/FST4"
+    },
+    "category": [
+        "Amateur Radio",
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 137000,
+            "description": ""
+        },
+        {
+            "value": 474000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 67,
+            "description": ""
+        },
+        {
+            "value": 29,
+            "description": ""
+        },
+        {
+            "value": 12,
+            "description": ""
+        },
+        {
+            "value": 6,
+            "description": ""
+        },
+        {
+            "value": 2,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "GFSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}
