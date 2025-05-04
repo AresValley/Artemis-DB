@@ -12,13 +12,11 @@ class SigidDataparser():
 
     def __init__(self):
 
-        sig_url     = 'https://www.sigidwiki.com/wiki/FST4W'
-        sig_name    = 'FST4W'
+        sig_url     = 'https://www.sigidwiki.com/wiki/JT9'
+        sig_name    = 'JT9'
 
         with open(Path.STATIC_DIR / 'index.json') as file:
             sigs_idx = json.load(file)
-        
-
 
         sig_param = ut.extract_sig_param(sig_url)
 

@@ -27,6 +27,9 @@
 - Updated Chinese 30-tone OFDM modem
 - Updated WSPR
 - Updated FST4W
+- Updated 5G "New Radio" cellular network - Downlink
+- Updated The Goose
+- Updated JT9
 
 ## [v71] - 2024-10-11
 

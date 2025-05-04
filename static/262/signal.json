@@ -19,7 +19,35 @@
     ],
     "bandwidth": [
         {
-            "value": 20,
+            "value": 16,
+            "description": ""
+        },
+        {
+            "value": 30,
+            "description": ""
+        },
+        {
+            "value": 57,
+            "description": ""
+        },
+        {
+            "value": 113,
+            "description": ""
+        },
+        {
+            "value": 224,
+            "description": ""
+        },
+        {
+            "value": 446,
+            "description": ""
+        },
+        {
+            "value": 891,
+            "description": ""
+        },
+        {
+            "value": 1780,
             "description": ""
         }
     ],

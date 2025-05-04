@@ -13,27 +13,39 @@
             "description": ""
         },
         {
-            "value": 2400000000,
-            "description": ""
-        },
-        {
-            "value": 20000000000,
-            "description": ""
-        },
-        {
             "value": 50000000000,
             "description": ""
         },
         {
-            "value": 770000000,
-            "description": ""
-        },
-        {
-            "value": 945000000,
-            "description": ""
-        },
-        {
             "value": 3600000000,
+            "description": ""
+        },
+        {
+            "value": 700000000,
+            "description": ""
+        },
+        {
+            "value": 850000000,
+            "description": ""
+        },
+        {
+            "value": 900000000,
+            "description": ""
+        },
+        {
+            "value": 2500000000,
+            "description": ""
+        },
+        {
+            "value": 3700000000,
+            "description": ""
+        },
+        {
+            "value": 28000000000,
+            "description": ""
+        },
+        {
+            "value": 39000000000,
             "description": ""
         }
     ],
