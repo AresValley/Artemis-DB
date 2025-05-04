@@ -11,8 +11,8 @@ class SigidDataparser():
 
     def __init__(self):
 
-        sig_url     = 'https://www.sigidwiki.com/wiki/Radar_altimeter'
-        sig_name    = 'Radar altimeter'
+        sig_url     = 'https://www.sigidwiki.com/wiki/The_Alarm'
+        sig_name    = 'The Alarm'
 
         with open(Path.STATIC_DIR / 'index.json') as file:
             sigs_idx = json.load(file)

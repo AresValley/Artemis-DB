@@ -21,6 +21,11 @@
 - Updated UHF Vehicle Location System
 - Updated TETRA
 - Updated Yaesu System Fusion
+- Updated IS-54 & IS-136 D-AMPS
+- Updated 2G CDMA (IS-95)
+- Updated The Alarm
+- Updated Chinese 30-tone OFDM modem
+- Updated WSPR
 
 ## [v71] - 2024-10-11
 

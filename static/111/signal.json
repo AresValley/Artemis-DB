@@ -9,31 +9,11 @@
     ],
     "frequency": [
         {
-            "value": 4557000,
+            "value": 3618000,
             "description": ""
         },
         {
-            "value": 8250000,
-            "description": ""
-        },
-        {
-            "value": 8310000,
-            "description": ""
-        },
-        {
-            "value": 8563000,
-            "description": ""
-        },
-        {
-            "value": 9144000,
-            "description": ""
-        },
-        {
-            "value": 14433000,
-            "description": ""
-        },
-        {
-            "value": 16500000,
+            "value": 18656000,
             "description": ""
         }
     ],
