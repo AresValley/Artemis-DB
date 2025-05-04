@@ -1,5 +1,6 @@
 import os
 import json
+import shutil
 
 import utils.generic_utils as ut
 
@@ -11,30 +12,41 @@ class SigidDataparser():
 
     def __init__(self):
 
-        sig_url     = 'https://www.sigidwiki.com/wiki/The_Alarm'
-        sig_name    = 'The Alarm'
+        sig_url     = 'https://www.sigidwiki.com/wiki/FST4W'
+        sig_name    = 'FST4W'
 
         with open(Path.STATIC_DIR / 'index.json') as file:
             sigs_idx = json.load(file)
         
-        last_sig = list(sigs_idx)[-1]
-        last_dir = sigs_idx[last_sig]['dir']
-        sig_id = last_dir + 1
+
 
         sig_param = ut.extract_sig_param(sig_url)
 
-        sigs_idx[sig_name] = {
-            'dir': sig_id,
-            'url': sig_url
-        }
+        if sig_name not in sigs_idx:
+            print('NEW SIGNAL')
+            last_sig = list(sigs_idx)[-1]
+            last_dir = sigs_idx[last_sig]['dir']
+            sig_id = last_dir + 1
 
-        with open(Path.STATIC_DIR / 'index.json', 'w') as json_file:
-            json.dump(sigs_idx, json_file, indent=4)
+            sigs_idx[sig_name] = {
+                'dir': sig_id,
+                'url': sig_url
+            }
+
+            with open(Path.STATIC_DIR / 'index.json', 'w') as json_file:
+                json.dump(sigs_idx, json_file, indent=4)
+
+            sig_dir = Path.STATIC_DIR / str(sig_id)
+            os.mkdir(sig_dir)
+
+        else:
+            print('UPDATING EXISTING SIGNAL')
+            sig_id = sigs_idx[sig_name]['dir']
+            sig_dir = Path.STATIC_DIR / str(sig_id)
+            shutil.rmtree(sig_dir)
+            os.mkdir(sig_dir)
 
         sig_json = {}
-
-        sig_dir = Path.STATIC_DIR / str(sig_id)
-        os.mkdir(sig_dir)
 
         sig_json['signal'] = {
             'name': sig_name,

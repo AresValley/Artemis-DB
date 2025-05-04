@@ -26,6 +26,7 @@
 - Updated The Alarm
 - Updated Chinese 30-tone OFDM modem
 - Updated WSPR
+- Updated FST4W
 
 ## [v71] - 2024-10-11
 

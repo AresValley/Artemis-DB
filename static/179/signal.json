@@ -21,11 +21,28 @@
             "description": ""
         }
     ],
-    "bandwidth": [],
+    "bandwidth": [
+        {
+            "value": 0,
+            "description": ""
+        },
+        {
+            "value": 0,
+            "description": ""
+        },
+        {
+            "value": 2,
+            "description": ""
+        },
+        {
+            "value": 5,
+            "description": ""
+        }
+    ],
     "acf": [],
     "modulation": [
         {
-            "value": "4-GFSK",
+            "value": "GFSK",
             "description": ""
         }
     ],
