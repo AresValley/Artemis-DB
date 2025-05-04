@@ -2106,5 +2106,9 @@
     "DoD Fire Alarm Control Panel": {
         "dir": 527,
         "url": "https://www.sigidwiki.com/wiki/DoD_Fire_Alarm_Control_Panel"
+    },
+    "Chinese-64 MFSK": {
+        "dir": 528,
+        "url": "https://www.sigidwiki.com/wiki/Chinese-64_MFSK"
     }
 }

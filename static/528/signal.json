@@ -1,0 +1,58 @@
+{
+    "signal": {
+        "name": "Chinese-64 MFSK",
+        "url": "https://www.sigidwiki.com/wiki/Chinese-64_MFSK"
+    },
+    "category": [],
+    "frequency": [
+        {
+            "value": 12916000,
+            "description": ""
+        },
+        {
+            "value": 16989000,
+            "description": ""
+        },
+        {
+            "value": 3673000,
+            "description": ""
+        },
+        {
+            "value": 8781000,
+            "description": ""
+        },
+        {
+            "value": 8787000,
+            "description": "LSB"
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 2500,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "FSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        },
+        {
+            "value": "LSB",
+            "description": "Rare"
+        }
+    ],
+    "location": [
+        {
+            "value": "China",
+            "description": ""
+        }
+    ]
+}
