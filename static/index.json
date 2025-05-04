@@ -2118,5 +2118,9 @@
     "Q65": {
         "dir": 530,
         "url": "https://www.sigidwiki.com/wiki/Q65"
+    },
+    "Chinese 160kHz-wide OTH radar": {
+        "dir": 531,
+        "url": "https://www.sigidwiki.com/wiki/Chinese_160kHz-wide_OTH_radar"
     }
 }

@@ -10,6 +10,7 @@
 - Chinese-64 MFSK (N528)
 - FST4 (N529)
 - Q65 (N530)
+- Chinese 160kHz-wide OTH radar (N531)
 
 ### Changed
 - Updated MSK144: added 30MHz to frequency table

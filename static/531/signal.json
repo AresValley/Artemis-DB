@@ -1,0 +1,44 @@
+{
+    "signal": {
+        "name": "Chinese 160kHz-wide OTH radar",
+        "url": "https://www.sigidwiki.com/wiki/Chinese_160kHz-wide_OTH_radar"
+    },
+    "category": [
+        "Radar"
+    ],
+    "frequency": [
+        {
+            "value": 6000000,
+            "description": ""
+        },
+        {
+            "value": 29000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 160000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "FMCW",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "China",
+            "description": ""
+        }
+    ]
+}
