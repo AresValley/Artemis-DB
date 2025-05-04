@@ -9,7 +9,7 @@
     ],
     "frequency": [
         {
-            "value": 400,
+            "value": 400000000,
             "description": ""
         },
         {
@@ -19,14 +19,14 @@
     ],
     "bandwidth": [
         {
-            "value": 5500,
+            "value": 12500,
             "description": ""
         }
     ],
     "acf": [],
     "modulation": [
         {
-            "value": "PSK",
+            "value": "FSK",
             "description": ""
         }
     ],

@@ -1,9 +1,9 @@
 Horus 4FSK is a binary frequency shift keyed transmission mode developed by the Project Horus amateur HAB (High-altitude balloon) group. This mode is similar to RTTY, although it is 4FSK instead of 2FSK. Horus 4FSK offers better SNR performance (~7dB) compared to most telemetry modes previously used for HAB telemetry. In addition, this mode transmits binary data at 100 baud instead of ASCII text (typically at 45 or 50 baud) like RTTY, making it more efficient per a given transmission period.
 
-There are two versions of Horus 4FSK, v1 and v2. The only notable difference between them is the packet length being 22 bytes for v2, and 32 for v2. v1 is deprecated and no longer in use.
+There are two versions of Horus 4FSK, v1 and v2. The only notable difference between them is the packet length being 22 bytes for v1, and 32 for v2. v1 is deprecated and no longer in use.
 
 # Usage
-At the current moment, Horus 4FSK is currently only implemented in the RS41ng amateur radio firmware for the Vaisala RS-41 radiosonde. These radiosondes are balloon bourne instruments launched by various meteorological agencies around the world and are frequently hunted and recovered by enthusiasts. These sondes can then be re-flashed with the aforementioned firmware to enable usage of the hardware on the amateur radio bands.
+Currently, Horus 4FSK is implemented in the RS41ng amateur radio firmware for the Vaisala RS-41 radiosonde, or by using Arduino hardware, and the RadioLib Arduino library, which works with many compatible radio modules. The RS41 radiosondes are balloon bourne instruments launched by various meteorological agencies around the world and are frequently hunted and recovered by enthusiasts. These sondes can then be re-flashed with the aforementioned firmware to enable usage of the hardware on the amateur radio bands.
 
 Transmission intervals of Horus 4FSK are done in 3 second intervals.
 

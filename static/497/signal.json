@@ -21,12 +21,7 @@
         }
     ],
     "acf": [],
-    "modulation": [
-        {
-            "value": "Unknown",
-            "description": ""
-        }
-    ],
+    "modulation": [],
     "mode": [
         {
             "value": "USB",

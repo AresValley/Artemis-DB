@@ -25,12 +25,7 @@
         }
     ],
     "acf": [],
-    "modulation": [
-        {
-            "value": "Noise",
-            "description": ""
-        }
-    ],
+    "modulation": [],
     "mode": [],
     "location": [
         {

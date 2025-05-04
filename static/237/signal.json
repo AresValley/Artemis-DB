@@ -38,6 +38,11 @@
             "description": ""
         }
     ],
-    "mode": [],
+    "mode": [
+        {
+            "value": "NFM",
+            "description": ""
+        }
+    ],
     "location": []
 }

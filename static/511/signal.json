@@ -27,14 +27,14 @@
     ],
     "bandwidth": [
         {
-            "value": 16000,
+            "value": 12500,
             "description": ""
         }
     ],
     "acf": [],
     "modulation": [
         {
-            "value": "4FSK",
+            "value": "C4FM",
             "description": ""
         }
     ],

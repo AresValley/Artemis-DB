@@ -15,6 +15,12 @@
 ### Changed
 - Updated MSK144: added 30MHz to frequency table
 - Updated Bluetooth (N62) description
+- Updated Horus 4FSK
+- Updated Ghadir OTH Radar
+- Updated APT
+- Updated UHF Vehicle Location System
+- Updated TETRA
+- Updated Yaesu System Fusion
 
 ## [v71] - 2024-10-11
 

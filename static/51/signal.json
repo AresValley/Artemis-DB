@@ -32,11 +32,19 @@
         {
             "value": "AM",
             "description": ""
+        },
+        {
+            "value": "FM",
+            "description": ""
         }
     ],
     "mode": [
         {
-            "value": "WFM",
+            "value": "AM",
+            "description": ""
+        },
+        {
+            "value": "FM",
             "description": ""
         }
     ],
