@@ -4,7 +4,7 @@ from utils.sql_utils import ArtemisDB
 from utils.constants import Constants
 
 
-DRY_RUN = True  # Imposta a False per eseguire l'update
+DRY_RUN = False  # Imposta a False per eseguire l'update
 
 DB = ArtemisDB('data')
 all_modulations = DB.select_all_modulation()
@@ -32,7 +32,7 @@ for mod in all_modulations:
             DB.update_modulation(
                 mdl_id,
                 best_match,
-                value
+                Constants.KNOWN_MODULATIONS[best_match]
             )
     else:
         print('NO MATCH:', value)

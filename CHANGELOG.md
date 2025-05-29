@@ -5,6 +5,9 @@
 
 ## [Unreleased]
 
+### Added
+- SKiYMET (N532)
+
 ## [v72] - 2025-05-04
 
 ### Added
