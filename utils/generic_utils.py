@@ -4,21 +4,30 @@ import re
 
 from bs4 import BeautifulSoup
 
-from utils.constants import *
+from utils.constants import Url, Constants
 
 
 def _get_source (url):
-    response = requests.get(url)
-    return response.content
+    try:
+        response = requests.get(url, timeout=10)
+        response.raise_for_status() 
+        return response.content
+    except requests.exceptions.RequestException as e: # Connection error
+        raise ConnectionError(f"Impossibile connettersi all'URL: {url}") from e
 
 
 def extract_sig_param(url):
-    
     sig_param = {}
     
     source = _get_source(url)
     soup = BeautifulSoup(source, 'lxml')
-        
+
+    # --- CONTROLLO PAGINA INESISTENTE ---
+    # Se trova 'noarticletext', la pagina su Sigidwiki non esiste.
+    if soup.find('div', class_='noarticletext') or soup.find('div', 'noarticletext'):
+        raise ValueError(f"L'URL richiesto non esiste su SigidWiki -> {url}")
+    # ------------------------------------
+
     table_tag = soup.find('table', 'infobox')
     tr_tag = table_tag.find_all('tr')
 
@@ -31,21 +40,21 @@ def extract_sig_param(url):
         spectrum_tag = row.find('img')
         audio_tag = row.find('audio')
         
-        if spectrum_tag == None and audio_tag == None:
-            if td_tag.text != None:
+        if spectrum_tag is None and audio_tag is None:
+            if td_tag.text is not None:
                 sig_param[th_tag.text] = td_tag.text.strip()
             else:
                 sig_param[th_tag.text] = None
 
-        elif spectrum_tag != None:
+        elif spectrum_tag is not None:
             try:
                 src = spectrum_tag['srcset'].split(',')[-1].split()[0]
-            except:
+            except Exception:
                 src = spectrum_tag['src']
                 
             sig_param['Spectrum'] = Url.SIGID_DOMAIN + src
             
-        elif audio_tag != None:
+        elif audio_tag is not None:
             sig_param['Audio'] = audio_tag['src']
     
     sig_param['Category'] = [cat for cat in categories if cat in Constants.CATEGORIES]
@@ -78,7 +87,7 @@ def format_acf(acf_string):
                     acf_description = i[0].strip()
                     acf_value = float(i[1].replace('ms','').strip())
                 
-                except:
+                except Exception:
                     acf_value = 0
                     acf_description = ':'.join(i)   
             
@@ -86,7 +95,7 @@ def format_acf(acf_string):
                 try:
                     acf_description = 'Main'
                     acf_value = float(i.replace('ms','').strip())
-                except:
+                except Exception:
                     acf_value = 0
                     acf_description = i.strip()
 
