@@ -1,1 +1,0 @@
-Fire alarm control panel built for the United States of America's Department of Defense.

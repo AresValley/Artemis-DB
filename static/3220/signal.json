@@ -1,0 +1,61 @@
+{
+    "pageid": "3220",
+    "title": "PAX",
+    "spectrum": [
+        "PAX.jpg"
+    ],
+    "audio": [
+        "PAX.mp3"
+    ],
+    "category": [
+        "Digital",
+        "Amateur Radio"
+    ],
+    "frequency": [
+        {
+            "value": 3590000,
+            "description": ""
+        },
+        {
+            "value": 7042000,
+            "description": ""
+        },
+        {
+            "value": 10148000,
+            "description": ""
+        },
+        {
+            "value": 14075000,
+            "description": ""
+        },
+        {
+            "value": 144620000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 500,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "MFSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

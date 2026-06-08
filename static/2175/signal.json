@@ -1,0 +1,79 @@
+{
+    "pageid": "2175",
+    "title": "Multiplexed Analogue Components (MAC)",
+    "spectrum": [
+        "NoWaterfallFiller.png"
+    ],
+    "audio": [],
+    "category": [
+        "Analogue",
+        "Commercial"
+    ],
+    "frequency": [
+        {
+            "value": 54000000,
+            "description": ""
+        },
+        {
+            "value": 18000000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 7800000,
+            "description": ""
+        },
+        {
+            "value": 10500000,
+            "description": ""
+        },
+        {
+            "value": 11400000,
+            "description": ""
+        },
+        {
+            "value": 22000000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "QAM",
+            "description": ""
+        },
+        {
+            "value": "VSB",
+            "description": ""
+        },
+        {
+            "value": "FM",
+            "description": ""
+        },
+        {
+            "value": "AM",
+            "description": ""
+        },
+        {
+            "value": "2PSK",
+            "description": ""
+        },
+        {
+            "value": "4PSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "RAW",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

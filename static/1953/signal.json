@@ -1,0 +1,53 @@
+{
+    "pageid": "1953",
+    "title": "Improved Automatic Link Set-up (ALIS-2)",
+    "spectrum": [
+        "ALIS 2.jpg"
+    ],
+    "audio": [
+        "alis-2.mp3"
+    ],
+    "category": [
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 3000000,
+            "description": ""
+        },
+        {
+            "value": 30000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 2000,
+            "description": ""
+        }
+    ],
+    "acf": [
+        {
+            "value": "490 ms",
+            "description": ""
+        }
+    ],
+    "modulation": [
+        {
+            "value": "FSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

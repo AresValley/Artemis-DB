@@ -1,0 +1,35 @@
+{
+    "pageid": "4953",
+    "title": "SAS2",
+    "spectrum": [
+        "SAS2 mod pattern 2.gif"
+    ],
+    "audio": [
+        "AF M12k 24DEC2015 073954z SAS2 .mp3"
+    ],
+    "category": [
+        "Military",
+        "Marine"
+    ],
+    "frequency": [
+        {
+            "value": 42500,
+            "description": ""
+        }
+    ],
+    "bandwidth": [],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "MSK",
+            "description": ""
+        }
+    ],
+    "mode": [],
+    "location": [
+        {
+            "value": "Sweden",
+            "description": ""
+        }
+    ]
+}

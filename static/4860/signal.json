@@ -1,0 +1,45 @@
+{
+    "pageid": "4860",
+    "title": "Ionized Meteor Trails",
+    "spectrum": [
+        "Screen 1506684611.68 (3).jpg"
+    ],
+    "audio": [
+        "2018-02-25 06-58-19.mp3"
+    ],
+    "category": [
+        "Interfering",
+        "Analogue"
+    ],
+    "frequency": [
+        {
+            "value": 88300000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 1000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "CW",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "CW",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

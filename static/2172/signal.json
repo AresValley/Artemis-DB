@@ -1,0 +1,45 @@
+{
+    "pageid": "2172",
+    "title": "Narrow-Bandwidth Television (NBTV)",
+    "spectrum": [
+        "nbtv_32.gif"
+    ],
+    "audio": [],
+    "category": [
+        "Amateur Radio"
+    ],
+    "frequency": [
+        {
+            "value": 50000000,
+            "description": ""
+        },
+        {
+            "value": 1800000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 13000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "AM",
+            "description": ""
+        },
+        {
+            "value": "FM",
+            "description": ""
+        }
+    ],
+    "mode": [],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

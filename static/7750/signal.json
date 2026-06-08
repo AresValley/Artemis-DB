@@ -1,0 +1,53 @@
+{
+    "pageid": "7750",
+    "title": "Baofeng GMSK",
+    "spectrum": [
+        "Baofeng_GMSK.png"
+    ],
+    "audio": [
+        "Baofeng GMSK audio.mp3"
+    ],
+    "category": [
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 400000000,
+            "description": ""
+        },
+        {
+            "value": 480000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 12500,
+            "description": ""
+        }
+    ],
+    "acf": [
+        {
+            "value": "Frame: 400 ms",
+            "description": ""
+        }
+    ],
+    "modulation": [
+        {
+            "value": "GMSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "NFM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

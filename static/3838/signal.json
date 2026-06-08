@@ -1,0 +1,44 @@
+{
+    "pageid": "3838",
+    "title": "Chinese Multitonal Jammer",
+    "spectrum": [
+        "Oddity.PNG"
+    ],
+    "audio": [
+        "Websdr recording start 2016-09-10T14-56-01Z 17580.0kHz.wav"
+    ],
+    "category": [
+        "Interfering"
+    ],
+    "frequency": [
+        {
+            "value": 9045000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 10000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "PPM",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

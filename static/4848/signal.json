@@ -1,0 +1,45 @@
+{
+    "pageid": "4848",
+    "title": "NPM",
+    "spectrum": [
+        "Lualualei HI (2).jpg"
+    ],
+    "audio": [
+        "HE Holt.mp3"
+    ],
+    "category": [
+        "Military",
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 21400,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 300,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "FSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "CW",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "United States",
+            "description": ""
+        }
+    ]
+}

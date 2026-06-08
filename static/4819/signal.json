@@ -1,0 +1,49 @@
+{
+    "pageid": "4819",
+    "title": "Microsonde Mark II Weather Balloon - LORAN-C signal (Radiosonde)",
+    "spectrum": [
+        "microsondemk2.png"
+    ],
+    "audio": [
+        "Mk2fmstart.ogg"
+    ],
+    "category": [
+        "Digital",
+        "Utility"
+    ],
+    "frequency": [
+        {
+            "value": 400000000,
+            "description": ""
+        },
+        {
+            "value": 406000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 130000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "FSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "WFM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

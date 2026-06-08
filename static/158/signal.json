@@ -1,38 +1,60 @@
 {
-    "signal": {
-        "name": "Duga 3",
-        "url": "https://www.sigidwiki.com/wiki/Duga_3"
-    },
+    "pageid": "158",
+    "title": "Integrated Digital Enhanced Network (iDEN)",
+    "spectrum": [
+        "IDEN_image.jpg"
+    ],
+    "audio": [
+        "Channel_1.mp3"
+    ],
     "category": [
-        "Military",
-        "Radar"
+        "Trunked Radio",
+        "Digital"
     ],
     "frequency": [
         {
-            "value": 7000000,
+            "value": 806000000,
             "description": ""
         },
         {
-            "value": 19000000,
+            "value": 824000000,
+            "description": ""
+        },
+        {
+            "value": 851000000,
+            "description": ""
+        },
+        {
+            "value": 869000000,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 20000,
-            "description": ""
-        },
-        {
-            "value": 800000,
+            "value": 18500,
             "description": ""
         }
     ],
     "acf": [],
-    "modulation": [],
-    "mode": [],
+    "modulation": [
+        {
+            "value": "QAM",
+            "description": ""
+        },
+        {
+            "value": "TDMA",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "NFM",
+            "description": ""
+        }
+    ],
     "location": [
         {
-            "value": "Ukraine",
+            "value": "Worldwide",
             "description": ""
         }
     ]

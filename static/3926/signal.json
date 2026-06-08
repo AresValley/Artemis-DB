@@ -1,0 +1,73 @@
+{
+    "pageid": "3926",
+    "title": "2G CDMA (IS-95)",
+    "spectrum": [
+        "2gcdma.png"
+    ],
+    "audio": [
+        "MC4f-CDMA-IS-95B.wav"
+    ],
+    "category": [
+        "Digital",
+        "Commercial"
+    ],
+    "frequency": [
+        {
+            "value": 815000000,
+            "description": ""
+        },
+        {
+            "value": 894000000,
+            "description": ""
+        },
+        {
+            "value": 1850000000,
+            "description": ""
+        },
+        {
+            "value": 1995000000,
+            "description": ""
+        },
+        {
+            "value": 880000000,
+            "description": ""
+        },
+        {
+            "value": 960000000,
+            "description": ""
+        },
+        {
+            "value": 1710000000,
+            "description": ""
+        },
+        {
+            "value": 1880000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 1228000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "DSSS/QPSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "RAW",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

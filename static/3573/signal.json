@@ -1,0 +1,48 @@
+{
+    "pageid": "3573",
+    "title": "Vehicle Counting System",
+    "spectrum": [
+        "Flinders Uni Vehicle Counting System Waterfall.PNG"
+    ],
+    "audio": [],
+    "category": [
+        "Commercial",
+        "Digital",
+        "Utility"
+    ],
+    "frequency": [
+        {
+            "value": 915000000,
+            "description": ""
+        },
+        {
+            "value": 925000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 10000000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "FSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "RAW",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Australia",
+            "description": ""
+        }
+    ]
+}

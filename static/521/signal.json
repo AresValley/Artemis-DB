@@ -1,47 +1,48 @@
 {
-    "signal": {
-        "name": "Beta",
-        "url": "https://www.sigidwiki.com/wiki/Beta"
-    },
+    "pageid": "521",
+    "title": "CODAR",
+    "spectrum": [
+        "CODARthm.jpg"
+    ],
+    "audio": [
+        "CODARAUDIOz.mp3"
+    ],
     "category": [
-        "Time"
+        "Radar",
+        "Marine"
     ],
     "frequency": [
         {
-            "value": 20500,
+            "value": 4438000,
             "description": ""
         },
         {
-            "value": 23000,
+            "value": 12920000,
             "description": ""
         },
         {
-            "value": 25000,
+            "value": 13500000,
             "description": ""
         },
         {
-            "value": 25100,
+            "value": 42500000,
             "description": ""
         },
         {
-            "value": 25500,
+            "value": 12470000,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 200,
+            "value": 50000,
             "description": ""
         }
     ],
     "acf": [],
     "modulation": [
         {
-            "value": "CW",
-            "description": ""
-        },
-        {
-            "value": "OOK",
+            "value": "ILFM",
             "description": ""
         }
     ],
@@ -52,18 +53,6 @@
         }
     ],
     "location": [
-        {
-            "value": "Russia",
-            "description": ""
-        },
-        {
-            "value": "Belarus",
-            "description": ""
-        },
-        {
-            "value": "Kyrgyzstan",
-            "description": ""
-        },
         {
             "value": "Worldwide",
             "description": ""

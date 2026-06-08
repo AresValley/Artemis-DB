@@ -1,0 +1,45 @@
+{
+    "pageid": "1946",
+    "title": "Accurate positioning by Low Frequencies (ALF)",
+    "spectrum": [
+        "ALF-RDS.jpg"
+    ],
+    "audio": [
+        "ALFRDS.mp3"
+    ],
+    "category": [
+        "Navigation",
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 123700,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 2100,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "PSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Germany",
+            "description": ""
+        }
+    ]
+}

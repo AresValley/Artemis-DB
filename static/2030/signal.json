@@ -1,0 +1,56 @@
+{
+    "pageid": "2030",
+    "title": "Thales Système 3000 HF Modem",
+    "spectrum": [
+        "Systeme Thales ALE and Vx.jpg"
+    ],
+    "audio": [
+        "SYS3000-ALE.mp3"
+    ],
+    "category": [
+        "Military"
+    ],
+    "frequency": [
+        {
+            "value": 1500000,
+            "description": ""
+        },
+        {
+            "value": 30000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 2000,
+            "description": ""
+        },
+        {
+            "value": 3000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "PSK",
+            "description": ""
+        },
+        {
+            "value": "MFSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

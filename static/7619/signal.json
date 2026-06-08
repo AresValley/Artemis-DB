@@ -1,0 +1,51 @@
+{
+    "pageid": "7619",
+    "title": "RF heating and welding interference",
+    "spectrum": [
+        "RF heating 2.png"
+    ],
+    "audio": [
+        "RF heating 2.ogg"
+    ],
+    "category": [
+        "Interfering"
+    ],
+    "frequency": [
+        {
+            "value": 24000000,
+            "description": ""
+        },
+        {
+            "value": 27000000,
+            "description": ""
+        },
+        {
+            "value": 30000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "CW",
+            "description": ""
+        },
+        {
+            "value": "FM",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

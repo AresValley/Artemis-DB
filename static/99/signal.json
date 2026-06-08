@@ -1,11 +1,14 @@
 {
-    "signal": {
-        "name": "CLOVER 2500",
-        "url": "https://www.sigidwiki.com/wiki/CLOVER_2500"
-    },
+    "pageid": "99",
+    "title": "WEFAX",
+    "spectrum": [
+        "Weather_Fascimile.jpg"
+    ],
+    "audio": [
+        "WFaxData.mp3"
+    ],
     "category": [
-        "Digital",
-        "Amateur Radio"
+        "Analogue"
     ],
     "frequency": [
         {
@@ -19,18 +22,14 @@
     ],
     "bandwidth": [
         {
-            "value": 2500,
+            "value": 3000,
             "description": ""
         }
     ],
     "acf": [],
     "modulation": [
         {
-            "value": "PSK",
-            "description": ""
-        },
-        {
-            "value": "QAM",
+            "value": "FM",
             "description": ""
         }
     ],

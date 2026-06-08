@@ -1,0 +1,39 @@
+{
+    "pageid": "3661",
+    "title": "WLO",
+    "spectrum": [
+        "Wlo.png"
+    ],
+    "audio": [
+        "Wlo AF.mp3"
+    ],
+    "category": [
+        "Marine"
+    ],
+    "frequency": [],
+    "bandwidth": [
+        {
+            "value": 1000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "CW",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "AM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "United States",
+            "description": ""
+        }
+    ]
+}

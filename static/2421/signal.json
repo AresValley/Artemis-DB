@@ -1,0 +1,48 @@
+{
+    "pageid": "2421",
+    "title": "Digital Dispatch Systems MDT",
+    "spectrum": [
+        "MDT_data_terminals.jpg"
+    ],
+    "audio": [
+        "London Towncars Inc 854787kHz_AF.mp3"
+    ],
+    "category": [
+        "Commercial"
+    ],
+    "frequency": [
+        {
+            "value": 152000000,
+            "description": ""
+        },
+        {
+            "value": 854787500,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 8000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "PSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "NFM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "United States",
+            "description": ""
+        }
+    ]
+}

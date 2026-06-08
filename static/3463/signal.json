@@ -1,0 +1,97 @@
+{
+    "pageid": "3463",
+    "title": "4G (LTE) Long Term Evolution Uplink",
+    "spectrum": [
+        "LTE_O2_10_uplink-data download.jpg"
+    ],
+    "audio": [
+        "LTEuplink.mp3"
+    ],
+    "category": [
+        "Commercial",
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 700000000,
+            "description": ""
+        },
+        {
+            "value": 800000000,
+            "description": ""
+        },
+        {
+            "value": 900000000,
+            "description": ""
+        },
+        {
+            "value": 1700000000,
+            "description": ""
+        },
+        {
+            "value": 1900000000,
+            "description": ""
+        },
+        {
+            "value": 2500000000,
+            "description": ""
+        },
+        {
+            "value": 3500000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 5000000,
+            "description": ""
+        },
+        {
+            "value": 1400000,
+            "description": ""
+        },
+        {
+            "value": 3000000,
+            "description": ""
+        },
+        {
+            "value": 10000000,
+            "description": ""
+        },
+        {
+            "value": 15000000,
+            "description": ""
+        },
+        {
+            "value": 20000000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "QPSK",
+            "description": ""
+        },
+        {
+            "value": "16QAM",
+            "description": ""
+        },
+        {
+            "value": "64QAM",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "SC-FDMA",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "pageid": "1356",
+    "title": "LORAN",
+    "spectrum": [
+        "LORAN.png"
+    ],
+    "audio": [
+        "LORAN-C_USB.mp3"
+    ],
+    "category": [
+        "Marine",
+        "Navigation"
+    ],
+    "frequency": [
+        {
+            "value": 90000,
+            "description": ""
+        },
+        {
+            "value": 110000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 20000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "PPM",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

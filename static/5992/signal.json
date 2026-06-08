@@ -1,0 +1,44 @@
+{
+    "pageid": "5992",
+    "title": "Instrument Landing System",
+    "spectrum": [
+        "Ils waterfall.png"
+    ],
+    "audio": [
+        "Ils sound.mp3"
+    ],
+    "category": [
+        "Aviation",
+        "Navigation"
+    ],
+    "frequency": [
+        {
+            "value": 108000000,
+            "description": ""
+        },
+        {
+            "value": 335000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 15000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [],
+    "mode": [
+        {
+            "value": "AM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

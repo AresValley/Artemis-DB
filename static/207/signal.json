@@ -1,32 +1,35 @@
 {
-    "signal": {
-        "name": "Gonets",
-        "url": "https://www.sigidwiki.com/wiki/Gonets"
-    },
+    "pageid": "207",
+    "title": "Voice Inversion Scrambling",
+    "spectrum": [
+        "Voice inversion.png"
+    ],
+    "audio": [
+        "Voice-Inversion.wav"
+    ],
     "category": [
-        "Commercial",
-        "Satellite"
+        "Analogue"
     ],
     "frequency": [
         {
-            "value": 265,
+            "value": 150000000,
             "description": ""
         },
         {
-            "value": 388000000,
+            "value": 450000000,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 20000,
+            "value": 25000,
             "description": ""
         }
     ],
     "acf": [],
     "modulation": [
         {
-            "value": "GMSK",
+            "value": "FM",
             "description": ""
         }
     ],

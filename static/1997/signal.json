@@ -1,0 +1,54 @@
+{
+    "pageid": "1997",
+    "title": "Graw DFM-06 Weather Balloon (Radiosonde)",
+    "spectrum": [
+        "Graw.jpg"
+    ],
+    "audio": [
+        "DFM06 404,710 MHz.mp3"
+    ],
+    "category": [
+        "Digital",
+        "Utility"
+    ],
+    "frequency": [
+        {
+            "value": 400010000,
+            "description": ""
+        },
+        {
+            "value": 405990000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 20000,
+            "description": ""
+        }
+    ],
+    "acf": [
+        {
+            "value": "2000 ms",
+            "description": ""
+        }
+    ],
+    "modulation": [
+        {
+            "value": "FSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "NFM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Europe",
+            "description": ""
+        }
+    ]
+}

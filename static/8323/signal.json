@@ -1,0 +1,44 @@
+{
+    "pageid": "8323",
+    "title": "Samsung Washing Machine Interference",
+    "spectrum": [
+        "Samsung washing machine interference.png"
+    ],
+    "audio": [
+        "Samsung washer.mp3"
+    ],
+    "category": [
+        "Interfering"
+    ],
+    "frequency": [
+        {
+            "value": 6000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 15000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "FM",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "pageid": "6046",
+    "title": "Gonets",
+    "spectrum": [
+        "Gonet.png"
+    ],
+    "audio": [
+        "GonetsFM.mp3"
+    ],
+    "category": [
+        "Commercial",
+        "Satellite"
+    ],
+    "frequency": [
+        {
+            "value": 265,
+            "description": ""
+        },
+        {
+            "value": 388000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 20000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "GMSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "NFM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

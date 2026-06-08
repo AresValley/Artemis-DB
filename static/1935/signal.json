@@ -1,0 +1,70 @@
+{
+    "pageid": "1935",
+    "title": "KG-STV",
+    "spectrum": [
+        "KG-STV 4LFSK norm.jpg"
+    ],
+    "audio": [
+        "KG-STV 4LFSK Norm.mp3"
+    ],
+    "category": [
+        "Amateur Radio",
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 3733000,
+            "description": ""
+        },
+        {
+            "value": 7173000,
+            "description": ""
+        },
+        {
+            "value": 10489625000,
+            "description": ""
+        },
+        {
+            "value": 14233000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 500,
+            "description": ""
+        },
+        {
+            "value": 2500,
+            "description": ""
+        }
+    ],
+    "acf": [
+        {
+            "value": "Header: variable, Trailer: 142.5 ms",
+            "description": ""
+        }
+    ],
+    "modulation": [
+        {
+            "value": "4FSK",
+            "description": ""
+        },
+        {
+            "value": "MSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

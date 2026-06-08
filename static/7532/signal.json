@@ -1,0 +1,63 @@
+{
+    "pageid": "7532",
+    "title": "JT4",
+    "spectrum": [
+        "JT4.png"
+    ],
+    "audio": [
+        "JT4.ogg"
+    ],
+    "category": [
+        "Digital"
+    ],
+    "frequency": [],
+    "bandwidth": [
+        {
+            "value": 17.5,
+            "description": ""
+        },
+        {
+            "value": 30.6,
+            "description": ""
+        },
+        {
+            "value": 56.9,
+            "description": ""
+        },
+        {
+            "value": 123,
+            "description": ""
+        },
+        {
+            "value": 241,
+            "description": ""
+        },
+        {
+            "value": 477,
+            "description": ""
+        },
+        {
+            "value": 949,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "MFSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

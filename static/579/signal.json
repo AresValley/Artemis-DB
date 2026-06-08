@@ -1,0 +1,58 @@
+{
+    "pageid": "579",
+    "title": "WinDRM",
+    "spectrum": [
+        "Waterfall-20221028003713.jpg"
+    ],
+    "audio": [
+        "Digitalsstv.mp3"
+    ],
+    "category": [
+        "Amateur Radio",
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 14236000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 2200,
+            "description": ""
+        },
+        {
+            "value": 2400,
+            "description": ""
+        }
+    ],
+    "acf": [
+        {
+            "value": "400 ms",
+            "description": ""
+        }
+    ],
+    "modulation": [
+        {
+            "value": "QAM",
+            "description": ""
+        },
+        {
+            "value": "OFDM",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

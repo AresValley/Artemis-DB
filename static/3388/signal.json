@@ -1,0 +1,57 @@
+{
+    "pageid": "3388",
+    "title": "Coherent BPSK",
+    "spectrum": [
+        "Coherent PSK.jpg"
+    ],
+    "audio": [
+        "Coherent PSK.mp3"
+    ],
+    "category": [
+        "Digital",
+        "Amateur Radio"
+    ],
+    "frequency": [
+        {
+            "value": 138000,
+            "description": ""
+        },
+        {
+            "value": 1881000,
+            "description": ""
+        },
+        {
+            "value": 14081000,
+            "description": ""
+        },
+        {
+            "value": 18081000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 200,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "PSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

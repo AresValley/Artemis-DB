@@ -1,43 +1,42 @@
 {
-    "signal": {
-        "name": "GOES Data Collection System (DCS)",
-        "url": "https://www.sigidwiki.com/wiki/GOES_Data_Collection_System_(DCS)"
-    },
+    "pageid": "194",
+    "title": "End of Train Device (EOTD)",
+    "spectrum": [
+        "EOTthmb.jpg"
+    ],
+    "audio": [
+        "EOT_Sound.mp3"
+    ],
     "category": [
-        "Satellite",
         "Digital",
         "Utility"
     ],
     "frequency": [
         {
-            "value": 1679900000,
+            "value": 452.9375,
             "description": ""
         },
         {
-            "value": 1680200000,
+            "value": 457937500,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 300,
-            "description": ""
-        },
-        {
-            "value": 1200,
+            "value": 8000,
             "description": ""
         }
     ],
     "acf": [],
     "modulation": [
         {
-            "value": "8PSK",
+            "value": "FSK",
             "description": ""
         }
     ],
     "mode": [
         {
-            "value": "USB",
+            "value": "NFM",
             "description": ""
         }
     ],

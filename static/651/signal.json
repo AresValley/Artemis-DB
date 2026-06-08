@@ -1,0 +1,54 @@
+{
+    "pageid": "651",
+    "title": "Automatic Link Establishment (3G ALE ARCS)",
+    "spectrum": [
+        "3Gale.jpg"
+    ],
+    "audio": [
+        "Mil-188-141b.mp3"
+    ],
+    "category": [
+        "Military",
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 3000000,
+            "description": ""
+        },
+        {
+            "value": 30000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 3000,
+            "description": ""
+        }
+    ],
+    "acf": [
+        {
+            "value": "BW3 (LDL):  13.3 ms",
+            "description": ""
+        }
+    ],
+    "modulation": [
+        {
+            "value": "PSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

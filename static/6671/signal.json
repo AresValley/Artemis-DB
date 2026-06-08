@@ -1,0 +1,46 @@
+{
+    "pageid": "6671",
+    "title": "Électricité de France HNZ",
+    "spectrum": [],
+    "audio": [
+        "Hnz sample.mp3"
+    ],
+    "category": [
+        "Utility"
+    ],
+    "frequency": [
+        {
+            "value": 68500000,
+            "description": ""
+        },
+        {
+            "value": 73300000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 8000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "AFSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "FM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "France",
+            "description": ""
+        }
+    ]
+}

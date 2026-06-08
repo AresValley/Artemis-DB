@@ -1,0 +1,45 @@
+{
+    "pageid": "6796",
+    "title": "Near Instantaneous Companded Audio Multiplex (NICAM)",
+    "spectrum": [],
+    "audio": [],
+    "category": [
+        "Digital",
+        "Commercial"
+    ],
+    "frequency": [
+        {
+            "value": 174000000,
+            "description": ""
+        },
+        {
+            "value": 700000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 400000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "PSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "RAW",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

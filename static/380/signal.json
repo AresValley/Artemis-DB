@@ -1,47 +1,41 @@
 {
-    "signal": {
-        "name": "Primary Aeronautical Surveillance Radar",
-        "url": "https://www.sigidwiki.com/wiki/Primary_Aeronautical_Surveillance_Radar"
-    },
+    "pageid": "380",
+    "title": "OpenWay CENTRON Smart-Meter",
+    "spectrum": [
+        "Open-Way-Centron_Smart-Meter_Waterfallthmb.png"
+    ],
+    "audio": [],
     "category": [
-        "Radar",
-        "Commercial",
-        "Navigation",
-        "Analogue",
-        "Aviation"
+        "Digital",
+        "Utility"
     ],
     "frequency": [
         {
-            "value": 1215000000,
+            "value": 902000000,
             "description": ""
         },
         {
-            "value": 1400000000,
+            "value": 928000000,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 3000000,
+            "value": 15000,
             "description": ""
         }
     ],
     "acf": [],
     "modulation": [
         {
-            "value": "Pulse",
+            "value": "BPSK",
             "description": ""
         }
     ],
-    "mode": [
-        {
-            "value": "RAW",
-            "description": ""
-        }
-    ],
+    "mode": [],
     "location": [
         {
-            "value": "Worldwide",
+            "value": "United States",
             "description": ""
         }
     ]

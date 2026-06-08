@@ -1,0 +1,57 @@
+{
+    "pageid": "1596",
+    "title": "RWM",
+    "spectrum": [
+        "RWM.png"
+    ],
+    "audio": [
+        "RWM time 1.mp3"
+    ],
+    "category": [
+        "Time"
+    ],
+    "frequency": [
+        {
+            "value": 4996000,
+            "description": ""
+        },
+        {
+            "value": 14996000,
+            "description": ""
+        },
+        {
+            "value": 9996000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 5,
+            "description": ""
+        }
+    ],
+    "acf": [
+        {
+            "value": "Primary: 1000 ms , Secondary:  100 ms",
+            "description": ""
+        }
+    ],
+    "modulation": [
+        {
+            "value": "OOK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Russia",
+            "description": ""
+        }
+    ]
+}

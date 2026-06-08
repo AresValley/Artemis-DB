@@ -1,0 +1,48 @@
+{
+    "pageid": "8320",
+    "title": "Russian Intelligence 200bd 500Hz FSK (F01)",
+    "spectrum": [
+        "F01.png"
+    ],
+    "audio": [
+        "F01.mp3"
+    ],
+    "category": [
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 4000000,
+            "description": ""
+        },
+        {
+            "value": 23000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 500,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "FSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Russia",
+            "description": ""
+        }
+    ]
+}

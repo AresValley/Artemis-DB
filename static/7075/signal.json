@@ -1,0 +1,50 @@
+{
+    "pageid": "7075",
+    "title": "Broadband Global Area Network (BGAN)",
+    "spectrum": [
+        "Bgan.png"
+    ],
+    "audio": [
+        "Bgan wfm.mp3"
+    ],
+    "category": [
+        "Commercial",
+        "Digital",
+        "Satellite"
+    ],
+    "frequency": [
+        {
+            "value": 1525000000,
+            "description": ""
+        },
+        {
+            "value": 1559000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 200000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "QPSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "WFM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

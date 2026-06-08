@@ -1,0 +1,53 @@
+{
+    "pageid": "8613",
+    "title": "Radio-relay link",
+    "spectrum": [
+        "RRlink.jpg"
+    ],
+    "audio": [
+        "RRlink 38 GHz.mp3"
+    ],
+    "category": [
+        "Digital",
+        "Commercial"
+    ],
+    "frequency": [
+        {
+            "value": 6000000000,
+            "description": ""
+        },
+        {
+            "value": 38000000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 3500000,
+            "description": ""
+        },
+        {
+            "value": 800000000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "4FSK to 2048QAM",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "RAW",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

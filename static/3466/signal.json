@@ -1,0 +1,50 @@
+{
+    "pageid": "3466",
+    "title": "Iridium",
+    "spectrum": [
+        "IridiumTDMA.png"
+    ],
+    "audio": [
+        "Iridium.mp3"
+    ],
+    "category": [
+        "Satellite",
+        "Commercial",
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 1616000000,
+            "description": ""
+        },
+        {
+            "value": 1626500000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 31500,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "PSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "RAW",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

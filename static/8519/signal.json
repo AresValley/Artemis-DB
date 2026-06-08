@@ -1,0 +1,73 @@
+{
+    "pageid": "8519",
+    "title": "5G Broadcast (MBMS) Multimedia Broadcast / Multicast Service",
+    "spectrum": [
+        "5G broadcast mbms.jpg"
+    ],
+    "audio": [
+        "649.5 5G BROADCAST 5M.mp3"
+    ],
+    "category": [
+        "Commercial",
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 470000000,
+            "description": ""
+        },
+        {
+            "value": 694000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 5000000,
+            "description": ""
+        },
+        {
+            "value": 6000000,
+            "description": ""
+        },
+        {
+            "value": 7000000,
+            "description": ""
+        },
+        {
+            "value": 8000000,
+            "description": ""
+        },
+        {
+            "value": 10000000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "QPSK",
+            "description": ""
+        },
+        {
+            "value": "16QAM",
+            "description": ""
+        },
+        {
+            "value": "64QAM",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "OFDM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Europe",
+            "description": ""
+        }
+    ]
+}

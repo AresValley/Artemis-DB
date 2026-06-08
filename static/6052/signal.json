@@ -1,0 +1,45 @@
+{
+    "pageid": "6052",
+    "title": "LEOSAR Downlink",
+    "spectrum": [
+        "LEOTIT.png"
+    ],
+    "audio": [
+        "LEOSARTIT.mp3"
+    ],
+    "category": [
+        "Satellite",
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 1544500000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 350000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "PSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "NFM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

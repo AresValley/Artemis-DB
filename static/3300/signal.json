@@ -1,0 +1,57 @@
+{
+    "pageid": "3300",
+    "title": "STANAG 5065",
+    "spectrum": [
+        "STANAG 5065 FSK.jpg"
+    ],
+    "audio": [
+        "stanag-5065-fsk.mp3"
+    ],
+    "category": [
+        "Military",
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 50000,
+            "description": ""
+        },
+        {
+            "value": 160000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 235,
+            "description": ""
+        },
+        {
+            "value": 360,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "FSK",
+            "description": ""
+        },
+        {
+            "value": "MSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

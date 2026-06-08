@@ -1,0 +1,42 @@
+{
+    "pageid": "8167",
+    "title": "Kenwood FleetSync",
+    "spectrum": [
+        "Fleetsync.png"
+    ],
+    "audio": [],
+    "category": [
+        "Digital",
+        "Analogue"
+    ],
+    "frequency": [
+        {
+            "value": 150000000,
+            "description": ""
+        },
+        {
+            "value": 850000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 25000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "FSK",
+            "description": ""
+        }
+    ],
+    "mode": [],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

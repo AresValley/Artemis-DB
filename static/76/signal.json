@@ -1,44 +1,93 @@
 {
-    "signal": {
-        "name": "CIS MFSK-16 XPA2",
-        "url": "https://www.sigidwiki.com/wiki/CIS_MFSK-16_XPA2"
-    },
+    "pageid": "76",
+    "title": "MPT 1327",
+    "spectrum": [
+        "MPT1327_waterfall.png"
+    ],
+    "audio": [
+        "MPT1327_Sound.mp3"
+    ],
     "category": [
-        "Digital",
-        "Numbers Stations"
+        "Trunked Radio",
+        "Digital"
     ],
     "frequency": [
         {
-            "value": 3000000,
+            "value": 176500000,
             "description": ""
         },
         {
-            "value": 30000000,
+            "value": 184500000,
+            "description": ""
+        },
+        {
+            "value": 201500000,
+            "description": ""
+        },
+        {
+            "value": 162500000,
+            "description": ""
+        },
+        {
+            "value": 207500000,
+            "description": ""
+        },
+        {
+            "value": 420000000,
+            "description": ""
+        },
+        {
+            "value": 800000000,
+            "description": ""
+        },
+        {
+            "value": 461000000,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 250,
+            "value": 10000,
+            "description": ""
+        },
+        {
+            "value": 25000,
+            "description": ""
+        },
+        {
+            "value": 20000,
+            "description": ""
+        },
+        {
+            "value": 12500,
             "description": ""
         }
     ],
-    "acf": [],
+    "acf": [
+        {
+            "value": "106.66 ms",
+            "description": ""
+        }
+    ],
     "modulation": [
         {
-            "value": "MFSK",
+            "value": "FFSK",
+            "description": ""
+        },
+        {
+            "value": "FM",
             "description": ""
         }
     ],
     "mode": [
         {
-            "value": "USB",
+            "value": "NFM",
             "description": ""
         }
     ],
     "location": [
         {
-            "value": "Russia",
+            "value": "Worldwide",
             "description": ""
         }
     ]

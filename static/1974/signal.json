@@ -1,0 +1,50 @@
+{
+    "pageid": "1974",
+    "title": "ARQ-M4-242",
+    "spectrum": [
+        "ARQ-M4-242.jpg"
+    ],
+    "audio": [
+        "arq-m4-242.mp3"
+    ],
+    "category": [
+        "Digital",
+        "Aviation",
+        "Marine"
+    ],
+    "frequency": [
+        {
+            "value": 3000000,
+            "description": ""
+        },
+        {
+            "value": 30000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 250,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "FSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

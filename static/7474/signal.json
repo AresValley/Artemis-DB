@@ -1,0 +1,57 @@
+{
+    "pageid": "7474",
+    "title": "Chinese 30-tone OFDM modem",
+    "spectrum": [
+        "2025-08-22_19-30.png"
+    ],
+    "audio": [
+        "China 30-OFDM 1.ogg"
+    ],
+    "category": [
+        "Military",
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 3618000,
+            "description": ""
+        },
+        {
+            "value": 18656000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 3000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "QPSK",
+            "description": ""
+        },
+        {
+            "value": "BPSK",
+            "description": ""
+        },
+        {
+            "value": "OFDM",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "LSB, USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "China, Worldwide",
+            "description": ""
+        }
+    ]
+}

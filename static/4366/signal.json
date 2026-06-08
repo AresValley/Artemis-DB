@@ -1,0 +1,57 @@
+{
+    "pageid": "4366",
+    "title": "'OTH-SW' OTH Radar",
+    "spectrum": [
+        "OTH RADAR.png"
+    ],
+    "audio": [
+        "PRC_OTH_SW.mp3"
+    ],
+    "category": [
+        "Military",
+        "Radar"
+    ],
+    "frequency": [
+        {
+            "value": 6000000,
+            "description": ""
+        },
+        {
+            "value": 30000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 40000,
+            "description": ""
+        },
+        {
+            "value": 60000,
+            "description": ""
+        },
+        {
+            "value": 80000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "FMCW",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "China",
+            "description": ""
+        }
+    ]
+}

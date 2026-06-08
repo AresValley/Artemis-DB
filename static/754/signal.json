@@ -1,0 +1,44 @@
+{
+    "pageid": "754",
+    "title": "RBU",
+    "spectrum": [
+        "RBU_.jpg"
+    ],
+    "audio": [
+        "RBU_with_carrier_audio.mp3"
+    ],
+    "category": [
+        "Time"
+    ],
+    "frequency": [
+        {
+            "value": 66660,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 650,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "FSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Russia",
+            "description": ""
+        }
+    ]
+}

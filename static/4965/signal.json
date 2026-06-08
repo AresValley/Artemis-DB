@@ -1,0 +1,30 @@
+{
+    "pageid": "4965",
+    "title": "Friedland Libra+ 48249SL wireless doorbell",
+    "spectrum": [
+        "48249.png"
+    ],
+    "audio": [],
+    "category": [],
+    "frequency": [
+        {
+            "value": 868000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "FSK",
+            "description": ""
+        }
+    ],
+    "mode": [],
+    "location": [
+        {
+            "value": "Finland",
+            "description": ""
+        }
+    ]
+}

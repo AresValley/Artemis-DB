@@ -1,0 +1,32 @@
+{
+    "pageid": "4935",
+    "title": "Grimeton Radio (SAQ)",
+    "spectrum": [
+        "Saq vvv.gif"
+    ],
+    "audio": [
+        "AF 24DEC2015 074033z285 SAQ tuning.mp3"
+    ],
+    "category": [],
+    "frequency": [
+        {
+            "value": 17200,
+            "description": ""
+        }
+    ],
+    "bandwidth": [],
+    "acf": [],
+    "modulation": [],
+    "mode": [
+        {
+            "value": "CW",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Sweden",
+            "description": ""
+        }
+    ]
+}

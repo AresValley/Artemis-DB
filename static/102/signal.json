@@ -1,50 +1,42 @@
 {
-    "signal": {
-        "name": "CODAR",
-        "url": "https://www.sigidwiki.com/wiki/CODAR"
-    },
+    "pageid": "102",
+    "title": "Single Sideband Voice",
+    "spectrum": [
+        "SSB_Voice.jpg"
+    ],
+    "audio": [
+        "USB_Sound.mp3"
+    ],
     "category": [
-        "Marine",
-        "Radar"
+        "Analogue",
+        "Amateur Radio"
     ],
     "frequency": [
         {
-            "value": 4438000,
+            "value": 3000000,
             "description": ""
         },
         {
-            "value": 12920000,
-            "description": ""
-        },
-        {
-            "value": 13500000,
-            "description": ""
-        },
-        {
-            "value": 42500000,
-            "description": ""
-        },
-        {
-            "value": 12470000,
+            "value": 30000000,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 50000,
+            "value": 1900,
             "description": ""
         }
     ],
     "acf": [],
     "modulation": [
         {
-            "value": "ILFM",
+            "value": "AM",
             "description": ""
         }
     ],
     "mode": [
         {
-            "value": "USB",
+            "value": "SSB",
             "description": ""
         }
     ],

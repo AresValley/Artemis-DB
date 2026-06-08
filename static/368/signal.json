@@ -1,40 +1,88 @@
 {
-    "signal": {
-        "name": "PROBA 1/2 Downlink",
-        "url": "https://www.sigidwiki.com/wiki/PROBA_1/2_Downlink"
-    },
+    "pageid": "368",
+    "title": "JT65",
+    "spectrum": [
+        "JT65AWaterfall.png"
+    ],
+    "audio": [
+        "JT65A.mp3"
+    ],
     "category": [
-        "Satellite",
-        "Digital"
+        "Digital",
+        "Amateur Radio"
     ],
     "frequency": [
         {
-            "value": 2235000000,
+            "value": 24917000,
+            "description": ""
+        },
+        {
+            "value": 1838000,
+            "description": ""
+        },
+        {
+            "value": 3576000,
+            "description": ""
+        },
+        {
+            "value": 7039000,
+            "description": ""
+        },
+        {
+            "value": 7076000,
+            "description": ""
+        },
+        {
+            "value": 10139000,
+            "description": ""
+        },
+        {
+            "value": 14076000,
+            "description": ""
+        },
+        {
+            "value": 18102000,
+            "description": ""
+        },
+        {
+            "value": 18098000,
+            "description": ""
+        },
+        {
+            "value": 50276000,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 4000000,
+            "value": 180,
+            "description": ""
+        },
+        {
+            "value": 360,
+            "description": ""
+        },
+        {
+            "value": 710,
             "description": ""
         }
     ],
     "acf": [],
     "modulation": [
         {
-            "value": "BPSK",
+            "value": "MFSK",
             "description": ""
         }
     ],
     "mode": [
         {
-            "value": "RAW",
+            "value": "USB",
             "description": ""
         }
     ],
     "location": [
         {
-            "value": "Europe",
+            "value": "Worldwide",
             "description": ""
         }
     ]

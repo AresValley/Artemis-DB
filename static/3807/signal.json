@@ -1,0 +1,49 @@
+{
+    "pageid": "3807",
+    "title": "OPERA Beacon and Data",
+    "spectrum": [
+        "Opera-1.png"
+    ],
+    "audio": [
+        "Op05.mp3"
+    ],
+    "category": [
+        "Amateur Radio",
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 136000,
+            "description": ""
+        },
+        {
+            "value": 10000000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 1.5,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "ASK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

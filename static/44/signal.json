@@ -1,43 +1,48 @@
 {
-    "signal": {
-        "name": "Automated Train Control System (ATCS)",
-        "url": "https://www.sigidwiki.com/wiki/Automated_Train_Control_System_(ATCS)"
-    },
+    "pageid": "44",
+    "title": "Aircraft Communications Addressing and Reporting System (ACARS)",
+    "spectrum": [
+        "ACARS.jpg"
+    ],
+    "audio": [
+        "ACARS_sound.mp3"
+    ],
     "category": [
+        "Aviation",
         "Digital"
     ],
     "frequency": [
         {
-            "value": 936987500,
+            "value": 129000000,
             "description": ""
         },
         {
-            "value": 896887500,
+            "value": 137000000,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 12500,
+            "value": 5000,
             "description": ""
         }
     ],
     "acf": [],
     "modulation": [
         {
-            "value": "FSK",
+            "value": "MSK",
             "description": ""
         }
     ],
     "mode": [
         {
-            "value": "NFM",
+            "value": "AM",
             "description": ""
         }
     ],
     "location": [
         {
-            "value": "United States",
+            "value": "Worldwide",
             "description": ""
         }
     ]

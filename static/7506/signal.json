@@ -1,0 +1,48 @@
+{
+    "pageid": "7506",
+    "title": "SIMONe meteor radar",
+    "spectrum": [
+        "Low VHF possible meteor radar 32p55 4.png"
+    ],
+    "audio": [
+        "Low VHF possible meteor radar 32p55 AM wide.ogg"
+    ],
+    "category": [
+        "Radar"
+    ],
+    "frequency": [
+        {
+            "value": 32550000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 140000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "PSK",
+            "description": ""
+        },
+        {
+            "value": "DSSS",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "AM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

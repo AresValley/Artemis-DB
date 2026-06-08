@@ -1,0 +1,50 @@
+{
+    "pageid": "1587",
+    "title": "Yachta T-219 Voice Scrambler",
+    "spectrum": [
+        "Yachta.jpg"
+    ],
+    "audio": [
+        "Yachta T-219.mp3"
+    ],
+    "category": [
+        "Military",
+        "Analogue",
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 3000000,
+            "description": ""
+        },
+        {
+            "value": 30000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 2700,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "FSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Russia",
+            "description": ""
+        }
+    ]
+}

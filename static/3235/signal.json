@@ -1,0 +1,54 @@
+{
+    "pageid": "3235",
+    "title": "PSK2K",
+    "spectrum": [
+        "PSK2K.jpg"
+    ],
+    "audio": [
+        "PSK2K.mp3"
+    ],
+    "category": [
+        "Digital",
+        "Amateur Radio"
+    ],
+    "frequency": [
+        {
+            "value": 50360000,
+            "description": ""
+        },
+        {
+            "value": 144360000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 2000,
+            "description": ""
+        }
+    ],
+    "acf": [
+        {
+            "value": "129 ms",
+            "description": ""
+        }
+    ],
+    "modulation": [
+        {
+            "value": "PSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

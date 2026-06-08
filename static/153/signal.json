@@ -1,28 +1,54 @@
 {
-    "signal": {
-        "name": "Distributed Power Unit (DPU)",
-        "url": "https://www.sigidwiki.com/wiki/Distributed_Power_Unit_(DPU)"
-    },
+    "pageid": "153",
+    "title": "BR-6028",
+    "spectrum": [
+        "BR-6028_RTTY.jpg"
+    ],
+    "audio": [
+        "Radio-br6028.mp3"
+    ],
     "category": [
-        "Utility"
+        "Military",
+        "Digital"
     ],
     "frequency": [
         {
-            "value": 457925000,
+            "value": 13458200,
+            "description": ""
+        },
+        {
+            "value": 15937000,
+            "description": ""
+        },
+        {
+            "value": 5750000,
+            "description": ""
+        },
+        {
+            "value": 11010000,
+            "description": ""
+        },
+        {
+            "value": 8045000,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 6000,
+            "value": 3100,
             "description": ""
         }
     ],
     "acf": [],
-    "modulation": [],
+    "modulation": [
+        {
+            "value": "FSK",
+            "description": ""
+        }
+    ],
     "mode": [
         {
-            "value": "NFM",
+            "value": "USB",
             "description": ""
         }
     ],

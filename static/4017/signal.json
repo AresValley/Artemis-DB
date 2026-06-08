@@ -1,0 +1,52 @@
+{
+    "pageid": "4017",
+    "title": "Inmarsat-D(D+) Downlink",
+    "spectrum": [
+        "Inmarsat D.jpg"
+    ],
+    "audio": [
+        "inmarsat mfsk.mp3"
+    ],
+    "category": [
+        "Satellite",
+        "Commercial",
+        "Digital",
+        "Marine",
+        "Utility"
+    ],
+    "frequency": [
+        {
+            "value": 1525000000,
+            "description": ""
+        },
+        {
+            "value": 1559000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 640,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "MFSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

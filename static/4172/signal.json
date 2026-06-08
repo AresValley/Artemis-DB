@@ -1,0 +1,48 @@
+{
+    "pageid": "4172",
+    "title": "Logic Trunked Radio (LTR)",
+    "spectrum": [
+        "LTR2.png"
+    ],
+    "audio": [
+        "LTR example 1.ogg"
+    ],
+    "category": [
+        "Digital",
+        "Commercial"
+    ],
+    "frequency": [
+        {
+            "value": 150000000,
+            "description": ""
+        },
+        {
+            "value": 470000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 12500,
+            "description": ""
+        },
+        {
+            "value": 25000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "FSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "NFM",
+            "description": ""
+        }
+    ],
+    "location": []
+}

@@ -1,44 +1,53 @@
 {
-    "signal": {
-        "name": "CIS 3x100 VFT",
-        "url": "https://www.sigidwiki.com/wiki/CIS_3x100_VFT"
-    },
+    "pageid": "73",
+    "title": "Terrestrial Trunked Radio (TETRA)",
+    "spectrum": [
+        "TETRA.jpg"
+    ],
+    "audio": [
+        "TETRA.mp3"
+    ],
     "category": [
-        "Digital",
-        "Military"
+        "Trunked Radio",
+        "Digital"
     ],
     "frequency": [
         {
-            "value": 3000000,
+            "value": 380000000,
             "description": ""
         },
         {
-            "value": 30000000,
+            "value": 860000000,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 3100,
+            "value": 25000,
             "description": ""
         }
     ],
-    "acf": [],
+    "acf": [
+        {
+            "value": "Frame: 56.67 ms, Slot: 14.16 ms, Superframe: 1020 ms",
+            "description": ""
+        }
+    ],
     "modulation": [
         {
-            "value": "FSK",
+            "value": "PSK",
             "description": ""
         }
     ],
     "mode": [
         {
-            "value": "USB",
+            "value": "NFM",
             "description": ""
         }
     ],
     "location": [
         {
-            "value": "Russia",
+            "value": "Worldwide",
             "description": ""
         }
     ]

@@ -1,0 +1,48 @@
+{
+    "pageid": "6634",
+    "title": "Russian overhead power line telemetry system",
+    "spectrum": [
+        "Pow tel 3.JPG"
+    ],
+    "audio": [
+        "PL_502_khz_wiki.mp3"
+    ],
+    "category": [
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 50000,
+            "description": ""
+        },
+        {
+            "value": 1000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 400,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "FSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Russia",
+            "description": ""
+        }
+    ]
+}

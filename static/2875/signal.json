@@ -1,0 +1,61 @@
+{
+    "pageid": "2875",
+    "title": "Datawell Buoy HF Link",
+    "spectrum": [
+        "datawell_2FSK.jpg"
+    ],
+    "audio": [
+        "buoy-29525.mp3"
+    ],
+    "category": [
+        "Digital",
+        "Marine"
+    ],
+    "frequency": [
+        {
+            "value": 25500000,
+            "description": ""
+        },
+        {
+            "value": 35500000,
+            "description": ""
+        },
+        {
+            "value": 45000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 200,
+            "description": ""
+        },
+        {
+            "value": 400,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "FSK",
+            "description": ""
+        },
+        {
+            "value": "MFSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

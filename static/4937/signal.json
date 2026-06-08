@@ -1,0 +1,35 @@
+{
+    "pageid": "4937",
+    "title": "SAS/SRC",
+    "spectrum": [
+        "SAS-SRC mod pattern.gif"
+    ],
+    "audio": [
+        "AF 17OCT2014 080000z SAS-SRC.mp3"
+    ],
+    "category": [
+        "Military",
+        "Marine"
+    ],
+    "frequency": [
+        {
+            "value": 40400,
+            "description": ""
+        }
+    ],
+    "bandwidth": [],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "MSK",
+            "description": ""
+        }
+    ],
+    "mode": [],
+    "location": [
+        {
+            "value": "Sweden",
+            "description": ""
+        }
+    ]
+}

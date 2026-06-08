@@ -1,0 +1,54 @@
+{
+    "pageid": "7807",
+    "title": "17067bps FSK",
+    "spectrum": [
+        "Fsk17067_wf.png"
+    ],
+    "audio": [
+        "Fsk17067_af.wav"
+    ],
+    "category": [
+        "Military",
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 30000000,
+            "description": ""
+        },
+        {
+            "value": 88000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 25000,
+            "description": ""
+        }
+    ],
+    "acf": [
+        {
+            "value": "11.25 ms",
+            "description": ""
+        }
+    ],
+    "modulation": [
+        {
+            "value": "FSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "FM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

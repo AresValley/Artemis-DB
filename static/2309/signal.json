@@ -1,0 +1,48 @@
+{
+    "pageid": "2309",
+    "title": "Dual Tone Multi Frequency (DTMF)",
+    "spectrum": [
+        "DTMF tones.png"
+    ],
+    "audio": [
+        "dtmf.mp3"
+    ],
+    "category": [
+        "Analogue"
+    ],
+    "frequency": [
+        {
+            "value": 30000000,
+            "description": ""
+        },
+        {
+            "value": 800000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 3300,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "MFSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "NFM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

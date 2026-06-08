@@ -1,0 +1,44 @@
+{
+    "pageid": "4191",
+    "title": "BALDR Weather Sensor Telemetry",
+    "spectrum": [
+        "OOK SDR Sharp.PNG"
+    ],
+    "audio": [
+        "SDRSharp 20170218 155836Z 434675400Hz AF.wav"
+    ],
+    "category": [
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 434675400,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 12500,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "FM-P",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "FM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

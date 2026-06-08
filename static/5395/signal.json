@@ -1,0 +1,40 @@
+{
+    "pageid": "5395",
+    "title": "GRAVES",
+    "spectrum": [
+        "GRAVES.png"
+    ],
+    "audio": [
+        "Gqrx 20190519 090112 143050200.ogg"
+    ],
+    "category": [
+        "Military",
+        "Radar"
+    ],
+    "frequency": [
+        {
+            "value": 143050000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 1000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [],
+    "mode": [
+        {
+            "value": "RAW I/Q",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "France",
+            "description": ""
+        }
+    ]
+}

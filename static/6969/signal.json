@@ -1,0 +1,50 @@
+{
+    "pageid": "6969",
+    "title": "Aprizesat",
+    "spectrum": [
+        "AprizesatWF.png"
+    ],
+    "audio": [
+        "Aprizesat.mp3"
+    ],
+    "category": [
+        "Commercial",
+        "Satellite",
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 400500000,
+            "description": ""
+        },
+        {
+            "value": 400650000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 5000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "GMSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

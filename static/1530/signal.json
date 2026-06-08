@@ -1,0 +1,49 @@
+{
+    "pageid": "1530",
+    "title": "CIS MFSK-20 XPA",
+    "spectrum": [
+        "XPA10.png"
+    ],
+    "audio": [
+        "XPA10.mp3"
+    ],
+    "category": [
+        "Numbers Stations",
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 3000000,
+            "description": ""
+        },
+        {
+            "value": 30000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 800,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "MFSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Russia",
+            "description": ""
+        }
+    ]
+}

@@ -1,0 +1,70 @@
+{
+    "pageid": "6099",
+    "title": "Soyuz-MS spacecraft telemetry",
+    "spectrum": [
+        "Souz166.JPG"
+    ],
+    "audio": [
+        "Souz166Sound.mp3"
+    ],
+    "category": [],
+    "frequency": [
+        {
+            "value": 166000000,
+            "description": ""
+        },
+        {
+            "value": 626000000,
+            "description": ""
+        },
+        {
+            "value": 628000000,
+            "description": ""
+        },
+        {
+            "value": 630000000,
+            "description": ""
+        },
+        {
+            "value": 631000000,
+            "description": ""
+        },
+        {
+            "value": 632000000,
+            "description": ""
+        },
+        {
+            "value": 634000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 250000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "PCM",
+            "description": ""
+        },
+        {
+            "value": "FM",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

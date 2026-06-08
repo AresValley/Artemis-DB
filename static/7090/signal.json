@@ -1,0 +1,45 @@
+{
+    "pageid": "7090",
+    "title": "AIST 2D",
+    "spectrum": [
+        "AIST2D.png"
+    ],
+    "audio": [
+        "AIST-2D.mp3"
+    ],
+    "category": [
+        "Satellite",
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 435315000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 10000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "PM/PCM",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "NFM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

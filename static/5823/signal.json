@@ -1,0 +1,61 @@
+{
+    "pageid": "5823",
+    "title": "HDMI RFI Clock",
+    "spectrum": [
+        "HDMI clock 4rd.png"
+    ],
+    "audio": [],
+    "category": [
+        "Interfering"
+    ],
+    "frequency": [
+        {
+            "value": 148350000,
+            "description": ""
+        },
+        {
+            "value": 148500000,
+            "description": ""
+        },
+        {
+            "value": 296700000,
+            "description": ""
+        },
+        {
+            "value": 297000000,
+            "description": ""
+        },
+        {
+            "value": 445500000,
+            "description": ""
+        },
+        {
+            "value": 742500000,
+            "description": ""
+        },
+        {
+            "value": 445050000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 700000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [],
+    "mode": [
+        {
+            "value": "AM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

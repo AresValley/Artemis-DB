@@ -1,0 +1,43 @@
+{
+    "pageid": "2623",
+    "title": "High Speed USB Noise",
+    "spectrum": [
+        "USB noise.png"
+    ],
+    "audio": [
+        "USB_Noise.mp3"
+    ],
+    "category": [
+        "Interfering"
+    ],
+    "frequency": [
+        {
+            "value": 480000000,
+            "description": ""
+        },
+        {
+            "value": 960000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 200000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [],
+    "mode": [
+        {
+            "value": "RAW",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

@@ -1,0 +1,65 @@
+{
+    "pageid": "1229",
+    "title": "CIS-1280",
+    "spectrum": [
+        "CIS-1280.jpg"
+    ],
+    "audio": [
+        "CIS-1280.mp3"
+    ],
+    "category": [
+        "Military",
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 9058000,
+            "description": ""
+        },
+        {
+            "value": 7663000,
+            "description": ""
+        },
+        {
+            "value": 5752000,
+            "description": ""
+        },
+        {
+            "value": 13369000,
+            "description": ""
+        },
+        {
+            "value": 3000000,
+            "description": ""
+        },
+        {
+            "value": 13000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 1280,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "PSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Russia",
+            "description": ""
+        }
+    ]
+}

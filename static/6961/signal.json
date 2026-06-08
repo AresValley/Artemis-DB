@@ -1,0 +1,44 @@
+{
+    "pageid": "6961",
+    "title": "Spectrum Painting",
+    "spectrum": [
+        "Spectrum paint.jpg"
+    ],
+    "audio": [],
+    "category": [],
+    "frequency": [
+        {
+            "value": 2000000,
+            "description": ""
+        },
+        {
+            "value": 10000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 4000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "OFDM",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB, LSB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

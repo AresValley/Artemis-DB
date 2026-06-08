@@ -1,0 +1,48 @@
+{
+    "pageid": "8433",
+    "title": "Chinese/Asian radio \"MDC1200\"",
+    "spectrum": [
+        "Fakemdc1200.png"
+    ],
+    "audio": [
+        "Audio 446070200Hz 17-25-07 13-03-2026.wav"
+    ],
+    "category": [
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 136000000,
+            "description": ""
+        },
+        {
+            "value": 470000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 16000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "FFSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "FM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "WORLDWIDE",
+            "description": ""
+        }
+    ]
+}

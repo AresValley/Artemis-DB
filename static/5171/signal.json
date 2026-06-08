@@ -1,0 +1,50 @@
+{
+    "pageid": "5171",
+    "title": "IMet-1 RS Radiosonde",
+    "spectrum": [
+        "WhatsApp Image 2018-12-29 at 21.08.30 (2).jpeg"
+    ],
+    "audio": [
+        "Untitled (mp3cut.net).mp3"
+    ],
+    "category": [],
+    "frequency": [
+        {
+            "value": 402000000,
+            "description": ""
+        },
+        {
+            "value": 406000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 10,
+            "description": ""
+        },
+        {
+            "value": 0,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "AFSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "NFM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Israel, Belgium, United States, South Africa",
+            "description": ""
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "pageid": "8159",
+    "title": "SECOR 4 (EGRS 4)",
+    "spectrum": [
+        "SECOR waterfall.jpg"
+    ],
+    "audio": [
+        "Audio 136846899Hz 17-26-30 24-08-2025.mp3"
+    ],
+    "category": [
+        "Satellite",
+        "Military",
+        "Analogue"
+    ],
+    "frequency": [
+        {
+            "value": 136845200,
+            "description": ""
+        },
+        {
+            "value": 136845000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 2000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "IRIG",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": []
+}

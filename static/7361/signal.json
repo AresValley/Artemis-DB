@@ -1,0 +1,34 @@
+{
+    "pageid": "7361",
+    "title": "Induction cooker interference",
+    "spectrum": [
+        "Induction cooker pwr5 A.png"
+    ],
+    "audio": [
+        "Induction cooker pwr5 USB.ogg"
+    ],
+    "category": [
+        "Interfering"
+    ],
+    "frequency": [],
+    "bandwidth": [],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "OOK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

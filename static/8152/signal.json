@@ -1,0 +1,52 @@
+{
+    "pageid": "8152",
+    "title": "802.11ah",
+    "spectrum": [],
+    "audio": [],
+    "category": [
+        "Digital",
+        "Utility"
+    ],
+    "frequency": [
+        {
+            "value": 750000000,
+            "description": ""
+        },
+        {
+            "value": 928000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 1000000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "ODFM",
+            "description": ""
+        },
+        {
+            "value": "BPSK",
+            "description": ""
+        },
+        {
+            "value": "QPSK",
+            "description": ""
+        },
+        {
+            "value": "QAM",
+            "description": ""
+        }
+    ],
+    "mode": [],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

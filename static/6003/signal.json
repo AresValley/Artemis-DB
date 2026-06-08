@@ -1,0 +1,39 @@
+{
+    "pageid": "6003",
+    "title": "Snap Circuits SCROV-10 Remote Control",
+    "spectrum": [
+        "SCROV-10.png"
+    ],
+    "audio": [
+        "SCROV-10-Audio.mp3"
+    ],
+    "category": [
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 27145000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 6000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "ASK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "RAW",
+            "description": ""
+        }
+    ],
+    "location": []
+}

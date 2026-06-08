@@ -1,0 +1,54 @@
+{
+    "pageid": "960",
+    "title": "Slow-Scan Television (SSTV)",
+    "spectrum": [
+        "Robot_36waterfall.jpg"
+    ],
+    "audio": [
+        "Robot_36_prev.mp3"
+    ],
+    "category": [
+        "Amateur Radio",
+        "Analogue"
+    ],
+    "frequency": [
+        {
+            "value": 3000000,
+            "description": ""
+        },
+        {
+            "value": 450000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 3000,
+            "description": ""
+        }
+    ],
+    "acf": [
+        {
+            "value": "Line per minute.",
+            "description": ""
+        }
+    ],
+    "modulation": [
+        {
+            "value": "FM",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB, LSB, NFM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "pageid": "6574",
+    "title": "Tactical Air Navigation System (TACAN)",
+    "spectrum": [
+        "TACAN.png"
+    ],
+    "audio": [
+        "SDRSharp 20220206 222358Z 1205000000Hz AF.wav"
+    ],
+    "category": [
+        "Aviation",
+        "Navigation",
+        "Military"
+    ],
+    "frequency": [
+        {
+            "value": 1213000000,
+            "description": ""
+        },
+        {
+            "value": 960000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "PAM",
+            "description": ""
+        }
+    ],
+    "mode": [],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

@@ -1,0 +1,60 @@
+{
+    "pageid": "7985",
+    "title": "F03 numbers station",
+    "spectrum": [
+        "F03l.png"
+    ],
+    "audio": [
+        "F03l.mp3"
+    ],
+    "category": [
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 4000000,
+            "description": ""
+        },
+        {
+            "value": 21000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 200,
+            "description": ""
+        },
+        {
+            "value": 400,
+            "description": ""
+        },
+        {
+            "value": 800,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "FSK",
+            "description": ""
+        },
+        {
+            "value": "MFSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide, Poland",
+            "description": ""
+        }
+    ]
+}

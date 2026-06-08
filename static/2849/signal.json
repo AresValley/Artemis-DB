@@ -1,0 +1,49 @@
+{
+    "pageid": "2849",
+    "title": "Interoperable Electronic Train Management System (I-ETMS)",
+    "spectrum": [
+        "I-ETMS.PNG"
+    ],
+    "audio": [
+        "I-ETMS USB.wav"
+    ],
+    "category": [
+        "Digital",
+        "Utility"
+    ],
+    "frequency": [
+        {
+            "value": 219000000,
+            "description": ""
+        },
+        {
+            "value": 222000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 2000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "GMSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "NFM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "US",
+            "description": ""
+        }
+    ]
+}

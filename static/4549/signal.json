@@ -1,0 +1,49 @@
+{
+    "pageid": "4549",
+    "title": "Denso 4EA Key Fob",
+    "spectrum": [
+        "HYQ4EA KeyFob.jpg"
+    ],
+    "audio": [
+        "Chev_AM_20170822_065138Z_433920672Hz_AF.mp3"
+    ],
+    "category": [
+        "Utility",
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 433920000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 15000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "AM",
+            "description": ""
+        },
+        {
+            "value": "ASK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "AM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

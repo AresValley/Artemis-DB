@@ -1,0 +1,35 @@
+{
+    "pageid": "4864",
+    "title": "NOV",
+    "spectrum": [
+        "TACAMO (2).jpg"
+    ],
+    "audio": [
+        "2018-02-27 04-59-38.mp3"
+    ],
+    "category": [
+        "Military",
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 26900,
+            "description": ""
+        }
+    ],
+    "bandwidth": [],
+    "acf": [],
+    "modulation": [],
+    "mode": [
+        {
+            "value": "CW",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

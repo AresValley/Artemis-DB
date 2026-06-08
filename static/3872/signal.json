@@ -1,0 +1,48 @@
+{
+    "pageid": "3872",
+    "title": "3G WCDMA",
+    "spectrum": [
+        "3GWCDMA.png"
+    ],
+    "audio": [
+        "WCDMA 3G.mp3"
+    ],
+    "category": [
+        "Digital",
+        "Commercial"
+    ],
+    "frequency": [
+        {
+            "value": 824000000,
+            "description": ""
+        },
+        {
+            "value": 2100000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 4200000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "QPSK",
+            "description": ""
+        },
+        {
+            "value": "BPSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "RAW, AM",
+            "description": ""
+        }
+    ],
+    "location": []
+}

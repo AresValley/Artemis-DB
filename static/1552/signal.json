@@ -1,0 +1,46 @@
+{
+    "pageid": "1552",
+    "title": "Distress Radiobeacon (Digital)",
+    "spectrum": [
+        "Epirb.jpg"
+    ],
+    "audio": [
+        "NFM_EPIRB.mp3"
+    ],
+    "category": [
+        "Digital",
+        "Marine",
+        "Aviation"
+    ],
+    "frequency": [
+        {
+            "value": 406000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 1400,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "PSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "NFM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

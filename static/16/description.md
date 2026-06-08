@@ -1,1 +1,0 @@
-Aist 2D is a Russian microsatellite developed and designed by a group of Samara Aerospace University students, postgraduates, and scientists in cooperation with TsSKB-Progress.

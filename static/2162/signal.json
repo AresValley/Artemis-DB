@@ -1,0 +1,48 @@
+{
+    "pageid": "2162",
+    "title": "Integrated Services Digital Broadcasting—Terrestrial (ISDB-T)",
+    "spectrum": [],
+    "audio": [],
+    "category": [
+        "Commercial"
+    ],
+    "frequency": [
+        {
+            "value": 470000000,
+            "description": ""
+        },
+        {
+            "value": 770000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 6000000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "QPSK",
+            "description": ""
+        },
+        {
+            "value": "64QAM",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "RAW",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Japan, Philippines, Argentina, Ecuador, Brazil",
+            "description": ""
+        }
+    ]
+}

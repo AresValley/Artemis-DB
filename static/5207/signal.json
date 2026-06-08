@@ -1,0 +1,44 @@
+{
+    "pageid": "5207",
+    "title": "WWVB",
+    "spectrum": [
+        "WWVB-1.png"
+    ],
+    "audio": [
+        "WWVB Signal 10s.mp3"
+    ],
+    "category": [
+        "Time"
+    ],
+    "frequency": [
+        {
+            "value": 60000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 1,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "ASK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "CW",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "United States",
+            "description": ""
+        }
+    ]
+}

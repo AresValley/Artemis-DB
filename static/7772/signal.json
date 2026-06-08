@@ -1,0 +1,53 @@
+{
+    "pageid": "7772",
+    "title": "Chinese-64 MFSK",
+    "spectrum": [
+        "Chinese-64 MFSK.png"
+    ],
+    "audio": [
+        "Chinese-64 MFSK 2025-02-02 14-30-42.mp3"
+    ],
+    "category": [
+        "Digital",
+        "Military"
+    ],
+    "frequency": [
+        {
+            "value": 12916000,
+            "description": ""
+        },
+        {
+            "value": 16989000,
+            "description": ""
+        },
+        {
+            "value": 3673000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 2500,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "MFSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB,LSB (rare)",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "China",
+            "description": ""
+        }
+    ]
+}

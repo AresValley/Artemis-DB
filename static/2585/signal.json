@@ -1,0 +1,50 @@
+{
+    "pageid": "2585",
+    "title": "1G (NMT) Nordic Mobile Telephone",
+    "spectrum": [
+        "NMT.jpg"
+    ],
+    "audio": [
+        "Nmt-450.mp3"
+    ],
+    "category": [
+        "Digital",
+        "Commercial",
+        "Analogue"
+    ],
+    "frequency": [
+        {
+            "value": 453000000,
+            "description": ""
+        },
+        {
+            "value": 960000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 25000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "FSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "NFM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

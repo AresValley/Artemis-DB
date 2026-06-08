@@ -1,0 +1,54 @@
+{
+    "pageid": "3034",
+    "title": "Israeli Navy Hybrid Modem (188-110 MOD)",
+    "spectrum": [
+        "Mil_Mod_Israeli.jpg"
+    ],
+    "audio": [
+        "ISR-NY_HYBRID.mp3"
+    ],
+    "category": [
+        "Military",
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 3000000,
+            "description": ""
+        },
+        {
+            "value": 30000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 2750,
+            "description": ""
+        }
+    ],
+    "acf": [
+        {
+            "value": "MIL-STD body:  66.6 ms",
+            "description": ""
+        }
+    ],
+    "modulation": [
+        {
+            "value": "PSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Israel",
+            "description": ""
+        }
+    ]
+}

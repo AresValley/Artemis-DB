@@ -1,0 +1,45 @@
+{
+    "pageid": "5607",
+    "title": "Electric Fence Remote Control",
+    "spectrum": [
+        "SIGNAL-LINSEG.png"
+    ],
+    "audio": [
+        "Linseg Remote Control Signal.mp3"
+    ],
+    "category": [
+        "Utility",
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 433920000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 10000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "AM",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "AM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

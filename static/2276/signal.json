@@ -1,0 +1,49 @@
+{
+    "pageid": "2276",
+    "title": "ICAO Selcal",
+    "spectrum": [
+        "ICAO Selcall sample.jpg"
+    ],
+    "audio": [
+        "hf aircraft.mp3"
+    ],
+    "category": [
+        "Aviation",
+        "Analogue"
+    ],
+    "frequency": [
+        {
+            "value": 300000000,
+            "description": ""
+        },
+        {
+            "value": 3000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 1500,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "MFSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

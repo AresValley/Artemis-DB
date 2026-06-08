@@ -1,0 +1,49 @@
+{
+    "pageid": "7662",
+    "title": "CIS FTM-4",
+    "spectrum": [
+        "Unknown pulsating 4 tones and FM.png"
+    ],
+    "audio": [
+        "Unknown pulsating 4 tones and FM signal USB wide.ogg"
+    ],
+    "category": [
+        "Military",
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 4000000,
+            "description": ""
+        },
+        {
+            "value": 20000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 13000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "MFSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Russia",
+            "description": ""
+        }
+    ]
+}

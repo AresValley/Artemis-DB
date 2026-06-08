@@ -1,0 +1,44 @@
+{
+    "pageid": "5204",
+    "title": "Jim Creek (NLK)",
+    "spectrum": [
+        "NLK.PNG"
+    ],
+    "audio": [
+        "NLK Signal 10s.mp3"
+    ],
+    "category": [
+        "Military"
+    ],
+    "frequency": [
+        {
+            "value": 24800,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 300,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "MSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "CW",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "United States",
+            "description": ""
+        }
+    ]
+}

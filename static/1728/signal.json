@@ -1,0 +1,40 @@
+{
+    "pageid": "1728",
+    "title": "Near Field Communication (NFC)",
+    "spectrum": [
+        "NFC.png"
+    ],
+    "audio": [
+        "RFID gambier OH.mp3"
+    ],
+    "category": [
+        "Digital",
+        "Commercial"
+    ],
+    "frequency": [
+        {
+            "value": 13560000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 1700000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "ASK",
+            "description": ""
+        }
+    ],
+    "mode": [],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

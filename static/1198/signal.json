@@ -1,0 +1,77 @@
+{
+    "pageid": "1198",
+    "title": "ARQ-E(E3)",
+    "spectrum": [
+        "ARQE3192Bd.png"
+    ],
+    "audio": [
+        "ARQ-E3_192_Baud.mp3"
+    ],
+    "category": [
+        "Military",
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 3000000,
+            "description": ""
+        },
+        {
+            "value": 30000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 85,
+            "description": ""
+        },
+        {
+            "value": 160,
+            "description": ""
+        },
+        {
+            "value": 170,
+            "description": ""
+        },
+        {
+            "value": 190,
+            "description": ""
+        },
+        {
+            "value": 340,
+            "description": ""
+        },
+        {
+            "value": 388,
+            "description": ""
+        },
+        {
+            "value": 400,
+            "description": ""
+        },
+        {
+            "value": 850,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "FSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

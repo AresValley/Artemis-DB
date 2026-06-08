@@ -1,0 +1,49 @@
+{
+    "pageid": "704",
+    "title": "Russian Diplo VFT PSK 64Bd",
+    "spectrum": [
+        "CIS_unk.jpg"
+    ],
+    "audio": [
+        "CIS_3xPSK_tfc.ogg"
+    ],
+    "category": [
+        "Digital",
+        "Numbers Stations"
+    ],
+    "frequency": [
+        {
+            "value": 4022000,
+            "description": ""
+        },
+        {
+            "value": 23131000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 2500,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "PSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Russia",
+            "description": ""
+        }
+    ]
+}

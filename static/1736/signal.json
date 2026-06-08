@@ -1,0 +1,58 @@
+{
+    "pageid": "1736",
+    "title": "RFID",
+    "spectrum": [
+        "13.56MHz_RFID_roomlock_card.jpg"
+    ],
+    "audio": [
+        "13.56MHz_RFID_roomlock_card.mp3"
+    ],
+    "category": [
+        "Digital",
+        "Commercial",
+        "Utility"
+    ],
+    "frequency": [
+        {
+            "value": 13560000,
+            "description": ""
+        },
+        {
+            "value": 125000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 3300,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "ASK",
+            "description": ""
+        },
+        {
+            "value": "FSK",
+            "description": ""
+        },
+        {
+            "value": "OOK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "RAW",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

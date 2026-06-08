@@ -1,10 +1,14 @@
 {
-    "signal": {
-        "name": "MIL-STD-188-110 Appendix A 16-Tone",
-        "url": "https://www.sigidwiki.com/wiki/MIL-STD-188-110_Appendix_A_16-Tone"
-    },
+    "pageid": "296",
+    "title": "SITOR-A",
+    "spectrum": [
+        "SITOR-A.jpg"
+    ],
+    "audio": [
+        "ARQ-AMTOR.mp3"
+    ],
     "category": [
-        "Military",
+        "Marine",
         "Digital"
     ],
     "frequency": [
@@ -19,18 +23,19 @@
     ],
     "bandwidth": [
         {
-            "value": 2100,
+            "value": 350,
             "description": ""
         }
     ],
-    "acf": [],
+    "acf": [
+        {
+            "value": "450 ms",
+            "description": ""
+        }
+    ],
     "modulation": [
         {
-            "value": "PSK",
-            "description": ""
-        },
-        {
-            "value": "OFDM",
+            "value": "FSK",
             "description": ""
         }
     ],

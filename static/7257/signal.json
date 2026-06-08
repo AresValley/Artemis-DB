@@ -1,0 +1,49 @@
+{
+    "pageid": "7257",
+    "title": "Chinese 'Foghorn' OTH radar",
+    "spectrum": [
+        "Foghorn radar 67Hz 3.png"
+    ],
+    "audio": [
+        "Foghorn radar 67Hz 1 USB.ogg"
+    ],
+    "category": [
+        "Radar",
+        "Military"
+    ],
+    "frequency": [
+        {
+            "value": 6000000,
+            "description": ""
+        },
+        {
+            "value": 29000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 10000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "FMCW",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "China, Worldwide",
+            "description": ""
+        }
+    ]
+}

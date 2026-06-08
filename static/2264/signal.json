@@ -1,0 +1,49 @@
+{
+    "pageid": "2264",
+    "title": "FLASH-OFDM",
+    "spectrum": [
+        "FLASH-OFDM.png"
+    ],
+    "audio": [
+        "Flash-OFDM.mp3"
+    ],
+    "category": [
+        "Commercial",
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 461310000,
+            "description": ""
+        },
+        {
+            "value": 465730000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 2000000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "MC-CDMA",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "AM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Finland, Slovakia, Germany, United States",
+            "description": ""
+        }
+    ]
+}

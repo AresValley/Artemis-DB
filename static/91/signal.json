@@ -1,44 +1,56 @@
 {
-    "signal": {
-        "name": "CIS-3000",
-        "url": "https://www.sigidwiki.com/wiki/CIS-3000"
-    },
+    "pageid": "91",
+    "title": "Automatic Picture Transmission (APT)",
+    "spectrum": [
+        "APT_NOAA.jpg"
+    ],
+    "audio": [
+        "NOAA-19APT.mp3"
+    ],
     "category": [
-        "Military",
-        "Digital"
+        "Satellite",
+        "Analogue"
     ],
     "frequency": [
         {
-            "value": 3000000,
+            "value": 137100000,
             "description": ""
         },
         {
-            "value": 30000000,
+            "value": 137620000,
+            "description": ""
+        },
+        {
+            "value": 137912500,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 3400,
+            "value": 34000,
             "description": ""
         }
     ],
     "acf": [],
     "modulation": [
         {
-            "value": "PSK",
+            "value": "AM",
+            "description": ""
+        },
+        {
+            "value": "FM",
             "description": ""
         }
     ],
     "mode": [
         {
-            "value": "USB",
+            "value": "AM, FM",
             "description": ""
         }
     ],
     "location": [
         {
-            "value": "Russia",
+            "value": "Worldwide",
             "description": ""
         }
     ]

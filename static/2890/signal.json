@@ -1,0 +1,53 @@
+{
+    "pageid": "2890",
+    "title": "North Korean Diplo FSK",
+    "spectrum": [
+        "DPRK ARQ.jpg"
+    ],
+    "audio": [
+        "KRE_FSK-BURST.mp3"
+    ],
+    "category": [
+        "Digital",
+        "Numbers Stations"
+    ],
+    "frequency": [
+        {
+            "value": 9000000,
+            "description": ""
+        },
+        {
+            "value": 29000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 1200,
+            "description": ""
+        },
+        {
+            "value": 1400,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "FSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "North Korea",
+            "description": ""
+        }
+    ]
+}

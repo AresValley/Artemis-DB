@@ -1,0 +1,45 @@
+{
+    "pageid": "8557",
+    "title": "AUDI keyfob",
+    "spectrum": [
+        "Audi keyfob.jpg"
+    ],
+    "audio": [
+        "Audi_keyfob.mp3"
+    ],
+    "category": [
+        "Digital",
+        "Utility"
+    ],
+    "frequency": [
+        {
+            "value": 868300000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 250000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "FSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "RAW",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Europe",
+            "description": ""
+        }
+    ]
+}

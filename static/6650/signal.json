@@ -1,0 +1,56 @@
+{
+    "pageid": "6650",
+    "title": "RDL VLF",
+    "spectrum": [
+        "RDL FSK.PNG"
+    ],
+    "audio": [
+        "RDL FSK audio.mp3"
+    ],
+    "category": [
+        "Military"
+    ],
+    "frequency": [
+        {
+            "value": 18100,
+            "description": ""
+        },
+        {
+            "value": 21100,
+            "description": ""
+        },
+        {
+            "value": 27300,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 300,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "FSK",
+            "description": ""
+        },
+        {
+            "value": "CW-FSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "CW",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Russia",
+            "description": ""
+        }
+    ]
+}

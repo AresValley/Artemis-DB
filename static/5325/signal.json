@@ -1,0 +1,29 @@
+{
+    "pageid": "5325",
+    "title": "High Power Auroral Stimulation (HIPAS)",
+    "spectrum": [],
+    "audio": [],
+    "category": [
+        "Radar"
+    ],
+    "frequency": [
+        {
+            "value": 2850000,
+            "description": ""
+        },
+        {
+            "value": 4530000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [],
+    "acf": [],
+    "modulation": [],
+    "mode": [],
+    "location": [
+        {
+            "value": "United States",
+            "description": ""
+        }
+    ]
+}

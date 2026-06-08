@@ -1,0 +1,52 @@
+{
+    "pageid": "2548",
+    "title": "EFR Teleswitch",
+    "spectrum": [
+        "EFR_Teleswitch.jpg"
+    ],
+    "audio": [
+        "EFR_Teleswitch.mp3"
+    ],
+    "category": [
+        "Utility"
+    ],
+    "frequency": [
+        {
+            "value": 135600,
+            "description": ""
+        },
+        {
+            "value": 139900,
+            "description": ""
+        },
+        {
+            "value": 129100,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 1000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "FSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Europe",
+            "description": ""
+        }
+    ]
+}

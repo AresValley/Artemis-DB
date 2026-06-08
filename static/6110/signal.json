@@ -1,0 +1,58 @@
+{
+    "pageid": "6110",
+    "title": "1G Advanced Mobile Phone System (AMPS)",
+    "spectrum": [
+        "AmpsCC.png"
+    ],
+    "audio": [
+        "Amps cell broadcast decreasedVOL.wav"
+    ],
+    "category": [
+        "Commercial",
+        "Analogue",
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 824000000,
+            "description": ""
+        },
+        {
+            "value": 894000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 30000,
+            "description": ""
+        },
+        {
+            "value": 10000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "FM",
+            "description": ""
+        },
+        {
+            "value": "FSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "NFM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

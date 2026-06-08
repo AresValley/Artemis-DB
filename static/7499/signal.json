@@ -1,0 +1,52 @@
+{
+    "pageid": "7499",
+    "title": "SKiYMET meteor radar",
+    "spectrum": [
+        "Pulsed low VHF radar 640Hz 1.png"
+    ],
+    "audio": [
+        "Pulsed low VHF radar 640Hz.ogg"
+    ],
+    "category": [
+        "Radar"
+    ],
+    "frequency": [
+        {
+            "value": 29000000,
+            "description": ""
+        },
+        {
+            "value": 40000000,
+            "description": ""
+        },
+        {
+            "value": 36200000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 160000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "Pulsed",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "AM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

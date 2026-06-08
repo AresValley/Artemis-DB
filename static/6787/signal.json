@@ -1,0 +1,43 @@
+{
+    "pageid": "6787",
+    "title": "PROBA 1/2 Downlink",
+    "spectrum": [
+        "Schermata del 2022-12-26 12-20-13.png"
+    ],
+    "audio": [],
+    "category": [
+        "Satellite",
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 2235000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 4000000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "BPSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "RAW",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Europe",
+            "description": ""
+        }
+    ]
+}

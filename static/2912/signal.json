@@ -1,0 +1,60 @@
+{
+    "pageid": "2912",
+    "title": "North Korean Diplo PSK",
+    "spectrum": [
+        "DPRK 1200bd.jpg"
+    ],
+    "audio": [
+        "KRE-PSK1200.mp3"
+    ],
+    "category": [
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 9000000,
+            "description": ""
+        },
+        {
+            "value": 29000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 1200,
+            "description": ""
+        },
+        {
+            "value": 300,
+            "description": ""
+        },
+        {
+            "value": 600,
+            "description": ""
+        },
+        {
+            "value": 2400,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "PSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "North Korea",
+            "description": ""
+        }
+    ]
+}

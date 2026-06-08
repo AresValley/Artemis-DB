@@ -1,0 +1,57 @@
+{
+    "pageid": "6493",
+    "title": "LoRa",
+    "spectrum": [
+        "LORA 2.JPG"
+    ],
+    "audio": [
+        "LORA.mp3"
+    ],
+    "category": [
+        "Commercial",
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 433000000,
+            "description": ""
+        },
+        {
+            "value": 863000000,
+            "description": ""
+        },
+        {
+            "value": 870000000,
+            "description": ""
+        },
+        {
+            "value": 915000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 250000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "CSS",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "FM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

@@ -1,0 +1,62 @@
+{
+    "pageid": "6814",
+    "title": "SkyOFDM",
+    "spectrum": [
+        "SkyOFDM.png"
+    ],
+    "audio": [
+        "SkyOFDM-short.mp3"
+    ],
+    "category": [
+        "Digital",
+        "Military"
+    ],
+    "frequency": [
+        {
+            "value": 3000000,
+            "description": ""
+        },
+        {
+            "value": 30000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 2000,
+            "description": ""
+        },
+        {
+            "value": 2400,
+            "description": ""
+        }
+    ],
+    "acf": [
+        {
+            "value": "76.2 ms, 78 ms, 113.4 ms",
+            "description": ""
+        }
+    ],
+    "modulation": [
+        {
+            "value": "PSK",
+            "description": ""
+        },
+        {
+            "value": "OFDM",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Finland",
+            "description": ""
+        }
+    ]
+}

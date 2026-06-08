@@ -1,41 +1,33 @@
 {
-    "signal": {
-        "name": "IRA-ARQ",
-        "url": "https://www.sigidwiki.com/wiki/IRA-ARQ"
-    },
+    "pageid": "236",
+    "title": "ISM Band Weather sensor",
+    "spectrum": [
+        "Alecto_wxthmb.png"
+    ],
+    "audio": [
+        "Alecto_wx.mp3"
+    ],
     "category": [
-        "Digital"
+        "Digital",
+        "Utility"
     ],
     "frequency": [
         {
-            "value": 3000000,
-            "description": ""
-        },
-        {
-            "value": 30000000,
+            "value": 433000000,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 650,
-            "description": ""
-        },
-        {
-            "value": 1350,
+            "value": 4400,
             "description": ""
         }
     ],
     "acf": [],
-    "modulation": [
-        {
-            "value": "FSK",
-            "description": ""
-        }
-    ],
+    "modulation": [],
     "mode": [
         {
-            "value": "USB",
+            "value": "AM",
             "description": ""
         }
     ],

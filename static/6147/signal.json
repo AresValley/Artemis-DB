@@ -1,0 +1,53 @@
+{
+    "pageid": "6147",
+    "title": "B-Netz",
+    "spectrum": [
+        "Bnetz2.png"
+    ],
+    "audio": [
+        "Bnetz cell broadcast.wav"
+    ],
+    "category": [
+        "Commercial"
+    ],
+    "frequency": [
+        {
+            "value": 148000000,
+            "description": ""
+        },
+        {
+            "value": 153000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 12500,
+            "description": ""
+        }
+    ],
+    "acf": [
+        {
+            "value": "150ms",
+            "description": ""
+        }
+    ],
+    "modulation": [
+        {
+            "value": "FSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "FM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Europe",
+            "description": ""
+        }
+    ]
+}

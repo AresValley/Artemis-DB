@@ -1,0 +1,50 @@
+{
+    "pageid": "1856",
+    "title": "Kiwi",
+    "spectrum": [
+        "Kiwi_thumb.jpg"
+    ],
+    "audio": [
+        "137 050 kiwi.mp3"
+    ],
+    "category": [
+        "Digital",
+        "Utility",
+        "Aviation"
+    ],
+    "frequency": [
+        {
+            "value": 137950000,
+            "description": ""
+        },
+        {
+            "value": 138500000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 12500,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "FSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "NFM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "France",
+            "description": ""
+        }
+    ]
+}

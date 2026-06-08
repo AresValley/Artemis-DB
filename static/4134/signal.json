@@ -1,0 +1,60 @@
+{
+    "pageid": "4134",
+    "title": "Emergency Managers Weather Information Network (EMWIN) - Repeater",
+    "spectrum": [
+        "EMWIN.png"
+    ],
+    "audio": [
+        "Unknown163.mp3"
+    ],
+    "category": [
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 163325000,
+            "description": ""
+        },
+        {
+            "value": 163350000,
+            "description": ""
+        },
+        {
+            "value": 168812500,
+            "description": ""
+        },
+        {
+            "value": 168712500,
+            "description": ""
+        },
+        {
+            "value": 163300000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 20000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "AFSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "NFM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "United States",
+            "description": ""
+        }
+    ]
+}

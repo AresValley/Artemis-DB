@@ -1,0 +1,44 @@
+{
+    "pageid": "6855",
+    "title": "Chilean Naval Time Signal",
+    "spectrum": [
+        "ChileanTimeSignal.png"
+    ],
+    "audio": [
+        "ChileTimeSignal.wav"
+    ],
+    "category": [
+        "Time"
+    ],
+    "frequency": [
+        {
+            "value": 148125000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 12500,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "FM",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "NFM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Chile",
+            "description": ""
+        }
+    ]
+}

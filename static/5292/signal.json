@@ -1,0 +1,48 @@
+{
+    "pageid": "5292",
+    "title": "Bluetooth Low Energy",
+    "spectrum": [
+        "BLE.jpg"
+    ],
+    "audio": [
+        "BLE smart bracelet.mp3"
+    ],
+    "category": [
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 2402000000,
+            "description": ""
+        },
+        {
+            "value": 2480000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 2000000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "GFSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "AM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

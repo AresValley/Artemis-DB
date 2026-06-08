@@ -1,0 +1,34 @@
+{
+    "pageid": "6804",
+    "title": "Russian OTH 'Ghadir' type",
+    "spectrum": [
+        "OTHIQ.png"
+    ],
+    "audio": [
+        "202303-05-0.mp3"
+    ],
+    "category": [
+        "Radar"
+    ],
+    "frequency": [
+        {
+            "value": 28600000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [],
+    "acf": [],
+    "modulation": [],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Russia",
+            "description": ""
+        }
+    ]
+}

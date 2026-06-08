@@ -1,1 +1,0 @@
-GOES HRIT is a retransmission of satellite imagery and other information from the GOES-R series of satellites.

@@ -1,0 +1,49 @@
+{
+    "pageid": "867",
+    "title": "FSK441",
+    "spectrum": [
+        "FSK441.jpg"
+    ],
+    "audio": [
+        "FSK441Burst.mp3"
+    ],
+    "category": [
+        "Amateur Radio",
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 144000000,
+            "description": ""
+        },
+        {
+            "value": 444000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 1750,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "FSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

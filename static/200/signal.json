@@ -1,24 +1,68 @@
 {
-    "signal": {
-        "name": "GYN2 GBR",
-        "url": "https://www.sigidwiki.com/wiki/GYN2_GBR"
-    },
+    "pageid": "200",
+    "title": "Multi Frequency Shift Keying (MFSK)",
+    "spectrum": [
+        "MFSK_8_thmb.jpg"
+    ],
+    "audio": [
+        "MFSK_16.mp3"
+    ],
     "category": [
-        "Military"
+        "Amateur Radio",
+        "Digital"
     ],
     "frequency": [
         {
-            "value": 81000,
+            "value": 3000000,
+            "description": ""
+        },
+        {
+            "value": 30000000,
             "description": ""
         }
     ],
-    "bandwidth": [],
+    "bandwidth": [
+        {
+            "value": 154,
+            "description": ""
+        },
+        {
+            "value": 218,
+            "description": ""
+        },
+        {
+            "value": 316,
+            "description": ""
+        },
+        {
+            "value": 330,
+            "description": ""
+        },
+        {
+            "value": 435,
+            "description": ""
+        },
+        {
+            "value": 630,
+            "description": ""
+        }
+    ],
     "acf": [],
-    "modulation": [],
-    "mode": [],
+    "modulation": [
+        {
+            "value": "MFSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
     "location": [
         {
-            "value": "United Kingdom",
+            "value": "Worldwide",
             "description": ""
         }
     ]

@@ -1,0 +1,54 @@
+{
+    "pageid": "2831",
+    "title": "Polish Intelligence 100bd 625Hz FSK",
+    "spectrum": [
+        "F11.png"
+    ],
+    "audio": [
+        "POL-2015-04-29-0845utc.mp3"
+    ],
+    "category": [
+        "Digital",
+        "Numbers Stations"
+    ],
+    "frequency": [
+        {
+            "value": 4000000,
+            "description": ""
+        },
+        {
+            "value": 20000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 3500,
+            "description": ""
+        }
+    ],
+    "acf": [
+        {
+            "value": "Primary: 960 ms, Secondary: 160 ms",
+            "description": ""
+        }
+    ],
+    "modulation": [
+        {
+            "value": "FSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Poland",
+            "description": ""
+        }
+    ]
+}

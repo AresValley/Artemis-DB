@@ -1,0 +1,43 @@
+{
+    "pageid": "5999",
+    "title": "DisplayPort Interference",
+    "spectrum": [
+        "DP interference.png"
+    ],
+    "audio": [
+        "SDRSharp 20200916 023725Z 380480000Hz AF.mp3"
+    ],
+    "category": [
+        "Interfering"
+    ],
+    "frequency": [
+        {
+            "value": 381500000,
+            "description": ""
+        },
+        {
+            "value": 159557500,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 250000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [],
+    "mode": [
+        {
+            "value": "RAW",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

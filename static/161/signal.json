@@ -1,35 +1,33 @@
 {
-    "signal": {
-        "name": "EFR Teleswitch",
-        "url": "https://www.sigidwiki.com/wiki/EFR_Teleswitch"
-    },
+    "pageid": "161",
+    "title": "FUNcube-1 Telemetry",
+    "spectrum": [
+        "FUNcube.jpg"
+    ],
+    "audio": [
+        "Funcube1_Sound.mp3"
+    ],
     "category": [
-        "Utility"
+        "Amateur Radio",
+        "Satellite",
+        "Digital"
     ],
     "frequency": [
         {
-            "value": 135600,
-            "description": ""
-        },
-        {
-            "value": 139900,
-            "description": ""
-        },
-        {
-            "value": 129100,
+            "value": 145935000,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 1000,
+            "value": 2000,
             "description": ""
         }
     ],
     "acf": [],
     "modulation": [
         {
-            "value": "FSK",
+            "value": "PSK",
             "description": ""
         }
     ],
@@ -41,7 +39,7 @@
     ],
     "location": [
         {
-            "value": "Europe",
+            "value": "Worldwide",
             "description": ""
         }
     ]

@@ -1,0 +1,65 @@
+{
+    "pageid": "5803",
+    "title": "Relocatable Over-the-Horizon Radar (ROTHR)",
+    "spectrum": [
+        "UnknownHF.PNG"
+    ],
+    "audio": [
+        "SDRSharp 20170713 012801Z 14517079Hz AF (mp3cut.net).mp3"
+    ],
+    "category": [
+        "Radar",
+        "Military"
+    ],
+    "frequency": [
+        {
+            "value": 5000000,
+            "description": ""
+        },
+        {
+            "value": 28000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 4000,
+            "description": ""
+        },
+        {
+            "value": 8000,
+            "description": ""
+        },
+        {
+            "value": 16000,
+            "description": ""
+        },
+        {
+            "value": 50000,
+            "description": ""
+        },
+        {
+            "value": 100000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "FMCW",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "United States",
+            "description": ""
+        }
+    ]
+}

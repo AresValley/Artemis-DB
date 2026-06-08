@@ -1,0 +1,39 @@
+{
+    "pageid": "5472",
+    "title": "Wireless Hydrophone System (WHS)",
+    "spectrum": [
+        "Výstřižek.PNG"
+    ],
+    "audio": [
+        "Video.mp3"
+    ],
+    "category": [
+        "Utility"
+    ],
+    "frequency": [
+        {
+            "value": 434225000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "PPM",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "RAW",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Europe",
+            "description": ""
+        }
+    ]
+}

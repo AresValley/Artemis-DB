@@ -1,0 +1,56 @@
+{
+    "pageid": "4875",
+    "title": "Radioteknicheskaya Systema Dalney Navigatsii (RSDN-20)",
+    "spectrum": [
+        "Rsdn.PNG"
+    ],
+    "audio": [
+        "AF 24DEC2015 073110z942 RSDN20 11900.mp3"
+    ],
+    "category": [
+        "Navigation",
+        "Military"
+    ],
+    "frequency": [
+        {
+            "value": 11910,
+            "description": ""
+        },
+        {
+            "value": 12090,
+            "description": ""
+        },
+        {
+            "value": 12650,
+            "description": ""
+        },
+        {
+            "value": 14880,
+            "description": ""
+        },
+        {
+            "value": 12040,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 20,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [],
+    "mode": [
+        {
+            "value": "CW",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Russia",
+            "description": ""
+        }
+    ]
+}

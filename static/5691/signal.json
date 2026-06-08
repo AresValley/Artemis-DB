@@ -1,0 +1,30 @@
+{
+    "pageid": "5691",
+    "title": "EasyPal Digital SSTV",
+    "spectrum": [
+        "Knipsel.JPG"
+    ],
+    "audio": [
+        "2020-12-04T18 30 38Z 3729.8kHz.wav"
+    ],
+    "category": [
+        "Amateur Radio",
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 3735000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [],
+    "acf": [],
+    "modulation": [],
+    "mode": [
+        {
+            "value": "LSB",
+            "description": ""
+        }
+    ],
+    "location": []
+}

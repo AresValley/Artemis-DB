@@ -1,0 +1,40 @@
+{
+    "pageid": "6584",
+    "title": "Digital Radio Mondiale Plus (DRM+)",
+    "spectrum": [],
+    "audio": [],
+    "category": [
+        "Digital",
+        "Commercial"
+    ],
+    "frequency": [
+        {
+            "value": 47000000,
+            "description": ""
+        },
+        {
+            "value": 230000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 100000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "OFDM",
+            "description": ""
+        }
+    ],
+    "mode": [],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

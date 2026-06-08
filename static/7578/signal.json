@@ -1,0 +1,44 @@
+{
+    "pageid": "7578",
+    "title": "Wireless Smart Utility Networks (Wi-SUN)",
+    "spectrum": [
+        "Waterf3.jpg"
+    ],
+    "audio": [
+        "Audio 927300000Hz 18-57-16 18-08-2024.mp3"
+    ],
+    "category": [
+        "Utility"
+    ],
+    "frequency": [
+        {
+            "value": 922500000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 260000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "GFSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "FM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Japan",
+            "description": ""
+        }
+    ]
+}

@@ -1,0 +1,62 @@
+{
+    "pageid": "6847",
+    "title": "COFDMTV",
+    "spectrum": [
+        "COFDMTV2.png"
+    ],
+    "audio": [
+        "mode13.wav"
+    ],
+    "category": [
+        "Digital"
+    ],
+    "frequency": [],
+    "bandwidth": [
+        {
+            "value": 1600,
+            "description": ""
+        },
+        {
+            "value": 2500,
+            "description": ""
+        },
+        {
+            "value": 2700,
+            "description": ""
+        },
+        {
+            "value": 3200,
+            "description": ""
+        },
+        {
+            "value": 2250,
+            "description": ""
+        },
+        {
+            "value": 2400,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "COFDM",
+            "description": ""
+        },
+        {
+            "value": "8-PSK",
+            "description": ""
+        },
+        {
+            "value": "QPSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "SSB,FM,AM",
+            "description": ""
+        }
+    ],
+    "location": []
+}

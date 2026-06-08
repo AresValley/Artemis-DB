@@ -1,0 +1,40 @@
+{
+    "pageid": "3975",
+    "title": "HORYU-4 Telemetry",
+    "spectrum": [
+        "HORYU-4 Telemetry Waterfall2.png"
+    ],
+    "audio": [
+        "HORYU-4_Telemetry.mp3"
+    ],
+    "category": [
+        "Satellite",
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 437375000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "BPSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

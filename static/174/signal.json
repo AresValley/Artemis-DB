@@ -1,42 +1,62 @@
 {
-    "signal": {
-        "name": "FLEX",
-        "url": "https://www.sigidwiki.com/wiki/FLEX"
-    },
+    "pageid": "174",
+    "title": "ISM Band device",
+    "spectrum": [
+        "ISMBandPowerMeter_Waterfallthmb.jpg"
+    ],
+    "audio": [
+        "ISMBandPowerMeter_Sound.mp3"
+    ],
     "category": [
         "Digital",
-        "Commercial"
+        "Utility"
     ],
     "frequency": [
         {
-            "value": 152600000,
+            "value": 900000000,
             "description": ""
         },
         {
-            "value": 931938000,
+            "value": 920000000,
+            "description": ""
+        },
+        {
+            "value": 315000000,
+            "description": ""
+        },
+        {
+            "value": 868000000,
+            "description": ""
+        },
+        {
+            "value": 433920000,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 5000,
+            "value": 20000,
             "description": ""
         }
     ],
     "acf": [],
     "modulation": [
         {
-            "value": "FSK",
+            "value": "ASK",
             "description": ""
         },
         {
-            "value": "4FSK",
+            "value": "OOK",
+            "description": ""
+        },
+        {
+            "value": "FSK",
             "description": ""
         }
     ],
     "mode": [
         {
-            "value": "NFM",
+            "value": "AM, NFM",
             "description": ""
         }
     ],

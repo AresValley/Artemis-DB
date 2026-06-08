@@ -1,0 +1,52 @@
+{
+    "pageid": "6833",
+    "title": "IS-54 D-AMPS",
+    "spectrum": [
+        "Screenshot 2025-02-04 205111.png"
+    ],
+    "audio": [
+        "D-AMPS.wav"
+    ],
+    "category": [
+        "Digital",
+        "Commercial"
+    ],
+    "frequency": [
+        {
+            "value": 824000000,
+            "description": ""
+        },
+        {
+            "value": 849000000,
+            "description": ""
+        },
+        {
+            "value": 869000000,
+            "description": ""
+        },
+        {
+            "value": 894000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 30000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "PSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "NFM",
+            "description": ""
+        }
+    ],
+    "location": []
+}

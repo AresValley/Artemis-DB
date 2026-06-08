@@ -1,0 +1,53 @@
+{
+    "pageid": "5454",
+    "title": "Duga radar",
+    "spectrum": [
+        "Duga3.png"
+    ],
+    "audio": [
+        "Sound clip of sound transmitted by DUGA-3.mp3"
+    ],
+    "category": [
+        "Military",
+        "Radar"
+    ],
+    "frequency": [
+        {
+            "value": 7000000,
+            "description": ""
+        },
+        {
+            "value": 19000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 40000,
+            "description": ""
+        },
+        {
+            "value": 800000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "BPSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "PM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Chernihiv/Chernobyl, Ukraine; Komsomolsk-on-Amur, Russia",
+            "description": ""
+        }
+    ]
+}

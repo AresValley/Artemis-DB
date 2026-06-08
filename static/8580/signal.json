@@ -1,0 +1,48 @@
+{
+    "pageid": "8580",
+    "title": "TV Satellite Telemetry",
+    "spectrum": [
+        "11GHz_telemetry.jpg"
+    ],
+    "audio": [
+        "Sat_telemetry.mp3"
+    ],
+    "category": [
+        "Digital",
+        "Commercial"
+    ],
+    "frequency": [
+        {
+            "value": 11700000000,
+            "description": ""
+        },
+        {
+            "value": 11702000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 200000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "CW",
+            "description": ""
+        },
+        {
+            "value": "FSK",
+            "description": ""
+        }
+    ],
+    "mode": [],
+    "location": [
+        {
+            "value": "Europe",
+            "description": ""
+        }
+    ]
+}

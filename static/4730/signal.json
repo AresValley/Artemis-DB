@@ -1,0 +1,55 @@
+{
+    "pageid": "4730",
+    "title": "NOAA POES High Resolution Picture Transmission (HRPT)",
+    "spectrum": [
+        "NOAA-HRPT-WF.png"
+    ],
+    "audio": [],
+    "category": [
+        "Satellite",
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 1698000000,
+            "description": ""
+        },
+        {
+            "value": 1702500000,
+            "description": ""
+        },
+        {
+            "value": 1707000000,
+            "description": ""
+        },
+        {
+            "value": 2247500000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 3000000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "PSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "RAW",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

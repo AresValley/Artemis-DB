@@ -1,0 +1,53 @@
+{
+    "pageid": "8333",
+    "title": "Quansheng UVK5 Digital Text Message",
+    "spectrum": [
+        "UVK5 Text Long2.png"
+    ],
+    "audio": [
+        "Quansheng UVK5 Text Message.mp3"
+    ],
+    "category": [
+        "Amateur Radio",
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 137000000,
+            "description": ""
+        },
+        {
+            "value": 480000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 12000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "AFSK",
+            "description": ""
+        },
+        {
+            "value": "FSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "FM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

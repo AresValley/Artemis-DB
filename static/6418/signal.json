@@ -1,0 +1,53 @@
+{
+    "pageid": "6418",
+    "title": "Digisonde",
+    "spectrum": [
+        "DigisondeCrop.png"
+    ],
+    "audio": [
+        "Digisonde.mp3"
+    ],
+    "category": [
+        "Radar"
+    ],
+    "frequency": [
+        {
+            "value": 500000,
+            "description": ""
+        },
+        {
+            "value": 30000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 30000,
+            "description": ""
+        }
+    ],
+    "acf": [
+        {
+            "value": "5ms, 10ms",
+            "description": ""
+        }
+    ],
+    "modulation": [
+        {
+            "value": "Pulsed",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "RAW",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

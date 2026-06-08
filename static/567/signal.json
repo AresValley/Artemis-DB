@@ -1,0 +1,44 @@
+{
+    "pageid": "567",
+    "title": "Morse Code (CW)",
+    "spectrum": [
+        "CW.jpg"
+    ],
+    "audio": [
+        "Cw_morse.mp3"
+    ],
+    "category": [
+        "Amateur Radio",
+        "Military"
+    ],
+    "frequency": [
+        {
+            "value": 3000,
+            "description": ""
+        },
+        {
+            "value": 250000000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "OOK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "CW",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

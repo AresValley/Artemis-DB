@@ -1,0 +1,81 @@
+{
+    "pageid": "7387",
+    "title": "Russian MFSK-OFDM-chirp hybrid modem",
+    "spectrum": [
+        "Unknown data mfsk sweep ofdm medium.png"
+    ],
+    "audio": [
+        "Unknown data mfsk sweep ofdm sample.ogg"
+    ],
+    "category": [
+        "Digital",
+        "Military"
+    ],
+    "frequency": [
+        {
+            "value": 12176000,
+            "description": ""
+        },
+        {
+            "value": 16257000,
+            "description": ""
+        },
+        {
+            "value": 16259000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 24000,
+            "description": ""
+        },
+        {
+            "value": 48000,
+            "description": ""
+        },
+        {
+            "value": 3000,
+            "description": ""
+        },
+        {
+            "value": 12000,
+            "description": ""
+        },
+        {
+            "value": 96000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "MFSK",
+            "description": ""
+        },
+        {
+            "value": "OFDM",
+            "description": ""
+        },
+        {
+            "value": "FM",
+            "description": ""
+        },
+        {
+            "value": "FMCW",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Russia, Worldwide",
+            "description": ""
+        }
+    ]
+}

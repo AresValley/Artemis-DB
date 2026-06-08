@@ -1,0 +1,49 @@
+{
+    "pageid": "1342",
+    "title": "JT6M",
+    "spectrum": [
+        "JT6M_sim.jpg"
+    ],
+    "audio": [
+        "JT6M_simulated.mp3"
+    ],
+    "category": [
+        "Digital",
+        "Amateur Radio"
+    ],
+    "frequency": [
+        {
+            "value": 50250000,
+            "description": ""
+        },
+        {
+            "value": 50215000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 1000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "MFSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

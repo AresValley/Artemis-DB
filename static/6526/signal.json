@@ -1,0 +1,45 @@
+{
+    "pageid": "6526",
+    "title": "Rain Master sprinkler control",
+    "spectrum": [
+        "154_600.png"
+    ],
+    "audio": [
+        "1546000Tone_1.mp3"
+    ],
+    "category": [
+        "Utility",
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 154600000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 12000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "FSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "FM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

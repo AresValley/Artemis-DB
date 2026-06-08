@@ -1,0 +1,51 @@
+{
+    "pageid": "7035",
+    "title": "GOES Rebroadcast (GRB)",
+    "spectrum": [],
+    "audio": [
+        "Audio 1687100000Hz 14-48-18 09-12-2023.wav"
+    ],
+    "category": [
+        "Satellite",
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 1681600000,
+            "description": ""
+        },
+        {
+            "value": 1686600000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 10000000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "QPSK16",
+            "description": ""
+        },
+        {
+            "value": "8PSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "DVB-S2, RAW",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

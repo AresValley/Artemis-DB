@@ -1,0 +1,69 @@
+{
+    "pageid": "3567",
+    "title": "HFGCS (High Frequency Global Communications System)",
+    "spectrum": [
+        "11175 KHZ Crop Waterfall.png"
+    ],
+    "audio": [
+        "HFGCS 10.wav"
+    ],
+    "category": [
+        "Military",
+        "Aviation"
+    ],
+    "frequency": [
+        {
+            "value": 4724000,
+            "description": ""
+        },
+        {
+            "value": 6712000,
+            "description": ""
+        },
+        {
+            "value": 6739000,
+            "description": ""
+        },
+        {
+            "value": 8992000,
+            "description": ""
+        },
+        {
+            "value": 11175000,
+            "description": ""
+        },
+        {
+            "value": 13200000,
+            "description": ""
+        },
+        {
+            "value": 15016000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 2950,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "pageid": "1960",
+    "title": "ARQ6-90",
+    "spectrum": [
+        "ARQ 6-90.jpg"
+    ],
+    "audio": [
+        "arq6-90.mp3"
+    ],
+    "category": [
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 10000000,
+            "description": ""
+        },
+        {
+            "value": 23000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 700,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "FSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

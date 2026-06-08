@@ -1,0 +1,57 @@
+{
+    "pageid": "7221",
+    "title": "HF trading link '120 Hz FMCW idle tone'",
+    "spectrum": [
+        "Radar FMCW 120Hz.png"
+    ],
+    "audio": [
+        "Radar FMCW 120Hz USB.ogg"
+    ],
+    "category": [
+        "Digital",
+        "Commercial"
+    ],
+    "frequency": [
+        {
+            "value": 19310000,
+            "description": ""
+        },
+        {
+            "value": 20240000,
+            "description": ""
+        },
+        {
+            "value": 20548000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 10000,
+            "description": ""
+        },
+        {
+            "value": 9000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "OFDM",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Canada / Worldwide",
+            "description": ""
+        }
+    ]
+}

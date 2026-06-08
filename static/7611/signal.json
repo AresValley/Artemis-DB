@@ -1,0 +1,64 @@
+{
+    "pageid": "7611",
+    "title": "Beta",
+    "spectrum": [
+        "Beta time code 3.png"
+    ],
+    "audio": [
+        "Beta time code.ogg"
+    ],
+    "category": [
+        "Time"
+    ],
+    "frequency": [
+        {
+            "value": 20500,
+            "description": ""
+        },
+        {
+            "value": 23000,
+            "description": ""
+        },
+        {
+            "value": 25000,
+            "description": ""
+        },
+        {
+            "value": 25100,
+            "description": ""
+        },
+        {
+            "value": 25500,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 200,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "CW",
+            "description": ""
+        },
+        {
+            "value": "OOK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Russia, Belarus, Kyrgyzstan, Worldwide",
+            "description": ""
+        }
+    ]
+}

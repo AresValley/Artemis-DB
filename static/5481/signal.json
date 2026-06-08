@@ -1,0 +1,39 @@
+{
+    "pageid": "5481",
+    "title": "The Pip",
+    "spectrum": [
+        "The Pip.PNG"
+    ],
+    "audio": [
+        "pso.p.sdrotg.com_2021-11-18T23_46_32Z_3756.00_usb.ogg"
+    ],
+    "category": [
+        "Military",
+        "Numbers Stations"
+    ],
+    "frequency": [
+        {
+            "value": 5448000,
+            "description": ""
+        },
+        {
+            "value": 3756000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [],
+    "acf": [],
+    "modulation": [],
+    "mode": [
+        {
+            "value": "USB,AM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Russia",
+            "description": ""
+        }
+    ]
+}

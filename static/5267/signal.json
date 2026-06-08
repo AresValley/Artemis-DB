@@ -1,0 +1,22 @@
+{
+    "pageid": "5267",
+    "title": "National Public Alerting System (NPAS)",
+    "spectrum": [
+        "NPAS2.jpg"
+    ],
+    "audio": [
+        "AlertReady-NPAS.mp3"
+    ],
+    "category": [],
+    "frequency": [],
+    "bandwidth": [],
+    "acf": [],
+    "modulation": [],
+    "mode": [],
+    "location": [
+        {
+            "value": "Canada",
+            "description": ""
+        }
+    ]
+}

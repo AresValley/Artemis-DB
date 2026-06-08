@@ -1,0 +1,46 @@
+{
+    "pageid": "2270",
+    "title": "NATEL",
+    "spectrum": [
+        "natel 5-tone.png"
+    ],
+    "audio": [
+        "NATEL 5-tone.mp3"
+    ],
+    "category": [],
+    "frequency": [
+        {
+            "value": 30000000,
+            "description": ""
+        },
+        {
+            "value": 800000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 5000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "MFSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "NFM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "pageid": "2041",
+    "title": "CIS-1200 (T-230-1A 'Mahovik')",
+    "spectrum": [
+        "flywheel.jpg"
+    ],
+    "audio": [
+        "Makhovik.mp3"
+    ],
+    "category": [
+        "Digital",
+        "Military"
+    ],
+    "frequency": [
+        {
+            "value": 3000000,
+            "description": ""
+        },
+        {
+            "value": 30000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 2500,
+            "description": ""
+        }
+    ],
+    "acf": [
+        {
+            "value": "426.66 ms / 512 bits",
+            "description": ""
+        }
+    ],
+    "modulation": [
+        {
+            "value": "SDPSK",
+            "description": ""
+        },
+        {
+            "value": "BPSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Russia",
+            "description": ""
+        }
+    ]
+}

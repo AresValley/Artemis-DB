@@ -1,1 +1,0 @@
-The Autocab Media Data Terminals is used by cab companies all over the world. Autocab is an example of Digital Dispatch System (DDS) for taxis. These use QPSK modulation.

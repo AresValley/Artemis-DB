@@ -1,46 +1,48 @@
 {
-    "signal": {
-        "name": "B-Netz",
-        "url": "https://www.sigidwiki.com/wiki/B-Netz"
-    },
-    "category": [],
+    "pageid": "54",
+    "title": "Automatic Identification System (AIS)",
+    "spectrum": [
+        "AIS.jpg"
+    ],
+    "audio": [
+        "AIS_Sound.mp3"
+    ],
+    "category": [
+        "Marine",
+        "Digital"
+    ],
     "frequency": [
         {
-            "value": 148000000,
+            "value": 161975000,
             "description": ""
         },
         {
-            "value": 153000000,
+            "value": 162025000,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 12500,
+            "value": 25000,
             "description": ""
         }
     ],
-    "acf": [
-        {
-            "value": 150.0,
-            "description": "Main"
-        }
-    ],
+    "acf": [],
     "modulation": [
         {
-            "value": "FSK",
+            "value": "GMSK",
             "description": ""
         }
     ],
     "mode": [
         {
-            "value": "FM",
+            "value": "NFM",
             "description": ""
         }
     ],
     "location": [
         {
-            "value": "Europe",
+            "value": "Worldwide",
             "description": ""
         }
     ]

@@ -1,0 +1,51 @@
+{
+    "pageid": "1525",
+    "title": "Sonne",
+    "spectrum": [
+        "Consol.png"
+    ],
+    "audio": [
+        "consol.mp3"
+    ],
+    "category": [
+        "Marine",
+        "Aviation",
+        "Navigation",
+        "Analogue"
+    ],
+    "frequency": [
+        {
+            "value": 250000,
+            "description": ""
+        },
+        {
+            "value": 350000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 1,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "OOK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

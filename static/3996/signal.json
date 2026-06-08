@@ -1,0 +1,66 @@
+{
+    "pageid": "3996",
+    "title": "CDMA2000 (3G physical layer)",
+    "spectrum": [
+        "CDMA2.png"
+    ],
+    "audio": [
+        "889.060.000.wav"
+    ],
+    "category": [
+        "Commercial",
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 850000000,
+            "description": ""
+        },
+        {
+            "value": 900000000,
+            "description": ""
+        },
+        {
+            "value": 1800000000,
+            "description": ""
+        },
+        {
+            "value": 1900000000,
+            "description": ""
+        },
+        {
+            "value": 450000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 1230000,
+            "description": ""
+        }
+    ],
+    "acf": [
+        {
+            "value": "10 ms",
+            "description": ""
+        }
+    ],
+    "modulation": [
+        {
+            "value": "QPSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "RAW",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "United States",
+            "description": ""
+        }
+    ]
+}

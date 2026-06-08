@@ -1,0 +1,49 @@
+{
+    "pageid": "6926",
+    "title": "CDMA420",
+    "spectrum": [
+        "CDMA420LTE420.png"
+    ],
+    "audio": [
+        "CDMA420-sound.mp3"
+    ],
+    "category": [
+        "Commercial",
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 410000000,
+            "description": ""
+        },
+        {
+            "value": 425000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 2500000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "QPSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "AM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Poland",
+            "description": ""
+        }
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "pageid": "7294",
+    "title": "CIS MFSK-21-13",
+    "spectrum": [
+        "MFSK 21-13 21to13.png"
+    ],
+    "audio": [
+        "CIS MFSK 21-13 21-to-13 sample.ogg"
+    ],
+    "category": [
+        "Digital",
+        "Military"
+    ],
+    "frequency": [
+        {
+            "value": 4834000,
+            "description": ""
+        },
+        {
+            "value": 16292000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 3300,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "MFSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Russia, Worldwide",
+            "description": ""
+        }
+    ]
+}

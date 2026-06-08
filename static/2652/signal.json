@@ -1,0 +1,33 @@
+{
+    "pageid": "2652",
+    "title": "Lightning Sferics",
+    "spectrum": [
+        "Lightening Sfpherics.png"
+    ],
+    "audio": [
+        "thundr.mp3"
+    ],
+    "category": [
+        "Interfering"
+    ],
+    "frequency": [
+        {
+            "value": 0,
+            "description": ""
+        },
+        {
+            "value": 30000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [],
+    "acf": [],
+    "modulation": [],
+    "mode": [],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

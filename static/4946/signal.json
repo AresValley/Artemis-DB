@@ -1,0 +1,49 @@
+{
+    "pageid": "4946",
+    "title": "Meteomodem M10 Weather Balloon (Radiosonde)",
+    "spectrum": [
+        "M10-sigidwiki1.jpg"
+    ],
+    "audio": [
+        "SDRSharp 20171211 002407Z 400996820Hz.mp3"
+    ],
+    "category": [
+        "Digital",
+        "Utility"
+    ],
+    "frequency": [
+        {
+            "value": 400000000,
+            "description": ""
+        },
+        {
+            "value": 406000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 30000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "PSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "NFM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

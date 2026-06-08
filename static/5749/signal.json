@@ -1,0 +1,46 @@
+{
+    "pageid": "5749",
+    "title": "Sensus Water meter (Acquisition units)",
+    "spectrum": [
+        "SWD.png"
+    ],
+    "audio": [],
+    "category": [
+        "Commercial",
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 902000000,
+            "description": ""
+        },
+        {
+            "value": 927000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 175000000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "ASK",
+            "description": ""
+        },
+        {
+            "value": "FHSS",
+            "description": ""
+        }
+    ],
+    "mode": [],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

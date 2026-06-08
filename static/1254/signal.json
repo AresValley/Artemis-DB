@@ -1,0 +1,54 @@
+{
+    "pageid": "1254",
+    "title": "DCF77",
+    "spectrum": [
+        "DCF77.jpg"
+    ],
+    "audio": [
+        "DCF77.mp3"
+    ],
+    "category": [
+        "Time",
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 77500,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 1300,
+            "description": ""
+        }
+    ],
+    "acf": [
+        {
+            "value": "1000 ms",
+            "description": ""
+        }
+    ],
+    "modulation": [
+        {
+            "value": "AM",
+            "description": ""
+        },
+        {
+            "value": "PSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Germany",
+            "description": ""
+        }
+    ]
+}

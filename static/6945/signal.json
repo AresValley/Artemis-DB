@@ -1,0 +1,42 @@
+{
+    "pageid": "6945",
+    "title": "Aqua Direct Broadcast (DB)",
+    "spectrum": [
+        "Aqua DB.png"
+    ],
+    "audio": [],
+    "category": [
+        "Satellite"
+    ],
+    "frequency": [
+        {
+            "value": 8160000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 15000000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "OQPSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "RAW",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

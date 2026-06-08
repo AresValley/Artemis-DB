@@ -1,0 +1,62 @@
+{
+    "pageid": "5637",
+    "title": "DB0UPB research beacon",
+    "spectrum": [
+        "DB0UPB.png"
+    ],
+    "audio": [
+        "0kqvydic4s76vnto.myfritz.net 2019-12-10T13 31 26Z 3609.00 lsb.mp3"
+    ],
+    "category": [
+        "Amateur Radio",
+        "Analogue",
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 3600000,
+            "description": ""
+        },
+        {
+            "value": 7050000,
+            "description": ""
+        },
+        {
+            "value": 14101000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 2700,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "MFSK",
+            "description": ""
+        },
+        {
+            "value": "LSB",
+            "description": ""
+        },
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "LSB, USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Germany",
+            "description": ""
+        }
+    ]
+}

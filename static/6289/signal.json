@@ -1,0 +1,61 @@
+{
+    "pageid": "6289",
+    "title": "VARA HF",
+    "spectrum": [
+        "VARA HF.PNG"
+    ],
+    "audio": [
+        "VARA HF Sample.ogg"
+    ],
+    "category": [
+        "Amateur Radio",
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 54000000,
+            "description": ""
+        },
+        {
+            "value": 1800000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 2750,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "BPSK",
+            "description": ""
+        },
+        {
+            "value": "4-8PSK",
+            "description": ""
+        },
+        {
+            "value": "16-32QAM",
+            "description": ""
+        },
+        {
+            "value": "FSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "pageid": "5947",
+    "title": "Smart TV Interference",
+    "spectrum": [
+        "528 11 August.png"
+    ],
+    "audio": [
+        "SDRSharp 20200812 011809Z 528385500Hz AF.wav"
+    ],
+    "category": [
+        "Interfering"
+    ],
+    "frequency": [
+        {
+            "value": 528000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 84000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

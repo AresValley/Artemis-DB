@@ -1,0 +1,39 @@
+{
+    "pageid": "5588",
+    "title": "The Alarm",
+    "spectrum": [
+        "TheAlarm.png"
+    ],
+    "audio": [
+        "TheAlarm_audio.wav"
+    ],
+    "category": [
+        "Military"
+    ],
+    "frequency": [
+        {
+            "value": 4770000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 2400,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Russia",
+            "description": ""
+        }
+    ]
+}

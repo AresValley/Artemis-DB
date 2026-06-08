@@ -1,0 +1,39 @@
+{
+    "pageid": "6530",
+    "title": "The 'Air Horn'",
+    "spectrum": [
+        "Przechwytywanie.PNG"
+    ],
+    "audio": [
+        "airhorn.mp3"
+    ],
+    "category": [
+        "Military"
+    ],
+    "frequency": [
+        {
+            "value": 4930000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 7000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Smolensk, Russia",
+            "description": ""
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "pageid": "7714",
+    "title": "Whelen DTMF",
+    "spectrum": [
+        "Screenshot 2024-10-18 8.56.13 AM.png"
+    ],
+    "audio": [],
+    "category": [],
+    "frequency": [],
+    "bandwidth": [],
+    "acf": [],
+    "modulation": [],
+    "mode": [
+        {
+            "value": "DTMF",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "USA and ?",
+            "description": ""
+        }
+    ]
+}

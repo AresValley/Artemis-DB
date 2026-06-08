@@ -1,0 +1,60 @@
+{
+    "pageid": "7933",
+    "title": "P07 numbers station",
+    "spectrum": [
+        "P07.png"
+    ],
+    "audio": [
+        "P07.mp3"
+    ],
+    "category": [
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 4600000,
+            "description": ""
+        },
+        {
+            "value": 10450000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 3500,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "FSK",
+            "description": ""
+        },
+        {
+            "value": "BPSK",
+            "description": ""
+        },
+        {
+            "value": "QPSK",
+            "description": ""
+        },
+        {
+            "value": "OFDM",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Russia",
+            "description": ""
+        }
+    ]
+}

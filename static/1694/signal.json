@@ -1,0 +1,62 @@
+{
+    "pageid": "1694",
+    "title": "STANAG 4539",
+    "spectrum": [
+        "QAM 8000 M.jpg"
+    ],
+    "audio": [
+        "mil-188-110b Med QAM 8000.mp3"
+    ],
+    "category": [
+        "Military",
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 3000000,
+            "description": ""
+        },
+        {
+            "value": 30000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 3000,
+            "description": ""
+        }
+    ],
+    "acf": [
+        {
+            "value": "119.6 ms",
+            "description": ""
+        }
+    ],
+    "modulation": [
+        {
+            "value": "PSK",
+            "description": ""
+        },
+        {
+            "value": "QAM",
+            "description": ""
+        },
+        {
+            "value": "QPSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

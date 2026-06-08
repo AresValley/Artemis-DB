@@ -1,1 +1,0 @@
-Signal used for remote control (RC) Toys.

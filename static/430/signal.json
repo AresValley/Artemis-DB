@@ -1,53 +1,48 @@
 {
-    "signal": {
-        "name": "STANAG 4415",
-        "url": "https://www.sigidwiki.com/wiki/STANAG_4415"
-    },
+    "pageid": "430",
+    "title": "STP403 Bus PIT System",
+    "spectrum": [
+        "Fouine91_MPT1327-Like.jpg"
+    ],
+    "audio": [
+        "Fouine91_MPT1327-Like.mp3"
+    ],
     "category": [
-        "Digital",
-        "Military"
+        "Utility",
+        "Commercial"
     ],
     "frequency": [
         {
-            "value": 3000000,
+            "value": 164000000,
             "description": ""
         },
         {
-            "value": 30000000,
+            "value": 468487500,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 2750,
+            "value": 8000,
             "description": ""
         }
     ],
-    "acf": [
-        {
-            "value": 200.0,
-            "description": "Header"
-        },
-        {
-            "value": 66.66,
-            "description": "Body"
-        }
-    ],
+    "acf": [],
     "modulation": [
         {
-            "value": "PSK",
+            "value": "FFSK",
             "description": ""
         }
     ],
     "mode": [
         {
-            "value": "USB",
+            "value": "NFM",
             "description": ""
         }
     ],
     "location": [
         {
-            "value": "Worldwide",
+            "value": "France",
             "description": ""
         }
     ]

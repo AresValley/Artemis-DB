@@ -1,0 +1,48 @@
+{
+    "pageid": "3265",
+    "title": "RUM-FEC",
+    "spectrum": [
+        "RUM-FEC.jpg"
+    ],
+    "audio": [
+        "rum-fec 164.5 Bd.mp3"
+    ],
+    "category": [
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 3000000,
+            "description": ""
+        },
+        {
+            "value": 30000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 750,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "FSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Romania",
+            "description": ""
+        }
+    ]
+}

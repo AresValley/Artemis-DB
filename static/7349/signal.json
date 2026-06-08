@@ -1,0 +1,33 @@
+{
+    "pageid": "7349",
+    "title": "Switching Electronic Interference",
+    "spectrum": [
+        "SMPS noise 1.png"
+    ],
+    "audio": [
+        "SMPS noise USB.ogg"
+    ],
+    "category": [
+        "Interfering"
+    ],
+    "frequency": [
+        {
+            "value": 10000,
+            "description": ""
+        },
+        {
+            "value": 200000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [],
+    "acf": [],
+    "modulation": [],
+    "mode": [],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

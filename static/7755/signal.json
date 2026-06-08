@@ -1,0 +1,37 @@
+{
+    "pageid": "7755",
+    "title": "Google Pixel Interference",
+    "spectrum": [
+        "27MHz pulsing signal.png"
+    ],
+    "audio": [
+        "Pulsing singal 20241224 122323 27120khz.mp3"
+    ],
+    "category": [],
+    "frequency": [
+        {
+            "value": 27120000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 1000000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [],
+    "mode": [
+        {
+            "value": "RAW",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

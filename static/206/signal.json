@@ -1,38 +1,71 @@
 {
-    "signal": {
-        "name": "Golay Paging (GSC)",
-        "url": "https://www.sigidwiki.com/wiki/Golay_Paging_(GSC)"
-    },
+    "pageid": "206",
+    "title": "Digital Video Broadcasting — Terrestrial (DVB-T)",
+    "spectrum": [
+        "DVB-T image.jpg"
+    ],
+    "audio": [
+        "DVB-t.mp3"
+    ],
     "category": [
         "Digital",
         "Commercial"
     ],
     "frequency": [
         {
-            "value": 932000000,
+            "value": 470000000,
             "description": ""
         },
         {
-            "value": 33000000,
+            "value": 694000000,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 2600,
+            "value": 6000000,
+            "description": ""
+        },
+        {
+            "value": 7000000,
+            "description": ""
+        },
+        {
+            "value": 8000000,
+            "description": ""
+        },
+        {
+            "value": 5000000,
             "description": ""
         }
     ],
-    "acf": [],
+    "acf": [
+        {
+            "value": "Depending on mode and bandwidth",
+            "description": ""
+        }
+    ],
     "modulation": [
         {
-            "value": "FSK",
+            "value": "16QAM",
+            "description": ""
+        },
+        {
+            "value": "64QAM",
+            "description": ""
+        },
+        {
+            "value": "256QAM",
+            "description": ""
+        },
+        {
+            "value": "QPSK",
             "description": ""
         }
     ],
     "mode": [
         {
-            "value": "NFM",
+            "value": "COFDM",
             "description": ""
         }
     ],

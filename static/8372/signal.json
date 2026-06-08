@@ -1,0 +1,45 @@
+{
+    "pageid": "8372",
+    "title": "OTP-2 Satellite Musical Beacon",
+    "spectrum": [
+        "UNID Musical Satellite Slowed Stretched.png"
+    ],
+    "audio": [
+        "UNID Musical Satellite.mp3"
+    ],
+    "category": [
+        "Satellite",
+        "Analogue"
+    ],
+    "frequency": [
+        {
+            "value": 400502000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 4200,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "FSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "NFM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

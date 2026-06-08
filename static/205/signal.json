@@ -1,55 +1,37 @@
 {
-    "signal": {
-        "name": "Globe Wireless HF Network",
-        "url": "https://www.sigidwiki.com/wiki/Globe_Wireless_HF_Network"
-    },
+    "pageid": "205",
+    "title": "LoJack",
+    "spectrum": [
+        "Lojack.jpg"
+    ],
+    "audio": [
+        "Traqueur_164.1750_FSK_(2).mp3"
+    ],
     "category": [
-        "Digital",
-        "Marine",
-        "Commercial"
+        "Utility"
     ],
     "frequency": [
         {
-            "value": 3000000,
-            "description": ""
-        },
-        {
-            "value": 30000000,
+            "value": 173075000,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 400,
-            "description": ""
-        },
-        {
-            "value": 750,
-            "description": ""
-        },
-        {
-            "value": 2000,
+            "value": 10000,
             "description": ""
         }
     ],
     "acf": [],
     "modulation": [
         {
-            "value": "PSK",
-            "description": ""
-        },
-        {
-            "value": "FSK",
-            "description": ""
-        },
-        {
-            "value": "OFDM",
+            "value": "FFSK",
             "description": ""
         }
     ],
     "mode": [
         {
-            "value": "USB",
+            "value": "NFM",
             "description": ""
         }
     ],

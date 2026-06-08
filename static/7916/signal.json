@@ -1,0 +1,41 @@
+{
+    "pageid": "7916",
+    "title": "KY57/58 voice encryption",
+    "spectrum": [
+        "ky57 58.png"
+    ],
+    "audio": [
+        "Ky57 58 audio.wav"
+    ],
+    "category": [],
+    "frequency": [
+        {
+            "value": 250000000,
+            "description": ""
+        },
+        {
+            "value": 400000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 32000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "CVSD",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "FM",
+            "description": ""
+        }
+    ],
+    "location": []
+}

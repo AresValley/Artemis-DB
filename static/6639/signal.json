@@ -1,0 +1,53 @@
+{
+    "pageid": "6639",
+    "title": "QO-100-modem",
+    "spectrum": [
+        "Qo-100 modem 1.JPG"
+    ],
+    "audio": [
+        "Dlya qo-100 wiki.mp3"
+    ],
+    "category": [
+        "Amateur Radio",
+        "Satellite",
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 10489500000,
+            "description": ""
+        },
+        {
+            "value": 10490000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 2700,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "QPSK",
+            "description": ""
+        },
+        {
+            "value": "BPSK",
+            "description": ""
+        },
+        {
+            "value": "APSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": []
+}

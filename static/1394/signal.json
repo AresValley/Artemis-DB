@@ -1,0 +1,54 @@
+{
+    "pageid": "1394",
+    "title": "ROS",
+    "spectrum": [
+        "ROS_8Bd.jpg"
+    ],
+    "audio": [
+        "ROS 8Bd.mp3"
+    ],
+    "category": [
+        "Amateur Radio",
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 30000000,
+            "description": ""
+        },
+        {
+            "value": 1800000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 2000,
+            "description": ""
+        }
+    ],
+    "acf": [
+        {
+            "value": "4 ms",
+            "description": ""
+        }
+    ],
+    "modulation": [
+        {
+            "value": "DSSS",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

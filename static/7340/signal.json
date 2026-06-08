@@ -1,0 +1,48 @@
+{
+    "pageid": "7340",
+    "title": "CIS MFSK-11",
+    "spectrum": [
+        "Unknown MFSK-11.png"
+    ],
+    "audio": [
+        "Unknown MFSK-11 USB.ogg"
+    ],
+    "category": [
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 7800000,
+            "description": ""
+        },
+        {
+            "value": 23800000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 3300,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "MFSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Russia",
+            "description": ""
+        }
+    ]
+}

@@ -1,46 +1,42 @@
 {
-    "signal": {
-        "name": "Digisonde",
-        "url": "https://www.sigidwiki.com/wiki/Digisonde"
-    },
+    "pageid": "137",
+    "title": "High Frequency Data Link (HFDL)",
+    "spectrum": [
+        "HFDL.jpg"
+    ],
+    "audio": [
+        "HFDL_Sound.mp3"
+    ],
     "category": [
-        "Radar"
+        "Aviation",
+        "Digital"
     ],
     "frequency": [
         {
-            "value": 500000,
+            "value": 2900000,
             "description": ""
         },
         {
-            "value": 30000000,
+            "value": 22000000,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 30000,
+            "value": 2400,
             "description": ""
         }
     ],
-    "acf": [
-        {
-            "value": 5.0,
-            "description": "Main"
-        },
-        {
-            "value": 10.0,
-            "description": "Main"
-        }
-    ],
+    "acf": [],
     "modulation": [
         {
-            "value": "Pulsed",
+            "value": "PSK",
             "description": ""
         }
     ],
     "mode": [
         {
-            "value": "RAW",
+            "value": "USB",
             "description": ""
         }
     ],

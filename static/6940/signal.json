@@ -1,0 +1,50 @@
+{
+    "pageid": "6940",
+    "title": "High Resolution Data (HRD)",
+    "spectrum": [
+        "Hrd.png"
+    ],
+    "audio": [],
+    "category": [
+        "Satellite"
+    ],
+    "frequency": [
+        {
+            "value": 7812000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 25000000,
+            "description": ""
+        },
+        {
+            "value": 35000000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "OQPSK",
+            "description": ""
+        },
+        {
+            "value": "QPSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "RAW",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

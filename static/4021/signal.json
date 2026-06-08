@@ -1,0 +1,44 @@
+{
+    "pageid": "4021",
+    "title": "Meteosat WEFAX",
+    "spectrum": [
+        "Waterfall1.png"
+    ],
+    "audio": [
+        "Finalmeteosatnew.mp3"
+    ],
+    "category": [
+        "Analogue",
+        "Satellite"
+    ],
+    "frequency": [
+        {
+            "value": 1691000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "AM",
+            "description": ""
+        },
+        {
+            "value": "FM",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "FM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "pageid": "7768",
+    "title": "Industrial key opener",
+    "spectrum": [
+        "Screenshot 2025-01-22 220604.png"
+    ],
+    "audio": [
+        "Screen Recording 2025-01-22 220854.mp3"
+    ],
+    "category": [
+        "Utility"
+    ],
+    "frequency": [
+        {
+            "value": 434000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 793000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [],
+    "mode": [
+        {
+            "value": "AM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

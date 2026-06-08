@@ -1,0 +1,53 @@
+{
+    "pageid": "2473",
+    "title": "Differential Global Positioning System (DGPS)",
+    "spectrum": [
+        "DGPS 200Bd.png"
+    ],
+    "audio": [
+        "DGPS 200bd.mp3"
+    ],
+    "category": [
+        "Digital",
+        "Navigation"
+    ],
+    "frequency": [
+        {
+            "value": 283500,
+            "description": ""
+        },
+        {
+            "value": 2950000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 150,
+            "description": ""
+        },
+        {
+            "value": 250,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "MSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

@@ -1,43 +1,77 @@
 {
-    "signal": {
-        "name": "CIS-11",
-        "url": "https://www.sigidwiki.com/wiki/CIS-11"
-    },
+    "pageid": "82",
+    "title": "Enhanced Digital Access Communications System (EDACS)",
+    "spectrum": [
+        "EDACS_96k.jpg"
+    ],
+    "audio": [
+        "EDACS_96.mp3"
+    ],
     "category": [
+        "Trunked Radio",
         "Digital"
     ],
     "frequency": [
         {
-            "value": 3000000,
+            "value": 160000000,
             "description": ""
         },
         {
-            "value": 30000000,
+            "value": 450000000,
+            "description": ""
+        },
+        {
+            "value": 700000000,
+            "description": ""
+        },
+        {
+            "value": 806000000,
+            "description": ""
+        },
+        {
+            "value": 870000000,
+            "description": ""
+        },
+        {
+            "value": 896000000,
+            "description": ""
+        },
+        {
+            "value": 941000000,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 650,
+            "value": 12500,
+            "description": ""
+        },
+        {
+            "value": 6250,
             "description": ""
         }
     ],
-    "acf": [],
+    "acf": [
+        {
+            "value": "edacs48:  60 ms, edacs96:  30 ms",
+            "description": ""
+        }
+    ],
     "modulation": [
         {
-            "value": "FSK",
+            "value": "GFSK",
             "description": ""
         }
     ],
     "mode": [
         {
-            "value": "USB",
+            "value": "NFM",
             "description": ""
         }
     ],
     "location": [
         {
-            "value": "Russia",
+            "value": "Worldwide",
             "description": ""
         }
     ]

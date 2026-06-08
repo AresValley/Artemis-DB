@@ -1,16 +1,19 @@
-import os
-
 from pathlib import Path
 
 
-class Path():
-    BASE_DIR        = Path(os.path.dirname(__file__)) / '..'
+class ProjectPath():
+    # Directories
+    BASE_DIR        = Path(__file__).resolve().parent.parent
     DATA_DIR        = BASE_DIR / "sigID"
     MEDIA_DIR       = DATA_DIR / "media"
     STATIC_DIR      = BASE_DIR / "static"
 
-class Url():
+    # Files
+    INDEX_JSON      = STATIC_DIR / "index.json"
+
+    # URLs
     SIGID_DOMAIN        = "https://www.sigidwiki.com"
+    SIGID_API           = f"{SIGID_DOMAIN}/api.php"
     SIGID_ALL           = "https://www.sigidwiki.com/wiki/Database"
     SIGID_CAT           = "https://www.sigidwiki.com/wiki/Category:"
     IMG_EXCLUSION_URL   = ["https://www.sigidwiki.com/images/1/12/NoWaterfallFiller.png"]

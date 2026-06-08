@@ -1,47 +1,40 @@
 {
-    "signal": {
-        "name": "OrbComm Mobile Telephony",
-        "url": "https://www.sigidwiki.com/wiki/OrbComm_Mobile_Telephony"
-    },
+    "pageid": "355",
+    "title": "Digital Audio Broadcasting Plus (DAB+)",
+    "spectrum": [
+        "Dab+.JPG"
+    ],
+    "audio": [
+        "SDRSharp 20181030 033126Z 205837723Hz AF.mp3"
+    ],
     "category": [
-        "Satellite"
+        "Digital",
+        "Commercial"
     ],
     "frequency": [
         {
-            "value": 137440000,
+            "value": 174000000,
             "description": ""
         },
         {
-            "value": 137460000,
-            "description": ""
-        },
-        {
-            "value": 137200000,
-            "description": ""
-        },
-        {
-            "value": 137225000,
-            "description": ""
-        },
-        {
-            "value": 137250000,
+            "value": 230000000,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 15000,
+            "value": 1536000,
             "description": ""
         }
     ],
     "acf": [],
-    "modulation": [],
-    "mode": [
+    "modulation": [
         {
-            "value": "NFM",
+            "value": "OFDM",
             "description": ""
         }
     ],
+    "mode": [],
     "location": [
         {
             "value": "Worldwide",

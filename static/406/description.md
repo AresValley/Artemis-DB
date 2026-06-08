@@ -1,1 +1,0 @@
-ReFLEX is a two-way paging variant of FLEX.

@@ -1,0 +1,52 @@
+{
+    "pageid": "2679",
+    "title": "High Frequency Active Auroral Research Program (HAARP)",
+    "spectrum": [
+        "Haarp.jpg"
+    ],
+    "audio": [
+        "HAARP-1.mp3"
+    ],
+    "category": [
+        "Radar"
+    ],
+    "frequency": [
+        {
+            "value": 10000000,
+            "description": ""
+        },
+        {
+            "value": 2700000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 100000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "CW",
+            "description": ""
+        },
+        {
+            "value": "FMCW",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "AM, CW",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "United States",
+            "description": ""
+        }
+    ]
+}

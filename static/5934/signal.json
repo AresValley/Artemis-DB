@@ -1,0 +1,63 @@
+{
+    "pageid": "5934",
+    "title": "MSK144",
+    "spectrum": [
+        "MSK144 2.png"
+    ],
+    "audio": [
+        "Msk144 audio.mp3"
+    ],
+    "category": [],
+    "frequency": [
+        {
+            "value": 144000000,
+            "description": ""
+        },
+        {
+            "value": 440000000,
+            "description": ""
+        },
+        {
+            "value": 50000000,
+            "description": ""
+        },
+        {
+            "value": 70000000,
+            "description": ""
+        },
+        {
+            "value": 30000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 2500,
+            "description": ""
+        }
+    ],
+    "acf": [
+        {
+            "value": "72 ms",
+            "description": ""
+        }
+    ],
+    "modulation": [
+        {
+            "value": "MSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "FM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

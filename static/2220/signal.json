@@ -1,0 +1,52 @@
+{
+    "pageid": "2220",
+    "title": "Pursuit Wireless Car Key",
+    "spectrum": [
+        "1995_nissan_key.jpg"
+    ],
+    "audio": [
+        "Nissan_Wireless_Key_AM_Mode.mp3"
+    ],
+    "category": [
+        "Utility"
+    ],
+    "frequency": [
+        {
+            "value": 301500000,
+            "description": ""
+        },
+        {
+            "value": 302500000,
+            "description": ""
+        },
+        {
+            "value": 434000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 40000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "AM",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "AM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

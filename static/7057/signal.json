@@ -1,0 +1,53 @@
+{
+    "pageid": "7057",
+    "title": "XMPP trials",
+    "spectrum": [
+        "XMPP EXAMPLE.png"
+    ],
+    "audio": [
+        "XMPPsound.mp3"
+    ],
+    "category": [
+        "Military",
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 2000000,
+            "description": ""
+        },
+        {
+            "value": 7800000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 34000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "PSK",
+            "description": ""
+        },
+        {
+            "value": "QAM",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

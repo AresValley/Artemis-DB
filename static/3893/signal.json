@@ -1,0 +1,48 @@
+{
+    "pageid": "3893",
+    "title": "Acer X222W monitor, sleep pulse",
+    "spectrum": [
+        "Acer monitor default sleep signal.PNG"
+    ],
+    "audio": [
+        "Acer monitor sound (FM).ogg"
+    ],
+    "category": [
+        "Interfering"
+    ],
+    "frequency": [
+        {
+            "value": 470000000,
+            "description": ""
+        },
+        {
+            "value": 420000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 300000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "Pulse",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "FM, AM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

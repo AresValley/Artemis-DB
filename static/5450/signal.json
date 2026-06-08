@@ -1,0 +1,46 @@
+{
+    "pageid": "5450",
+    "title": "'Vario' Airplane Data Controller",
+    "spectrum": [
+        "altitude.jpg"
+    ],
+    "audio": [
+        "Sigid12-Jun-2019 15h54m18s - 462.611.5 MHz, NFM.mp3"
+    ],
+    "category": [
+        "Navigation",
+        "Aviation",
+        "Utility",
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 462610000,
+            "description": ""
+        },
+        {
+            "value": 462725000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 6000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [],
+    "mode": [
+        {
+            "value": "NFM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "United States",
+            "description": ""
+        }
+    ]
+}

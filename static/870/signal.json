@@ -1,0 +1,50 @@
+{
+    "pageid": "870",
+    "title": "Distress Radiobeacon (Analog)",
+    "spectrum": [
+        "Analog_radiobeacon.jpg"
+    ],
+    "audio": [
+        "RadioBeacon.mp3"
+    ],
+    "category": [
+        "Marine",
+        "Analogue",
+        "Aviation"
+    ],
+    "frequency": [
+        {
+            "value": 121500000,
+            "description": ""
+        },
+        {
+            "value": 243000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 10000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "AM",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "AM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

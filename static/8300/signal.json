@@ -1,0 +1,84 @@
+{
+    "pageid": "8300",
+    "title": "802.11ax",
+    "spectrum": [
+        "802-11ax-waterfall.png"
+    ],
+    "audio": [
+        "802.11ax.wav"
+    ],
+    "category": [
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 2412000000,
+            "description": ""
+        },
+        {
+            "value": 7125000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 20000000,
+            "description": ""
+        },
+        {
+            "value": 40000000,
+            "description": ""
+        },
+        {
+            "value": 80000000,
+            "description": ""
+        },
+        {
+            "value": 160000000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "OFDMA",
+            "description": ""
+        },
+        {
+            "value": "BPSK",
+            "description": ""
+        },
+        {
+            "value": "QPSK",
+            "description": ""
+        },
+        {
+            "value": "16QAM",
+            "description": ""
+        },
+        {
+            "value": "64QAM",
+            "description": ""
+        },
+        {
+            "value": "256QAM",
+            "description": ""
+        },
+        {
+            "value": "1024QAM",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "AM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

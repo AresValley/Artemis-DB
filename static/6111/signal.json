@@ -1,0 +1,54 @@
+{
+    "pageid": "6111",
+    "title": "Total Access Communication System (TACS)",
+    "spectrum": [
+        "TACS.png"
+    ],
+    "audio": [
+        "Tacs cell broadcast REDUCED VOL.wav"
+    ],
+    "category": [
+        "Commercial",
+        "Analogue",
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 872000000,
+            "description": ""
+        },
+        {
+            "value": 960000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 25000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "FM",
+            "description": ""
+        },
+        {
+            "value": "FSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "NFM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Europe",
+            "description": ""
+        }
+    ]
+}

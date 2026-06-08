@@ -1,0 +1,58 @@
+{
+    "pageid": "558",
+    "title": "Tetrapol",
+    "spectrum": [
+        "Tetrapolnew.jpg"
+    ],
+    "audio": [
+        "Tetrapol_Voice_Tfc.mp3"
+    ],
+    "category": [
+        "Trunked Radio",
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 370000000,
+            "description": ""
+        },
+        {
+            "value": 400000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 12500,
+            "description": ""
+        },
+        {
+            "value": 10000,
+            "description": ""
+        }
+    ],
+    "acf": [
+        {
+            "value": "20 ms",
+            "description": ""
+        }
+    ],
+    "modulation": [
+        {
+            "value": "GMSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "NFM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Europe",
+            "description": ""
+        }
+    ]
+}

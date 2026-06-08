@@ -1,0 +1,45 @@
+{
+    "pageid": "5707",
+    "title": "Mazda SKE126-01 Key Fob",
+    "spectrum": [
+        "SKE126-012.png"
+    ],
+    "audio": [
+        "SKE126-01 keyfob.mp3"
+    ],
+    "category": [
+        "Utility",
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 433412500,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 100000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "FSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "WFM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

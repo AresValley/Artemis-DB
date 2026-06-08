@@ -1,35 +1,124 @@
 {
-    "signal": {
-        "name": "GRAVES",
-        "url": "https://www.sigidwiki.com/wiki/GRAVES"
-    },
+    "pageid": "197",
+    "title": "Radio Teletype (RTTY)",
+    "spectrum": [
+        "RTTY thumbnail.jpg"
+    ],
+    "audio": [
+        "RTTY 170Hz 45.45bd.mp3"
+    ],
     "category": [
-        "Military",
-        "Radar"
+        "Amateur Radio",
+        "Digital"
     ],
     "frequency": [
         {
-            "value": 143050000,
+            "value": 147300,
+            "description": ""
+        },
+        {
+            "value": 3570000,
+            "description": ""
+        },
+        {
+            "value": 4583000,
+            "description": ""
+        },
+        {
+            "value": 5330500,
+            "description": ""
+        },
+        {
+            "value": 5346500,
+            "description": ""
+        },
+        {
+            "value": 5357000,
+            "description": ""
+        },
+        {
+            "value": 5371500,
+            "description": ""
+        },
+        {
+            "value": 5403500,
+            "description": ""
+        },
+        {
+            "value": 7040000,
+            "description": ""
+        },
+        {
+            "value": 7080000,
+            "description": ""
+        },
+        {
+            "value": 7125000,
+            "description": ""
+        },
+        {
+            "value": 7646000,
+            "description": ""
+        },
+        {
+            "value": 11039000,
+            "description": ""
+        },
+        {
+            "value": 14070000,
+            "description": ""
+        },
+        {
+            "value": 14467300,
+            "description": ""
+        },
+        {
+            "value": 28150000,
+            "description": ""
+        },
+        {
+            "value": 10100800,
+            "description": ""
+        },
+        {
+            "value": 10130000,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 1000,
+            "value": 85,
+            "description": ""
+        },
+        {
+            "value": 170,
+            "description": ""
+        },
+        {
+            "value": 450,
+            "description": ""
+        },
+        {
+            "value": 850,
             "description": ""
         }
     ],
     "acf": [],
-    "modulation": [],
+    "modulation": [
+        {
+            "value": "FSK",
+            "description": ""
+        }
+    ],
     "mode": [
         {
-            "value": "RAW I/Q",
+            "value": "USB",
             "description": ""
         }
     ],
     "location": [
         {
-            "value": "France",
+            "value": "Worldwide",
             "description": ""
         }
     ]

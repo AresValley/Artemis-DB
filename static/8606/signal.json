@@ -1,0 +1,82 @@
+{
+    "pageid": "8606",
+    "title": "Iranian 'Bubble' Jammer",
+    "spectrum": [
+        "Possibly Iranian jammer 1.png"
+    ],
+    "audio": [
+        "Possibly Iranian jammer 1.mp3"
+    ],
+    "category": [],
+    "frequency": [
+        {
+            "value": 13755000,
+            "description": ""
+        },
+        {
+            "value": 15470000,
+            "description": ""
+        },
+        {
+            "value": 15480000,
+            "description": ""
+        },
+        {
+            "value": 7510000,
+            "description": ""
+        },
+        {
+            "value": 7490000,
+            "description": ""
+        },
+        {
+            "value": 12110000,
+            "description": ""
+        },
+        {
+            "value": 7910000,
+            "description": ""
+        },
+        {
+            "value": 1575000,
+            "description": ""
+        },
+        {
+            "value": 7500000,
+            "description": ""
+        },
+        {
+            "value": 1547000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 10000,
+            "description": ""
+        },
+        {
+            "value": 15000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "AM",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "AM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Iran",
+            "description": ""
+        }
+    ]
+}

@@ -1,0 +1,73 @@
+{
+    "pageid": "7485",
+    "title": "PI4",
+    "spectrum": [
+        "PI4_1.png"
+    ],
+    "audio": [
+        "PI4_1.ogg"
+    ],
+    "category": [
+        "Digital",
+        "Amateur Radio"
+    ],
+    "frequency": [
+        {
+            "value": 222000000,
+            "description": ""
+        },
+        {
+            "value": 1296000000,
+            "description": ""
+        },
+        {
+            "value": 28000000,
+            "description": ""
+        },
+        {
+            "value": 40000000,
+            "description": ""
+        },
+        {
+            "value": 50000000,
+            "description": ""
+        },
+        {
+            "value": 70000000,
+            "description": ""
+        },
+        {
+            "value": 144000000,
+            "description": ""
+        },
+        {
+            "value": 432000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 709,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "MFSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

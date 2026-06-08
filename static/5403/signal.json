@@ -1,0 +1,44 @@
+{
+    "pageid": "5403",
+    "title": "SNOTEL (Snow Telemetry)",
+    "spectrum": [
+        "SNOTEL.png"
+    ],
+    "audio": [
+        "HDSDR 20190520 230611Z 40670kHz AF.wav"
+    ],
+    "category": [
+        "Utility"
+    ],
+    "frequency": [
+        {
+            "value": 40670000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 9000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "PSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "NFM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "United States",
+            "description": ""
+        }
+    ]
+}

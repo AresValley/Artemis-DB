@@ -1,0 +1,57 @@
+{
+    "pageid": "5065",
+    "title": "OrbComm Mobile Telephony",
+    "spectrum": [
+        "Watervall.png"
+    ],
+    "audio": [
+        "Sound.mp3"
+    ],
+    "category": [
+        "Satellite",
+        "Digital",
+        "Utility"
+    ],
+    "frequency": [
+        {
+            "value": 137440000,
+            "description": ""
+        },
+        {
+            "value": 137460000,
+            "description": ""
+        },
+        {
+            "value": 137200000,
+            "description": ""
+        },
+        {
+            "value": 137225000,
+            "description": ""
+        },
+        {
+            "value": 137250000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 15000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [],
+    "mode": [
+        {
+            "value": "NFM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

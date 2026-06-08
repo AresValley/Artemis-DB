@@ -1,0 +1,65 @@
+{
+    "pageid": "6885",
+    "title": "FST4W",
+    "spectrum": [
+        "FST4W-120.png"
+    ],
+    "audio": [
+        "FST4W-120.ogg"
+    ],
+    "category": [
+        "Amateur Radio",
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 136000,
+            "description": ""
+        },
+        {
+            "value": 474200,
+            "description": ""
+        },
+        {
+            "value": 1839000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 0.36,
+            "description": ""
+        },
+        {
+            "value": 0.72,
+            "description": ""
+        },
+        {
+            "value": 2.2,
+            "description": ""
+        },
+        {
+            "value": 5.9,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "GFSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

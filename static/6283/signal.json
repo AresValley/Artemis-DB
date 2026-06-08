@@ -1,0 +1,50 @@
+{
+    "pageid": "6283",
+    "title": "John Deere RTK Radio 450",
+    "spectrum": [
+        "GPS RTK.PNG"
+    ],
+    "audio": [
+        "RTK 1.mp3"
+    ],
+    "category": [
+        "Navigation",
+        "Digital",
+        "Utility"
+    ],
+    "frequency": [
+        {
+            "value": 435000000,
+            "description": ""
+        },
+        {
+            "value": 470000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 7490,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "FSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "FM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

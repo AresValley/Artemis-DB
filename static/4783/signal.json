@@ -1,0 +1,42 @@
+{
+    "pageid": "4783",
+    "title": "One Beep, Two Beeps",
+    "spectrum": [
+        "Picture.png"
+    ],
+    "audio": [
+        "Nov 28.wav"
+    ],
+    "category": [
+        "Military"
+    ],
+    "frequency": [
+        {
+            "value": 4508000,
+            "description": ""
+        },
+        {
+            "value": 4500000,
+            "description": ""
+        },
+        {
+            "value": 6429200,
+            "description": ""
+        }
+    ],
+    "bandwidth": [],
+    "acf": [],
+    "modulation": [],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Norway",
+            "description": ""
+        }
+    ]
+}

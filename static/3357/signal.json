@@ -1,0 +1,60 @@
+{
+    "pageid": "3357",
+    "title": "TT2300",
+    "spectrum": [
+        "TT2300 100 Bd.jpg"
+    ],
+    "audio": [
+        "TT2300-100.mp3"
+    ],
+    "category": [
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 5028700,
+            "description": ""
+        },
+        {
+            "value": 5109700,
+            "description": ""
+        },
+        {
+            "value": 7716700,
+            "description": ""
+        },
+        {
+            "value": 7719700,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 1600,
+            "description": ""
+        },
+        {
+            "value": 1700,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "MFSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

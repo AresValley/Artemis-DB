@@ -1,0 +1,50 @@
+{
+    "pageid": "1250",
+    "title": "CRY2001 Voice Scrambler",
+    "spectrum": [
+        "CRY2001_Full.jpg"
+    ],
+    "audio": [
+        "CRY-2001.mp3"
+    ],
+    "category": [
+        "Marine",
+        "Analogue",
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 3000000,
+            "description": ""
+        },
+        {
+            "value": 300000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 3000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "FSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "pageid": "7622",
+    "title": "MSF",
+    "spectrum": [
+        "MSF_3.png"
+    ],
+    "audio": [
+        "MSF.ogg"
+    ],
+    "category": [
+        "Time"
+    ],
+    "frequency": [
+        {
+            "value": 60000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 5,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "OOK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "United Kingdom, Europe",
+            "description": ""
+        }
+    ]
+}

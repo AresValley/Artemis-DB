@@ -1,0 +1,30 @@
+{
+    "pageid": "4274",
+    "title": "49MHz RC Car Controller",
+    "spectrum": [
+        "Zx24o2.PNG"
+    ],
+    "audio": [
+        "Recording_126_.mp3"
+    ],
+    "category": [
+        "Utility",
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 49200000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [],
+    "acf": [],
+    "modulation": [],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": []
+}

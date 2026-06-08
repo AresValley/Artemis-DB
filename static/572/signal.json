@@ -1,0 +1,53 @@
+{
+    "pageid": "572",
+    "title": "VHF Omnidirectional Range (VOR)",
+    "spectrum": [
+        "VORthmbnew.png"
+    ],
+    "audio": [
+        "VOR_sound.mp3"
+    ],
+    "category": [
+        "Aviation",
+        "Navigation"
+    ],
+    "frequency": [
+        {
+            "value": 108000000,
+            "description": ""
+        },
+        {
+            "value": 117950000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 21000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "AM",
+            "description": ""
+        },
+        {
+            "value": "FM",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "NFM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

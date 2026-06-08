@@ -1,0 +1,61 @@
+{
+    "pageid": "3201",
+    "title": "Robust PACKET",
+    "spectrum": [
+        "Robust PACKET.jpg"
+    ],
+    "audio": [
+        "robust-packet.mp3"
+    ],
+    "category": [
+        "Digital",
+        "Amateur Radio"
+    ],
+    "frequency": [
+        {
+            "value": 3610000,
+            "description": ""
+        },
+        {
+            "value": 7047300,
+            "description": ""
+        },
+        {
+            "value": 10147300,
+            "description": ""
+        },
+        {
+            "value": 14103300,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 500,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "PSK",
+            "description": ""
+        },
+        {
+            "value": "OFDM",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

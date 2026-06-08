@@ -1,37 +1,35 @@
 {
-    "signal": {
-        "name": "GM2100 (R&S)",
-        "url": "https://www.sigidwiki.com/wiki/GM2100_(R%26S)"
-    },
+    "pageid": "191",
+    "title": "Ionosonde",
+    "spectrum": [
+        "Ionosonde2e.png"
+    ],
+    "audio": [
+        "Ionosondee.mp3"
+    ],
     "category": [
-        "Digital",
-        "Military"
+        "Radar"
     ],
     "frequency": [
         {
-            "value": 3000000,
+            "value": 1000000,
             "description": ""
         },
         {
-            "value": 30000000,
+            "value": 40000000,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 3000,
+            "value": 1,
             "description": ""
         }
     ],
-    "acf": [
-        {
-            "value": 133.3,
-            "description": "Main"
-        }
-    ],
+    "acf": [],
     "modulation": [
         {
-            "value": "PSK",
+            "value": "FMCW",
             "description": ""
         }
     ],
@@ -43,7 +41,7 @@
     ],
     "location": [
         {
-            "value": "Europe",
+            "value": "Worldwide",
             "description": ""
         }
     ]

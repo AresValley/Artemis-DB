@@ -1,36 +1,43 @@
 {
-    "signal": {
-        "name": "Logic Trunked Radio (LTR)",
-        "url": "https://www.sigidwiki.com/wiki/Logic_Trunked_Radio_(LTR)"
-    },
+    "pageid": "283",
+    "title": "Binary Interchange of Information and Signaling (BIIS)",
+    "spectrum": [
+        "BIISthmb.jpg"
+    ],
+    "audio": [
+        "BIISsound.mp3"
+    ],
     "category": [
-        "Digital",
-        "Commercial"
+        "Digital"
     ],
     "frequency": [
+        {
+            "value": 446000000,
+            "description": ""
+        },
+        {
+            "value": 800000000,
+            "description": ""
+        },
         {
             "value": 150000000,
             "description": ""
         },
         {
-            "value": 470000000,
+            "value": 35000000,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 12500,
-            "description": ""
-        },
-        {
-            "value": 25000,
+            "value": 6000,
             "description": ""
         }
     ],
     "acf": [],
     "modulation": [
         {
-            "value": "FSK",
+            "value": "FFSK",
             "description": ""
         }
     ],
@@ -40,5 +47,10 @@
             "description": ""
         }
     ],
-    "location": []
+    "location": [
+        {
+            "value": "Europe",
+            "description": ""
+        }
+    ]
 }

@@ -1,0 +1,36 @@
+{
+    "pageid": "6622",
+    "title": "IsatData Pro",
+    "spectrum": [],
+    "audio": [],
+    "category": [
+        "Satellite",
+        "Digital",
+        "Commercial"
+    ],
+    "frequency": [
+        {
+            "value": 1525000000,
+            "description": ""
+        },
+        {
+            "value": 1559000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "OQPSK",
+            "description": ""
+        }
+    ],
+    "mode": [],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

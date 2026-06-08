@@ -1,32 +1,37 @@
 {
-    "signal": {
-        "name": "DeltaFix",
-        "url": "https://www.sigidwiki.com/wiki/DeltaFix"
-    },
+    "pageid": "134",
+    "title": "Redundant Digital File Transfer (RDFT)",
+    "spectrum": [
+        "Digtrx_intro.jpg"
+    ],
+    "audio": [
+        "DIGTRX_INTRO.mp3"
+    ],
     "category": [
-        "Marine",
-        "Navigation"
+        "Amateur Radio",
+        "Numbers Stations",
+        "Digital"
     ],
     "frequency": [
         {
-            "value": 1700000,
+            "value": 9240000,
             "description": ""
         },
         {
-            "value": 3400000,
+            "value": 9065000,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 250,
+            "value": 1800,
             "description": ""
         }
     ],
     "acf": [],
     "modulation": [
         {
-            "value": "FSK",
+            "value": "PSK",
             "description": ""
         }
     ],

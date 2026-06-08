@@ -1,1 +1,0 @@
-Inmarsat's M2M data service for SCADA asset tracking and reporting.

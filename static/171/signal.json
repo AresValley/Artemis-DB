@@ -1,19 +1,23 @@
 {
-    "signal": {
-        "name": "European Radio Message System (ERMES)",
-        "url": "https://www.sigidwiki.com/wiki/European_Radio_Message_System_(ERMES)"
-    },
+    "pageid": "171",
+    "title": "VHF Data Link - Mode 2 (VDL-M2)",
+    "spectrum": [
+        "VDL2_Waterfallthmb.jpg"
+    ],
+    "audio": [
+        "VDL-M2.mp3"
+    ],
     "category": [
-        "Digital",
-        "Commercial"
+        "Aviation",
+        "Digital"
     ],
     "frequency": [
         {
-            "value": 169412500,
+            "value": 117975000,
             "description": ""
         },
         {
-            "value": 169832500,
+            "value": 137000000,
             "description": ""
         }
     ],
@@ -23,27 +27,22 @@
             "description": ""
         }
     ],
-    "acf": [
-        {
-            "value": 740.0,
-            "description": "Main"
-        }
-    ],
+    "acf": [],
     "modulation": [
         {
-            "value": "4FSK",
+            "value": "PSK",
             "description": ""
         }
     ],
     "mode": [
         {
-            "value": "NFM",
+            "value": "RAW",
             "description": ""
         }
     ],
     "location": [
         {
-            "value": "Europe",
+            "value": "Worldwide",
             "description": ""
         }
     ]

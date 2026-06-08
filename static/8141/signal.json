@@ -1,0 +1,44 @@
+{
+    "pageid": "8141",
+    "title": "SOLRAD 7B (COSPAR ID: 1965-016D)",
+    "spectrum": [
+        "Solrad7bwf.png"
+    ],
+    "audio": [
+        "Solrad7bmodulationaudio.mp3"
+    ],
+    "category": [
+        "Satellite",
+        "Analogue"
+    ],
+    "frequency": [
+        {
+            "value": 136.8,
+            "description": ""
+        },
+        {
+            "value": 136806000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 6000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "AM IRIG",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": []
+}

@@ -1,0 +1,41 @@
+{
+    "pageid": "1733",
+    "title": "WiMAX",
+    "spectrum": [],
+    "audio": [
+        "WiMAX.wav"
+    ],
+    "category": [
+        "Digital",
+        "Commercial"
+    ],
+    "frequency": [],
+    "bandwidth": [
+        {
+            "value": 1250000,
+            "description": ""
+        },
+        {
+            "value": 20000000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "OFDM",
+            "description": ""
+        },
+        {
+            "value": "OFDMA",
+            "description": ""
+        }
+    ],
+    "mode": [],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

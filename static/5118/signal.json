@@ -1,0 +1,45 @@
+{
+    "pageid": "5118",
+    "title": "Vaisala RS80",
+    "spectrum": [
+        "RS80Waterfall.png"
+    ],
+    "audio": [
+        "RS80 Recudedd audio Audio.mp3"
+    ],
+    "category": [
+        "Analogue",
+        "Utility"
+    ],
+    "frequency": [
+        {
+            "value": 1680000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 120000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "MFSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "FM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

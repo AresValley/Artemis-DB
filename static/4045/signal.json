@@ -1,0 +1,49 @@
+{
+    "pageid": "4045",
+    "title": "Link-11 (UHF)",
+    "spectrum": [
+        "Link-11_UHF.jpg"
+    ],
+    "audio": [
+        "Link-11_UHF.mp3"
+    ],
+    "category": [
+        "Military",
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 225000000,
+            "description": ""
+        },
+        {
+            "value": 399975000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 30000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "PSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "NFM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

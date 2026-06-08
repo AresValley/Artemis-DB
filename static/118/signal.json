@@ -1,32 +1,41 @@
 {
-    "signal": {
-        "name": "Coherent CW",
-        "url": "https://www.sigidwiki.com/wiki/Coherent_CW"
-    },
+    "pageid": "118",
+    "title": "STANAG 4285",
+    "spectrum": [
+        "STANAG_4285.jpg"
+    ],
+    "audio": [
+        "STANAG4285_TFC.mp3"
+    ],
     "category": [
-        "Digital",
-        "Amateur Radio"
+        "Military",
+        "Digital"
     ],
     "frequency": [
         {
-            "value": 3000000,
+            "value": 1890000,
             "description": ""
         },
         {
-            "value": 30000000,
+            "value": 22700000,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 1,
+            "value": 2750,
             "description": ""
         }
     ],
-    "acf": [],
+    "acf": [
+        {
+            "value": "106.66 ms",
+            "description": ""
+        }
+    ],
     "modulation": [
         {
-            "value": "OOK",
+            "value": "PSK",
             "description": ""
         }
     ],

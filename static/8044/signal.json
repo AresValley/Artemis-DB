@@ -1,0 +1,46 @@
+{
+    "pageid": "8044",
+    "title": "GK-2A LRIT ( Low-Rate Image Transmission )",
+    "spectrum": [
+        "LRIT_TRAFFIC.png"
+    ],
+    "audio": [
+        "LRIT_AM.wav"
+    ],
+    "category": [
+        "Satellite",
+        "Digital",
+        "Utility"
+    ],
+    "frequency": [
+        {
+            "value": 1692100000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 170000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "BPSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "RAW",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Asia-Pacific",
+            "description": ""
+        }
+    ]
+}

@@ -1,27 +1,53 @@
 {
-    "signal": {
-        "name": "Friedland Libra+ 48249SL wireless doorbell",
-        "url": "https://www.sigidwiki.com/wiki/Friedland_Libra%2B_48249SL_wireless_doorbell"
-    },
-    "category": [],
+    "pageid": "188",
+    "title": "Orbcomm",
+    "spectrum": [
+        "ORBCOMM.jpg"
+    ],
+    "audio": [
+        "ORBCOMM-STX.mp3"
+    ],
+    "category": [
+        "Digital",
+        "Satellite"
+    ],
     "frequency": [
         {
-            "value": 868000000,
+            "value": 137000000,
+            "description": ""
+        },
+        {
+            "value": 150000000,
             "description": ""
         }
     ],
-    "bandwidth": [],
-    "acf": [],
+    "bandwidth": [
+        {
+            "value": 15000,
+            "description": ""
+        }
+    ],
+    "acf": [
+        {
+            "value": "1000 ms",
+            "description": ""
+        }
+    ],
     "modulation": [
         {
-            "value": "FSK",
+            "value": "SDPSK",
             "description": ""
         }
     ],
-    "mode": [],
+    "mode": [
+        {
+            "value": "NFM",
+            "description": ""
+        }
+    ],
     "location": [
         {
-            "value": "Finland",
+            "value": "Worldwide",
             "description": ""
         }
     ]

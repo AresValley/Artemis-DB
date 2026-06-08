@@ -1,29 +1,29 @@
 {
-    "signal": {
-        "name": "HC-265 Voice Scrambler",
-        "url": "https://www.sigidwiki.com/wiki/HC-265_Voice_Scrambler"
-    },
+    "pageid": "212",
+    "title": "Japan Military 8-Channel FSK",
+    "spectrum": [
+        "Japan_8_2-fsk.jpg"
+    ],
+    "audio": [
+        "jp_mil.mp3"
+    ],
     "category": [
         "Military",
         "Digital"
     ],
     "frequency": [
         {
-            "value": 3000000,
+            "value": 16553500,
             "description": ""
         },
         {
-            "value": 30000000,
+            "value": 4295000,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 2250,
-            "description": ""
-        },
-        {
-            "value": 3000,
+            "value": 2400,
             "description": ""
         }
     ],
@@ -42,7 +42,7 @@
     ],
     "location": [
         {
-            "value": "Worldwide",
+            "value": "Japan",
             "description": ""
         }
     ]

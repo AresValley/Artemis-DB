@@ -1,0 +1,56 @@
+{
+    "pageid": "8671",
+    "title": "CIS OFDM-121",
+    "spectrum": [
+        "CIS OFDM-121 waterfall.png"
+    ],
+    "audio": [
+        "USB CIS OFDM-121.mp3"
+    ],
+    "category": [
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 4454000,
+            "description": ""
+        },
+        {
+            "value": 20866000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 3100,
+            "description": ""
+        },
+        {
+            "value": 2700,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "OFDM",
+            "description": ""
+        },
+        {
+            "value": "QPSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Russia",
+            "description": ""
+        }
+    ]
+}

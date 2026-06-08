@@ -1,37 +1,29 @@
 {
-    "signal": {
-        "name": "China digital radio (CDR)",
-        "url": "https://www.sigidwiki.com/wiki/China_digital_radio_(CDR)"
-    },
+    "pageid": "109",
+    "title": "Digital Audio Broadcasting (DAB)",
+    "spectrum": [
+        "Dab+.JPG"
+    ],
+    "audio": [
+        "Dab+.mp3"
+    ],
     "category": [
-        "Commercial",
-        "Digital"
+        "Digital",
+        "Commercial"
     ],
     "frequency": [
         {
-            "value": 106100000,
+            "value": 174000000,
+            "description": ""
+        },
+        {
+            "value": 239000000,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 100000,
-            "description": ""
-        },
-        {
-            "value": 200000,
-            "description": ""
-        },
-        {
-            "value": 300000,
-            "description": ""
-        },
-        {
-            "value": 400000,
-            "description": ""
-        },
-        {
-            "value": 500000,
+            "value": 1536000,
             "description": ""
         }
     ],
@@ -44,13 +36,13 @@
     ],
     "mode": [
         {
-            "value": "USB",
+            "value": "AM",
             "description": ""
         }
     ],
     "location": [
         {
-            "value": "China",
+            "value": "Worldwide",
             "description": ""
         }
     ]

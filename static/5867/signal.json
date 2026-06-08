@@ -1,0 +1,49 @@
+{
+    "pageid": "5867",
+    "title": "Hoffman Broadfield Signpost AVM System",
+    "spectrum": [
+        "Mpt1327 clone.png"
+    ],
+    "audio": [
+        "SDRSharp 20200628 022743Z 507875000Hz AF.mp3"
+    ],
+    "category": [
+        "Commercial",
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 517875000,
+            "description": ""
+        },
+        {
+            "value": 507225000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 7500,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "FFSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "NFM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Australia",
+            "description": ""
+        }
+    ]
+}

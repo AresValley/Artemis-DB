@@ -1,26 +1,77 @@
 {
-    "signal": {
-        "name": "Cobra Dane",
-        "url": "https://www.sigidwiki.com/wiki/Cobra_Dane"
-    },
-    "category": [],
+    "pageid": "115",
+    "title": "Digital Radio Mondiale (DRM)",
+    "spectrum": [
+        "DRMimage.png"
+    ],
+    "audio": [
+        "Digital_Radio_Mondiale_USB.mp3"
+    ],
+    "category": [
+        "Digital",
+        "Commercial"
+    ],
     "frequency": [
         {
-            "value": 1215000000,
+            "value": 531000,
             "description": ""
         },
         {
-            "value": 1400000000,
+            "value": 26060000,
             "description": ""
         }
     ],
-    "bandwidth": [],
-    "acf": [],
-    "modulation": [],
-    "mode": [],
+    "bandwidth": [
+        {
+            "value": 4500,
+            "description": ""
+        },
+        {
+            "value": 5000,
+            "description": ""
+        },
+        {
+            "value": 9000,
+            "description": ""
+        },
+        {
+            "value": 10000,
+            "description": ""
+        },
+        {
+            "value": 18000,
+            "description": ""
+        },
+        {
+            "value": 20000,
+            "description": ""
+        }
+    ],
+    "acf": [
+        {
+            "value": "400 ms",
+            "description": ""
+        }
+    ],
+    "modulation": [
+        {
+            "value": "QAM",
+            "description": ""
+        },
+        {
+            "value": "OFDM",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
     "location": [
         {
-            "value": "United States",
+            "value": "Worldwide",
             "description": ""
         }
     ]

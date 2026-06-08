@@ -1,0 +1,45 @@
+{
+    "pageid": "5821",
+    "title": "ELEKTRO-L GGAK-E Direct Broadcast",
+    "spectrum": [
+        "ELEKTRO-L N2 BCN.png"
+    ],
+    "audio": [
+        "Ggak l2.mp3"
+    ],
+    "category": [
+        "Digital",
+        "Satellite"
+    ],
+    "frequency": [
+        {
+            "value": 1693000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 15000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "PSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "DSB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Asia, Europe",
+            "description": ""
+        }
+    ]
+}

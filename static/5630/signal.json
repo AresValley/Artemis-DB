@@ -1,0 +1,61 @@
+{
+    "pageid": "5630",
+    "title": "China digital radio (CDR)",
+    "spectrum": [
+        "CroppedCDR.png"
+    ],
+    "audio": [
+        "CDRrecording1.mp3"
+    ],
+    "category": [
+        "Commercial",
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 106100000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 100000,
+            "description": ""
+        },
+        {
+            "value": 200000,
+            "description": ""
+        },
+        {
+            "value": 300000,
+            "description": ""
+        },
+        {
+            "value": 400000,
+            "description": ""
+        },
+        {
+            "value": 500000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "OFDM",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "China",
+            "description": ""
+        }
+    ]
+}

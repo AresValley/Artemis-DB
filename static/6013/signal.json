@@ -1,0 +1,50 @@
+{
+    "pageid": "6013",
+    "title": "CAS-4A/B Satellite Telemetry",
+    "spectrum": [
+        "CAS4B2.png"
+    ],
+    "audio": [
+        "CAS 4Sound.mp3"
+    ],
+    "category": [
+        "Amateur Radio",
+        "Satellite",
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 145835000,
+            "description": ""
+        },
+        {
+            "value": 145890000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 10000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "GMSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "NFM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

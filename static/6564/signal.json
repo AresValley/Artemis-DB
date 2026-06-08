@@ -1,0 +1,47 @@
+{
+    "pageid": "6564",
+    "title": "Secondary surveillance radar (SSR)",
+    "spectrum": [
+        "Interrogator.JPG"
+    ],
+    "audio": [
+        "Interrogator.mp3"
+    ],
+    "category": [
+        "Radar",
+        "Commercial",
+        "Aviation",
+        "Navigation"
+    ],
+    "frequency": [
+        {
+            "value": 1030000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 3000000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "PPM",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "RAW",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

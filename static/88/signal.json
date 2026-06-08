@@ -1,44 +1,80 @@
 {
-    "signal": {
-        "name": "CIS-16",
-        "url": "https://www.sigidwiki.com/wiki/CIS-16"
-    },
+    "pageid": "88",
+    "title": "Automatic Packet Reporting System (APRS)",
+    "spectrum": [
+        "APRS.jpg"
+    ],
+    "audio": [
+        "AFSK1200_Sound.mp3"
+    ],
     "category": [
-        "Digital",
-        "Military"
+        "Amateur Radio",
+        "Digital"
     ],
     "frequency": [
         {
-            "value": 3000000,
+            "value": 144390000,
             "description": ""
         },
         {
-            "value": 30000000,
+            "value": 145570000,
+            "description": ""
+        },
+        {
+            "value": 144575000,
+            "description": ""
+        },
+        {
+            "value": 144640000,
+            "description": ""
+        },
+        {
+            "value": 144660000,
+            "description": ""
+        },
+        {
+            "value": 144930000,
+            "description": ""
+        },
+        {
+            "value": 145825000,
+            "description": ""
+        },
+        {
+            "value": 432500000,
+            "description": ""
+        },
+        {
+            "value": 144800000,
+            "description": ""
+        },
+        {
+            "value": 145175000,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 2700,
+            "value": 12500,
             "description": ""
         }
     ],
     "acf": [],
     "modulation": [
         {
-            "value": "PSK",
+            "value": "AFSK",
             "description": ""
         }
     ],
     "mode": [
         {
-            "value": "USB",
+            "value": "NFM",
             "description": ""
         }
     ],
     "location": [
         {
-            "value": "Russia",
+            "value": "Worldwide",
             "description": ""
         }
     ]

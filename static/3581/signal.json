@@ -1,0 +1,46 @@
+{
+    "pageid": "3581",
+    "title": "Wireless Temperature Sensor",
+    "spectrum": [
+        "WTS.png"
+    ],
+    "audio": [
+        "SDRSharp 20160326 002438Z 433992kHz AF Flinders Uni Freezer Telemetry.mp3"
+    ],
+    "category": [
+        "Commercial",
+        "Digital",
+        "Utility"
+    ],
+    "frequency": [
+        {
+            "value": 434000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 150000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "CSS",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "FM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Australia",
+            "description": ""
+        }
+    ]
+}

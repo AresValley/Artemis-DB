@@ -1,0 +1,54 @@
+{
+    "pageid": "8180",
+    "title": "Altai Radiotelephone",
+    "spectrum": [
+        "Altai_Waterfall.png"
+    ],
+    "audio": [
+        "Altai_Broadcast.wav"
+    ],
+    "category": [
+        "Commercial",
+        "Analogue",
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 300000000,
+            "description": ""
+        },
+        {
+            "value": 342000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 10000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "FM",
+            "description": ""
+        },
+        {
+            "value": "FSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "NFM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "pageid": "2213",
+    "title": "CCIR 493-4 Selcall",
+    "spectrum": [
+        "Ccir_493.jpg"
+    ],
+    "audio": [
+        "CCIR_493-4_.mp3"
+    ],
+    "category": [
+        "Digital",
+        "Commercial",
+        "Amateur Radio"
+    ],
+    "frequency": [
+        {
+            "value": 3000000,
+            "description": ""
+        },
+        {
+            "value": 30000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 300,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "FSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

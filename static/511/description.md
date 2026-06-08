@@ -1,1 +1,0 @@
-System Fusion is Yaesu's digital voice/data protocol for amateur radio, using the AMBE+2 vocoder on a C4FM signal.

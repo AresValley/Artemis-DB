@@ -1,32 +1,35 @@
 {
-    "signal": {
-        "name": "Graw DFM-06 Weather Balloon (Radiosonde)",
-        "url": "https://www.sigidwiki.com/wiki/Graw_DFM-06_Weather_Balloon_(Radiosonde)"
-    },
+    "pageid": "208",
+    "title": "Tire Pressure Monitoring System (TPMS)",
+    "spectrum": [
+        "TPMS.png"
+    ],
+    "audio": [
+        "TPMS_audio.mp3"
+    ],
     "category": [
-        "Digital",
         "Utility"
     ],
     "frequency": [
         {
-            "value": 400010000,
+            "value": 315000000,
             "description": ""
         },
         {
-            "value": 405990000,
+            "value": 434000000,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 20000,
+            "value": 100000,
             "description": ""
         }
     ],
     "acf": [
         {
-            "value": 2000.0,
-            "description": "Main"
+            "value": "7.433ms",
+            "description": ""
         }
     ],
     "modulation": [
@@ -37,13 +40,13 @@
     ],
     "mode": [
         {
-            "value": "NFM",
+            "value": "AM",
             "description": ""
         }
     ],
     "location": [
         {
-            "value": "Europe",
+            "value": "Worldwide",
             "description": ""
         }
     ]

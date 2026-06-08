@@ -1,0 +1,52 @@
+{
+    "pageid": "6560",
+    "title": "Primary Aeronautical Surveillance Radar",
+    "spectrum": [
+        "L-band radar.JPG"
+    ],
+    "audio": [
+        "L-band aero radar.mp3"
+    ],
+    "category": [
+        "Radar",
+        "Commercial",
+        "Navigation",
+        "Analogue",
+        "Aviation"
+    ],
+    "frequency": [
+        {
+            "value": 1215000000,
+            "description": ""
+        },
+        {
+            "value": 1400000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 3000000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "Pulse",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "RAW",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

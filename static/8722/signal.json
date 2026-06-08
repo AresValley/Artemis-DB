@@ -1,0 +1,48 @@
+{
+    "pageid": "8722",
+    "title": "Microwave motion sensor (doppler radar module)",
+    "spectrum": [
+        "MWlamp.jpg"
+    ],
+    "audio": [
+        "MWlamp.mp3"
+    ],
+    "category": [
+        "Utility"
+    ],
+    "frequency": [
+        {
+            "value": 5820000000,
+            "description": ""
+        },
+        {
+            "value": 5840000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 100,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "CW doppler",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "CW, RAW",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

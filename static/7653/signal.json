@@ -1,0 +1,60 @@
+{
+    "pageid": "7653",
+    "title": "CIS W-MFSK-17",
+    "spectrum": [
+        "Unknown MFSK-17 or FHSS 2.png"
+    ],
+    "audio": [
+        "Unknown MFSK-17 or FHSS USB 20kHz.ogg"
+    ],
+    "category": [
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 5071000,
+            "description": ""
+        },
+        {
+            "value": 6778000,
+            "description": ""
+        },
+        {
+            "value": 8158000,
+            "description": ""
+        },
+        {
+            "value": 13373000,
+            "description": ""
+        },
+        {
+            "value": 13361000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 37500,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "MFSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Russia",
+            "description": ""
+        }
+    ]
+}

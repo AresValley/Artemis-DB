@@ -1,0 +1,45 @@
+{
+    "pageid": "6667",
+    "title": "Wettersonde E084 (Radiosonde)",
+    "spectrum": [
+        "E084 wettersonde waterfall.png"
+    ],
+    "audio": [
+        "E084 radiosonde audio.mp3"
+    ],
+    "category": [
+        "Utility",
+        "Analogue"
+    ],
+    "frequency": [
+        {
+            "value": 403050000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 2500,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "FM",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "NFM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Europe",
+            "description": ""
+        }
+    ]
+}

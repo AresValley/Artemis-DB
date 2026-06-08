@@ -1,24 +1,24 @@
 {
-    "signal": {
-        "name": "SI-FEC",
-        "url": "https://www.sigidwiki.com/wiki/SI-FEC"
-    },
+    "pageid": "420",
+    "title": "ECG Telemetry",
+    "spectrum": [
+        "beeper.png"
+    ],
+    "audio": [
+        "beeper.mp3"
+    ],
     "category": [
-        "Digital"
+        "Utility"
     ],
     "frequency": [
         {
-            "value": 3000000,
-            "description": ""
-        },
-        {
-            "value": 30000000,
+            "value": 403959000,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 280,
+            "value": 1000,
             "description": ""
         }
     ],
@@ -31,13 +31,13 @@
     ],
     "mode": [
         {
-            "value": "USB",
+            "value": "FM",
             "description": ""
         }
     ],
     "location": [
         {
-            "value": "Europe",
+            "value": "Australia",
             "description": ""
         }
     ]

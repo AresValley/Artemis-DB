@@ -1,0 +1,43 @@
+{
+    "pageid": "6610",
+    "title": "GOES High Rate Information Transmission (HRIT)",
+    "spectrum": [
+        "HRITnew.png"
+    ],
+    "audio": [],
+    "category": [
+        "Digital",
+        "Satellite"
+    ],
+    "frequency": [
+        {
+            "value": 1694100000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 1205000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "BPSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "RAW",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

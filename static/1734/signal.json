@@ -1,0 +1,48 @@
+{
+    "pageid": "1734",
+    "title": "Bluetooth",
+    "spectrum": [
+        "blut.png"
+    ],
+    "audio": [
+        "Bluetooth.mp3"
+    ],
+    "category": [
+        "Digital",
+        "Utility"
+    ],
+    "frequency": [
+        {
+            "value": 2400000000,
+            "description": ""
+        },
+        {
+            "value": 2485000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 1000000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "GFSK",
+            "description": ""
+        },
+        {
+            "value": "DPSK",
+            "description": ""
+        }
+    ],
+    "mode": [],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

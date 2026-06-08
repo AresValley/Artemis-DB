@@ -1,0 +1,43 @@
+{
+    "pageid": "6764",
+    "title": "S-Band Jammer",
+    "spectrum": [
+        "RADAR JAMMER HDSDR.jpg"
+    ],
+    "audio": [],
+    "category": [
+        "Military",
+        "Commercial",
+        "Analogue"
+    ],
+    "frequency": [
+        {
+            "value": 2400000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 100000,
+            "description": ""
+        },
+        {
+            "value": 100000000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "Noise",
+            "description": ""
+        }
+    ],
+    "mode": [],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

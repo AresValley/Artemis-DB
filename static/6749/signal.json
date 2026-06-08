@@ -1,0 +1,47 @@
+{
+    "pageid": "6749",
+    "title": "METOP Advanced High Resolution Picture Transmission (AHRPT)",
+    "spectrum": [
+        "METOP-AHRPT-WF.png"
+    ],
+    "audio": [],
+    "category": [
+        "Satellite",
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 1701300000,
+            "description": ""
+        },
+        {
+            "value": 1707000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 6000000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "QPSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "RAW",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

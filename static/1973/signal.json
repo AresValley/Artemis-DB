@@ -1,0 +1,50 @@
+{
+    "pageid": "1973",
+    "title": "ARQ-M2-342",
+    "spectrum": [
+        "ARQ-M2-342.jpg"
+    ],
+    "audio": [
+        "arq-m2-342.mp3"
+    ],
+    "category": [
+        "Digital",
+        "Aviation",
+        "Marine"
+    ],
+    "frequency": [
+        {
+            "value": 3000000,
+            "description": ""
+        },
+        {
+            "value": 30000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 600,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "FSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

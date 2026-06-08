@@ -1,0 +1,42 @@
+{
+    "pageid": "7568",
+    "title": "North Korean noise jammer",
+    "spectrum": [
+        "NK jammer.png"
+    ],
+    "audio": [
+        "NK_jammer_AM.wav"
+    ],
+    "category": [],
+    "frequency": [
+        {
+            "value": 6600000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 7000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "AM",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "AM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "North Korea",
+            "description": ""
+        }
+    ]
+}

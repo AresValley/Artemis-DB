@@ -1,0 +1,81 @@
+{
+    "pageid": "2900",
+    "title": "Iranian Navy QPSK Modem",
+    "spectrum": [
+        "Iranian Navy QPSK 468.jpg"
+    ],
+    "audio": [
+        "strange 8475.mp3"
+    ],
+    "category": [
+        "Military",
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 8475000,
+            "description": ""
+        },
+        {
+            "value": 8046000,
+            "description": ""
+        },
+        {
+            "value": 10724000,
+            "description": ""
+        },
+        {
+            "value": 17382200,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 700,
+            "description": ""
+        },
+        {
+            "value": 300,
+            "description": ""
+        },
+        {
+            "value": 620,
+            "description": ""
+        },
+        {
+            "value": 1250,
+            "description": ""
+        },
+        {
+            "value": 2520,
+            "description": ""
+        },
+        {
+            "value": 1420,
+            "description": ""
+        },
+        {
+            "value": 2850,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "PSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Iran",
+            "description": ""
+        }
+    ]
+}

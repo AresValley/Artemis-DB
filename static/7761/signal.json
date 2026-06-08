@@ -1,0 +1,39 @@
+{
+    "pageid": "7761",
+    "title": "Possible quarry telemetry",
+    "spectrum": [
+        "2025-01-01 21 02 28-.png"
+    ],
+    "audio": [
+        "20250101.wav"
+    ],
+    "category": [
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 462775000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 8000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [],
+    "mode": [
+        {
+            "value": "NFM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Shellharbour, Australia",
+            "description": ""
+        }
+    ]
+}

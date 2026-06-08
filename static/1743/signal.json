@@ -1,0 +1,43 @@
+{
+    "pageid": "1743",
+    "title": "Glenayre Paging Link",
+    "spectrum": [
+        "glenayre paging link spectra.PNG"
+    ],
+    "audio": [
+        "152.54-Glenayre.mp3"
+    ],
+    "category": [
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 512000000,
+            "description": ""
+        },
+        {
+            "value": 152000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "QAM",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "NFM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "United States",
+            "description": ""
+        }
+    ]
+}

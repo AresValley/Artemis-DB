@@ -1,0 +1,49 @@
+{
+    "pageid": "3948",
+    "title": "Amplitude Modulation Signalling System (AMSS)",
+    "spectrum": [
+        "AMSS.jpg"
+    ],
+    "audio": [
+        "Amss.ogg"
+    ],
+    "category": [
+        "Commercial",
+        "Analogue",
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 30000000,
+            "description": ""
+        },
+        {
+            "value": 100000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 200,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "AM",
+            "description": ""
+        },
+        {
+            "value": "PSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "SSB",
+            "description": ""
+        }
+    ],
+    "location": []
+}

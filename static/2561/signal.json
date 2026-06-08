@@ -1,0 +1,46 @@
+{
+    "pageid": "2561",
+    "title": "The Buzzer (ZhUOZ MDZhB UZB76)",
+    "spectrum": [
+        "Screenshot 2025-03-04 11.53.04 AM.png"
+    ],
+    "audio": [
+        "2019-02-19T03_53_11Z_4625.00_usb.mp3"
+    ],
+    "category": [
+        "Analogue",
+        "Military",
+        "Numbers Stations"
+    ],
+    "frequency": [
+        {
+            "value": 4625000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 2800,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "AM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Russia",
+            "description": ""
+        }
+    ]
+}

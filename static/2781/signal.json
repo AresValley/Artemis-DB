@@ -1,0 +1,48 @@
+{
+    "pageid": "2781",
+    "title": "VEZHA-S",
+    "spectrum": [
+        "RUS_FSK_COMMS.jpg"
+    ],
+    "audio": [
+        "RUS_VEZHA.mp3"
+    ],
+    "category": [
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 2755000,
+            "description": ""
+        },
+        {
+            "value": 12165000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 650,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "FSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Russia",
+            "description": ""
+        }
+    ]
+}

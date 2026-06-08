@@ -1,0 +1,44 @@
+{
+    "pageid": "6972",
+    "title": "MONITOR-2(RS39S)",
+    "spectrum": [
+        "Monitor-22.png"
+    ],
+    "audio": [
+        "Monitor-2TLM.mp3"
+    ],
+    "category": [
+        "Satellite"
+    ],
+    "frequency": [
+        {
+            "value": 435815000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 12500,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "AFSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "FM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

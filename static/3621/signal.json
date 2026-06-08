@@ -1,0 +1,49 @@
+{
+    "pageid": "3621",
+    "title": "SIGFOX",
+    "spectrum": [
+        "3_SIGFOX.jpg"
+    ],
+    "audio": [
+        "SIGFOX_BPSK.mp3"
+    ],
+    "category": [
+        "Commercial",
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 868000000,
+            "description": ""
+        },
+        {
+            "value": 868600000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 200000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "BPSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "RAW",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

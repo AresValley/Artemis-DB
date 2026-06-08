@@ -1,0 +1,65 @@
+{
+    "pageid": "8568",
+    "title": "Digital Video Broadcasting — Satellite (DVB-S)",
+    "spectrum": [
+        "DVB-S.jpg"
+    ],
+    "audio": [
+        "V_SAT-TV_Thor_DVB-S2.mp3"
+    ],
+    "category": [
+        "Digital",
+        "Commercial"
+    ],
+    "frequency": [
+        {
+            "value": 10700000000,
+            "description": ""
+        },
+        {
+            "value": 12700000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 100000,
+            "description": ""
+        },
+        {
+            "value": 72000000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "QPSK",
+            "description": ""
+        },
+        {
+            "value": "8PSK",
+            "description": ""
+        },
+        {
+            "value": "16APSK",
+            "description": ""
+        },
+        {
+            "value": "32APSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "ACM/VCM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Europe, Asia",
+            "description": ""
+        }
+    ]
+}

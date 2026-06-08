@@ -1,0 +1,48 @@
+{
+    "pageid": "5274",
+    "title": "SuperDARN (Super Dual Auroral Radar Network)",
+    "spectrum": [
+        "SuperDARN new showcase by Userbotnet.png"
+    ],
+    "audio": [
+        "SuperDARN.mp3"
+    ],
+    "category": [
+        "Radar"
+    ],
+    "frequency": [
+        {
+            "value": 9000000,
+            "description": ""
+        },
+        {
+            "value": 16000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 6000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "PPM",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

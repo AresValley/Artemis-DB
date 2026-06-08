@@ -1,0 +1,50 @@
+{
+    "pageid": "7588",
+    "title": "Monaco Enterprises MAAP Fire Alarm",
+    "spectrum": [
+        "Dod fa.png"
+    ],
+    "audio": [
+        "SDRSharp 20240826 225045Z 139676000Hz AF.wav"
+    ],
+    "category": [
+        "Military",
+        "Digital",
+        "Utility"
+    ],
+    "frequency": [
+        {
+            "value": 138950000,
+            "description": ""
+        },
+        {
+            "value": 139675000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 15000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "FSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "FM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "United States",
+            "description": ""
+        }
+    ]
+}

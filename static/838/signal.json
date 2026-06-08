@@ -1,0 +1,54 @@
+{
+    "pageid": "838",
+    "title": "SiriusXM Satellite Radio",
+    "spectrum": [
+        "XM Sattelite Radio.PNG"
+    ],
+    "audio": [
+        "XM Sattelite Radio sounds.mp3"
+    ],
+    "category": [
+        "Satellite",
+        "Digital",
+        "Commercial"
+    ],
+    "frequency": [
+        {
+            "value": 2332500000,
+            "description": ""
+        },
+        {
+            "value": 2345000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 12500000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "OFDM",
+            "description": ""
+        },
+        {
+            "value": "PSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "RAW",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "United States",
+            "description": ""
+        }
+    ]
+}

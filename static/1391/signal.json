@@ -1,0 +1,57 @@
+{
+    "pageid": "1391",
+    "title": "Non-Directional Beacon (NDB)",
+    "spectrum": [
+        "Ndb-pes.jpg"
+    ],
+    "audio": [
+        "NDB.mp3"
+    ],
+    "category": [
+        "Aviation",
+        "Navigation"
+    ],
+    "frequency": [
+        {
+            "value": 190000,
+            "description": ""
+        },
+        {
+            "value": 535000,
+            "description": ""
+        },
+        {
+            "value": 1750000,
+            "description": ""
+        },
+        {
+            "value": 1800000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 2000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "AM",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "CW",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

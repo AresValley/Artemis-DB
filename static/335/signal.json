@@ -1,48 +1,53 @@
 {
-    "signal": {
-        "name": "NTSC Broadcast",
-        "url": "https://www.sigidwiki.com/wiki/NTSC_Broadcast"
-    },
+    "pageid": "335",
+    "title": "European Radio Message System (ERMES)",
+    "spectrum": [
+        "ERMES_waterfall.jpg"
+    ],
+    "audio": [
+        "Ermes-3125bps.mp3"
+    ],
     "category": [
-        "Analogue",
+        "Digital",
         "Commercial"
     ],
     "frequency": [
         {
-            "value": 54000000,
+            "value": 169412500,
             "description": ""
         },
         {
-            "value": 806000000,
+            "value": 169832500,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 6000000,
+            "value": 25000,
             "description": ""
         }
     ],
-    "acf": [],
+    "acf": [
+        {
+            "value": "740 ms",
+            "description": ""
+        }
+    ],
     "modulation": [
         {
-            "value": "QAM",
-            "description": ""
-        },
-        {
-            "value": "VSB",
+            "value": "4FSK",
             "description": ""
         }
     ],
     "mode": [
         {
-            "value": "RAW",
+            "value": "NFM",
             "description": ""
         }
     ],
     "location": [
         {
-            "value": "Worldwide",
+            "value": "Europe",
             "description": ""
         }
     ]

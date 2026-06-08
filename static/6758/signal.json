@@ -1,0 +1,45 @@
+{
+    "pageid": "6758",
+    "title": "NOAA ITOS High Resolution Picture Transmission (HRPT)",
+    "spectrum": [
+        "NOAA ITOS HRPT WF.png"
+    ],
+    "audio": [
+        "ITOS HRPT Audio.mp3"
+    ],
+    "category": [
+        "Satellite",
+        "Analogue"
+    ],
+    "frequency": [
+        {
+            "value": 1697500000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 1000000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "FM",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "WFM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

@@ -1,0 +1,63 @@
+{
+    "pageid": "2913",
+    "title": "CIS-48",
+    "spectrum": [
+        "CIS-48.jpg"
+    ],
+    "audio": [
+        "CIS-48.mp3"
+    ],
+    "category": [
+        "Digital",
+        "Military",
+        "Military",
+        "Military"
+    ],
+    "frequency": [
+        {
+            "value": 16459000,
+            "description": ""
+        },
+        {
+            "value": 17289000,
+            "description": ""
+        },
+        {
+            "value": 17234000,
+            "description": ""
+        },
+        {
+            "value": 5017000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 2000000,
+            "description": ""
+        },
+        {
+            "value": 3000000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "PSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Russia",
+            "description": ""
+        }
+    ]
+}

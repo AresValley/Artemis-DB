@@ -1,43 +1,50 @@
 {
-    "signal": {
-        "name": "Continuous Tone-Coded Squelch System (CTCSS)",
-        "url": "https://www.sigidwiki.com/wiki/Continuous_Tone-Coded_Squelch_System_(CTCSS)"
-    },
-    "category": [],
+    "pageid": "121",
+    "title": "2G (GSM) Global System for Mobile Communications",
+    "spectrum": [
+        "GSM TK 03 BCCH.jpg"
+    ],
+    "audio": [
+        "GSM_TK_03_BCCH.mp3"
+    ],
+    "category": [
+        "Digital",
+        "Commercial"
+    ],
     "frequency": [
         {
-            "value": 30000000,
+            "value": 850000000,
             "description": ""
         },
         {
-            "value": 800000000,
+            "value": 900000000,
+            "description": ""
+        },
+        {
+            "value": 1800000000,
+            "description": ""
+        },
+        {
+            "value": 1900000000,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 5000,
-            "description": ""
-        },
-        {
-            "value": 12500,
-            "description": ""
-        },
-        {
-            "value": 30000,
+            "value": 200000,
             "description": ""
         }
     ],
     "acf": [],
     "modulation": [
         {
-            "value": "CW",
+            "value": "GMSK",
             "description": ""
         }
     ],
     "mode": [
         {
-            "value": "NFM",
+            "value": "RAW, AM, FM",
             "description": ""
         }
     ],

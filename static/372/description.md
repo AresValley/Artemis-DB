@@ -1,1 +1,0 @@
-An unknown use of pager data thats sent in the form of frames, possibly used to send SSTV or confidnetial Faxes over a re-purposed POCSAG or FLEX transmitter.

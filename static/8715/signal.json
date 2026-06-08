@@ -1,0 +1,48 @@
+{
+    "pageid": "8715",
+    "title": "Magnetron (microwave owen)",
+    "spectrum": [
+        "MWowen.jpg"
+    ],
+    "audio": [
+        "MWowen.mp3"
+    ],
+    "category": [
+        "Utility"
+    ],
+    "frequency": [
+        {
+            "value": 2440000000,
+            "description": ""
+        },
+        {
+            "value": 2460000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 20000000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "Pulse",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "RAW",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

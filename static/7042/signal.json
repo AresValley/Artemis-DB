@@ -1,0 +1,32 @@
+{
+    "pageid": "7042",
+    "title": "North Korean Siren Jammer",
+    "spectrum": [
+        "NorthKoreaSirenJammer.png"
+    ],
+    "audio": [
+        "NorthKoreanSignalJammer.mp3"
+    ],
+    "category": [],
+    "frequency": [
+        {
+            "value": 4450000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [],
+    "acf": [],
+    "modulation": [],
+    "mode": [
+        {
+            "value": "AM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Pyongyang, North Korea",
+            "description": ""
+        }
+    ]
+}

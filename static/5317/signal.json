@@ -1,0 +1,68 @@
+{
+    "pageid": "5317",
+    "title": "802.11n",
+    "spectrum": [
+        "Wi-Fi_20MHz.jpg"
+    ],
+    "audio": [
+        "802.11n.mp3"
+    ],
+    "category": [
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 2412000000,
+            "description": ""
+        },
+        {
+            "value": 5865000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 20000000,
+            "description": ""
+        },
+        {
+            "value": 40000000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "BPSK",
+            "description": ""
+        },
+        {
+            "value": "QPSK",
+            "description": ""
+        },
+        {
+            "value": "16QAM",
+            "description": ""
+        },
+        {
+            "value": "64QAM",
+            "description": ""
+        },
+        {
+            "value": "256QAM (Turbo QAM)",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "DSB, RAW",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

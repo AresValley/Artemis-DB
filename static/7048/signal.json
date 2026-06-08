@@ -1,0 +1,49 @@
+{
+    "pageid": "7048",
+    "title": "LTE420 MCX",
+    "spectrum": [
+        "LTE-M.png"
+    ],
+    "audio": [
+        "LTEM.mp3"
+    ],
+    "category": [
+        "Commercial",
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 423700000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 1080000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "16-QAM",
+            "description": ""
+        },
+        {
+            "value": "OFDM",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "AM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Poland",
+            "description": ""
+        }
+    ]
+}

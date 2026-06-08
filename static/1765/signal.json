@@ -1,0 +1,49 @@
+{
+    "pageid": "1765",
+    "title": "Mazielka (X06)",
+    "spectrum": [
+        "X06.jpg"
+    ],
+    "audio": [
+        "6TONE.mp3"
+    ],
+    "category": [
+        "Numbers Stations",
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 4963000,
+            "description": ""
+        },
+        {
+            "value": 23458000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 200,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "MFSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Russia",
+            "description": ""
+        }
+    ]
+}

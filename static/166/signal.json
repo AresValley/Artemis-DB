@@ -1,35 +1,37 @@
 {
-    "signal": {
-        "name": "Emergency Alert System (EAS)",
-        "url": "https://www.sigidwiki.com/wiki/Emergency_Alert_System_(EAS)"
-    },
+    "pageid": "166",
+    "title": "D-STAR",
+    "spectrum": [
+        "DSTAR.jpg"
+    ],
+    "audio": [
+        "DStar_Sound.mp3"
+    ],
     "category": [
+        "Amateur Radio",
         "Digital"
     ],
     "frequency": [
         {
-            "value": 162400000,
-            "description": ""
-        },
-        {
-            "value": 162550000,
+            "value": 145670000,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 5000,
-            "description": ""
-        },
-        {
-            "value": 30000,
+            "value": 6250,
             "description": ""
         }
     ],
-    "acf": [],
+    "acf": [
+        {
+            "value": "Frame: 20 ms, Superframe: 420 ms",
+            "description": ""
+        }
+    ],
     "modulation": [
         {
-            "value": "AFSK",
+            "value": "GMSK",
             "description": ""
         }
     ],
@@ -41,7 +43,7 @@
     ],
     "location": [
         {
-            "value": "United States",
+            "value": "Worldwide",
             "description": ""
         }
     ]

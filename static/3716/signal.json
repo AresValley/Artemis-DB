@@ -1,0 +1,48 @@
+{
+    "pageid": "3716",
+    "title": "JJY",
+    "spectrum": [
+        "JJY.png"
+    ],
+    "audio": [
+        "JJY Japan Time Signal.mp3"
+    ],
+    "category": [
+        "Time"
+    ],
+    "frequency": [
+        {
+            "value": 40000,
+            "description": ""
+        },
+        {
+            "value": 60000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 1,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "AM",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Japan",
+            "description": ""
+        }
+    ]
+}

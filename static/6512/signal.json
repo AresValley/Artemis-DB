@@ -1,0 +1,44 @@
+{
+    "pageid": "6512",
+    "title": "Digital-Coded Squelch (DCS)",
+    "spectrum": [
+        "DCS.JPG"
+    ],
+    "audio": [
+        "DCS s.mp3"
+    ],
+    "category": [
+        "Commercial",
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 433000000,
+            "description": ""
+        },
+        {
+            "value": 446000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "FSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "NFM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "pageid": "873",
+    "title": "HyperFix",
+    "spectrum": [
+        "Hyperfix.jpg"
+    ],
+    "audio": [
+        "Hyperfixaudio.mp3"
+    ],
+    "category": [
+        "Marine",
+        "Navigation"
+    ],
+    "frequency": [
+        {
+            "value": 3400000,
+            "description": ""
+        },
+        {
+            "value": 1600000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 250,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

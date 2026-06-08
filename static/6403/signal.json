@@ -1,0 +1,42 @@
+{
+    "pageid": "6403",
+    "title": "ATSC 3.0 Broadcast",
+    "spectrum": [
+        "ATSC3.png"
+    ],
+    "audio": [],
+    "category": [
+        "Digital",
+        "Commercial"
+    ],
+    "frequency": [],
+    "bandwidth": [
+        {
+            "value": 6000000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "OFDM",
+            "description": ""
+        },
+        {
+            "value": "QAM",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "RAW",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "United States, South Korea, Jamaica",
+            "description": ""
+        }
+    ]
+}

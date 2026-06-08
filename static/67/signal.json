@@ -1,31 +1,36 @@
 {
-    "signal": {
-        "name": "CCIR Selcall",
-        "url": "https://www.sigidwiki.com/wiki/CCIR_Selcall"
-    },
+    "pageid": "67",
+    "title": "POCSAG",
+    "spectrum": [
+        "POCSAG_Waterfallthmb.png"
+    ],
+    "audio": [
+        "POCSAG_Sound.mp3"
+    ],
     "category": [
-        "Analogue"
+        "Digital",
+        "Commercial"
     ],
     "frequency": [
         {
-            "value": 30000000,
+            "value": 932000000,
             "description": ""
         },
         {
-            "value": 800000000,
+            "value": 25000000,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 5000,
+            "value": 9000,
             "description": ""
         }
     ],
     "acf": [],
     "modulation": [
         {
-            "value": "MFSK",
+            "value": "FSK",
             "description": ""
         }
     ],

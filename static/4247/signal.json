@@ -1,0 +1,49 @@
+{
+    "pageid": "4247",
+    "title": "The Goose",
+    "spectrum": [
+        "3245.7+-7.3KHz.jpg"
+    ],
+    "audio": [
+        "oh5ae.dyndns.org_2019-03-22T22_06_19Z_3012.00_usb.ogg"
+    ],
+    "category": [
+        "Military",
+        "Analogue"
+    ],
+    "frequency": [
+        {
+            "value": 3243000,
+            "description": ""
+        },
+        {
+            "value": 4310000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 3100,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "AM",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Russia",
+            "description": ""
+        }
+    ]
+}

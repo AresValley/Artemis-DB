@@ -1,0 +1,48 @@
+{
+    "pageid": "4317",
+    "title": "Supervisory Control And Data Acquisition (SCADA)",
+    "spectrum": [
+        "SCADA2.png"
+    ],
+    "audio": [
+        "SDRSharp 20170621 225600Z 952656250Hz AF.wav"
+    ],
+    "category": [
+        "Utility",
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 450000000,
+            "description": ""
+        },
+        {
+            "value": 950000000,
+            "description": ""
+        },
+        {
+            "value": 413000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 12000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "FSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "FM",
+            "description": ""
+        }
+    ],
+    "location": []
+}

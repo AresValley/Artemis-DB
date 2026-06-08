@@ -1,22 +1,52 @@
 {
-    "signal": {
-        "name": "Siemens 1.5T MRI Scanner",
-        "url": "https://www.sigidwiki.com/wiki/Siemens_1.5T_MRI_Scanner"
-    },
-    "category": [],
+    "pageid": "442",
+    "title": "PLUTO II OTH Radar",
+    "spectrum": [
+        "PLUTO_II.png"
+    ],
+    "audio": [
+        "PLUTO_50_Swps_sec.mp3"
+    ],
+    "category": [
+        "Military",
+        "Radar"
+    ],
     "frequency": [
         {
-            "value": 64000000,
+            "value": 8000000,
+            "description": ""
+        },
+        {
+            "value": 38000000,
             "description": ""
         }
     ],
-    "bandwidth": [],
+    "bandwidth": [
+        {
+            "value": 20000,
+            "description": ""
+        },
+        {
+            "value": 40000,
+            "description": ""
+        }
+    ],
     "acf": [],
-    "modulation": [],
-    "mode": [],
+    "modulation": [
+        {
+            "value": "FMCW",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
     "location": [
         {
-            "value": "Worldwide",
+            "value": "Cyprus",
             "description": ""
         }
     ]

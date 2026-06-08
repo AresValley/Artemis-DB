@@ -1,0 +1,68 @@
+{
+    "pageid": "1536",
+    "title": "Emergency Alert System (EAS)",
+    "spectrum": [
+        "EAS NFM.jpg"
+    ],
+    "audio": [
+        "EAS Alert Tornado Warning.mp3"
+    ],
+    "category": [
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 162400000,
+            "description": ""
+        },
+        {
+            "value": 162425000,
+            "description": ""
+        },
+        {
+            "value": 162450000,
+            "description": ""
+        },
+        {
+            "value": 162475000,
+            "description": ""
+        },
+        {
+            "value": 162500000,
+            "description": ""
+        },
+        {
+            "value": 162525000,
+            "description": ""
+        },
+        {
+            "value": 162550000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 1200,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "AFSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "NFM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "United States",
+            "description": ""
+        }
+    ]
+}

@@ -1,38 +1,43 @@
 {
-    "signal": {
-        "name": "Gandalf MDT",
-        "url": "https://www.sigidwiki.com/wiki/Gandalf_MDT"
-    },
+    "pageid": "201",
+    "title": "Automatic Link Establishment (2G ALE)",
+    "spectrum": [
+        "ALE2G.jpg"
+    ],
+    "audio": [
+        "2G_ALEaudio.mp3"
+    ],
     "category": [
+        "Military",
         "Digital",
-        "Commercial"
+        "Amateur Radio"
     ],
     "frequency": [
         {
-            "value": 150000000,
+            "value": 3068000,
             "description": ""
         },
         {
-            "value": 450000000,
+            "value": 28312500,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 10000,
+            "value": 2000,
             "description": ""
         }
     ],
     "acf": [],
     "modulation": [
         {
-            "value": "4FSK",
+            "value": "MFSK",
             "description": ""
         }
     ],
     "mode": [
         {
-            "value": "NFM",
+            "value": "USB",
             "description": ""
         }
     ],

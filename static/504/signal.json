@@ -1,35 +1,61 @@
 {
-    "signal": {
-        "name": "WiMAX",
-        "url": "https://www.sigidwiki.com/wiki/WiMAX"
-    },
-    "category": [
-        "Digital",
-        "Commercial"
+    "pageid": "504",
+    "title": "Olivia",
+    "spectrum": [
+        "Olivia_8-250y.png"
     ],
-    "frequency": [],
-    "bandwidth": [
+    "audio": [
+        "Olivia_16-500.mp3"
+    ],
+    "category": [
+        "Amateur Radio",
+        "Digital"
+    ],
+    "frequency": [
         {
-            "value": 1250000,
+            "value": 3000000,
             "description": ""
         },
         {
-            "value": 20000000,
+            "value": 30000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 500,
+            "description": ""
+        },
+        {
+            "value": 125,
+            "description": ""
+        },
+        {
+            "value": 250,
+            "description": ""
+        },
+        {
+            "value": 1000,
+            "description": ""
+        },
+        {
+            "value": 2000,
             "description": ""
         }
     ],
     "acf": [],
     "modulation": [
         {
-            "value": "OFDM",
-            "description": ""
-        },
-        {
-            "value": "OFDMA",
+            "value": "MFSK",
             "description": ""
         }
     ],
-    "mode": [],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
     "location": [
         {
             "value": "Worldwide",

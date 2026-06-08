@@ -1,0 +1,53 @@
+{
+    "pageid": "2935",
+    "title": "CIS MFSK-68",
+    "spectrum": [
+        "CIS MFSK-68.jpg"
+    ],
+    "audio": [
+        "HDSDR_20151229_175329Z_7kHz_AF.mp3"
+    ],
+    "category": [
+        "Digital",
+        "Military"
+    ],
+    "frequency": [
+        {
+            "value": 7659000,
+            "description": ""
+        },
+        {
+            "value": 18280000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 10000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "MFSK",
+            "description": ""
+        },
+        {
+            "value": "PSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Russia",
+            "description": ""
+        }
+    ]
+}

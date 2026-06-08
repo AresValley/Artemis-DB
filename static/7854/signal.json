@@ -1,0 +1,72 @@
+{
+    "pageid": "7854",
+    "title": "FST4",
+    "spectrum": [
+        "FST4-60.png"
+    ],
+    "audio": [
+        "FST4-60.ogg"
+    ],
+    "category": [
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 137000,
+            "description": ""
+        },
+        {
+            "value": 474000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 66.7,
+            "description": ""
+        },
+        {
+            "value": 28.6,
+            "description": ""
+        },
+        {
+            "value": 12.4,
+            "description": ""
+        },
+        {
+            "value": 5.9,
+            "description": ""
+        },
+        {
+            "value": 2.2,
+            "description": ""
+        },
+        {
+            "value": 0.72,
+            "description": ""
+        },
+        {
+            "value": 0.36,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "GFSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "pageid": "2838",
+    "title": "UIC 751-3",
+    "spectrum": [
+        "UIC 751-3.png"
+    ],
+    "audio": [
+        "SDRSharp 20180321 181217Z 447650000Hz AF.mp3"
+    ],
+    "category": [],
+    "frequency": [
+        {
+            "value": 457000000,
+            "description": ""
+        },
+        {
+            "value": 468000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 10000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "FSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "NFM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Spain",
+            "description": ""
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "pageid": "5597",
+    "title": "GRAW DFM-09 Weather Balloon (Radiosonde)",
+    "spectrum": [
+        "DFM092.png"
+    ],
+    "audio": [
+        "DFM-09 Audio.mp3"
+    ],
+    "category": [],
+    "frequency": [
+        {
+            "value": 400010000,
+            "description": ""
+        },
+        {
+            "value": 405990000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 20000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "FSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "NFM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

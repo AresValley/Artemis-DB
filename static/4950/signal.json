@@ -1,0 +1,35 @@
+{
+    "pageid": "4950",
+    "title": "SAS3",
+    "spectrum": [
+        "SAS3 mod pattern 2.gif"
+    ],
+    "audio": [
+        "AF 24DEC2015 073954z SAS3.mp3"
+    ],
+    "category": [
+        "Military",
+        "Marine"
+    ],
+    "frequency": [
+        {
+            "value": 44200,
+            "description": ""
+        }
+    ],
+    "bandwidth": [],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "MSK",
+            "description": ""
+        }
+    ],
+    "mode": [],
+    "location": [
+        {
+            "value": "Sweden",
+            "description": ""
+        }
+    ]
+}

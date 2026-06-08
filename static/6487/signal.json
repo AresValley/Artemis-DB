@@ -1,0 +1,30 @@
+{
+    "pageid": "6487",
+    "title": "Cobra Dane",
+    "spectrum": [],
+    "audio": [],
+    "category": [
+        "Military",
+        "Radar"
+    ],
+    "frequency": [
+        {
+            "value": 1215000000,
+            "description": ""
+        },
+        {
+            "value": 1400000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [],
+    "acf": [],
+    "modulation": [],
+    "mode": [],
+    "location": [
+        {
+            "value": "United States",
+            "description": ""
+        }
+    ]
+}

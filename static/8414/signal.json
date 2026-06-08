@@ -1,0 +1,65 @@
+{
+    "pageid": "8414",
+    "title": "Zigbee",
+    "spectrum": [
+        "zigbee.png"
+    ],
+    "audio": [
+        "Zigbee_xfer.wav"
+    ],
+    "category": [
+        "Digital",
+        "Commercial"
+    ],
+    "frequency": [
+        {
+            "value": 2400000000,
+            "description": ""
+        },
+        {
+            "value": 2480000000,
+            "description": ""
+        },
+        {
+            "value": 868000000,
+            "description": ""
+        },
+        {
+            "value": 902000000,
+            "description": ""
+        },
+        {
+            "value": 928000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 2000000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "QQPSK",
+            "description": ""
+        },
+        {
+            "value": "DSSS",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "AM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

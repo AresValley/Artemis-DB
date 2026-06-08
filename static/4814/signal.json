@@ -1,0 +1,50 @@
+{
+    "pageid": "4814",
+    "title": "Milstar",
+    "spectrum": [
+        "Milstar_FHSS.jpg"
+    ],
+    "audio": [
+        "SDRSharp 20180117 095857Z 243799000Hz IQ.wav"
+    ],
+    "category": [
+        "Digital",
+        "Military",
+        "Satellite"
+    ],
+    "frequency": [
+        {
+            "value": 243785000,
+            "description": ""
+        },
+        {
+            "value": 243822000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 50000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "FHSS",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "RAW",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

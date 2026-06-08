@@ -1,0 +1,69 @@
+{
+    "pageid": "8438",
+    "title": "4G LTE450",
+    "spectrum": [
+        "20260120 21271483.jpg"
+    ],
+    "audio": [
+        "LTE450 NFM.wav"
+    ],
+    "category": [
+        "Digital",
+        "Commercial"
+    ],
+    "frequency": [
+        {
+            "value": 450000000,
+            "description": ""
+        },
+        {
+            "value": 460000000,
+            "description": ""
+        },
+        {
+            "value": 470000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 1400000,
+            "description": ""
+        },
+        {
+            "value": 3000000,
+            "description": ""
+        },
+        {
+            "value": 2000000,
+            "description": ""
+        },
+        {
+            "value": 4740000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "OFDMA",
+            "description": ""
+        },
+        {
+            "value": "SC-FDMA",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "NFM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

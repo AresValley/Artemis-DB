@@ -1,1 +1,0 @@
-Orbcomm satellites are used for monitoring and sending short text messages. Uses SDPSK (Symmetric Differential Phase Shift Keying)

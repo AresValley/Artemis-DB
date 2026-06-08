@@ -1,0 +1,59 @@
+{
+    "pageid": "2174",
+    "title": "Multiple sub-Nyquist Sampling Encoding (MUSE)",
+    "spectrum": [
+        "NoWaterfallFiller.png"
+    ],
+    "audio": [],
+    "category": [
+        "Analogue",
+        "Commercial"
+    ],
+    "frequency": [
+        {
+            "value": 8000000000,
+            "description": ""
+        },
+        {
+            "value": 12000000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 8000000,
+            "description": ""
+        },
+        {
+            "value": 27000000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "FM",
+            "description": ""
+        },
+        {
+            "value": "DPCM",
+            "description": ""
+        },
+        {
+            "value": "VSB",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "RAW",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

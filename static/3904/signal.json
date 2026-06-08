@@ -1,0 +1,45 @@
+{
+    "pageid": "3904",
+    "title": "Delfi-C3 Telemetry",
+    "spectrum": [
+        "Delfi-C3.jpg"
+    ],
+    "audio": [
+        "Delfi-C3_Sound.mp3"
+    ],
+    "category": [
+        "Satellite",
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 145870000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 10000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "BPSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "LSB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

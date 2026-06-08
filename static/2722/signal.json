@@ -1,0 +1,52 @@
+{
+    "pageid": "2722",
+    "title": "Low Rate Picture Transmission (LRPT)",
+    "spectrum": [
+        "LRPTWaterfall.jpg"
+    ],
+    "audio": [],
+    "category": [
+        "Satellite",
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 137000000,
+            "description": ""
+        },
+        {
+            "value": 138000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 120000,
+            "description": ""
+        }
+    ],
+    "acf": [
+        {
+            "value": "0.5 ms",
+            "description": ""
+        }
+    ],
+    "modulation": [
+        {
+            "value": "QPSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "RAW",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

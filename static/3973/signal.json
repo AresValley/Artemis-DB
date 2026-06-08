@@ -1,0 +1,45 @@
+{
+    "pageid": "3973",
+    "title": "ARGOS A-DCS",
+    "spectrum": [
+        "KMS4-Waterfall.jpg"
+    ],
+    "audio": [
+        "KMS4-Sample.mp3"
+    ],
+    "category": [
+        "Satellite",
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 465990000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 54000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "PSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

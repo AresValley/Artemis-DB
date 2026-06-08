@@ -1,0 +1,49 @@
+{
+    "pageid": "4718",
+    "title": "NOAA Direct Sounder Broadcast (DSB)",
+    "spectrum": [
+        "DSB.jpg"
+    ],
+    "audio": [
+        "Direct Sounder Broadcast NFM demod.mp3"
+    ],
+    "category": [
+        "Digital",
+        "Satellite"
+    ],
+    "frequency": [
+        {
+            "value": 137350000,
+            "description": ""
+        },
+        {
+            "value": 137770000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 33500,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "PSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "NFM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

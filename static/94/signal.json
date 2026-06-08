@@ -1,56 +1,64 @@
 {
-    "signal": {
-        "name": "CIS-48",
-        "url": "https://www.sigidwiki.com/wiki/CIS-48"
-    },
+    "pageid": "94",
+    "title": "FM Broadcast Radio",
+    "spectrum": [
+        "Broadcast_FM.jpg"
+    ],
+    "audio": [
+        "WFM.mp3"
+    ],
     "category": [
-        "Digital",
-        "Military"
+        "Commercial",
+        "Analogue"
     ],
     "frequency": [
         {
-            "value": 16459000,
+            "value": 65000000,
             "description": ""
         },
         {
-            "value": 17289000,
-            "description": ""
-        },
-        {
-            "value": 17234000,
-            "description": ""
-        },
-        {
-            "value": 5017000,
+            "value": 108000000,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 2000000,
+            "value": 38000,
             "description": ""
         },
         {
-            "value": 3000000,
+            "value": 108000,
+            "description": ""
+        },
+        {
+            "value": 118000,
+            "description": ""
+        },
+        {
+            "value": 184000,
+            "description": ""
+        },
+        {
+            "value": 200000,
             "description": ""
         }
     ],
     "acf": [],
     "modulation": [
         {
-            "value": "PSK",
+            "value": "FM",
             "description": ""
         }
     ],
     "mode": [
         {
-            "value": "USB",
+            "value": "WFM",
             "description": ""
         }
     ],
     "location": [
         {
-            "value": "Russia",
+            "value": "Worldwide",
             "description": ""
         }
     ]

@@ -1,44 +1,53 @@
 {
-    "signal": {
-        "name": "CDMA420",
-        "url": "https://www.sigidwiki.com/wiki/CDMA420"
-    },
+    "pageid": "70",
+    "title": "Vaisala RS92-SGP Weather Balloon (Radiosonde)",
+    "spectrum": [
+        "VaisalaRS92SGP.png"
+    ],
+    "audio": [
+        "RS92SGP_Sound.mp3"
+    ],
     "category": [
-        "Commercial",
-        "Digital"
+        "Digital",
+        "Utility"
     ],
     "frequency": [
         {
-            "value": 410000000,
+            "value": 400150000,
             "description": ""
         },
         {
-            "value": 425000000,
+            "value": 405990000,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 2500000,
+            "value": 10000,
             "description": ""
         }
     ],
-    "acf": [],
+    "acf": [
+        {
+            "value": "Frame: 1000 ms,   Word: 4.166 ms",
+            "description": ""
+        }
+    ],
     "modulation": [
         {
-            "value": "QPSK",
+            "value": "GFSK",
             "description": ""
         }
     ],
     "mode": [
         {
-            "value": "AM",
+            "value": "NFM",
             "description": ""
         }
     ],
     "location": [
         {
-            "value": "Poland",
+            "value": "Worldwide",
             "description": ""
         }
     ]

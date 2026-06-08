@@ -1,0 +1,39 @@
+{
+    "pageid": "8250",
+    "title": "Zaliv52",
+    "spectrum": [
+        "Zaliv52 example.png"
+    ],
+    "audio": [
+        "Zaliv52-4110usb-20180914-214550z-msg-byargonn (mp3cut.net).mp3"
+    ],
+    "category": [
+        "Military"
+    ],
+    "frequency": [
+        {
+            "value": 4110000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "J3E",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Moscow, Russia (speculated)",
+            "description": ""
+        }
+    ]
+}

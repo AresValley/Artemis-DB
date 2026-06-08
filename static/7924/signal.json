@@ -1,0 +1,48 @@
+{
+    "pageid": "7924",
+    "title": "Chinese 160kHz-wide OTH radar",
+    "spectrum": [
+        "Chinese radar 160kHz wide.png"
+    ],
+    "audio": [
+        "Chinese radar 160kHz wide.mp3"
+    ],
+    "category": [
+        "Radar"
+    ],
+    "frequency": [
+        {
+            "value": 6000000,
+            "description": ""
+        },
+        {
+            "value": 29000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 160000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "FMCW",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "China",
+            "description": ""
+        }
+    ]
+}

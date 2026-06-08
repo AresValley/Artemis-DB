@@ -1,0 +1,40 @@
+{
+    "pageid": "1732",
+    "title": "Positive Train Control (PTC)",
+    "spectrum": [
+        "PTC.jpg"
+    ],
+    "audio": [
+        "PTC_TDMA.mp3"
+    ],
+    "category": [
+        "Digital",
+        "Utility"
+    ],
+    "frequency": [
+        {
+            "value": 220000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 20000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [],
+    "mode": [
+        {
+            "value": "RAW",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "United States",
+            "description": ""
+        }
+    ]
+}

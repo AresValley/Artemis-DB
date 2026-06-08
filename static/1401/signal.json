@@ -1,0 +1,81 @@
+{
+    "pageid": "1401",
+    "title": "Saab Grintek MHF-50 MFSK Modem",
+    "spectrum": [
+        "MHF-50.jpg"
+    ],
+    "audio": [
+        "f_54_32.mp3"
+    ],
+    "category": [
+        "Military",
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 8580000,
+            "description": ""
+        },
+        {
+            "value": 12982000,
+            "description": ""
+        },
+        {
+            "value": 11237000,
+            "description": ""
+        },
+        {
+            "value": 4245000,
+            "description": ""
+        },
+        {
+            "value": 4346000,
+            "description": ""
+        },
+        {
+            "value": 6407000,
+            "description": ""
+        },
+        {
+            "value": 6493000,
+            "description": ""
+        },
+        {
+            "value": 6504000,
+            "description": ""
+        },
+        {
+            "value": 8603000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 2200,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "MFSK",
+            "description": ""
+        },
+        {
+            "value": "FSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "South Africa",
+            "description": ""
+        }
+    ]
+}

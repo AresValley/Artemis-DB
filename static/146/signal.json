@@ -1,70 +1,35 @@
 {
-    "signal": {
-        "name": "Digital Radio Mondiale (DRM)",
-        "url": "https://www.sigidwiki.com/wiki/Digital_Radio_Mondiale_(DRM)"
-    },
+    "pageid": "146",
+    "title": "Pulse Coded Modulated (PCM) RC Toy",
+    "spectrum": [
+        "PCMRCToy_Waterfallwaterfall.png"
+    ],
+    "audio": [
+        "PCMRCToy_Sound.mp3"
+    ],
     "category": [
-        "Digital",
-        "Commercial"
+        "Utility",
+        "Digital"
     ],
     "frequency": [
         {
-            "value": 531000,
+            "value": 27145000,
             "description": ""
         },
         {
-            "value": 26060000,
+            "value": 49000000,
             "description": ""
         }
     ],
-    "bandwidth": [
-        {
-            "value": 4500,
-            "description": ""
-        },
-        {
-            "value": 5000,
-            "description": ""
-        },
-        {
-            "value": 9000,
-            "description": ""
-        },
-        {
-            "value": 10000,
-            "description": ""
-        },
-        {
-            "value": 18000,
-            "description": ""
-        },
-        {
-            "value": 20000,
-            "description": ""
-        }
-    ],
-    "acf": [
-        {
-            "value": 400.0,
-            "description": "Main"
-        }
-    ],
+    "bandwidth": [],
+    "acf": [],
     "modulation": [
         {
-            "value": "QAM",
-            "description": ""
-        },
-        {
-            "value": "OFDM",
+            "value": "PCM",
             "description": ""
         }
     ],
-    "mode": [
-        {
-            "value": "USB",
-            "description": ""
-        }
-    ],
+    "mode": [],
     "location": [
         {
             "value": "Worldwide",

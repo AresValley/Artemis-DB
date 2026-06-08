@@ -1,0 +1,49 @@
+{
+    "pageid": "5993",
+    "title": "Ground-Based Augmentation System (GBAS)",
+    "spectrum": [
+        "YMML GBAS WF.mp3.png"
+    ],
+    "audio": [
+        "YMML GBAS AF.mp3"
+    ],
+    "category": [
+        "Aviation",
+        "Navigation"
+    ],
+    "frequency": [
+        {
+            "value": 108000000,
+            "description": ""
+        },
+        {
+            "value": 117975000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 15000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "D8PSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "AM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "pageid": "3085",
+    "title": "Golay Paging (GSC)",
+    "spectrum": [
+        "Golay.jpg"
+    ],
+    "audio": [
+        "Golay1.mp3"
+    ],
+    "category": [
+        "Digital",
+        "Commercial"
+    ],
+    "frequency": [
+        {
+            "value": 932000000,
+            "description": ""
+        },
+        {
+            "value": 33000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 2600,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "FSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "NFM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

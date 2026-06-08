@@ -1,0 +1,53 @@
+{
+    "pageid": "1831",
+    "title": "Modernised High Frequency Communications System (MHFCS)",
+    "spectrum": [
+        "ISB AUS MIL.jpg"
+    ],
+    "audio": [
+        "Australian MHFCS 15858 kHz.mp3"
+    ],
+    "category": [
+        "Digital",
+        "Military"
+    ],
+    "frequency": [
+        {
+            "value": 27477500,
+            "description": ""
+        },
+        {
+            "value": 2010000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 750,
+            "description": ""
+        },
+        {
+            "value": 400,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "FSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Australia",
+            "description": ""
+        }
+    ]
+}

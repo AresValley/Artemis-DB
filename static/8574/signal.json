@@ -1,0 +1,68 @@
+{
+    "pageid": "8574",
+    "title": "Digital Video Broadcasting — Cable (DVB-C)",
+    "spectrum": [
+        "DVB-C.jpg"
+    ],
+    "audio": [
+        "DVB-C.mp3"
+    ],
+    "category": [
+        "Digital",
+        "Commercial"
+    ],
+    "frequency": [
+        {
+            "value": 366000000,
+            "description": ""
+        },
+        {
+            "value": 662000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 6000000,
+            "description": ""
+        },
+        {
+            "value": 7000000,
+            "description": ""
+        },
+        {
+            "value": 8000000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "16QAM",
+            "description": ""
+        },
+        {
+            "value": "32QAM",
+            "description": ""
+        },
+        {
+            "value": "64QAM",
+            "description": ""
+        },
+        {
+            "value": "128QAM",
+            "description": ""
+        },
+        {
+            "value": "256QAM",
+            "description": ""
+        }
+    ],
+    "mode": [],
+    "location": [
+        {
+            "value": "Europe",
+            "description": ""
+        }
+    ]
+}

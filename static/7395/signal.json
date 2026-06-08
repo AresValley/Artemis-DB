@@ -1,0 +1,27 @@
+{
+    "pageid": "7395",
+    "title": "Siemens 1.5T MRI Scanner",
+    "spectrum": [
+        "T2_mri_cropped.png"
+    ],
+    "audio": [
+        "T2_mri_rf.mp3"
+    ],
+    "category": [],
+    "frequency": [
+        {
+            "value": 64000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [],
+    "acf": [],
+    "modulation": [],
+    "mode": [],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

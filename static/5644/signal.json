@@ -1,0 +1,149 @@
+{
+    "pageid": "5644",
+    "title": "5G 'New Radio' Cellular Radio - Downlink",
+    "spectrum": [
+        "NR_OR_10_downlink.jpg"
+    ],
+    "audio": [
+        "NR_downlink.mp3"
+    ],
+    "category": [
+        "Digital",
+        "Commercial"
+    ],
+    "frequency": [
+        {
+            "value": 600000000,
+            "description": ""
+        },
+        {
+            "value": 50000000000,
+            "description": ""
+        },
+        {
+            "value": 3600000000,
+            "description": ""
+        },
+        {
+            "value": 700000000,
+            "description": ""
+        },
+        {
+            "value": 850000000,
+            "description": ""
+        },
+        {
+            "value": 900000000,
+            "description": ""
+        },
+        {
+            "value": 2500000000,
+            "description": ""
+        },
+        {
+            "value": 3700000000,
+            "description": ""
+        },
+        {
+            "value": 28000000000,
+            "description": ""
+        },
+        {
+            "value": 39000000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 100000000,
+            "description": ""
+        },
+        {
+            "value": 5000000,
+            "description": ""
+        },
+        {
+            "value": 10000000,
+            "description": ""
+        },
+        {
+            "value": 15000000,
+            "description": ""
+        },
+        {
+            "value": 20000000,
+            "description": ""
+        },
+        {
+            "value": 25000000,
+            "description": ""
+        },
+        {
+            "value": 30000000,
+            "description": ""
+        },
+        {
+            "value": 40000000,
+            "description": ""
+        },
+        {
+            "value": 50000000,
+            "description": ""
+        },
+        {
+            "value": 60000000,
+            "description": ""
+        },
+        {
+            "value": 70000000,
+            "description": ""
+        },
+        {
+            "value": 80000000,
+            "description": ""
+        },
+        {
+            "value": 90000000,
+            "description": ""
+        },
+        {
+            "value": 200000000,
+            "description": ""
+        },
+        {
+            "value": 400000000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "QPSK",
+            "description": ""
+        },
+        {
+            "value": "16QAM",
+            "description": ""
+        },
+        {
+            "value": "64QAM",
+            "description": ""
+        },
+        {
+            "value": "256QAM",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "CP-OFDM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

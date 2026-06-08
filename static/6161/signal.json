@@ -1,0 +1,49 @@
+{
+    "pageid": "6161",
+    "title": "OOK RC Car Remote Control",
+    "spectrum": [
+        "27MhzRCWaterfall.png"
+    ],
+    "audio": [
+        "RC Remote.mp3"
+    ],
+    "category": [
+        "Utility",
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 27000000,
+            "description": ""
+        },
+        {
+            "value": 49000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 1600,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "OOK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "AM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

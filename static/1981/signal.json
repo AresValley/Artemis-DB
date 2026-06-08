@@ -1,0 +1,50 @@
+{
+    "pageid": "1981",
+    "title": "ASCII",
+    "spectrum": [
+        "ASCII.jpg"
+    ],
+    "audio": [
+        "ASCII.mp3"
+    ],
+    "category": [
+        "Amateur Radio",
+        "Digital",
+        "Commercial"
+    ],
+    "frequency": [
+        {
+            "value": 3000000,
+            "description": ""
+        },
+        {
+            "value": 450000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 300,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "FSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "NFM, USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

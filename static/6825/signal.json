@@ -1,0 +1,37 @@
+{
+    "pageid": "6825",
+    "title": "Contrôle de vitesse par balises (KVB)",
+    "spectrum": [],
+    "audio": [],
+    "category": [],
+    "frequency": [
+        {
+            "value": 4500000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 100000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "AM",
+            "description": ""
+        },
+        {
+            "value": "AM",
+            "description": ""
+        }
+    ],
+    "mode": [],
+    "location": [
+        {
+            "value": "France, United Kingdom",
+            "description": ""
+        }
+    ]
+}

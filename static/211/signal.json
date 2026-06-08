@@ -1,38 +1,59 @@
 {
-    "signal": {
-        "name": "Ground-Based Augmentation System (GBAS)",
-        "url": "https://www.sigidwiki.com/wiki/Ground-Based_Augmentation_System_(GBAS)"
-    },
+    "pageid": "211",
+    "title": "Next Generation Digital Narrowband (NXDN)",
+    "spectrum": [
+        "NXDN_6.25.jpg"
+    ],
+    "audio": [
+        "NXDN_Trunking_Channel.mp3"
+    ],
     "category": [
-        "Aviation",
-        "Navigation"
+        "Trunked Radio",
+        "Digital"
     ],
     "frequency": [
         {
-            "value": 108000000,
+            "value": 136000000,
             "description": ""
         },
         {
-            "value": 117975000,
+            "value": 174000000,
+            "description": ""
+        },
+        {
+            "value": 400000000,
+            "description": ""
+        },
+        {
+            "value": 520000000,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 15000,
+            "value": 6250,
+            "description": ""
+        },
+        {
+            "value": 12500,
             "description": ""
         }
     ],
-    "acf": [],
+    "acf": [
+        {
+            "value": "80 ms",
+            "description": ""
+        }
+    ],
     "modulation": [
         {
-            "value": "D8PSK",
+            "value": "4FSK",
             "description": ""
         }
     ],
     "mode": [
         {
-            "value": "AM",
+            "value": "NFM",
             "description": ""
         }
     ],

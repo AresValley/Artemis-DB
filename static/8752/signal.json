@@ -1,0 +1,53 @@
+{
+    "pageid": "8752",
+    "title": "Low Frequency Bicycle Computer Sensor",
+    "spectrum": [
+        "Bicycle sensor.png"
+    ],
+    "audio": [
+        "Bicycle sensor sound.mp3"
+    ],
+    "category": [
+        "Analogue"
+    ],
+    "frequency": [
+        {
+            "value": 110000,
+            "description": ""
+        },
+        {
+            "value": 115000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 2000,
+            "description": ""
+        }
+    ],
+    "acf": [
+        {
+            "value": "-",
+            "description": ""
+        }
+    ],
+    "modulation": [
+        {
+            "value": "Pulse",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

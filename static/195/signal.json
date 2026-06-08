@@ -1,33 +1,32 @@
 {
-    "signal": {
-        "name": "GOES High Rate Information Transmission (HRIT)",
-        "url": "https://www.sigidwiki.com/wiki/GOES_High_Rate_Information_Transmission_(HRIT)"
-    },
+    "pageid": "195",
+    "title": "Distributed Power Unit (DPU)",
+    "spectrum": [
+        "DPU.jpg"
+    ],
+    "audio": [
+        "Distributed Power Unit (DPU).mp3"
+    ],
     "category": [
-        "Digital"
+        "Utility"
     ],
     "frequency": [
         {
-            "value": 1694100000,
+            "value": 457925000,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 1205000,
+            "value": 6000,
             "description": ""
         }
     ],
     "acf": [],
-    "modulation": [
-        {
-            "value": "BPSK",
-            "description": ""
-        }
-    ],
+    "modulation": [],
     "mode": [
         {
-            "value": "RAW",
+            "value": "NFM",
             "description": ""
         }
     ],

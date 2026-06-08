@@ -1,0 +1,42 @@
+{
+    "pageid": "6997",
+    "title": "GOES CDA Telemetry",
+    "spectrum": [
+        "Cda.png"
+    ],
+    "audio": [],
+    "category": [
+        "Satellite"
+    ],
+    "frequency": [
+        {
+            "value": 1693000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 80000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "BPSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "RAW",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "United States, Asia",
+            "description": ""
+        }
+    ]
+}

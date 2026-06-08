@@ -1,0 +1,45 @@
+{
+    "pageid": "4776",
+    "title": "Road Coordination/Maintenance Telemetry",
+    "spectrum": [
+        "Weird signal in vhf band.PNG"
+    ],
+    "audio": [
+        "SDRSharp_20171204_074409Z_151010000Hz_AF.wav"
+    ],
+    "category": [
+        "Digital",
+        "Utility"
+    ],
+    "frequency": [
+        {
+            "value": 151010000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 6700,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "FSK",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "FM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

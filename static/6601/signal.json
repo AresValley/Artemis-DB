@@ -1,0 +1,49 @@
+{
+    "pageid": "6601",
+    "title": "Ethernet Over Powerline",
+    "spectrum": [
+        "Powerline Over Ethernet.png"
+    ],
+    "audio": [
+        "Powerline over Ethernet.wav"
+    ],
+    "category": [
+        "Digital",
+        "Interfering"
+    ],
+    "frequency": [
+        {
+            "value": 0,
+            "description": ""
+        },
+        {
+            "value": 60000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 60000000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "PAM",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "AM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ]
+}

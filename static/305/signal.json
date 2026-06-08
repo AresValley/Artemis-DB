@@ -1,39 +1,44 @@
 {
-    "signal": {
-        "name": "MRZ-3MK Weather Balloon (radiosonde)",
-        "url": "https://www.sigidwiki.com/wiki/MRZ-3MK_Weather_Balloon_(radiosonde)"
-    },
+    "pageid": "305",
+    "title": "Autocab",
+    "spectrum": [
+        "Autocab.jpg"
+    ],
+    "audio": [
+        "autocab.mp3"
+    ],
     "category": [
-        "Digital"
+        "Digital",
+        "Commercial"
     ],
     "frequency": [
         {
-            "value": 1680000000,
+            "value": 163375000,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 6000000,
+            "value": 12500,
             "description": ""
         }
     ],
     "acf": [],
     "modulation": [
         {
-            "value": "PFM",
+            "value": "PSK",
             "description": ""
         }
     ],
     "mode": [
         {
-            "value": "AM",
+            "value": "NFM",
             "description": ""
         }
     ],
     "location": [
         {
-            "value": "Russia",
+            "value": "United Kingdom",
             "description": ""
         }
     ]

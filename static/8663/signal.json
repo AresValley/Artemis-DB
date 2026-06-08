@@ -1,0 +1,69 @@
+{
+    "pageid": "8663",
+    "title": "BRAS-3 (RS-10)",
+    "spectrum": [
+        "BRAS-3 1791kHz.png"
+    ],
+    "audio": [
+        "BRAS-3 1791kHz AM.mp3"
+    ],
+    "category": [
+        "Navigation",
+        "Marine"
+    ],
+    "frequency": [
+        {
+            "value": 1685000,
+            "description": ""
+        },
+        {
+            "value": 1712000,
+            "description": ""
+        },
+        {
+            "value": 1774000,
+            "description": ""
+        },
+        {
+            "value": 1791000,
+            "description": ""
+        },
+        {
+            "value": 1816000,
+            "description": ""
+        },
+        {
+            "value": 2107000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 14000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "AM",
+            "description": ""
+        },
+        {
+            "value": "Pulse",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "AM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Russia",
+            "description": ""
+        }
+    ]
+}

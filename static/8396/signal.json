@@ -1,0 +1,50 @@
+{
+    "pageid": "8396",
+    "title": "Podsolnukh 'Sunflower' Radar",
+    "spectrum": [
+        "Sunflower thumbnail.jpg"
+    ],
+    "audio": [
+        "Sunflower IQ.wav"
+    ],
+    "category": [
+        "Radar",
+        "Military",
+        "Marine"
+    ],
+    "frequency": [
+        {
+            "value": 8000000,
+            "description": ""
+        },
+        {
+            "value": 3500000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 50000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "FMOP",
+            "description": ""
+        }
+    ],
+    "mode": [
+        {
+            "value": "IQ",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Russia, Worldwide",
+            "description": ""
+        }
+    ]
+}

@@ -1,52 +1,52 @@
 {
-    "signal": {
-        "name": "Quadcopter Telemetry Signal",
-        "url": "https://www.sigidwiki.com/wiki/Quadcopter_Telemetry_Signal"
-    },
+    "pageid": "389",
+    "title": "'Ghadir' OTH Radar",
+    "spectrum": [
+        "IranOTH.png"
+    ],
+    "audio": [
+        "Ghadir.mp3"
+    ],
     "category": [
-        "Amateur Radio",
-        "Aviation",
-        "Digital"
+        "Military",
+        "Radar"
     ],
     "frequency": [
         {
-            "value": 414000000,
+            "value": 28000000,
             "description": ""
         },
         {
-            "value": 433000000,
-            "description": ""
-        },
-        {
-            "value": 935000000,
+            "value": 29700000,
             "description": ""
         }
     ],
-    "bandwidth": [],
+    "bandwidth": [
+        {
+            "value": 60000,
+            "description": ""
+        },
+        {
+            "value": 1000000,
+            "description": ""
+        }
+    ],
     "acf": [],
     "modulation": [
         {
-            "value": "BPSK",
-            "description": ""
-        },
-        {
-            "value": "8PSK",
-            "description": ""
-        },
-        {
-            "value": "QAM",
+            "value": "Pulse",
             "description": ""
         }
     ],
     "mode": [
         {
-            "value": "FHSS-TDM",
+            "value": "AM",
             "description": ""
         }
     ],
     "location": [
         {
-            "value": "Worldwide",
+            "value": "Iran",
             "description": ""
         }
     ]

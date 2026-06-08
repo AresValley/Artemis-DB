@@ -1,0 +1,29 @@
+{
+    "pageid": "5753",
+    "title": "GYN2 GBR",
+    "spectrum": [
+        "GYN2opt.png"
+    ],
+    "audio": [
+        "Gyn2 gbr 25 06 2021.mp3"
+    ],
+    "category": [
+        "Military"
+    ],
+    "frequency": [
+        {
+            "value": 81000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [],
+    "acf": [],
+    "modulation": [],
+    "mode": [],
+    "location": [
+        {
+            "value": "United Kingdom",
+            "description": ""
+        }
+    ]
+}
