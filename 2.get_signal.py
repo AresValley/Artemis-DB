@@ -86,6 +86,8 @@ def get_signal_data(signal: Signal):
 
             for location in signal_data['Location']:
                 signal.location.append({"value": location, "description": ""})
+            
+            signal.short_description = signal_data['Signal description']
 
             return signal
 
