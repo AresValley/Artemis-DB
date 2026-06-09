@@ -21,17 +21,13 @@ def _fetch_json(params: dict) -> dict:
 
 
 def get_identified_signal_urls() -> list[Signal]:
-    """
-    Recupera tutte le pagine nella Category:Signal tramite
-    categorymembers, con paginazione automatica.
-    """
-    print("Connessione all'API di sigidwiki.com...")
+    print("Connect to sigidwiki.com API...")
     all_signals = []
     params = {
         "action":     "query",
         "list":      "categorymembers",
-        "cmtitle":   "Category:Signal",   # categoria dei segnali identificati
-        "cmnamespace": "0",               # solo articoli
+        "cmtitle":   "Category:Signal",
+        "cmnamespace": "0",               # only article
         "cmlimit":   "500",
     }
 
@@ -47,16 +43,15 @@ def get_identified_signal_urls() -> list[Signal]:
 
         page_count += len(pages)
 
-        # Paginazione: legge dinamicamente qualsiasi chiave di continuazione
         if "query-continue" in data:
-            print(f"  ... recuperati {page_count} segnali finora ...")
+            print(f"  ... found {page_count} signals yet ...")
             continuation = data["query-continue"]["categorymembers"]
             params.update(continuation)
         elif "continue" in data:
-            print(f"  ... recuperati {page_count} segnali finora ...")
+            print(f"  ... found {page_count} signals yet ...")
             params.update(data["continue"])
         else:
-            print(f"  ... recuperati {page_count} segnali in totale.")
+            print(f"  ... found {page_count} total signals.")
             break
 
         time.sleep(1.0)
@@ -65,11 +60,6 @@ def get_identified_signal_urls() -> list[Signal]:
 
 
 def update_index_json(all_signals: list[Signal]):
-    """
-    Carica l'index.json se esiste, altrimenti lo crea.
-    Aggiorna il file inserendo i nuovi URL.
-    """
-    # 1. Carica l'indice esistente o ne inizializza uno vuoto
     if os.path.exists(ProjectPath.INDEX_JSON):
         with open(ProjectPath.INDEX_JSON, 'r', encoding='utf-8') as f:
             index_data = json.load(f)
@@ -78,28 +68,24 @@ def update_index_json(all_signals: list[Signal]):
 
     new_entries_record = []
 
-    # 3. Itera sui segnali appena scaricati
     for signal in all_signals:
         page_id_str = str(signal.pageid)
         
-        # Se l'URL non è presente nell'indice, viene aggiunto come nuova voce
         if page_id_str not in index_data:
             new_entries_record.append(signal.title)
         
-        # Aggiorna o inserisce il valore (usando la stringa come chiave per coerenza con il JSON)
         index_data[page_id_str] = signal.title
 
-    # 4. Salva l'indice aggiornato
     with open(ProjectPath.INDEX_JSON, 'w', encoding='utf-8') as f:
         json.dump(index_data, f, ensure_ascii=False, indent=4)
 
-    print(f"Operazione completata. Aggiunti {len(new_entries_record)} nuovi segnali nel file {ProjectPath.INDEX_JSON}.")
+    print(f"Completed. Added {len(new_entries_record)} new signals {ProjectPath.INDEX_JSON}.")
     if new_entries_record:
-        print("Nuovi segnali trovati:")
+        print("NEW SIGNALS FOUND:")
         for record in new_entries_record:
             print(f" - {record}")
     else:
-        print("Nessun nuovo segnale da aggiungere.")
+        print("No new signals.")
 
 
 if __name__ == "__main__":

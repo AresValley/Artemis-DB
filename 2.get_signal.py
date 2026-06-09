@@ -40,9 +40,7 @@ def get_media_url(filename):
     return image_url
 
 
-
 def get_signal_data(signal: Signal):
-    # --- FASE 1: Query Semantica per i Metadati Tecnici ---
     query_string = f"[[{signal.title}]]|" + "|".join(f"?{f}" for f in query_fields)
     params_semantici = {"action": "ask", "query": query_string, "format": "json"}
 
@@ -52,14 +50,12 @@ def get_signal_data(signal: Signal):
 
         data = response.json()
         
-        # Gestione sicura degli errori ritornati dall'API (Evita il KeyError)
         if 'error' in data:
             error_msg = data['error'].get('query', data['error'])
-            raise ValueError(f"L'API ha restituito un errore per '{signal.title}': {error_msg}")
+            raise ValueError(f"API returned an error for signal '{signal.title}': {error_msg}")
 
-        # Controllo sicuro della presenza della chiave 'query'
         if 'query' not in data or 'meta' not in data['query']:
-            raise ValueError(f"Risposta API malformata per il segnale: {signal.title}")
+            raise ValueError(f"Malformed API reply for signal: {signal.title}")
 
         signal_found = True if data['query']['meta'].get('count', 0) == 1 else False
 
@@ -94,45 +90,43 @@ def get_signal_data(signal: Signal):
             return signal
 
         else:
-            raise ValueError(f"Segnale non trovato. Il nome del segnale ({signal.title}) è corretto?")
+            raise ValueError(f"Segnal not found. Are you sure about signal name ({signal.title}) ?")
 
     except requests.exceptions.HTTPError as e:
-        raise RuntimeError(f"Errore HTTP: {e}")
+        raise RuntimeError(f"Error HTTP: {e}")
 
     except requests.exceptions.RequestException as e:
-        raise RuntimeError(f"Errore rete/API: {e}")
+        raise RuntimeError(f"Error network/API: {e}")
 
 
 if __name__ == "__main__":
     with open(ProjectPath.INDEX_JSON, 'r', encoding='utf-8') as f:
         index = json.load(f)
     
-    for pageid, title in tqdm(index.items(), desc="Elaborazione segnali"):
-        tqdm.write(f"In corso: {title}")
-        
-        # Tentativi di recupero dati con gestione dell'errore
+    for pageid, title in tqdm(index.items()):
+        tqdm.write(f"Downloading: {title}")
+
         signal_json = None
-        tentativi = 0
-        attesa_base = 5  # secondi da aspettare se veniamo bloccati
+        attempts = 0
+        base_wait = 5
         
         while signal_json is None:
             try:
                 signal_json = get_signal_data(Signal(pageid, title))
 
             except Exception as e: 
-                # Nota: qui dovresti intercettare l'eccezione specifica delle richieste (es. requests.exceptions.HTTPError)
-                # Se l'errore è un 429:
-                tentativi += 1
-                tempo_di_attesa = attesa_base * tentativi # Più fallisce, più aspetta (Exponential Backoff)
-                tqdm.write(f"⚠️ Bloccato da 429. Tentativo {tentativi}. Aspetto {tempo_di_attesa}s...")
-                time.sleep(tempo_di_attesa)
+                attempts += 1
+                wait_time = base_wait * attempts
+
+                tqdm.write(f"⚠️ Error! Attempt {attempts} failed. Error: {e}")
+                tqdm.write(f"... Waiting {wait_time} seconds before retrying...")
+                time.sleep(wait_time)
                 
-                if tentativi > 5: # Evita cicli infiniti se il ban è permanente
-                    tqdm.write("❌ Troppi fallimenti. Salto questo segnale.")
-                    break
+                if attempts > 5:
+                    raise ValueError("❌ Too many consecutive failures for this chunk. Halt.")
 
         if signal_json is None:
-            continue # Salta il salvataggio se non abbiamo dati
+            continue
         
         signal_json.save_json()
         time.sleep(2)
