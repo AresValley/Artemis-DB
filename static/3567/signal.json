@@ -67,5 +67,5 @@
         }
     ],
     "short description": "HFGCS is a series of networks deployed by the United States Air Force to send encoded messages to deployed aircraft. This network is well known for it's coded EAM's (Emergency Action Messages) used for coordinating United States Strategic Nuclear Forces.",
-    "description": null
+    "description": "The **High Frequency Global Communications System**, **HFGCS** for short, is a series of networks created by the United States Air Force to send coded messages to deployed aircraft. There are seven frequencies used by the system, but some messages are usually transmitted on one frequency. When a message is transmitted on one or more (Sometimes even all) of these frequencies, an echo can be heard in the transmission. Those that broadcast these messages are given code names, some examples are 'Backyard', 'Racetrack', or 'Apathy'. The messages are decoded in a NATO phonetic-numeral alphabet. There is no channel marker for these frequencies. The messages are sent through EAMs, or Emergency Action Messages."
 }

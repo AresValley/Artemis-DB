@@ -156,7 +156,6 @@ if __name__ == "__main__":
             continue
 
         signals_with_description.extend(signals_chunk)
-        break
         # Grace period between chunks
         time.sleep(2)
 

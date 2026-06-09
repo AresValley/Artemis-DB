@@ -46,5 +46,5 @@
         }
     ],
     "short description": "Analog Voice Inversion Scrambling divides the spectra into multiple bands and swaps them.",
-    "description": null
+    "description": "VIS, or **Voice inversion scrambling**, is a property of a NFM signal that allows for scrambled transmissions to take place. \n\nIt obscures the content of a transmission. It is sometimes used in public service radio, automobile racing, cordless telephones and the Family Radio Service. Without a descrambler, the transmission makes the speaker \"sound like Donald Duck\", or a false LSB or USB signal that had been detuned slightly, depending on scrambling parameters set forth by the scrambler hardware. . It is called \"voice inversion\", but the technique operates on the passband of the information and so can be applied to any information being transmitted, thus leading to the \"false\" LSB/USB detuned signals.\n\nSince analog NFM in the US is slowly dying out (with the exception of a couple of systems) and fewer systems implemented this."
 }

@@ -48,5 +48,5 @@
         }
     ],
     "short description": "CRY2001 is a voice scrambling mode used on Sailor CRY2001 Scramblers. Fisherman often use these modes to communicate with privacy.",
-    "description": null
+    "description": "**CRY2001** is a synchronized analog scrambler for commercial use. Fisherman often use these modes to communicate with privacy. The CRY2001 and Sailor radios were developed by S.P. Radio A/S in Aalborg, Denmark. \nAt the beginning and end of the transmission, there is a 100 Bd 2-FSK signal.\n\nAs of 2024, there is still a rare (but extensive) use in the T band for similar uses. The UHF comparison is an NFM version of this signal. \n [LINK](https://www.youtube.com/watch?v=u7vYkbsH1Zk)"
 }

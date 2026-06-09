@@ -41,5 +41,5 @@
         }
     ],
     "short description": "GOES HRIT is a retransmission of satellite imagery and other information from the GOES-R series of satellites.",
-    "description": null
+    "description": "GOES HRIT is a retransmission of satellite imagery and other information from the GOES-R series of satellites. It is possible to decode it and get images with cheap hardware."
 }

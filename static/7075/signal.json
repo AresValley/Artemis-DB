@@ -48,5 +48,5 @@
         }
     ],
     "short description": "Proprietary satellite network owned and operated by Inmarsat that provides cellular 3G equivalent data and voice services to subscribers.",
-    "description": null
+    "description": "**Inmarsat BGAN** is a satellite based data and voice network that provides services to subscribers in remote areas. It is designed to be an equivalent to 3G cellular with similar speed and throughput, provided the user has line of sight to a geostationary satellite."
 }

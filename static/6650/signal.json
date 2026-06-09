@@ -54,5 +54,5 @@
         }
     ],
     "short description": "RDL is a Russian VLF station located in Krasnodar. It is one of the few VLF stations that changes modes during routine transmissions.",
-    "description": null
+    "description": "RDL is one of the most interesting VLF stations due to its variety of modes and intermittent, but frequent operation.\n\nThe station has two modes of operation:\n* Fast FSK, used most of the time\n* Slow Morse FSK, cleartext. Usually broadcasts the callsign, followed by some numbers, and finishing with the time of the transmission.\n\nThe transmissions will cease, or switch to a very low power when the message is sent.\nThe duration of the transmission is very variable, from less than a minute to more than ten."
 }

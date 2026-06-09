@@ -43,5 +43,5 @@
         }
     ],
     "short description": "The E084 is a radiosonde designed in 1990 by Deutsche Wetterdienst. It broadcasts a temperature reading at 403.05 MHz via a FM-modulated tone which changes pitch depending on the temperature.",
-    "description": null
+    "description": "The E084 is a radiosonde designed in 1990 by Deutsche Wetterdienst.\nThese radiosondes are fairly common and cheap as surplus items, and it is possible to adjust the frequency to transmit in the 70cm ham band."
 }

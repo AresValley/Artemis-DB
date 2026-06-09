@@ -47,5 +47,5 @@
         }
     ],
     "short description": "Transmits train telemetry such as brake status and accidental separation information to the head locomotive.",
-    "description": null
+    "description": "* Not to be confused with EOT (end-of-transmission).*\n\nTransmits train telemetry such as brake status and accidental separation information to the head locomotive. \n\nETD devices monitor functions such as brake line pressure and accidental separation of the train using a motion sensor, functions that were previously monitored by a crew in the caboose. The ETD transmits the data via a telemetry link to the Head-of-Train Device (HTD) in the locomotive.\n\nDue to be replaced by 802.16t in the future."
 }

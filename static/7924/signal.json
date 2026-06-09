@@ -46,5 +46,5 @@
         }
     ],
     "short description": "Chinese OTH radar with wide bandwidth and usually low sweep rate. Little information is available.",
-    "description": null
+    "description": "This OTH radar has been located to China but not much else is known about it. Ham radio organizations have reported it on ham bands, causing interference (QRM). It transmits in FMCW mode, typically with a 160 kHz wide signal (although up to 360 kHz is possible), often 10 sweeps/sec but may use other modes. This radar is seldom heard in Europe unlike some other Chinese radars. \n\nDepending on receiver mode this radar can sound like some other radars, but the wide bandwidth should be noticed."
 }

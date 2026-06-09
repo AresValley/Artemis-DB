@@ -40,5 +40,5 @@
         }
     ],
     "short description": "A direct broadcast sent in the X band by the NASA Aqua satellite for reception by end users.",
-    "description": null
+    "description": "The following instruments are broadcast in Direct Broadcast:\n* MODIS\n* AIRS\n* AIRS-HD\n* AMSU\n* CERES"
 }

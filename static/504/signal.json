@@ -63,5 +63,5 @@
         }
     ],
     "short description": "OLIVIA is an amateur digital teletype mode designed by Pawel Jalocha SP9VRC in 2005. Its goal was to be effective even in poor propagation conditions.",
-    "description": null
+    "description": "**OLIVIA** is an amateur digital teletype mode designed by Pawel Jalocha SP9VRC in 2005. Its goal was to be effective even in poor propagation conditions. It can also decode well under other noise, QSB, QRM, flutter caused by polar path propagation and even auroral conditions. Olivia uses 7-bit ASCII alphabet. There are a handful of amateur digital modes that are derived from Olivia, including [RTTYM](https://www.sigidwiki.com/wiki/RTTYM) and [PAX](https://www.sigidwiki.com/wiki/PAX).\n\nOlivia is occasionally utilized during the Shortwave Radiogram transmissions, which run every weekend on WRMI and WINB (USA). See the [SW Radiogram](http://swradiogram.net/) website for the schedule."
 }

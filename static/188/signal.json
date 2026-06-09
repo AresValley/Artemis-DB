@@ -52,5 +52,5 @@
         }
     ],
     "short description": "Orbcomm satellites are used for monitoring and sending short text messages.",
-    "description": null
+    "description": "**Orbcomm** satellites are used for monitoring and sending short text messages. Uses SDPSK (Symmetric Differential Phase Shift Keying) for Subscribers, and OQPSK for ground station links."
 }

@@ -51,5 +51,5 @@
     ],
     "location": [],
     "short description": "High speed modem for QO-100 (Es'hail 2) amateur satellite narrow transponder.",
-    "description": null
+    "description": "The purpose of this project is to transfer data (pictures...) via a 2.7 kHz SSB channel on the narrow-band transponder as fast as possible. Now includes a RTTY mode.\n\nA characteristic feature of the signal is the presence of a 100 Hz carrier for fine tuning (not visible on the webSDR waterfall)."
 }

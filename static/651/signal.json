@@ -52,5 +52,5 @@
         }
     ],
     "short description": "3G ALE (ARCS) is the next generation of ALE (Designated by MIL-STD-188-141B (Appendix C)). Also known as STANAG 4538, although MIL 188-141 does not provide Fast LSU.",
-    "description": null
+    "description": "[2G ALE](https://www.sigidwiki.com/wiki/Automatic Link Establishment (2G ALE)) - [3G ALE](https://www.sigidwiki.com/wiki/Automatic Link Establishment (3G ALE ARCS)) - [ALE-400](https://www.sigidwiki.com/wiki/ALE-400)\n\n**3G ALE (ARCS)** is defined by STANAG 4538 and MIL-STD-188-141B Appendix C, is only found in tactical ALE systems. The two standards are almost identical protocols, except that MIL 188-141B excludes FLSU (Fast Link Set Up) mode and represent the application of serial tone modem 8 PSK burst waveforms where backward compatibility with 2G ALE 8-ary FSK is also supported."
 }

@@ -64,5 +64,5 @@
         }
     ],
     "short description": "NXDN is a digital narrowband trunked radio protocol used in commercial, business & industry, transport and Public Safety professional radio systems.",
-    "description": null
+    "description": "**NXDN** is a digital narrowband trunked radio protocol developed by ICOM Inc. and JVCKENWOOD Co. The NXDN protocol is used in commercial, business & industry, transport and Public Safety professional radio systems. NXDN has recently been recognized by the ITU as an international digital radio communications standard. \n\nNXDN uses FDMA, and a NXDN channel be either 12.5 kHz or 6.25 kHz wide. 6.25 kHz dual-channel systems can be configured to fit within a 12.5 kHz channel. This effectively doubles the spectrum efficiency compared to an analog NFM system occupying a 12.5 kHz channel. The architecture of NXDN is such that two NXDN channels, within a 12.5 kHz channel for example, can be allocated as voice/voice, voice/data, or data/data. \n\nKenwood's brand for NXDN equipment is \"NEXEDGE\", while Icom's brand for NXDN equipment is \"IDAS\", or Icom Digital Advanced System."
 }

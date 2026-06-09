@@ -47,5 +47,5 @@
         }
     ],
     "short description": "Transmits train telemetry",
-    "description": null
+    "description": "**Interoperable Electronic Train Management System (I-ETMS)** transmits train telemetry between cars and wayside equipment."
 }

@@ -46,5 +46,5 @@
         }
     ],
     "short description": "RUM-MOI FEC, also known as RUM-MIL 115.76 Bd, is a FSK FEC mode used by the Romanian Ministry of Internal Affairs, supposedly under military use. This is no longer used today, replaced by MIL-STD 188-110 Serial.",
-    "description": null
+    "description": "**RUM-MOI FEC**, also known as RUM-MIL 115.76 Bd, is a FSK FEC mode used by the [Romanian Ministry of Internal Affairs](https://en.wikipedia.org/wiki/Ministry_of_Internal_Affairs_(Romania)), supposedly under military use. This is no longer used today, replaced by [MIL-STD 188-110 Serial](https://www.sigidwiki.com/wiki/MIL-STD-188-110 Serial).\n\nRUM-MOI uses ~412 FSK shift with 115.76 Bd speed."
 }

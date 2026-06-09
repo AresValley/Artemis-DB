@@ -52,5 +52,5 @@
         }
     ],
     "short description": "PACTOR III introduces 6 speed levels that provide higher throughput and improved robustness compared to PACTOR I and II. PACTOR III is on average 3.5 times faster than PACTOR II. With optimal conditions, PACTOR III becomes over 5 times faster.",
-    "description": null
+    "description": "PACTOR Series: [PACTOR I](https://www.sigidwiki.com/wiki/PACTOR I) - [PACTOR II](https://www.sigidwiki.com/wiki/PACTOR II) - [PACTOR III](https://www.sigidwiki.com/wiki/PACTOR III) - [PACTOR IV](https://www.sigidwiki.com/wiki/PACTOR IV) \n\n**PACTOR III** introduces 6 speed levels that provide higher throughput and improved robustness compared to PACTOR I and II. PACTOR III is on average 3.5 times faster than PACTOR II. With optimal conditions, PACTOR III becomes over 5 times faster.\n \nPACTOR III has a maximum bandwidth of 2400 Hz. This is a proprietary standard developed by SCS GmbH & Co. KG, Hanau, Germany. \n\nPactor III has 6 speed modes, made up of 2, 6, 14, 16, and 18 tone modulations, with each tone spaced 120Hz apart. \n\nDuring a standard transmission connection between two operators, PACTOR III Modems will transmit a PACTOR I SELCALL to determine the optimal mode and speed to establish between the two operators.\n\n[[Image:Tablee.png]]"
 }

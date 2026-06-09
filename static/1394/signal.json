@@ -52,5 +52,5 @@
         }
     ],
     "short description": "ROS is an amateur radio teletype free running QSO mode designed for low signal/high noise conditions.",
-    "description": null
+    "description": "**ROS** is an amateur radio teletype free running QSO mode designed for low signal/high noise conditions. ROS was designed by José Alberto Nieto Ros EA5HVK. \n\nROS implements a combination of FHSS (Frequency Hopping Spread Spectrum), DSSS (Direct Sequence Spread Spectrum) and 2G (Second Generation) CDMA (Code Division Multiple Access), The modem deployed's a 144 MFSK phase continuous single tone, modulation scheme, ROS may be amplified by non-linear Tx path. Class c/d/e.\n\nThe unique deployment of 2G technology, similar to mobile phones, allows multiple simultaneous access to a single channel. The provision of the ‘decode from’ function, providing selection of a single call-sign only for RX,A QSO may take place, isolated from the channel traffic, at the rated sensitivity for the selected speed, similar to the connected state of a packet QSO.\n\nROS provides efficient use of channel capacity and Data rate/power ratio and is exceptionally robust, being well suited to QRP Dx, low power chat and disturbed paths, i.e., Polar and NVIS 5 MHz, where conventional data modes are unable to provide communication's."
 }

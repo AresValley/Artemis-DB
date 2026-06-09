@@ -46,5 +46,5 @@
         }
     ],
     "short description": null,
-    "description": null
+    "description": "**Bluetooth Low Energy**\n\n* uses the same 2.400–2.4835 GHz ISM band as classic [Bluetooth](https://www.sigidwiki.com/wiki/Bluetooth)\n* is NOT backward-compatible with classic Bluetooth (Basic Rate/Enhanced Rate).\n* devices can have either classic Bluetooth, Bluetooth LE or both.\n* BLE uses a simpler, GFSK for modulation / DSSS\n* BLE uses Frequency Hopping\n\n\"Bluetooth Smart Ready\" means the device can be used with Classic or Low Energy\n\n\"Bluetooth Smart\" requires a Bluetooth Smart Ready or Bluetooth Smart device to connect.\n\nmax transmit power (Bluetooth 4.0): 10 mW\nmax transmit power (Bluetooth 5): 100 mW"
 }

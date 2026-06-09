@@ -43,5 +43,5 @@
         }
     ],
     "short description": "Audi keyfobs transmit encrypted, short radio bursts that carry authentication data to the vehicle. These bursts trigger actions such as unlocking doors, opening the trunk, or enabling engine start. Modern Audi systems also integrate with keyless entry, where the car polls for the key’s presence when the driver approaches.",
-    "description": null
+    "description": "Audi keyfobs transmit encrypted, short radio bursts that carry authentication data to the vehicle. These bursts trigger actions such as unlocking doors, opening the trunk, or enabling engine start. Modern Audi systems also integrate with keyless entry, where the car polls for the key’s presence when the driver approaches."
 }

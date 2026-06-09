@@ -55,5 +55,5 @@
         }
     ],
     "short description": "CHU is a time signal radio station operated by the Institute for National Measurement Standards of the National Research Council of Canada.",
-    "description": null
+    "description": "**CHU** is a time signal radio station operated by the Institute for National Measurement Standards of the [National Research Council of Canada](http://www.nrc-cnrc.gc.ca/eng/index.html).\n \nThis signal is broadcast on three frequencies: 3 kW (3330, 14670 kHz) and 5 kW (7850 kHz). The transmitter is located just south of Ottawa, Canada. The signal follows a strict pattern of CW beeps, along with 9 seconds where a digital time code is transmitted in a 300 Bd FSK mode using the Bell 103 standard, a 2225 Hz tone to represent a mark (1 bit) and 2025 Hz tone for a space (0 bit)."
 }

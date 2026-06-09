@@ -50,5 +50,5 @@
         }
     ],
     "short description": "HaLow (802.11ah) is a wireless technology standard for exchanging data between devices over medium distances. Released by the Wi-Fi Alliance in 2016, it was initially developed as a competitive Internet of Things standard.",
-    "description": null
+    "description": "**Wi-Fi HaLow** (IEEE **802.11ah**) is a sub-1 GHz Wi-Fi standard optimized for long-range, low-power IoT connectivity, supporting up to several kilometers of coverage with efficient penetration through walls. It uses narrower channel widths (1–16 MHz) and advanced modulation schemes to balance range, throughput, and power efficiency."
 }

@@ -47,5 +47,5 @@
         }
     ],
     "short description": "Also known as F06, this is a one-way error-correcting broadcast system, used by one of Russian intelligence agencies for delivery of messages to their operatives abroad on fixed schedules.",
-    "description": null
+    "description": "This mode is also known by designation **F06**, and formerly also as **FSK 42d** [LINK](http://www.signalshed.com/docs/ENIGMA%202000%20Active%20Stations%20List%20V1.3.pdf.) It is a one-way error-correcting broadcast system, used by one of Russian intelligence agencies for delivery of messages to their operatives abroad on fixed schedules.\n\nTwo submodes of this system are known - **F06** and **F06a**. F06 conveys messages that consist of 5-digit groups while F06a carries a named file. The contents of these messages and files are encrypted, but header data such as message serial number, length, recipient ID and date can be decoded. Not all transmissions contain actual messages, and some transmission may contain more than one message.\n\nThis mode sends on fixed schedules, consisting of three broadcasts spaced 10 minutes apart for F06, and 15 minutes apart for F06a. Each subsequent broadcast sends on a frequency 500 kHz to 3 MHz higher or lower, typically lower. Each transmission lasts 6-8 minutes, repeating the data continuously, and each repeat is followed by 256 zero bits."
 }

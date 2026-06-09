@@ -55,5 +55,5 @@
         }
     ],
     "short description": "A HF trading link in idle state which strongly resembles an FMCW radar with 120 Hz sweep rate. Has been observed to transmit CW ID once per hour.",
-    "description": null
+    "description": "This signal is likely believed to be a high-frequency trading link in idle state. It very strongly resembles an FMCW radar, transmitting a linear upwards FMCW signal with 120 Hz frequency, but a Morse code (CW) ID has been heard, belonging to a HFT station in Canada. Bandwidth is about 9 kHz to 10 kHz. The signal may have been seen using 240 Hz / 20 kHz too, but this has not been confirmed. \n\nActual data transmission of this type has not been observed. \n\nHigh-frequency trading is a form of automated stock trading in which large numbers of transactions are performed at high speeds, in time scales ranging from seconds to fractions of a second. To minimize latency, some HF traders have investigated the possibility of using shortwave radio to relay trading commands and information."
 }

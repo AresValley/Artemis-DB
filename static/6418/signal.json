@@ -51,5 +51,5 @@
         }
     ],
     "short description": "Digisondes are ionosondes that use pulsed signal that can gather more radar information than a traditional ionosonde sweep.",
-    "description": null
+    "description": "Digisondes are ionosondes that use pulsed signal that can gather more radar information than a traditional ionosonde sweep. It is sometimes called \"The Grinder\" by amateur operators.\n\nThe specifications of the Digisonde transmitters can be found here on the [manufacture's website](https://www.digisonde.com/digisonde.html#features-section). A map of all the Digisonde locations can be found on their [main page](https://www.digisonde.com/index.html)."
 }

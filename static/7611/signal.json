@@ -62,5 +62,5 @@
         }
     ],
     "short description": "Beta is the designation of a time signal service which is transmitted from multiple Russian VLF stations.",
-    "description": null
+    "description": "**Beta** is the designation of a Russian VLF time signal service, controlled by All-Russian Scientific Research Institute for Physical-Engineering and Radiotechnical Metrology, and operated by Russian Navy. It is transmitted several times per day from 6 transmitter stations which take turns transmitting the signal and only one station transmits at a time.\n\nThe six Beta transmitters are: [LINK](https://en.wikipedia.org/wiki/Beta_(time_signal)) [LINK](http://www.vlf.it/russianvlf/russianvlf.htm) \n\n* **RJH63**, Krasnodar, Russia \n* **RJH69**, Vilyeyka, near Molodechno, Belarus \n* **RJH77**, Archangelsk, Russia \n* **RJH86**, Bishkek, Kyrgyzstan \n* **RJH90**, Nizhny Novgorod, Russia \n* **RAB99**, Khabarovsk, Russia \n\nTransmitter output power has been estimated to be 1000 kW but due to the low efficiency of electrically short antennas, transmitted power may be around 30 to 50 kW EIRP."
 }

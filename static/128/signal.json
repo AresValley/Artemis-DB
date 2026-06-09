@@ -75,5 +75,5 @@
         }
     ],
     "short description": "The Japanese Slot Machine (Enigma Designation XSL) is a simplex system used by the Japanese Maritime Self-Defense Force in Ichihara, Japan.",
-    "description": null
+    "description": "The **Japanese Slot Machine** (Enigma Designation **XSL**) is a simplex system used by the Japanese Maritime Self-Defense Force in Ichihara, Japan. This signal is transmitted from the [Japanese Maritime Self-Defense Force Ichihara Transmitting Station](https://www.google.com/maps/place/35%C2%B026'46.0%22N+140%C2%B010'52.0%22E/@35.4460995,140.1844078,247m/data=!3m1!1e3!4m3!3m2!1s0x0:0x0!4b1!6m1!1e1) (海上自衛隊市原送信所) in Ichihara, Japan. Uses QPSK at 1500 Bd to transmit. Has a very interesting and unique idling format which sounds akin to a slot machine, hence the attributed name. This modem has been active since 2001."
 }

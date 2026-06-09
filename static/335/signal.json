@@ -52,5 +52,5 @@
         }
     ],
     "short description": "European Radio Message System (ERMES) is a European common standard for paging developed by the European Telecommunications Standards Institute (ESTI)",
-    "description": null
+    "description": "**European Radio Message System (ERMES)** is a European common standard for paging developed by [ETSI](http://www.etsi.org/) (European Telecommunications Standards Institute) in 1990. By 1996, ERMES became operational.\n\nERMES used to use 16 channels in its frequency of operation, but since 2006 this had been reduced to 8 channels. \n \n\nThe modulation method is 4-FSK at 6.25 kbit/s (3125 symbols/sec)."
 }

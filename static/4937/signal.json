@@ -33,5 +33,5 @@
         }
     ],
     "short description": "Swedish navy transmitter for submarine communication. It shares the antenna with SAQ (Grimeton Radio)",
-    "description": null
+    "description": "SAS is the military part of the Varberg site. It shares the antenna with SAQ (Grimeton Radio) [LINK](https://www.sigidwiki.com/wiki/Grimeton_Radio_(SAQ)). \n\nSo if SAQ is going to start one of its rare transmissions, SAS is turned off one or two days before.\n\nSwedish MSK transmitters can easily be identified in the waterfall diagram by their fishbone-like modulation pattern. This seems to belong to the idle phases while the pattern becomes more random while transmitting data."
 }

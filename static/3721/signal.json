@@ -51,5 +51,5 @@
         }
     ],
     "short description": "Fast Simple QSO (FSQ) is an amateur radio digital modulation mode developed by Con Wassilieff ZL2AFP with Murray Greenman ZL1BPU in 2015.",
-    "description": null
+    "description": "**Fast Simple QSO (FSQ)** is an amateur radio digital modulation mode developed by Con Wassilieff ZL2AFP with Murray Greenman ZL1BPU in 2015. FSQ is used on HF on fixed frequency channels. VHF adaptions of FSQ are also supported using VHF FM. FSQ uses IFK+ and has efficient alphabet encoding as well as no need for syncing to receive. The FSQ modulation, coding and FSQCall protocol are publicly disclosed and described, and the software is open source. \n\nFSQ is intended for fixed frequency (channelized) operation, with dedicated calling frequencies. It isn't intended as a 'tune around to see what you can find' mode!"
 }

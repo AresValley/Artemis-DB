@@ -51,5 +51,5 @@
         }
     ],
     "short description": "A digital text message protocol included in the stock firmware of some Quansheng brand handheld radios to send up to 30 characters in a short packet type message.",
-    "description": null
+    "description": "Through the use of custom firmware, this text message mode can support 256-bit encryption. It is derived from the 10 characters password (80 bits) set by the user in the EncKey menu item and is stored in the EEPROM memory of the device.\n\nThe key derivation function provides 256 bit encryption key by combining 4 x 64 bit hashes of the same (80 bits) password. Each hash is generated with a different 64 bit salt. The encryption key is stored in the RAM memory of the device and is lost once the device is powered down. (From [NuNu Firmware by Kamilsss655](https://github.com/kamilsss655/uv-k5-firmware-custom/wiki/44-%E2%80%90-Encryption#details)) It also can support different FSK speeds and, even stock, can do rudimentary mesh networking through each radio repeating a received message so it can be received further from the original sender's position. Transmission length is more or less the same regardless of message length. It is somewhat similar visually and audibly to APRS but is not cross compatible. Each message can contain up to 30 characters including alphabetical and most symbols."
 }

@@ -67,5 +67,5 @@
         }
     ],
     "short description": "BRAS-3 and the closely related RS-10 are Russian medium frequency hyperbolic navigation systems used for marine navigation",
-    "description": null
+    "description": "**BRAS-3** and the closely related **RS-10** are Russian medium frequency hyperbolic navigation systems designed mainly for marine navigation. Information about these systems, especially RS-10, is scarce. It is known that the systems are deployed as \"chains\" of three stations, each with one master and two slave stations which transmit pulsed signals in a rather complex sequence. As of 2026, most chains have been decommissioned. At least one chain is still operational somewhere in the Baltic Sea area, likely in Kaliningrad. [LINK](https://groups.io/g/UDXF/topic/32694719)\n\nThe system is said to have range of 200 km or more, and accuracy of 12 to 60 meters. Transmitter output power is said to be only 15 watts. [LINK](https://web.archive.org/web/20210418015255/http://alancordwell.co.uk:80/Legacy/radionavigation/russian/bras.html)"
 }

@@ -41,5 +41,5 @@
         }
     ],
     "short description": "Wideband telemetry signal from BlueWalker-3 experimental satellite.",
-    "description": null
+    "description": "* [Baseband](https://cdn.rgbcraft.com/altro/basebands/BlueWalker-3-WB.wav)"
 }

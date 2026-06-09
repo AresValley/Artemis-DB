@@ -47,5 +47,5 @@
         }
     ],
     "short description": "POCSAG (Post Office Code Standardisation Advisory Group), also known as Super-POCSAG, Radio Paging Code No. 1 or RPC1, is a one-way 2FSK paging protocol that supports 512, 1200, and 2400 bps.",
-    "description": null
+    "description": "**POCSAG** (**Post Office Code Standardisation Advisory Group**), also known as Super-POCSAG, Radio Paging Code No. 1 or RPC1, is a one-way 2FSK paging protocol that supports 512, 1200, and 2400 bps. POCSAG transmissions of different speeds and different paging protocols (e.g. [FLEX](https://www.sigidwiki.com/wiki/FLEX)) on the same paging channel are supported. POCSAG's official designation is \"*CCIR Recommendation 584, Radio Paging Code No. 1*\". \n\nThe Post Office Code Standardisation Advisory Group was from the British Post Office, which used to run nearly all telecommunications in Britain before privatization."
 }

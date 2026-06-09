@@ -76,5 +76,5 @@
         }
     ],
     "short description": "Digital Radio Mondiale (DRM) is a digital commercial broadcasting mode used to deliver FM-comparable sound quality to shortwave radio.",
-    "description": null
+    "description": "**Digital Radio Mondiale (DRM)** is a digital commercial broadcasting mode used to deliver FM-comparable sound quality to shortwave radio. DRM is a digital alternative to AM shortwave radio. [WinDRM](https://www.sigidwiki.com/wiki/WinDRM) is an amateur adoption of this mode.\n\nDRM uses COFDM (Coded Orthogonal Frequency Division Multiplexing) with QAM (Quadrature Amplitude Modulation). \n\nDRM is commonly seen with 10 kHz of bandwidth. Other bandwidths are used rarely."
 }

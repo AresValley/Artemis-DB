@@ -51,5 +51,5 @@
         }
     ],
     "short description": "A type of radio navigation system used by aircraft. It is distinctive in that the center frequency is flanked by two FM waves.",
-    "description": null
+    "description": "A type of radio navigation system used by aircraft. It is distinctive in that the center frequency is flanked by two FM waves. The center carrier may have subcarriers of AM voice, morse code identifier, or both."
 }

@@ -57,5 +57,5 @@
         }
     ],
     "short description": "UTC (Coordinated Universal Time) time standard transmission from NIST (National Institute of Standards and Technology) stations WWV in Fort Collins, Colorado USA (2.5, 5, 10, 15, 20, 25 MHz) and WWVH in Kauai, Hawaii (2.5, 5, 10, 15 MHz).",
-    "description": null
+    "description": "**UTC (Coordinated Universal Time)** time standard transmission from NIST (National Institute of Standards and Technology) stations WWV in Fort Collins, Colorado USA and WWVH in Kauai, Hawaii. Transmission consists of voice and time coded reference markers. Used for time reference. Also used by NOAA to broadcast marine storm warnings and geophysical alerts at 18 minutes (WWV) and 45 minutes (WWVH) after the hour. Please note that the 25 MHz transmission is experimental. Note that WWV uses a male voice, WWVH uses a female voice.\n\nThe broadcast information includes time announcements, standard time intervals, standard frequencies, UT1 time corrections, a BCD time code, and geophysical alerts. As of April 19, 2019, the stations also announce upcoming and current Military Auxiliary Radio System (MARS) and U.S. Department of Defense (DoD) exercises. \n\n* A BCD time code is continuously broadcast on a 100 Hz subcarrier."
 }

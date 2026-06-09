@@ -47,5 +47,5 @@
         }
     ],
     "short description": "This is the UHF band variant of Link-11, which is transmitted on a FM carrier. The FM-demodulated baseband is identical to the HF Link-11 waveform.",
-    "description": null
+    "description": "This is the UHF band variant of **Link-11**, which is transmitted on a FM carrier. The FM-demodulated baseband is identical to the original [Link-11](https://www.sigidwiki.com/wiki/Link-11) waveform used on MF and HF bands. See the [Link-11](https://www.sigidwiki.com/wiki/Link-11) page for in-depth details on the underlying waveform characteristics."
 }

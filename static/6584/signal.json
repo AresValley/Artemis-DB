@@ -38,5 +38,5 @@
         }
     ],
     "short description": "DRM+ is a VHF implementation of DRM primarily for the FM broadcast band.",
-    "description": null
+    "description": "**This Article is currently in stub process. Feel free to add on to it by adding accurate images, sound files, and IF-IQ, by hitting the \"Edit\" button above this page.**\n\n**DRM+** is a digital audio broadcast mode based on the [DRM](https://www.sigidwiki.com/wiki/DRM) standard, primarily for use in the WFM broadcast spectrum. It uses COFDM (Coded Orthogonal Frequency Division Multiplexing) with QAM (Quadrature Amplitude Modulation).\n\nDRM+ differs from medium wave and HF DRM in that a 100 kHz channel is used for transmission of the digital audio and data, as well as using robustness mode 'E' to guard against fading."
 }

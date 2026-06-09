@@ -51,5 +51,5 @@
         }
     ],
     "short description": "MDC (Motorola Data Communications), also known as Stat-Alert, MDC-1200 and MDC-600, is a Motorola two-way radio low-speed data system.",
-    "description": null
+    "description": "**Motorola Data Communications (MDC)** signaling includes a number of features: unit ID, status buttons, emergency button, selective inhibit, radio check, and selective calling. These features are programmable and could be used in any combination desired by the user. They are typically incorporated in high-end analog FM commercial and public safety radios made by Motorola and other manufacturers. In addition to Motorola, at least two other companies make compatible base station decoders for MDC-1200."
 }

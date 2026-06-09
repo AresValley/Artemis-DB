@@ -56,5 +56,5 @@
         }
     ],
     "short description": "F07 is a Russian digital number station known for using multiple modulation types, including MFSK, BPSK and FSK.",
-    "description": null
+    "description": "F07 is a Russian digital number station that is active every Tuesday and Thursday. It is known for using multiple modulation types, including 5 seperate MFSK data bursts, each divided by either BPSK data or carrier tones. All, if not most of these transmissions have been documented in the past. It is for that reason that we have an exact schedule of each transmission that can be seen on the Priyom website (link down in the description)."
 }

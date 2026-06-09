@@ -60,5 +60,5 @@
     ],
     "location": [],
     "short description": "COFDMTV is an easy-to-use picture transmission mode based on Coded Orthogonal Frequency-Division Multiplexing (COFDM).",
-    "description": null
+    "description": "The modes allow for a payload of up to 5380 bytes.\nCOFDMTV is based on COFDM (coded orthogonal frequency-division multiplexing) technology:\n\n* 160 ms long OFDM symbols\n\n* 6.25 Hz per sub-carrier\n\n* 1⁄8 guard interval\n\n* Differentially encoded PSK (phase-shift keying) modulation\n\n* Systematic polar codes for forward error correction"
 }

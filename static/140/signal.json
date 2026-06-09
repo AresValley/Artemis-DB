@@ -123,5 +123,5 @@
         }
     ],
     "short description": "PSK is a digital teletype mode based on Phase-Shift Keying (PSK) modulation. The most popular amateur radio PSK mode is PSK 31.",
-    "description": null
+    "description": "**PSK** is a digital amateur radio mode based on Phase-Shift Keying (PSK) modulation. Most commonly used in HF, rarely seen at higher frequencies."
 }

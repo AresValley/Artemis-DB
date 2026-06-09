@@ -56,5 +56,5 @@
         }
     ],
     "short description": "CIS-1200, Mahovik, \"Flywheel\" in Russian, is a PSK based mode that can transmit both voice and data. It is transmitted from a Russian T-230-1A.",
-    "description": null
+    "description": "**CIS-1200 (T-230-1A Маховик)**, or \"**Flywheel**\" in Russian, is a PSK based mode that can transmit both voice and data. It is transmitted from a Russian T-230-1A. Has been seen with both BPSK and SDPSK manipulation at 1200Bd."
 }

@@ -40,5 +40,5 @@
         }
     ],
     "short description": "[POCSAG 1200]\nUsed in places like hospitals and other areas.\nTransmits at 1200 bps.",
-    "description": null
+    "description": "#REDIRECT [POCSAG](https://www.sigidwiki.com/wiki/POCSAG)"
 }

@@ -58,5 +58,5 @@
         }
     ],
     "short description": "TT2300, also known as TT2300B, TT2300-ARQ, TRA-2300, and TPLEX, is an 8MFSK synchronous system developed by Thrane & Thrane of Denmark (acquired by UK defense firm Cobham in 2012).",
-    "description": null
+    "description": "**TT2300**, also known as TT2300B, TT2300-ARQ, TRA-2300, and TPLEX, is an 8MFSK synchronous system developed by Thrane & Thrane of Denmark (acquired by UK defense firm Cobham in 2012). TT2300 was used by French diplomatic services, UK Civil Aviation Authority (National Air Traffic System/NATS datalink, Prestwick/Reykjavik), and Algerian oil companies. Thrane & Thrane's name for this protocol/coding is TPLEX, not to be confused with [TWINPLEX](https://www.sigidwiki.com/wiki/TWINPLEX)."
 }

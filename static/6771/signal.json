@@ -42,5 +42,5 @@
         }
     ],
     "short description": "Direct Broadcast digital signal from the CORIOLIS satellite, primarily carries data from the WindSat instrument.",
-    "description": null
+    "description": "The CORIOLIS Tactical Direct Broadcast link carries direct broadcast (real time) data from the CORIOLIS satellite (a satellite designed to measure sea waves, and indirectly, wind speed and direction)."
 }

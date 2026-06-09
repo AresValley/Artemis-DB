@@ -37,5 +37,5 @@
     ],
     "location": [],
     "short description": "A remote control transmission from the controller from an Elenco Snap Circuits SCROV-10 kit.",
-    "description": null
+    "description": "The remote transmits an idle signal, even when no buttons are being pressed.\nThe remote also has a \"channel\" switch to move between 3 different channels.\n\nChannel A:\n[[File:Channel A.wav]]\n\nChannel B:\n[[File:Channel B.wav]]\n\nChannel C:\n[[File:Channel C.wav]]"
 }

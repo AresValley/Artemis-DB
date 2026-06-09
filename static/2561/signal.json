@@ -44,5 +44,5 @@
         }
     ],
     "short description": "The Buzzer, call-sign NZhTI (formerly ANVF, ZhUOZ, MDZhB and UZB-76), is a Russian Military Commandment system signal used to broadcast diplomatic ciphered messages known as \"monolit\" to the russian navy.  If there is no message to broadcast, its \"homing\" signal is a loud ship-horn buzzing sound.  It is believed to serve a similar purposes to The Alarm and The Air Horn.",
-    "description": null
+    "description": "**The Buzzer**, call-sign **НЖТИ (NZhTI)**, nicknamed Жужжалка, formerly known by its previous callsigns **АНВФ (ANVF)**, **ЖУОЗ (ZhUOZ)**, **МДЖБ (MDZhB)** and **УЗБ-76 (UZB-76)**, is a Russian-based military station that frequently broadcasts * [Monolit](http://priyom.org/military-stations/russia/monolyth-messages-description)* format messages in Russian. Its official name is actually вулкан (Vulkan, Volcano in English). Its trademark buzzer is constantly transmitted while there is no message to broadcast. Active since the late 1970s.\n\nNZhTI is an analogue [Upper Side Band](https://www.sigidwiki.com/wiki/Single Sideband Voice) voice signal. It has an active carrier at 4625 kHz. It is believed that the buzzer is not directly modulated but actually recorded by an active microphone, as there have been reports of hearing background chatter while the buzzer was on."
 }

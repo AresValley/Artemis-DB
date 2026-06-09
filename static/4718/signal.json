@@ -47,5 +47,5 @@
         }
     ],
     "short description": "The Direct Sounder Broadcast (DSB) is an auxiliary telemetry downlink from NOAA Polar Operational Environmental Satellites (POES), transmitted alongside Automatic Picture Transmission (APT) broadcasts.",
-    "description": null
+    "description": "The **Direct Sounder Broadcast (DSB)** is an auxiliary telemetry downlink from NOAA Polar Operational Environmental Satellites (POES), transmitted alongside [Automatic Picture Transmission (APT)](https://www.sigidwiki.com/wiki/Automatic Picture Transmission (APT)) broadcasts. DSB in this context is not to be confused with Dual Side Band modulation. On August 19th 2025, the final satellite transmitting this mode (NOAA-15) was decommissioned at 15:26 UTC right before APT was shutdown shortly after. This mode is no longer in use."
 }

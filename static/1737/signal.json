@@ -59,5 +59,5 @@
         }
     ],
     "short description": "OpenSky is an encrypted TDMA protocol that is heavily used but is being phased out by the Pennsylvania State Police. No one other than the intended user has been able to decrypt the signal.",
-    "description": null
+    "description": "**OpenSky**, created By HARRIS is a 2 slot IP TDMA Trunk System.\nOperations available on 700, 800 and 900MHz. \n\"Currently (May 2018), there are no scanners or software\nthat are capable of monitoring OpenSky transmissions.\" (information From www.RadioReference.com)\n\nOpenSky is encrypted and was also used as the Pennsylvania Statewide Radio Network\nfrom 2003-2022. as of 2017 the Pennsylvania Statewide Radio Network is working on\nmigrating to APCO 25 Phase 2 (P25 Phase 2,) with most to all the law enforcement\nagencies having full encryption enabled.\n\nAs of 2023 there are no towers actively transmitting."
 }

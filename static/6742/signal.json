@@ -41,5 +41,5 @@
         }
     ],
     "short description": "A variant of the [[High_Resolution_Picture_Transmission_(HRPT)|NOAA HRPT]] signal, which has a different data structure and better low-signal handling characteristics.",
-    "description": null
+    "description": "The Meteor-M series of satellites transmit high resolution pictures from the MSU-MR (main radiometer) and additionally, data from MTVZA (a microwave sounding instrument) over an HRPT link. However, while the signal is still being PSK modulated, the data structure is different than the [NOAA HRPT](https://www.sigidwiki.com/wiki/High_Resolution_Picture_Transmission_(HRPT)) signal. This gives improved low-signal handling characteristics and makes the signal incompatible with NOAA HRPT decoders."
 }

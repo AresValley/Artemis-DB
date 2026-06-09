@@ -47,5 +47,5 @@
         }
     ],
     "short description": "ACARS is a digital datalink system for the transmission of short messages between aircraft and ground stations via airband radio or satellite.",
-    "description": null
+    "description": "In aviation, ACARS (/ˈeɪkɑːrz/; an acronym for Aircraft Communications Addressing and Reporting System) is a digital datalink system for transmission of short messages between aircraft and ground stations via airband radio or satellite. The protocol was designed by ARINC and deployed in 1978, using the Telex format. More ACARS radio stations were added subsequently by SITA."
 }

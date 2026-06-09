@@ -55,5 +55,5 @@
         }
     ],
     "short description": "RWM is a Russian shortwave time signal station.",
-    "description": null
+    "description": "**RWM** is a Russian shortwave time signal station. Unlike other time signal stations, RWM only transmits time intervals, it does not tell you the time of day or month nor year."
 }

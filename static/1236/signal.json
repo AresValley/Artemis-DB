@@ -63,5 +63,5 @@
         }
     ],
     "short description": "Contestia, developed by  Nick Fedoseev (UT2UZ) in 2005, is a digital mode derived from Olivia. It aims to deliver a compromise of speed and performance.",
-    "description": null
+    "description": "**Contestia**, developed by Nick Fedoseev (UT2UZ) in 2005, is a digital mode derived from [Olivia](https://www.sigidwiki.com/wiki/Olivia). It aims to deliver a compromise of speed and performance.\n\nContestia performs very well under weak signal conditions. It decodes below the noise level but Olivia still outperforms it in this area by about 1.5 - 3db depending on configuration. Despite this, Contestia performs twice as fast as Olivia comparatively (e.g. Contestia 8/250 is twice as fast as Olivia 8/250). Contestia uses a block size of 32 where Olivia uses a block size of 64. Contestia also uses a modified alphabet that's 6-bit encoded."
 }

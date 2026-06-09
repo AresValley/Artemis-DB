@@ -37,5 +37,5 @@
         }
     ],
     "short description": "Military shortwave station broadcasting from the Western Military District in Russia. First heard in March 2017, this station has no channel marker, and it mainly broadcasts Monolith type messages and \"MOLNIYA 5X\" (МОЛНИЯ 5X) messages addressed to \"Zaliv52\" (Залив52).",
-    "description": null
+    "description": "** [Zaliv52](https://priyom.org/military-stations/russia/zaliv52)** is a Russian Military station transmitting from the Moscow region. Presumably it has ties with the modern * [T-Marker](https://priyom.org/military-stations/russia/t-marker)* station, both of which share specific sorts of noises, humming and all other kinds of equipment parasitic signals, such as the ~1100hz+~2200hz+~3300hz tone \"marker\", short bursts of which appear moments before the transmittion of a message. The station also seems to be operating a AT-3004D (CIS-12) modem, supposedly on other frequencies. Some of transmittions contained only test counts with 20 minutes of static hum following."
 }

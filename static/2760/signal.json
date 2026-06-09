@@ -54,5 +54,5 @@
         }
     ],
     "short description": "MMP-4800 was a MDT (Mobile Data Terminal) protocol developed by Canadian company Mobile Data International (MDI) in 1982 for their Mobile Data Terminals. Used by public safety and commercial industries. Phased out.",
-    "description": null
+    "description": "**MMP-4800** was a MDT (Mobile Data Terminal) protocol developed by Canadian company Mobile Data International (MDI) in 1982. Used by public safety and commercial industries. Phased out.\n\nTransmitted at 4800 bps, had two-way functionality, and occupied 25 kHz UHF/VHF voice channel, or 12.5 kHz sideband.\n\nUsers of this included Swedish Police, Phoenix Fire Dept., and other commercial companies.\n\nWhen MDI was purchased by Motorola in 1988, Motorola decided to discontinue MDI's MMP-4800 protocol in favor of it's own [MDC-4800](https://www.sigidwiki.com/wiki/MDC-4800) protocol."
 }

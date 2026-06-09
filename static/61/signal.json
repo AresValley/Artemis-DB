@@ -87,5 +87,5 @@
         }
     ],
     "short description": "Project 25 (P25 or APCO-25) is a trunked radio standard developed by The Association of Public Safety Communications Officials International (APCO-25) for use with public safety organizations around the world.",
-    "description": null
+    "description": "* Not to be confused with Yaesu [C4FM](https://www.sigidwiki.com/wiki/Yaesu System Fusion)*\n\n**Project 25 (P25 or APCO-25)** is a trunked radio standard developed by The Association of Public Safety Communications Officials International (APCO-25) for use with public safety organizations around the world. P25 supports encrypted voice."
 }

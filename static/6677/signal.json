@@ -46,5 +46,5 @@
         }
     ],
     "short description": "Russian telemetry system, transmitted over the overhead power lines.",
-    "description": null
+    "description": "A system for transmitting telemetry through overhead high-voltage lines, probably for fault protection."
 }

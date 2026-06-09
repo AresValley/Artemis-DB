@@ -63,5 +63,5 @@
         }
     ],
     "short description": "Zigbee is a low-power, low-data-rate, low-latency mesh network, based on the IEEE 802.15.4 LR-WPAN standard. It is commonly used for automation and IoT devices, including sensors, light switches/bulbs, and other wireless-controlled devices.",
-    "description": null
+    "description": "**Zigbee** is a low-power, low-data-rate, low-latency mesh network, based on the IEEE 802.15.4 LR-WPAN standard. It is commonly used for automation and IoT devices, including sensors, light switches/bulbs, and other wireless-controlled devices."
 }

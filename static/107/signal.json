@@ -63,5 +63,5 @@
         }
     ],
     "short description": "Phase Alternating Line (PAL) Analogue Television Broadcast. Now phased out in most of the world.",
-    "description": null
+    "description": "**Phase Alternating Line (PAL) Analogue Television Broadcast**. Now phased out in most of the world. Replaced by DVB-T. Used Quadrature Amplitude Modulation for transmitting video. Uses CCIR System B.\n\nHas a Field Rate of 50 Hz, 625 lines per frame, and a Gamma of 2.8."
 }

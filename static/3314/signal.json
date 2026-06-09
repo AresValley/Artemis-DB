@@ -46,5 +46,5 @@
         }
     ],
     "short description": "SWED-ARQ, also known as ARQ-SWE, was a Swedish simplex ARQ system used by Swedish diplomatic services. This protocol supported three packet lengths and was able to change packet length mid-transmission. No longer used today.",
-    "description": null
+    "description": "**SWED-ARQ**, also known as ARQ-SWE, was a Swedish simplex ARQ system used by Swedish diplomatic services. This protocol supported three packet lengths and was able to change packet length mid-transmission. No longer used today.\n\nSWED-ARQ had 400 Hz Shift and typically ran at 100 Bd. The three packet lengths it used are:\n\n* 3 character block, 210 ms\n* 9 character block, 630 ms\n* 22 character block, 1540 ms\n\nFor all three packet lengths, the time between packets is 240 ms. When SWED-ARQ is running at 3 character block packet size, it is identical to [SITOR-A](https://www.sigidwiki.com/wiki/SITOR-A)."
 }

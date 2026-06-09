@@ -68,5 +68,5 @@
         }
     ],
     "short description": "Russian spacecraft telemetry system.",
-    "description": null
+    "description": "An old and widely used in the USSR/Russia telemetry system for spacecraft. Currently used on the Russian segment of the ISS, Soyuz/Progress spacecraft, and Meteor meteorological satellites. Telemetry transmission is usually switched on only within the visibility range of Russian tracking stations; in the case of the ISS, streams may not be active from every module at the same time."
 }

@@ -49,5 +49,5 @@
         }
     ],
     "short description": "Radio frequency heating and welding equipment may radiate interference which can be picked up by radio receivers. On a waterfall display, it usually appears as wobbly peaks that rapidly drift downwards in frequency.",
-    "description": null
+    "description": "This type of signals is believed to originate from radio frequency heating and welding applications. RF heating is used in industry for drying wood products, welding plastics and for other purposes. Such heating equipment may radiate RF interference which can be picked up by radio receivers. During good propagation conditions, such interference may be hearable over long distances. \n\nOn a waterfall spectrum display, RF heating interference typically appears as wobbly peaks that drift downwards in frequency and last for some seconds. These are also called **hooks**, **fish hooks** and **sweepers**. The peaks may drift over several hundred kilohertz but sometimes stable peaks are seen as well. \n\nAntenna tuning operation of amateur radio transceivers can produce signals that look similar on the waterfall and can be confused with this kind of interference. However, these tuning signals typically sweep through frequencies in a more controlled manner, often up and down, and do not produce a \"wobbling\" sound."
 }

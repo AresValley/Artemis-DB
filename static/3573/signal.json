@@ -46,5 +46,5 @@
         }
     ],
     "short description": "Data transmitted from a vehicle counting system installed in car parks. The data is frequency hopping over 10 MHz.",
-    "description": null
+    "description": "A small unit is fixed to the road where the cars will drive. It is probably interrogated by the 'zone controller' unit using something similar to RFID. A directional antenna from the zone controller is pointed at the road sensor (the frequency of this is currently unknown). Data is transmitted from the zone controller regularly, even when no traffic is present.\n\nThe communication format is unknown, it uses frequency hopping over 10 MHz.\n\nIt appears to be similar to the system described in this website [LINK](http://www.trafficparking.com.au/vehicle-counting-systems.php) and the equipment appears to be provided by [LINK](http://www.smartparking.com/) (but that website doesn't have much information)."
 }
