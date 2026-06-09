@@ -1,12 +1,14 @@
 {
     "pageid": "5118",
     "title": "Vaisala RS80",
-    "spectrum": [
-        "RS80Waterfall.png"
-    ],
-    "audio": [
-        "RS80 Recudedd audio Audio.mp3"
-    ],
+    "spectrum": {
+        "filename": "RS80Waterfall.png",
+        "url": null
+    },
+    "audio": {
+        "filename": "RS80 Recudedd audio Audio.mp3",
+        "url": null
+    },
     "category": [
         "Analogue",
         "Utility"

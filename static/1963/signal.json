@@ -1,12 +1,14 @@
 {
     "pageid": "1963",
     "title": "ARQ6-98",
-    "spectrum": [
-        "ARQ 6-98.jpg"
-    ],
-    "audio": [
-        "arq6-98.mp3"
-    ],
+    "spectrum": {
+        "filename": "ARQ 6-98.jpg",
+        "url": null
+    },
+    "audio": {
+        "filename": "arq6-98.mp3",
+        "url": null
+    },
     "category": [
         "Digital"
     ],

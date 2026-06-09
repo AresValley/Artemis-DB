@@ -1,12 +1,14 @@
 {
     "pageid": "3466",
     "title": "Iridium",
-    "spectrum": [
-        "IridiumTDMA.png"
-    ],
-    "audio": [
-        "Iridium.mp3"
-    ],
+    "spectrum": {
+        "filename": "IridiumTDMA.png",
+        "url": null
+    },
+    "audio": {
+        "filename": "Iridium.mp3",
+        "url": null
+    },
     "category": [
         "Satellite",
         "Commercial",

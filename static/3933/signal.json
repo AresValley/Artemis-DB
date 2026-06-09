@@ -1,12 +1,14 @@
 {
     "pageid": "3933",
     "title": "GM2100 (R&S)",
-    "spectrum": [
-        "GM2100 R26S.png"
-    ],
-    "audio": [
-        "GM2100.mp3"
-    ],
+    "spectrum": {
+        "filename": "GM2100 R26S.png",
+        "url": null
+    },
+    "audio": {
+        "filename": "GM2100.mp3",
+        "url": null
+    },
     "category": [
         "Digital",
         "Military"

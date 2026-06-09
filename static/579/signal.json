@@ -1,12 +1,14 @@
 {
     "pageid": "579",
     "title": "WinDRM",
-    "spectrum": [
-        "Waterfall-20221028003713.jpg"
-    ],
-    "audio": [
-        "Digitalsstv.mp3"
-    ],
+    "spectrum": {
+        "filename": "Waterfall-20221028003713.jpg",
+        "url": null
+    },
+    "audio": {
+        "filename": "Digitalsstv.mp3",
+        "url": null
+    },
     "category": [
         "Amateur Radio",
         "Digital"

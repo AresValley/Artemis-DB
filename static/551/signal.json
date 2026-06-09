@@ -1,12 +1,14 @@
 {
     "pageid": "551",
     "title": "4G LTE Network",
-    "spectrum": [
-        "LTE_Thumb.jpg"
-    ],
-    "audio": [
-        "LTE_OR_10_downlink.mp3"
-    ],
+    "spectrum": {
+        "filename": "LTE_Thumb.jpg",
+        "url": null
+    },
+    "audio": {
+        "filename": "LTE_OR_10_downlink.mp3",
+        "url": null
+    },
     "category": [
         "Digital",
         "Commercial"

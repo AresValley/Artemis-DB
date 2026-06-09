@@ -1,12 +1,14 @@
 {
     "pageid": "7090",
     "title": "AIST 2D",
-    "spectrum": [
-        "AIST2D.png"
-    ],
-    "audio": [
-        "AIST-2D.mp3"
-    ],
+    "spectrum": {
+        "filename": "AIST2D.png",
+        "url": null
+    },
+    "audio": {
+        "filename": "AIST-2D.mp3",
+        "url": null
+    },
     "category": [
         "Satellite",
         "Digital"

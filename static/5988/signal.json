@@ -1,12 +1,14 @@
 {
     "pageid": "5988",
     "title": "Transit 5B-5",
-    "spectrum": [
-        "Transit 5B-5Waterfall.png"
-    ],
-    "audio": [
-        "TRANSIT_5B-5.mp3"
-    ],
+    "spectrum": {
+        "filename": "Transit 5B-5Waterfall.png",
+        "url": null
+    },
+    "audio": {
+        "filename": "TRANSIT_5B-5.mp3",
+        "url": null
+    },
     "category": [],
     "frequency": [
         {

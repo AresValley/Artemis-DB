@@ -1,12 +1,14 @@
 {
     "pageid": "6283",
     "title": "John Deere RTK Radio 450",
-    "spectrum": [
-        "GPS RTK.PNG"
-    ],
-    "audio": [
-        "RTK 1.mp3"
-    ],
+    "spectrum": {
+        "filename": "GPS RTK.PNG",
+        "url": null
+    },
+    "audio": {
+        "filename": "RTK 1.mp3",
+        "url": null
+    },
     "category": [
         "Navigation",
         "Digital",

@@ -1,12 +1,14 @@
 {
     "pageid": "2102",
     "title": "EIA",
-    "spectrum": [
-        "EIA 5-tone.jpg"
-    ],
-    "audio": [
-        "eia 5-tone.mp3"
-    ],
+    "spectrum": {
+        "filename": "EIA 5-tone.jpg",
+        "url": null
+    },
+    "audio": {
+        "filename": "eia 5-tone.mp3",
+        "url": null
+    },
     "category": [
         "Digital"
     ],

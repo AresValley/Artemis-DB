@@ -1,12 +1,14 @@
 {
     "pageid": "867",
     "title": "FSK441",
-    "spectrum": [
-        "FSK441.jpg"
-    ],
-    "audio": [
-        "FSK441Burst.mp3"
-    ],
+    "spectrum": {
+        "filename": "FSK441.jpg",
+        "url": null
+    },
+    "audio": {
+        "filename": "FSK441Burst.mp3",
+        "url": null
+    },
     "category": [
         "Amateur Radio",
         "Digital"

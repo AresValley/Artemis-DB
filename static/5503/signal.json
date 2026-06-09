@@ -1,12 +1,14 @@
 {
     "pageid": "5503",
     "title": "Motorola ASTRO 25 HPD Air Interface",
-    "spectrum": [
-        "Motorola-ASTRO25-HPD-HAI.png"
-    ],
-    "audio": [
-        "Motorola-ASTRO25-HPD-HAI-in-NFM.ogg"
-    ],
+    "spectrum": {
+        "filename": "Motorola-ASTRO25-HPD-HAI.png",
+        "url": null
+    },
+    "audio": {
+        "filename": "Motorola-ASTRO25-HPD-HAI-in-NFM.ogg",
+        "url": null
+    },
     "category": [
         "Digital",
         "Trunked Radio"

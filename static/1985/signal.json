@@ -1,12 +1,14 @@
 {
     "pageid": "1985",
     "title": "Primex Wireless Time Sync",
-    "spectrum": [
-        "A112.jpg"
-    ],
-    "audio": [
-        "Signal2.mp3"
-    ],
+    "spectrum": {
+        "filename": "A112.jpg",
+        "url": null
+    },
+    "audio": {
+        "filename": "Signal2.mp3",
+        "url": null
+    },
     "category": [
         "Time",
         "Commercial"

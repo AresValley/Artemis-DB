@@ -1,10 +1,14 @@
 {
     "pageid": "6783",
     "title": "BlueWalker-3 Wideband Telemetry",
-    "spectrum": [
-        "BW3WB.png"
-    ],
-    "audio": [],
+    "spectrum": {
+        "filename": "BW3WB.png",
+        "url": null
+    },
+    "audio": {
+        "filename": null,
+        "url": null
+    },
     "category": [
         "Satellite",
         "Digital"

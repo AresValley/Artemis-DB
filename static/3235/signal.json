@@ -1,12 +1,14 @@
 {
     "pageid": "3235",
     "title": "PSK2K",
-    "spectrum": [
-        "PSK2K.jpg"
-    ],
-    "audio": [
-        "PSK2K.mp3"
-    ],
+    "spectrum": {
+        "filename": "PSK2K.jpg",
+        "url": null
+    },
+    "audio": {
+        "filename": "PSK2K.mp3",
+        "url": null
+    },
     "category": [
         "Digital",
         "Amateur Radio"

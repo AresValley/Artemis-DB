@@ -1,12 +1,14 @@
 {
     "pageid": "5679",
     "title": "Motorola MOSCAD SCADA telemetry",
-    "spectrum": [
-        "Moto MOSCAD.PNG"
-    ],
-    "audio": [
-        "MOSCAD.wav"
-    ],
+    "spectrum": {
+        "filename": "Moto MOSCAD.PNG",
+        "url": null
+    },
+    "audio": {
+        "filename": "MOSCAD.wav",
+        "url": null
+    },
     "category": [],
     "frequency": [
         {

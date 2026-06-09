@@ -1,12 +1,14 @@
 {
     "pageid": "673",
     "title": "Siemens CHX-200 FSK Modem",
-    "spectrum": [
-        "CHX200.jpg"
-    ],
-    "audio": [
-        "Chx200.mp3"
-    ],
+    "spectrum": {
+        "filename": "CHX200.jpg",
+        "url": null
+    },
+    "audio": {
+        "filename": "Chx200.mp3",
+        "url": null
+    },
     "category": [
         "Military",
         "Digital"

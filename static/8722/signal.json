@@ -1,12 +1,14 @@
 {
     "pageid": "8722",
     "title": "Microwave motion sensor (doppler radar module)",
-    "spectrum": [
-        "MWlamp.jpg"
-    ],
-    "audio": [
-        "MWlamp.mp3"
-    ],
+    "spectrum": {
+        "filename": "MWlamp.jpg",
+        "url": null
+    },
+    "audio": {
+        "filename": "MWlamp.mp3",
+        "url": null
+    },
     "category": [
         "Utility"
     ],

@@ -1,12 +1,14 @@
 {
     "pageid": "7611",
     "title": "Beta",
-    "spectrum": [
-        "Beta time code 3.png"
-    ],
-    "audio": [
-        "Beta time code.ogg"
-    ],
+    "spectrum": {
+        "filename": "Beta time code 3.png",
+        "url": null
+    },
+    "audio": {
+        "filename": "Beta time code.ogg",
+        "url": null
+    },
     "category": [
         "Time"
     ],

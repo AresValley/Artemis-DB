@@ -1,12 +1,14 @@
 {
     "pageid": "5274",
     "title": "SuperDARN (Super Dual Auroral Radar Network)",
-    "spectrum": [
-        "SuperDARN new showcase by Userbotnet.png"
-    ],
-    "audio": [
-        "SuperDARN.mp3"
-    ],
+    "spectrum": {
+        "filename": "SuperDARN new showcase by Userbotnet.png",
+        "url": null
+    },
+    "audio": {
+        "filename": "SuperDARN.mp3",
+        "url": null
+    },
     "category": [
         "Radar"
     ],

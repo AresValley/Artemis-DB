@@ -1,12 +1,14 @@
 {
     "pageid": "832",
     "title": "DominoEX",
-    "spectrum": [
-        "DominoEX.png"
-    ],
-    "audio": [
-        "DominoEX_11Bd.mp3"
-    ],
+    "spectrum": {
+        "filename": "DominoEX.png",
+        "url": null
+    },
+    "audio": {
+        "filename": "DominoEX_11Bd.mp3",
+        "url": null
+    },
     "category": [
         "Amateur Radio",
         "Digital"

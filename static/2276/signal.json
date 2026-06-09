@@ -1,12 +1,14 @@
 {
     "pageid": "2276",
     "title": "ICAO Selcal",
-    "spectrum": [
-        "ICAO Selcall sample.jpg"
-    ],
-    "audio": [
-        "hf aircraft.mp3"
-    ],
+    "spectrum": {
+        "filename": "ICAO Selcall sample.jpg",
+        "url": null
+    },
+    "audio": {
+        "filename": "hf aircraft.mp3",
+        "url": null
+    },
     "category": [
         "Aviation",
         "Analogue"

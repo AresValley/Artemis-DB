@@ -1,12 +1,14 @@
 {
     "pageid": "1226",
     "title": "CIS-300",
-    "spectrum": [
-        "CIS-300.jpg"
-    ],
-    "audio": [
-        "CIS-300.mp3"
-    ],
+    "spectrum": {
+        "filename": "CIS-300.jpg",
+        "url": null
+    },
+    "audio": {
+        "filename": "CIS-300.mp3",
+        "url": null
+    },
     "category": [
         "Military",
         "Digital"

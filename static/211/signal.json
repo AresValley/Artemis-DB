@@ -1,12 +1,14 @@
 {
     "pageid": "211",
     "title": "Next Generation Digital Narrowband (NXDN)",
-    "spectrum": [
-        "NXDN_6.25.jpg"
-    ],
-    "audio": [
-        "NXDN_Trunking_Channel.mp3"
-    ],
+    "spectrum": {
+        "filename": "NXDN_6.25.jpg",
+        "url": null
+    },
+    "audio": {
+        "filename": "NXDN_Trunking_Channel.mp3",
+        "url": null
+    },
     "category": [
         "Trunked Radio",
         "Digital"

@@ -1,10 +1,14 @@
 {
     "pageid": "6610",
     "title": "GOES High Rate Information Transmission (HRIT)",
-    "spectrum": [
-        "HRITnew.png"
-    ],
-    "audio": [],
+    "spectrum": {
+        "filename": "HRITnew.png",
+        "url": null
+    },
+    "audio": {
+        "filename": null,
+        "url": null
+    },
     "category": [
         "Digital",
         "Satellite"

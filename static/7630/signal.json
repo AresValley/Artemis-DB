@@ -1,12 +1,14 @@
 {
     "pageid": "7630",
     "title": "Canadian Meteor Orbit Radar (CMOR)",
-    "spectrum": [
-        "CMOR 1.png"
-    ],
-    "audio": [
-        "CMOR 1 AM.ogg"
-    ],
+    "spectrum": {
+        "filename": "CMOR 1.png",
+        "url": null
+    },
+    "audio": {
+        "filename": "CMOR 1 AM.ogg",
+        "url": null
+    },
     "category": [
         "Radar"
     ],

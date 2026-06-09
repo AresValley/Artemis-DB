@@ -1,12 +1,14 @@
 {
     "pageid": "567",
     "title": "Morse Code (CW)",
-    "spectrum": [
-        "CW.jpg"
-    ],
-    "audio": [
-        "Cw_morse.mp3"
-    ],
+    "spectrum": {
+        "filename": "CW.jpg",
+        "url": null
+    },
+    "audio": {
+        "filename": "Cw_morse.mp3",
+        "url": null
+    },
     "category": [
         "Amateur Radio",
         "Military"

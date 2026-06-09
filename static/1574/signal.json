@@ -1,12 +1,14 @@
 {
     "pageid": "1574",
     "title": "CIS-20",
-    "spectrum": [
-        "CIS-20.jpg"
-    ],
-    "audio": [
-        "CIS20.mp3"
-    ],
+    "spectrum": {
+        "filename": "CIS-20.jpg",
+        "url": null
+    },
+    "audio": {
+        "filename": "CIS20.mp3",
+        "url": null
+    },
     "category": [
         "Military",
         "Digital"

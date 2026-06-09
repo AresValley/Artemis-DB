@@ -1,10 +1,14 @@
 {
     "pageid": "6771",
     "title": "CORIOLIS Tactical Direct Broadcast",
-    "spectrum": [
-        "CORIOLIS DB.png"
-    ],
-    "audio": [],
+    "spectrum": {
+        "filename": "CORIOLIS DB.png",
+        "url": null
+    },
+    "audio": {
+        "filename": null,
+        "url": null
+    },
     "category": [
         "Satellite",
         "Military",

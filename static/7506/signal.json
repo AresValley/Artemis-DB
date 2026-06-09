@@ -1,12 +1,14 @@
 {
     "pageid": "7506",
     "title": "SIMONe meteor radar",
-    "spectrum": [
-        "Low VHF possible meteor radar 32p55 4.png"
-    ],
-    "audio": [
-        "Low VHF possible meteor radar 32p55 AM wide.ogg"
-    ],
+    "spectrum": {
+        "filename": "Low VHF possible meteor radar 32p55 4.png",
+        "url": null
+    },
+    "audio": {
+        "filename": "Low VHF possible meteor radar 32p55 AM wide.ogg",
+        "url": null
+    },
     "category": [
         "Radar"
     ],

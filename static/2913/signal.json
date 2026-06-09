@@ -1,12 +1,14 @@
 {
     "pageid": "2913",
     "title": "CIS-48",
-    "spectrum": [
-        "CIS-48.jpg"
-    ],
-    "audio": [
-        "CIS-48.mp3"
-    ],
+    "spectrum": {
+        "filename": "CIS-48.jpg",
+        "url": null
+    },
+    "audio": {
+        "filename": "CIS-48.mp3",
+        "url": null
+    },
     "category": [
         "Digital",
         "Military",

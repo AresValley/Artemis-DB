@@ -1,12 +1,14 @@
 {
     "pageid": "5317",
     "title": "802.11n",
-    "spectrum": [
-        "Wi-Fi_20MHz.jpg"
-    ],
-    "audio": [
-        "802.11n.mp3"
-    ],
+    "spectrum": {
+        "filename": "Wi-Fi_20MHz.jpg",
+        "url": null
+    },
+    "audio": {
+        "filename": "802.11n.mp3",
+        "url": null
+    },
     "category": [
         "Digital"
     ],

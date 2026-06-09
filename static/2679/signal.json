@@ -1,12 +1,14 @@
 {
     "pageid": "2679",
     "title": "High Frequency Active Auroral Research Program (HAARP)",
-    "spectrum": [
-        "Haarp.jpg"
-    ],
-    "audio": [
-        "HAARP-1.mp3"
-    ],
+    "spectrum": {
+        "filename": "Haarp.jpg",
+        "url": null
+    },
+    "audio": {
+        "filename": "HAARP-1.mp3",
+        "url": null
+    },
     "category": [
         "Radar"
     ],

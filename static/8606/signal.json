@@ -1,12 +1,14 @@
 {
     "pageid": "8606",
     "title": "Iranian 'Bubble' Jammer",
-    "spectrum": [
-        "Possibly Iranian jammer 1.png"
-    ],
-    "audio": [
-        "Possibly Iranian jammer 1.mp3"
-    ],
+    "spectrum": {
+        "filename": "Possibly Iranian jammer 1.png",
+        "url": null
+    },
+    "audio": {
+        "filename": "Possibly Iranian jammer 1.mp3",
+        "url": null
+    },
     "category": [],
     "frequency": [
         {

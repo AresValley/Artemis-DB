@@ -1,12 +1,14 @@
 {
     "pageid": "3410",
     "title": "Q-MAC HF Modem",
-    "spectrum": [
-        "QMAC.jpg"
-    ],
-    "audio": [
-        "QMAC.mp3"
-    ],
+    "spectrum": {
+        "filename": "QMAC.jpg",
+        "url": null
+    },
+    "audio": {
+        "filename": "QMAC.mp3",
+        "url": null
+    },
     "category": [
         "Digital",
         "Military"

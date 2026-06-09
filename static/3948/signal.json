@@ -1,12 +1,14 @@
 {
     "pageid": "3948",
     "title": "Amplitude Modulation Signalling System (AMSS)",
-    "spectrum": [
-        "AMSS.jpg"
-    ],
-    "audio": [
-        "Amss.ogg"
-    ],
+    "spectrum": {
+        "filename": "AMSS.jpg",
+        "url": null
+    },
+    "audio": {
+        "filename": "Amss.ogg",
+        "url": null
+    },
     "category": [
         "Commercial",
         "Analogue",

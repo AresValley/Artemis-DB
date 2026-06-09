@@ -1,10 +1,14 @@
 {
     "pageid": "6764",
     "title": "S-Band Jammer",
-    "spectrum": [
-        "RADAR JAMMER HDSDR.jpg"
-    ],
-    "audio": [],
+    "spectrum": {
+        "filename": "RADAR JAMMER HDSDR.jpg",
+        "url": null
+    },
+    "audio": {
+        "filename": null,
+        "url": null
+    },
     "category": [
         "Military",
         "Commercial",

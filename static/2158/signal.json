@@ -1,12 +1,14 @@
 {
     "pageid": "2158",
     "title": "NTSC Broadcast",
-    "spectrum": [
-        "NTSCthumb.jpg"
-    ],
-    "audio": [
-        "16-38-41 Unknown 229,250 MHz.wav"
-    ],
+    "spectrum": {
+        "filename": "NTSCthumb.jpg",
+        "url": null
+    },
+    "audio": {
+        "filename": "16-38-41 Unknown 229,250 MHz.wav",
+        "url": null
+    },
     "category": [
         "Analogue",
         "Commercial"

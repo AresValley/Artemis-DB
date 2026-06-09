@@ -1,12 +1,14 @@
 {
     "pageid": "6052",
     "title": "LEOSAR Downlink",
-    "spectrum": [
-        "LEOTIT.png"
-    ],
-    "audio": [
-        "LEOSARTIT.mp3"
-    ],
+    "spectrum": {
+        "filename": "LEOTIT.png",
+        "url": null
+    },
+    "audio": {
+        "filename": "LEOSARTIT.mp3",
+        "url": null
+    },
     "category": [
         "Satellite",
         "Digital"

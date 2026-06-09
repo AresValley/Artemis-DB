@@ -1,12 +1,14 @@
 {
     "pageid": "73",
     "title": "Terrestrial Trunked Radio (TETRA)",
-    "spectrum": [
-        "TETRA.jpg"
-    ],
-    "audio": [
-        "TETRA.mp3"
-    ],
+    "spectrum": {
+        "filename": "TETRA.jpg",
+        "url": null
+    },
+    "audio": {
+        "filename": "TETRA.mp3",
+        "url": null
+    },
     "category": [
         "Trunked Radio",
         "Digital"

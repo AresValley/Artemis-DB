@@ -1,12 +1,14 @@
 {
     "pageid": "690",
     "title": "Piccolo",
-    "spectrum": [
-        "Piccolo Mk12.png"
-    ],
-    "audio": [
-        "PICCOLO_MK_VI_12.mp3"
-    ],
+    "spectrum": {
+        "filename": "Piccolo Mk12.png",
+        "url": null
+    },
+    "audio": {
+        "filename": "PICCOLO_MK_VI_12.mp3",
+        "url": null
+    },
     "category": [
         "Military",
         "Digital"

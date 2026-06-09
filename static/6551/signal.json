@@ -1,12 +1,14 @@
 {
     "pageid": "6551",
     "title": "Cuban Jammer",
-    "spectrum": [
-        "Cuban Jammer spectrum.png"
-    ],
-    "audio": [
-        "6030 khz.wav"
-    ],
+    "spectrum": {
+        "filename": "Cuban Jammer spectrum.png",
+        "url": null
+    },
+    "audio": {
+        "filename": "6030 khz.wav",
+        "url": null
+    },
     "category": [],
     "frequency": [
         {

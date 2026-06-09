@@ -1,12 +1,14 @@
 {
     "pageid": "3926",
     "title": "2G CDMA (IS-95)",
-    "spectrum": [
-        "2gcdma.png"
-    ],
-    "audio": [
-        "MC4f-CDMA-IS-95B.wav"
-    ],
+    "spectrum": {
+        "filename": "2gcdma.png",
+        "url": null
+    },
+    "audio": {
+        "filename": "MC4f-CDMA-IS-95B.wav",
+        "url": null
+    },
     "category": [
         "Digital",
         "Commercial"

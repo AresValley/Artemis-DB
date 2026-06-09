@@ -1,12 +1,14 @@
 {
     "pageid": "6993",
     "title": "Futuba RC Controller",
-    "spectrum": [
-        "Futuba t2pc rc controller waterfall.png"
-    ],
-    "audio": [
-        "SDRSharp 20231109 183417Z 75790708Hz AF.mp3"
-    ],
+    "spectrum": {
+        "filename": "Futuba t2pc rc controller waterfall.png",
+        "url": null
+    },
+    "audio": {
+        "filename": "SDRSharp 20231109 183417Z 75790708Hz AF.mp3",
+        "url": null
+    },
     "category": [
         "Utility",
         "Digital"

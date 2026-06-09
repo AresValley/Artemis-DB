@@ -1,12 +1,14 @@
 {
     "pageid": "194",
     "title": "End of Train Device (EOTD)",
-    "spectrum": [
-        "EOTthmb.jpg"
-    ],
-    "audio": [
-        "EOT_Sound.mp3"
-    ],
+    "spectrum": {
+        "filename": "EOTthmb.jpg",
+        "url": null
+    },
+    "audio": {
+        "filename": "EOT_Sound.mp3",
+        "url": null
+    },
     "category": [
         "Digital",
         "Utility"

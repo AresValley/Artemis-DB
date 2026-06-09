@@ -1,12 +1,14 @@
 {
     "pageid": "8568",
     "title": "Digital Video Broadcasting — Satellite (DVB-S)",
-    "spectrum": [
-        "DVB-S.jpg"
-    ],
-    "audio": [
-        "V_SAT-TV_Thor_DVB-S2.mp3"
-    ],
+    "spectrum": {
+        "filename": "DVB-S.jpg",
+        "url": null
+    },
+    "audio": {
+        "filename": "V_SAT-TV_Thor_DVB-S2.mp3",
+        "url": null
+    },
     "category": [
         "Digital",
         "Commercial"

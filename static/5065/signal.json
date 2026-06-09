@@ -1,12 +1,14 @@
 {
     "pageid": "5065",
     "title": "OrbComm Mobile Telephony",
-    "spectrum": [
-        "Watervall.png"
-    ],
-    "audio": [
-        "Sound.mp3"
-    ],
+    "spectrum": {
+        "filename": "Watervall.png",
+        "url": null
+    },
+    "audio": {
+        "filename": "Sound.mp3",
+        "url": null
+    },
     "category": [
         "Satellite",
         "Digital",

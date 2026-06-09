@@ -1,12 +1,14 @@
 {
     "pageid": "754",
     "title": "RBU",
-    "spectrum": [
-        "RBU_.jpg"
-    ],
-    "audio": [
-        "RBU_with_carrier_audio.mp3"
-    ],
+    "spectrum": {
+        "filename": "RBU_.jpg",
+        "url": null
+    },
+    "audio": {
+        "filename": "RBU_with_carrier_audio.mp3",
+        "url": null
+    },
     "category": [
         "Time"
     ],

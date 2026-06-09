@@ -1,12 +1,14 @@
 {
     "pageid": "3357",
     "title": "TT2300",
-    "spectrum": [
-        "TT2300 100 Bd.jpg"
-    ],
-    "audio": [
-        "TT2300-100.mp3"
-    ],
+    "spectrum": {
+        "filename": "TT2300 100 Bd.jpg",
+        "url": null
+    },
+    "audio": {
+        "filename": "TT2300-100.mp3",
+        "url": null
+    },
     "category": [
         "Digital"
     ],

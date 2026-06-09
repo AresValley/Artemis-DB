@@ -1,12 +1,14 @@
 {
     "pageid": "5430",
     "title": "MFJ-269C Antenna SWR Analyzer",
-    "spectrum": [
-        "Gqrx_wf_20190607_204049.png"
-    ],
-    "audio": [
-        "MFJ.mp3"
-    ],
+    "spectrum": {
+        "filename": "Gqrx_wf_20190607_204049.png",
+        "url": null
+    },
+    "audio": {
+        "filename": "MFJ.mp3",
+        "url": null
+    },
     "category": [
         "Analogue"
     ],

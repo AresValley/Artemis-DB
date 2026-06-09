@@ -1,12 +1,14 @@
 {
     "pageid": "6855",
     "title": "Chilean Naval Time Signal",
-    "spectrum": [
-        "ChileanTimeSignal.png"
-    ],
-    "audio": [
-        "ChileTimeSignal.wav"
-    ],
+    "spectrum": {
+        "filename": "ChileanTimeSignal.png",
+        "url": null
+    },
+    "audio": {
+        "filename": "ChileTimeSignal.wav",
+        "url": null
+    },
     "category": [
         "Time"
     ],

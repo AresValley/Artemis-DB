@@ -1,12 +1,14 @@
 {
     "pageid": "6681",
     "title": "2006 Kia Grand Carnival Keyfob",
-    "spectrum": [
-        "Kia Grand Carnival Keyfob.PNG"
-    ],
-    "audio": [
-        "Kia Grand Carival Keyfob.wav"
-    ],
+    "spectrum": {
+        "filename": "Kia Grand Carnival Keyfob.PNG",
+        "url": null
+    },
+    "audio": {
+        "filename": "Kia Grand Carival Keyfob.wav",
+        "url": null
+    },
     "category": [
         "Utility"
     ],

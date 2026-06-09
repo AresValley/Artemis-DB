@@ -1,8 +1,14 @@
 {
     "pageid": "8436",
     "title": "4G LTE 450MHz",
-    "spectrum": [],
-    "audio": [],
+    "spectrum": {
+        "filename": null,
+        "url": null
+    },
+    "audio": {
+        "filename": null,
+        "url": null
+    },
     "category": [],
     "frequency": [],
     "bandwidth": [],

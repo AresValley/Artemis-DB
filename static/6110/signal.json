@@ -1,12 +1,14 @@
 {
     "pageid": "6110",
     "title": "1G Advanced Mobile Phone System (AMPS)",
-    "spectrum": [
-        "AmpsCC.png"
-    ],
-    "audio": [
-        "Amps cell broadcast decreasedVOL.wav"
-    ],
+    "spectrum": {
+        "filename": "AmpsCC.png",
+        "url": null
+    },
+    "audio": {
+        "filename": "Amps cell broadcast decreasedVOL.wav",
+        "url": null
+    },
     "category": [
         "Commercial",
         "Analogue",

@@ -1,12 +1,14 @@
 {
     "pageid": "1210",
     "title": "CIS 3x100 VFT",
-    "spectrum": [
-        "CIS3x100bd.jpg"
-    ],
-    "audio": [
-        "CIS_3x100bd.mp3"
-    ],
+    "spectrum": {
+        "filename": "CIS3x100bd.jpg",
+        "url": null
+    },
+    "audio": {
+        "filename": "CIS_3x100bd.mp3",
+        "url": null
+    },
     "category": [
         "Military",
         "Digital"

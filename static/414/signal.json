@@ -1,12 +1,14 @@
 {
     "pageid": "414",
     "title": "Serdolik",
-    "spectrum": [
-        "Crowd_36thmb.jpg"
-    ],
-    "audio": [
-        "unknown1.mp3"
-    ],
+    "spectrum": {
+        "filename": "Crowd_36thmb.jpg",
+        "url": null
+    },
+    "audio": {
+        "filename": "unknown1.mp3",
+        "url": null
+    },
     "category": [
         "Digital"
     ],

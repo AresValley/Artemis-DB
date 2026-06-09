@@ -1,12 +1,14 @@
 {
     "pageid": "3106",
     "title": "UK GOV MIL WINDRM51",
-    "spectrum": [
-        "UK_WINDRM51.jpg"
-    ],
-    "audio": [
-        "UKGOV_2016-08-10T01-05-33Z_9104.5kHz.mp3"
-    ],
+    "spectrum": {
+        "filename": "UK_WINDRM51.jpg",
+        "url": null
+    },
+    "audio": {
+        "filename": "UKGOV_2016-08-10T01-05-33Z_9104.5kHz.mp3",
+        "url": null
+    },
     "category": [
         "Military",
         "Digital"

@@ -1,12 +1,14 @@
 {
     "pageid": "8300",
     "title": "802.11ax",
-    "spectrum": [
-        "802-11ax-waterfall.png"
-    ],
-    "audio": [
-        "802.11ax.wav"
-    ],
+    "spectrum": {
+        "filename": "802-11ax-waterfall.png",
+        "url": null
+    },
+    "audio": {
+        "filename": "802.11ax.wav",
+        "url": null
+    },
     "category": [
         "Digital"
     ],

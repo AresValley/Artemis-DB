@@ -1,12 +1,14 @@
 {
     "pageid": "204",
     "title": "MOBITEX",
-    "spectrum": [
-        "MOBITEX_8000.jpg"
-    ],
-    "audio": [
-        "mobitex.mp3"
-    ],
+    "spectrum": {
+        "filename": "MOBITEX_8000.jpg",
+        "url": null
+    },
+    "audio": {
+        "filename": "mobitex.mp3",
+        "url": null
+    },
     "category": [
         "Digital",
         "Commercial"

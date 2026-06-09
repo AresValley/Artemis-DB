@@ -1,12 +1,14 @@
 {
     "pageid": "195",
     "title": "Distributed Power Unit (DPU)",
-    "spectrum": [
-        "DPU.jpg"
-    ],
-    "audio": [
-        "Distributed Power Unit (DPU).mp3"
-    ],
+    "spectrum": {
+        "filename": "DPU.jpg",
+        "url": null
+    },
+    "audio": {
+        "filename": "Distributed Power Unit (DPU).mp3",
+        "url": null
+    },
     "category": [
         "Utility"
     ],

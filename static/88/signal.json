@@ -1,12 +1,14 @@
 {
     "pageid": "88",
     "title": "Automatic Packet Reporting System (APRS)",
-    "spectrum": [
-        "APRS.jpg"
-    ],
-    "audio": [
-        "AFSK1200_Sound.mp3"
-    ],
+    "spectrum": {
+        "filename": "APRS.jpg",
+        "url": null
+    },
+    "audio": {
+        "filename": "AFSK1200_Sound.mp3",
+        "url": null
+    },
     "category": [
         "Amateur Radio",
         "Digital"

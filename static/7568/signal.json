@@ -1,12 +1,14 @@
 {
     "pageid": "7568",
     "title": "North Korean noise jammer",
-    "spectrum": [
-        "NK jammer.png"
-    ],
-    "audio": [
-        "NK_jammer_AM.wav"
-    ],
+    "spectrum": {
+        "filename": "NK jammer.png",
+        "url": null
+    },
+    "audio": {
+        "filename": "NK_jammer_AM.wav",
+        "url": null
+    },
     "category": [],
     "frequency": [
         {

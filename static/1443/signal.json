@@ -1,12 +1,14 @@
 {
     "pageid": "1443",
     "title": "THROB",
-    "spectrum": [
-        "THROB1prev.png"
-    ],
-    "audio": [
-        "THROB_prev.mp3"
-    ],
+    "spectrum": {
+        "filename": "THROB1prev.png",
+        "url": null
+    },
+    "audio": {
+        "filename": "THROB_prev.mp3",
+        "url": null
+    },
     "category": [
         "Amateur Radio",
         "Digital"

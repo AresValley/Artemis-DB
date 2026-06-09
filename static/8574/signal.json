@@ -1,12 +1,14 @@
 {
     "pageid": "8574",
     "title": "Digital Video Broadcasting — Cable (DVB-C)",
-    "spectrum": [
-        "DVB-C.jpg"
-    ],
-    "audio": [
-        "DVB-C.mp3"
-    ],
+    "spectrum": {
+        "filename": "DVB-C.jpg",
+        "url": null
+    },
+    "audio": {
+        "filename": "DVB-C.mp3",
+        "url": null
+    },
     "category": [
         "Digital",
         "Commercial"

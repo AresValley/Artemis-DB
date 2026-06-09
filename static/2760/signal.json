@@ -1,12 +1,14 @@
 {
     "pageid": "2760",
     "title": "MMP-4800",
-    "spectrum": [
-        "Mpp4800.png"
-    ],
-    "audio": [
-        "mmp4800.mp3"
-    ],
+    "spectrum": {
+        "filename": "Mpp4800.png",
+        "url": null
+    },
+    "audio": {
+        "filename": "mmp4800.mp3",
+        "url": null
+    },
     "category": [
         "Digital",
         "Commercial"

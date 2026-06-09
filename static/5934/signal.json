@@ -1,12 +1,14 @@
 {
     "pageid": "5934",
     "title": "MSK144",
-    "spectrum": [
-        "MSK144 2.png"
-    ],
-    "audio": [
-        "Msk144 audio.mp3"
-    ],
+    "spectrum": {
+        "filename": "MSK144 2.png",
+        "url": null
+    },
+    "audio": {
+        "filename": "Msk144 audio.mp3",
+        "url": null
+    },
     "category": [],
     "frequency": [
         {

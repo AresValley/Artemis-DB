@@ -1,12 +1,14 @@
 {
     "pageid": "5242",
     "title": "HP Laptop",
-    "spectrum": [
-        "Annotation 2019-04-01 161921.png"
-    ],
-    "audio": [
-        "SDR.wav"
-    ],
+    "spectrum": {
+        "filename": "Annotation 2019-04-01 161921.png",
+        "url": null
+    },
+    "audio": {
+        "filename": "SDR.wav",
+        "url": null
+    },
     "category": [
         "Interfering"
     ],

@@ -1,12 +1,14 @@
 {
     "pageid": "2623",
     "title": "High Speed USB Noise",
-    "spectrum": [
-        "USB noise.png"
-    ],
-    "audio": [
-        "USB_Noise.mp3"
-    ],
+    "spectrum": {
+        "filename": "USB noise.png",
+        "url": null
+    },
+    "audio": {
+        "filename": "USB_Noise.mp3",
+        "url": null
+    },
     "category": [
         "Interfering"
     ],

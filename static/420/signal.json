@@ -1,12 +1,14 @@
 {
     "pageid": "420",
     "title": "ECG Telemetry",
-    "spectrum": [
-        "beeper.png"
-    ],
-    "audio": [
-        "beeper.mp3"
-    ],
+    "spectrum": {
+        "filename": "beeper.png",
+        "url": null
+    },
+    "audio": {
+        "filename": "beeper.mp3",
+        "url": null
+    },
     "category": [
         "Utility"
     ],

@@ -1,12 +1,14 @@
 {
     "pageid": "8349",
     "title": "MPDA",
-    "spectrum": [
-        "Mainmpda.png"
-    ],
-    "audio": [
-        "MPDA-4x10.mp3"
-    ],
+    "spectrum": {
+        "filename": "Mainmpda.png",
+        "url": null
+    },
+    "audio": {
+        "filename": "MPDA-4x10.mp3",
+        "url": null
+    },
     "category": [
         "Digital",
         "Amateur Radio"

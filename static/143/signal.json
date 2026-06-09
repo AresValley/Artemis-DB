@@ -1,12 +1,14 @@
 {
     "pageid": "143",
     "title": "AFSK Paging Link",
-    "spectrum": [
-        "AFSK POCSAG pic 1.PNG"
-    ],
-    "audio": [
-        "AFSK POCSAG audio recording.wav"
-    ],
+    "spectrum": {
+        "filename": "AFSK POCSAG pic 1.PNG",
+        "url": null
+    },
+    "audio": {
+        "filename": "AFSK POCSAG audio recording.wav",
+        "url": null
+    },
     "category": [
         "Digital"
     ],

@@ -1,12 +1,14 @@
 {
     "pageid": "8671",
     "title": "CIS OFDM-121",
-    "spectrum": [
-        "CIS OFDM-121 waterfall.png"
-    ],
-    "audio": [
-        "USB CIS OFDM-121.mp3"
-    ],
+    "spectrum": {
+        "filename": "CIS OFDM-121 waterfall.png",
+        "url": null
+    },
+    "audio": {
+        "filename": "USB CIS OFDM-121.mp3",
+        "url": null
+    },
     "category": [
         "Digital"
     ],

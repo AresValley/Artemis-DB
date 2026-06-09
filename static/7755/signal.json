@@ -1,12 +1,14 @@
 {
     "pageid": "7755",
     "title": "Google Pixel Interference",
-    "spectrum": [
-        "27MHz pulsing signal.png"
-    ],
-    "audio": [
-        "Pulsing singal 20241224 122323 27120khz.mp3"
-    ],
+    "spectrum": {
+        "filename": "27MHz pulsing signal.png",
+        "url": null
+    },
+    "audio": {
+        "filename": "Pulsing singal 20241224 122323 27120khz.mp3",
+        "url": null
+    },
     "category": [],
     "frequency": [
         {

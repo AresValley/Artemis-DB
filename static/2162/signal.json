@@ -1,8 +1,14 @@
 {
     "pageid": "2162",
     "title": "Integrated Services Digital Broadcasting—Terrestrial (ISDB-T)",
-    "spectrum": [],
-    "audio": [],
+    "spectrum": {
+        "filename": null,
+        "url": null
+    },
+    "audio": {
+        "filename": null,
+        "url": null
+    },
     "category": [
         "Commercial"
     ],

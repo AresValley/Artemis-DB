@@ -1,12 +1,14 @@
 {
     "pageid": "1978",
     "title": "ARQ-N",
-    "spectrum": [
-        "ARQ-N.jpg"
-    ],
-    "audio": [
-        "arq-n.mp3"
-    ],
+    "spectrum": {
+        "filename": "ARQ-N.jpg",
+        "url": null
+    },
+    "audio": {
+        "filename": "arq-n.mp3",
+        "url": null
+    },
     "category": [
         "Military",
         "Digital"

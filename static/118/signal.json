@@ -1,12 +1,14 @@
 {
     "pageid": "118",
     "title": "STANAG 4285",
-    "spectrum": [
-        "STANAG_4285.jpg"
-    ],
-    "audio": [
-        "STANAG4285_TFC.mp3"
-    ],
+    "spectrum": {
+        "filename": "STANAG_4285.jpg",
+        "url": null
+    },
+    "audio": {
+        "filename": "STANAG4285_TFC.mp3",
+        "url": null
+    },
     "category": [
         "Military",
         "Digital"

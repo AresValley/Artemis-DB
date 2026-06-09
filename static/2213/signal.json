@@ -1,12 +1,14 @@
 {
     "pageid": "2213",
     "title": "CCIR 493-4 Selcall",
-    "spectrum": [
-        "Ccir_493.jpg"
-    ],
-    "audio": [
-        "CCIR_493-4_.mp3"
-    ],
+    "spectrum": {
+        "filename": "Ccir_493.jpg",
+        "url": null
+    },
+    "audio": {
+        "filename": "CCIR_493-4_.mp3",
+        "url": null
+    },
     "category": [
         "Digital",
         "Commercial",

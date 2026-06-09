@@ -1,12 +1,14 @@
 {
     "pageid": "3479",
     "title": "Marconi Selenia 25-Tone Modem",
-    "spectrum": [
-        "Marconi25.jpg"
-    ],
-    "audio": [
-        "Marconi25.mp3"
-    ],
+    "spectrum": {
+        "filename": "Marconi25.jpg",
+        "url": null
+    },
+    "audio": {
+        "filename": "Marconi25.mp3",
+        "url": null
+    },
     "category": [
         "Digital",
         "Military"

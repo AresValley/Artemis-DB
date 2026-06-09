@@ -1,12 +1,14 @@
 {
     "pageid": "4134",
     "title": "Emergency Managers Weather Information Network (EMWIN) - Repeater",
-    "spectrum": [
-        "EMWIN.png"
-    ],
-    "audio": [
-        "Unknown163.mp3"
-    ],
+    "spectrum": {
+        "filename": "EMWIN.png",
+        "url": null
+    },
+    "audio": {
+        "filename": "Unknown163.mp3",
+        "url": null
+    },
     "category": [
         "Digital"
     ],

@@ -1,12 +1,14 @@
 {
     "pageid": "6504",
     "title": "M17 RF Protocol",
-    "spectrum": [
-        "M17_wf.png"
-    ],
-    "audio": [
-        "M17_10m.mp3"
-    ],
+    "spectrum": {
+        "filename": "M17_wf.png",
+        "url": null
+    },
+    "audio": {
+        "filename": "M17_10m.mp3",
+        "url": null
+    },
     "category": [
         "Amateur Radio",
         "Digital"

@@ -1,12 +1,14 @@
 {
     "pageid": "107",
     "title": "PAL Broadcast",
-    "spectrum": [
-        "PAL.jpg"
-    ],
-    "audio": [
-        "PAL SIGNAL.mp3"
-    ],
+    "spectrum": {
+        "filename": "PAL.jpg",
+        "url": null
+    },
+    "audio": {
+        "filename": "PAL SIGNAL.mp3",
+        "url": null
+    },
     "category": [
         "Analogue",
         "Commercial"

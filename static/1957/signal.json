@@ -1,12 +1,14 @@
 {
     "pageid": "1957",
     "title": "AMSAT-P3D",
-    "spectrum": [
-        "SAT 40.jpg"
-    ],
-    "audio": [
-        "AMSAT.mp3"
-    ],
+    "spectrum": {
+        "filename": "SAT 40.jpg",
+        "url": null
+    },
+    "audio": {
+        "filename": "AMSAT.mp3",
+        "url": null
+    },
     "category": [
         "Satellite",
         "Amateur Radio",

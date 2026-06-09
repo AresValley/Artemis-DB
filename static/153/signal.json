@@ -1,12 +1,14 @@
 {
     "pageid": "153",
     "title": "BR-6028",
-    "spectrum": [
-        "BR-6028_RTTY.jpg"
-    ],
-    "audio": [
-        "Radio-br6028.mp3"
-    ],
+    "spectrum": {
+        "filename": "BR-6028_RTTY.jpg",
+        "url": null
+    },
+    "audio": {
+        "filename": "Radio-br6028.mp3",
+        "url": null
+    },
     "category": [
         "Military",
         "Digital"

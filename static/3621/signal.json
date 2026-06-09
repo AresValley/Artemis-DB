@@ -1,12 +1,14 @@
 {
     "pageid": "3621",
     "title": "SIGFOX",
-    "spectrum": [
-        "3_SIGFOX.jpg"
-    ],
-    "audio": [
-        "SIGFOX_BPSK.mp3"
-    ],
+    "spectrum": {
+        "filename": "3_SIGFOX.jpg",
+        "url": null
+    },
+    "audio": {
+        "filename": "SIGFOX_BPSK.mp3",
+        "url": null
+    },
     "category": [
         "Commercial",
         "Digital"

@@ -1,12 +1,14 @@
 {
     "pageid": "2389",
     "title": "CLOVER-I",
-    "spectrum": [
-        "CLOVER-I sim.jpg"
-    ],
-    "audio": [
-        "Clover-I Simulated.mp3"
-    ],
+    "spectrum": {
+        "filename": "CLOVER-I sim.jpg",
+        "url": null
+    },
+    "audio": {
+        "filename": "Clover-I Simulated.mp3",
+        "url": null
+    },
     "category": [
         "Digital",
         "Amateur Radio"

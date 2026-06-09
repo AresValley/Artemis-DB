@@ -1,12 +1,14 @@
 {
     "pageid": "5204",
     "title": "Jim Creek (NLK)",
-    "spectrum": [
-        "NLK.PNG"
-    ],
-    "audio": [
-        "NLK Signal 10s.mp3"
-    ],
+    "spectrum": {
+        "filename": "NLK.PNG",
+        "url": null
+    },
+    "audio": {
+        "filename": "NLK Signal 10s.mp3",
+        "url": null
+    },
     "category": [
         "Military"
     ],

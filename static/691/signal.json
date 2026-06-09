@@ -1,12 +1,14 @@
 {
     "pageid": "691",
     "title": "Coquelet",
-    "spectrum": [
-        "Coq_8_intro.png"
-    ],
-    "audio": [
-        "Main_Coq8.mp3"
-    ],
+    "spectrum": {
+        "filename": "Coq_8_intro.png",
+        "url": null
+    },
+    "audio": {
+        "filename": "Main_Coq8.mp3",
+        "url": null
+    },
     "category": [
         "Military",
         "Digital"

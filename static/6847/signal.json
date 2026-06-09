@@ -1,12 +1,14 @@
 {
     "pageid": "6847",
     "title": "COFDMTV",
-    "spectrum": [
-        "COFDMTV2.png"
-    ],
-    "audio": [
-        "mode13.wav"
-    ],
+    "spectrum": {
+        "filename": "COFDMTV2.png",
+        "url": null
+    },
+    "audio": {
+        "filename": "mode13.wav",
+        "url": null
+    },
     "category": [
         "Digital"
     ],

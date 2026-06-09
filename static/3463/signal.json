@@ -1,12 +1,14 @@
 {
     "pageid": "3463",
     "title": "4G (LTE) Long Term Evolution Uplink",
-    "spectrum": [
-        "LTE_O2_10_uplink-data download.jpg"
-    ],
-    "audio": [
-        "LTEuplink.mp3"
-    ],
+    "spectrum": {
+        "filename": "LTE_O2_10_uplink-data download.jpg",
+        "url": null
+    },
+    "audio": {
+        "filename": "LTEuplink.mp3",
+        "url": null
+    },
     "category": [
         "Commercial",
         "Digital"

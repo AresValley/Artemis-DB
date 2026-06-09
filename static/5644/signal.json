@@ -1,12 +1,14 @@
 {
     "pageid": "5644",
     "title": "5G 'New Radio' Cellular Radio - Downlink",
-    "spectrum": [
-        "NR_OR_10_downlink.jpg"
-    ],
-    "audio": [
-        "NR_downlink.mp3"
-    ],
+    "spectrum": {
+        "filename": "NR_OR_10_downlink.jpg",
+        "url": null
+    },
+    "audio": {
+        "filename": "NR_downlink.mp3",
+        "url": null
+    },
     "category": [
         "Digital",
         "Commercial"

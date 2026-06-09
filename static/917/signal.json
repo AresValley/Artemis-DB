@@ -1,12 +1,14 @@
 {
     "pageid": "917",
     "title": "PACTOR IV",
-    "spectrum": [
-        "PACTOR_IV.jpg"
-    ],
-    "audio": [
-        "PACTORIVaudio1.mp3"
-    ],
+    "spectrum": {
+        "filename": "PACTOR_IV.jpg",
+        "url": null
+    },
+    "audio": {
+        "filename": "PACTORIVaudio1.mp3",
+        "url": null
+    },
     "category": [
         "Digital",
         "Commercial",

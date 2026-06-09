@@ -1,12 +1,14 @@
 {
     "pageid": "5032",
     "title": "Motorola SECURENET",
-    "spectrum": [
-        "Securnet.png"
-    ],
-    "audio": [
-        "SECURENET-AF.mp3"
-    ],
+    "spectrum": {
+        "filename": "Securnet.png",
+        "url": null
+    },
+    "audio": {
+        "filename": "SECURENET-AF.mp3",
+        "url": null
+    },
     "category": [
         "Trunked Radio",
         "Commercial"

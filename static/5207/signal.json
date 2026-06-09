@@ -1,12 +1,14 @@
 {
     "pageid": "5207",
     "title": "WWVB",
-    "spectrum": [
-        "WWVB-1.png"
-    ],
-    "audio": [
-        "WWVB Signal 10s.mp3"
-    ],
+    "spectrum": {
+        "filename": "WWVB-1.png",
+        "url": null
+    },
+    "audio": {
+        "filename": "WWVB Signal 10s.mp3",
+        "url": null
+    },
     "category": [
         "Time"
     ],

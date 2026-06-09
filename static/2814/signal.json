@@ -1,12 +1,14 @@
 {
     "pageid": "2814",
     "title": "Russian Intelligence 200bd 1000Hz FSK (F06)",
-    "spectrum": [
-        "Russian_Intelligence_200bd_1000Hz_FSK.jpg"
-    ],
-    "audio": [
-        "F06-message-audio.mp3"
-    ],
+    "spectrum": {
+        "filename": "Russian_Intelligence_200bd_1000Hz_FSK.jpg",
+        "url": null
+    },
+    "audio": {
+        "filename": "F06-message-audio.mp3",
+        "url": null
+    },
     "category": [
         "Digital",
         "Numbers Stations"

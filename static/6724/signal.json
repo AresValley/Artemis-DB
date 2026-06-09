@@ -1,12 +1,14 @@
 {
     "pageid": "6724",
     "title": "OFDM NBTV",
-    "spectrum": [
-        "NBTV_OFDM.png"
-    ],
-    "audio": [
-        "ExampleOFDMNBTV.wav"
-    ],
+    "spectrum": {
+        "filename": "NBTV_OFDM.png",
+        "url": null
+    },
+    "audio": {
+        "filename": "ExampleOFDMNBTV.wav",
+        "url": null
+    },
     "category": [
         "Amateur Radio",
         "Analogue"

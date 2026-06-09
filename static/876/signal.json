@@ -1,12 +1,14 @@
 {
     "pageid": "876",
     "title": "DeltaFix",
-    "spectrum": [
-        "Deltafix.jpg"
-    ],
-    "audio": [
-        "Deltafixaudio.mp3"
-    ],
+    "spectrum": {
+        "filename": "Deltafix.jpg",
+        "url": null
+    },
+    "audio": {
+        "filename": "Deltafixaudio.mp3",
+        "url": null
+    },
     "category": [
         "Marine",
         "Navigation"

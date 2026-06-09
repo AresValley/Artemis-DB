@@ -1,12 +1,14 @@
 {
     "pageid": "5821",
     "title": "ELEKTRO-L GGAK-E Direct Broadcast",
-    "spectrum": [
-        "ELEKTRO-L N2 BCN.png"
-    ],
-    "audio": [
-        "Ggak l2.mp3"
-    ],
+    "spectrum": {
+        "filename": "ELEKTRO-L N2 BCN.png",
+        "url": null
+    },
+    "audio": {
+        "filename": "Ggak l2.mp3",
+        "url": null
+    },
     "category": [
         "Digital",
         "Satellite"

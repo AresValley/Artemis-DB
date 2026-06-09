@@ -1,12 +1,14 @@
 {
     "pageid": "651",
     "title": "Automatic Link Establishment (3G ALE ARCS)",
-    "spectrum": [
-        "3Gale.jpg"
-    ],
-    "audio": [
-        "Mil-188-141b.mp3"
-    ],
+    "spectrum": {
+        "filename": "3Gale.jpg",
+        "url": null
+    },
+    "audio": {
+        "filename": "Mil-188-141b.mp3",
+        "url": null
+    },
     "category": [
         "Military",
         "Digital"

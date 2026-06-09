@@ -1,12 +1,14 @@
 {
     "pageid": "3073",
     "title": "FEC-A",
-    "spectrum": [
-        "FEC-A 96 Bd 400 Hz.jpg"
-    ],
-    "audio": [
-        "FEC-A-96-TFC.mp3"
-    ],
+    "spectrum": {
+        "filename": "FEC-A 96 Bd 400 Hz.jpg",
+        "url": null
+    },
+    "audio": {
+        "filename": "FEC-A-96-TFC.mp3",
+        "url": null
+    },
     "category": [
         "Digital"
     ],

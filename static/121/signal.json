@@ -1,12 +1,14 @@
 {
     "pageid": "121",
     "title": "2G (GSM) Global System for Mobile Communications",
-    "spectrum": [
-        "GSM TK 03 BCCH.jpg"
-    ],
-    "audio": [
-        "GSM_TK_03_BCCH.mp3"
-    ],
+    "spectrum": {
+        "filename": "GSM TK 03 BCCH.jpg",
+        "url": null
+    },
+    "audio": {
+        "filename": "GSM_TK_03_BCCH.mp3",
+        "url": null
+    },
     "category": [
         "Digital",
         "Commercial"

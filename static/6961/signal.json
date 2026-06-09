@@ -1,10 +1,14 @@
 {
     "pageid": "6961",
     "title": "Spectrum Painting",
-    "spectrum": [
-        "Spectrum paint.jpg"
-    ],
-    "audio": [],
+    "spectrum": {
+        "filename": "Spectrum paint.jpg",
+        "url": null
+    },
+    "audio": {
+        "filename": null,
+        "url": null
+    },
     "category": [],
     "frequency": [
         {

@@ -1,12 +1,14 @@
 {
     "pageid": "7702",
     "title": "Radar altimeter",
-    "spectrum": [
-        "Radar altimeter5.PNG"
-    ],
-    "audio": [
-        "Radar altimeter sound.mp3"
-    ],
+    "spectrum": {
+        "filename": "Radar altimeter5.PNG",
+        "url": null
+    },
+    "audio": {
+        "filename": "Radar altimeter sound.mp3",
+        "url": null
+    },
     "category": [
         "Radar",
         "Aviation",

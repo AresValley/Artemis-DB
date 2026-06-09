@@ -1,12 +1,14 @@
 {
     "pageid": "8752",
     "title": "Low Frequency Bicycle Computer Sensor",
-    "spectrum": [
-        "Bicycle sensor.png"
-    ],
-    "audio": [
-        "Bicycle sensor sound.mp3"
-    ],
+    "spectrum": {
+        "filename": "Bicycle sensor.png",
+        "url": null
+    },
+    "audio": {
+        "filename": "Bicycle sensor sound.mp3",
+        "url": null
+    },
     "category": [
         "Analogue"
     ],

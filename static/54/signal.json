@@ -1,12 +1,14 @@
 {
     "pageid": "54",
     "title": "Automatic Identification System (AIS)",
-    "spectrum": [
-        "AIS.jpg"
-    ],
-    "audio": [
-        "AIS_Sound.mp3"
-    ],
+    "spectrum": {
+        "filename": "AIS.jpg",
+        "url": null
+    },
+    "audio": {
+        "filename": "AIS_Sound.mp3",
+        "url": null
+    },
     "category": [
         "Marine",
         "Digital"

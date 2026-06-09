@@ -1,12 +1,14 @@
 {
     "pageid": "3265",
     "title": "RUM-FEC",
-    "spectrum": [
-        "RUM-FEC.jpg"
-    ],
-    "audio": [
-        "rum-fec 164.5 Bd.mp3"
-    ],
+    "spectrum": {
+        "filename": "RUM-FEC.jpg",
+        "url": null
+    },
+    "audio": {
+        "filename": "rum-fec 164.5 Bd.mp3",
+        "url": null
+    },
     "category": [
         "Digital"
     ],

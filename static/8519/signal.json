@@ -1,12 +1,14 @@
 {
     "pageid": "8519",
     "title": "5G Broadcast (MBMS) Multimedia Broadcast / Multicast Service",
-    "spectrum": [
-        "5G broadcast mbms.jpg"
-    ],
-    "audio": [
-        "649.5 5G BROADCAST 5M.mp3"
-    ],
+    "spectrum": {
+        "filename": "5G broadcast mbms.jpg",
+        "url": null
+    },
+    "audio": {
+        "filename": "649.5 5G BROADCAST 5M.mp3",
+        "url": null
+    },
     "category": [
         "Commercial",
         "Digital"

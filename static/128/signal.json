@@ -1,12 +1,14 @@
 {
     "pageid": "128",
     "title": "Japanese Slot Machine (XSL)",
-    "spectrum": [
-        "XSL_idle.jpg"
-    ],
-    "audio": [
-        "Xsl_idle.mp3"
-    ],
+    "spectrum": {
+        "filename": "XSL_idle.jpg",
+        "url": null
+    },
+    "audio": {
+        "filename": "Xsl_idle.mp3",
+        "url": null
+    },
     "category": [
         "Digital",
         "Military"

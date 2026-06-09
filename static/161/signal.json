@@ -1,12 +1,14 @@
 {
     "pageid": "161",
     "title": "FUNcube-1 Telemetry",
-    "spectrum": [
-        "FUNcube.jpg"
-    ],
-    "audio": [
-        "Funcube1_Sound.mp3"
-    ],
+    "spectrum": {
+        "filename": "FUNcube.jpg",
+        "url": null
+    },
+    "audio": {
+        "filename": "Funcube1_Sound.mp3",
+        "url": null
+    },
     "category": [
         "Amateur Radio",
         "Satellite",

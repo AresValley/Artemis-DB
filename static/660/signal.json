@@ -1,12 +1,14 @@
 {
     "pageid": "660",
     "title": "CIS-11",
-    "spectrum": [
-        "CIS-11.jpg"
-    ],
-    "audio": [
-        "CIS-11TFC.mp3"
-    ],
+    "spectrum": {
+        "filename": "CIS-11.jpg",
+        "url": null
+    },
+    "audio": {
+        "filename": "CIS-11TFC.mp3",
+        "url": null
+    },
     "category": [
         "Digital"
     ],

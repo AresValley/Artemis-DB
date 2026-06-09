@@ -1,12 +1,14 @@
 {
     "pageid": "2060",
     "title": "CHU",
-    "spectrum": [
-        "CHU.jpg"
-    ],
-    "audio": [
-        "samplechu.mp3"
-    ],
+    "spectrum": {
+        "filename": "CHU.jpg",
+        "url": null
+    },
+    "audio": {
+        "filename": "samplechu.mp3",
+        "url": null
+    },
     "category": [
         "Time",
         "Digital"

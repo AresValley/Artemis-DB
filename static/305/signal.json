@@ -1,12 +1,14 @@
 {
     "pageid": "305",
     "title": "Autocab",
-    "spectrum": [
-        "Autocab.jpg"
-    ],
-    "audio": [
-        "autocab.mp3"
-    ],
+    "spectrum": {
+        "filename": "Autocab.jpg",
+        "url": null
+    },
+    "audio": {
+        "filename": "autocab.mp3",
+        "url": null
+    },
     "category": [
         "Digital",
         "Commercial"

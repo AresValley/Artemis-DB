@@ -1,12 +1,14 @@
 {
     "pageid": "1329",
     "title": "ISCAT",
-    "spectrum": [
-        "ISCAT-A_Sim.jpg"
-    ],
-    "audio": [
-        "ISCAT-A_simulated.mp3"
-    ],
+    "spectrum": {
+        "filename": "ISCAT-A_Sim.jpg",
+        "url": null
+    },
+    "audio": {
+        "filename": "ISCAT-A_simulated.mp3",
+        "url": null
+    },
     "category": [
         "Amateur Radio",
         "Digital"

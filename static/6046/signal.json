@@ -1,12 +1,14 @@
 {
     "pageid": "6046",
     "title": "Gonets",
-    "spectrum": [
-        "Gonet.png"
-    ],
-    "audio": [
-        "GonetsFM.mp3"
-    ],
+    "spectrum": {
+        "filename": "Gonet.png",
+        "url": null
+    },
+    "audio": {
+        "filename": "GonetsFM.mp3",
+        "url": null
+    },
     "category": [
         "Commercial",
         "Satellite"

@@ -1,12 +1,14 @@
 {
     "pageid": "4937",
     "title": "SAS/SRC",
-    "spectrum": [
-        "SAS-SRC mod pattern.gif"
-    ],
-    "audio": [
-        "AF 17OCT2014 080000z SAS-SRC.mp3"
-    ],
+    "spectrum": {
+        "filename": "SAS-SRC mod pattern.gif",
+        "url": null
+    },
+    "audio": {
+        "filename": "AF 17OCT2014 080000z SAS-SRC.mp3",
+        "url": null
+    },
     "category": [
         "Military",
         "Marine"

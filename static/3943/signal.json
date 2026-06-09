@@ -1,12 +1,14 @@
 {
     "pageid": "3943",
     "title": "HD Radio (FM)",
-    "spectrum": [
-        "HD_Radio_fm_broadcast.jpg"
-    ],
-    "audio": [
-        "Hd radio audio sample.mp3"
-    ],
+    "spectrum": {
+        "filename": "HD_Radio_fm_broadcast.jpg",
+        "url": null
+    },
+    "audio": {
+        "filename": "Hd radio audio sample.mp3",
+        "url": null
+    },
     "category": [
         "Commercial",
         "Digital"

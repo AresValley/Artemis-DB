@@ -1,12 +1,14 @@
 {
     "pageid": "1414",
     "title": "STANAG 4481",
-    "spectrum": [
-        "STANAG_4481.jpg"
-    ],
-    "audio": [
-        "KG84.mp3"
-    ],
+    "spectrum": {
+        "filename": "STANAG_4481.jpg",
+        "url": null
+    },
+    "audio": {
+        "filename": "KG84.mp3",
+        "url": null
+    },
     "category": [
         "Military",
         "Digital"

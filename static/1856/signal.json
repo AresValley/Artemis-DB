@@ -1,12 +1,14 @@
 {
     "pageid": "1856",
     "title": "Kiwi",
-    "spectrum": [
-        "Kiwi_thumb.jpg"
-    ],
-    "audio": [
-        "137 050 kiwi.mp3"
-    ],
+    "spectrum": {
+        "filename": "Kiwi_thumb.jpg",
+        "url": null
+    },
+    "audio": {
+        "filename": "137 050 kiwi.mp3",
+        "url": null
+    },
     "category": [
         "Digital",
         "Utility",

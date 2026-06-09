@@ -1,12 +1,14 @@
 {
     "pageid": "8663",
     "title": "BRAS-3 (RS-10)",
-    "spectrum": [
-        "BRAS-3 1791kHz.png"
-    ],
-    "audio": [
-        "BRAS-3 1791kHz AM.mp3"
-    ],
+    "spectrum": {
+        "filename": "BRAS-3 1791kHz.png",
+        "url": null
+    },
+    "audio": {
+        "filename": "BRAS-3 1791kHz AM.mp3",
+        "url": null
+    },
     "category": [
         "Navigation",
         "Marine"

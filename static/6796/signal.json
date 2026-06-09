@@ -1,8 +1,14 @@
 {
     "pageid": "6796",
     "title": "Near Instantaneous Companded Audio Multiplex (NICAM)",
-    "spectrum": [],
-    "audio": [],
+    "spectrum": {
+        "filename": null,
+        "url": null
+    },
+    "audio": {
+        "filename": null,
+        "url": null
+    },
     "category": [
         "Digital",
         "Commercial"

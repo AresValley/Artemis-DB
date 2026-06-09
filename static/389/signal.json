@@ -1,12 +1,14 @@
 {
     "pageid": "389",
     "title": "'Ghadir' OTH Radar",
-    "spectrum": [
-        "IranOTH.png"
-    ],
-    "audio": [
-        "Ghadir.mp3"
-    ],
+    "spectrum": {
+        "filename": "IranOTH.png",
+        "url": null
+    },
+    "audio": {
+        "filename": "Ghadir.mp3",
+        "url": null
+    },
     "category": [
         "Military",
         "Radar"

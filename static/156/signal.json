@@ -1,12 +1,14 @@
 {
     "pageid": "156",
     "title": "Portable Traffic Lights",
-    "spectrum": [
-        "PortTrafLight_Waterfall.png"
-    ],
-    "audio": [
-        "PortTrafLight_Sound.mp3"
-    ],
+    "spectrum": {
+        "filename": "PortTrafLight_Waterfall.png",
+        "url": null
+    },
+    "audio": {
+        "filename": "PortTrafLight_Sound.mp3",
+        "url": null
+    },
     "category": [
         "Digital",
         "Utility"

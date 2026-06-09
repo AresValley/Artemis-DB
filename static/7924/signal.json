@@ -1,12 +1,14 @@
 {
     "pageid": "7924",
     "title": "Chinese 160kHz-wide OTH radar",
-    "spectrum": [
-        "Chinese radar 160kHz wide.png"
-    ],
-    "audio": [
-        "Chinese radar 160kHz wide.mp3"
-    ],
+    "spectrum": {
+        "filename": "Chinese radar 160kHz wide.png",
+        "url": null
+    },
+    "audio": {
+        "filename": "Chinese radar 160kHz wide.mp3",
+        "url": null
+    },
     "category": [
         "Radar"
     ],

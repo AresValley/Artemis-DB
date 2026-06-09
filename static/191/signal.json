@@ -1,12 +1,14 @@
 {
     "pageid": "191",
     "title": "Ionosonde",
-    "spectrum": [
-        "Ionosonde2e.png"
-    ],
-    "audio": [
-        "Ionosondee.mp3"
-    ],
+    "spectrum": {
+        "filename": "Ionosonde2e.png",
+        "url": null
+    },
+    "audio": {
+        "filename": "Ionosondee.mp3",
+        "url": null
+    },
     "category": [
         "Radar"
     ],

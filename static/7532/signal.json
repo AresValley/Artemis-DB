@@ -1,12 +1,14 @@
 {
     "pageid": "7532",
     "title": "JT4",
-    "spectrum": [
-        "JT4.png"
-    ],
-    "audio": [
-        "JT4.ogg"
-    ],
+    "spectrum": {
+        "filename": "JT4.png",
+        "url": null
+    },
+    "audio": {
+        "filename": "JT4.ogg",
+        "url": null
+    },
     "category": [
         "Digital"
     ],

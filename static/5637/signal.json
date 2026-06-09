@@ -1,12 +1,14 @@
 {
     "pageid": "5637",
     "title": "DB0UPB research beacon",
-    "spectrum": [
-        "DB0UPB.png"
-    ],
-    "audio": [
-        "0kqvydic4s76vnto.myfritz.net 2019-12-10T13 31 26Z 3609.00 lsb.mp3"
-    ],
+    "spectrum": {
+        "filename": "DB0UPB.png",
+        "url": null
+    },
+    "audio": {
+        "filename": "0kqvydic4s76vnto.myfritz.net 2019-12-10T13 31 26Z 3609.00 lsb.mp3",
+        "url": null
+    },
     "category": [
         "Amateur Radio",
         "Analogue",

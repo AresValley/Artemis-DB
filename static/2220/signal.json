@@ -1,12 +1,14 @@
 {
     "pageid": "2220",
     "title": "Pursuit Wireless Car Key",
-    "spectrum": [
-        "1995_nissan_key.jpg"
-    ],
-    "audio": [
-        "Nissan_Wireless_Key_AM_Mode.mp3"
-    ],
+    "spectrum": {
+        "filename": "1995_nissan_key.jpg",
+        "url": null
+    },
+    "audio": {
+        "filename": "Nissan_Wireless_Key_AM_Mode.mp3",
+        "url": null
+    },
     "category": [
         "Utility"
     ],

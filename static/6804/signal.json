@@ -1,12 +1,14 @@
 {
     "pageid": "6804",
     "title": "Russian OTH 'Ghadir' type",
-    "spectrum": [
-        "OTHIQ.png"
-    ],
-    "audio": [
-        "202303-05-0.mp3"
-    ],
+    "spectrum": {
+        "filename": "OTHIQ.png",
+        "url": null
+    },
+    "audio": {
+        "filename": "202303-05-0.mp3",
+        "url": null
+    },
     "category": [
         "Radar"
     ],

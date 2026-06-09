@@ -1,12 +1,14 @@
 {
     "pageid": "436",
     "title": "NFM Voice",
-    "spectrum": [
-        "Sintitulo.png"
-    ],
-    "audio": [
-        "Nfm_voice.mp3"
-    ],
+    "spectrum": {
+        "filename": "Sintitulo.png",
+        "url": null
+    },
+    "audio": {
+        "filename": "Nfm_voice.mp3",
+        "url": null
+    },
     "category": [
         "Analogue"
     ],

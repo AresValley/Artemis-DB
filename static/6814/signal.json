@@ -1,12 +1,14 @@
 {
     "pageid": "6814",
     "title": "SkyOFDM",
-    "spectrum": [
-        "SkyOFDM.png"
-    ],
-    "audio": [
-        "SkyOFDM-short.mp3"
-    ],
+    "spectrum": {
+        "filename": "SkyOFDM.png",
+        "url": null
+    },
+    "audio": {
+        "filename": "SkyOFDM-short.mp3",
+        "url": null
+    },
     "category": [
         "Digital",
         "Military"

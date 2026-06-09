@@ -1,12 +1,14 @@
 {
     "pageid": "8141",
     "title": "SOLRAD 7B (COSPAR ID: 1965-016D)",
-    "spectrum": [
-        "Solrad7bwf.png"
-    ],
-    "audio": [
-        "Solrad7bmodulationaudio.mp3"
-    ],
+    "spectrum": {
+        "filename": "Solrad7bwf.png",
+        "url": null
+    },
+    "audio": {
+        "filename": "Solrad7bmodulationaudio.mp3",
+        "url": null
+    },
     "category": [
         "Satellite",
         "Analogue"

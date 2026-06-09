@@ -1,12 +1,14 @@
 {
     "pageid": "2840",
     "title": "Automated Train Control System (ATCS)",
-    "spectrum": [
-        "ATCS2.png"
-    ],
-    "audio": [
-        "Atcs AF.mp3"
-    ],
+    "spectrum": {
+        "filename": "ATCS2.png",
+        "url": null
+    },
+    "audio": {
+        "filename": "Atcs AF.mp3",
+        "url": null
+    },
     "category": [
         "Digital"
     ],

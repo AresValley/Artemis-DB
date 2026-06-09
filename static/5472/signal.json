@@ -1,12 +1,14 @@
 {
     "pageid": "5472",
     "title": "Wireless Hydrophone System (WHS)",
-    "spectrum": [
-        "Výstřižek.PNG"
-    ],
-    "audio": [
-        "Video.mp3"
-    ],
+    "spectrum": {
+        "filename": "Výstřižek.PNG",
+        "url": null
+    },
+    "audio": {
+        "filename": "Video.mp3",
+        "url": null
+    },
     "category": [
         "Utility"
     ],

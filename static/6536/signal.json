@@ -1,12 +1,14 @@
 {
     "pageid": "6536",
     "title": "Graw DFM-17 (Radiosonde)",
-    "spectrum": [
-        "Dfmwaterfall.png"
-    ],
-    "audio": [
-        "dfm17sample.wav"
-    ],
+    "spectrum": {
+        "filename": "Dfmwaterfall.png",
+        "url": null
+    },
+    "audio": {
+        "filename": "dfm17sample.wav",
+        "url": null
+    },
     "category": [
         "Utility",
         "Digital"

@@ -1,12 +1,14 @@
 {
     "pageid": "2044",
     "title": "AUTOSPEC",
-    "spectrum": [
-        "AUTOSPEC.png"
-    ],
-    "audio": [
-        "autospec.mp3"
-    ],
+    "spectrum": {
+        "filename": "AUTOSPEC.png",
+        "url": null
+    },
+    "audio": {
+        "filename": "autospec.mp3",
+        "url": null
+    },
     "category": [
         "Digital"
     ],

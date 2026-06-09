@@ -1,12 +1,14 @@
 {
     "pageid": "6650",
     "title": "RDL VLF",
-    "spectrum": [
-        "RDL FSK.PNG"
-    ],
-    "audio": [
-        "RDL FSK audio.mp3"
-    ],
+    "spectrum": {
+        "filename": "RDL FSK.PNG",
+        "url": null
+    },
+    "audio": {
+        "filename": "RDL FSK audio.mp3",
+        "url": null
+    },
     "category": [
         "Military"
     ],

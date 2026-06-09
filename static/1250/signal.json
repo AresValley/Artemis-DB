@@ -1,12 +1,14 @@
 {
     "pageid": "1250",
     "title": "CRY2001 Voice Scrambler",
-    "spectrum": [
-        "CRY2001_Full.jpg"
-    ],
-    "audio": [
-        "CRY-2001.mp3"
-    ],
+    "spectrum": {
+        "filename": "CRY2001_Full.jpg",
+        "url": null
+    },
+    "audio": {
+        "filename": "CRY-2001.mp3",
+        "url": null
+    },
     "category": [
         "Marine",
         "Analogue",

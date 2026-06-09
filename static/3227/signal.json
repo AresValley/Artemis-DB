@@ -1,12 +1,14 @@
 {
     "pageid": "3227",
     "title": "DominoF",
-    "spectrum": [
-        "DominoF.png"
-    ],
-    "audio": [
-        "DominoFs.mp3"
-    ],
+    "spectrum": {
+        "filename": "DominoF.png",
+        "url": null
+    },
+    "audio": {
+        "filename": "DominoFs.mp3",
+        "url": null
+    },
     "category": [
         "Digital",
         "Amateur Radio"

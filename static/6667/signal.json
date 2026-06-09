@@ -1,12 +1,14 @@
 {
     "pageid": "6667",
     "title": "Wettersonde E084 (Radiosonde)",
-    "spectrum": [
-        "E084 wettersonde waterfall.png"
-    ],
-    "audio": [
-        "E084 radiosonde audio.mp3"
-    ],
+    "spectrum": {
+        "filename": "E084 wettersonde waterfall.png",
+        "url": null
+    },
+    "audio": {
+        "filename": "E084 radiosonde audio.mp3",
+        "url": null
+    },
     "category": [
         "Utility",
         "Analogue"

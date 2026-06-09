@@ -1,12 +1,14 @@
 {
     "pageid": "4366",
     "title": "'OTH-SW' OTH Radar",
-    "spectrum": [
-        "OTH RADAR.png"
-    ],
-    "audio": [
-        "PRC_OTH_SW.mp3"
-    ],
+    "spectrum": {
+        "filename": "OTH RADAR.png",
+        "url": null
+    },
+    "audio": {
+        "filename": "PRC_OTH_SW.mp3",
+        "url": null
+    },
     "category": [
         "Military",
         "Radar"

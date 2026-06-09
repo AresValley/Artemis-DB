@@ -1,12 +1,14 @@
 {
     "pageid": "177",
     "title": "Toyota Car Key",
-    "spectrum": [
-        "ToyotaCarFob_Waterfall.png"
-    ],
-    "audio": [
-        "ToyotaCarFob_Sound.mp3"
-    ],
+    "spectrum": {
+        "filename": "ToyotaCarFob_Waterfall.png",
+        "url": null
+    },
+    "audio": {
+        "filename": "ToyotaCarFob_Sound.mp3",
+        "url": null
+    },
     "category": [
         "Digital",
         "Utility"

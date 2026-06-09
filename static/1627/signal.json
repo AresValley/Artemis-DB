@@ -1,12 +1,14 @@
 {
     "pageid": "1627",
     "title": "STANAG 4415",
-    "spectrum": [
-        "STANAG 4415.jpg"
-    ],
-    "audio": [
-        "robser-s.mp3"
-    ],
+    "spectrum": {
+        "filename": "STANAG 4415.jpg",
+        "url": null
+    },
+    "audio": {
+        "filename": "robser-s.mp3",
+        "url": null
+    },
     "category": [
         "Military",
         "Digital"

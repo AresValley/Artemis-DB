@@ -1,12 +1,14 @@
 {
     "pageid": "146",
     "title": "Pulse Coded Modulated (PCM) RC Toy",
-    "spectrum": [
-        "PCMRCToy_Waterfallwaterfall.png"
-    ],
-    "audio": [
-        "PCMRCToy_Sound.mp3"
-    ],
+    "spectrum": {
+        "filename": "PCMRCToy_Waterfallwaterfall.png",
+        "url": null
+    },
+    "audio": {
+        "filename": "PCMRCToy_Sound.mp3",
+        "url": null
+    },
     "category": [
         "Utility",
         "Digital"

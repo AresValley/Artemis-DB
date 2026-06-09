@@ -1,12 +1,14 @@
 {
     "pageid": "870",
     "title": "Distress Radiobeacon (Analog)",
-    "spectrum": [
-        "Analog_radiobeacon.jpg"
-    ],
-    "audio": [
-        "RadioBeacon.mp3"
-    ],
+    "spectrum": {
+        "filename": "Analog_radiobeacon.jpg",
+        "url": null
+    },
+    "audio": {
+        "filename": "RadioBeacon.mp3",
+        "url": null
+    },
     "category": [
         "Marine",
         "Analogue",

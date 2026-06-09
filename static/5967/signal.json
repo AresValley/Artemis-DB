@@ -1,12 +1,14 @@
 {
     "pageid": "5967",
     "title": "Lockheed Martin LMS-6 (Radiosonde)",
-    "spectrum": [
-        "Lms6.png"
-    ],
-    "audio": [
-        "Lms 6 radiosonde.mp3"
-    ],
+    "spectrum": {
+        "filename": "Lms6.png",
+        "url": null
+    },
+    "audio": {
+        "filename": "Lms 6 radiosonde.mp3",
+        "url": null
+    },
     "category": [
         "Utility",
         "Digital"

@@ -1,12 +1,14 @@
 {
     "pageid": "1356",
     "title": "LORAN",
-    "spectrum": [
-        "LORAN.png"
-    ],
-    "audio": [
-        "LORAN-C_USB.mp3"
-    ],
+    "spectrum": {
+        "filename": "LORAN.png",
+        "url": null
+    },
+    "audio": {
+        "filename": "LORAN-C_USB.mp3",
+        "url": null
+    },
     "category": [
         "Marine",
         "Navigation"

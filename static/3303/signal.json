@@ -1,12 +1,14 @@
 {
     "pageid": "3303",
     "title": "Vietnamese Siren Jammer",
-    "spectrum": [
-        "Vietnamese_Siren_Jammer.PNG"
-    ],
-    "audio": [
-        "Vietnamese_siren_jammer.wav"
-    ],
+    "spectrum": {
+        "filename": "Vietnamese_Siren_Jammer.PNG",
+        "url": null
+    },
+    "audio": {
+        "filename": "Vietnamese_siren_jammer.wav",
+        "url": null
+    },
     "category": [],
     "frequency": [
         {

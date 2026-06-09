@@ -1,12 +1,14 @@
 {
     "pageid": "6634",
     "title": "Russian overhead power line telemetry system",
-    "spectrum": [
-        "Pow tel 3.JPG"
-    ],
-    "audio": [
-        "PL_502_khz_wiki.mp3"
-    ],
+    "spectrum": {
+        "filename": "Pow tel 3.JPG",
+        "url": null
+    },
+    "audio": {
+        "filename": "PL_502_khz_wiki.mp3",
+        "url": null
+    },
     "category": [
         "Digital"
     ],

@@ -1,12 +1,14 @@
 {
     "pageid": "887",
     "title": "PACTOR I",
-    "spectrum": [
-        "PACTOR_Addimg.jpg"
-    ],
-    "audio": [
-        "PACTOR-200.mp3"
-    ],
+    "spectrum": {
+        "filename": "PACTOR_Addimg.jpg",
+        "url": null
+    },
+    "audio": {
+        "filename": "PACTOR-200.mp3",
+        "url": null
+    },
     "category": [
         "Digital",
         "Commercial",

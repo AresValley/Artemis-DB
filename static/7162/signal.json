@@ -1,12 +1,14 @@
 {
     "pageid": "7162",
     "title": "CIS MFSK-16 XPB",
-    "spectrum": [
-        "XPB4 b.png"
-    ],
-    "audio": [
-        "XPB.ogg"
-    ],
+    "spectrum": {
+        "filename": "XPB4 b.png",
+        "url": null
+    },
+    "audio": {
+        "filename": "XPB.ogg",
+        "url": null
+    },
     "category": [
         "Numbers Stations",
         "Digital",

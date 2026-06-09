@@ -1,12 +1,14 @@
 {
     "pageid": "180",
     "title": "Nissan Car Key",
-    "spectrum": [
-        "NissanCarFob_Waterfallthmb.png"
-    ],
-    "audio": [
-        "NissanCarFob_Sound.mp3"
-    ],
+    "spectrum": {
+        "filename": "NissanCarFob_Waterfallthmb.png",
+        "url": null
+    },
+    "audio": {
+        "filename": "NissanCarFob_Sound.mp3",
+        "url": null
+    },
     "category": [
         "Digital",
         "Utility"

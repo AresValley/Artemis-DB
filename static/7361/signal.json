@@ -1,12 +1,14 @@
 {
     "pageid": "7361",
     "title": "Induction cooker interference",
-    "spectrum": [
-        "Induction cooker pwr5 A.png"
-    ],
-    "audio": [
-        "Induction cooker pwr5 USB.ogg"
-    ],
+    "spectrum": {
+        "filename": "Induction cooker pwr5 A.png",
+        "url": null
+    },
+    "audio": {
+        "filename": "Induction cooker pwr5 USB.ogg",
+        "url": null
+    },
     "category": [
         "Interfering"
     ],

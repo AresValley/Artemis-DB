@@ -1,10 +1,14 @@
 {
     "pageid": "2175",
     "title": "Multiplexed Analogue Components (MAC)",
-    "spectrum": [
-        "NoWaterfallFiller.png"
-    ],
-    "audio": [],
+    "spectrum": {
+        "filename": "NoWaterfallFiller.png",
+        "url": null
+    },
+    "audio": {
+        "filename": null,
+        "url": null
+    },
     "category": [
         "Analogue",
         "Commercial"

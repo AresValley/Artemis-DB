@@ -1,10 +1,14 @@
 {
     "pageid": "2174",
     "title": "Multiple sub-Nyquist Sampling Encoding (MUSE)",
-    "spectrum": [
-        "NoWaterfallFiller.png"
-    ],
-    "audio": [],
+    "spectrum": {
+        "filename": "NoWaterfallFiller.png",
+        "url": null
+    },
+    "audio": {
+        "filename": null,
+        "url": null
+    },
     "category": [
         "Analogue",
         "Commercial"

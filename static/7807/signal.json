@@ -1,12 +1,14 @@
 {
     "pageid": "7807",
     "title": "17067bps FSK",
-    "spectrum": [
-        "Fsk17067_wf.png"
-    ],
-    "audio": [
-        "Fsk17067_af.wav"
-    ],
+    "spectrum": {
+        "filename": "Fsk17067_wf.png",
+        "url": null
+    },
+    "audio": {
+        "filename": "Fsk17067_af.wav",
+        "url": null
+    },
     "category": [
         "Military",
         "Digital"

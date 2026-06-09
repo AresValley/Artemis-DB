@@ -1,12 +1,14 @@
 {
     "pageid": "2473",
     "title": "Differential Global Positioning System (DGPS)",
-    "spectrum": [
-        "DGPS 200Bd.png"
-    ],
-    "audio": [
-        "DGPS 200bd.mp3"
-    ],
+    "spectrum": {
+        "filename": "DGPS 200Bd.png",
+        "url": null
+    },
+    "audio": {
+        "filename": "DGPS 200bd.mp3",
+        "url": null
+    },
     "category": [
         "Digital",
         "Navigation"

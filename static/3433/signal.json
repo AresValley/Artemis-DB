@@ -1,12 +1,14 @@
 {
     "pageid": "3433",
     "title": "Nokia Adaptive Message Terminal",
-    "spectrum": [
-        "300 Bd semiidle stanag 4202.jpg"
-    ],
-    "audio": [
-        "merod_mode1 300 bd 750hz.mp3"
-    ],
+    "spectrum": {
+        "filename": "300 Bd semiidle stanag 4202.jpg",
+        "url": null
+    },
+    "audio": {
+        "filename": "merod_mode1 300 bd 750hz.mp3",
+        "url": null
+    },
     "category": [
         "Digital"
     ],

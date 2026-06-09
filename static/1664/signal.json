@@ -1,12 +1,14 @@
 {
     "pageid": "1664",
     "title": "CIS-128",
-    "spectrum": [
-        "CIS-128.jpg"
-    ],
-    "audio": [
-        "ofdm128.mp3"
-    ],
+    "spectrum": {
+        "filename": "CIS-128.jpg",
+        "url": null
+    },
+    "audio": {
+        "filename": "ofdm128.mp3",
+        "url": null
+    },
     "category": [
         "Military",
         "Digital"

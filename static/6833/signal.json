@@ -1,12 +1,14 @@
 {
     "pageid": "6833",
     "title": "IS-54 D-AMPS",
-    "spectrum": [
-        "Screenshot 2025-02-04 205111.png"
-    ],
-    "audio": [
-        "D-AMPS.wav"
-    ],
+    "spectrum": {
+        "filename": "Screenshot 2025-02-04 205111.png",
+        "url": null
+    },
+    "audio": {
+        "filename": "D-AMPS.wav",
+        "url": null
+    },
     "category": [
         "Digital",
         "Commercial"

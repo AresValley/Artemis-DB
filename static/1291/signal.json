@@ -1,12 +1,14 @@
 {
     "pageid": "1291",
     "title": "G-TOR",
-    "spectrum": [
-        "G-TOR300.jpg"
-    ],
-    "audio": [
-        "G-tor (dat 18 10).mp3"
-    ],
+    "spectrum": {
+        "filename": "G-TOR300.jpg",
+        "url": null
+    },
+    "audio": {
+        "filename": "G-tor (dat 18 10).mp3",
+        "url": null
+    },
     "category": [
         "Amateur Radio",
         "Digital"

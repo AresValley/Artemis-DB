@@ -1,12 +1,14 @@
 {
     "pageid": "7057",
     "title": "XMPP trials",
-    "spectrum": [
-        "XMPP EXAMPLE.png"
-    ],
-    "audio": [
-        "XMPPsound.mp3"
-    ],
+    "spectrum": {
+        "filename": "XMPP EXAMPLE.png",
+        "url": null
+    },
+    "audio": {
+        "filename": "XMPPsound.mp3",
+        "url": null
+    },
     "category": [
         "Military",
         "Digital"

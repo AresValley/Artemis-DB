@@ -1,12 +1,14 @@
 {
     "pageid": "2309",
     "title": "Dual Tone Multi Frequency (DTMF)",
-    "spectrum": [
-        "DTMF tones.png"
-    ],
-    "audio": [
-        "dtmf.mp3"
-    ],
+    "spectrum": {
+        "filename": "DTMF tones.png",
+        "url": null
+    },
+    "audio": {
+        "filename": "dtmf.mp3",
+        "url": null
+    },
     "category": [
         "Analogue"
     ],

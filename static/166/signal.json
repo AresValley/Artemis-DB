@@ -1,12 +1,14 @@
 {
     "pageid": "166",
     "title": "D-STAR",
-    "spectrum": [
-        "DSTAR.jpg"
-    ],
-    "audio": [
-        "DStar_Sound.mp3"
-    ],
+    "spectrum": {
+        "filename": "DSTAR.jpg",
+        "url": null
+    },
+    "audio": {
+        "filename": "DStar_Sound.mp3",
+        "url": null
+    },
     "category": [
         "Amateur Radio",
         "Digital"

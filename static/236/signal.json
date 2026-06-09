@@ -1,12 +1,14 @@
 {
     "pageid": "236",
     "title": "ISM Band Weather sensor",
-    "spectrum": [
-        "Alecto_wxthmb.png"
-    ],
-    "audio": [
-        "Alecto_wx.mp3"
-    ],
+    "spectrum": {
+        "filename": "Alecto_wxthmb.png",
+        "url": null
+    },
+    "audio": {
+        "filename": "Alecto_wx.mp3",
+        "url": null
+    },
     "category": [
         "Digital",
         "Utility"

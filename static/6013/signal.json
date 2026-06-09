@@ -1,12 +1,14 @@
 {
     "pageid": "6013",
     "title": "CAS-4A/B Satellite Telemetry",
-    "spectrum": [
-        "CAS4B2.png"
-    ],
-    "audio": [
-        "CAS 4Sound.mp3"
-    ],
+    "spectrum": {
+        "filename": "CAS4B2.png",
+        "url": null
+    },
+    "audio": {
+        "filename": "CAS 4Sound.mp3",
+        "url": null
+    },
     "category": [
         "Amateur Radio",
         "Satellite",

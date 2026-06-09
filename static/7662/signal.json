@@ -1,12 +1,14 @@
 {
     "pageid": "7662",
     "title": "CIS FTM-4",
-    "spectrum": [
-        "Unknown pulsating 4 tones and FM.png"
-    ],
-    "audio": [
-        "Unknown pulsating 4 tones and FM signal USB wide.ogg"
-    ],
+    "spectrum": {
+        "filename": "Unknown pulsating 4 tones and FM.png",
+        "url": null
+    },
+    "audio": {
+        "filename": "Unknown pulsating 4 tones and FM signal USB wide.ogg",
+        "url": null
+    },
     "category": [
         "Military",
         "Digital"

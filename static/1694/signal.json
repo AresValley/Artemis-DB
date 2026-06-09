@@ -1,12 +1,14 @@
 {
     "pageid": "1694",
     "title": "STANAG 4539",
-    "spectrum": [
-        "QAM 8000 M.jpg"
-    ],
-    "audio": [
-        "mil-188-110b Med QAM 8000.mp3"
-    ],
+    "spectrum": {
+        "filename": "QAM 8000 M.jpg",
+        "url": null
+    },
+    "audio": {
+        "filename": "mil-188-110b Med QAM 8000.mp3",
+        "url": null
+    },
     "category": [
         "Military",
         "Digital"

@@ -1,12 +1,14 @@
 {
     "pageid": "8323",
     "title": "Samsung Washing Machine Interference",
-    "spectrum": [
-        "Samsung washing machine interference.png"
-    ],
-    "audio": [
-        "Samsung washer.mp3"
-    ],
+    "spectrum": {
+        "filename": "Samsung washing machine interference.png",
+        "url": null
+    },
+    "audio": {
+        "filename": "Samsung washer.mp3",
+        "url": null
+    },
     "category": [
         "Interfering"
     ],

@@ -1,12 +1,14 @@
 {
     "pageid": "1298",
     "title": "HC-265 Voice Scrambler",
-    "spectrum": [
-        "HC_265.jpg"
-    ],
-    "audio": [
-        "HC-265_HF_2x120Bd_FSK.mp3"
-    ],
+    "spectrum": {
+        "filename": "HC_265.jpg",
+        "url": null
+    },
+    "audio": {
+        "filename": "HC-265_HF_2x120Bd_FSK.mp3",
+        "url": null
+    },
     "category": [
         "Military",
         "Digital"

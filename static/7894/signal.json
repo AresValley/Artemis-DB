@@ -1,12 +1,14 @@
 {
     "pageid": "7894",
     "title": "Pager (POCSAG 1200)",
-    "spectrum": [
-        "Screenshot 2025-03-23 11.57.04 AM.png"
-    ],
-    "audio": [
-        "REC-250323-165034-153350.mp3"
-    ],
+    "spectrum": {
+        "filename": "Screenshot 2025-03-23 11.57.04 AM.png",
+        "url": null
+    },
+    "audio": {
+        "filename": "REC-250323-165034-153350.mp3",
+        "url": null
+    },
     "category": [],
     "frequency": [
         {

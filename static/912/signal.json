@@ -1,12 +1,14 @@
 {
     "pageid": "912",
     "title": "PACTOR III",
-    "spectrum": [
-        "PACTORIIIthumb.jpg"
-    ],
-    "audio": [
-        "PIII_Complete_1.mp3"
-    ],
+    "spectrum": {
+        "filename": "PACTORIIIthumb.jpg",
+        "url": null
+    },
+    "audio": {
+        "filename": "PIII_Complete_1.mp3",
+        "url": null
+    },
     "category": [
         "Digital",
         "Commercial",

@@ -1,12 +1,14 @@
 {
     "pageid": "2989",
     "title": "DUP-ARQ-2",
-    "spectrum": [
-        "DUP_ARQ-2.jpg"
-    ],
-    "audio": [
-        "Dup-arq-2_(dat_2_08).mp3"
-    ],
+    "spectrum": {
+        "filename": "DUP_ARQ-2.jpg",
+        "url": null
+    },
+    "audio": {
+        "filename": "Dup-arq-2_(dat_2_08).mp3",
+        "url": null
+    },
     "category": [
         "Digital"
     ],

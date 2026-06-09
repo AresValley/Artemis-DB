@@ -1,12 +1,14 @@
 {
     "pageid": "6614",
     "title": "Meteomodem PilotSonde Weather Balloon",
-    "spectrum": [
-        "Pilotsonde.png"
-    ],
-    "audio": [
-        "Pilotsonde sample.mp3"
-    ],
+    "spectrum": {
+        "filename": "Pilotsonde.png",
+        "url": null
+    },
+    "audio": {
+        "filename": "Pilotsonde sample.mp3",
+        "url": null
+    },
     "category": [
         "Digital",
         "Utility"

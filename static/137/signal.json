@@ -1,12 +1,14 @@
 {
     "pageid": "137",
     "title": "High Frequency Data Link (HFDL)",
-    "spectrum": [
-        "HFDL.jpg"
-    ],
-    "audio": [
-        "HFDL_Sound.mp3"
-    ],
+    "spectrum": {
+        "filename": "HFDL.jpg",
+        "url": null
+    },
+    "audio": {
+        "filename": "HFDL_Sound.mp3",
+        "url": null
+    },
     "category": [
         "Aviation",
         "Digital"

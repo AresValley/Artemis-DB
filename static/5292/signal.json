@@ -1,12 +1,14 @@
 {
     "pageid": "5292",
     "title": "Bluetooth Low Energy",
-    "spectrum": [
-        "BLE.jpg"
-    ],
-    "audio": [
-        "BLE smart bracelet.mp3"
-    ],
+    "spectrum": {
+        "filename": "BLE.jpg",
+        "url": null
+    },
+    "audio": {
+        "filename": "BLE smart bracelet.mp3",
+        "url": null
+    },
     "category": [
         "Digital"
     ],

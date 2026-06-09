@@ -1,12 +1,14 @@
 {
     "pageid": "1305",
     "title": "HC-ARQ",
-    "spectrum": [
-        "HC-ARQ.jpg"
-    ],
-    "audio": [
-        "HC-ARQ.mp3"
-    ],
+    "spectrum": {
+        "filename": "HC-ARQ.jpg",
+        "url": null
+    },
+    "audio": {
+        "filename": "HC-ARQ.mp3",
+        "url": null
+    },
     "category": [
         "Digital"
     ],

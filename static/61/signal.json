@@ -1,12 +1,14 @@
 {
     "pageid": "61",
     "title": "Project 25 (P25)",
-    "spectrum": [
-        "P25.jpg"
-    ],
-    "audio": [
-        "P25_trunking_channel.mp3"
-    ],
+    "spectrum": {
+        "filename": "P25.jpg",
+        "url": null
+    },
+    "audio": {
+        "filename": "P25_trunking_channel.mp3",
+        "url": null
+    },
     "category": [
         "Trunked Radio",
         "Digital"

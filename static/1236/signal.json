@@ -1,12 +1,14 @@
 {
     "pageid": "1236",
     "title": "Contestia",
-    "spectrum": [
-        "Contestiathmb.png"
-    ],
-    "audio": [
-        "Contestia_8-250.mp3"
-    ],
+    "spectrum": {
+        "filename": "Contestiathmb.png",
+        "url": null
+    },
+    "audio": {
+        "filename": "Contestia_8-250.mp3",
+        "url": null
+    },
     "category": [
         "Amateur Radio",
         "Digital"

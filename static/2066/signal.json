@@ -1,12 +1,14 @@
 {
     "pageid": "2066",
     "title": "CCIR Selcall",
-    "spectrum": [
-        "Ccir-1_5-tone.jpg"
-    ],
-    "audio": [
-        "Ccir-1_5-tones.mp3"
-    ],
+    "spectrum": {
+        "filename": "Ccir-1_5-tone.jpg",
+        "url": null
+    },
+    "audio": {
+        "filename": "Ccir-1_5-tones.mp3",
+        "url": null
+    },
     "category": [
         "Analogue"
     ],

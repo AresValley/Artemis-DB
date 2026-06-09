@@ -1,12 +1,14 @@
 {
     "pageid": "1622",
     "title": "STANAG 4197",
-    "spectrum": [
-        "STANAG_4197.jpg"
-    ],
-    "audio": [
-        "S4197.mp3"
-    ],
+    "spectrum": {
+        "filename": "STANAG_4197.jpg",
+        "url": null
+    },
+    "audio": {
+        "filename": "S4197.mp3",
+        "url": null
+    },
     "category": [
         "Military",
         "Digital"

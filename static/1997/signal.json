@@ -1,12 +1,14 @@
 {
     "pageid": "1997",
     "title": "Graw DFM-06 Weather Balloon (Radiosonde)",
-    "spectrum": [
-        "Graw.jpg"
-    ],
-    "audio": [
-        "DFM06 404,710 MHz.mp3"
-    ],
+    "spectrum": {
+        "filename": "Graw.jpg",
+        "url": null
+    },
+    "audio": {
+        "filename": "DFM06 404,710 MHz.mp3",
+        "url": null
+    },
     "category": [
         "Digital",
         "Utility"

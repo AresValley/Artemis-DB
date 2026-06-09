@@ -1,12 +1,14 @@
 {
     "pageid": "4946",
     "title": "Meteomodem M10 Weather Balloon (Radiosonde)",
-    "spectrum": [
-        "M10-sigidwiki1.jpg"
-    ],
-    "audio": [
-        "SDRSharp 20171211 002407Z 400996820Hz.mp3"
-    ],
+    "spectrum": {
+        "filename": "M10-sigidwiki1.jpg",
+        "url": null
+    },
+    "audio": {
+        "filename": "SDRSharp 20171211 002407Z 400996820Hz.mp3",
+        "url": null
+    },
     "category": [
         "Digital",
         "Utility"

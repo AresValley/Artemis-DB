@@ -1,12 +1,14 @@
 {
     "pageid": "4852",
     "title": "NWC",
-    "spectrum": [
-        "HE Holt Australia (2).jpg"
-    ],
-    "audio": [
-        "HE Holt.mp3"
-    ],
+    "spectrum": {
+        "filename": "HE Holt Australia (2).jpg",
+        "url": null
+    },
+    "audio": {
+        "filename": "HE Holt.mp3",
+        "url": null
+    },
     "category": [
         "Military",
         "Digital"

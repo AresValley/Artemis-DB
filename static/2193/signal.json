@@ -1,12 +1,14 @@
 {
     "pageid": "2193",
     "title": "Radio Data System (RDS)",
-    "spectrum": [
-        "RBDS.png"
-    ],
-    "audio": [
-        "RDS.mp3"
-    ],
+    "spectrum": {
+        "filename": "RBDS.png",
+        "url": null
+    },
+    "audio": {
+        "filename": "RDS.mp3",
+        "url": null
+    },
     "category": [
         "Digital",
         "Commercial"

@@ -1,12 +1,14 @@
 {
     "pageid": "6626",
     "title": "ProVoice",
-    "spectrum": [
-        "Provoiceimg.png"
-    ],
-    "audio": [
-        "Provoice.mp3"
-    ],
+    "spectrum": {
+        "filename": "Provoiceimg.png",
+        "url": null
+    },
+    "audio": {
+        "filename": "Provoice.mp3",
+        "url": null
+    },
     "category": [
         "Digital",
         "Trunked Radio"

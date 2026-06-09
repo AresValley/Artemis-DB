@@ -1,12 +1,14 @@
 {
     "pageid": "158",
     "title": "Integrated Digital Enhanced Network (iDEN)",
-    "spectrum": [
-        "IDEN_image.jpg"
-    ],
-    "audio": [
-        "Channel_1.mp3"
-    ],
+    "spectrum": {
+        "filename": "IDEN_image.jpg",
+        "url": null
+    },
+    "audio": {
+        "filename": "Channel_1.mp3",
+        "url": null
+    },
     "category": [
         "Trunked Radio",
         "Digital"

@@ -1,10 +1,14 @@
 {
     "pageid": "2172",
     "title": "Narrow-Bandwidth Television (NBTV)",
-    "spectrum": [
-        "nbtv_32.gif"
-    ],
-    "audio": [],
+    "spectrum": {
+        "filename": "nbtv_32.gif",
+        "url": null
+    },
+    "audio": {
+        "filename": null,
+        "url": null
+    },
     "category": [
         "Amateur Radio"
     ],

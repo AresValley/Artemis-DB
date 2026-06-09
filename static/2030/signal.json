@@ -1,12 +1,14 @@
 {
     "pageid": "2030",
     "title": "Thales Système 3000 HF Modem",
-    "spectrum": [
-        "Systeme Thales ALE and Vx.jpg"
-    ],
-    "audio": [
-        "SYS3000-ALE.mp3"
-    ],
+    "spectrum": {
+        "filename": "Systeme Thales ALE and Vx.jpg",
+        "url": null
+    },
+    "audio": {
+        "filename": "SYS3000-ALE.mp3",
+        "url": null
+    },
     "category": [
         "Military"
     ],

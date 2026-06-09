@@ -1,12 +1,14 @@
 {
     "pageid": "4317",
     "title": "Supervisory Control And Data Acquisition (SCADA)",
-    "spectrum": [
-        "SCADA2.png"
-    ],
-    "audio": [
-        "SDRSharp 20170621 225600Z 952656250Hz AF.wav"
-    ],
+    "spectrum": {
+        "filename": "SCADA2.png",
+        "url": null
+    },
+    "audio": {
+        "filename": "SDRSharp 20170621 225600Z 952656250Hz AF.wav",
+        "url": null
+    },
     "category": [
         "Utility",
         "Digital"

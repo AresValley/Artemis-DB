@@ -1,12 +1,14 @@
 {
     "pageid": "5947",
     "title": "Smart TV Interference",
-    "spectrum": [
-        "528 11 August.png"
-    ],
-    "audio": [
-        "SDRSharp 20200812 011809Z 528385500Hz AF.wav"
-    ],
+    "spectrum": {
+        "filename": "528 11 August.png",
+        "url": null
+    },
+    "audio": {
+        "filename": "SDRSharp 20200812 011809Z 528385500Hz AF.wav",
+        "url": null
+    },
     "category": [
         "Interfering"
     ],

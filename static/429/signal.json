@@ -1,12 +1,14 @@
 {
     "pageid": "429",
     "title": "GMDSS Digital Selective Calling",
-    "spectrum": [
-        "DSC_GMDSS.jpg"
-    ],
-    "audio": [
-        "Dsc_examples.mp3"
-    ],
+    "spectrum": {
+        "filename": "DSC_GMDSS.jpg",
+        "url": null
+    },
+    "audio": {
+        "filename": "Dsc_examples.mp3",
+        "url": null
+    },
     "category": [
         "Marine",
         "Digital"

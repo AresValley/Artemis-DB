@@ -1,12 +1,14 @@
 {
     "pageid": "1570",
     "title": "CIS OFDM HDR Modem",
-    "spectrum": [
-        "CIS-45 33bd.jpg"
-    ],
-    "audio": [
-        "CIS-45 33.3bd tfc.mp3"
-    ],
+    "spectrum": {
+        "filename": "CIS-45 33bd.jpg",
+        "url": null
+    },
+    "audio": {
+        "filename": "CIS-45 33.3bd tfc.mp3",
+        "url": null
+    },
     "category": [
         "Military",
         "Digital"

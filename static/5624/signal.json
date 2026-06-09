@@ -1,12 +1,14 @@
 {
     "pageid": "5624",
     "title": "FT4",
-    "spectrum": [
-        "Ft42.png"
-    ],
-    "audio": [
-        "FT4 2020-02-16T16 22 52Z 14080.62 usb.wav"
-    ],
+    "spectrum": {
+        "filename": "Ft42.png",
+        "url": null
+    },
+    "audio": {
+        "filename": "FT4 2020-02-16T16 22 52Z 14080.62 usb.wav",
+        "url": null
+    },
     "category": [
         "Amateur Radio",
         "Digital"

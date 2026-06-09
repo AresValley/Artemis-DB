@@ -1,12 +1,14 @@
 {
     "pageid": "99",
     "title": "WEFAX",
-    "spectrum": [
-        "Weather_Fascimile.jpg"
-    ],
-    "audio": [
-        "WFaxData.mp3"
-    ],
+    "spectrum": {
+        "filename": "Weather_Fascimile.jpg",
+        "url": null
+    },
+    "audio": {
+        "filename": "WFaxData.mp3",
+        "url": null
+    },
     "category": [
         "Analogue"
     ],

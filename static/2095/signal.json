@@ -1,12 +1,14 @@
 {
     "pageid": "2095",
     "title": "Continuous Tone-Coded Squelch System (CTCSS)",
-    "spectrum": [
-        "CTCSS vce.jpg"
-    ],
-    "audio": [
-        "173.8 Hz SDRSharp_20150803_050241Z_482768kHz_AF.mp3"
-    ],
+    "spectrum": {
+        "filename": "CTCSS vce.jpg",
+        "url": null
+    },
+    "audio": {
+        "filename": "173.8 Hz SDRSharp_20150803_050241Z_482768kHz_AF.mp3",
+        "url": null
+    },
     "category": [],
     "frequency": [
         {

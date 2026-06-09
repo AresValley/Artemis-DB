@@ -1,12 +1,14 @@
 {
     "pageid": "8433",
     "title": "Chinese/Asian radio \"MDC1200\"",
-    "spectrum": [
-        "Fakemdc1200.png"
-    ],
-    "audio": [
-        "Audio 446070200Hz 17-25-07 13-03-2026.wav"
-    ],
+    "spectrum": {
+        "filename": "Fakemdc1200.png",
+        "url": null
+    },
+    "audio": {
+        "filename": "Audio 446070200Hz 17-25-07 13-03-2026.wav",
+        "url": null
+    },
     "category": [
         "Digital"
     ],

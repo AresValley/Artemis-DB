@@ -1,12 +1,14 @@
 {
     "pageid": "7872",
     "title": "Q65",
-    "spectrum": [
-        "Q65-30A.png"
-    ],
-    "audio": [
-        "Q65-30A.ogg"
-    ],
+    "spectrum": {
+        "filename": "Q65-30A.png",
+        "url": null
+    },
+    "audio": {
+        "filename": "Q65-30A.ogg",
+        "url": null
+    },
     "category": [
         "Digital"
     ],

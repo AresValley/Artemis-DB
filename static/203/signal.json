@@ -1,12 +1,14 @@
 {
     "pageid": "203",
     "title": "FLEX",
-    "spectrum": [
-        "FLEX.jpg"
-    ],
-    "audio": [
-        "FLEX.mp3"
-    ],
+    "spectrum": {
+        "filename": "FLEX.jpg",
+        "url": null
+    },
+    "audio": {
+        "filename": "FLEX.mp3",
+        "url": null
+    },
     "category": [
         "Digital",
         "Commercial"

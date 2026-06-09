@@ -1,12 +1,14 @@
 {
     "pageid": "3151",
     "title": "POL-ARQ",
-    "spectrum": [
-        "POL-ARQ.png"
-    ],
-    "audio": [
-        "Polarq.mp3"
-    ],
+    "spectrum": {
+        "filename": "POL-ARQ.png",
+        "url": null
+    },
+    "audio": {
+        "filename": "Polarq.mp3",
+        "url": null
+    },
     "category": [
         "Digital"
     ],

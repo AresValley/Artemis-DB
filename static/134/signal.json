@@ -1,12 +1,14 @@
 {
     "pageid": "134",
     "title": "Redundant Digital File Transfer (RDFT)",
-    "spectrum": [
-        "Digtrx_intro.jpg"
-    ],
-    "audio": [
-        "DIGTRX_INTRO.mp3"
-    ],
+    "spectrum": {
+        "filename": "Digtrx_intro.jpg",
+        "url": null
+    },
+    "audio": {
+        "filename": "DIGTRX_INTRO.mp3",
+        "url": null
+    },
     "category": [
         "Amateur Radio",
         "Numbers Stations",

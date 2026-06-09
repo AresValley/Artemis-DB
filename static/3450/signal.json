@@ -1,12 +1,14 @@
 {
     "pageid": "3450",
     "title": "Yugoslavian 20-Tone Modem",
-    "spectrum": [
-        "Yug Mil.jpg"
-    ],
-    "audio": [
-        "YUG-MIL_20-tone.mp3"
-    ],
+    "spectrum": {
+        "filename": "Yug Mil.jpg",
+        "url": null
+    },
+    "audio": {
+        "filename": "YUG-MIL_20-tone.mp3",
+        "url": null
+    },
     "category": [
         "Digital",
         "Military"

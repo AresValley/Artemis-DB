@@ -1,12 +1,14 @@
 {
     "pageid": "689",
     "title": "CIS-3000",
-    "spectrum": [
-        "CIS-3000.jpg"
-    ],
-    "audio": [
-        "CIS-3000audio.mp3"
-    ],
+    "spectrum": {
+        "filename": "CIS-3000.jpg",
+        "url": null
+    },
+    "audio": {
+        "filename": "CIS-3000audio.mp3",
+        "url": null
+    },
     "category": [
         "Military",
         "Digital"

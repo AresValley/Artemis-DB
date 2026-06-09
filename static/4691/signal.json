@@ -1,12 +1,14 @@
 {
     "pageid": "4691",
     "title": "Hyundai Mobis RKE-4F16 Key Fob",
-    "spectrum": [
-        "Hyundai Key Fob.jpg"
-    ],
-    "audio": [
-        "TQ8-RKE Audio.mp3"
-    ],
+    "spectrum": {
+        "filename": "Hyundai Key Fob.jpg",
+        "url": null
+    },
+    "audio": {
+        "filename": "TQ8-RKE Audio.mp3",
+        "url": null
+    },
     "category": [
         "Utility",
         "Digital"

@@ -1,12 +1,14 @@
 {
     "pageid": "3220",
     "title": "PAX",
-    "spectrum": [
-        "PAX.jpg"
-    ],
-    "audio": [
-        "PAX.mp3"
-    ],
+    "spectrum": {
+        "filename": "PAX.jpg",
+        "url": null
+    },
+    "audio": {
+        "filename": "PAX.mp3",
+        "url": null
+    },
     "category": [
         "Digital",
         "Amateur Radio"

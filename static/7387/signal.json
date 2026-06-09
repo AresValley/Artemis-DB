@@ -1,12 +1,14 @@
 {
     "pageid": "7387",
     "title": "Russian MFSK-OFDM-chirp hybrid modem",
-    "spectrum": [
-        "Unknown data mfsk sweep ofdm medium.png"
-    ],
-    "audio": [
-        "Unknown data mfsk sweep ofdm sample.ogg"
-    ],
+    "spectrum": {
+        "filename": "Unknown data mfsk sweep ofdm medium.png",
+        "url": null
+    },
+    "audio": {
+        "filename": "Unknown data mfsk sweep ofdm sample.ogg",
+        "url": null
+    },
     "category": [
         "Digital",
         "Military"

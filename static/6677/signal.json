@@ -1,12 +1,14 @@
 {
     "pageid": "6677",
     "title": "Single frequency russian overhead power line telemetry system",
-    "spectrum": [
-        "Lep2smalll.png"
-    ],
-    "audio": [
-        "Lep single.mp3"
-    ],
+    "spectrum": {
+        "filename": "Lep2smalll.png",
+        "url": null
+    },
+    "audio": {
+        "filename": "Lep single.mp3",
+        "url": null
+    },
     "category": [
         "Digital"
     ],

@@ -1,10 +1,14 @@
 {
     "pageid": "4683",
     "title": "MDC-4800",
-    "spectrum": [],
-    "audio": [
-        "mdc4800.mp3"
-    ],
+    "spectrum": {
+        "filename": null,
+        "url": null
+    },
+    "audio": {
+        "filename": "mdc4800.mp3",
+        "url": null
+    },
     "category": [
         "Digital"
     ],

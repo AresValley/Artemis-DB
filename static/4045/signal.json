@@ -1,12 +1,14 @@
 {
     "pageid": "4045",
     "title": "Link-11 (UHF)",
-    "spectrum": [
-        "Link-11_UHF.jpg"
-    ],
-    "audio": [
-        "Link-11_UHF.mp3"
-    ],
+    "spectrum": {
+        "filename": "Link-11_UHF.jpg",
+        "url": null
+    },
+    "audio": {
+        "filename": "Link-11_UHF.mp3",
+        "url": null
+    },
     "category": [
         "Military",
         "Digital"

@@ -1,12 +1,14 @@
 {
     "pageid": "5450",
     "title": "'Vario' Airplane Data Controller",
-    "spectrum": [
-        "altitude.jpg"
-    ],
-    "audio": [
-        "Sigid12-Jun-2019 15h54m18s - 462.611.5 MHz, NFM.mp3"
-    ],
+    "spectrum": {
+        "filename": "altitude.jpg",
+        "url": null
+    },
+    "audio": {
+        "filename": "Sigid12-Jun-2019 15h54m18s - 462.611.5 MHz, NFM.mp3",
+        "url": null
+    },
     "category": [
         "Navigation",
         "Aviation",

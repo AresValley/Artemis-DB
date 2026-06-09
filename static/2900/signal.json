@@ -1,12 +1,14 @@
 {
     "pageid": "2900",
     "title": "Iranian Navy QPSK Modem",
-    "spectrum": [
-        "Iranian Navy QPSK 468.jpg"
-    ],
-    "audio": [
-        "strange 8475.mp3"
-    ],
+    "spectrum": {
+        "filename": "Iranian Navy QPSK 468.jpg",
+        "url": null
+    },
+    "audio": {
+        "filename": "strange 8475.mp3",
+        "url": null
+    },
     "category": [
         "Military",
         "Digital"

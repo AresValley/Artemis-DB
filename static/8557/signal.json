@@ -1,12 +1,14 @@
 {
     "pageid": "8557",
     "title": "AUDI keyfob",
-    "spectrum": [
-        "Audi keyfob.jpg"
-    ],
-    "audio": [
-        "Audi_keyfob.mp3"
-    ],
+    "spectrum": {
+        "filename": "Audi keyfob.jpg",
+        "url": null
+    },
+    "audio": {
+        "filename": "Audi_keyfob.mp3",
+        "url": null
+    },
     "category": [
         "Digital",
         "Utility"

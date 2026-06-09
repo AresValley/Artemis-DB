@@ -1,12 +1,14 @@
 {
     "pageid": "7075",
     "title": "Broadband Global Area Network (BGAN)",
-    "spectrum": [
-        "Bgan.png"
-    ],
-    "audio": [
-        "Bgan wfm.mp3"
-    ],
+    "spectrum": {
+        "filename": "Bgan.png",
+        "url": null
+    },
+    "audio": {
+        "filename": "Bgan wfm.mp3",
+        "url": null
+    },
     "category": [
         "Commercial",
         "Digital",

@@ -1,12 +1,14 @@
 {
     "pageid": "1846",
     "title": "Israeli VFT",
-    "spectrum": [
-        "Preamble.jpg"
-    ],
-    "audio": [
-        "full USB 4xPSK-75.mp3"
-    ],
+    "spectrum": {
+        "filename": "Preamble.jpg",
+        "url": null
+    },
+    "audio": {
+        "filename": "full USB 4xPSK-75.mp3",
+        "url": null
+    },
     "category": [
         "Digital",
         "Military"

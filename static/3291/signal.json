@@ -1,12 +1,14 @@
 {
     "pageid": "3291",
     "title": "SI-FEC",
-    "spectrum": [
-        "SI-FEC.png"
-    ],
-    "audio": [
-        "si-fec (dat 8_11).mp3"
-    ],
+    "spectrum": {
+        "filename": "SI-FEC.png",
+        "url": null
+    },
+    "audio": {
+        "filename": "si-fec (dat 8_11).mp3",
+        "url": null
+    },
     "category": [
         "Digital"
     ],

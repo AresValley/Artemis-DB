@@ -1,12 +1,14 @@
 {
     "pageid": "1734",
     "title": "Bluetooth",
-    "spectrum": [
-        "blut.png"
-    ],
-    "audio": [
-        "Bluetooth.mp3"
-    ],
+    "spectrum": {
+        "filename": "blut.png",
+        "url": null
+    },
+    "audio": {
+        "filename": "Bluetooth.mp3",
+        "url": null
+    },
     "category": [
         "Digital",
         "Utility"

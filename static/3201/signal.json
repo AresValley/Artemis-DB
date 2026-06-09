@@ -1,12 +1,14 @@
 {
     "pageid": "3201",
     "title": "Robust PACKET",
-    "spectrum": [
-        "Robust PACKET.jpg"
-    ],
-    "audio": [
-        "robust-packet.mp3"
-    ],
+    "spectrum": {
+        "filename": "Robust PACKET.jpg",
+        "url": null
+    },
+    "audio": {
+        "filename": "robust-packet.mp3",
+        "url": null
+    },
     "category": [
         "Digital",
         "Amateur Radio"

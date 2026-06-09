@@ -1,12 +1,14 @@
 {
     "pageid": "1391",
     "title": "Non-Directional Beacon (NDB)",
-    "spectrum": [
-        "Ndb-pes.jpg"
-    ],
-    "audio": [
-        "NDB.mp3"
-    ],
+    "spectrum": {
+        "filename": "Ndb-pes.jpg",
+        "url": null
+    },
+    "audio": {
+        "filename": "NDB.mp3",
+        "url": null
+    },
     "category": [
         "Aviation",
         "Navigation"

@@ -1,12 +1,14 @@
 {
     "pageid": "5607",
     "title": "Electric Fence Remote Control",
-    "spectrum": [
-        "SIGNAL-LINSEG.png"
-    ],
-    "audio": [
-        "Linseg Remote Control Signal.mp3"
-    ],
+    "spectrum": {
+        "filename": "SIGNAL-LINSEG.png",
+        "url": null
+    },
+    "audio": {
+        "filename": "Linseg Remote Control Signal.mp3",
+        "url": null
+    },
     "category": [
         "Utility",
         "Digital"

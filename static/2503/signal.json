@@ -1,12 +1,14 @@
 {
     "pageid": "2503",
     "title": "UHF Vehicle Location System",
-    "spectrum": [
-        "unk data link .jpg"
-    ],
-    "audio": [
-        "Data_link_nyc_477587kHz_AF.mp3"
-    ],
+    "spectrum": {
+        "filename": "unk data link .jpg",
+        "url": null
+    },
+    "audio": {
+        "filename": "Data_link_nyc_477587kHz_AF.mp3",
+        "url": null
+    },
     "category": [
         "Digital",
         "Commercial"

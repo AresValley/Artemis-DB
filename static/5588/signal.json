@@ -1,12 +1,14 @@
 {
     "pageid": "5588",
     "title": "The Alarm",
-    "spectrum": [
-        "TheAlarm.png"
-    ],
-    "audio": [
-        "TheAlarm_audio.wav"
-    ],
+    "spectrum": {
+        "filename": "TheAlarm.png",
+        "url": null
+    },
+    "audio": {
+        "filename": "TheAlarm_audio.wav",
+        "url": null
+    },
     "category": [
         "Military"
     ],

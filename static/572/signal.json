@@ -1,12 +1,14 @@
 {
     "pageid": "572",
     "title": "VHF Omnidirectional Range (VOR)",
-    "spectrum": [
-        "VORthmbnew.png"
-    ],
-    "audio": [
-        "VOR_sound.mp3"
-    ],
+    "spectrum": {
+        "filename": "VORthmbnew.png",
+        "url": null
+    },
+    "audio": {
+        "filename": "VOR_sound.mp3",
+        "url": null
+    },
     "category": [
         "Aviation",
         "Navigation"

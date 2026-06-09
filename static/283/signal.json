@@ -1,12 +1,14 @@
 {
     "pageid": "283",
     "title": "Binary Interchange of Information and Signaling (BIIS)",
-    "spectrum": [
-        "BIISthmb.jpg"
-    ],
-    "audio": [
-        "BIISsound.mp3"
-    ],
+    "spectrum": {
+        "filename": "BIISthmb.jpg",
+        "url": null
+    },
+    "audio": {
+        "filename": "BIISsound.mp3",
+        "url": null
+    },
     "category": [
         "Digital"
     ],

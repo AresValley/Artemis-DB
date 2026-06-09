@@ -1,12 +1,14 @@
 {
     "pageid": "7761",
     "title": "Possible quarry telemetry",
-    "spectrum": [
-        "2025-01-01 21 02 28-.png"
-    ],
-    "audio": [
-        "20250101.wav"
-    ],
+    "spectrum": {
+        "filename": "2025-01-01 21 02 28-.png",
+        "url": null
+    },
+    "audio": {
+        "filename": "20250101.wav",
+        "url": null
+    },
     "category": [
         "Digital"
     ],

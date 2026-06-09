@@ -1,12 +1,14 @@
 {
     "pageid": "7108",
     "title": "AKKORD-SS-PD",
-    "spectrum": [
-        "AKKORD-SS-PD.png"
-    ],
-    "audio": [
-        "AKKORD.mp3"
-    ],
+    "spectrum": {
+        "filename": "AKKORD-SS-PD.png",
+        "url": null
+    },
+    "audio": {
+        "filename": "AKKORD.mp3",
+        "url": null
+    },
     "category": [
         "Military",
         "Digital"

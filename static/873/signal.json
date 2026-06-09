@@ -1,12 +1,14 @@
 {
     "pageid": "873",
     "title": "HyperFix",
-    "spectrum": [
-        "Hyperfix.jpg"
-    ],
-    "audio": [
-        "Hyperfixaudio.mp3"
-    ],
+    "spectrum": {
+        "filename": "Hyperfix.jpg",
+        "url": null
+    },
+    "audio": {
+        "filename": "Hyperfixaudio.mp3",
+        "url": null
+    },
     "category": [
         "Marine",
         "Navigation"

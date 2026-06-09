@@ -1,12 +1,14 @@
 {
     "pageid": "2831",
     "title": "Polish Intelligence 100bd 625Hz FSK",
-    "spectrum": [
-        "F11.png"
-    ],
-    "audio": [
-        "POL-2015-04-29-0845utc.mp3"
-    ],
+    "spectrum": {
+        "filename": "F11.png",
+        "url": null
+    },
+    "audio": {
+        "filename": "POL-2015-04-29-0845utc.mp3",
+        "url": null
+    },
     "category": [
         "Digital",
         "Numbers Stations"

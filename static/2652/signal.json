@@ -1,12 +1,14 @@
 {
     "pageid": "2652",
     "title": "Lightning Sferics",
-    "spectrum": [
-        "Lightening Sfpherics.png"
-    ],
-    "audio": [
-        "thundr.mp3"
-    ],
+    "spectrum": {
+        "filename": "Lightening Sfpherics.png",
+        "url": null
+    },
+    "audio": {
+        "filename": "thundr.mp3",
+        "url": null
+    },
     "category": [
         "Interfering"
     ],

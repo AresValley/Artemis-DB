@@ -1,12 +1,14 @@
 {
     "pageid": "5403",
     "title": "SNOTEL (Snow Telemetry)",
-    "spectrum": [
-        "SNOTEL.png"
-    ],
-    "audio": [
-        "HDSDR 20190520 230611Z 40670kHz AF.wav"
-    ],
+    "spectrum": {
+        "filename": "SNOTEL.png",
+        "url": null
+    },
+    "audio": {
+        "filename": "HDSDR 20190520 230611Z 40670kHz AF.wav",
+        "url": null
+    },
     "category": [
         "Utility"
     ],

@@ -1,12 +1,14 @@
 {
     "pageid": "6895",
     "title": "77Ya6 'Voronezh' radar",
-    "spectrum": [
-        "Voronezh-dm-437-439-mhz.jpeg"
-    ],
-    "audio": [
-        "Voronezh.mp3"
-    ],
+    "spectrum": {
+        "filename": "Voronezh-dm-437-439-mhz.jpeg",
+        "url": null
+    },
+    "audio": {
+        "filename": "Voronezh.mp3",
+        "url": null
+    },
     "category": [
         "Military",
         "Radar"

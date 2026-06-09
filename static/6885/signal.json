@@ -1,12 +1,14 @@
 {
     "pageid": "6885",
     "title": "FST4W",
-    "spectrum": [
-        "FST4W-120.png"
-    ],
-    "audio": [
-        "FST4W-120.ogg"
-    ],
+    "spectrum": {
+        "filename": "FST4W-120.png",
+        "url": null
+    },
+    "audio": {
+        "filename": "FST4W-120.ogg",
+        "url": null
+    },
     "category": [
         "Amateur Radio",
         "Digital"

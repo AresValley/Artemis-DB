@@ -1,12 +1,14 @@
 {
     "pageid": "8512",
     "title": "5G (NR) New Radio Uplink",
-    "spectrum": [
-        "NR_O2_15_uplink.jpg"
-    ],
-    "audio": [
-        "NR_O2_15_uplink.mp3"
-    ],
+    "spectrum": {
+        "filename": "NR_O2_15_uplink.jpg",
+        "url": null
+    },
+    "audio": {
+        "filename": "NR_O2_15_uplink.mp3",
+        "url": null
+    },
     "category": [
         "Digital",
         "Commercial"

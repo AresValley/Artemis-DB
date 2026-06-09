@@ -1,8 +1,14 @@
 {
     "pageid": "5485",
     "title": "DFM-09",
-    "spectrum": [],
-    "audio": [],
+    "spectrum": {
+        "filename": null,
+        "url": null
+    },
+    "audio": {
+        "filename": null,
+        "url": null
+    },
     "category": [
         "Utility"
     ],

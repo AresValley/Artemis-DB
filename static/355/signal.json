@@ -1,12 +1,14 @@
 {
     "pageid": "355",
     "title": "Digital Audio Broadcasting Plus (DAB+)",
-    "spectrum": [
-        "Dab+.JPG"
-    ],
-    "audio": [
-        "SDRSharp 20181030 033126Z 205837723Hz AF.mp3"
-    ],
+    "spectrum": {
+        "filename": "Dab+.JPG",
+        "url": null
+    },
+    "audio": {
+        "filename": "SDRSharp 20181030 033126Z 205837723Hz AF.mp3",
+        "url": null
+    },
     "category": [
         "Digital",
         "Commercial"

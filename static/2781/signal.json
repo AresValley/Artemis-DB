@@ -1,12 +1,14 @@
 {
     "pageid": "2781",
     "title": "VEZHA-S",
-    "spectrum": [
-        "RUS_FSK_COMMS.jpg"
-    ],
-    "audio": [
-        "RUS_VEZHA.mp3"
-    ],
+    "spectrum": {
+        "filename": "RUS_FSK_COMMS.jpg",
+        "url": null
+    },
+    "audio": {
+        "filename": "RUS_VEZHA.mp3",
+        "url": null
+    },
     "category": [
         "Digital"
     ],

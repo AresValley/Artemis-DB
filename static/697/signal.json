@@ -1,12 +1,14 @@
 {
     "pageid": "697",
     "title": "UTC (Coordinated Universal Time) Time Standard",
-    "spectrum": [
-        "UTC_Image.jpg"
-    ],
-    "audio": [
-        "UTC_Audio.mp3"
-    ],
+    "spectrum": {
+        "filename": "UTC_Image.jpg",
+        "url": null
+    },
+    "audio": {
+        "filename": "UTC_Audio.mp3",
+        "url": null
+    },
     "category": [
         "Time"
     ],

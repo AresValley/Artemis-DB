@@ -1,10 +1,14 @@
 {
     "pageid": "6997",
     "title": "GOES CDA Telemetry",
-    "spectrum": [
-        "Cda.png"
-    ],
-    "audio": [],
+    "spectrum": {
+        "filename": "Cda.png",
+        "url": null
+    },
+    "audio": {
+        "filename": null,
+        "url": null
+    },
     "category": [
         "Satellite"
     ],

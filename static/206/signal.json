@@ -1,12 +1,14 @@
 {
     "pageid": "206",
     "title": "Digital Video Broadcasting — Terrestrial (DVB-T)",
-    "spectrum": [
-        "DVB-T image.jpg"
-    ],
-    "audio": [
-        "DVB-t.mp3"
-    ],
+    "spectrum": {
+        "filename": "DVB-T image.jpg",
+        "url": null
+    },
+    "audio": {
+        "filename": "DVB-t.mp3",
+        "url": null
+    },
     "category": [
         "Digital",
         "Commercial"

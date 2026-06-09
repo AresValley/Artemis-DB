@@ -1,12 +1,14 @@
 {
     "pageid": "3581",
     "title": "Wireless Temperature Sensor",
-    "spectrum": [
-        "WTS.png"
-    ],
-    "audio": [
-        "SDRSharp 20160326 002438Z 433992kHz AF Flinders Uni Freezer Telemetry.mp3"
-    ],
+    "spectrum": {
+        "filename": "WTS.png",
+        "url": null
+    },
+    "audio": {
+        "filename": "SDRSharp 20160326 002438Z 433992kHz AF Flinders Uni Freezer Telemetry.mp3",
+        "url": null
+    },
     "category": [
         "Commercial",
         "Digital",

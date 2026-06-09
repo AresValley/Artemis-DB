@@ -1,12 +1,14 @@
 {
     "pageid": "4274",
     "title": "49MHz RC Car Controller",
-    "spectrum": [
-        "Zx24o2.PNG"
-    ],
-    "audio": [
-        "Recording_126_.mp3"
-    ],
+    "spectrum": {
+        "filename": "Zx24o2.PNG",
+        "url": null
+    },
+    "audio": {
+        "filename": "Recording_126_.mp3",
+        "url": null
+    },
     "category": [
         "Utility",
         "Digital"

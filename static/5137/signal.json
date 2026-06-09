@@ -1,12 +1,14 @@
 {
     "pageid": "5137",
     "title": "WSPR",
-    "spectrum": [
-        "WSPR.png"
-    ],
-    "audio": [
-        "WSPR audio.mp3"
-    ],
+    "spectrum": {
+        "filename": "WSPR.png",
+        "url": null
+    },
+    "audio": {
+        "filename": "WSPR audio.mp3",
+        "url": null
+    },
     "category": [
         "Amateur Radio",
         "Digital"

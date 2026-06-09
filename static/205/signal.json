@@ -1,12 +1,14 @@
 {
     "pageid": "205",
     "title": "LoJack",
-    "spectrum": [
-        "Lojack.jpg"
-    ],
-    "audio": [
-        "Traqueur_164.1750_FSK_(2).mp3"
-    ],
+    "spectrum": {
+        "filename": "Lojack.jpg",
+        "url": null
+    },
+    "audio": {
+        "filename": "Traqueur_164.1750_FSK_(2).mp3",
+        "url": null
+    },
     "category": [
         "Utility"
     ],

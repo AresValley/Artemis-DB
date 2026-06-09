@@ -1,12 +1,14 @@
 {
     "pageid": "483",
     "title": "29B6 'Kontayner' OTH Radar",
-    "spectrum": [
-        "Kontainer.png"
-    ],
-    "audio": [
-        "29B6 40Hz USB 5kHz.ogg"
-    ],
+    "spectrum": {
+        "filename": "Kontainer.png",
+        "url": null
+    },
+    "audio": {
+        "filename": "29B6 40Hz USB 5kHz.ogg",
+        "url": null
+    },
     "category": [
         "Military",
         "Radar"

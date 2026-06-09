@@ -1,12 +1,14 @@
 {
     "pageid": "2416",
     "title": "CLOVER 2500",
-    "spectrum": [
-        "CLOVER-2500.jpg"
-    ],
-    "audio": [
-        "Clover-2500.mp3"
-    ],
+    "spectrum": {
+        "filename": "CLOVER-2500.jpg",
+        "url": null
+    },
+    "audio": {
+        "filename": "Clover-2500.mp3",
+        "url": null
+    },
     "category": [
         "Digital",
         "Amateur Radio"

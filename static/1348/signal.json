@@ -1,12 +1,14 @@
 {
     "pageid": "1348",
     "title": "JT9",
-    "spectrum": [
-        "JT9.png"
-    ],
-    "audio": [
-        "JT9.mp3"
-    ],
+    "spectrum": {
+        "filename": "JT9.png",
+        "url": null
+    },
+    "audio": {
+        "filename": "JT9.mp3",
+        "url": null
+    },
     "category": [
         "Amateur Radio",
         "Digital"

@@ -1,12 +1,14 @@
 {
     "pageid": "6560",
     "title": "Primary Aeronautical Surveillance Radar",
-    "spectrum": [
-        "L-band radar.JPG"
-    ],
-    "audio": [
-        "L-band aero radar.mp3"
-    ],
+    "spectrum": {
+        "filename": "L-band radar.JPG",
+        "url": null
+    },
+    "audio": {
+        "filename": "L-band aero radar.mp3",
+        "url": null
+    },
     "category": [
         "Radar",
         "Commercial",

@@ -1,12 +1,14 @@
 {
     "pageid": "3661",
     "title": "WLO",
-    "spectrum": [
-        "Wlo.png"
-    ],
-    "audio": [
-        "Wlo AF.mp3"
-    ],
+    "spectrum": {
+        "filename": "Wlo.png",
+        "url": null
+    },
+    "audio": {
+        "filename": "Wlo AF.mp3",
+        "url": null
+    },
     "category": [
         "Marine"
     ],

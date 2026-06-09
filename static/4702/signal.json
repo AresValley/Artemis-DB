@@ -1,12 +1,14 @@
 {
     "pageid": "4702",
     "title": "FT8",
-    "spectrum": [
-        "FT8.png"
-    ],
-    "audio": [
-        "FT8audio.mp3"
-    ],
+    "spectrum": {
+        "filename": "FT8.png",
+        "url": null
+    },
+    "audio": {
+        "filename": "FT8audio.mp3",
+        "url": null
+    },
     "category": [
         "Digital",
         "Amateur Radio"

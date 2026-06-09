@@ -1,12 +1,14 @@
 {
     "pageid": "2986",
     "title": "DUP-ARQ",
-    "spectrum": [
-        "DUP ARQ.jpg"
-    ],
-    "audio": [
-        "Dup-arq (dat 8 08).mp3"
-    ],
+    "spectrum": {
+        "filename": "DUP ARQ.jpg",
+        "url": null
+    },
+    "audio": {
+        "filename": "Dup-arq (dat 8 08).mp3",
+        "url": null
+    },
     "category": [
         "Digital"
     ],

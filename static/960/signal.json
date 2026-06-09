@@ -1,12 +1,14 @@
 {
     "pageid": "960",
     "title": "Slow-Scan Television (SSTV)",
-    "spectrum": [
-        "Robot_36waterfall.jpg"
-    ],
-    "audio": [
-        "Robot_36_prev.mp3"
-    ],
+    "spectrum": {
+        "filename": "Robot_36waterfall.jpg",
+        "url": null
+    },
+    "audio": {
+        "filename": "Robot_36_prev.mp3",
+        "url": null
+    },
     "category": [
         "Amateur Radio",
         "Analogue"

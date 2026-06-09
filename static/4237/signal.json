@@ -1,12 +1,14 @@
 {
     "pageid": "4237",
     "title": "Alps Electric Co. TWB1U840 Key Fob",
-    "spectrum": [
-        "nissan_2012.jpg"
-    ],
-    "audio": [
-        "TWB1U840 audio.mp3"
-    ],
+    "spectrum": {
+        "filename": "nissan_2012.jpg",
+        "url": null
+    },
+    "audio": {
+        "filename": "TWB1U840 audio.mp3",
+        "url": null
+    },
     "category": [
         "Digital",
         "Utility"

@@ -1,10 +1,14 @@
 {
     "pageid": "6945",
     "title": "Aqua Direct Broadcast (DB)",
-    "spectrum": [
-        "Aqua DB.png"
-    ],
-    "audio": [],
+    "spectrum": {
+        "filename": "Aqua DB.png",
+        "url": null
+    },
+    "audio": {
+        "filename": null,
+        "url": null
+    },
     "category": [
         "Satellite"
     ],

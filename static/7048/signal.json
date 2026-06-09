@@ -1,12 +1,14 @@
 {
     "pageid": "7048",
     "title": "LTE420 MCX",
-    "spectrum": [
-        "LTE-M.png"
-    ],
-    "audio": [
-        "LTEM.mp3"
-    ],
+    "spectrum": {
+        "filename": "LTE-M.png",
+        "url": null
+    },
+    "audio": {
+        "filename": "LTEM.mp3",
+        "url": null
+    },
     "category": [
         "Commercial",
         "Digital"

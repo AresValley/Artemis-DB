@@ -1,12 +1,14 @@
 {
     "pageid": "704",
     "title": "Russian Diplo VFT PSK 64Bd",
-    "spectrum": [
-        "CIS_unk.jpg"
-    ],
-    "audio": [
-        "CIS_3xPSK_tfc.ogg"
-    ],
+    "spectrum": {
+        "filename": "CIS_unk.jpg",
+        "url": null
+    },
+    "audio": {
+        "filename": "CIS_3xPSK_tfc.ogg",
+        "url": null
+    },
     "category": [
         "Digital",
         "Numbers Stations"

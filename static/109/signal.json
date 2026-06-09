@@ -1,12 +1,14 @@
 {
     "pageid": "109",
     "title": "Digital Audio Broadcasting (DAB)",
-    "spectrum": [
-        "Dab+.JPG"
-    ],
-    "audio": [
-        "Dab+.mp3"
-    ],
+    "spectrum": {
+        "filename": "Dab+.JPG",
+        "url": null
+    },
+    "audio": {
+        "filename": "Dab+.mp3",
+        "url": null
+    },
     "category": [
         "Digital",
         "Commercial"

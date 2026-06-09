@@ -1,12 +1,14 @@
 {
     "pageid": "4776",
     "title": "Road Coordination/Maintenance Telemetry",
-    "spectrum": [
-        "Weird signal in vhf band.PNG"
-    ],
-    "audio": [
-        "SDRSharp_20171204_074409Z_151010000Hz_AF.wav"
-    ],
+    "spectrum": {
+        "filename": "Weird signal in vhf band.PNG",
+        "url": null
+    },
+    "audio": {
+        "filename": "SDRSharp_20171204_074409Z_151010000Hz_AF.wav",
+        "url": null
+    },
     "category": [
         "Digital",
         "Utility"

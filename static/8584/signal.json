@@ -1,12 +1,14 @@
 {
     "pageid": "8584",
     "title": "LRS restaurant pager",
-    "spectrum": [
-        "LRS.jpg"
-    ],
-    "audio": [
-        "LRS.mp3"
-    ],
+    "spectrum": {
+        "filename": "LRS.jpg",
+        "url": null
+    },
+    "audio": {
+        "filename": "LRS.mp3",
+        "url": null
+    },
     "category": [
         "Digital",
         "Utility"

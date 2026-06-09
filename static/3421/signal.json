@@ -1,12 +1,14 @@
 {
     "pageid": "3421",
     "title": "RAC-ARQ",
-    "spectrum": [
-        "RAC-ARQ.jpg"
-    ],
-    "audio": [
-        "merod_mode3 266 Bd 800 Hz.mp3"
-    ],
+    "spectrum": {
+        "filename": "RAC-ARQ.jpg",
+        "url": null
+    },
+    "audio": {
+        "filename": "merod_mode3 266 Bd 800 Hz.mp3",
+        "url": null
+    },
     "category": [
         "Digital"
     ],

@@ -1,12 +1,14 @@
 {
     "pageid": "4081",
     "title": "BPM",
-    "spectrum": [
-        "BPM.jpg"
-    ],
-    "audio": [
-        "BPM morse to voice to 10ms.ogg"
-    ],
+    "spectrum": {
+        "filename": "BPM.jpg",
+        "url": null
+    },
+    "audio": {
+        "filename": "BPM morse to voice to 10ms.ogg",
+        "url": null
+    },
     "category": [
         "Time"
     ],

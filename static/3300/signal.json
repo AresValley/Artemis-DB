@@ -1,12 +1,14 @@
 {
     "pageid": "3300",
     "title": "STANAG 5065",
-    "spectrum": [
-        "STANAG 5065 FSK.jpg"
-    ],
-    "audio": [
-        "stanag-5065-fsk.mp3"
-    ],
+    "spectrum": {
+        "filename": "STANAG 5065 FSK.jpg",
+        "url": null
+    },
+    "audio": {
+        "filename": "stanag-5065-fsk.mp3",
+        "url": null
+    },
     "category": [
         "Military",
         "Digital"

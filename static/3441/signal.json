@@ -1,12 +1,14 @@
 {
     "pageid": "3441",
     "title": "Yugoslavian 16-Tone Modem",
-    "spectrum": [
-        "YUG 16 tone.jpg"
-    ],
-    "audio": [
-        "YUG16-TONE.mp3"
-    ],
+    "spectrum": {
+        "filename": "YUG 16 tone.jpg",
+        "url": null
+    },
+    "audio": {
+        "filename": "YUG16-TONE.mp3",
+        "url": null
+    },
     "category": [
         "Digital"
     ],

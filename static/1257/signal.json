@@ -1,12 +1,14 @@
 {
     "pageid": "1257",
     "title": "Driftnet Buoy Radio Beacon",
-    "spectrum": [
-        "DriftnetBuoyDrift.jpg"
-    ],
-    "audio": [
-        "GLFdrift.mp3"
-    ],
+    "spectrum": {
+        "filename": "DriftnetBuoyDrift.jpg",
+        "url": null
+    },
+    "audio": {
+        "filename": "GLFdrift.mp3",
+        "url": null
+    },
     "category": [
         "Marine"
     ],

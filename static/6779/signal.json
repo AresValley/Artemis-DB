@@ -1,10 +1,14 @@
 {
     "pageid": "6779",
     "title": "CLOUDSAT Downlink",
-    "spectrum": [
-        "Cloudsat dump.png"
-    ],
-    "audio": [],
+    "spectrum": {
+        "filename": "Cloudsat dump.png",
+        "url": null
+    },
+    "audio": {
+        "filename": null,
+        "url": null
+    },
     "category": [
         "Satellite",
         "Digital"

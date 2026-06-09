@@ -1,10 +1,14 @@
 {
     "pageid": "5823",
     "title": "HDMI RFI Clock",
-    "spectrum": [
-        "HDMI clock 4rd.png"
-    ],
-    "audio": [],
+    "spectrum": {
+        "filename": "HDMI clock 4rd.png",
+        "url": null
+    },
+    "audio": {
+        "filename": null,
+        "url": null
+    },
     "category": [
         "Interfering"
     ],

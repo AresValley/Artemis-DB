@@ -1,12 +1,14 @@
 {
     "pageid": "5999",
     "title": "DisplayPort Interference",
-    "spectrum": [
-        "DP interference.png"
-    ],
-    "audio": [
-        "SDRSharp 20200916 023725Z 380480000Hz AF.mp3"
-    ],
+    "spectrum": {
+        "filename": "DP interference.png",
+        "url": null
+    },
+    "audio": {
+        "filename": "SDRSharp 20200916 023725Z 380480000Hz AF.mp3",
+        "url": null
+    },
     "category": [
         "Interfering"
     ],

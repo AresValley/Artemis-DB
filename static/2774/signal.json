@@ -1,12 +1,14 @@
 {
     "pageid": "2774",
     "title": "Gandalf MDT",
-    "spectrum": [
-        "Gandalf.png"
-    ],
-    "audio": [
-        "152.42-taxi.mp3"
-    ],
+    "spectrum": {
+        "filename": "Gandalf.png",
+        "url": null
+    },
+    "audio": {
+        "filename": "152.42-taxi.mp3",
+        "url": null
+    },
     "category": [
         "Digital",
         "Commercial"

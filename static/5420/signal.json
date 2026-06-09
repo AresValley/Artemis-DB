@@ -1,12 +1,14 @@
 {
     "pageid": "5420",
     "title": "PSK Paging link",
-    "spectrum": [
-        "purc signaling.png"
-    ],
-    "audio": [
-        "PURC 454 475.wav"
-    ],
+    "spectrum": {
+        "filename": "purc signaling.png",
+        "url": null
+    },
+    "audio": {
+        "filename": "PURC 454 475.wav",
+        "url": null
+    },
     "category": [
         "Digital"
     ],

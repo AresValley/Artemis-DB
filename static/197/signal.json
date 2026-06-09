@@ -1,12 +1,14 @@
 {
     "pageid": "197",
     "title": "Radio Teletype (RTTY)",
-    "spectrum": [
-        "RTTY thumbnail.jpg"
-    ],
-    "audio": [
-        "RTTY 170Hz 45.45bd.mp3"
-    ],
+    "spectrum": {
+        "filename": "RTTY thumbnail.jpg",
+        "url": null
+    },
+    "audio": {
+        "filename": "RTTY 170Hz 45.45bd.mp3",
+        "url": null
+    },
     "category": [
         "Amateur Radio",
         "Digital"

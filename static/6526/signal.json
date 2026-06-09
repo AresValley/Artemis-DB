@@ -1,12 +1,14 @@
 {
     "pageid": "6526",
     "title": "Rain Master sprinkler control",
-    "spectrum": [
-        "154_600.png"
-    ],
-    "audio": [
-        "1546000Tone_1.mp3"
-    ],
+    "spectrum": {
+        "filename": "154_600.png",
+        "url": null
+    },
+    "audio": {
+        "filename": "1546000Tone_1.mp3",
+        "url": null
+    },
     "category": [
         "Utility",
         "Digital"

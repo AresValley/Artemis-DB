@@ -1,12 +1,14 @@
 {
     "pageid": "1214",
     "title": "CIS 3x144 VFT",
-    "spectrum": [
-        "CIS3x144bdtfc.jpg"
-    ],
-    "audio": [
-        "CIS144.mp3"
-    ],
+    "spectrum": {
+        "filename": "CIS3x144bdtfc.jpg",
+        "url": null
+    },
+    "audio": {
+        "filename": "CIS144.mp3",
+        "url": null
+    },
     "category": [
         "Military",
         "Digital"

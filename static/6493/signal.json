@@ -1,12 +1,14 @@
 {
     "pageid": "6493",
     "title": "LoRa",
-    "spectrum": [
-        "LORA 2.JPG"
-    ],
-    "audio": [
-        "LORA.mp3"
-    ],
+    "spectrum": {
+        "filename": "LORA 2.JPG",
+        "url": null
+    },
+    "audio": {
+        "filename": "LORA.mp3",
+        "url": null
+    },
     "category": [
         "Commercial",
         "Digital"

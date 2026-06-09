@@ -1,12 +1,14 @@
 {
     "pageid": "1728",
     "title": "Near Field Communication (NFC)",
-    "spectrum": [
-        "NFC.png"
-    ],
-    "audio": [
-        "RFID gambier OH.mp3"
-    ],
+    "spectrum": {
+        "filename": "NFC.png",
+        "url": null
+    },
+    "audio": {
+        "filename": "RFID gambier OH.mp3",
+        "url": null
+    },
     "category": [
         "Digital",
         "Commercial"

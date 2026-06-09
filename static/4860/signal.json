@@ -1,12 +1,14 @@
 {
     "pageid": "4860",
     "title": "Ionized Meteor Trails",
-    "spectrum": [
-        "Screen 1506684611.68 (3).jpg"
-    ],
-    "audio": [
-        "2018-02-25 06-58-19.mp3"
-    ],
+    "spectrum": {
+        "filename": "Screen 1506684611.68 (3).jpg",
+        "url": null
+    },
+    "audio": {
+        "filename": "2018-02-25 06-58-19.mp3",
+        "url": null
+    },
     "category": [
         "Interfering",
         "Analogue"

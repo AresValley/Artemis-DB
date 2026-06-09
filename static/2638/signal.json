@@ -1,12 +1,14 @@
 {
     "pageid": "2638",
     "title": "Chinese Firedrake Jammer",
-    "spectrum": [
-        "CHN Jammer.png"
-    ],
-    "audio": [
-        "CHN Jammer.mp3"
-    ],
+    "spectrum": {
+        "filename": "CHN Jammer.png",
+        "url": null
+    },
+    "audio": {
+        "filename": "CHN Jammer.mp3",
+        "url": null
+    },
     "category": [],
     "frequency": [
         {

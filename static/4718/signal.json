@@ -1,12 +1,14 @@
 {
     "pageid": "4718",
     "title": "NOAA Direct Sounder Broadcast (DSB)",
-    "spectrum": [
-        "DSB.jpg"
-    ],
-    "audio": [
-        "Direct Sounder Broadcast NFM demod.mp3"
-    ],
+    "spectrum": {
+        "filename": "DSB.jpg",
+        "url": null
+    },
+    "audio": {
+        "filename": "Direct Sounder Broadcast NFM demod.mp3",
+        "url": null
+    },
     "category": [
         "Digital",
         "Satellite"

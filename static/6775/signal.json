@@ -1,10 +1,14 @@
 {
     "pageid": "6775",
     "title": "Logitech(R) Wireless Mouse+Keyboard Signal",
-    "spectrum": [
-        "LOGITECH MOUSE-KBD COMBO ISM-BAND.jpg"
-    ],
-    "audio": [],
+    "spectrum": {
+        "filename": "LOGITECH MOUSE-KBD COMBO ISM-BAND.jpg",
+        "url": null
+    },
+    "audio": {
+        "filename": null,
+        "url": null
+    },
     "category": [
         "Digital"
     ],

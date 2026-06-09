@@ -1,12 +1,14 @@
 {
     "pageid": "1207",
     "title": "CIS 3xBaudot-50 VFT",
-    "spectrum": [
-        "284px-CIS3xbaudot50bd.jpg"
-    ],
-    "audio": [
-        "CIS_Baudot_50.mp3"
-    ],
+    "spectrum": {
+        "filename": "284px-CIS3xbaudot50bd.jpg",
+        "url": null
+    },
+    "audio": {
+        "filename": "CIS_Baudot_50.mp3",
+        "url": null
+    },
     "category": [
         "Military",
         "Digital"

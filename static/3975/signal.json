@@ -1,12 +1,14 @@
 {
     "pageid": "3975",
     "title": "HORYU-4 Telemetry",
-    "spectrum": [
-        "HORYU-4 Telemetry Waterfall2.png"
-    ],
-    "audio": [
-        "HORYU-4_Telemetry.mp3"
-    ],
+    "spectrum": {
+        "filename": "HORYU-4 Telemetry Waterfall2.png",
+        "url": null
+    },
+    "audio": {
+        "filename": "HORYU-4_Telemetry.mp3",
+        "url": null
+    },
     "category": [
         "Satellite",
         "Digital"

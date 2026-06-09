@@ -1,12 +1,14 @@
 {
     "pageid": "656",
     "title": "Chinese 4+4",
-    "spectrum": [
-        "CHN_4+4.jpg"
-    ],
-    "audio": [
-        "Chinese_4+4.mp3"
-    ],
+    "spectrum": {
+        "filename": "CHN_4+4.jpg",
+        "url": null
+    },
+    "audio": {
+        "filename": "Chinese_4+4.mp3",
+        "url": null
+    },
     "category": [
         "Digital"
     ],

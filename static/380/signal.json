@@ -1,10 +1,14 @@
 {
     "pageid": "380",
     "title": "OpenWay CENTRON Smart-Meter",
-    "spectrum": [
-        "Open-Way-Centron_Smart-Meter_Waterfallthmb.png"
-    ],
-    "audio": [],
+    "spectrum": {
+        "filename": "Open-Way-Centron_Smart-Meter_Waterfallthmb.png",
+        "url": null
+    },
+    "audio": {
+        "filename": null,
+        "url": null
+    },
     "category": [
         "Digital",
         "Utility"

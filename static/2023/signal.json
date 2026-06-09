@@ -1,12 +1,14 @@
 {
     "pageid": "2023",
     "title": "Thales Système 3000 Voice Scrambler",
-    "spectrum": [
-        "scrambled thales.jpg"
-    ],
-    "audio": [
-        "SYS3000_VOice scrambler.mp3"
-    ],
+    "spectrum": {
+        "filename": "scrambled thales.jpg",
+        "url": null
+    },
+    "audio": {
+        "filename": "SYS3000_VOice scrambler.mp3",
+        "url": null
+    },
     "category": [
         "Military",
         "Analogue",

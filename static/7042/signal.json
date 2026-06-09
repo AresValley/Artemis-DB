@@ -1,12 +1,14 @@
 {
     "pageid": "7042",
     "title": "North Korean Siren Jammer",
-    "spectrum": [
-        "NorthKoreaSirenJammer.png"
-    ],
-    "audio": [
-        "NorthKoreanSignalJammer.mp3"
-    ],
+    "spectrum": {
+        "filename": "NorthKoreaSirenJammer.png",
+        "url": null
+    },
+    "audio": {
+        "filename": "NorthKoreanSignalJammer.mp3",
+        "url": null
+    },
     "category": [],
     "frequency": [
         {

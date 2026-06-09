@@ -1,10 +1,14 @@
 {
     "pageid": "6403",
     "title": "ATSC 3.0 Broadcast",
-    "spectrum": [
-        "ATSC3.png"
-    ],
-    "audio": [],
+    "spectrum": {
+        "filename": "ATSC3.png",
+        "url": null
+    },
+    "audio": {
+        "filename": null,
+        "url": null
+    },
     "category": [
         "Digital",
         "Commercial"

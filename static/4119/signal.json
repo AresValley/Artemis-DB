@@ -1,12 +1,14 @@
 {
     "pageid": "4119",
     "title": "Radio Data Link Access Procedure (RD-LAP)",
-    "spectrum": [
-        "RD-LAP image.jpg"
-    ],
-    "audio": [
-        "RD_LAP_16475060Hz_AF.mp3"
-    ],
+    "spectrum": {
+        "filename": "RD-LAP image.jpg",
+        "url": null
+    },
+    "audio": {
+        "filename": "RD_LAP_16475060Hz_AF.mp3",
+        "url": null
+    },
     "category": [
         "Digital"
     ],

@@ -1,12 +1,14 @@
 {
     "pageid": "4021",
     "title": "Meteosat WEFAX",
-    "spectrum": [
-        "Waterfall1.png"
-    ],
-    "audio": [
-        "Finalmeteosatnew.mp3"
-    ],
+    "spectrum": {
+        "filename": "Waterfall1.png",
+        "url": null
+    },
+    "audio": {
+        "filename": "Finalmeteosatnew.mp3",
+        "url": null
+    },
     "category": [
         "Analogue",
         "Satellite"

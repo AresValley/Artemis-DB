@@ -1,12 +1,14 @@
 {
     "pageid": "91",
     "title": "Automatic Picture Transmission (APT)",
-    "spectrum": [
-        "APT_NOAA.jpg"
-    ],
-    "audio": [
-        "NOAA-19APT.mp3"
-    ],
+    "spectrum": {
+        "filename": "APT_NOAA.jpg",
+        "url": null
+    },
+    "audio": {
+        "filename": "NOAA-19APT.mp3",
+        "url": null
+    },
     "category": [
         "Satellite",
         "Analogue"

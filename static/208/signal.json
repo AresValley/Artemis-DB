@@ -1,12 +1,14 @@
 {
     "pageid": "208",
     "title": "Tire Pressure Monitoring System (TPMS)",
-    "spectrum": [
-        "TPMS.png"
-    ],
-    "audio": [
-        "TPMS_audio.mp3"
-    ],
+    "spectrum": {
+        "filename": "TPMS.png",
+        "url": null
+    },
+    "audio": {
+        "filename": "TPMS_audio.mp3",
+        "url": null
+    },
     "category": [
         "Utility"
     ],

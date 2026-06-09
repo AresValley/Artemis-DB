@@ -1,12 +1,14 @@
 {
     "pageid": "1587",
     "title": "Yachta T-219 Voice Scrambler",
-    "spectrum": [
-        "Yachta.jpg"
-    ],
-    "audio": [
-        "Yachta T-219.mp3"
-    ],
+    "spectrum": {
+        "filename": "Yachta.jpg",
+        "url": null
+    },
+    "audio": {
+        "filename": "Yachta T-219.mp3",
+        "url": null
+    },
     "category": [
         "Military",
         "Analogue",

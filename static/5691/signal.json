@@ -1,12 +1,14 @@
 {
     "pageid": "5691",
     "title": "EasyPal Digital SSTV",
-    "spectrum": [
-        "Knipsel.JPG"
-    ],
-    "audio": [
-        "2020-12-04T18 30 38Z 3729.8kHz.wav"
-    ],
+    "spectrum": {
+        "filename": "Knipsel.JPG",
+        "url": null
+    },
+    "audio": {
+        "filename": "2020-12-04T18 30 38Z 3729.8kHz.wav",
+        "url": null
+    },
     "category": [
         "Amateur Radio",
         "Digital"

@@ -1,12 +1,14 @@
 {
     "pageid": "5171",
     "title": "IMet-1 RS Radiosonde",
-    "spectrum": [
-        "WhatsApp Image 2018-12-29 at 21.08.30 (2).jpeg"
-    ],
-    "audio": [
-        "Untitled (mp3cut.net).mp3"
-    ],
+    "spectrum": {
+        "filename": "WhatsApp Image 2018-12-29 at 21.08.30 (2).jpeg",
+        "url": null
+    },
+    "audio": {
+        "filename": "Untitled (mp3cut.net).mp3",
+        "url": null
+    },
     "category": [],
     "frequency": [
         {

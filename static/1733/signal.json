@@ -1,10 +1,14 @@
 {
     "pageid": "1733",
     "title": "WiMAX",
-    "spectrum": [],
-    "audio": [
-        "WiMAX.wav"
-    ],
+    "spectrum": {
+        "filename": null,
+        "url": null
+    },
+    "audio": {
+        "filename": "WiMAX.wav",
+        "url": null
+    },
     "category": [
         "Digital",
         "Commercial"

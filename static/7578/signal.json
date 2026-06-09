@@ -1,12 +1,14 @@
 {
     "pageid": "7578",
     "title": "Wireless Smart Utility Networks (Wi-SUN)",
-    "spectrum": [
-        "Waterf3.jpg"
-    ],
-    "audio": [
-        "Audio 927300000Hz 18-57-16 18-08-2024.mp3"
-    ],
+    "spectrum": {
+        "filename": "Waterf3.jpg",
+        "url": null
+    },
+    "audio": {
+        "filename": "Audio 927300000Hz 18-57-16 18-08-2024.mp3",
+        "url": null
+    },
     "category": [
         "Utility"
     ],

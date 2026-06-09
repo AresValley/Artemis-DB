@@ -1,12 +1,14 @@
 {
     "pageid": "3085",
     "title": "Golay Paging (GSC)",
-    "spectrum": [
-        "Golay.jpg"
-    ],
-    "audio": [
-        "Golay1.mp3"
-    ],
+    "spectrum": {
+        "filename": "Golay.jpg",
+        "url": null
+    },
+    "audio": {
+        "filename": "Golay1.mp3",
+        "url": null
+    },
     "category": [
         "Digital",
         "Commercial"

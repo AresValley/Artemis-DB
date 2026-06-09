@@ -1,12 +1,14 @@
 {
     "pageid": "2903",
     "title": "CV-786",
-    "spectrum": [
-        "CV-786.jpg"
-    ],
-    "audio": [
-        "cv-786.mp3"
-    ],
+    "spectrum": {
+        "filename": "CV-786.jpg",
+        "url": null
+    },
+    "audio": {
+        "filename": "cv-786.mp3",
+        "url": null
+    },
     "category": [
         "Digital",
         "Military"

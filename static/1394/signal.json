@@ -1,12 +1,14 @@
 {
     "pageid": "1394",
     "title": "ROS",
-    "spectrum": [
-        "ROS_8Bd.jpg"
-    ],
-    "audio": [
-        "ROS 8Bd.mp3"
-    ],
+    "spectrum": {
+        "filename": "ROS_8Bd.jpg",
+        "url": null
+    },
+    "audio": {
+        "filename": "ROS 8Bd.mp3",
+        "url": null
+    },
     "category": [
         "Amateur Radio",
         "Digital"

@@ -1,12 +1,14 @@
 {
     "pageid": "6912",
     "title": "M20 Radiosonde",
-    "spectrum": [
-        "M20_WF.png"
-    ],
-    "audio": [
-        "M20.mp3"
-    ],
+    "spectrum": {
+        "filename": "M20_WF.png",
+        "url": null
+    },
+    "audio": {
+        "filename": "M20.mp3",
+        "url": null
+    },
     "category": [
         "Utility",
         "Digital"

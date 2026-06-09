@@ -1,12 +1,14 @@
 {
     "pageid": "3644",
     "title": "BMW Key-Code signal",
-    "spectrum": [
-        "BMW Key Code.jpg"
-    ],
-    "audio": [
-        "BMW Key-Code Signal.mp3"
-    ],
+    "spectrum": {
+        "filename": "BMW Key Code.jpg",
+        "url": null
+    },
+    "audio": {
+        "filename": "BMW Key-Code Signal.mp3",
+        "url": null
+    },
     "category": [
         "Utility"
     ],

@@ -1,12 +1,14 @@
 {
     "pageid": "1596",
     "title": "RWM",
-    "spectrum": [
-        "RWM.png"
-    ],
-    "audio": [
-        "RWM time 1.mp3"
-    ],
+    "spectrum": {
+        "filename": "RWM.png",
+        "url": null
+    },
+    "audio": {
+        "filename": "RWM time 1.mp3",
+        "url": null
+    },
     "category": [
         "Time"
     ],

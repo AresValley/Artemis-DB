@@ -1,12 +1,14 @@
 {
     "pageid": "1660",
     "title": "MIL-STD-188-110 Serial",
-    "spectrum": [
-        "MIL_STD_188-110ABC.jpg"
-    ],
-    "audio": [
-        "188-110A_(serial)-1.mp3"
-    ],
+    "spectrum": {
+        "filename": "MIL_STD_188-110ABC.jpg",
+        "url": null
+    },
+    "audio": {
+        "filename": "188-110A_(serial)-1.mp3",
+        "url": null
+    },
     "category": [
         "Military",
         "Digital"

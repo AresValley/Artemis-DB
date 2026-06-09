@@ -1,12 +1,14 @@
 {
     "pageid": "6289",
     "title": "VARA HF",
-    "spectrum": [
-        "VARA HF.PNG"
-    ],
-    "audio": [
-        "VARA HF Sample.ogg"
-    ],
+    "spectrum": {
+        "filename": "VARA HF.PNG",
+        "url": null
+    },
+    "audio": {
+        "filename": "VARA HF Sample.ogg",
+        "url": null
+    },
     "category": [
         "Amateur Radio",
         "Digital"

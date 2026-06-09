@@ -1,12 +1,14 @@
 {
     "pageid": "1981",
     "title": "ASCII",
-    "spectrum": [
-        "ASCII.jpg"
-    ],
-    "audio": [
-        "ASCII.mp3"
-    ],
+    "spectrum": {
+        "filename": "ASCII.jpg",
+        "url": null
+    },
+    "audio": {
+        "filename": "ASCII.mp3",
+        "url": null
+    },
     "category": [
         "Amateur Radio",
         "Digital",

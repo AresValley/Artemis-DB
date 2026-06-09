@@ -1,12 +1,14 @@
 {
     "pageid": "6003",
     "title": "Snap Circuits SCROV-10 Remote Control",
-    "spectrum": [
-        "SCROV-10.png"
-    ],
-    "audio": [
-        "SCROV-10-Audio.mp3"
-    ],
+    "spectrum": {
+        "filename": "SCROV-10.png",
+        "url": null
+    },
+    "audio": {
+        "filename": "SCROV-10-Audio.mp3",
+        "url": null
+    },
     "category": [
         "Digital"
     ],

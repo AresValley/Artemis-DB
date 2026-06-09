@@ -1,12 +1,14 @@
 {
     "pageid": "8612",
     "title": "Russian military 20bd 7kHz FSK",
-    "spectrum": [
-        "Russian FSK 7kHz 1.png"
-    ],
-    "audio": [
-        "Russian 7kHz FSK 1.mp3"
-    ],
+    "spectrum": {
+        "filename": "Russian FSK 7kHz 1.png",
+        "url": null
+    },
+    "audio": {
+        "filename": "Russian 7kHz FSK 1.mp3",
+        "url": null
+    },
     "category": [
         "Military",
         "Digital"

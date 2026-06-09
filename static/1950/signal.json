@@ -1,12 +1,14 @@
 {
     "pageid": "1950",
     "title": "Automatic Link Set-up (ALIS)",
-    "spectrum": [
-        "ALIS.jpg"
-    ],
-    "audio": [
-        "alis.mp3"
-    ],
+    "spectrum": {
+        "filename": "ALIS.jpg",
+        "url": null
+    },
+    "audio": {
+        "filename": "alis.mp3",
+        "url": null
+    },
     "category": [
         "Digital"
     ],

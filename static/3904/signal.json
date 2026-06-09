@@ -1,12 +1,14 @@
 {
     "pageid": "3904",
     "title": "Delfi-C3 Telemetry",
-    "spectrum": [
-        "Delfi-C3.jpg"
-    ],
-    "audio": [
-        "Delfi-C3_Sound.mp3"
-    ],
+    "spectrum": {
+        "filename": "Delfi-C3.jpg",
+        "url": null
+    },
+    "audio": {
+        "filename": "Delfi-C3_Sound.mp3",
+        "url": null
+    },
     "category": [
         "Satellite",
         "Digital"

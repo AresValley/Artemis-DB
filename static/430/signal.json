@@ -1,12 +1,14 @@
 {
     "pageid": "430",
     "title": "STP403 Bus PIT System",
-    "spectrum": [
-        "Fouine91_MPT1327-Like.jpg"
-    ],
-    "audio": [
-        "Fouine91_MPT1327-Like.mp3"
-    ],
+    "spectrum": {
+        "filename": "Fouine91_MPT1327-Like.jpg",
+        "url": null
+    },
+    "audio": {
+        "filename": "Fouine91_MPT1327-Like.mp3",
+        "url": null
+    },
     "category": [
         "Utility",
         "Commercial"

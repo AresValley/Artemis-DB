@@ -1,12 +1,14 @@
 {
     "pageid": "6398",
     "title": "FreeDV plus Video",
-    "spectrum": [
-        "Waterfall4.jpg"
-    ],
-    "audio": [
-        "Demo15 0002Trim.mp3"
-    ],
+    "spectrum": {
+        "filename": "Waterfall4.jpg",
+        "url": null
+    },
+    "audio": {
+        "filename": "Demo15 0002Trim.mp3",
+        "url": null
+    },
     "category": [
         "Amateur Radio",
         "Digital"

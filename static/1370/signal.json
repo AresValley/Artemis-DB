@@ -1,12 +1,14 @@
 {
     "pageid": "1370",
     "title": "MT63",
-    "spectrum": [
-        "MT63.jpg"
-    ],
-    "audio": [
-        "MT63-1000L.mp3"
-    ],
+    "spectrum": {
+        "filename": "MT63.jpg",
+        "url": null
+    },
+    "audio": {
+        "filename": "MT63-1000L.mp3",
+        "url": null
+    },
     "category": [
         "Amateur Radio",
         "Digital"

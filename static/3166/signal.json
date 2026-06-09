@@ -1,12 +1,14 @@
 {
     "pageid": "3166",
     "title": "PSK-AM",
-    "spectrum": [
-        "PSKAM-31.png"
-    ],
-    "audio": [
-        "sPSK-AM 31.mp3"
-    ],
+    "spectrum": {
+        "filename": "PSKAM-31.png",
+        "url": null
+    },
+    "audio": {
+        "filename": "sPSK-AM 31.mp3",
+        "url": null
+    },
     "category": [
         "Digital",
         "Amateur Radio"

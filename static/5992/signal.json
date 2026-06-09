@@ -1,12 +1,14 @@
 {
     "pageid": "5992",
     "title": "Instrument Landing System",
-    "spectrum": [
-        "Ils waterfall.png"
-    ],
-    "audio": [
-        "Ils sound.mp3"
-    ],
+    "spectrum": {
+        "filename": "Ils waterfall.png",
+        "url": null
+    },
+    "audio": {
+        "filename": "Ils sound.mp3",
+        "url": null
+    },
     "category": [
         "Aviation",
         "Navigation"

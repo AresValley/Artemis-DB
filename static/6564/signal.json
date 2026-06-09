@@ -1,12 +1,14 @@
 {
     "pageid": "6564",
     "title": "Secondary surveillance radar (SSR)",
-    "spectrum": [
-        "Interrogator.JPG"
-    ],
-    "audio": [
-        "Interrogator.mp3"
-    ],
+    "spectrum": {
+        "filename": "Interrogator.JPG",
+        "url": null
+    },
+    "audio": {
+        "filename": "Interrogator.mp3",
+        "url": null
+    },
     "category": [
         "Radar",
         "Commercial",

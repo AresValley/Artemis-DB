@@ -1,12 +1,14 @@
 {
     "pageid": "1536",
     "title": "Emergency Alert System (EAS)",
-    "spectrum": [
-        "EAS NFM.jpg"
-    ],
-    "audio": [
-        "EAS Alert Tornado Warning.mp3"
-    ],
+    "spectrum": {
+        "filename": "EAS NFM.jpg",
+        "url": null
+    },
+    "audio": {
+        "filename": "EAS Alert Tornado Warning.mp3",
+        "url": null
+    },
     "category": [
         "Digital"
     ],

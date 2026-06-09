@@ -1,12 +1,14 @@
 {
     "pageid": "1742",
     "title": "CompuLert",
-    "spectrum": [
-        "Compulert.jpg"
-    ],
-    "audio": [
-        "compulert.mp3"
-    ],
+    "spectrum": {
+        "filename": "Compulert.jpg",
+        "url": null
+    },
+    "audio": {
+        "filename": "compulert.mp3",
+        "url": null
+    },
     "category": [
         "Digital",
         "Utility"

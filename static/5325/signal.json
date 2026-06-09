@@ -1,8 +1,14 @@
 {
     "pageid": "5325",
     "title": "High Power Auroral Stimulation (HIPAS)",
-    "spectrum": [],
-    "audio": [],
+    "spectrum": {
+        "filename": null,
+        "url": null
+    },
+    "audio": {
+        "filename": null,
+        "url": null
+    },
     "category": [
         "Radar"
     ],

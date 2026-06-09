@@ -1,12 +1,14 @@
 {
     "pageid": "2056",
     "title": "IRA-ARQ",
-    "spectrum": [
-        "IRA-ARQ 300bd 500hz.jpg"
-    ],
-    "audio": [
-        "bulgascii 300bd 500 shift.mp3"
-    ],
+    "spectrum": {
+        "filename": "IRA-ARQ 300bd 500hz.jpg",
+        "url": null
+    },
+    "audio": {
+        "filename": "bulgascii 300bd 500 shift.mp3",
+        "url": null
+    },
     "category": [
         "Digital"
     ],

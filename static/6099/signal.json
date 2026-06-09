@@ -1,12 +1,14 @@
 {
     "pageid": "6099",
     "title": "Soyuz-MS spacecraft telemetry",
-    "spectrum": [
-        "Souz166.JPG"
-    ],
-    "audio": [
-        "Souz166Sound.mp3"
-    ],
+    "spectrum": {
+        "filename": "Souz166.JPG",
+        "url": null
+    },
+    "audio": {
+        "filename": "Souz166Sound.mp3",
+        "url": null
+    },
     "category": [],
     "frequency": [
         {

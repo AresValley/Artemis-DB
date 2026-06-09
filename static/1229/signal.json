@@ -1,12 +1,14 @@
 {
     "pageid": "1229",
     "title": "CIS-1280",
-    "spectrum": [
-        "CIS-1280.jpg"
-    ],
-    "audio": [
-        "CIS-1280.mp3"
-    ],
+    "spectrum": {
+        "filename": "CIS-1280.jpg",
+        "url": null
+    },
+    "audio": {
+        "filename": "CIS-1280.mp3",
+        "url": null
+    },
     "category": [
         "Military",
         "Digital"

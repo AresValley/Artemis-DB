@@ -1,12 +1,14 @@
 {
     "pageid": "4955",
     "title": "Eurobalise downlink",
-    "spectrum": [
-        "Eurobalise.jpg"
-    ],
-    "audio": [
-        "Eurobalise recording.mp3"
-    ],
+    "spectrum": {
+        "filename": "Eurobalise.jpg",
+        "url": null
+    },
+    "audio": {
+        "filename": "Eurobalise recording.mp3",
+        "url": null
+    },
     "category": [
         "Navigation",
         "Analogue"

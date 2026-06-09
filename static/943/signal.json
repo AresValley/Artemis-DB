@@ -1,12 +1,14 @@
 {
     "pageid": "943",
     "title": "CIS-14",
-    "spectrum": [
-        "CIS-14TFC.jpg"
-    ],
-    "audio": [
-        "CIS14-TFC.mp3"
-    ],
+    "spectrum": {
+        "filename": "CIS-14TFC.jpg",
+        "url": null
+    },
+    "audio": {
+        "filename": "CIS14-TFC.mp3",
+        "url": null
+    },
     "category": [
         "Digital",
         "Military"

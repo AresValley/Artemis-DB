@@ -1,12 +1,14 @@
 {
     "pageid": "5811",
     "title": "8PSK",
-    "spectrum": [
-        "8PSK500F.png"
-    ],
-    "audio": [
-        "EXAMPLE_8PSK500F.mp3"
-    ],
+    "spectrum": {
+        "filename": "8PSK500F.png",
+        "url": null
+    },
+    "audio": {
+        "filename": "EXAMPLE_8PSK500F.mp3",
+        "url": null
+    },
     "category": [
         "Digital",
         "Amateur Radio"

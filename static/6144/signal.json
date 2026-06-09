@@ -1,12 +1,14 @@
 {
     "pageid": "6144",
     "title": "Radio Telephone Network C (C-Netz)",
-    "spectrum": [
-        "Cnetz2.png"
-    ],
-    "audio": [
-        "Cnetz cell broadcast.wav"
-    ],
+    "spectrum": {
+        "filename": "Cnetz2.png",
+        "url": null
+    },
+    "audio": {
+        "filename": "Cnetz cell broadcast.wav",
+        "url": null
+    },
     "category": [
         "Digital"
     ],

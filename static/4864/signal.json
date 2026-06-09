@@ -1,12 +1,14 @@
 {
     "pageid": "4864",
     "title": "NOV",
-    "spectrum": [
-        "TACAMO (2).jpg"
-    ],
-    "audio": [
-        "2018-02-27 04-59-38.mp3"
-    ],
+    "spectrum": {
+        "filename": "TACAMO (2).jpg",
+        "url": null
+    },
+    "audio": {
+        "filename": "2018-02-27 04-59-38.mp3",
+        "url": null
+    },
     "category": [
         "Military",
         "Digital"

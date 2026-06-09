@@ -1,12 +1,14 @@
 {
     "pageid": "8333",
     "title": "Quansheng UVK5 Digital Text Message",
-    "spectrum": [
-        "UVK5 Text Long2.png"
-    ],
-    "audio": [
-        "Quansheng UVK5 Text Message.mp3"
-    ],
+    "spectrum": {
+        "filename": "UVK5 Text Long2.png",
+        "url": null
+    },
+    "audio": {
+        "filename": "Quansheng UVK5 Text Message.mp3",
+        "url": null
+    },
     "category": [
         "Amateur Radio",
         "Digital"

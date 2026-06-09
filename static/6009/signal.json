@@ -1,12 +1,14 @@
 {
     "pageid": "6009",
     "title": "ICARUS (International Cooperation for Animal Research Using Space)",
-    "spectrum": [
-        "ICARUS.jpg"
-    ],
-    "audio": [
-        "ICARUS Sound.mp3"
-    ],
+    "spectrum": {
+        "filename": "ICARUS.jpg",
+        "url": null
+    },
+    "audio": {
+        "filename": "ICARUS Sound.mp3",
+        "url": null
+    },
     "category": [
         "Satellite",
         "Digital"

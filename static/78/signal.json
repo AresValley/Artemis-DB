@@ -1,12 +1,14 @@
 {
     "pageid": "78",
     "title": "Motorola Type II",
-    "spectrum": [
-        "Moto.jpg"
-    ],
-    "audio": [
-        "Motorola2F1D_Sound.mp3"
-    ],
+    "spectrum": {
+        "filename": "Moto.jpg",
+        "url": null
+    },
+    "audio": {
+        "filename": "Motorola2F1D_Sound.mp3",
+        "url": null
+    },
     "category": [
         "Trunked Radio",
         "Digital"

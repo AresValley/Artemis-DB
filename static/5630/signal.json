@@ -1,12 +1,14 @@
 {
     "pageid": "5630",
     "title": "China digital radio (CDR)",
-    "spectrum": [
-        "CroppedCDR.png"
-    ],
-    "audio": [
-        "CDRrecording1.mp3"
-    ],
+    "spectrum": {
+        "filename": "CroppedCDR.png",
+        "url": null
+    },
+    "audio": {
+        "filename": "CDRrecording1.mp3",
+        "url": null
+    },
     "category": [
         "Commercial",
         "Digital"

@@ -1,12 +1,14 @@
 {
     "pageid": "3716",
     "title": "JJY",
-    "spectrum": [
-        "JJY.png"
-    ],
-    "audio": [
-        "JJY Japan Time Signal.mp3"
-    ],
+    "spectrum": {
+        "filename": "JJY.png",
+        "url": null
+    },
+    "audio": {
+        "filename": "JJY Japan Time Signal.mp3",
+        "url": null
+    },
     "category": [
         "Time"
     ],

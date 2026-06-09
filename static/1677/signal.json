@@ -1,12 +1,14 @@
 {
     "pageid": "1677",
     "title": "MIL-STD-188-110 Appendix B 39-Tone",
-    "spectrum": [
-        "188-110 App B.jpg"
-    ],
-    "audio": [
-        "MIL188-110A_AppB.mp3"
-    ],
+    "spectrum": {
+        "filename": "188-110 App B.jpg",
+        "url": null
+    },
+    "audio": {
+        "filename": "MIL188-110A_AppB.mp3",
+        "url": null
+    },
     "category": [
         "Military",
         "Digital"

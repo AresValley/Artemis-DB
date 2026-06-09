@@ -1,12 +1,14 @@
 {
     "pageid": "4950",
     "title": "SAS3",
-    "spectrum": [
-        "SAS3 mod pattern 2.gif"
-    ],
-    "audio": [
-        "AF 24DEC2015 073954z SAS3.mp3"
-    ],
+    "spectrum": {
+        "filename": "SAS3 mod pattern 2.gif",
+        "url": null
+    },
+    "audio": {
+        "filename": "AF 24DEC2015 073954z SAS3.mp3",
+        "url": null
+    },
     "category": [
         "Military",
         "Marine"

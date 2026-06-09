@@ -1,12 +1,14 @@
 {
     "pageid": "44",
     "title": "Aircraft Communications Addressing and Reporting System (ACARS)",
-    "spectrum": [
-        "ACARS.jpg"
-    ],
-    "audio": [
-        "ACARS_sound.mp3"
-    ],
+    "spectrum": {
+        "filename": "ACARS.jpg",
+        "url": null
+    },
+    "audio": {
+        "filename": "ACARS_sound.mp3",
+        "url": null
+    },
     "category": [
         "Aviation",
         "Digital"

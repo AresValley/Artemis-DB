@@ -1,12 +1,14 @@
 {
     "pageid": "5395",
     "title": "GRAVES",
-    "spectrum": [
-        "GRAVES.png"
-    ],
-    "audio": [
-        "Gqrx 20190519 090112 143050200.ogg"
-    ],
+    "spectrum": {
+        "filename": "GRAVES.png",
+        "url": null
+    },
+    "audio": {
+        "filename": "Gqrx 20190519 090112 143050200.ogg",
+        "url": null
+    },
     "category": [
         "Military",
         "Radar"

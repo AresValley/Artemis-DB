@@ -1,12 +1,14 @@
 {
     "pageid": "1765",
     "title": "Mazielka (X06)",
-    "spectrum": [
-        "X06.jpg"
-    ],
-    "audio": [
-        "6TONE.mp3"
-    ],
+    "spectrum": {
+        "filename": "X06.jpg",
+        "url": null
+    },
+    "audio": {
+        "filename": "6TONE.mp3",
+        "url": null
+    },
     "category": [
         "Numbers Stations",
         "Digital"

@@ -1,12 +1,14 @@
 {
     "pageid": "3143",
     "title": "Inmarsat-C TDM",
-    "spectrum": [
-        "Inmarsat_TDM_NCS.jpg"
-    ],
-    "audio": [
-        "Inmarsat_TDM.mp3"
-    ],
+    "spectrum": {
+        "filename": "Inmarsat_TDM_NCS.jpg",
+        "url": null
+    },
+    "audio": {
+        "filename": "Inmarsat_TDM.mp3",
+        "url": null
+    },
     "category": [
         "Satellite",
         "Marine"

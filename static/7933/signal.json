@@ -1,12 +1,14 @@
 {
     "pageid": "7933",
     "title": "P07 numbers station",
-    "spectrum": [
-        "P07.png"
-    ],
-    "audio": [
-        "P07.mp3"
-    ],
+    "spectrum": {
+        "filename": "P07.png",
+        "url": null
+    },
+    "audio": {
+        "filename": "P07.mp3",
+        "url": null
+    },
     "category": [
         "Digital"
     ],

@@ -1,12 +1,14 @@
 {
     "pageid": "6758",
     "title": "NOAA ITOS High Resolution Picture Transmission (HRPT)",
-    "spectrum": [
-        "NOAA ITOS HRPT WF.png"
-    ],
-    "audio": [
-        "ITOS HRPT Audio.mp3"
-    ],
+    "spectrum": {
+        "filename": "NOAA ITOS HRPT WF.png",
+        "url": null
+    },
+    "audio": {
+        "filename": "ITOS HRPT Audio.mp3",
+        "url": null
+    },
     "category": [
         "Satellite",
         "Analogue"

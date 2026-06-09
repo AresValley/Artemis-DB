@@ -1,12 +1,14 @@
 {
     "pageid": "1678",
     "title": "MIL-STD-188-110 Appendix A 16-Tone",
-    "spectrum": [
-        "App_A_16-tone.jpg"
-    ],
-    "audio": [
-        "App.A_16-tone.mp3"
-    ],
+    "spectrum": {
+        "filename": "App_A_16-tone.jpg",
+        "url": null
+    },
+    "audio": {
+        "filename": "App.A_16-tone.mp3",
+        "url": null
+    },
     "category": [
         "Military",
         "Digital"

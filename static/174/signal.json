@@ -1,12 +1,14 @@
 {
     "pageid": "174",
     "title": "ISM Band device",
-    "spectrum": [
-        "ISMBandPowerMeter_Waterfallthmb.jpg"
-    ],
-    "audio": [
-        "ISMBandPowerMeter_Sound.mp3"
-    ],
+    "spectrum": {
+        "filename": "ISMBandPowerMeter_Waterfallthmb.jpg",
+        "url": null
+    },
+    "audio": {
+        "filename": "ISMBandPowerMeter_Sound.mp3",
+        "url": null
+    },
     "category": [
         "Digital",
         "Utility"

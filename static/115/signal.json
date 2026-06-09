@@ -1,12 +1,14 @@
 {
     "pageid": "115",
     "title": "Digital Radio Mondiale (DRM)",
-    "spectrum": [
-        "DRMimage.png"
-    ],
-    "audio": [
-        "Digital_Radio_Mondiale_USB.mp3"
-    ],
+    "spectrum": {
+        "filename": "DRMimage.png",
+        "url": null
+    },
+    "audio": {
+        "filename": "Digital_Radio_Mondiale_USB.mp3",
+        "url": null
+    },
     "category": [
         "Digital",
         "Commercial"

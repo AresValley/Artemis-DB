@@ -1,12 +1,14 @@
 {
     "pageid": "1828",
     "title": "MIL-STD-110-342",
-    "spectrum": [
-        "MIL-STD-110-342.jpg"
-    ],
-    "audio": [
-        "16chVFT.mp3"
-    ],
+    "spectrum": {
+        "filename": "MIL-STD-110-342.jpg",
+        "url": null
+    },
+    "audio": {
+        "filename": "16chVFT.mp3",
+        "url": null
+    },
     "category": [
         "Military",
         "Digital"

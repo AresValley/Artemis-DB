@@ -1,12 +1,14 @@
 {
     "pageid": "6926",
     "title": "CDMA420",
-    "spectrum": [
-        "CDMA420LTE420.png"
-    ],
-    "audio": [
-        "CDMA420-sound.mp3"
-    ],
+    "spectrum": {
+        "filename": "CDMA420LTE420.png",
+        "url": null
+    },
+    "audio": {
+        "filename": "CDMA420-sound.mp3",
+        "url": null
+    },
     "category": [
         "Commercial",
         "Digital"

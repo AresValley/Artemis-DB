@@ -1,12 +1,14 @@
 {
     "pageid": "2247",
     "title": "FreeDV COHPSK",
-    "spectrum": [
-        "700 tfc DV.png"
-    ],
-    "audio": [
-        "700D.wav"
-    ],
+    "spectrum": {
+        "filename": "700 tfc DV.png",
+        "url": null
+    },
+    "audio": {
+        "filename": "700D.wav",
+        "url": null
+    },
     "category": [
         "Amateur Radio",
         "Digital"

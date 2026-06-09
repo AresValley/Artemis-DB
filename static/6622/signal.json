@@ -1,8 +1,14 @@
 {
     "pageid": "6622",
     "title": "IsatData Pro",
-    "spectrum": [],
-    "audio": [],
+    "spectrum": {
+        "filename": null,
+        "url": null
+    },
+    "audio": {
+        "filename": null,
+        "url": null
+    },
     "category": [
         "Satellite",
         "Digital",

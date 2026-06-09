@@ -1,12 +1,14 @@
 {
     "pageid": "3272",
     "title": "RUM-MOI FEC",
-    "spectrum": [
-        "ROU-MOI tfc.jpg"
-    ],
-    "audio": [
-        "ROU_115-76_TFC.mp3"
-    ],
+    "spectrum": {
+        "filename": "ROU-MOI tfc.jpg",
+        "url": null
+    },
+    "audio": {
+        "filename": "ROU_115-76_TFC.mp3",
+        "url": null
+    },
     "category": [
         "Digital"
     ],

@@ -1,12 +1,14 @@
 {
     "pageid": "82",
     "title": "Enhanced Digital Access Communications System (EDACS)",
-    "spectrum": [
-        "EDACS_96k.jpg"
-    ],
-    "audio": [
-        "EDACS_96.mp3"
-    ],
+    "spectrum": {
+        "filename": "EDACS_96k.jpg",
+        "url": null
+    },
+    "audio": {
+        "filename": "EDACS_96.mp3",
+        "url": null
+    },
     "category": [
         "Trunked Radio",
         "Digital"

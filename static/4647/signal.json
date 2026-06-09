@@ -1,12 +1,14 @@
 {
     "pageid": "4647",
     "title": "Visonic MCT-201",
-    "spectrum": [
-        "MCT-201.jpg"
-    ],
-    "audio": [
-        "MCT-201 audio.mp3"
-    ],
+    "spectrum": {
+        "filename": "MCT-201.jpg",
+        "url": null
+    },
+    "audio": {
+        "filename": "MCT-201 audio.mp3",
+        "url": null
+    },
     "category": [
         "Digital"
     ],

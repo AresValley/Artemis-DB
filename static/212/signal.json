@@ -1,12 +1,14 @@
 {
     "pageid": "212",
     "title": "Japan Military 8-Channel FSK",
-    "spectrum": [
-        "Japan_8_2-fsk.jpg"
-    ],
-    "audio": [
-        "jp_mil.mp3"
-    ],
+    "spectrum": {
+        "filename": "Japan_8_2-fsk.jpg",
+        "url": null
+    },
+    "audio": {
+        "filename": "jp_mil.mp3",
+        "url": null
+    },
     "category": [
         "Military",
         "Digital"

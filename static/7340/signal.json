@@ -1,12 +1,14 @@
 {
     "pageid": "7340",
     "title": "CIS MFSK-11",
-    "spectrum": [
-        "Unknown MFSK-11.png"
-    ],
-    "audio": [
-        "Unknown MFSK-11 USB.ogg"
-    ],
+    "spectrum": {
+        "filename": "Unknown MFSK-11.png",
+        "url": null
+    },
+    "audio": {
+        "filename": "Unknown MFSK-11 USB.ogg",
+        "url": null
+    },
     "category": [
         "Digital"
     ],

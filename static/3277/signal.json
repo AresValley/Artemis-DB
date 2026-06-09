@@ -1,12 +1,14 @@
 {
     "pageid": "3277",
     "title": "Inmarsat Aero",
-    "spectrum": [
-        "Inmarsat_Aero.jpg"
-    ],
-    "audio": [
-        "Inmarsat_AERO.mp3"
-    ],
+    "spectrum": {
+        "filename": "Inmarsat_Aero.jpg",
+        "url": null
+    },
+    "audio": {
+        "filename": "Inmarsat_AERO.mp3",
+        "url": null
+    },
     "category": [
         "Satellite",
         "Commercial",

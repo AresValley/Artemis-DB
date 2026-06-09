@@ -1,12 +1,14 @@
 {
     "pageid": "5715",
     "title": "CBET",
-    "spectrum": [
-        "CBET2.png"
-    ],
-    "audio": [
-        "Encodingtones-only.mp3"
-    ],
+    "spectrum": {
+        "filename": "CBET2.png",
+        "url": null
+    },
+    "audio": {
+        "filename": "Encodingtones-only.mp3",
+        "url": null
+    },
     "category": [
         "Commercial",
         "Digital"

@@ -1,12 +1,14 @@
 {
     "pageid": "7499",
     "title": "SKiYMET meteor radar",
-    "spectrum": [
-        "Pulsed low VHF radar 640Hz 1.png"
-    ],
-    "audio": [
-        "Pulsed low VHF radar 640Hz.ogg"
-    ],
+    "spectrum": {
+        "filename": "Pulsed low VHF radar 640Hz 1.png",
+        "url": null
+    },
+    "audio": {
+        "filename": "Pulsed low VHF radar 640Hz.ogg",
+        "url": null
+    },
     "category": [
         "Radar"
     ],

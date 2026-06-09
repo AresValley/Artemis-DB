@@ -1,12 +1,14 @@
 {
     "pageid": "5707",
     "title": "Mazda SKE126-01 Key Fob",
-    "spectrum": [
-        "SKE126-012.png"
-    ],
-    "audio": [
-        "SKE126-01 keyfob.mp3"
-    ],
+    "spectrum": {
+        "filename": "SKE126-012.png",
+        "url": null
+    },
+    "audio": {
+        "filename": "SKE126-01 keyfob.mp3",
+        "url": null
+    },
     "category": [
         "Utility",
         "Digital"

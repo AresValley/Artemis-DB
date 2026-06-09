@@ -1,12 +1,14 @@
 {
     "pageid": "7349",
     "title": "Switching Electronic Interference",
-    "spectrum": [
-        "SMPS noise 1.png"
-    ],
-    "audio": [
-        "SMPS noise USB.ogg"
-    ],
+    "spectrum": {
+        "filename": "SMPS noise 1.png",
+        "url": null
+    },
+    "audio": {
+        "filename": "SMPS noise USB.ogg",
+        "url": null
+    },
     "category": [
         "Interfering"
     ],

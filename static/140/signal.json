@@ -1,12 +1,14 @@
 {
     "pageid": "140",
     "title": "Phase Shift Keying (PSK)",
-    "spectrum": [
-        "BPSKthumb.png"
-    ],
-    "audio": [
-        "BPSK31a.mp3"
-    ],
+    "spectrum": {
+        "filename": "BPSKthumb.png",
+        "url": null
+    },
+    "audio": {
+        "filename": "BPSK31a.mp3",
+        "url": null
+    },
     "category": [
         "Amateur Radio",
         "Digital"

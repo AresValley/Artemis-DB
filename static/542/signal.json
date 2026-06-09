@@ -1,12 +1,14 @@
 {
     "pageid": "542",
     "title": "Link-11",
-    "spectrum": [
-        "Link-11Waterfall.png"
-    ],
-    "audio": [
-        "TDLaudiofile.mp3"
-    ],
+    "spectrum": {
+        "filename": "Link-11Waterfall.png",
+        "url": null
+    },
+    "audio": {
+        "filename": "TDLaudiofile.mp3",
+        "url": null
+    },
     "category": [
         "Military",
         "Digital"

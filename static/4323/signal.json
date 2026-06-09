@@ -1,12 +1,14 @@
 {
     "pageid": "4323",
     "title": "Thales SALAMANDRE (HFXL)",
-    "spectrum": [
-        "Screenshot 31.png"
-    ],
-    "audio": [
-        "June-9-antonio-HFXL-6.363200 MHz.mp3"
-    ],
+    "spectrum": {
+        "filename": "Screenshot 31.png",
+        "url": null
+    },
+    "audio": {
+        "filename": "June-9-antonio-HFXL-6.363200 MHz.mp3",
+        "url": null
+    },
     "category": [
         "Military",
         "Digital"

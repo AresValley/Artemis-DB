@@ -1,10 +1,14 @@
 {
     "pageid": "3573",
     "title": "Vehicle Counting System",
-    "spectrum": [
-        "Flinders Uni Vehicle Counting System Waterfall.PNG"
-    ],
-    "audio": [],
+    "spectrum": {
+        "filename": "Flinders Uni Vehicle Counting System Waterfall.PNG",
+        "url": null
+    },
+    "audio": {
+        "filename": null,
+        "url": null
+    },
     "category": [
         "Commercial",
         "Digital",

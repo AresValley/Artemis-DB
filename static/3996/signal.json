@@ -1,12 +1,14 @@
 {
     "pageid": "3996",
     "title": "CDMA2000 (3G physical layer)",
-    "spectrum": [
-        "CDMA2.png"
-    ],
-    "audio": [
-        "889.060.000.wav"
-    ],
+    "spectrum": {
+        "filename": "CDMA2.png",
+        "url": null
+    },
+    "audio": {
+        "filename": "889.060.000.wav",
+        "url": null
+    },
     "category": [
         "Commercial",
         "Digital"

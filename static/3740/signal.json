@@ -1,12 +1,14 @@
 {
     "pageid": "3740",
     "title": "Vaisala RS92-KL Weather Balloon (Radiosonde)",
-    "spectrum": [
-        "RS92-KL.jpg"
-    ],
-    "audio": [
-        "RS92KL.mp3"
-    ],
+    "spectrum": {
+        "filename": "RS92-KL.jpg",
+        "url": null
+    },
+    "audio": {
+        "filename": "RS92KL.mp3",
+        "url": null
+    },
     "category": [
         "Analogue",
         "Utility"

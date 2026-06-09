@@ -1,12 +1,14 @@
 {
     "pageid": "6786",
     "title": "Kia SVI-JFRGE04 Key Fob",
-    "spectrum": [
-        "Kiakeyfobdesktop (1).png"
-    ],
-    "audio": [
-        "Kiakeyfobcubicsdr.mp3"
-    ],
+    "spectrum": {
+        "filename": "Kiakeyfobdesktop (1).png",
+        "url": null
+    },
+    "audio": {
+        "filename": "Kiakeyfobcubicsdr.mp3",
+        "url": null
+    },
     "category": [
         "Utility"
     ],

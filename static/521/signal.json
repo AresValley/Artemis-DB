@@ -1,12 +1,14 @@
 {
     "pageid": "521",
     "title": "CODAR",
-    "spectrum": [
-        "CODARthm.jpg"
-    ],
-    "audio": [
-        "CODARAUDIOz.mp3"
-    ],
+    "spectrum": {
+        "filename": "CODARthm.jpg",
+        "url": null
+    },
+    "audio": {
+        "filename": "CODARAUDIOz.mp3",
+        "url": null
+    },
     "category": [
         "Radar",
         "Marine"

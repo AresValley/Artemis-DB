@@ -1,12 +1,14 @@
 {
     "pageid": "4962",
     "title": "SHR",
-    "spectrum": [
-        "Shr mod patterns 1.gif"
-    ],
-    "audio": [
-        "AF  17OCT2014 080000z SHR-SRC .mp3"
-    ],
+    "spectrum": {
+        "filename": "Shr mod patterns 1.gif",
+        "url": null
+    },
+    "audio": {
+        "filename": "AF  17OCT2014 080000z SHR-SRC .mp3",
+        "url": null
+    },
     "category": [
         "Military",
         "Marine"

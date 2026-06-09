@@ -1,12 +1,14 @@
 {
     "pageid": "4204",
     "title": "MPT1394 Keyfob",
-    "spectrum": [
-        "Mpt1394_keyfob.PNG"
-    ],
-    "audio": [
-        "Honda mpt1340 keyfob.mp3"
-    ],
+    "spectrum": {
+        "filename": "Mpt1394_keyfob.PNG",
+        "url": null
+    },
+    "audio": {
+        "filename": "Honda mpt1340 keyfob.mp3",
+        "url": null
+    },
     "category": [],
     "frequency": [
         {

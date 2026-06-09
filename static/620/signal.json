@@ -1,12 +1,14 @@
 {
     "pageid": "620",
     "title": "SITOR-B",
-    "spectrum": [
-        "SITORB.jpg"
-    ],
-    "audio": [
-        "SITOR-B_tfc.mp3"
-    ],
+    "spectrum": {
+        "filename": "SITORB.jpg",
+        "url": null
+    },
+    "audio": {
+        "filename": "SITOR-B_tfc.mp3",
+        "url": null
+    },
     "category": [
         "Marine"
     ],

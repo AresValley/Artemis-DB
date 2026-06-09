@@ -1,12 +1,14 @@
 {
     "pageid": "7772",
     "title": "Chinese-64 MFSK",
-    "spectrum": [
-        "Chinese-64 MFSK.png"
-    ],
-    "audio": [
-        "Chinese-64 MFSK 2025-02-02 14-30-42.mp3"
-    ],
+    "spectrum": {
+        "filename": "Chinese-64 MFSK.png",
+        "url": null
+    },
+    "audio": {
+        "filename": "Chinese-64 MFSK 2025-02-02 14-30-42.mp3",
+        "url": null
+    },
     "category": [
         "Digital",
         "Military"

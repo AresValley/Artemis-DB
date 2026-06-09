@@ -1,12 +1,14 @@
 {
     "pageid": "1738",
     "title": "Digital Private Mobile Radio (dPMR)",
-    "spectrum": [
-        "dPMR.jpg"
-    ],
-    "audio": [
-        "dPMR.mp3"
-    ],
+    "spectrum": {
+        "filename": "dPMR.jpg",
+        "url": null
+    },
+    "audio": {
+        "filename": "dPMR.mp3",
+        "url": null
+    },
     "category": [
         "Digital",
         "Trunked Radio"

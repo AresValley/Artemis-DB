@@ -1,12 +1,14 @@
 {
     "pageid": "1421",
     "title": "THOR",
-    "spectrum": [
-        "THORthmb.png"
-    ],
-    "audio": [
-        "THOR11.mp3"
-    ],
+    "spectrum": {
+        "filename": "THORthmb.png",
+        "url": null
+    },
+    "audio": {
+        "filename": "THOR11.mp3",
+        "url": null
+    },
     "category": [
         "Amateur Radio",
         "Digital"

@@ -1,12 +1,14 @@
 {
     "pageid": "335",
     "title": "European Radio Message System (ERMES)",
-    "spectrum": [
-        "ERMES_waterfall.jpg"
-    ],
-    "audio": [
-        "Ermes-3125bps.mp3"
-    ],
+    "spectrum": {
+        "filename": "ERMES_waterfall.jpg",
+        "url": null
+    },
+    "audio": {
+        "filename": "Ermes-3125bps.mp3",
+        "url": null
+    },
     "category": [
         "Digital",
         "Commercial"

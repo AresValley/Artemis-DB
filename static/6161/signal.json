@@ -1,12 +1,14 @@
 {
     "pageid": "6161",
     "title": "OOK RC Car Remote Control",
-    "spectrum": [
-        "27MhzRCWaterfall.png"
-    ],
-    "audio": [
-        "RC Remote.mp3"
-    ],
+    "spectrum": {
+        "filename": "27MhzRCWaterfall.png",
+        "url": null
+    },
+    "audio": {
+        "filename": "RC Remote.mp3",
+        "url": null
+    },
     "category": [
         "Utility",
         "Digital"

@@ -1,12 +1,14 @@
 {
     "pageid": "1581",
     "title": "CIS-112",
-    "spectrum": [
-        "CIS-112 pramb.jpg"
-    ],
-    "audio": [
-        "CIS-112 preambles.mp3"
-    ],
+    "spectrum": {
+        "filename": "CIS-112 pramb.jpg",
+        "url": null
+    },
+    "audio": {
+        "filename": "CIS-112 preambles.mp3",
+        "url": null
+    },
     "category": [
         "Military",
         "Digital"

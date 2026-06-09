@@ -1,12 +1,14 @@
 {
     "pageid": "8180",
     "title": "Altai Radiotelephone",
-    "spectrum": [
-        "Altai_Waterfall.png"
-    ],
-    "audio": [
-        "Altai_Broadcast.wav"
-    ],
+    "spectrum": {
+        "filename": "Altai_Waterfall.png",
+        "url": null
+    },
+    "audio": {
+        "filename": "Altai_Broadcast.wav",
+        "url": null
+    },
     "category": [
         "Commercial",
         "Analogue",

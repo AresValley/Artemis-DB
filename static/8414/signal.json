@@ -1,12 +1,14 @@
 {
     "pageid": "8414",
     "title": "Zigbee",
-    "spectrum": [
-        "zigbee.png"
-    ],
-    "audio": [
-        "Zigbee_xfer.wav"
-    ],
+    "spectrum": {
+        "filename": "zigbee.png",
+        "url": null
+    },
+    "audio": {
+        "filename": "Zigbee_xfer.wav",
+        "url": null
+    },
     "category": [
         "Digital",
         "Commercial"

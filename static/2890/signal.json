@@ -1,12 +1,14 @@
 {
     "pageid": "2890",
     "title": "North Korean Diplo FSK",
-    "spectrum": [
-        "DPRK ARQ.jpg"
-    ],
-    "audio": [
-        "KRE_FSK-BURST.mp3"
-    ],
+    "spectrum": {
+        "filename": "DPRK ARQ.jpg",
+        "url": null
+    },
+    "audio": {
+        "filename": "KRE_FSK-BURST.mp3",
+        "url": null
+    },
     "category": [
         "Digital",
         "Numbers Stations"

@@ -1,12 +1,14 @@
 {
     "pageid": "5753",
     "title": "GYN2 GBR",
-    "spectrum": [
-        "GYN2opt.png"
-    ],
-    "audio": [
-        "Gyn2 gbr 25 06 2021.mp3"
-    ],
+    "spectrum": {
+        "filename": "GYN2opt.png",
+        "url": null
+    },
+    "audio": {
+        "filename": "Gyn2 gbr 25 06 2021.mp3",
+        "url": null
+    },
     "category": [
         "Military"
     ],

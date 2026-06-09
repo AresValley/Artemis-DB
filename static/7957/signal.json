@@ -1,12 +1,14 @@
 {
     "pageid": "7957",
     "title": "P03 numbers station",
-    "spectrum": [
-        "P03k strong.png"
-    ],
-    "audio": [
-        "P03k strong.mp3"
-    ],
+    "spectrum": {
+        "filename": "P03k strong.png",
+        "url": null
+    },
+    "audio": {
+        "filename": "P03k strong.mp3",
+        "url": null
+    },
     "category": [
         "Digital"
     ],

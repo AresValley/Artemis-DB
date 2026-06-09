@@ -1,12 +1,14 @@
 {
     "pageid": "2013",
     "title": "SP-14 (XP)",
-    "spectrum": [
-        "XP.png"
-    ],
-    "audio": [
-        "SP-14.mp3"
-    ],
+    "spectrum": {
+        "filename": "XP.png",
+        "url": null
+    },
+    "audio": {
+        "filename": "SP-14.mp3",
+        "url": null
+    },
     "category": [
         "Numbers Stations",
         "Digital"

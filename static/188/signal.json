@@ -1,12 +1,14 @@
 {
     "pageid": "188",
     "title": "Orbcomm",
-    "spectrum": [
-        "ORBCOMM.jpg"
-    ],
-    "audio": [
-        "ORBCOMM-STX.mp3"
-    ],
+    "spectrum": {
+        "filename": "ORBCOMM.jpg",
+        "url": null
+    },
+    "audio": {
+        "filename": "ORBCOMM-STX.mp3",
+        "url": null
+    },
     "category": [
         "Digital",
         "Satellite"

@@ -1,12 +1,14 @@
 {
     "pageid": "1530",
     "title": "CIS MFSK-20 XPA",
-    "spectrum": [
-        "XPA10.png"
-    ],
-    "audio": [
-        "XPA10.mp3"
-    ],
+    "spectrum": {
+        "filename": "XPA10.png",
+        "url": null
+    },
+    "audio": {
+        "filename": "XPA10.mp3",
+        "url": null
+    },
     "category": [
         "Numbers Stations",
         "Digital"

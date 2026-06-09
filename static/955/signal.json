@@ -1,12 +1,14 @@
 {
     "pageid": "955",
     "title": "PACKET",
-    "spectrum": [
-        "PACKET_300.jpg"
-    ],
-    "audio": [
-        "PACKET_300.mp3"
-    ],
+    "spectrum": {
+        "filename": "PACKET_300.jpg",
+        "url": null
+    },
+    "audio": {
+        "filename": "PACKET_300.mp3",
+        "url": null
+    },
     "category": [
         "Amateur Radio",
         "Digital"

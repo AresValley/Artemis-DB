@@ -1,12 +1,14 @@
 {
     "pageid": "130",
     "title": "Automatic Dependent Surveillance-Broadcast (ADS-B)",
-    "spectrum": [
-        "ADS-BTHMB.jpg"
-    ],
-    "audio": [
-        "ADS-B_AM_mode.mp3"
-    ],
+    "spectrum": {
+        "filename": "ADS-BTHMB.jpg",
+        "url": null
+    },
+    "audio": {
+        "filename": "ADS-B_AM_mode.mp3",
+        "url": null
+    },
     "category": [
         "Aviation",
         "Digital"

@@ -1,12 +1,14 @@
 {
     "pageid": "1309",
     "title": "Hellschreiber",
-    "spectrum": [
-        "Feld_Hellthmb.jpg"
-    ],
-    "audio": [
-        "FeldHell.mp3"
-    ],
+    "spectrum": {
+        "filename": "Feld_Hellthmb.jpg",
+        "url": null
+    },
+    "audio": {
+        "filename": "FeldHell.mp3",
+        "url": null
+    },
     "category": [
         "Amateur Radio",
         "Digital",

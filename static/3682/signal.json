@@ -1,12 +1,14 @@
 {
     "pageid": "3682",
     "title": "Vaisala RS41-SG Weather Balloon (Radiosonde)",
-    "spectrum": [
-        "RS41.jpg"
-    ],
-    "audio": [
-        "RS41.mp3"
-    ],
+    "spectrum": {
+        "filename": "RS41.jpg",
+        "url": null
+    },
+    "audio": {
+        "filename": "RS41.mp3",
+        "url": null
+    },
     "category": [
         "Digital",
         "Utility"

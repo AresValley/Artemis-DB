@@ -1,10 +1,14 @@
 {
     "pageid": "6742",
     "title": "METEOR-M High Resolution Picture Transmission (HRPT)",
-    "spectrum": [
-        "METEOR HRPT WF.png"
-    ],
-    "audio": [],
+    "spectrum": {
+        "filename": "METEOR HRPT WF.png",
+        "url": null
+    },
+    "audio": {
+        "filename": null,
+        "url": null
+    },
     "category": [
         "Satellite",
         "Digital"

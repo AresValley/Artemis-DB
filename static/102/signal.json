@@ -1,12 +1,14 @@
 {
     "pageid": "102",
     "title": "Single Sideband Voice",
-    "spectrum": [
-        "SSB_Voice.jpg"
-    ],
-    "audio": [
-        "USB_Sound.mp3"
-    ],
+    "spectrum": {
+        "filename": "SSB_Voice.jpg",
+        "url": null
+    },
+    "audio": {
+        "filename": "USB_Sound.mp3",
+        "url": null
+    },
     "category": [
         "Analogue",
         "Amateur Radio"

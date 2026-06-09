@@ -1,12 +1,14 @@
 {
     "pageid": "1935",
     "title": "KG-STV",
-    "spectrum": [
-        "KG-STV 4LFSK norm.jpg"
-    ],
-    "audio": [
-        "KG-STV 4LFSK Norm.mp3"
-    ],
+    "spectrum": {
+        "filename": "KG-STV 4LFSK norm.jpg",
+        "url": null
+    },
+    "audio": {
+        "filename": "KG-STV 4LFSK Norm.mp3",
+        "url": null
+    },
     "category": [
         "Amateur Radio",
         "Digital"

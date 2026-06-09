@@ -1,12 +1,14 @@
 {
     "pageid": "6530",
     "title": "The 'Air Horn'",
-    "spectrum": [
-        "Przechwytywanie.PNG"
-    ],
-    "audio": [
-        "airhorn.mp3"
-    ],
+    "spectrum": {
+        "filename": "Przechwytywanie.PNG",
+        "url": null
+    },
+    "audio": {
+        "filename": "airhorn.mp3",
+        "url": null
+    },
     "category": [
         "Military"
     ],

@@ -1,12 +1,14 @@
 {
     "pageid": "2260",
     "title": "EURO",
-    "spectrum": [
-        "euro 5-tone.png"
-    ],
-    "audio": [
-        "EURO 5-tone.mp3"
-    ],
+    "spectrum": {
+        "filename": "euro 5-tone.png",
+        "url": null
+    },
+    "audio": {
+        "filename": "EURO 5-tone.mp3",
+        "url": null
+    },
     "category": [
         "Analogue"
     ],

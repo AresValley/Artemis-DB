@@ -1,12 +1,14 @@
 {
     "pageid": "3314",
     "title": "SWED-ARQ",
-    "spectrum": [
-        "SWED-ARQ.jpg"
-    ],
-    "audio": [
-        "swed-arq (dat 11_07) 22.mp3"
-    ],
+    "spectrum": {
+        "filename": "SWED-ARQ.jpg",
+        "url": null
+    },
+    "audio": {
+        "filename": "swed-arq (dat 11_07) 22.mp3",
+        "url": null
+    },
     "category": [
         "Digital"
     ],

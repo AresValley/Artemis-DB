@@ -1,12 +1,14 @@
 {
     "pageid": "2875",
     "title": "Datawell Buoy HF Link",
-    "spectrum": [
-        "datawell_2FSK.jpg"
-    ],
-    "audio": [
-        "buoy-29525.mp3"
-    ],
+    "spectrum": {
+        "filename": "datawell_2FSK.jpg",
+        "url": null
+    },
+    "audio": {
+        "filename": "buoy-29525.mp3",
+        "url": null
+    },
     "category": [
         "Digital",
         "Marine"

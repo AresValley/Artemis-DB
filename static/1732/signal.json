@@ -1,12 +1,14 @@
 {
     "pageid": "1732",
     "title": "Positive Train Control (PTC)",
-    "spectrum": [
-        "PTC.jpg"
-    ],
-    "audio": [
-        "PTC_TDMA.mp3"
-    ],
+    "spectrum": {
+        "filename": "PTC.jpg",
+        "url": null
+    },
+    "audio": {
+        "filename": "PTC_TDMA.mp3",
+        "url": null
+    },
     "category": [
         "Digital",
         "Utility"

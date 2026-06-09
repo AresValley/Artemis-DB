@@ -1,12 +1,14 @@
 {
     "pageid": "8438",
     "title": "4G LTE450",
-    "spectrum": [
-        "20260120 21271483.jpg"
-    ],
-    "audio": [
-        "LTE450 NFM.wav"
-    ],
+    "spectrum": {
+        "filename": "20260120 21271483.jpg",
+        "url": null
+    },
+    "audio": {
+        "filename": "LTE450 NFM.wav",
+        "url": null
+    },
     "category": [
         "Digital",
         "Commercial"

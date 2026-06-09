@@ -1,12 +1,14 @@
 {
     "pageid": "5580",
     "title": "Schneider Trio E-Series Modem",
-    "spectrum": [
-        "Trio.PNG"
-    ],
-    "audio": [
-        "TRIO_USB.mp3"
-    ],
+    "spectrum": {
+        "filename": "Trio.PNG",
+        "url": null
+    },
+    "audio": {
+        "filename": "TRIO_USB.mp3",
+        "url": null
+    },
     "category": [
         "Digital",
         "Utility"

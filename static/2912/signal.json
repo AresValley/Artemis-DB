@@ -1,12 +1,14 @@
 {
     "pageid": "2912",
     "title": "North Korean Diplo PSK",
-    "spectrum": [
-        "DPRK 1200bd.jpg"
-    ],
-    "audio": [
-        "KRE-PSK1200.mp3"
-    ],
+    "spectrum": {
+        "filename": "DPRK 1200bd.jpg",
+        "url": null
+    },
+    "audio": {
+        "filename": "KRE-PSK1200.mp3",
+        "url": null
+    },
     "category": [
         "Digital"
     ],

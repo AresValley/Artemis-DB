@@ -1,12 +1,14 @@
 {
     "pageid": "6619",
     "title": "Federal Signal Modem-MSK",
-    "spectrum": [
-        "Fs msk.png"
-    ],
-    "audio": [
-        "Fsmsk sample.mp3"
-    ],
+    "spectrum": {
+        "filename": "Fs msk.png",
+        "url": null
+    },
+    "audio": {
+        "filename": "Fsmsk sample.mp3",
+        "url": null
+    },
     "category": [
         "Utility",
         "Digital"

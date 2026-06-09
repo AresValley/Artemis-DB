@@ -1,12 +1,14 @@
 {
     "pageid": "4172",
     "title": "Logic Trunked Radio (LTR)",
-    "spectrum": [
-        "LTR2.png"
-    ],
-    "audio": [
-        "LTR example 1.ogg"
-    ],
+    "spectrum": {
+        "filename": "LTR2.png",
+        "url": null
+    },
+    "audio": {
+        "filename": "LTR example 1.ogg",
+        "url": null
+    },
     "category": [
         "Digital",
         "Commercial"

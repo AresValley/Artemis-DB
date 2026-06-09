@@ -1,12 +1,14 @@
 {
     "pageid": "1866",
     "title": "PRC-16",
-    "spectrum": [
-        "PRC-16.jpg"
-    ],
-    "audio": [
-        "PRC-16.mp3"
-    ],
+    "spectrum": {
+        "filename": "PRC-16.jpg",
+        "url": null
+    },
+    "audio": {
+        "filename": "PRC-16.mp3",
+        "url": null
+    },
     "category": [
         "Military",
         "Digital"

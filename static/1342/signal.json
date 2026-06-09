@@ -1,12 +1,14 @@
 {
     "pageid": "1342",
     "title": "JT6M",
-    "spectrum": [
-        "JT6M_sim.jpg"
-    ],
-    "audio": [
-        "JT6M_simulated.mp3"
-    ],
+    "spectrum": {
+        "filename": "JT6M_sim.jpg",
+        "url": null
+    },
+    "audio": {
+        "filename": "JT6M_simulated.mp3",
+        "url": null
+    },
     "category": [
         "Digital",
         "Amateur Radio"

@@ -1,12 +1,14 @@
 {
     "pageid": "1525",
     "title": "Sonne",
-    "spectrum": [
-        "Consol.png"
-    ],
-    "audio": [
-        "consol.mp3"
-    ],
+    "spectrum": {
+        "filename": "Consol.png",
+        "url": null
+    },
+    "audio": {
+        "filename": "consol.mp3",
+        "url": null
+    },
     "category": [
         "Marine",
         "Aviation",

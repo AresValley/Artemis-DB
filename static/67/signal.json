@@ -1,12 +1,14 @@
 {
     "pageid": "67",
     "title": "POCSAG",
-    "spectrum": [
-        "POCSAG_Waterfallthmb.png"
-    ],
-    "audio": [
-        "POCSAG_Sound.mp3"
-    ],
+    "spectrum": {
+        "filename": "POCSAG_Waterfallthmb.png",
+        "url": null
+    },
+    "audio": {
+        "filename": "POCSAG_Sound.mp3",
+        "url": null
+    },
     "category": [
         "Digital",
         "Commercial"

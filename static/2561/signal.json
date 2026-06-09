@@ -1,12 +1,14 @@
 {
     "pageid": "2561",
     "title": "The Buzzer (ZhUOZ MDZhB UZB76)",
-    "spectrum": [
-        "Screenshot 2025-03-04 11.53.04 AM.png"
-    ],
-    "audio": [
-        "2019-02-19T03_53_11Z_4625.00_usb.mp3"
-    ],
+    "spectrum": {
+        "filename": "Screenshot 2025-03-04 11.53.04 AM.png",
+        "url": null
+    },
+    "audio": {
+        "filename": "2019-02-19T03_53_11Z_4625.00_usb.mp3",
+        "url": null
+    },
     "category": [
         "Analogue",
         "Military",

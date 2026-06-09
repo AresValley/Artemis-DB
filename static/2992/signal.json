@@ -1,12 +1,14 @@
 {
     "pageid": "2992",
     "title": "DUP-FEC-2",
-    "spectrum": [
-        "DUP_FEC-2.jpg"
-    ],
-    "audio": [
-        "Dup-fec-2_(dat_4_17).mp3"
-    ],
+    "spectrum": {
+        "filename": "DUP_FEC-2.jpg",
+        "url": null
+    },
+    "audio": {
+        "filename": "Dup-fec-2_(dat_4_17).mp3",
+        "url": null
+    },
     "category": [
         "Digital"
     ],

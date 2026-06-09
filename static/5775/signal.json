@@ -1,12 +1,14 @@
 {
     "pageid": "5775",
     "title": "JS8",
-    "spectrum": [
-        "JS8.png"
-    ],
-    "audio": [
-        "JS8-John-3-16.mp3"
-    ],
+    "spectrum": {
+        "filename": "JS8.png",
+        "url": null
+    },
+    "audio": {
+        "filename": "JS8-John-3-16.mp3",
+        "url": null
+    },
     "category": [
         "Amateur Radio",
         "Digital"

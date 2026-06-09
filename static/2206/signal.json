@@ -1,12 +1,14 @@
 {
     "pageid": "2206",
     "title": "MODAT",
-    "spectrum": [
-        "MODAT.png"
-    ],
-    "audio": [
-        "MODAT.mp3"
-    ],
+    "spectrum": {
+        "filename": "MODAT.png",
+        "url": null
+    },
+    "audio": {
+        "filename": "MODAT.mp3",
+        "url": null
+    },
     "category": [],
     "frequency": [
         {

@@ -1,12 +1,14 @@
 {
     "pageid": "5803",
     "title": "Relocatable Over-the-Horizon Radar (ROTHR)",
-    "spectrum": [
-        "UnknownHF.PNG"
-    ],
-    "audio": [
-        "SDRSharp 20170713 012801Z 14517079Hz AF (mp3cut.net).mp3"
-    ],
+    "spectrum": {
+        "filename": "UnknownHF.PNG",
+        "url": null
+    },
+    "audio": {
+        "filename": "SDRSharp 20170713 012801Z 14517079Hz AF (mp3cut.net).mp3",
+        "url": null
+    },
     "category": [
         "Radar",
         "Military"

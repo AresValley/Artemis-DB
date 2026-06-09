@@ -1,10 +1,14 @@
 {
     "pageid": "8167",
     "title": "Kenwood FleetSync",
-    "spectrum": [
-        "Fleetsync.png"
-    ],
-    "audio": [],
+    "spectrum": {
+        "filename": "Fleetsync.png",
+        "url": null
+    },
+    "audio": {
+        "filename": null,
+        "url": null
+    },
     "category": [
         "Digital",
         "Analogue"

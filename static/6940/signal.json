@@ -1,10 +1,14 @@
 {
     "pageid": "6940",
     "title": "High Resolution Data (HRD)",
-    "spectrum": [
-        "Hrd.png"
-    ],
-    "audio": [],
+    "spectrum": {
+        "filename": "Hrd.png",
+        "url": null
+    },
+    "audio": {
+        "filename": null,
+        "url": null
+    },
     "category": [
         "Satellite"
     ],

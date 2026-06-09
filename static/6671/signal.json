@@ -1,10 +1,14 @@
 {
     "pageid": "6671",
     "title": "Électricité de France HNZ",
-    "spectrum": [],
-    "audio": [
-        "Hnz sample.mp3"
-    ],
+    "spectrum": {
+        "filename": null,
+        "url": null
+    },
+    "audio": {
+        "filename": "Hnz sample.mp3",
+        "url": null
+    },
     "category": [
         "Utility"
     ],

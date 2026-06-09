@@ -1,12 +1,14 @@
 {
     "pageid": "4017",
     "title": "Inmarsat-D(D+) Downlink",
-    "spectrum": [
-        "Inmarsat D.jpg"
-    ],
-    "audio": [
-        "inmarsat mfsk.mp3"
-    ],
+    "spectrum": {
+        "filename": "Inmarsat D.jpg",
+        "url": null
+    },
+    "audio": {
+        "filename": "inmarsat mfsk.mp3",
+        "url": null
+    },
     "category": [
         "Satellite",
         "Commercial",

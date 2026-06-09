@@ -1,12 +1,14 @@
 {
     "pageid": "1946",
     "title": "Accurate positioning by Low Frequencies (ALF)",
-    "spectrum": [
-        "ALF-RDS.jpg"
-    ],
-    "audio": [
-        "ALFRDS.mp3"
-    ],
+    "spectrum": {
+        "filename": "ALF-RDS.jpg",
+        "url": null
+    },
+    "audio": {
+        "filename": "ALFRDS.mp3",
+        "url": null
+    },
     "category": [
         "Navigation",
         "Digital"

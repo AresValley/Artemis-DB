@@ -1,12 +1,14 @@
 {
     "pageid": "6418",
     "title": "Digisonde",
-    "spectrum": [
-        "DigisondeCrop.png"
-    ],
-    "audio": [
-        "Digisonde.mp3"
-    ],
+    "spectrum": {
+        "filename": "DigisondeCrop.png",
+        "url": null
+    },
+    "audio": {
+        "filename": "Digisonde.mp3",
+        "url": null
+    },
     "category": [
         "Radar"
     ],

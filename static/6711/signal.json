@@ -1,12 +1,14 @@
 {
     "pageid": "6711",
     "title": "FM NBTV",
-    "spectrum": [
-        "Waterfall-20221028104650.jpg"
-    ],
-    "audio": [
-        "ExampleNBTV2.mp3"
-    ],
+    "spectrum": {
+        "filename": "Waterfall-20221028104650.jpg",
+        "url": null
+    },
+    "audio": {
+        "filename": "ExampleNBTV2.mp3",
+        "url": null
+    },
     "category": [
         "Amateur Radio",
         "Analogue"

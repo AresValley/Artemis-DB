@@ -1,12 +1,14 @@
 {
     "pageid": "3437",
     "title": "CIS MFSK-16 XPA2",
-    "spectrum": [
-        "XPA2.png"
-    ],
-    "audio": [
-        "xpa2.mp3"
-    ],
+    "spectrum": {
+        "filename": "XPA2.png",
+        "url": null
+    },
+    "audio": {
+        "filename": "xpa2.mp3",
+        "url": null
+    },
     "category": [
         "Digital",
         "Numbers Stations"

@@ -1,12 +1,14 @@
 {
     "pageid": "8320",
     "title": "Russian Intelligence 200bd 500Hz FSK (F01)",
-    "spectrum": [
-        "F01.png"
-    ],
-    "audio": [
-        "F01.mp3"
-    ],
+    "spectrum": {
+        "filename": "F01.png",
+        "url": null
+    },
+    "audio": {
+        "filename": "F01.mp3",
+        "url": null
+    },
     "category": [
         "Digital"
     ],

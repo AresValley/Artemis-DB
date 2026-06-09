@@ -1,12 +1,14 @@
 {
     "pageid": "6322",
     "title": "GOES Data Collection System (DCS)",
-    "spectrum": [
-        "GoesDCS300bd.jpeg"
-    ],
-    "audio": [
-        "goesDCS300bps.mp3"
-    ],
+    "spectrum": {
+        "filename": "GoesDCS300bd.jpeg",
+        "url": null
+    },
+    "audio": {
+        "filename": "goesDCS300bps.mp3",
+        "url": null
+    },
     "category": [
         "Satellite",
         "Digital",

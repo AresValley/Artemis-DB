@@ -1,12 +1,14 @@
 {
     "pageid": "6370",
     "title": "Radio Navigation Satellite System (RNSS)",
-    "spectrum": [
-        "GPS.png"
-    ],
-    "audio": [
-        "GPSaud.mp3"
-    ],
+    "spectrum": {
+        "filename": "GPS.png",
+        "url": null
+    },
+    "audio": {
+        "filename": "GPSaud.mp3",
+        "url": null
+    },
     "category": [
         "Navigation",
         "Satellite",

@@ -1,12 +1,14 @@
 {
     "pageid": "1552",
     "title": "Distress Radiobeacon (Digital)",
-    "spectrum": [
-        "Epirb.jpg"
-    ],
-    "audio": [
-        "NFM_EPIRB.mp3"
-    ],
+    "spectrum": {
+        "filename": "Epirb.jpg",
+        "url": null
+    },
+    "audio": {
+        "filename": "NFM_EPIRB.mp3",
+        "url": null
+    },
     "category": [
         "Digital",
         "Marine",

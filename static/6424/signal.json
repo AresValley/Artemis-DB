@@ -1,12 +1,14 @@
 {
     "pageid": "6424",
     "title": "Ultra Low Latency (ULL) Electronic Trading Network",
-    "spectrum": [
-        "HF_Monster_48k_Crop.PNG"
-    ],
-    "audio": [
-        "HDSDR 20200831 035632Z 11010kHz AF.wav"
-    ],
+    "spectrum": {
+        "filename": "HF_Monster_48k_Crop.PNG",
+        "url": null
+    },
+    "audio": {
+        "filename": "HDSDR 20200831 035632Z 11010kHz AF.wav",
+        "url": null
+    },
     "category": [
         "Digital",
         "Commercial"

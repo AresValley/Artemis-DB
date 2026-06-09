@@ -1,12 +1,14 @@
 {
     "pageid": "2041",
     "title": "CIS-1200 (T-230-1A 'Mahovik')",
-    "spectrum": [
-        "flywheel.jpg"
-    ],
-    "audio": [
-        "Makhovik.mp3"
-    ],
+    "spectrum": {
+        "filename": "flywheel.jpg",
+        "url": null
+    },
+    "audio": {
+        "filename": "Makhovik.mp3",
+        "url": null
+    },
     "category": [
         "Digital",
         "Military"

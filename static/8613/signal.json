@@ -1,12 +1,14 @@
 {
     "pageid": "8613",
     "title": "Radio-relay link",
-    "spectrum": [
-        "RRlink.jpg"
-    ],
-    "audio": [
-        "RRlink 38 GHz.mp3"
-    ],
+    "spectrum": {
+        "filename": "RRlink.jpg",
+        "url": null
+    },
+    "audio": {
+        "filename": "RRlink 38 GHz.mp3",
+        "url": null
+    },
     "category": [
         "Digital",
         "Commercial"

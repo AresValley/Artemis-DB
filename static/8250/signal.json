@@ -1,12 +1,14 @@
 {
     "pageid": "8250",
     "title": "Zaliv52",
-    "spectrum": [
-        "Zaliv52 example.png"
-    ],
-    "audio": [
-        "Zaliv52-4110usb-20180914-214550z-msg-byargonn (mp3cut.net).mp3"
-    ],
+    "spectrum": {
+        "filename": "Zaliv52 example.png",
+        "url": null
+    },
+    "audio": {
+        "filename": "Zaliv52-4110usb-20180914-214550z-msg-byargonn (mp3cut.net).mp3",
+        "url": null
+    },
     "category": [
         "Military"
     ],

@@ -1,12 +1,14 @@
 {
     "pageid": "6646",
     "title": "ICV",
-    "spectrum": [
-        "ICV.png"
-    ],
-    "audio": [
-        "ICV audio.mp3"
-    ],
+    "spectrum": {
+        "filename": "ICV.png",
+        "url": null
+    },
+    "audio": {
+        "filename": "ICV audio.mp3",
+        "url": null
+    },
     "category": [
         "Military"
     ],

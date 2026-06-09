@@ -1,12 +1,14 @@
 {
     "pageid": "2421",
     "title": "Digital Dispatch Systems MDT",
-    "spectrum": [
-        "MDT_data_terminals.jpg"
-    ],
-    "audio": [
-        "London Towncars Inc 854787kHz_AF.mp3"
-    ],
+    "spectrum": {
+        "filename": "MDT_data_terminals.jpg",
+        "url": null
+    },
+    "audio": {
+        "filename": "London Towncars Inc 854787kHz_AF.mp3",
+        "url": null
+    },
     "category": [
         "Commercial"
     ],

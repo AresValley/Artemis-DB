@@ -1,12 +1,14 @@
 {
     "pageid": "5267",
     "title": "National Public Alerting System (NPAS)",
-    "spectrum": [
-        "NPAS2.jpg"
-    ],
-    "audio": [
-        "AlertReady-NPAS.mp3"
-    ],
+    "spectrum": {
+        "filename": "NPAS2.jpg",
+        "url": null
+    },
+    "audio": {
+        "filename": "AlertReady-NPAS.mp3",
+        "url": null
+    },
     "category": [],
     "frequency": [],
     "bandwidth": [],

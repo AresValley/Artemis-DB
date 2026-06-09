@@ -1,12 +1,14 @@
 {
     "pageid": "2073",
     "title": "CCITT",
-    "spectrum": [
-        "Ccitt_5-tones.jpg"
-    ],
-    "audio": [
-        "Ccitt_5-tone.mp3"
-    ],
+    "spectrum": {
+        "filename": "Ccitt_5-tones.jpg",
+        "url": null
+    },
+    "audio": {
+        "filename": "Ccitt_5-tone.mp3",
+        "url": null
+    },
     "category": [
         "Digital"
     ],

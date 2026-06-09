@@ -1,12 +1,14 @@
 {
     "pageid": "8715",
     "title": "Magnetron (microwave owen)",
-    "spectrum": [
-        "MWowen.jpg"
-    ],
-    "audio": [
-        "MWowen.mp3"
-    ],
+    "spectrum": {
+        "filename": "MWowen.jpg",
+        "url": null
+    },
+    "audio": {
+        "filename": "MWowen.mp3",
+        "url": null
+    },
     "category": [
         "Utility"
     ],

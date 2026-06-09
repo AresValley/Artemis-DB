@@ -1,12 +1,14 @@
 {
     "pageid": "7750",
     "title": "Baofeng GMSK",
-    "spectrum": [
-        "Baofeng_GMSK.png"
-    ],
-    "audio": [
-        "Baofeng GMSK audio.mp3"
-    ],
+    "spectrum": {
+        "filename": "Baofeng_GMSK.png",
+        "url": null
+    },
+    "audio": {
+        "filename": "Baofeng GMSK audio.mp3",
+        "url": null
+    },
     "category": [
         "Digital"
     ],

@@ -1,12 +1,14 @@
 {
     "pageid": "3872",
     "title": "3G WCDMA",
-    "spectrum": [
-        "3GWCDMA.png"
-    ],
-    "audio": [
-        "WCDMA 3G.mp3"
-    ],
+    "spectrum": {
+        "filename": "3GWCDMA.png",
+        "url": null
+    },
+    "audio": {
+        "filename": "WCDMA 3G.mp3",
+        "url": null
+    },
     "category": [
         "Digital",
         "Commercial"

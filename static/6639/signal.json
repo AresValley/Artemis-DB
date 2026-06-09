@@ -1,12 +1,14 @@
 {
     "pageid": "6639",
     "title": "QO-100-modem",
-    "spectrum": [
-        "Qo-100 modem 1.JPG"
-    ],
-    "audio": [
-        "Dlya qo-100 wiki.mp3"
-    ],
+    "spectrum": {
+        "filename": "Qo-100 modem 1.JPG",
+        "url": null
+    },
+    "audio": {
+        "filename": "Dlya qo-100 wiki.mp3",
+        "url": null
+    },
     "category": [
         "Amateur Radio",
         "Satellite",

@@ -1,12 +1,14 @@
 {
     "pageid": "8159",
     "title": "SECOR 4 (EGRS 4)",
-    "spectrum": [
-        "SECOR waterfall.jpg"
-    ],
-    "audio": [
-        "Audio 136846899Hz 17-26-30 24-08-2025.mp3"
-    ],
+    "spectrum": {
+        "filename": "SECOR waterfall.jpg",
+        "url": null
+    },
+    "audio": {
+        "filename": "Audio 136846899Hz 17-26-30 24-08-2025.mp3",
+        "url": null
+    },
     "category": [
         "Satellite",
         "Military",

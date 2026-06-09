@@ -1,12 +1,14 @@
 {
     "pageid": "2585",
     "title": "1G (NMT) Nordic Mobile Telephone",
-    "spectrum": [
-        "NMT.jpg"
-    ],
-    "audio": [
-        "Nmt-450.mp3"
-    ],
+    "spectrum": {
+        "filename": "NMT.jpg",
+        "url": null
+    },
+    "audio": {
+        "filename": "Nmt-450.mp3",
+        "url": null
+    },
     "category": [
         "Digital",
         "Commercial",

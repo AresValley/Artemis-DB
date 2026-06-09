@@ -1,12 +1,14 @@
 {
     "pageid": "1351",
     "title": "JTMS",
-    "spectrum": [
-        "JTMS_sim.jpg"
-    ],
-    "audio": [
-        "JTMS_simulated_sample.mp3"
-    ],
+    "spectrum": {
+        "filename": "JTMS_sim.jpg",
+        "url": null
+    },
+    "audio": {
+        "filename": "JTMS_simulated_sample.mp3",
+        "url": null
+    },
     "category": [
         "Amateur Radio",
         "Digital"

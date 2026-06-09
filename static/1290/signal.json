@@ -1,12 +1,14 @@
 {
     "pageid": "1290",
     "title": "Globe Wireless HF Network",
-    "spectrum": [
-        "GW.jpg"
-    ],
-    "audio": [
-        "GW.mp3"
-    ],
+    "spectrum": {
+        "filename": "GW.jpg",
+        "url": null
+    },
+    "audio": {
+        "filename": "GW.mp3",
+        "url": null
+    },
     "category": [
         "Marine",
         "Digital",

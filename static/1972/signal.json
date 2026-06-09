@@ -1,12 +1,14 @@
 {
     "pageid": "1972",
     "title": "ARQ-M2-242",
-    "spectrum": [
-        "ARQ-M2-242.jpg"
-    ],
-    "audio": [
-        "arq-m2-242.mp3"
-    ],
+    "spectrum": {
+        "filename": "ARQ-M2-242.jpg",
+        "url": null
+    },
+    "audio": {
+        "filename": "arq-m2-242.mp3",
+        "url": null
+    },
     "category": [
         "Digital",
         "Aviation",

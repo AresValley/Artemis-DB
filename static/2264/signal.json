@@ -1,12 +1,14 @@
 {
     "pageid": "2264",
     "title": "FLASH-OFDM",
-    "spectrum": [
-        "FLASH-OFDM.png"
-    ],
-    "audio": [
-        "Flash-OFDM.mp3"
-    ],
+    "spectrum": {
+        "filename": "FLASH-OFDM.png",
+        "url": null
+    },
+    "audio": {
+        "filename": "Flash-OFDM.mp3",
+        "url": null
+    },
     "category": [
         "Commercial",
         "Digital"

@@ -1,12 +1,14 @@
 {
     "pageid": "1737",
     "title": "OpenSky",
-    "spectrum": [
-        "OpenSky2opt.png"
-    ],
-    "audio": [
-        "SDRSharp_20190411_010811Z_852713123Hz_AF.mp3"
-    ],
+    "spectrum": {
+        "filename": "OpenSky2opt.png",
+        "url": null
+    },
+    "audio": {
+        "filename": "SDRSharp_20190411_010811Z_852713123Hz_AF.mp3",
+        "url": null
+    },
     "category": [
         "Digital",
         "Trunked Radio"

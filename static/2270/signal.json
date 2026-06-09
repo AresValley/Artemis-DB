@@ -1,12 +1,14 @@
 {
     "pageid": "2270",
     "title": "NATEL",
-    "spectrum": [
-        "natel 5-tone.png"
-    ],
-    "audio": [
-        "NATEL 5-tone.mp3"
-    ],
+    "spectrum": {
+        "filename": "natel 5-tone.png",
+        "url": null
+    },
+    "audio": {
+        "filename": "NATEL 5-tone.mp3",
+        "url": null
+    },
     "category": [],
     "frequency": [
         {

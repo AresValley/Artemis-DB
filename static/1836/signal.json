@@ -1,12 +1,14 @@
 {
     "pageid": "1836",
     "title": "TDF",
-    "spectrum": [
-        "TDF.jpg"
-    ],
-    "audio": [
-        "TDF time signal.mp3"
-    ],
+    "spectrum": {
+        "filename": "TDF.jpg",
+        "url": null
+    },
+    "audio": {
+        "filename": "TDF time signal.mp3",
+        "url": null
+    },
     "category": [
         "Time"
     ],

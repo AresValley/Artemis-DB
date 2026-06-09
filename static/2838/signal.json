@@ -1,12 +1,14 @@
 {
     "pageid": "2838",
     "title": "UIC 751-3",
-    "spectrum": [
-        "UIC 751-3.png"
-    ],
-    "audio": [
-        "SDRSharp 20180321 181217Z 447650000Hz AF.mp3"
-    ],
+    "spectrum": {
+        "filename": "UIC 751-3.png",
+        "url": null
+    },
+    "audio": {
+        "filename": "SDRSharp 20180321 181217Z 447650000Hz AF.mp3",
+        "url": null
+    },
     "category": [],
     "frequency": [
         {

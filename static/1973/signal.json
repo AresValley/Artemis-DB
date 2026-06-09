@@ -1,12 +1,14 @@
 {
     "pageid": "1973",
     "title": "ARQ-M2-342",
-    "spectrum": [
-        "ARQ-M2-342.jpg"
-    ],
-    "audio": [
-        "arq-m2-342.mp3"
-    ],
+    "spectrum": {
+        "filename": "ARQ-M2-342.jpg",
+        "url": null
+    },
+    "audio": {
+        "filename": "arq-m2-342.mp3",
+        "url": null
+    },
     "category": [
         "Digital",
         "Aviation",

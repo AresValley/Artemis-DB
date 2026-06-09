@@ -1,12 +1,14 @@
 {
     "pageid": "5083",
     "title": "Yaesu System Fusion",
-    "spectrum": [
-        "YSFopt.png"
-    ],
-    "audio": [
-        "Yaesu sys fusion.wav"
-    ],
+    "spectrum": {
+        "filename": "YSFopt.png",
+        "url": null
+    },
+    "audio": {
+        "filename": "Yaesu sys fusion.wav",
+        "url": null
+    },
     "category": [
         "Amateur Radio",
         "Digital"

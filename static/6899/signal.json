@@ -1,12 +1,14 @@
 {
     "pageid": "6899",
     "title": "Horus Binary 4FSK - v2",
-    "spectrum": [
-        "Horus4fskwaterfall.png"
-    ],
-    "audio": [
-        "Horus4fsk.mp3"
-    ],
+    "spectrum": {
+        "filename": "Horus4fskwaterfall.png",
+        "url": null
+    },
+    "audio": {
+        "filename": "Horus4fsk.mp3",
+        "url": null
+    },
     "category": [
         "Utility",
         "Amateur Radio",

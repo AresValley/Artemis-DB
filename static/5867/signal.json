@@ -1,12 +1,14 @@
 {
     "pageid": "5867",
     "title": "Hoffman Broadfield Signpost AVM System",
-    "spectrum": [
-        "Mpt1327 clone.png"
-    ],
-    "audio": [
-        "SDRSharp 20200628 022743Z 507875000Hz AF.mp3"
-    ],
+    "spectrum": {
+        "filename": "Mpt1327 clone.png",
+        "url": null
+    },
+    "audio": {
+        "filename": "SDRSharp 20200628 022743Z 507875000Hz AF.mp3",
+        "url": null
+    },
     "category": [
         "Commercial",
         "Digital"

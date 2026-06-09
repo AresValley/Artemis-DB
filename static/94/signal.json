@@ -1,12 +1,14 @@
 {
     "pageid": "94",
     "title": "FM Broadcast Radio",
-    "spectrum": [
-        "Broadcast_FM.jpg"
-    ],
-    "audio": [
-        "WFM.mp3"
-    ],
+    "spectrum": {
+        "filename": "Broadcast_FM.jpg",
+        "url": null
+    },
+    "audio": {
+        "filename": "WFM.mp3",
+        "url": null
+    },
     "category": [
         "Commercial",
         "Analogue"

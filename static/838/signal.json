@@ -1,12 +1,14 @@
 {
     "pageid": "838",
     "title": "SiriusXM Satellite Radio",
-    "spectrum": [
-        "XM Sattelite Radio.PNG"
-    ],
-    "audio": [
-        "XM Sattelite Radio sounds.mp3"
-    ],
+    "spectrum": {
+        "filename": "XM Sattelite Radio.PNG",
+        "url": null
+    },
+    "audio": {
+        "filename": "XM Sattelite Radio sounds.mp3",
+        "url": null
+    },
     "category": [
         "Satellite",
         "Digital",

@@ -1,12 +1,14 @@
 {
     "pageid": "3329",
     "title": "Quadcopter Telemetry Signal",
-    "spectrum": [
-        "Quadcopter.png"
-    ],
-    "audio": [
-        "N/A"
-    ],
+    "spectrum": {
+        "filename": "Quadcopter.png",
+        "url": null
+    },
+    "audio": {
+        "filename": "N/A",
+        "url": null
+    },
     "category": [
         "Aviation",
         "Digital"

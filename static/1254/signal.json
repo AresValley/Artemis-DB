@@ -1,12 +1,14 @@
 {
     "pageid": "1254",
     "title": "DCF77",
-    "spectrum": [
-        "DCF77.jpg"
-    ],
-    "audio": [
-        "DCF77.mp3"
-    ],
+    "spectrum": {
+        "filename": "DCF77.jpg",
+        "url": null
+    },
+    "audio": {
+        "filename": "DCF77.mp3",
+        "url": null
+    },
     "category": [
         "Time",
         "Digital"

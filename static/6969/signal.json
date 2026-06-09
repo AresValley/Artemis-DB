@@ -1,12 +1,14 @@
 {
     "pageid": "6969",
     "title": "Aprizesat",
-    "spectrum": [
-        "AprizesatWF.png"
-    ],
-    "audio": [
-        "Aprizesat.mp3"
-    ],
+    "spectrum": {
+        "filename": "AprizesatWF.png",
+        "url": null
+    },
+    "audio": {
+        "filename": "Aprizesat.mp3",
+        "url": null
+    },
     "category": [
         "Commercial",
         "Satellite",

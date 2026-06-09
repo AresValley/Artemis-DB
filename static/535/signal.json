@@ -1,12 +1,14 @@
 {
     "pageid": "535",
     "title": "ReFLEX",
-    "spectrum": [
-        "ReFLEX.jpg"
-    ],
-    "audio": [
-        "ReFLEXaudio1.mp3"
-    ],
+    "spectrum": {
+        "filename": "ReFLEX.jpg",
+        "url": null
+    },
+    "audio": {
+        "filename": "ReFLEXaudio1.mp3",
+        "url": null
+    },
     "category": [
         "Digital",
         "Commercial"

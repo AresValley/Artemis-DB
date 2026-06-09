@@ -1,12 +1,14 @@
 {
     "pageid": "5481",
     "title": "The Pip",
-    "spectrum": [
-        "The Pip.PNG"
-    ],
-    "audio": [
-        "pso.p.sdrotg.com_2021-11-18T23_46_32Z_3756.00_usb.ogg"
-    ],
+    "spectrum": {
+        "filename": "The Pip.PNG",
+        "url": null
+    },
+    "audio": {
+        "filename": "pso.p.sdrotg.com_2021-11-18T23_46_32Z_3756.00_usb.ogg",
+        "url": null
+    },
     "category": [
         "Military",
         "Numbers Stations"

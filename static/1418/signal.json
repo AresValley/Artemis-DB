@@ -1,12 +1,14 @@
 {
     "pageid": "1418",
     "title": "STANAG 4529",
-    "spectrum": [
-        "4529 long.jpg"
-    ],
-    "audio": [
-        "STANAG-4529.mp3"
-    ],
+    "spectrum": {
+        "filename": "4529 long.jpg",
+        "url": null
+    },
+    "audio": {
+        "filename": "STANAG-4529.mp3",
+        "url": null
+    },
     "category": [
         "Military",
         "Digital"

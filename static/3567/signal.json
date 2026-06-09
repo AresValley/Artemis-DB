@@ -1,12 +1,14 @@
 {
     "pageid": "3567",
     "title": "HFGCS (High Frequency Global Communications System)",
-    "spectrum": [
-        "11175 KHZ Crop Waterfall.png"
-    ],
-    "audio": [
-        "HFGCS 10.wav"
-    ],
+    "spectrum": {
+        "filename": "11175 KHZ Crop Waterfall.png",
+        "url": null
+    },
+    "audio": {
+        "filename": "HFGCS 10.wav",
+        "url": null
+    },
     "category": [
         "Military",
         "Aviation"

@@ -1,12 +1,14 @@
 {
     "pageid": "7912",
     "title": "F07 number station",
-    "spectrum": [
-        "F07 img.png"
-    ],
-    "audio": [
-        "Fluffles F07 recording.mp3"
-    ],
+    "spectrum": {
+        "filename": "F07 img.png",
+        "url": null
+    },
+    "audio": {
+        "filename": "Fluffles F07 recording.mp3",
+        "url": null
+    },
     "category": [
         "Military",
         "Numbers Stations",

@@ -1,12 +1,14 @@
 {
     "pageid": "200",
     "title": "Multi Frequency Shift Keying (MFSK)",
-    "spectrum": [
-        "MFSK_8_thmb.jpg"
-    ],
-    "audio": [
-        "MFSK_16.mp3"
-    ],
+    "spectrum": {
+        "filename": "MFSK_8_thmb.jpg",
+        "url": null
+    },
+    "audio": {
+        "filename": "MFSK_16.mp3",
+        "url": null
+    },
     "category": [
         "Amateur Radio",
         "Digital"

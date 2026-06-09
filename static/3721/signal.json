@@ -1,12 +1,14 @@
 {
     "pageid": "3721",
     "title": "FSQ",
-    "spectrum": [
-        "FSQ.png"
-    ],
-    "audio": [
-        "FSQ.mp3"
-    ],
+    "spectrum": {
+        "filename": "FSQ.png",
+        "url": null
+    },
+    "audio": {
+        "filename": "FSQ.mp3",
+        "url": null
+    },
     "category": [
         "Digital",
         "Amateur Radio"

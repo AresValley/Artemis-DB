@@ -1,12 +1,14 @@
 {
     "pageid": "3187",
     "title": "RTTYM",
-    "spectrum": [
-        "RTTYM.png"
-    ],
-    "audio": [
-        "RTTYM.mp3"
-    ],
+    "spectrum": {
+        "filename": "RTTYM.png",
+        "url": null
+    },
+    "audio": {
+        "filename": "RTTYM.mp3",
+        "url": null
+    },
     "category": [
         "Digital",
         "Amateur Radio"

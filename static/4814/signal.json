@@ -1,12 +1,14 @@
 {
     "pageid": "4814",
     "title": "Milstar",
-    "spectrum": [
-        "Milstar_FHSS.jpg"
-    ],
-    "audio": [
-        "SDRSharp 20180117 095857Z 243799000Hz IQ.wav"
-    ],
+    "spectrum": {
+        "filename": "Milstar_FHSS.jpg",
+        "url": null
+    },
+    "audio": {
+        "filename": "SDRSharp 20180117 095857Z 243799000Hz IQ.wav",
+        "url": null
+    },
     "category": [
         "Digital",
         "Military",

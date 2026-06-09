@@ -1,12 +1,14 @@
 {
     "pageid": "6512",
     "title": "Digital-Coded Squelch (DCS)",
-    "spectrum": [
-        "DCS.JPG"
-    ],
-    "audio": [
-        "DCS s.mp3"
-    ],
+    "spectrum": {
+        "filename": "DCS.JPG",
+        "url": null
+    },
+    "audio": {
+        "filename": "DCS s.mp3",
+        "url": null
+    },
     "category": [
         "Commercial",
         "Digital"

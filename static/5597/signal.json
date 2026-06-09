@@ -1,12 +1,14 @@
 {
     "pageid": "5597",
     "title": "GRAW DFM-09 Weather Balloon (Radiosonde)",
-    "spectrum": [
-        "DFM092.png"
-    ],
-    "audio": [
-        "DFM-09 Audio.mp3"
-    ],
+    "spectrum": {
+        "filename": "DFM092.png",
+        "url": null
+    },
+    "audio": {
+        "filename": "DFM-09 Audio.mp3",
+        "url": null
+    },
     "category": [],
     "frequency": [
         {

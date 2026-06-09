@@ -1,12 +1,14 @@
 {
     "pageid": "5094",
     "title": "NB-IOT",
-    "spectrum": [
-        "NB-IOT.JPG"
-    ],
-    "audio": [
-        "NB-IOT.mp3"
-    ],
+    "spectrum": {
+        "filename": "NB-IOT.JPG",
+        "url": null
+    },
+    "audio": {
+        "filename": "NB-IOT.mp3",
+        "url": null
+    },
     "category": [
         "Digital",
         "Commercial"

@@ -1,12 +1,14 @@
 {
     "pageid": "5993",
     "title": "Ground-Based Augmentation System (GBAS)",
-    "spectrum": [
-        "YMML GBAS WF.mp3.png"
-    ],
-    "audio": [
-        "YMML GBAS AF.mp3"
-    ],
+    "spectrum": {
+        "filename": "YMML GBAS WF.mp3.png",
+        "url": null
+    },
+    "audio": {
+        "filename": "YMML GBAS AF.mp3",
+        "url": null
+    },
     "category": [
         "Aviation",
         "Navigation"

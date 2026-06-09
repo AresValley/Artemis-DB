@@ -1,12 +1,14 @@
 {
     "pageid": "3123",
     "title": "MD-674",
-    "spectrum": [
-        "MD-674.png"
-    ],
-    "audio": [
-        "md-674.mp3"
-    ],
+    "spectrum": {
+        "filename": "MD-674.png",
+        "url": null
+    },
+    "audio": {
+        "filename": "md-674.mp3",
+        "url": null
+    },
     "category": [
         "Digital",
         "Military"

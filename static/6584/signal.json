@@ -1,8 +1,14 @@
 {
     "pageid": "6584",
     "title": "Digital Radio Mondiale Plus (DRM+)",
-    "spectrum": [],
-    "audio": [],
+    "spectrum": {
+        "filename": null,
+        "url": null
+    },
+    "audio": {
+        "filename": null,
+        "url": null
+    },
     "category": [
         "Digital",
         "Commercial"

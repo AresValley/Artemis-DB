@@ -1,12 +1,14 @@
 {
     "pageid": "7622",
     "title": "MSF",
-    "spectrum": [
-        "MSF_3.png"
-    ],
-    "audio": [
-        "MSF.ogg"
-    ],
+    "spectrum": {
+        "filename": "MSF_3.png",
+        "url": null
+    },
+    "audio": {
+        "filename": "MSF.ogg",
+        "url": null
+    },
     "category": [
         "Time"
     ],

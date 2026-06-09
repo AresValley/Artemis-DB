@@ -1,12 +1,14 @@
 {
     "pageid": "2958",
     "title": "High Frequency Data and Voice Link (HFDVL)",
-    "spectrum": [
-        "HFDVL.jpg"
-    ],
-    "audio": [
-        "HFDVL.mp3"
-    ],
+    "spectrum": {
+        "filename": "HFDVL.jpg",
+        "url": null
+    },
+    "audio": {
+        "filename": "HFDVL.mp3",
+        "url": null
+    },
     "category": [
         "Digital",
         "Military"

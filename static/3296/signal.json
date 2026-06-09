@@ -1,12 +1,14 @@
 {
     "pageid": "3296",
     "title": "SPREAD",
-    "spectrum": [
-        "SPREAD.jpg"
-    ],
-    "audio": [
-        "spread-51.mp3"
-    ],
+    "spectrum": {
+        "filename": "SPREAD.jpg",
+        "url": null
+    },
+    "audio": {
+        "filename": "spread-51.mp3",
+        "url": null
+    },
     "category": [
         "Digital"
     ],

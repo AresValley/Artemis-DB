@@ -1,12 +1,14 @@
 {
     "pageid": "76",
     "title": "MPT 1327",
-    "spectrum": [
-        "MPT1327_waterfall.png"
-    ],
-    "audio": [
-        "MPT1327_Sound.mp3"
-    ],
+    "spectrum": {
+        "filename": "MPT1327_waterfall.png",
+        "url": null
+    },
+    "audio": {
+        "filename": "MPT1327_Sound.mp3",
+        "url": null
+    },
     "category": [
         "Trunked Radio",
         "Digital"

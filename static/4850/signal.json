@@ -1,12 +1,14 @@
 {
     "pageid": "4850",
     "title": "NML",
-    "spectrum": [
-        "NMLopt.png"
-    ],
-    "audio": [
-        "HE Holt.mp3"
-    ],
+    "spectrum": {
+        "filename": "NMLopt.png",
+        "url": null
+    },
+    "audio": {
+        "filename": "HE Holt.mp3",
+        "url": null
+    },
     "category": [
         "Military",
         "Digital"

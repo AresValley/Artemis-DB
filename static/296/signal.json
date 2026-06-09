@@ -1,12 +1,14 @@
 {
     "pageid": "296",
     "title": "SITOR-A",
-    "spectrum": [
-        "SITOR-A.jpg"
-    ],
-    "audio": [
-        "ARQ-AMTOR.mp3"
-    ],
+    "spectrum": {
+        "filename": "SITOR-A.jpg",
+        "url": null
+    },
+    "audio": {
+        "filename": "ARQ-AMTOR.mp3",
+        "url": null
+    },
     "category": [
         "Marine",
         "Digital"

@@ -1,12 +1,14 @@
 {
     "pageid": "1198",
     "title": "ARQ-E(E3)",
-    "spectrum": [
-        "ARQE3192Bd.png"
-    ],
-    "audio": [
-        "ARQ-E3_192_Baud.mp3"
-    ],
+    "spectrum": {
+        "filename": "ARQE3192Bd.png",
+        "url": null
+    },
+    "audio": {
+        "filename": "ARQ-E3_192_Baud.mp3",
+        "url": null
+    },
     "category": [
         "Military",
         "Digital"

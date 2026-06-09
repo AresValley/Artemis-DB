@@ -1,12 +1,14 @@
 {
     "pageid": "6728",
     "title": "Digital NBTV",
-    "spectrum": [
-        "D-NBTV.png"
-    ],
-    "audio": [
-        "D-NBTV1.wav"
-    ],
+    "spectrum": {
+        "filename": "D-NBTV.png",
+        "url": null
+    },
+    "audio": {
+        "filename": "D-NBTV1.wav",
+        "url": null
+    },
     "category": [
         "Amateur Radio",
         "Digital"

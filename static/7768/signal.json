@@ -1,12 +1,14 @@
 {
     "pageid": "7768",
     "title": "Industrial key opener",
-    "spectrum": [
-        "Screenshot 2025-01-22 220604.png"
-    ],
-    "audio": [
-        "Screen Recording 2025-01-22 220854.mp3"
-    ],
+    "spectrum": {
+        "filename": "Screenshot 2025-01-22 220604.png",
+        "url": null
+    },
+    "audio": {
+        "filename": "Screen Recording 2025-01-22 220854.mp3",
+        "url": null
+    },
     "category": [
         "Utility"
     ],

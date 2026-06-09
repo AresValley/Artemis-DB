@@ -1,12 +1,14 @@
 {
     "pageid": "8372",
     "title": "OTP-2 Satellite Musical Beacon",
-    "spectrum": [
-        "UNID Musical Satellite Slowed Stretched.png"
-    ],
-    "audio": [
-        "UNID Musical Satellite.mp3"
-    ],
+    "spectrum": {
+        "filename": "UNID Musical Satellite Slowed Stretched.png",
+        "url": null
+    },
+    "audio": {
+        "filename": "UNID Musical Satellite.mp3",
+        "url": null
+    },
     "category": [
         "Satellite",
         "Analogue"

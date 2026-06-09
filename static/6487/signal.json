@@ -1,8 +1,14 @@
 {
     "pageid": "6487",
     "title": "Cobra Dane",
-    "spectrum": [],
-    "audio": [],
+    "spectrum": {
+        "filename": null,
+        "url": null
+    },
+    "audio": {
+        "filename": null,
+        "url": null
+    },
     "category": [
         "Military",
         "Radar"

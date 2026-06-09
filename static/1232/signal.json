@@ -1,12 +1,14 @@
 {
     "pageid": "1232",
     "title": "CIS-8181",
-    "spectrum": [
-        "CIS-8181.jpg"
-    ],
-    "audio": [
-        "8181_81.mp3"
-    ],
+    "spectrum": {
+        "filename": "CIS-8181.jpg",
+        "url": null
+    },
+    "audio": {
+        "filename": "8181_81.mp3",
+        "url": null
+    },
     "category": [
         "Military",
         "Digital"

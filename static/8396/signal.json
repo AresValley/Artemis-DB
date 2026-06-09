@@ -1,12 +1,14 @@
 {
     "pageid": "8396",
     "title": "Podsolnukh 'Sunflower' Radar",
-    "spectrum": [
-        "Sunflower thumbnail.jpg"
-    ],
-    "audio": [
-        "Sunflower IQ.wav"
-    ],
+    "spectrum": {
+        "filename": "Sunflower thumbnail.jpg",
+        "url": null
+    },
+    "audio": {
+        "filename": "Sunflower IQ.wav",
+        "url": null
+    },
     "category": [
         "Radar",
         "Military",

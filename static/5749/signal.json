@@ -1,10 +1,14 @@
 {
     "pageid": "5749",
     "title": "Sensus Water meter (Acquisition units)",
-    "spectrum": [
-        "SWD.png"
-    ],
-    "audio": [],
+    "spectrum": {
+        "filename": "SWD.png",
+        "url": null
+    },
+    "audio": {
+        "filename": null,
+        "url": null
+    },
     "category": [
         "Commercial",
         "Digital"

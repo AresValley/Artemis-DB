@@ -1,12 +1,14 @@
 {
     "pageid": "2548",
     "title": "EFR Teleswitch",
-    "spectrum": [
-        "EFR_Teleswitch.jpg"
-    ],
-    "audio": [
-        "EFR_Teleswitch.mp3"
-    ],
+    "spectrum": {
+        "filename": "EFR_Teleswitch.jpg",
+        "url": null
+    },
+    "audio": {
+        "filename": "EFR_Teleswitch.mp3",
+        "url": null
+    },
     "category": [
         "Utility"
     ],

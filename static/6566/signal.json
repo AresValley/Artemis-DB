@@ -1,12 +1,14 @@
 {
     "pageid": "6566",
     "title": "MRZ-N1 Weather Balloon (radiosonde)",
-    "spectrum": [
-        "MHZ.PNG"
-    ],
-    "audio": [
-        "MRZ radiosonde.mp3"
-    ],
+    "spectrum": {
+        "filename": "MHZ.PNG",
+        "url": null
+    },
+    "audio": {
+        "filename": "MRZ radiosonde.mp3",
+        "url": null
+    },
     "category": [
         "Digital"
     ],

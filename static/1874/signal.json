@@ -1,12 +1,14 @@
 {
     "pageid": "1874",
     "title": "Israeli Intelligence VFT",
-    "spectrum": [
-        "Israeli Intel VFT.jpg"
-    ],
-    "audio": [
-        "ISR-VFT75-150 Complete.mp3"
-    ],
+    "spectrum": {
+        "filename": "Israeli Intel VFT.jpg",
+        "url": null
+    },
+    "audio": {
+        "filename": "ISR-VFT75-150 Complete.mp3",
+        "url": null
+    },
     "category": [
         "Digital"
     ],

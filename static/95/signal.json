@@ -1,12 +1,14 @@
 {
     "pageid": "95",
     "title": "Amplitude Modulation (AM)",
-    "spectrum": [
-        "AM_radio.jpg"
-    ],
-    "audio": [
-        "AM_Modulatio_2015-06-27T16-57-35Z_198.0kHz.mp3"
-    ],
+    "spectrum": {
+        "filename": "AM_radio.jpg",
+        "url": null
+    },
+    "audio": {
+        "filename": "AM_Modulatio_2015-06-27T16-57-35Z_198.0kHz.mp3",
+        "url": null
+    },
     "category": [
         "Analogue",
         "Commercial",

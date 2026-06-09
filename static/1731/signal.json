@@ -1,10 +1,14 @@
 {
     "pageid": "1731",
     "title": "Digital Multimedia Broadcasting (DMB)",
-    "spectrum": [
-        "DMB-TDMB-Waterfall-01.jpg"
-    ],
-    "audio": [],
+    "spectrum": {
+        "filename": "DMB-TDMB-Waterfall-01.jpg",
+        "url": null
+    },
+    "audio": {
+        "filename": null,
+        "url": null
+    },
     "category": [
         "Digital",
         "Commercial"

@@ -1,12 +1,14 @@
 {
     "pageid": "3134",
     "title": "MD-522",
-    "spectrum": [
-        "MD-674.png"
-    ],
-    "audio": [
-        "mil-m-55529a.mp3"
-    ],
+    "spectrum": {
+        "filename": "MD-674.png",
+        "url": null
+    },
+    "audio": {
+        "filename": "mil-m-55529a.mp3",
+        "url": null
+    },
     "category": [
         "Digital",
         "Military"

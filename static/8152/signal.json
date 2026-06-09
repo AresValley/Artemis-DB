@@ -1,8 +1,14 @@
 {
     "pageid": "8152",
     "title": "802.11ah",
-    "spectrum": [],
-    "audio": [],
+    "spectrum": {
+        "filename": null,
+        "url": null
+    },
+    "audio": {
+        "filename": null,
+        "url": null
+    },
     "category": [
         "Digital",
         "Utility"

@@ -1,12 +1,14 @@
 {
     "pageid": "7395",
     "title": "Siemens 1.5T MRI Scanner",
-    "spectrum": [
-        "T2_mri_cropped.png"
-    ],
-    "audio": [
-        "T2_mri_rf.mp3"
-    ],
+    "spectrum": {
+        "filename": "T2_mri_cropped.png",
+        "url": null
+    },
+    "audio": {
+        "filename": "T2_mri_rf.mp3",
+        "url": null
+    },
     "category": [],
     "frequency": [
         {

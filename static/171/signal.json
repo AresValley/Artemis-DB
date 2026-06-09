@@ -1,12 +1,14 @@
 {
     "pageid": "171",
     "title": "VHF Data Link - Mode 2 (VDL-M2)",
-    "spectrum": [
-        "VDL2_Waterfallthmb.jpg"
-    ],
-    "audio": [
-        "VDL-M2.mp3"
-    ],
+    "spectrum": {
+        "filename": "VDL2_Waterfallthmb.jpg",
+        "url": null
+    },
+    "audio": {
+        "filename": "VDL-M2.mp3",
+        "url": null
+    },
     "category": [
         "Aviation",
         "Digital"

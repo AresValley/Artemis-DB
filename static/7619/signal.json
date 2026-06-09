@@ -1,12 +1,14 @@
 {
     "pageid": "7619",
     "title": "RF heating and welding interference",
-    "spectrum": [
-        "RF heating 2.png"
-    ],
-    "audio": [
-        "RF heating 2.ogg"
-    ],
+    "spectrum": {
+        "filename": "RF heating 2.png",
+        "url": null
+    },
+    "audio": {
+        "filename": "RF heating 2.ogg",
+        "url": null
+    },
     "category": [
         "Interfering"
     ],

@@ -1,12 +1,14 @@
 {
     "pageid": "5454",
     "title": "Duga radar",
-    "spectrum": [
-        "Duga3.png"
-    ],
-    "audio": [
-        "Sound clip of sound transmitted by DUGA-3.mp3"
-    ],
+    "spectrum": {
+        "filename": "Duga3.png",
+        "url": null
+    },
+    "audio": {
+        "filename": "Sound clip of sound transmitted by DUGA-3.mp3",
+        "url": null
+    },
     "category": [
         "Military",
         "Radar"

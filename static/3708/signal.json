@@ -1,12 +1,14 @@
 {
     "pageid": "3708",
     "title": "BPC",
-    "spectrum": [
-        "BPC.jpg"
-    ],
-    "audio": [
-        "CHN BPC.mp3"
-    ],
+    "spectrum": {
+        "filename": "BPC.jpg",
+        "url": null
+    },
+    "audio": {
+        "filename": "CHN BPC.mp3",
+        "url": null
+    },
     "category": [
         "Time"
     ],

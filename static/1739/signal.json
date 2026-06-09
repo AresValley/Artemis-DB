@@ -1,12 +1,14 @@
 {
     "pageid": "1739",
     "title": "Digital Mobile Radio (DMR)",
-    "spectrum": [
-        "DMR.jpg"
-    ],
-    "audio": [
-        "DMR.mp3"
-    ],
+    "spectrum": {
+        "filename": "DMR.jpg",
+        "url": null
+    },
+    "audio": {
+        "filename": "DMR.mp3",
+        "url": null
+    },
     "category": [
         "Digital",
         "Trunked Radio"

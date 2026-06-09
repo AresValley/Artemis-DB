@@ -1,12 +1,14 @@
 {
     "pageid": "8560",
     "title": "EBRO S800 keyfob",
-    "spectrum": [
-        "EBRO-S800.jpg"
-    ],
-    "audio": [
-        "EBRO-S800 keyfob.mp3"
-    ],
+    "spectrum": {
+        "filename": "EBRO-S800.jpg",
+        "url": null
+    },
+    "audio": {
+        "filename": "EBRO-S800 keyfob.mp3",
+        "url": null
+    },
     "category": [
         "Utility",
         "Digital"

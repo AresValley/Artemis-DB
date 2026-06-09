@@ -1,12 +1,14 @@
 {
     "pageid": "640",
     "title": "Codan Data Modem",
-    "spectrum": [
-        "Codan_Modem.jpg"
-    ],
-    "audio": [
-        "CODAN_all_modes.mp3"
-    ],
+    "spectrum": {
+        "filename": "Codan_Modem.jpg",
+        "url": null
+    },
+    "audio": {
+        "filename": "CODAN_all_modes.mp3",
+        "url": null
+    },
     "category": [
         "Digital"
     ],

@@ -1,12 +1,14 @@
 {
     "pageid": "368",
     "title": "JT65",
-    "spectrum": [
-        "JT65AWaterfall.png"
-    ],
-    "audio": [
-        "JT65A.mp3"
-    ],
+    "spectrum": {
+        "filename": "JT65AWaterfall.png",
+        "url": null
+    },
+    "audio": {
+        "filename": "JT65A.mp3",
+        "url": null
+    },
     "category": [
         "Digital",
         "Amateur Radio"

@@ -1,12 +1,14 @@
 {
     "pageid": "4153",
     "title": "Inmarsat IsatM2M",
-    "spectrum": [
-        "Inmarsat-D.jpg"
-    ],
-    "audio": [
-        "Inmarsat-D-audio.mp3"
-    ],
+    "spectrum": {
+        "filename": "Inmarsat-D.jpg",
+        "url": null
+    },
+    "audio": {
+        "filename": "Inmarsat-D-audio.mp3",
+        "url": null
+    },
     "category": [
         "Satellite",
         "Digital",

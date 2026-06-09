@@ -1,12 +1,14 @@
 {
     "pageid": "6092",
     "title": "Land Rover Discovery 4 Car Key",
-    "spectrum": [
-        "NoWaterfallFiller.png"
-    ],
-    "audio": [
-        "LR (mp3cut.net).mp3"
-    ],
+    "spectrum": {
+        "filename": "NoWaterfallFiller.png",
+        "url": null
+    },
+    "audio": {
+        "filename": "LR (mp3cut.net).mp3",
+        "url": null
+    },
     "category": [],
     "frequency": [
         {

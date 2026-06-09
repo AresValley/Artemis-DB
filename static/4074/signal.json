@@ -1,12 +1,14 @@
 {
     "pageid": "4074",
     "title": "UK AM Data System (UK-AMDS)",
-    "spectrum": [
-        "BBC teleswitch 2.png"
-    ],
-    "audio": [
-        "bbc teleswitch.mp3"
-    ],
+    "spectrum": {
+        "filename": "BBC teleswitch 2.png",
+        "url": null
+    },
+    "audio": {
+        "filename": "bbc teleswitch.mp3",
+        "url": null
+    },
     "category": [
         "Commercial",
         "Time",

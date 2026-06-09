@@ -1,10 +1,14 @@
 {
     "pageid": "7714",
     "title": "Whelen DTMF",
-    "spectrum": [
-        "Screenshot 2024-10-18 8.56.13 AM.png"
-    ],
-    "audio": [],
+    "spectrum": {
+        "filename": "Screenshot 2024-10-18 8.56.13 AM.png",
+        "url": null
+    },
+    "audio": {
+        "filename": null,
+        "url": null
+    },
     "category": [],
     "frequency": [],
     "bandwidth": [],

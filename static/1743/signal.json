@@ -1,12 +1,14 @@
 {
     "pageid": "1743",
     "title": "Glenayre Paging Link",
-    "spectrum": [
-        "glenayre paging link spectra.PNG"
-    ],
-    "audio": [
-        "152.54-Glenayre.mp3"
-    ],
+    "spectrum": {
+        "filename": "glenayre paging link spectra.PNG",
+        "url": null
+    },
+    "audio": {
+        "filename": "152.54-Glenayre.mp3",
+        "url": null
+    },
     "category": [
         "Digital"
     ],

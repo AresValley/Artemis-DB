@@ -1,12 +1,14 @@
 {
     "pageid": "3034",
     "title": "Israeli Navy Hybrid Modem (188-110 MOD)",
-    "spectrum": [
-        "Mil_Mod_Israeli.jpg"
-    ],
-    "audio": [
-        "ISR-NY_HYBRID.mp3"
-    ],
+    "spectrum": {
+        "filename": "Mil_Mod_Israeli.jpg",
+        "url": null
+    },
+    "audio": {
+        "filename": "ISR-NY_HYBRID.mp3",
+        "url": null
+    },
     "category": [
         "Military",
         "Digital"

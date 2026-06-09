@@ -1,12 +1,14 @@
 {
     "pageid": "3973",
     "title": "ARGOS A-DCS",
-    "spectrum": [
-        "KMS4-Waterfall.jpg"
-    ],
-    "audio": [
-        "KMS4-Sample.mp3"
-    ],
+    "spectrum": {
+        "filename": "KMS4-Waterfall.jpg",
+        "url": null
+    },
+    "audio": {
+        "filename": "KMS4-Sample.mp3",
+        "url": null
+    },
     "category": [
         "Satellite",
         "Digital"

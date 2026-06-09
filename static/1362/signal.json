@@ -1,12 +1,14 @@
 {
     "pageid": "1362",
     "title": "MSM-1250 Modem",
-    "spectrum": [
-        "MSM-1250.jpg"
-    ],
-    "audio": [
-        "SKYFAX-MSN.mp3"
-    ],
+    "spectrum": {
+        "filename": "MSM-1250.jpg",
+        "url": null
+    },
+    "audio": {
+        "filename": "SKYFAX-MSN.mp3",
+        "url": null
+    },
     "category": [
         "Digital"
     ],

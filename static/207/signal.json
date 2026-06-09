@@ -1,12 +1,14 @@
 {
     "pageid": "207",
     "title": "Voice Inversion Scrambling",
-    "spectrum": [
-        "Voice inversion.png"
-    ],
-    "audio": [
-        "Voice-Inversion.wav"
-    ],
+    "spectrum": {
+        "filename": "Voice inversion.png",
+        "url": null
+    },
+    "audio": {
+        "filename": "Voice-Inversion.wav",
+        "url": null
+    },
     "category": [
         "Analogue"
     ],

@@ -1,12 +1,14 @@
 {
     "pageid": "7985",
     "title": "F03 numbers station",
-    "spectrum": [
-        "F03l.png"
-    ],
-    "audio": [
-        "F03l.mp3"
-    ],
+    "spectrum": {
+        "filename": "F03l.png",
+        "url": null
+    },
+    "audio": {
+        "filename": "F03l.mp3",
+        "url": null
+    },
     "category": [
         "Digital"
     ],

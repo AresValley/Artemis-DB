@@ -1,12 +1,14 @@
 {
     "pageid": "7294",
     "title": "CIS MFSK-21-13",
-    "spectrum": [
-        "MFSK 21-13 21to13.png"
-    ],
-    "audio": [
-        "CIS MFSK 21-13 21-to-13 sample.ogg"
-    ],
+    "spectrum": {
+        "filename": "MFSK 21-13 21to13.png",
+        "url": null
+    },
+    "audio": {
+        "filename": "CIS MFSK 21-13 21-to-13 sample.ogg",
+        "url": null
+    },
     "category": [
         "Digital",
         "Military"

@@ -1,12 +1,14 @@
 {
     "pageid": "3224",
     "title": "VOICE",
-    "spectrum": [
-        "VOICE.png"
-    ],
-    "audio": [
-        "VoiceMFSK.mp3"
-    ],
+    "spectrum": {
+        "filename": "VOICE.png",
+        "url": null
+    },
+    "audio": {
+        "filename": "VoiceMFSK.mp3",
+        "url": null
+    },
     "category": [
         "Digital",
         "Amateur Radio"

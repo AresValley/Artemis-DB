@@ -1,12 +1,14 @@
 {
     "pageid": "627",
     "title": "CLOVER 2000",
-    "spectrum": [
-        "CLOVER-2000new.jpg"
-    ],
-    "audio": [
-        "clover-2000 wvkm.mp3"
-    ],
+    "spectrum": {
+        "filename": "CLOVER-2000new.jpg",
+        "url": null
+    },
+    "audio": {
+        "filename": "clover-2000 wvkm.mp3",
+        "url": null
+    },
     "category": [
         "Amateur Radio",
         "Digital"

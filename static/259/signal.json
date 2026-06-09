@@ -1,12 +1,14 @@
 {
     "pageid": "259",
     "title": "Multitone Paging",
-    "spectrum": [
-        "Multitone_Pager.jpg"
-    ],
-    "audio": [
-        "UnknownPagerLike_Sound.mp3"
-    ],
+    "spectrum": {
+        "filename": "Multitone_Pager.jpg",
+        "url": null
+    },
+    "audio": {
+        "filename": "UnknownPagerLike_Sound.mp3",
+        "url": null
+    },
     "category": [
         "Digital",
         "Commercial"

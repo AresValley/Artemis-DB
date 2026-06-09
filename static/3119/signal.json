@@ -1,12 +1,14 @@
 {
     "pageid": "3119",
     "title": "HNG-FEC",
-    "spectrum": [
-        "HNG FEC.jpg"
-    ],
-    "audio": [
-        "hng-fec.mp3"
-    ],
+    "spectrum": {
+        "filename": "HNG FEC.jpg",
+        "url": null
+    },
+    "audio": {
+        "filename": "hng-fec.mp3",
+        "url": null
+    },
     "category": [
         "Digital"
     ],

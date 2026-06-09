@@ -1,12 +1,14 @@
 {
     "pageid": "201",
     "title": "Automatic Link Establishment (2G ALE)",
-    "spectrum": [
-        "ALE2G.jpg"
-    ],
-    "audio": [
-        "2G_ALEaudio.mp3"
-    ],
+    "spectrum": {
+        "filename": "ALE2G.jpg",
+        "url": null
+    },
+    "audio": {
+        "filename": "2G_ALEaudio.mp3",
+        "url": null
+    },
     "category": [
         "Military",
         "Digital",

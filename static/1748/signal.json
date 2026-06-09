@@ -1,12 +1,14 @@
 {
     "pageid": "1748",
     "title": "ALE-400",
-    "spectrum": [
-        "ALE-400.jpg"
-    ],
-    "audio": [
-        "ale-400.mp3"
-    ],
+    "spectrum": {
+        "filename": "ALE-400.jpg",
+        "url": null
+    },
+    "audio": {
+        "filename": "ale-400.mp3",
+        "url": null
+    },
     "category": [
         "Amateur Radio",
         "Digital"

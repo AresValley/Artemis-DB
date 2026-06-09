@@ -1,12 +1,14 @@
 {
     "pageid": "3232",
     "title": "Lentus",
-    "spectrum": [
-        "Lentus.png"
-    ],
-    "audio": [
-        "lentus.mp3"
-    ],
+    "spectrum": {
+        "filename": "Lentus.png",
+        "url": null
+    },
+    "audio": {
+        "filename": "lentus.mp3",
+        "url": null
+    },
     "category": [
         "Digital",
         "Amateur Radio"

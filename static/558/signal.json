@@ -1,12 +1,14 @@
 {
     "pageid": "558",
     "title": "Tetrapol",
-    "spectrum": [
-        "Tetrapolnew.jpg"
-    ],
-    "audio": [
-        "Tetrapol_Voice_Tfc.mp3"
-    ],
+    "spectrum": {
+        "filename": "Tetrapolnew.jpg",
+        "url": null
+    },
+    "audio": {
+        "filename": "Tetrapol_Voice_Tfc.mp3",
+        "url": null
+    },
     "category": [
         "Trunked Radio",
         "Digital"

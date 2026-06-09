@@ -1,12 +1,14 @@
 {
     "pageid": "8580",
     "title": "TV Satellite Telemetry",
-    "spectrum": [
-        "11GHz_telemetry.jpg"
-    ],
-    "audio": [
-        "Sat_telemetry.mp3"
-    ],
+    "spectrum": {
+        "filename": "11GHz_telemetry.jpg",
+        "url": null
+    },
+    "audio": {
+        "filename": "Sat_telemetry.mp3",
+        "url": null
+    },
     "category": [
         "Digital",
         "Commercial"

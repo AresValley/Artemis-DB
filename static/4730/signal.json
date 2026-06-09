@@ -1,10 +1,14 @@
 {
     "pageid": "4730",
     "title": "NOAA POES High Resolution Picture Transmission (HRPT)",
-    "spectrum": [
-        "NOAA-HRPT-WF.png"
-    ],
-    "audio": [],
+    "spectrum": {
+        "filename": "NOAA-HRPT-WF.png",
+        "url": null
+    },
+    "audio": {
+        "filename": null,
+        "url": null
+    },
     "category": [
         "Satellite",
         "Digital"

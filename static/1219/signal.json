@@ -1,12 +1,14 @@
 {
     "pageid": "1219",
     "title": "CIS-36-50",
-    "spectrum": [
-        "CIS-36-50.jpg"
-    ],
-    "audio": [
-        "36-50.mp3"
-    ],
+    "spectrum": {
+        "filename": "CIS-36-50.jpg",
+        "url": null
+    },
+    "audio": {
+        "filename": "36-50.mp3",
+        "url": null
+    },
     "category": [
         "Military",
         "Digital"

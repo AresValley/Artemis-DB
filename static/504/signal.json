@@ -1,12 +1,14 @@
 {
     "pageid": "504",
     "title": "Olivia",
-    "spectrum": [
-        "Olivia_8-250y.png"
-    ],
-    "audio": [
-        "Olivia_16-500.mp3"
-    ],
+    "spectrum": {
+        "filename": "Olivia_8-250y.png",
+        "url": null
+    },
+    "audio": {
+        "filename": "Olivia_16-500.mp3",
+        "url": null
+    },
     "category": [
         "Amateur Radio",
         "Digital"

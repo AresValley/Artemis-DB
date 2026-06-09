@@ -1,12 +1,14 @@
 {
     "pageid": "5262",
     "title": "MDC1200",
-    "spectrum": [
-        "MDC1200 3.png"
-    ],
-    "audio": [
-        "MDC1200 audio.wav"
-    ],
+    "spectrum": {
+        "filename": "MDC1200 3.png",
+        "url": null
+    },
+    "audio": {
+        "filename": "MDC1200 audio.wav",
+        "url": null
+    },
     "category": [
         "Commercial",
         "Digital"

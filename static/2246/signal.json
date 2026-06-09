@@ -1,12 +1,14 @@
 {
     "pageid": "2246",
     "title": "Frequency Division Multiplex Digital Voice (FDMDV)",
-    "spectrum": [
-        "1600 tfc DV.png"
-    ],
-    "audio": [
-        "1600 tfc DV.mp3"
-    ],
+    "spectrum": {
+        "filename": "1600 tfc DV.png",
+        "url": null
+    },
+    "audio": {
+        "filename": "1600 tfc DV.mp3",
+        "url": null
+    },
     "category": [
         "Amateur Radio",
         "Digital"

@@ -1,10 +1,14 @@
 {
     "pageid": "7035",
     "title": "GOES Rebroadcast (GRB)",
-    "spectrum": [],
-    "audio": [
-        "Audio 1687100000Hz 14-48-18 09-12-2023.wav"
-    ],
+    "spectrum": {
+        "filename": null,
+        "url": null
+    },
+    "audio": {
+        "filename": "Audio 1687100000Hz 14-48-18 09-12-2023.wav",
+        "url": null
+    },
     "category": [
         "Satellite",
         "Digital"

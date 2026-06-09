@@ -1,12 +1,14 @@
 {
     "pageid": "2171",
     "title": "SECAM",
-    "spectrum": [
-        "SECAM.jpg"
-    ],
-    "audio": [
-        "SECAM.mp3"
-    ],
+    "spectrum": {
+        "filename": "SECAM.jpg",
+        "url": null
+    },
+    "audio": {
+        "filename": "SECAM.mp3",
+        "url": null
+    },
     "category": [
         "Analogue",
         "Commercial"

@@ -1,12 +1,14 @@
 {
     "pageid": "6601",
     "title": "Ethernet Over Powerline",
-    "spectrum": [
-        "Powerline Over Ethernet.png"
-    ],
-    "audio": [
-        "Powerline over Ethernet.wav"
-    ],
+    "spectrum": {
+        "filename": "Powerline Over Ethernet.png",
+        "url": null
+    },
+    "audio": {
+        "filename": "Powerline over Ethernet.wav",
+        "url": null
+    },
     "category": [
         "Digital",
         "Interfering"

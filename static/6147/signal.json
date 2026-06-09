@@ -1,12 +1,14 @@
 {
     "pageid": "6147",
     "title": "B-Netz",
-    "spectrum": [
-        "Bnetz2.png"
-    ],
-    "audio": [
-        "Bnetz cell broadcast.wav"
-    ],
+    "spectrum": {
+        "filename": "Bnetz2.png",
+        "url": null
+    },
+    "audio": {
+        "filename": "Bnetz cell broadcast.wav",
+        "url": null
+    },
     "category": [
         "Commercial"
     ],

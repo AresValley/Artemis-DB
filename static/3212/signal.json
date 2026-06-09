@@ -1,12 +1,14 @@
 {
     "pageid": "3212",
     "title": "CHIP",
-    "spectrum": [
-        "CHIP.jpg"
-    ],
-    "audio": [
-        "CHIP.mp3"
-    ],
+    "spectrum": {
+        "filename": "CHIP.jpg",
+        "url": null
+    },
+    "audio": {
+        "filename": "CHIP.mp3",
+        "url": null
+    },
     "category": [
         "Digital",
         "Amateur Radio"

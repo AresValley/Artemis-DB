@@ -1,12 +1,14 @@
 {
     "pageid": "3349",
     "title": "TWINPLEX",
-    "spectrum": [
-        "Danish TWINPLEX.jpg"
-    ],
-    "audio": [
-        "Danish -TWPLEX.mp3"
-    ],
+    "spectrum": {
+        "filename": "Danish TWINPLEX.jpg",
+        "url": null
+    },
+    "audio": {
+        "filename": "Danish -TWPLEX.mp3",
+        "url": null
+    },
     "category": [
         "Digital"
     ],

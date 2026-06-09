@@ -1,10 +1,14 @@
 {
     "pageid": "6787",
     "title": "PROBA 1/2 Downlink",
-    "spectrum": [
-        "Schermata del 2022-12-26 12-20-13.png"
-    ],
-    "audio": [],
+    "spectrum": {
+        "filename": "Schermata del 2022-12-26 12-20-13.png",
+        "url": null
+    },
+    "audio": {
+        "filename": null,
+        "url": null
+    },
     "category": [
         "Satellite",
         "Digital"

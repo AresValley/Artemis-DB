@@ -1,12 +1,14 @@
 {
     "pageid": "7854",
     "title": "FST4",
-    "spectrum": [
-        "FST4-60.png"
-    ],
-    "audio": [
-        "FST4-60.ogg"
-    ],
+    "spectrum": {
+        "filename": "FST4-60.png",
+        "url": null
+    },
+    "audio": {
+        "filename": "FST4-60.ogg",
+        "url": null
+    },
     "category": [
         "Digital"
     ],

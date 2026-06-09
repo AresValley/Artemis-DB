@@ -1,12 +1,14 @@
 {
     "pageid": "192",
     "title": "ILS Marker Beacon",
-    "spectrum": [
-        "800px-LOM_Waterfallthmb.png"
-    ],
-    "audio": [
-        "LOM_Sound.mp3"
-    ],
+    "spectrum": {
+        "filename": "800px-LOM_Waterfallthmb.png",
+        "url": null
+    },
+    "audio": {
+        "filename": "LOM_Sound.mp3",
+        "url": null
+    },
     "category": [
         "Aviation"
     ],

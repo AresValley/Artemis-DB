@@ -1,12 +1,14 @@
 {
     "pageid": "1727",
     "title": "Digital Enhanced Cordless Telecommunications (DECT)",
-    "spectrum": [
-        "DECT waterfall.jpg"
-    ],
-    "audio": [
-        "Dect16.mp3"
-    ],
+    "spectrum": {
+        "filename": "DECT waterfall.jpg",
+        "url": null
+    },
+    "audio": {
+        "filename": "Dect16.mp3",
+        "url": null
+    },
     "category": [
         "Commercial",
         "Digital"

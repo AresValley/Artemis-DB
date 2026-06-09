@@ -1,12 +1,14 @@
 {
     "pageid": "3362",
     "title": "VISEL",
-    "spectrum": [
-        "VISEL.jpg"
-    ],
-    "audio": [
-        "VISEL 120_9 Baud.mp3"
-    ],
+    "spectrum": {
+        "filename": "VISEL.jpg",
+        "url": null
+    },
+    "audio": {
+        "filename": "VISEL 120_9 Baud.mp3",
+        "url": null
+    },
     "category": [
         "Digital",
         "Military"

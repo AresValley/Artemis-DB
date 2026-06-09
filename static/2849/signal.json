@@ -1,12 +1,14 @@
 {
     "pageid": "2849",
     "title": "Interoperable Electronic Train Management System (I-ETMS)",
-    "spectrum": [
-        "I-ETMS.PNG"
-    ],
-    "audio": [
-        "I-ETMS USB.wav"
-    ],
+    "spectrum": {
+        "filename": "I-ETMS.PNG",
+        "url": null
+    },
+    "audio": {
+        "filename": "I-ETMS USB.wav",
+        "url": null
+    },
     "category": [
         "Digital",
         "Utility"

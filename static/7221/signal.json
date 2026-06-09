@@ -1,12 +1,14 @@
 {
     "pageid": "7221",
     "title": "HF trading link '120 Hz FMCW idle tone'",
-    "spectrum": [
-        "Radar FMCW 120Hz.png"
-    ],
-    "audio": [
-        "Radar FMCW 120Hz USB.ogg"
-    ],
+    "spectrum": {
+        "filename": "Radar FMCW 120Hz.png",
+        "url": null
+    },
+    "audio": {
+        "filename": "Radar FMCW 120Hz USB.ogg",
+        "url": null
+    },
     "category": [
         "Digital",
         "Commercial"

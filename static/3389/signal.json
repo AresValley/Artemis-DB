@@ -1,12 +1,14 @@
 {
     "pageid": "3389",
     "title": "Coherent CW",
-    "spectrum": [
-        "Coherent CW.jpg"
-    ],
-    "audio": [
-        "Coherent CW.mp3"
-    ],
+    "spectrum": {
+        "filename": "Coherent CW.jpg",
+        "url": null
+    },
+    "audio": {
+        "filename": "Coherent CW.mp3",
+        "url": null
+    },
     "category": [
         "Digital",
         "Amateur Radio"

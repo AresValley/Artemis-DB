@@ -1,10 +1,14 @@
 {
     "pageid": "6703",
     "title": "Traffic Light Control R09",
-    "spectrum": [
-        "R09_16_Dresden.png"
-    ],
-    "audio": [],
+    "spectrum": {
+        "filename": "R09_16_Dresden.png",
+        "url": null
+    },
+    "audio": {
+        "filename": null,
+        "url": null
+    },
     "category": [
         "Digital",
         "Utility"

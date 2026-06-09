@@ -1,12 +1,14 @@
 {
     "pageid": "4049",
     "title": "HD Radio (AM)",
-    "spectrum": [
-        "hd_radio_am.jpg"
-    ],
-    "audio": [
-        "HD Radio AM.mp3"
-    ],
+    "spectrum": {
+        "filename": "hd_radio_am.jpg",
+        "url": null
+    },
+    "audio": {
+        "filename": "HD Radio AM.mp3",
+        "url": null
+    },
     "category": [
         "Commercial",
         "Digital"
