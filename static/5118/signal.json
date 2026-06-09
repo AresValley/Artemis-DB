@@ -41,5 +41,7 @@
             "value": "Worldwide",
             "description": ""
         }
-    ]
+    ],
+    "short description": "Valsala Radiosonde RS80. This is an analog weather balloon radiosonde.\nMeasures Temperature, Pressure and Humidity.",
+    "description": null
 }

@@ -45,5 +45,7 @@
             "value": "Worldwide",
             "description": ""
         }
-    ]
+    ],
+    "short description": "Weather balloon telemetry data.",
+    "description": null
 }

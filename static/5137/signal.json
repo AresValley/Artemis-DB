@@ -101,5 +101,7 @@
             "value": "Worldwide",
             "description": ""
         }
-    ]
+    ],
+    "short description": "Weak Signal Propagation Reporter.",
+    "description": null
 }

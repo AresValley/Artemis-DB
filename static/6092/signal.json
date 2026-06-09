@@ -38,5 +38,7 @@
             "value": "Worldwide",
             "description": ""
         }
-    ]
+    ],
+    "short description": "2FSK transmission mode 20828 baud,\nInformation is transmitted by the code \"Manchester\", respectively, the data transfer rate is twice lower (7785.63 baud).",
+    "description": null
 }

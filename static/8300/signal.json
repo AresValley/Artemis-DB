@@ -80,5 +80,7 @@
             "value": "Worldwide",
             "description": ""
         }
-    ]
+    ],
+    "short description": "IEEE 802.11ax-2021, also known as Wi-Fi 6, is a WLAN standard improves upon previous Wi-Fi standards by utilizing 1024QAM modulation, larger channel bandwidths, and improved efficiency.",
+    "description": null
 }

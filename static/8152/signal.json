@@ -48,5 +48,7 @@
             "value": "Worldwide",
             "description": ""
         }
-    ]
+    ],
+    "short description": "HaLow (802.11ah) is a wireless technology standard for exchanging data between devices over medium distances. Released by the Wi-Fi Alliance in 2016, it was initially developed as a competitive Internet of Things standard.",
+    "description": null
 }

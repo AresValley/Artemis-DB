@@ -47,5 +47,7 @@
             "value": "Worldwide",
             "description": ""
         }
-    ]
+    ],
+    "short description": "Radio frequency heating and welding equipment may radiate interference which can be picked up by radio receivers. On a waterfall display, it usually appears as wobbly peaks that rapidly drift downwards in frequency.",
+    "description": null
 }

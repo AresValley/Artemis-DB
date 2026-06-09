@@ -44,5 +44,7 @@
             "value": "Worldwide",
             "description": ""
         }
-    ]
+    ],
+    "short description": "Magnetron produces regularly repeating pulses of microwave energy. These pulses have a defined repetition rate, a stable peak amplitude, and a consistent pulse width.",
+    "description": null
 }

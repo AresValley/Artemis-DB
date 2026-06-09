@@ -55,5 +55,7 @@
             "value": "United States",
             "description": ""
         }
-    ]
+    ],
+    "short description": "UTC (Coordinated Universal Time) time standard transmission from NIST (National Institute of Standards and Technology) stations WWV in Fort Collins, Colorado USA (2.5, 5, 10, 15, 20, 25 MHz) and WWVH in Kauai, Hawaii (2.5, 5, 10, 15 MHz).",
+    "description": null
 }

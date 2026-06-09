@@ -40,5 +40,7 @@
             "value": "Russia",
             "description": ""
         }
-    ]
+    ],
+    "short description": "MRZ-N1 is a russian  weather radiosonde.",
+    "description": null
 }

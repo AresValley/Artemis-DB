@@ -45,5 +45,7 @@
             "value": "Worldwide",
             "description": ""
         }
-    ]
+    ],
+    "short description": "Weather balloon telemetry data. The LORAN-C signal is mixed into the carrier.",
+    "description": null
 }

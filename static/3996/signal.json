@@ -62,5 +62,7 @@
             "value": "United States",
             "description": ""
         }
-    ]
+    ],
+    "short description": "CDMA2000, or IS-2000, is a cellular network standard utilizing the CDMA technology for calls and data.",
+    "description": null
 }

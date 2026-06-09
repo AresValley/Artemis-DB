@@ -68,5 +68,7 @@
             "value": "Worldwide",
             "description": ""
         }
-    ]
+    ],
+    "short description": "FST4 is a 4-GFSK amateur radio communications mode, designed especially for making contacts (QSO's) on LF and MF frequency ranges under extreme weak-signal conditions. It is part of the WSJT-X software.",
+    "description": null
 }

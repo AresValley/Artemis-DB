@@ -46,5 +46,7 @@
             "value": "Worldwide",
             "description": ""
         }
-    ]
+    ],
+    "short description": "RDFT is an amateur radio digital mode used to transmit files.",
+    "description": null
 }

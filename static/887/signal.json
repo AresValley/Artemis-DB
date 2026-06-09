@@ -46,5 +46,7 @@
             "value": "Worldwide",
             "description": ""
         }
-    ]
+    ],
+    "short description": "PACTOR-I is a digital data protocol combining elements of PACKET and AMTOR ARQ.",
+    "description": null
 }

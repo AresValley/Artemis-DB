@@ -42,5 +42,7 @@
             "value": "Asia-Pacific",
             "description": ""
         }
-    ]
+    ],
+    "short description": "LRIT (Low-Rate Image Transmission) is used to transmit images on the GK-2A satellite",
+    "description": null
 }

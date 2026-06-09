@@ -69,5 +69,7 @@
             "value": "Worldwide",
             "description": ""
         }
-    ]
+    ],
+    "short description": "8PSK modulation is a way to encode data using eight phase angles. Each symbol can encode three bits of data. It can achieve higher data rates than other phase modulation schemes, but it also requires a higher signal-to-noise ratio and is more prone to errors.",
+    "description": null
 }

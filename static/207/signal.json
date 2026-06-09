@@ -44,5 +44,7 @@
             "value": "Worldwide",
             "description": ""
         }
-    ]
+    ],
+    "short description": "Analog Voice Inversion Scrambling divides the spectra into multiple bands and swaps them.",
+    "description": null
 }

@@ -56,5 +56,7 @@
             "value": "Russia",
             "description": ""
         }
-    ]
+    ],
+    "short description": "Presumably Russian MFSK signal with wide bandwidth and 17 tones",
+    "description": null
 }

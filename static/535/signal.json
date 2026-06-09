@@ -65,5 +65,7 @@
             "value": "United States",
             "description": ""
         }
-    ]
+    ],
+    "short description": "ReFLEX is a two-way paging variant of FLEX.",
+    "description": null
 }

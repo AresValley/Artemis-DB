@@ -44,5 +44,7 @@
             "value": "Russia",
             "description": ""
         }
-    ]
+    ],
+    "short description": "Also known as F01, this is a digital FSK mode used by Russian intelligence to deliver encrypted messages to their operatives abroad. Transmissions usually happen on fixed schedules.",
+    "description": null
 }

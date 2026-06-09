@@ -66,5 +66,7 @@
             "value": "Worldwide",
             "description": ""
         }
-    ]
+    ],
+    "short description": "Russian spacecraft telemetry system.",
+    "description": null
 }

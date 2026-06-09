@@ -41,5 +41,7 @@
             "value": "Worldwide",
             "description": ""
         }
-    ]
+    ],
+    "short description": "Control signal for grass sprinkler watering system",
+    "description": null
 }

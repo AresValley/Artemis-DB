@@ -77,5 +77,7 @@
             "value": "Worldwide",
             "description": ""
         }
-    ]
+    ],
+    "short description": "Packet system for real time data communications. Used by hams for location reporting, weather stations etc.",
+    "description": null
 }

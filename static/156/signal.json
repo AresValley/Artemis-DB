@@ -31,5 +31,7 @@
             "value": "Worldwide",
             "description": ""
         }
-    ]
+    ],
+    "short description": "Signals sent from portable traffic lights that are often used at roadworks.",
+    "description": null
 }

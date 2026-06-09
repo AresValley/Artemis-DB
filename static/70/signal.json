@@ -50,5 +50,7 @@
             "value": "Worldwide",
             "description": ""
         }
-    ]
+    ],
+    "short description": "Weather balloon (radiosonde) telemetry data.",
+    "description": null
 }

@@ -42,5 +42,7 @@
             "value": "France",
             "description": ""
         }
-    ]
+    ],
+    "short description": "Electrical substation SCADA protocol used by EDF (Électricité de France).",
+    "description": null
 }

@@ -53,5 +53,7 @@
             "value": "Canada / Worldwide",
             "description": ""
         }
-    ]
+    ],
+    "short description": "A HF trading link in idle state which strongly resembles an FMCW radar with 120 Hz sweep rate. Has been observed to transmit CW ID once per hour.",
+    "description": null
 }

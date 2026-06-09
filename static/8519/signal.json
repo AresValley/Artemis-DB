@@ -69,5 +69,7 @@
             "value": "Europe",
             "description": ""
         }
-    ]
+    ],
+    "short description": "A technology originally introduced in LTE (eMBMS) that enables efficient transmission of the same content to a large number of users at once — that is, broadcast or multicast instead of individual unicast. In 5G, its evolution is used for the so‑called LTE‑based 5G Terrestrial Broadcast.",
+    "description": null
 }

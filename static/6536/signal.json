@@ -45,5 +45,7 @@
             "value": "Worldwide",
             "description": ""
         }
-    ]
+    ],
+    "short description": "Radiosonde developed by Graw/Noris Group GmbH for upper air weather observation",
+    "description": null
 }

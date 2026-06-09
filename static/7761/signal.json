@@ -35,5 +35,7 @@
             "value": "Shellharbour, Australia",
             "description": ""
         }
-    ]
+    ],
+    "short description": "possible quarry telemetry observed on 462.775, appears to pulse every second",
+    "description": null
 }

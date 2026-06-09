@@ -59,5 +59,7 @@
             "value": "Worldwide",
             "description": ""
         }
-    ]
+    ],
+    "short description": "JT4 is a 4-FSK extreme weak-signal mode which is designed especially for Earth-Moon-Earth communications. It is part of the WSJT-X software.",
+    "description": null
 }

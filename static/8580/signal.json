@@ -44,5 +44,7 @@
             "value": "Europe",
             "description": ""
         }
-    ]
+    ],
+    "short description": "These signals are narrowband technical carriers transmitted by the Thor‑5 satellite in the Ku‑band, close to 11700 MHz. They are part of the satellite’s TT&C (Telemetry, Tracking and Command) and beacon system.",
+    "description": null
 }

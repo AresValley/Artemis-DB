@@ -64,5 +64,7 @@
             "value": "Europe",
             "description": ""
         }
-    ]
+    ],
+    "short description": "DVB‑C is a cable‑based digital TV transmission standard that delivers MPEG transport streams over coaxial networks using QAM modulation. It was first published as ETSI EN 300 429 and defines the framing, channel coding, and modulation needed for reliable multi‑program distribution via cable. The system uses 16‑QAM up to 256‑QAM, allowing high spectral efficiency while maintaining very low error rates thanks to forward error correction. It has become the dominant global standard for digital cable TV outside North America.",
+    "description": null
 }

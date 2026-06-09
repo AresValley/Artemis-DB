@@ -45,5 +45,7 @@
             "value": "US",
             "description": ""
         }
-    ]
+    ],
+    "short description": "Transmits train telemetry",
+    "description": null
 }

@@ -58,5 +58,7 @@
             "value": "Germany",
             "description": ""
         }
-    ]
+    ],
+    "short description": "The is a research beacon for training neural networks.",
+    "description": null
 }

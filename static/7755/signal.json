@@ -33,5 +33,7 @@
             "value": "Worldwide",
             "description": ""
         }
-    ]
+    ],
+    "short description": "1.925hz pulsing signal (5 pulses) that repeats every few seconds around 5-10 times, then stops for an unknown period. Strong enough to completely disrupt AGC on CB band. Signal penetrates at most a few megahertz.",
+    "description": null
 }

@@ -45,5 +45,7 @@
             "value": "Worldwide",
             "description": ""
         }
-    ]
+    ],
+    "short description": "Transmits train telemetry such as brake status and accidental separation information to the head locomotive.",
+    "description": null
 }

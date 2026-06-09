@@ -65,5 +65,7 @@
             "value": "Worldwide",
             "description": ""
         }
-    ]
+    ],
+    "short description": "LTE 450 refers to the deployment of Long-Term Evolution (LTE) technology in the 380-512 MHz frequency band. LTE 450 networks allow various 4G LTE options to deliver efficient and reliable telecommunications services: LTE, LTE-M, and NB-IoT.",
+    "description": null
 }

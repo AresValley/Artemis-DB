@@ -45,5 +45,7 @@
             "value": "Russia",
             "description": ""
         }
-    ]
+    ],
+    "short description": "CIS-8181 is an FSK modem used by the Russian navy.",
+    "description": null
 }

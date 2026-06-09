@@ -45,5 +45,7 @@
             "value": "Worldwide",
             "description": ""
         }
-    ]
+    ],
+    "short description": "Telemetry signal transmitted by M20 radiosondes",
+    "description": null
 }

@@ -83,5 +83,7 @@
             "value": "Worldwide",
             "description": ""
         }
-    ]
+    ],
+    "short description": "Generic positioning, navigation, and timing (PNT) signals transmitted by global/regional navigation satellite system (GNSS/RNSS) and Satellite-Based Augmentation System (SBAS) constellations such as GPS, GLONASS, Galileo, BeiDou, QZSS, and IRNSS.",
+    "description": null
 }

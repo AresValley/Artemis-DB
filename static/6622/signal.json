@@ -32,5 +32,7 @@
             "value": "Worldwide",
             "description": ""
         }
-    ]
+    ],
+    "short description": "Inmarsat's M2M data service for SCADA asset tracking and reporting.",
+    "description": null
 }

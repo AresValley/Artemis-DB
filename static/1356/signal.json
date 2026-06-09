@@ -45,5 +45,7 @@
             "value": "Worldwide",
             "description": ""
         }
-    ]
+    ],
+    "short description": "LORAN (short for LOng RAnge Navigation) is a hyperbolic radio navigation system.",
+    "description": null
 }

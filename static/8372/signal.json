@@ -41,5 +41,7 @@
             "value": "Worldwide",
             "description": ""
         }
-    ]
+    ],
+    "short description": "Musical transmission originating from the OTP-2 Cubesat",
+    "description": null
 }

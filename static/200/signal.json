@@ -65,5 +65,7 @@
             "value": "Worldwide",
             "description": ""
         }
-    ]
+    ],
+    "short description": "MFSK is a generic family of frequency shift keying digital transmission methods using more than the two tones of BFSK (binary FSK).\nMany digital signals, especially on HF, use MFSK including WSPR, FT4 and FT8. MFSK-8 and MFSK-16 are two other well-known amateur radio modes.",
+    "description": null
 }

@@ -37,5 +37,7 @@
             "description": ""
         }
     ],
-    "location": []
+    "location": [],
+    "short description": "Motorola MOSCAD, is motorola's FSK version of SCADA for Data acquisition.",
+    "description": null
 }

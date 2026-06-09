@@ -104,5 +104,7 @@
             "value": "Worldwide",
             "description": ""
         }
-    ]
+    ],
+    "short description": "Q65 is a 65-FSK extreme weak-signal mode which is designed for Earth-Moon-Earth communications and fast-fading propagation modes such as tropospheric scatter, rain scatter and trans-equatorial propagation. It offers a variety of submodes. Q65 is part of the WSJT-X software.",
+    "description": null
 }

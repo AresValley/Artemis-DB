@@ -69,5 +69,7 @@
             "value": "Russia",
             "description": ""
         }
-    ]
+    ],
+    "short description": "Slow 20-baud FSK signal with very large 7 kHz frequency shift. Used by Russian military.",
+    "description": null
 }

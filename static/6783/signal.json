@@ -39,5 +39,7 @@
             "value": "Worldwide",
             "description": ""
         }
-    ]
+    ],
+    "short description": "Wideband telemetry signal from BlueWalker-3 experimental satellite.",
+    "description": null
 }

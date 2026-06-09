@@ -40,5 +40,7 @@
             "value": "Worldwide",
             "description": ""
         }
-    ]
+    ],
+    "short description": "DAB+ is a medium of delivering broadcast radio, containing multiple stations in a single multiplex.",
+    "description": null
 }

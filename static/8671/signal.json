@@ -52,5 +52,7 @@
             "value": "Russia",
             "description": ""
         }
-    ]
+    ],
+    "short description": "CIS OFDM-121 is an OFDM mode that uses OFDM bursts with 121 channels, spaced by two QPSK-like bursts.\nNot all of the 121 available channels of OFDM bursts are used and it's possible to note a different arrangement of the channels in different days.",
+    "description": null
 }

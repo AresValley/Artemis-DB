@@ -50,5 +50,7 @@
             "value": "Worldwide",
             "description": ""
         }
-    ]
+    ],
+    "short description": "Orbcomm satellites are used for monitoring and sending short text messages.",
+    "description": null
 }

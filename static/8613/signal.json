@@ -49,5 +49,7 @@
             "value": "Worldwide",
             "description": ""
         }
-    ]
+    ],
+    "short description": "A radio‑relay (microwave) link using small parabolic antennas is a short‑range, high‑capacity point‑to‑point microwave connection commonly deployed when fiber is unavailable or too expensive to build.",
+    "description": null
 }

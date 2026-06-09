@@ -40,5 +40,7 @@
             "value": "United States",
             "description": ""
         }
-    ]
+    ],
+    "short description": "WWVB is the lowest frequency time signal in the USA.",
+    "description": null
 }

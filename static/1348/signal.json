@@ -73,5 +73,7 @@
             "value": "Worldwide",
             "description": ""
         }
-    ]
+    ],
+    "short description": "JT9 is a 9-FSK mode for making contact (QSO's) under extreme weak-signal conditions. It is part of the WSJT-X software.",
+    "description": null
 }

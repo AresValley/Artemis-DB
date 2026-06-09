@@ -44,5 +44,7 @@
             "value": "Worldwide",
             "description": ""
         }
-    ]
+    ],
+    "short description": "DUP-ARQ, also known as ARTRAC and 125-ARTRAC, is a semi-duplex ARQ system once used by Thai and Hungarian Diplomatic services.",
+    "description": null
 }

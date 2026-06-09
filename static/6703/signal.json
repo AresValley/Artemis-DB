@@ -54,5 +54,7 @@
             "value": "Germany",
             "description": ""
         }
-    ]
+    ],
+    "short description": "AFSK Modulated signal with 2400Baud for traffic light control. Contains R09.16 telegrams as specified per [https://knowhow.vdv.de/documents/420/ VDV Standard 420].",
+    "description": null
 }

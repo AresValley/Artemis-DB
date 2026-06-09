@@ -44,5 +44,7 @@
             "value": "Worldwide",
             "description": ""
         }
-    ]
+    ],
+    "short description": "The SIMONe radar is a meteor detection system that is operated in multiple research sites around the world. It uses continuous spread-spectrum coded transmissions which gives it an unusual sound when demodulated into audio. It can be received over long distances during sporadic-E and other special propagation conditions.",
+    "description": null
 }

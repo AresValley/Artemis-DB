@@ -53,5 +53,7 @@
             "value": "China, Worldwide",
             "description": ""
         }
-    ]
+    ],
+    "short description": "A 30-tone OFDM data mode, probably used by Chinese military or other agencies.",
+    "description": null
 }

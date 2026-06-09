@@ -46,5 +46,7 @@
             "value": "Worldwide",
             "description": ""
         }
-    ]
+    ],
+    "short description": "Aircrafts radar altimeter.",
+    "description": null
 }

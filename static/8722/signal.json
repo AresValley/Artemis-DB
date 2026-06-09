@@ -44,5 +44,7 @@
             "value": "Worldwide",
             "description": ""
         }
-    ]
+    ],
+    "short description": "Microwave motion sensor uses a small Doppler radar module to detect movement. The sensor emits microwave signals and monitors the reflected waves.",
+    "description": null
 }

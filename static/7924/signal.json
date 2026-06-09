@@ -44,5 +44,7 @@
             "value": "China",
             "description": ""
         }
-    ]
+    ],
+    "short description": "Chinese OTH radar with wide bandwidth and usually low sweep rate. Little information is available.",
+    "description": null
 }

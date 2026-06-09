@@ -36,5 +36,7 @@
             "value": "Worldwide",
             "description": ""
         }
-    ]
+    ],
+    "short description": "Data returned from a consumer weather sensor using the AlectoV1 protocol.",
+    "description": null
 }

@@ -48,5 +48,7 @@
             "value": "Worldwide",
             "description": ""
         }
-    ]
+    ],
+    "short description": "SKiYMET is a meteor detection radar which is used by many research institutes around the world. It can use different transmission parameters and can be received over long distances during sporadic-E and other special propagation conditions.",
+    "description": null
 }

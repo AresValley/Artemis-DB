@@ -41,5 +41,7 @@
             "value": "Worldwide",
             "description": ""
         }
-    ]
+    ],
+    "short description": "LRS restaurant pagers operate in the PMR446 band, most commonly on 446.15625 MHz. The system uses narrowband FM (NFM) modulation with a 12.5 kHz channel bandwidth, transmitting short data bursts that activate individual pagers.",
+    "description": null
 }

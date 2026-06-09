@@ -45,5 +45,7 @@
             "value": "Russia",
             "description": ""
         }
-    ]
+    ],
+    "short description": "CIS-12 (Also known as MS5, FIRE, AT-3004D, AT-3104D, T-230) is a 12-tone PSK Russian military multi-channel modem.",
+    "description": null
 }

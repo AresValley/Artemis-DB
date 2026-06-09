@@ -38,5 +38,7 @@
             "value": "North Korea",
             "description": ""
         }
-    ]
+    ],
+    "short description": "Noise jammer with a carrier than tends to switch frequencies slightly lower and higher than the main signal frequency. Commonly found on 6.6 MHz",
+    "description": null
 }

@@ -45,5 +45,7 @@
             "value": "United States",
             "description": ""
         }
-    ]
+    ],
+    "short description": "Signalling protocol developed for Federal Signal's various warning and mass notification appliances. This signal is used for activation and telemetry of all units in a network.",
+    "description": null
 }

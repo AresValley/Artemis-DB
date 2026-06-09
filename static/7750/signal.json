@@ -49,5 +49,7 @@
             "value": "Worldwide",
             "description": ""
         }
-    ]
+    ],
+    "short description": "Proprietary GMSK mode used for voice by Fujian Baofeng walkie talkies",
+    "description": null
 }

@@ -45,5 +45,7 @@
             "value": "Worldwide",
             "description": ""
         }
-    ]
+    ],
+    "short description": "Automatic Identification System (AIS) is used by ships to broadcast position and vessel information.",
+    "description": null
 }

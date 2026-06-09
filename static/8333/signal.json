@@ -49,5 +49,7 @@
             "value": "Worldwide",
             "description": ""
         }
-    ]
+    ],
+    "short description": "A digital text message protocol included in the stock firmware of some Quansheng brand handheld radios to send up to 30 characters in a short packet type message.",
+    "description": null
 }

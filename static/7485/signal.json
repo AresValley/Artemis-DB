@@ -69,5 +69,7 @@
             "value": "Worldwide",
             "description": ""
         }
-    ]
+    ],
+    "short description": "PI4 (PharusIgnis4) is a 4-MFSK mode designed for amateur radio beacons. It is designed to work via different propagation modes.",
+    "description": null
 }

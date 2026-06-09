@@ -39,5 +39,7 @@
             "value": "Worldwide",
             "description": ""
         }
-    ]
+    ],
+    "short description": "GOES HRIT is a retransmission of satellite imagery and other information from the GOES-R series of satellites.",
+    "description": null
 }

@@ -45,5 +45,7 @@
             "value": "Worldwide",
             "description": ""
         }
-    ]
+    ],
+    "short description": "Primex Wireless Time Sync is a VHF Time Synchronization signal used in Primex Wireless's XR Series.",
+    "description": null
 }

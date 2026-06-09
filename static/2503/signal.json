@@ -45,5 +45,7 @@
             "value": "United States",
             "description": ""
         }
-    ]
+    ],
+    "short description": "UHF Vehicle Location System",
+    "description": null
 }

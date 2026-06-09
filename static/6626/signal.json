@@ -60,5 +60,7 @@
             "value": "Worldwide",
             "description": ""
         }
-    ]
+    ],
+    "short description": "ProVoice is a digital voice mode used in EDACS trunked systems.",
+    "description": null
 }

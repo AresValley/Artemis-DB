@@ -53,5 +53,7 @@
             "value": "Worldwide",
             "description": ""
         }
-    ]
+    ],
+    "short description": "Automatic Picture Transmission (APT), also known as NOAA-GEOSAT, was an analog image transmission mode used by the NOAA weather satellites and some Russian weather satellites to transmit satellite weather photos.  As of august 2025, most of the NOAA sats that transmitted this mode have been decommissioned, and have discontinued transmission.",
+    "description": null
 }

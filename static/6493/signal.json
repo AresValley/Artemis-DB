@@ -53,5 +53,7 @@
             "value": "Worldwide",
             "description": ""
         }
-    ]
+    ],
+    "short description": "LoRa (Long Range) is a proprietary low-power wide-area network modulation technique.",
+    "description": null
 }

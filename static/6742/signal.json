@@ -39,5 +39,7 @@
             "value": "Worldwide",
             "description": ""
         }
-    ]
+    ],
+    "short description": "A variant of the [[High_Resolution_Picture_Transmission_(HRPT)|NOAA HRPT]] signal, which has a different data structure and better low-signal handling characteristics.",
+    "description": null
 }

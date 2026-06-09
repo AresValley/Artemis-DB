@@ -44,5 +44,7 @@
             "value": "WORLDWIDE",
             "description": ""
         }
-    ]
+    ],
+    "short description": "Chinese radios failing to mimic mdc1200 or produces really old mdc1200 sound.",
+    "description": null
 }

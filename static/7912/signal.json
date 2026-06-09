@@ -54,5 +54,7 @@
             "value": "Russia",
             "description": ""
         }
-    ]
+    ],
+    "short description": "F07 is a Russian digital number station known for using multiple modulation types, including MFSK, BPSK and FSK.",
+    "description": null
 }
