@@ -1,6 +1,8 @@
 import json
-import os
 import urllib.parse
+
+from pathlib import Path
+
 from utils.constants import ProjectPath
 
 
@@ -20,13 +22,16 @@ class Signal:
         self.mode = []
         self.location = []
 
+        self.short_description = None
+        self.description = None
+
     @property
     def url(self) -> str:
         encoded_title = urllib.parse.quote(self.title.replace(" ", "_"), safe=":/")
         return f"{ProjectPath.SIGID_DOMAIN}/wiki/{encoded_title}"
 
     @property
-    def dir(self) -> str:
+    def dir(self) -> Path:
         return ProjectPath.STATIC_DIR / str(self.pageid)
 
     @property
@@ -45,18 +50,19 @@ class Signal:
             "acf": self.acf,
             "modulation": self.modulation,
             "mode": self.mode,
-            "location": self.location
+            "location": self.location,
+            "short description": self.short_description,
+            "description": self.description
         }
 
-        if self.dir:
-            os.makedirs(self.dir, exist_ok=True)
+        self.dir.mkdir(parents=True, exist_ok=True)
 
         with open(self.json_path, 'w', encoding='utf-8') as f:
             json.dump(output_data, f, ensure_ascii=False, indent=4)
 
 
     def load_json(self):
-        if not self.json_path or not os.path.exists(self.json_path):
+        if not self.json_path.exists():
             print(f"Error: file {self.json_path} does not exist.")
             return False
 
@@ -75,11 +81,15 @@ class Signal:
             self.modulation = data['modulation']
             self.mode = data['mode']
             self.location = data['location']
+            self.short_description = data['short description']
+            self.description = data['description']
 
-            print(f"Data loaded successfully from: {self.json_path}")
+            return True
 
         except json.JSONDecodeError:
             print(f"Error: The file {self.json_path} is not valid JSON.")
+            return False
 
         except Exception as e:
             print(f"Error during JSON loading: {e}")
+            return False
