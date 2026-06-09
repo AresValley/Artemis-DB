@@ -22,30 +22,13 @@ query_fields = [
     "Title",
 ]
 
-def get_media_url(filename):
-    params = {
-        "action": "query",
-        "titles": f"File:{filename}",
-        "prop": "imageinfo",
-        "iiprop": "url",
-        "format": "json"
-    }
 
-    response = requests.get(ProjectPath.SIGID_API, params=params)
-    data = response.json()
-
-    page = next(iter(data["query"]["pages"].values()))
-    image_url = page["imageinfo"][0]["url"]
-
-    return image_url
-
-
-def get_signal_data(signal: Signal):
+def get_signal_data(session, signal: Signal):
     query_string = f"[[{signal.title}]]|" + "|".join(f"?{f}" for f in query_fields)
     params_semantici = {"action": "ask", "query": query_string, "format": "json"}
 
     try:
-        response = requests.get(ProjectPath.SIGID_API, params=params_semantici, timeout=10)
+        response = session.get(ProjectPath.SIGID_API, params=params_semantici, timeout=10)
         response.raise_for_status()
 
         data = response.json()
@@ -62,8 +45,8 @@ def get_signal_data(signal: Signal):
         if signal_found:
             signal_data = data['query']['results'][signal.title]['printouts']
 
-            signal.spectrum_filename = signal_data['Picture']
-            signal.audio_filename = signal_data['Signal file']
+            signal.spectrum['filename'] = signal_data['Picture'][0] if signal_data['Picture'] else None
+            signal.audio['filename'] = signal_data['Signal file'][0] if signal_data['Signal file'] else None
 
             for cat in signal_data['Additional categories']:
                 if cat in Constants.CATEGORIES:
@@ -105,6 +88,8 @@ if __name__ == "__main__":
     with open(ProjectPath.INDEX_JSON, 'r', encoding='utf-8') as f:
         index = json.load(f)
     
+    session = requests.session()
+    
     for pageid, title in tqdm(index.items()):
         tqdm.write(f"Downloading: {title}")
 
@@ -114,7 +99,7 @@ if __name__ == "__main__":
         
         while signal_json is None:
             try:
-                signal_json = get_signal_data(Signal(pageid, title))
+                signal_json = get_signal_data(session, Signal(pageid, title))
 
             except Exception as e: 
                 attempts += 1

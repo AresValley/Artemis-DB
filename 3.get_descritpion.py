@@ -75,7 +75,7 @@ def get_chunks(lst, n):
         yield lst[i:i + n]
 
 # Funzione modificata per gestire un chunk di segnali
-def get_descriptions_for_chunk(signals_chunk: list[Signal]):
+def get_descriptions_for_chunk(session, signals_chunk: list[Signal]):
     titles_param = "|".join([sig.title for sig in signals_chunk])
 
     query_param = {
@@ -86,7 +86,7 @@ def get_descriptions_for_chunk(signals_chunk: list[Signal]):
         "format": "json",
     }
 
-    res_testo = requests.get(ProjectPath.SIGID_API, params=query_param)
+    res_testo = session.get(ProjectPath.SIGID_API, params=query_param)
     data_testo = res_testo.json()
     
     pages = data_testo.get("query", {}).get("pages", {})
@@ -124,6 +124,7 @@ if __name__ == "__main__":
         sig.load_json()
         signals.append(sig)
 
+    session = requests.session()
     chunk_size = 30
     
     # Split signals into chunks
@@ -139,7 +140,7 @@ if __name__ == "__main__":
 
         while signals_chunk is None:
             try:
-                signals_chunk = get_descriptions_for_chunk(chunk)
+                signals_chunk = get_descriptions_for_chunk(session, chunk)
 
             except Exception as e:
                 attempts += 1

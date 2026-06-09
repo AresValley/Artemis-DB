@@ -11,8 +11,14 @@ class Signal:
         self.pageid = pageid
         self.title = title
 
-        self.spectrum_filename = None
-        self.audio_filename = None
+        self.spectrum = {
+            'filename': None,
+            'url': None
+        }
+        self.audio = {
+            'filename': None,
+            'url': None
+        }
 
         self.category = []
         self.frequency = []
@@ -42,8 +48,8 @@ class Signal:
         output_data = {
             "pageid": self.pageid,
             "title": self.title,
-            "spectrum": self.spectrum_filename,
-            "audio": self.audio_filename,
+            "spectrum": self.spectrum,
+            "audio": self.audio,
             "category": self.category,
             "frequency": self.frequency,
             "bandwidth": self.bandwidth,
@@ -72,8 +78,8 @@ class Signal:
 
             self.pageid = data['pageid']
             self.title = data['title']
-            self.spectrum_filename = data['spectrum']
-            self.audio_filename = data['audio']
+            self.spectrum = data['spectrum']
+            self.audio = data['audio']
             self.category = data['category']
             self.frequency = data['frequency']
             self.bandwidth = data['bandwidth']
