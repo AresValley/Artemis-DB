@@ -3,11 +3,11 @@
     "title": "Microsonde Mark II Weather Balloon - LORAN-C signal (Radiosonde)",
     "spectrum": {
         "filename": "microsondemk2.png",
-        "url": null
+        "url": "https://www.sigidwiki.com/images/b/b0/Microsondemk2.png"
     },
     "audio": {
         "filename": "Mk2fmstart.ogg",
-        "url": null
+        "url": "https://www.sigidwiki.com/images/1/13/Mk2fmstart.ogg"
     },
     "category": [
         "Digital",

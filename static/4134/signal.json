@@ -3,11 +3,11 @@
     "title": "Emergency Managers Weather Information Network (EMWIN) - Repeater",
     "spectrum": {
         "filename": "EMWIN.png",
-        "url": null
+        "url": "https://www.sigidwiki.com/images/1/14/EMWIN.png"
     },
     "audio": {
         "filename": "Unknown163.mp3",
-        "url": null
+        "url": "https://www.sigidwiki.com/images/f/ff/Unknown163.mp3"
     },
     "category": [
         "Digital"

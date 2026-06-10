@@ -3,11 +3,11 @@
     "title": "Tactical Air Navigation System (TACAN)",
     "spectrum": {
         "filename": "TACAN.png",
-        "url": null
+        "url": "https://www.sigidwiki.com/images/d/dc/TACAN.png"
     },
     "audio": {
         "filename": "SDRSharp 20220206 222358Z 1205000000Hz AF.wav",
-        "url": null
+        "url": "https://www.sigidwiki.com/images/f/f9/SDRSharp_20220206_222358Z_1205000000Hz_AF.wav"
     },
     "category": [
         "Aviation",

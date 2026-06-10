@@ -3,11 +3,11 @@
     "title": "Milstar",
     "spectrum": {
         "filename": "Milstar_FHSS.jpg",
-        "url": null
+        "url": "https://www.sigidwiki.com/images/f/f8/Milstar_FHSS.jpg"
     },
     "audio": {
         "filename": "SDRSharp 20180117 095857Z 243799000Hz IQ.wav",
-        "url": null
+        "url": "https://www.sigidwiki.com/images/4/4e/SDRSharp_20180117_095857Z_243799000Hz_IQ.wav"
     },
     "category": [
         "Digital",

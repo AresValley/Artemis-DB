@@ -3,11 +3,11 @@
     "title": "Driftnet Buoy Radio Beacon",
     "spectrum": {
         "filename": "DriftnetBuoyDrift.jpg",
-        "url": null
+        "url": "https://www.sigidwiki.com/images/d/d8/DriftnetBuoyDrift.jpg"
     },
     "audio": {
         "filename": "GLFdrift.mp3",
-        "url": null
+        "url": "https://www.sigidwiki.com/images/d/d6/GLFdrift.mp3"
     },
     "category": [
         "Marine"

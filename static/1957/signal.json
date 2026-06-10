@@ -3,11 +3,11 @@
     "title": "AMSAT-P3D",
     "spectrum": {
         "filename": "SAT 40.jpg",
-        "url": null
+        "url": "https://www.sigidwiki.com/images/b/bf/SAT_40.jpg"
     },
     "audio": {
         "filename": "AMSAT.mp3",
-        "url": null
+        "url": "https://www.sigidwiki.com/images/2/26/AMSAT.mp3"
     },
     "category": [
         "Satellite",

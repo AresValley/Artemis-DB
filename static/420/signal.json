@@ -3,11 +3,11 @@
     "title": "ECG Telemetry",
     "spectrum": {
         "filename": "beeper.png",
-        "url": null
+        "url": "https://www.sigidwiki.com/images/e/ed/Beeper.png"
     },
     "audio": {
         "filename": "beeper.mp3",
-        "url": null
+        "url": "https://www.sigidwiki.com/images/3/3c/Beeper.mp3"
     },
     "category": [
         "Utility"

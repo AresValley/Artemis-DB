@@ -3,11 +3,11 @@
     "title": "NOAA Direct Sounder Broadcast (DSB)",
     "spectrum": {
         "filename": "DSB.jpg",
-        "url": null
+        "url": "https://www.sigidwiki.com/images/2/25/DSB.jpg"
     },
     "audio": {
         "filename": "Direct Sounder Broadcast NFM demod.mp3",
-        "url": null
+        "url": "https://www.sigidwiki.com/images/3/3d/Direct_Sounder_Broadcast_NFM_demod.mp3"
     },
     "category": [
         "Digital",

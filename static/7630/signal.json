@@ -3,11 +3,11 @@
     "title": "Canadian Meteor Orbit Radar (CMOR)",
     "spectrum": {
         "filename": "CMOR 1.png",
-        "url": null
+        "url": "https://www.sigidwiki.com/images/5/55/CMOR_1.png"
     },
     "audio": {
         "filename": "CMOR 1 AM.ogg",
-        "url": null
+        "url": "https://www.sigidwiki.com/images/c/cb/CMOR_1_AM.ogg"
     },
     "category": [
         "Radar"

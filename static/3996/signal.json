@@ -3,11 +3,11 @@
     "title": "CDMA2000 (3G physical layer)",
     "spectrum": {
         "filename": "CDMA2.png",
-        "url": null
+        "url": "https://www.sigidwiki.com/images/b/b2/CDMA2.png"
     },
     "audio": {
         "filename": "889.060.000.wav",
-        "url": null
+        "url": "https://www.sigidwiki.com/images/6/60/889.060.000.wav"
     },
     "category": [
         "Commercial",

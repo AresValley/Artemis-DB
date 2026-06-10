@@ -3,11 +3,11 @@
     "title": "CIS MFSK-68",
     "spectrum": {
         "filename": "CIS MFSK-68.jpg",
-        "url": null
+        "url": "https://www.sigidwiki.com/images/3/3b/CIS_MFSK-68.jpg"
     },
     "audio": {
         "filename": "HDSDR_20151229_175329Z_7kHz_AF.mp3",
-        "url": null
+        "url": "https://www.sigidwiki.com/images/1/1b/HDSDR_20151229_175329Z_7kHz_AF.mp3"
     },
     "category": [
         "Digital",

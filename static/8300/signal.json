@@ -3,11 +3,11 @@
     "title": "802.11ax",
     "spectrum": {
         "filename": "802-11ax-waterfall.png",
-        "url": null
+        "url": "https://www.sigidwiki.com/images/5/57/802-11ax-waterfall.png"
     },
     "audio": {
         "filename": "802.11ax.wav",
-        "url": null
+        "url": "https://www.sigidwiki.com/images/c/cf/802.11ax.wav"
     },
     "category": [
         "Digital"

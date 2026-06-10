@@ -3,11 +3,11 @@
     "title": "LORAN",
     "spectrum": {
         "filename": "LORAN.png",
-        "url": null
+        "url": "https://www.sigidwiki.com/images/1/17/LORAN.png"
     },
     "audio": {
         "filename": "LORAN-C_USB.mp3",
-        "url": null
+        "url": "https://www.sigidwiki.com/images/9/93/LORAN-C_USB.mp3"
     },
     "category": [
         "Marine",

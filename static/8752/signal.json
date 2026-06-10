@@ -3,11 +3,11 @@
     "title": "Low Frequency Bicycle Computer Sensor",
     "spectrum": {
         "filename": "Bicycle sensor.png",
-        "url": null
+        "url": "https://www.sigidwiki.com/images/a/ac/Bicycle_sensor.png"
     },
     "audio": {
         "filename": "Bicycle sensor sound.mp3",
-        "url": null
+        "url": "https://www.sigidwiki.com/images/2/2f/Bicycle_sensor_sound.mp3"
     },
     "category": [
         "Analogue"

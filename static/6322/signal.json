@@ -3,11 +3,11 @@
     "title": "GOES Data Collection System (DCS)",
     "spectrum": {
         "filename": "GoesDCS300bd.jpeg",
-        "url": null
+        "url": "https://www.sigidwiki.com/images/3/38/GoesDCS300bd.jpeg"
     },
     "audio": {
         "filename": "goesDCS300bps.mp3",
-        "url": null
+        "url": "https://www.sigidwiki.com/images/b/bc/GoesDCS300bps.mp3"
     },
     "category": [
         "Satellite",

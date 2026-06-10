@@ -3,11 +3,11 @@
     "title": "HD Radio (AM)",
     "spectrum": {
         "filename": "hd_radio_am.jpg",
-        "url": null
+        "url": "https://www.sigidwiki.com/images/7/78/Hd_radio_am.jpg"
     },
     "audio": {
         "filename": "HD Radio AM.mp3",
-        "url": null
+        "url": "https://www.sigidwiki.com/images/d/d9/HD_Radio_AM.mp3"
     },
     "category": [
         "Commercial",

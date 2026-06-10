@@ -3,11 +3,11 @@
     "title": "Digital Video Broadcasting — Terrestrial (DVB-T)",
     "spectrum": {
         "filename": "DVB-T image.jpg",
-        "url": null
+        "url": "https://www.sigidwiki.com/images/e/ec/DVB-T_image.jpg"
     },
     "audio": {
         "filename": "DVB-t.mp3",
-        "url": null
+        "url": "https://www.sigidwiki.com/images/a/af/DVB-t.mp3"
     },
     "category": [
         "Digital",

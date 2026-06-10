@@ -3,11 +3,11 @@
     "title": "Automatic Dependent Surveillance-Broadcast (ADS-B)",
     "spectrum": {
         "filename": "ADS-BTHMB.jpg",
-        "url": null
+        "url": "https://www.sigidwiki.com/images/3/3f/ADS-BTHMB.jpg"
     },
     "audio": {
         "filename": "ADS-B_AM_mode.mp3",
-        "url": null
+        "url": "https://www.sigidwiki.com/images/5/5f/ADS-B_AM_mode.mp3"
     },
     "category": [
         "Aviation",

@@ -3,11 +3,11 @@
     "title": "COFDMTV",
     "spectrum": {
         "filename": "COFDMTV2.png",
-        "url": null
+        "url": "https://www.sigidwiki.com/images/d/d2/COFDMTV2.png"
     },
     "audio": {
         "filename": "mode13.wav",
-        "url": null
+        "url": "https://www.sigidwiki.com/images/9/96/Mode13.wav"
     },
     "category": [
         "Digital"

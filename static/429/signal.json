@@ -3,11 +3,11 @@
     "title": "GMDSS Digital Selective Calling",
     "spectrum": {
         "filename": "DSC_GMDSS.jpg",
-        "url": null
+        "url": "https://www.sigidwiki.com/images/c/c8/DSC_GMDSS.jpg"
     },
     "audio": {
         "filename": "Dsc_examples.mp3",
-        "url": null
+        "url": "https://www.sigidwiki.com/images/c/cb/Dsc_examples.mp3"
     },
     "category": [
         "Marine",

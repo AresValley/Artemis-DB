@@ -3,11 +3,11 @@
     "title": "Chinese Multitonal Jammer",
     "spectrum": {
         "filename": "Oddity.PNG",
-        "url": null
+        "url": "https://www.sigidwiki.com/images/7/7e/Oddity.PNG"
     },
     "audio": {
         "filename": "Websdr recording start 2016-09-10T14-56-01Z 17580.0kHz.wav",
-        "url": null
+        "url": "https://www.sigidwiki.com/images/1/16/Websdr_recording_start_2016-09-10T14-56-01Z_17580.0kHz.wav"
     },
     "category": [
         "Interfering"

@@ -3,11 +3,11 @@
     "title": "Switching Electronic Interference",
     "spectrum": {
         "filename": "SMPS noise 1.png",
-        "url": null
+        "url": "https://www.sigidwiki.com/images/1/17/SMPS_noise_1.png"
     },
     "audio": {
         "filename": "SMPS noise USB.ogg",
-        "url": null
+        "url": "https://www.sigidwiki.com/images/8/8d/SMPS_noise_USB.ogg"
     },
     "category": [
         "Interfering"

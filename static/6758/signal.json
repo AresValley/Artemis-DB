@@ -3,11 +3,11 @@
     "title": "NOAA ITOS High Resolution Picture Transmission (HRPT)",
     "spectrum": {
         "filename": "NOAA ITOS HRPT WF.png",
-        "url": null
+        "url": "https://www.sigidwiki.com/images/4/4c/NOAA_ITOS_HRPT_WF.png"
     },
     "audio": {
         "filename": "ITOS HRPT Audio.mp3",
-        "url": null
+        "url": "https://www.sigidwiki.com/images/3/37/ITOS_HRPT_Audio.mp3"
     },
     "category": [
         "Satellite",

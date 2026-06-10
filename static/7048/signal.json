@@ -3,11 +3,11 @@
     "title": "LTE420 MCX",
     "spectrum": {
         "filename": "LTE-M.png",
-        "url": null
+        "url": "https://www.sigidwiki.com/images/8/81/LTE-M.png"
     },
     "audio": {
         "filename": "LTEM.mp3",
-        "url": null
+        "url": "https://www.sigidwiki.com/images/b/b7/LTEM.mp3"
     },
     "category": [
         "Commercial",

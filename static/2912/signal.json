@@ -3,11 +3,11 @@
     "title": "North Korean Diplo PSK",
     "spectrum": {
         "filename": "DPRK 1200bd.jpg",
-        "url": null
+        "url": "https://www.sigidwiki.com/images/0/09/DPRK_1200bd.jpg"
     },
     "audio": {
         "filename": "KRE-PSK1200.mp3",
-        "url": null
+        "url": "https://www.sigidwiki.com/images/8/81/KRE-PSK1200.mp3"
     },
     "category": [
         "Digital"

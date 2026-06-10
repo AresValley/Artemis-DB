@@ -3,11 +3,11 @@
     "title": "Digital Radio Mondiale (DRM)",
     "spectrum": {
         "filename": "DRMimage.png",
-        "url": null
+        "url": "https://www.sigidwiki.com/images/2/26/DRMimage.png"
     },
     "audio": {
         "filename": "Digital_Radio_Mondiale_USB.mp3",
-        "url": null
+        "url": "https://www.sigidwiki.com/images/3/3d/Digital_Radio_Mondiale_USB.mp3"
     },
     "category": [
         "Digital",

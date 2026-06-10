@@ -3,11 +3,11 @@
     "title": "VHF Omnidirectional Range (VOR)",
     "spectrum": {
         "filename": "VORthmbnew.png",
-        "url": null
+        "url": "https://www.sigidwiki.com/images/b/bb/VORthmbnew.png"
     },
     "audio": {
         "filename": "VOR_sound.mp3",
-        "url": null
+        "url": "https://www.sigidwiki.com/images/c/c8/VOR_sound.mp3"
     },
     "category": [
         "Aviation",

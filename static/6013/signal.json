@@ -3,11 +3,11 @@
     "title": "CAS-4A/B Satellite Telemetry",
     "spectrum": {
         "filename": "CAS4B2.png",
-        "url": null
+        "url": "https://www.sigidwiki.com/images/4/42/CAS4B2.png"
     },
     "audio": {
         "filename": "CAS 4Sound.mp3",
-        "url": null
+        "url": "https://www.sigidwiki.com/images/1/1b/CAS_4Sound.mp3"
     },
     "category": [
         "Amateur Radio",

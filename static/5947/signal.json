@@ -3,11 +3,11 @@
     "title": "Smart TV Interference",
     "spectrum": {
         "filename": "528 11 August.png",
-        "url": null
+        "url": "https://www.sigidwiki.com/images/7/7e/528_11_August.png"
     },
     "audio": {
         "filename": "SDRSharp 20200812 011809Z 528385500Hz AF.wav",
-        "url": null
+        "url": "https://www.sigidwiki.com/images/9/96/SDRSharp_20200812_011809Z_528385500Hz_AF.wav"
     },
     "category": [
         "Interfering"

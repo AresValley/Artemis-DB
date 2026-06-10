@@ -3,11 +3,11 @@
     "title": "D-STAR",
     "spectrum": {
         "filename": "DSTAR.jpg",
-        "url": null
+        "url": "https://www.sigidwiki.com/images/7/71/DSTAR.jpg"
     },
     "audio": {
         "filename": "DStar_Sound.mp3",
-        "url": null
+        "url": "https://www.sigidwiki.com/images/2/2e/DStar_Sound.mp3"
     },
     "category": [
         "Amateur Radio",

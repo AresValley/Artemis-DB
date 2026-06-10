@@ -3,11 +3,11 @@
     "title": "Wireless Temperature Sensor",
     "spectrum": {
         "filename": "WTS.png",
-        "url": null
+        "url": "https://www.sigidwiki.com/images/c/c9/WTS.png"
     },
     "audio": {
         "filename": "SDRSharp 20160326 002438Z 433992kHz AF Flinders Uni Freezer Telemetry.mp3",
-        "url": null
+        "url": "https://www.sigidwiki.com/images/5/5b/SDRSharp_20160326_002438Z_433992kHz_AF_Flinders_Uni_Freezer_Telemetry.mp3"
     },
     "category": [
         "Commercial",

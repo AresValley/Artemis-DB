@@ -3,11 +3,11 @@
     "title": "Supervisory Control And Data Acquisition (SCADA)",
     "spectrum": {
         "filename": "SCADA2.png",
-        "url": null
+        "url": "https://www.sigidwiki.com/images/3/3d/SCADA2.png"
     },
     "audio": {
         "filename": "SDRSharp 20170621 225600Z 952656250Hz AF.wav",
-        "url": null
+        "url": "https://www.sigidwiki.com/images/c/c0/SDRSharp_20170621_225600Z_952656250Hz_AF.wav"
     },
     "category": [
         "Utility",

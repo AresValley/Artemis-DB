@@ -3,11 +3,11 @@
     "title": "Russian Intelligence 200bd 500Hz FSK (F01)",
     "spectrum": {
         "filename": "F01.png",
-        "url": null
+        "url": "https://www.sigidwiki.com/images/c/cb/F01.png"
     },
     "audio": {
         "filename": "F01.mp3",
-        "url": null
+        "url": "https://www.sigidwiki.com/images/4/48/F01.mp3"
     },
     "category": [
         "Digital"

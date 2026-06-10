@@ -3,11 +3,11 @@
     "title": "Tire Pressure Monitoring System (TPMS)",
     "spectrum": {
         "filename": "TPMS.png",
-        "url": null
+        "url": "https://www.sigidwiki.com/images/d/d2/TPMS.png"
     },
     "audio": {
         "filename": "TPMS_audio.mp3",
-        "url": null
+        "url": "https://www.sigidwiki.com/images/1/1b/TPMS_audio.mp3"
     },
     "category": [
         "Utility"

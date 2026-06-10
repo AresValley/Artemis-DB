@@ -3,11 +3,11 @@
     "title": "Meteomodem PilotSonde Weather Balloon",
     "spectrum": {
         "filename": "Pilotsonde.png",
-        "url": null
+        "url": "https://www.sigidwiki.com/images/d/dc/Pilotsonde.png"
     },
     "audio": {
         "filename": "Pilotsonde sample.mp3",
-        "url": null
+        "url": "https://www.sigidwiki.com/images/1/15/Pilotsonde_sample.mp3"
     },
     "category": [
         "Digital",

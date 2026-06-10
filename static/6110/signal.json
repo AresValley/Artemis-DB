@@ -3,11 +3,11 @@
     "title": "1G Advanced Mobile Phone System (AMPS)",
     "spectrum": {
         "filename": "AmpsCC.png",
-        "url": null
+        "url": "https://www.sigidwiki.com/images/6/6c/AmpsCC.png"
     },
     "audio": {
         "filename": "Amps cell broadcast decreasedVOL.wav",
-        "url": null
+        "url": "https://www.sigidwiki.com/images/c/c6/Amps_cell_broadcast_decreasedVOL.wav"
     },
     "category": [
         "Commercial",

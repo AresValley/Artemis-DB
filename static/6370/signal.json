@@ -3,11 +3,11 @@
     "title": "Radio Navigation Satellite System (RNSS)",
     "spectrum": {
         "filename": "GPS.png",
-        "url": null
+        "url": "https://www.sigidwiki.com/images/7/72/GPS.png"
     },
     "audio": {
         "filename": "GPSaud.mp3",
-        "url": null
+        "url": "https://www.sigidwiki.com/images/e/e8/GPSaud.mp3"
     },
     "category": [
         "Navigation",

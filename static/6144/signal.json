@@ -3,11 +3,11 @@
     "title": "Radio Telephone Network C (C-Netz)",
     "spectrum": {
         "filename": "Cnetz2.png",
-        "url": null
+        "url": "https://www.sigidwiki.com/images/9/9c/Cnetz2.png"
     },
     "audio": {
         "filename": "Cnetz cell broadcast.wav",
-        "url": null
+        "url": "https://www.sigidwiki.com/images/5/5b/Cnetz_cell_broadcast.wav"
     },
     "category": [
         "Digital"

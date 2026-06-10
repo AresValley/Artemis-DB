@@ -3,11 +3,11 @@
     "title": "Primary Aeronautical Surveillance Radar",
     "spectrum": {
         "filename": "L-band radar.JPG",
-        "url": null
+        "url": "https://www.sigidwiki.com/images/7/7b/L-band_radar.JPG"
     },
     "audio": {
         "filename": "L-band aero radar.mp3",
-        "url": null
+        "url": "https://www.sigidwiki.com/images/f/f2/L-band_aero_radar.mp3"
     },
     "category": [
         "Radar",

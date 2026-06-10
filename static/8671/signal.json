@@ -3,11 +3,11 @@
     "title": "CIS OFDM-121",
     "spectrum": {
         "filename": "CIS OFDM-121 waterfall.png",
-        "url": null
+        "url": "https://www.sigidwiki.com/images/8/8f/CIS_OFDM-121_waterfall.png"
     },
     "audio": {
         "filename": "USB CIS OFDM-121.mp3",
-        "url": null
+        "url": "https://www.sigidwiki.com/images/f/f3/USB_CIS_OFDM-121.mp3"
     },
     "category": [
         "Digital"

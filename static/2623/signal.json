@@ -3,11 +3,11 @@
     "title": "High Speed USB Noise",
     "spectrum": {
         "filename": "USB noise.png",
-        "url": null
+        "url": "https://www.sigidwiki.com/images/a/a3/USB_noise.png"
     },
     "audio": {
         "filename": "USB_Noise.mp3",
-        "url": null
+        "url": "https://www.sigidwiki.com/images/6/69/USB_Noise.mp3"
     },
     "category": [
         "Interfering"

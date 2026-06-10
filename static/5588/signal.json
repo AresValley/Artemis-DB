@@ -3,11 +3,11 @@
     "title": "The Alarm",
     "spectrum": {
         "filename": "TheAlarm.png",
-        "url": null
+        "url": "https://www.sigidwiki.com/images/d/d5/TheAlarm.png"
     },
     "audio": {
         "filename": "TheAlarm_audio.wav",
-        "url": null
+        "url": "https://www.sigidwiki.com/images/c/c4/TheAlarm_audio.wav"
     },
     "category": [
         "Military"

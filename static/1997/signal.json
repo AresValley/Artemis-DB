@@ -3,11 +3,11 @@
     "title": "Graw DFM-06 Weather Balloon (Radiosonde)",
     "spectrum": {
         "filename": "Graw.jpg",
-        "url": null
+        "url": "https://www.sigidwiki.com/images/0/0a/Graw.jpg"
     },
     "audio": {
         "filename": "DFM06 404,710 MHz.mp3",
-        "url": null
+        "url": "https://www.sigidwiki.com/images/c/c7/DFM06_404%2C710_MHz.mp3"
     },
     "category": [
         "Digital",

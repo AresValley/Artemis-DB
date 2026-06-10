@@ -3,11 +3,11 @@
     "title": "Automatic Transmitter Identification System (ATIS)",
     "spectrum": {
         "filename": "ATIS voice samp.jpg",
-        "url": null
+        "url": "https://www.sigidwiki.com/images/f/f7/ATIS_voice_samp.jpg"
     },
     "audio": {
         "filename": "ATIS.mp3",
-        "url": null
+        "url": "https://www.sigidwiki.com/images/8/81/ATIS.mp3"
     },
     "category": [
         "Marine",

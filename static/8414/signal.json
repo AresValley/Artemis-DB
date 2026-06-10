@@ -3,11 +3,11 @@
     "title": "Zigbee",
     "spectrum": {
         "filename": "zigbee.png",
-        "url": null
+        "url": "https://www.sigidwiki.com/images/7/72/Zigbee.png"
     },
     "audio": {
         "filename": "Zigbee_xfer.wav",
-        "url": null
+        "url": "https://www.sigidwiki.com/images/a/aa/Zigbee_xfer.wav"
     },
     "category": [
         "Digital",

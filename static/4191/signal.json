@@ -3,11 +3,11 @@
     "title": "BALDR Weather Sensor Telemetry",
     "spectrum": {
         "filename": "OOK SDR Sharp.PNG",
-        "url": null
+        "url": "https://www.sigidwiki.com/images/d/df/OOK_SDR_Sharp.PNG"
     },
     "audio": {
         "filename": "SDRSharp 20170218 155836Z 434675400Hz AF.wav",
-        "url": null
+        "url": "https://www.sigidwiki.com/images/e/e8/SDRSharp_20170218_155836Z_434675400Hz_AF.wav"
     },
     "category": [
         "Digital"

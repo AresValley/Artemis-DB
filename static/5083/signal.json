@@ -3,11 +3,11 @@
     "title": "Yaesu System Fusion",
     "spectrum": {
         "filename": "YSFopt.png",
-        "url": null
+        "url": "https://www.sigidwiki.com/images/5/5e/YSFopt.png"
     },
     "audio": {
         "filename": "Yaesu sys fusion.wav",
-        "url": null
+        "url": "https://www.sigidwiki.com/images/2/26/Yaesu_sys_fusion.wav"
     },
     "category": [
         "Amateur Radio",

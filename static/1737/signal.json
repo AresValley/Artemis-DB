@@ -3,11 +3,11 @@
     "title": "OpenSky",
     "spectrum": {
         "filename": "OpenSky2opt.png",
-        "url": null
+        "url": "https://www.sigidwiki.com/images/a/ae/OpenSky2opt.png"
     },
     "audio": {
         "filename": "SDRSharp_20190411_010811Z_852713123Hz_AF.mp3",
-        "url": null
+        "url": "https://www.sigidwiki.com/images/4/49/SDRSharp_20190411_010811Z_852713123Hz_AF.mp3"
     },
     "category": [
         "Digital",

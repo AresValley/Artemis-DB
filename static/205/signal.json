@@ -3,11 +3,11 @@
     "title": "LoJack",
     "spectrum": {
         "filename": "Lojack.jpg",
-        "url": null
+        "url": "https://www.sigidwiki.com/images/5/5b/Lojack.jpg"
     },
     "audio": {
         "filename": "Traqueur_164.1750_FSK_(2).mp3",
-        "url": null
+        "url": "https://www.sigidwiki.com/images/9/9c/Traqueur_164.1750_FSK_%282%29.mp3"
     },
     "category": [
         "Utility"

@@ -3,11 +3,11 @@
     "title": "European Radio Message System (ERMES)",
     "spectrum": {
         "filename": "ERMES_waterfall.jpg",
-        "url": null
+        "url": "https://www.sigidwiki.com/images/3/34/ERMES_waterfall.jpg"
     },
     "audio": {
         "filename": "Ermes-3125bps.mp3",
-        "url": null
+        "url": "https://www.sigidwiki.com/images/6/65/Ermes-3125bps.mp3"
     },
     "category": [
         "Digital",

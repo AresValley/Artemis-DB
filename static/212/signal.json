@@ -3,11 +3,11 @@
     "title": "Japan Military 8-Channel FSK",
     "spectrum": {
         "filename": "Japan_8_2-fsk.jpg",
-        "url": null
+        "url": "https://www.sigidwiki.com/images/9/9c/Japan_8_2-fsk.jpg"
     },
     "audio": {
         "filename": "jp_mil.mp3",
-        "url": null
+        "url": "https://www.sigidwiki.com/images/c/c7/Jp_mil.mp3"
     },
     "category": [
         "Military",

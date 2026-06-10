@@ -3,11 +3,11 @@
     "title": "WEFAX",
     "spectrum": {
         "filename": "Weather_Fascimile.jpg",
-        "url": null
+        "url": "https://www.sigidwiki.com/images/c/c9/Weather_Fascimile.jpg"
     },
     "audio": {
         "filename": "WFaxData.mp3",
-        "url": null
+        "url": "https://www.sigidwiki.com/images/e/e0/WFaxData.mp3"
     },
     "category": [
         "Analogue"

@@ -3,11 +3,11 @@
     "title": "Electric Fence Remote Control",
     "spectrum": {
         "filename": "SIGNAL-LINSEG.png",
-        "url": null
+        "url": "https://www.sigidwiki.com/images/f/ff/SIGNAL-LINSEG.png"
     },
     "audio": {
         "filename": "Linseg Remote Control Signal.mp3",
-        "url": null
+        "url": "https://www.sigidwiki.com/images/8/8f/Linseg_Remote_Control_Signal.mp3"
     },
     "category": [
         "Utility",

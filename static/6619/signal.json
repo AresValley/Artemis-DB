@@ -3,11 +3,11 @@
     "title": "Federal Signal Modem-MSK",
     "spectrum": {
         "filename": "Fs msk.png",
-        "url": null
+        "url": "https://www.sigidwiki.com/images/c/c6/Fs_msk.png"
     },
     "audio": {
         "filename": "Fsmsk sample.mp3",
-        "url": null
+        "url": "https://www.sigidwiki.com/images/b/bf/Fsmsk_sample.mp3"
     },
     "category": [
         "Utility",

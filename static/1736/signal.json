@@ -3,11 +3,11 @@
     "title": "RFID",
     "spectrum": {
         "filename": "13.56MHz_RFID_roomlock_card.jpg",
-        "url": null
+        "url": "https://www.sigidwiki.com/images/e/ec/13.56MHz_RFID_roomlock_card.jpg"
     },
     "audio": {
         "filename": "13.56MHz_RFID_roomlock_card.mp3",
-        "url": null
+        "url": "https://www.sigidwiki.com/images/4/45/13.56MHz_RFID_roomlock_card.mp3"
     },
     "category": [
         "Digital",

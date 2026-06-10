@@ -3,11 +3,11 @@
     "title": "CIS MFSK-16 XPA2",
     "spectrum": {
         "filename": "XPA2.png",
-        "url": null
+        "url": "https://www.sigidwiki.com/images/8/82/XPA2.png"
     },
     "audio": {
         "filename": "xpa2.mp3",
-        "url": null
+        "url": "https://www.sigidwiki.com/images/f/f7/Xpa2.mp3"
     },
     "category": [
         "Digital",

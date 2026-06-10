@@ -3,11 +3,11 @@
     "title": "Graw DFM-17 (Radiosonde)",
     "spectrum": {
         "filename": "Dfmwaterfall.png",
-        "url": null
+        "url": "https://www.sigidwiki.com/images/9/99/Dfmwaterfall.png"
     },
     "audio": {
         "filename": "dfm17sample.wav",
-        "url": null
+        "url": "https://www.sigidwiki.com/images/a/a6/Dfm17sample.wav"
     },
     "category": [
         "Utility",

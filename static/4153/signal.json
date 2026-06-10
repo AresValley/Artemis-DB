@@ -3,11 +3,11 @@
     "title": "Inmarsat IsatM2M",
     "spectrum": {
         "filename": "Inmarsat-D.jpg",
-        "url": null
+        "url": "https://www.sigidwiki.com/images/7/75/Inmarsat-D.jpg"
     },
     "audio": {
         "filename": "Inmarsat-D-audio.mp3",
-        "url": null
+        "url": "https://www.sigidwiki.com/images/9/90/Inmarsat-D-audio.mp3"
     },
     "category": [
         "Satellite",

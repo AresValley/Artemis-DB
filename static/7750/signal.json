@@ -3,11 +3,11 @@
     "title": "Baofeng GMSK",
     "spectrum": {
         "filename": "Baofeng_GMSK.png",
-        "url": null
+        "url": "https://www.sigidwiki.com/images/9/90/Baofeng_GMSK.png"
     },
     "audio": {
         "filename": "Baofeng GMSK audio.mp3",
-        "url": null
+        "url": "https://www.sigidwiki.com/images/c/cc/Baofeng_GMSK_audio.mp3"
     },
     "category": [
         "Digital"

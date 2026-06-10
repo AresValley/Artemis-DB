@@ -3,11 +3,11 @@
     "title": "Vaisala RS92-KL Weather Balloon (Radiosonde)",
     "spectrum": {
         "filename": "RS92-KL.jpg",
-        "url": null
+        "url": "https://www.sigidwiki.com/images/3/34/RS92-KL.jpg"
     },
     "audio": {
         "filename": "RS92KL.mp3",
-        "url": null
+        "url": "https://www.sigidwiki.com/images/1/1b/RS92KL.mp3"
     },
     "category": [
         "Analogue",

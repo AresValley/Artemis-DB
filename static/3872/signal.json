@@ -3,11 +3,11 @@
     "title": "3G WCDMA",
     "spectrum": {
         "filename": "3GWCDMA.png",
-        "url": null
+        "url": "https://www.sigidwiki.com/images/1/1a/3GWCDMA.png"
     },
     "audio": {
         "filename": "WCDMA 3G.mp3",
-        "url": null
+        "url": "https://www.sigidwiki.com/images/b/bb/WCDMA_3G.mp3"
     },
     "category": [
         "Digital",

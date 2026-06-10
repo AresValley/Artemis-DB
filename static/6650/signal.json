@@ -3,11 +3,11 @@
     "title": "RDL VLF",
     "spectrum": {
         "filename": "RDL FSK.PNG",
-        "url": null
+        "url": "https://www.sigidwiki.com/images/d/d5/RDL_FSK.PNG"
     },
     "audio": {
         "filename": "RDL FSK audio.mp3",
-        "url": null
+        "url": "https://www.sigidwiki.com/images/a/ac/RDL_FSK_audio.mp3"
     },
     "category": [
         "Military"

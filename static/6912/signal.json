@@ -3,11 +3,11 @@
     "title": "M20 Radiosonde",
     "spectrum": {
         "filename": "M20_WF.png",
-        "url": null
+        "url": "https://www.sigidwiki.com/images/1/1a/M20_WF.png"
     },
     "audio": {
         "filename": "M20.mp3",
-        "url": null
+        "url": "https://www.sigidwiki.com/images/9/93/M20.mp3"
     },
     "category": [
         "Utility",

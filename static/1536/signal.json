@@ -3,11 +3,11 @@
     "title": "Emergency Alert System (EAS)",
     "spectrum": {
         "filename": "EAS NFM.jpg",
-        "url": null
+        "url": "https://www.sigidwiki.com/images/0/08/EAS_NFM.jpg"
     },
     "audio": {
         "filename": "EAS Alert Tornado Warning.mp3",
-        "url": null
+        "url": "https://www.sigidwiki.com/images/d/d5/EAS_Alert_Tornado_Warning.mp3"
     },
     "category": [
         "Digital"

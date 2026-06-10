@@ -3,11 +3,11 @@
     "title": "Wettersonde E084 (Radiosonde)",
     "spectrum": {
         "filename": "E084 wettersonde waterfall.png",
-        "url": null
+        "url": "https://www.sigidwiki.com/images/7/7f/E084_wettersonde_waterfall.png"
     },
     "audio": {
         "filename": "E084 radiosonde audio.mp3",
-        "url": null
+        "url": "https://www.sigidwiki.com/images/b/b4/E084_radiosonde_audio.mp3"
     },
     "category": [
         "Utility",

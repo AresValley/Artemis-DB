@@ -3,11 +3,11 @@
     "title": "North Korean Diplo FSK",
     "spectrum": {
         "filename": "DPRK ARQ.jpg",
-        "url": null
+        "url": "https://www.sigidwiki.com/images/1/14/DPRK_ARQ.jpg"
     },
     "audio": {
         "filename": "KRE_FSK-BURST.mp3",
-        "url": null
+        "url": "https://www.sigidwiki.com/images/8/8c/KRE_FSK-BURST.mp3"
     },
     "category": [
         "Digital",

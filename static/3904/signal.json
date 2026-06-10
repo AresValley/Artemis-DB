@@ -3,11 +3,11 @@
     "title": "Delfi-C3 Telemetry",
     "spectrum": {
         "filename": "Delfi-C3.jpg",
-        "url": null
+        "url": "https://www.sigidwiki.com/images/d/d7/Delfi-C3.jpg"
     },
     "audio": {
         "filename": "Delfi-C3_Sound.mp3",
-        "url": null
+        "url": "https://www.sigidwiki.com/images/3/36/Delfi-C3_Sound.mp3"
     },
     "category": [
         "Satellite",

@@ -3,11 +3,11 @@
     "title": "BRAS-3 (RS-10)",
     "spectrum": {
         "filename": "BRAS-3 1791kHz.png",
-        "url": null
+        "url": "https://www.sigidwiki.com/images/a/ad/BRAS-3_1791kHz.png"
     },
     "audio": {
         "filename": "BRAS-3 1791kHz AM.mp3",
-        "url": null
+        "url": "https://www.sigidwiki.com/images/d/de/BRAS-3_1791kHz_AM.mp3"
     },
     "category": [
         "Navigation",

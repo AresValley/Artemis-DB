@@ -3,11 +3,11 @@
     "title": "OFDM NBTV",
     "spectrum": {
         "filename": "NBTV_OFDM.png",
-        "url": null
+        "url": "https://www.sigidwiki.com/images/3/36/NBTV_OFDM.png"
     },
     "audio": {
         "filename": "ExampleOFDMNBTV.wav",
-        "url": null
+        "url": "https://www.sigidwiki.com/images/b/ba/ExampleOFDMNBTV.wav"
     },
     "category": [
         "Amateur Radio",

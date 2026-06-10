@@ -3,11 +3,11 @@
     "title": "SiriusXM Satellite Radio",
     "spectrum": {
         "filename": "XM Sattelite Radio.PNG",
-        "url": null
+        "url": "https://www.sigidwiki.com/images/2/26/XM_Sattelite_Radio.PNG"
     },
     "audio": {
         "filename": "XM Sattelite Radio sounds.mp3",
-        "url": null
+        "url": "https://www.sigidwiki.com/images/2/25/XM_Sattelite_Radio_sounds.mp3"
     },
     "category": [
         "Satellite",

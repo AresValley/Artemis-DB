@@ -3,11 +3,11 @@
     "title": "Futuba RC Controller",
     "spectrum": {
         "filename": "Futuba t2pc rc controller waterfall.png",
-        "url": null
+        "url": "https://www.sigidwiki.com/images/b/b1/Futuba_t2pc_rc_controller_waterfall.png"
     },
     "audio": {
         "filename": "SDRSharp 20231109 183417Z 75790708Hz AF.mp3",
-        "url": null
+        "url": "https://www.sigidwiki.com/images/f/f3/SDRSharp_20231109_183417Z_75790708Hz_AF.mp3"
     },
     "category": [
         "Utility",

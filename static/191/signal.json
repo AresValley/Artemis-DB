@@ -3,11 +3,11 @@
     "title": "Ionosonde",
     "spectrum": {
         "filename": "Ionosonde2e.png",
-        "url": null
+        "url": "https://www.sigidwiki.com/images/e/ee/Ionosonde2e.png"
     },
     "audio": {
         "filename": "Ionosondee.mp3",
-        "url": null
+        "url": "https://www.sigidwiki.com/images/8/88/Ionosondee.mp3"
     },
     "category": [
         "Radar"

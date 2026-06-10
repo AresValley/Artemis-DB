@@ -3,11 +3,11 @@
     "title": "CIS MFSK-21-13",
     "spectrum": {
         "filename": "MFSK 21-13 21to13.png",
-        "url": null
+        "url": "https://www.sigidwiki.com/images/1/1c/MFSK_21-13_21to13.png"
     },
     "audio": {
         "filename": "CIS MFSK 21-13 21-to-13 sample.ogg",
-        "url": null
+        "url": "https://www.sigidwiki.com/images/5/52/CIS_MFSK_21-13_21-to-13_sample.ogg"
     },
     "category": [
         "Digital",

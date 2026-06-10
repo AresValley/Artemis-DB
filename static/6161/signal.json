@@ -3,11 +3,11 @@
     "title": "OOK RC Car Remote Control",
     "spectrum": {
         "filename": "27MhzRCWaterfall.png",
-        "url": null
+        "url": "https://www.sigidwiki.com/images/e/e6/27MhzRCWaterfall.png"
     },
     "audio": {
         "filename": "RC Remote.mp3",
-        "url": null
+        "url": "https://www.sigidwiki.com/images/2/2b/RC_Remote.mp3"
     },
     "category": [
         "Utility",

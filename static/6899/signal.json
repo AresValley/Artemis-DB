@@ -3,11 +3,11 @@
     "title": "Horus Binary 4FSK - v2",
     "spectrum": {
         "filename": "Horus4fskwaterfall.png",
-        "url": null
+        "url": "https://www.sigidwiki.com/images/f/f8/Horus4fskwaterfall.png"
     },
     "audio": {
         "filename": "Horus4fsk.mp3",
-        "url": null
+        "url": "https://www.sigidwiki.com/images/8/8a/Horus4fsk.mp3"
     },
     "category": [
         "Utility",

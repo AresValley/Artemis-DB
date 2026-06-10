@@ -3,11 +3,11 @@
     "title": "8PSK",
     "spectrum": {
         "filename": "8PSK500F.png",
-        "url": null
+        "url": "https://www.sigidwiki.com/images/f/f1/8PSK500F.png"
     },
     "audio": {
         "filename": "EXAMPLE_8PSK500F.mp3",
-        "url": null
+        "url": "https://www.sigidwiki.com/images/4/40/EXAMPLE_8PSK500F.mp3"
     },
     "category": [
         "Digital",

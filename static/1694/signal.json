@@ -3,11 +3,11 @@
     "title": "STANAG 4539",
     "spectrum": {
         "filename": "QAM 8000 M.jpg",
-        "url": null
+        "url": "https://www.sigidwiki.com/images/9/9d/QAM_8000_M.jpg"
     },
     "audio": {
         "filename": "mil-188-110b Med QAM 8000.mp3",
-        "url": null
+        "url": "https://www.sigidwiki.com/images/0/00/Mil-188-110b_Med_QAM_8000.mp3"
     },
     "category": [
         "Military",

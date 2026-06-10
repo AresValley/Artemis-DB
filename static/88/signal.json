@@ -3,11 +3,11 @@
     "title": "Automatic Packet Reporting System (APRS)",
     "spectrum": {
         "filename": "APRS.jpg",
-        "url": null
+        "url": "https://www.sigidwiki.com/images/e/e3/APRS.jpg"
     },
     "audio": {
         "filename": "AFSK1200_Sound.mp3",
-        "url": null
+        "url": "https://www.sigidwiki.com/images/4/41/AFSK1200_Sound.mp3"
     },
     "category": [
         "Amateur Radio",

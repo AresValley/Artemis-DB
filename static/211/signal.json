@@ -3,11 +3,11 @@
     "title": "Next Generation Digital Narrowband (NXDN)",
     "spectrum": {
         "filename": "NXDN_6.25.jpg",
-        "url": null
+        "url": "https://www.sigidwiki.com/images/f/f6/NXDN_6.25.jpg"
     },
     "audio": {
         "filename": "NXDN_Trunking_Channel.mp3",
-        "url": null
+        "url": "https://www.sigidwiki.com/images/a/a8/NXDN_Trunking_Channel.mp3"
     },
     "category": [
         "Trunked Radio",

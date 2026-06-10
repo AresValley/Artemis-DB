@@ -3,11 +3,11 @@
     "title": "DCF77",
     "spectrum": {
         "filename": "DCF77.jpg",
-        "url": null
+        "url": "https://www.sigidwiki.com/images/d/db/DCF77.jpg"
     },
     "audio": {
         "filename": "DCF77.mp3",
-        "url": null
+        "url": "https://www.sigidwiki.com/images/6/62/DCF77.mp3"
     },
     "category": [
         "Time",

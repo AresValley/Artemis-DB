@@ -3,11 +3,11 @@
     "title": "BPM",
     "spectrum": {
         "filename": "BPM.jpg",
-        "url": null
+        "url": "https://www.sigidwiki.com/images/5/5c/BPM.jpg"
     },
     "audio": {
         "filename": "BPM morse to voice to 10ms.ogg",
-        "url": null
+        "url": "https://www.sigidwiki.com/images/7/78/BPM_morse_to_voice_to_10ms.ogg"
     },
     "category": [
         "Time"

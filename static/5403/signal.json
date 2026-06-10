@@ -3,11 +3,11 @@
     "title": "SNOTEL (Snow Telemetry)",
     "spectrum": {
         "filename": "SNOTEL.png",
-        "url": null
+        "url": "https://www.sigidwiki.com/images/5/53/SNOTEL.png"
     },
     "audio": {
         "filename": "HDSDR 20190520 230611Z 40670kHz AF.wav",
-        "url": null
+        "url": "https://www.sigidwiki.com/images/c/c8/HDSDR_20190520_230611Z_40670kHz_AF.wav"
     },
     "category": [
         "Utility"

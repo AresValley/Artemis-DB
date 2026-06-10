@@ -3,11 +3,11 @@
     "title": "Russian Diplo VFT PSK 64Bd",
     "spectrum": {
         "filename": "CIS_unk.jpg",
-        "url": null
+        "url": "https://www.sigidwiki.com/images/3/3b/CIS_unk.jpg"
     },
     "audio": {
         "filename": "CIS_3xPSK_tfc.ogg",
-        "url": null
+        "url": "https://www.sigidwiki.com/images/8/80/CIS_3xPSK_tfc.ogg"
     },
     "category": [
         "Digital",

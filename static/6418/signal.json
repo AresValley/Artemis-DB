@@ -3,11 +3,11 @@
     "title": "Digisonde",
     "spectrum": {
         "filename": "DigisondeCrop.png",
-        "url": null
+        "url": "https://www.sigidwiki.com/images/9/9f/DigisondeCrop.png"
     },
     "audio": {
         "filename": "Digisonde.mp3",
-        "url": null
+        "url": "https://www.sigidwiki.com/images/7/7b/Digisonde.mp3"
     },
     "category": [
         "Radar"

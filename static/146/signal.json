@@ -3,11 +3,11 @@
     "title": "Pulse Coded Modulated (PCM) RC Toy",
     "spectrum": {
         "filename": "PCMRCToy_Waterfallwaterfall.png",
-        "url": null
+        "url": "https://www.sigidwiki.com/images/7/7d/PCMRCToy_Waterfallwaterfall.png"
     },
     "audio": {
         "filename": "PCMRCToy_Sound.mp3",
-        "url": null
+        "url": "https://www.sigidwiki.com/images/3/3f/PCMRCToy_Sound.mp3"
     },
     "category": [
         "Utility",

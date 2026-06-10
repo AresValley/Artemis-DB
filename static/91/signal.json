@@ -3,11 +3,11 @@
     "title": "Automatic Picture Transmission (APT)",
     "spectrum": {
         "filename": "APT_NOAA.jpg",
-        "url": null
+        "url": "https://www.sigidwiki.com/images/0/08/APT_NOAA.jpg"
     },
     "audio": {
         "filename": "NOAA-19APT.mp3",
-        "url": null
+        "url": "https://www.sigidwiki.com/images/5/56/NOAA-19APT.mp3"
     },
     "category": [
         "Satellite",

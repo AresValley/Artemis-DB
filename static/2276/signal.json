@@ -3,11 +3,11 @@
     "title": "ICAO Selcal",
     "spectrum": {
         "filename": "ICAO Selcall sample.jpg",
-        "url": null
+        "url": "https://www.sigidwiki.com/images/2/2f/ICAO_Selcall_sample.jpg"
     },
     "audio": {
         "filename": "hf aircraft.mp3",
-        "url": null
+        "url": "https://www.sigidwiki.com/images/d/dd/Hf_aircraft.mp3"
     },
     "category": [
         "Aviation",

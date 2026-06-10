@@ -3,11 +3,11 @@
     "title": "Automatic Identification System (AIS)",
     "spectrum": {
         "filename": "AIS.jpg",
-        "url": null
+        "url": "https://www.sigidwiki.com/images/f/f7/AIS.jpg"
     },
     "audio": {
         "filename": "AIS_Sound.mp3",
-        "url": null
+        "url": "https://www.sigidwiki.com/images/f/f9/AIS_Sound.mp3"
     },
     "category": [
         "Marine",

@@ -3,11 +3,11 @@
     "title": "GRAW DFM-09 Weather Balloon (Radiosonde)",
     "spectrum": {
         "filename": "DFM092.png",
-        "url": null
+        "url": "https://www.sigidwiki.com/images/2/26/DFM092.png"
     },
     "audio": {
         "filename": "DFM-09 Audio.mp3",
-        "url": null
+        "url": "https://www.sigidwiki.com/images/4/4d/DFM-09_Audio.mp3"
     },
     "category": [],
     "frequency": [

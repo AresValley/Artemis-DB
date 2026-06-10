@@ -3,11 +3,11 @@
     "title": "LEOSAR Downlink",
     "spectrum": {
         "filename": "LEOTIT.png",
-        "url": null
+        "url": "https://www.sigidwiki.com/images/a/a3/LEOTIT.png"
     },
     "audio": {
         "filename": "LEOSARTIT.mp3",
-        "url": null
+        "url": "https://www.sigidwiki.com/images/4/42/LEOSARTIT.mp3"
     },
     "category": [
         "Satellite",

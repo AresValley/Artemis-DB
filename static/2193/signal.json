@@ -3,11 +3,11 @@
     "title": "Radio Data System (RDS)",
     "spectrum": {
         "filename": "RBDS.png",
-        "url": null
+        "url": "https://www.sigidwiki.com/images/3/3b/RBDS.png"
     },
     "audio": {
         "filename": "RDS.mp3",
-        "url": null
+        "url": "https://www.sigidwiki.com/images/1/15/RDS.mp3"
     },
     "category": [
         "Digital",

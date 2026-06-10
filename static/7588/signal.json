@@ -3,11 +3,11 @@
     "title": "Monaco Enterprises MAAP Fire Alarm",
     "spectrum": {
         "filename": "Dod fa.png",
-        "url": null
+        "url": "https://www.sigidwiki.com/images/c/c0/Dod_fa.png"
     },
     "audio": {
         "filename": "SDRSharp 20240826 225045Z 139676000Hz AF.wav",
-        "url": null
+        "url": "https://www.sigidwiki.com/images/2/28/SDRSharp_20240826_225045Z_139676000Hz_AF.wav"
     },
     "category": [
         "Military",

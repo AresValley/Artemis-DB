@@ -3,11 +3,11 @@
     "title": "FT8",
     "spectrum": {
         "filename": "FT8.png",
-        "url": null
+        "url": "https://www.sigidwiki.com/images/6/65/FT8.png"
     },
     "audio": {
         "filename": "FT8audio.mp3",
-        "url": null
+        "url": "https://www.sigidwiki.com/images/8/8e/FT8audio.mp3"
     },
     "category": [
         "Digital",

@@ -3,11 +3,11 @@
     "title": "Datawell Buoy HF Link",
     "spectrum": {
         "filename": "datawell_2FSK.jpg",
-        "url": null
+        "url": "https://www.sigidwiki.com/images/7/7c/Datawell_2FSK.jpg"
     },
     "audio": {
         "filename": "buoy-29525.mp3",
-        "url": null
+        "url": "https://www.sigidwiki.com/images/0/01/Buoy-29525.mp3"
     },
     "category": [
         "Digital",

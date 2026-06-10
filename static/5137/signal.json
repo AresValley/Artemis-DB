@@ -3,11 +3,11 @@
     "title": "WSPR",
     "spectrum": {
         "filename": "WSPR.png",
-        "url": null
+        "url": "https://www.sigidwiki.com/images/b/b9/WSPR.png"
     },
     "audio": {
         "filename": "WSPR audio.mp3",
-        "url": null
+        "url": "https://www.sigidwiki.com/images/9/93/WSPR_audio.mp3"
     },
     "category": [
         "Amateur Radio",

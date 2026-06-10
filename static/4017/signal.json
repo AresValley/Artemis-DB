@@ -3,11 +3,11 @@
     "title": "Inmarsat-D(D+) Downlink",
     "spectrum": {
         "filename": "Inmarsat D.jpg",
-        "url": null
+        "url": "https://www.sigidwiki.com/images/9/98/Inmarsat_D.jpg"
     },
     "audio": {
         "filename": "inmarsat mfsk.mp3",
-        "url": null
+        "url": "https://www.sigidwiki.com/images/3/3a/Inmarsat_mfsk.mp3"
     },
     "category": [
         "Satellite",

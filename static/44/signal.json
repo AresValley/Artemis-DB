@@ -3,11 +3,11 @@
     "title": "Aircraft Communications Addressing and Reporting System (ACARS)",
     "spectrum": {
         "filename": "ACARS.jpg",
-        "url": null
+        "url": "https://www.sigidwiki.com/images/0/06/ACARS.jpg"
     },
     "audio": {
         "filename": "ACARS_sound.mp3",
-        "url": null
+        "url": "https://www.sigidwiki.com/images/1/13/ACARS_sound.mp3"
     },
     "category": [
         "Aviation",

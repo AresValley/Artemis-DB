@@ -3,11 +3,11 @@
     "title": "Iridium",
     "spectrum": {
         "filename": "IridiumTDMA.png",
-        "url": null
+        "url": "https://www.sigidwiki.com/images/2/29/IridiumTDMA.png"
     },
     "audio": {
         "filename": "Iridium.mp3",
-        "url": null
+        "url": "https://www.sigidwiki.com/images/e/e4/Iridium.mp3"
     },
     "category": [
         "Satellite",

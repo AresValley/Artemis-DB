@@ -3,11 +3,11 @@
     "title": "North Korean noise jammer",
     "spectrum": {
         "filename": "NK jammer.png",
-        "url": null
+        "url": "https://www.sigidwiki.com/images/6/62/NK_jammer.png"
     },
     "audio": {
         "filename": "NK_jammer_AM.wav",
-        "url": null
+        "url": "https://www.sigidwiki.com/images/0/06/NK_jammer_AM.wav"
     },
     "category": [],
     "frequency": [

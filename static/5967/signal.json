@@ -3,11 +3,11 @@
     "title": "Lockheed Martin LMS-6 (Radiosonde)",
     "spectrum": {
         "filename": "Lms6.png",
-        "url": null
+        "url": "https://www.sigidwiki.com/images/c/c3/Lms6.png"
     },
     "audio": {
         "filename": "Lms 6 radiosonde.mp3",
-        "url": null
+        "url": "https://www.sigidwiki.com/images/9/9c/Lms_6_radiosonde.mp3"
     },
     "category": [
         "Utility",

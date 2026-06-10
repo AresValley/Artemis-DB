@@ -3,11 +3,11 @@
     "title": "WWVB",
     "spectrum": {
         "filename": "WWVB-1.png",
-        "url": null
+        "url": "https://www.sigidwiki.com/images/5/54/WWVB-1.png"
     },
     "audio": {
         "filename": "WWVB Signal 10s.mp3",
-        "url": null
+        "url": "https://www.sigidwiki.com/images/e/e9/WWVB_Signal_10s.mp3"
     },
     "category": [
         "Time"

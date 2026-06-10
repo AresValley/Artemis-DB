@@ -3,11 +3,11 @@
     "title": "Chinese/Asian radio \"MDC1200\"",
     "spectrum": {
         "filename": "Fakemdc1200.png",
-        "url": null
+        "url": "https://www.sigidwiki.com/images/4/4e/Fakemdc1200.png"
     },
     "audio": {
         "filename": "Audio 446070200Hz 17-25-07 13-03-2026.wav",
-        "url": null
+        "url": "https://www.sigidwiki.com/images/a/a6/Audio_446070200Hz_17-25-07_13-03-2026.wav"
     },
     "category": [
         "Digital"

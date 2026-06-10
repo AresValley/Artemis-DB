@@ -3,11 +3,11 @@
     "title": "Near Field Communication (NFC)",
     "spectrum": {
         "filename": "NFC.png",
-        "url": null
+        "url": "https://www.sigidwiki.com/images/b/b0/NFC.png"
     },
     "audio": {
         "filename": "RFID gambier OH.mp3",
-        "url": null
+        "url": "https://www.sigidwiki.com/images/3/3f/RFID_gambier_OH.mp3"
     },
     "category": [
         "Digital",

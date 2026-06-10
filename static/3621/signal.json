@@ -3,11 +3,11 @@
     "title": "SIGFOX",
     "spectrum": {
         "filename": "3_SIGFOX.jpg",
-        "url": null
+        "url": "https://www.sigidwiki.com/images/b/bb/3_SIGFOX.jpg"
     },
     "audio": {
         "filename": "SIGFOX_BPSK.mp3",
-        "url": null
+        "url": "https://www.sigidwiki.com/images/c/c2/SIGFOX_BPSK.mp3"
     },
     "category": [
         "Commercial",

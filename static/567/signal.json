@@ -3,11 +3,11 @@
     "title": "Morse Code (CW)",
     "spectrum": {
         "filename": "CW.jpg",
-        "url": null
+        "url": "https://www.sigidwiki.com/images/e/e8/CW.jpg"
     },
     "audio": {
         "filename": "Cw_morse.mp3",
-        "url": null
+        "url": "https://www.sigidwiki.com/images/c/c9/Cw_morse.mp3"
     },
     "category": [
         "Amateur Radio",

@@ -3,11 +3,11 @@
     "title": "ISM Band Weather sensor",
     "spectrum": {
         "filename": "Alecto_wxthmb.png",
-        "url": null
+        "url": "https://www.sigidwiki.com/images/6/64/Alecto_wxthmb.png"
     },
     "audio": {
         "filename": "Alecto_wx.mp3",
-        "url": null
+        "url": "https://www.sigidwiki.com/images/c/ca/Alecto_wx.mp3"
     },
     "category": [
         "Digital",

@@ -3,11 +3,11 @@
     "title": "SOLRAD 7B (COSPAR ID: 1965-016D)",
     "spectrum": {
         "filename": "Solrad7bwf.png",
-        "url": null
+        "url": "https://www.sigidwiki.com/images/2/23/Solrad7bwf.png"
     },
     "audio": {
         "filename": "Solrad7bmodulationaudio.mp3",
-        "url": null
+        "url": "https://www.sigidwiki.com/images/6/69/Solrad7bmodulationaudio.mp3"
     },
     "category": [
         "Satellite",

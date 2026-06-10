@@ -3,11 +3,11 @@
     "title": "Siemens 1.5T MRI Scanner",
     "spectrum": {
         "filename": "T2_mri_cropped.png",
-        "url": null
+        "url": "https://www.sigidwiki.com/images/3/39/T2_mri_cropped.png"
     },
     "audio": {
         "filename": "T2_mri_rf.mp3",
-        "url": null
+        "url": "https://www.sigidwiki.com/images/7/71/T2_mri_rf.mp3"
     },
     "category": [],
     "frequency": [

@@ -3,11 +3,11 @@
     "title": "Motorola SECURENET",
     "spectrum": {
         "filename": "Securnet.png",
-        "url": null
+        "url": "https://www.sigidwiki.com/images/c/c3/Securnet.png"
     },
     "audio": {
         "filename": "SECURENET-AF.mp3",
-        "url": null
+        "url": "https://www.sigidwiki.com/images/7/70/SECURENET-AF.mp3"
     },
     "category": [
         "Trunked Radio",

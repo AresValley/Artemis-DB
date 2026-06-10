@@ -3,11 +3,11 @@
     "title": "Digital Mobile Radio (DMR)",
     "spectrum": {
         "filename": "DMR.jpg",
-        "url": null
+        "url": "https://www.sigidwiki.com/images/8/87/DMR.jpg"
     },
     "audio": {
         "filename": "DMR.mp3",
-        "url": null
+        "url": "https://www.sigidwiki.com/images/6/64/DMR.mp3"
     },
     "category": [
         "Digital",

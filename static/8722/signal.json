@@ -3,11 +3,11 @@
     "title": "Microwave motion sensor (doppler radar module)",
     "spectrum": {
         "filename": "MWlamp.jpg",
-        "url": null
+        "url": "https://www.sigidwiki.com/images/4/43/MWlamp.jpg"
     },
     "audio": {
         "filename": "MWlamp.mp3",
-        "url": null
+        "url": "https://www.sigidwiki.com/images/0/0b/MWlamp.mp3"
     },
     "category": [
         "Utility"

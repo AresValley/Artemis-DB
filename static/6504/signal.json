@@ -3,11 +3,11 @@
     "title": "M17 RF Protocol",
     "spectrum": {
         "filename": "M17_wf.png",
-        "url": null
+        "url": "https://www.sigidwiki.com/images/c/c8/M17_wf.png"
     },
     "audio": {
         "filename": "M17_10m.mp3",
-        "url": null
+        "url": "https://www.sigidwiki.com/images/a/a7/M17_10m.mp3"
     },
     "category": [
         "Amateur Radio",

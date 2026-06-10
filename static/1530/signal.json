@@ -3,11 +3,11 @@
     "title": "CIS MFSK-20 XPA",
     "spectrum": {
         "filename": "XPA10.png",
-        "url": null
+        "url": "https://www.sigidwiki.com/images/7/76/XPA10.png"
     },
     "audio": {
         "filename": "XPA10.mp3",
-        "url": null
+        "url": "https://www.sigidwiki.com/images/c/cb/XPA10.mp3"
     },
     "category": [
         "Numbers Stations",

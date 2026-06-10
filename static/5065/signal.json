@@ -3,11 +3,11 @@
     "title": "OrbComm Mobile Telephony",
     "spectrum": {
         "filename": "Watervall.png",
-        "url": null
+        "url": "https://www.sigidwiki.com/images/0/0b/Watervall.png"
     },
     "audio": {
         "filename": "Sound.mp3",
-        "url": null
+        "url": "https://www.sigidwiki.com/images/2/2a/Sound.mp3"
     },
     "category": [
         "Satellite",

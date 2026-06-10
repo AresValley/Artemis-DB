@@ -3,11 +3,11 @@
     "title": "SKiYMET meteor radar",
     "spectrum": {
         "filename": "Pulsed low VHF radar 640Hz 1.png",
-        "url": null
+        "url": "https://www.sigidwiki.com/images/a/a9/Pulsed_low_VHF_radar_640Hz_1.png"
     },
     "audio": {
         "filename": "Pulsed low VHF radar 640Hz.ogg",
-        "url": null
+        "url": "https://www.sigidwiki.com/images/a/aa/Pulsed_low_VHF_radar_640Hz.ogg"
     },
     "category": [
         "Radar"

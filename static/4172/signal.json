@@ -3,11 +3,11 @@
     "title": "Logic Trunked Radio (LTR)",
     "spectrum": {
         "filename": "LTR2.png",
-        "url": null
+        "url": "https://www.sigidwiki.com/images/1/19/LTR2.png"
     },
     "audio": {
         "filename": "LTR example 1.ogg",
-        "url": null
+        "url": "https://www.sigidwiki.com/images/e/eb/LTR_example_1.ogg"
     },
     "category": [
         "Digital",

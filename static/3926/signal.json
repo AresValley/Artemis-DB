@@ -3,11 +3,11 @@
     "title": "2G CDMA (IS-95)",
     "spectrum": {
         "filename": "2gcdma.png",
-        "url": null
+        "url": "https://www.sigidwiki.com/images/5/52/2gcdma.png"
     },
     "audio": {
         "filename": "MC4f-CDMA-IS-95B.wav",
-        "url": null
+        "url": "https://www.sigidwiki.com/images/b/b0/MC4f-CDMA-IS-95B.wav"
     },
     "category": [
         "Digital",

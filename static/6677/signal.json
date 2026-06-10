@@ -3,11 +3,11 @@
     "title": "Single frequency russian overhead power line telemetry system",
     "spectrum": {
         "filename": "Lep2smalll.png",
-        "url": null
+        "url": "https://www.sigidwiki.com/images/c/c2/Lep2smalll.png"
     },
     "audio": {
         "filename": "Lep single.mp3",
-        "url": null
+        "url": "https://www.sigidwiki.com/images/6/6f/Lep_single.mp3"
     },
     "category": [
         "Digital"

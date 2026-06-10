@@ -3,11 +3,11 @@
     "title": "DisplayPort Interference",
     "spectrum": {
         "filename": "DP interference.png",
-        "url": null
+        "url": "https://www.sigidwiki.com/images/a/a7/DP_interference.png"
     },
     "audio": {
         "filename": "SDRSharp 20200916 023725Z 380480000Hz AF.mp3",
-        "url": null
+        "url": "https://www.sigidwiki.com/images/6/66/SDRSharp_20200916_023725Z_380480000Hz_AF.mp3"
     },
     "category": [
         "Interfering"

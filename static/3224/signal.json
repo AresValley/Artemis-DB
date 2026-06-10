@@ -3,11 +3,11 @@
     "title": "VOICE",
     "spectrum": {
         "filename": "VOICE.png",
-        "url": null
+        "url": "https://www.sigidwiki.com/images/1/18/VOICE.png"
     },
     "audio": {
         "filename": "VoiceMFSK.mp3",
-        "url": null
+        "url": "https://www.sigidwiki.com/images/3/34/VoiceMFSK.mp3"
     },
     "category": [
         "Digital",

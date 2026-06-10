@@ -3,11 +3,11 @@
     "title": "Chilean Naval Time Signal",
     "spectrum": {
         "filename": "ChileanTimeSignal.png",
-        "url": null
+        "url": "https://www.sigidwiki.com/images/3/3b/ChileanTimeSignal.png"
     },
     "audio": {
         "filename": "ChileTimeSignal.wav",
-        "url": null
+        "url": "https://www.sigidwiki.com/images/6/63/ChileTimeSignal.wav"
     },
     "category": [
         "Time"

@@ -3,11 +3,11 @@
     "title": "GK-2A LRIT ( Low-Rate Image Transmission )",
     "spectrum": {
         "filename": "LRIT_TRAFFIC.png",
-        "url": null
+        "url": "https://www.sigidwiki.com/images/1/1c/LRIT_TRAFFIC.png"
     },
     "audio": {
         "filename": "LRIT_AM.wav",
-        "url": null
+        "url": "https://www.sigidwiki.com/images/3/33/LRIT_AM.wav"
     },
     "category": [
         "Satellite",

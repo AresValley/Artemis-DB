@@ -3,11 +3,11 @@
     "title": "Dual Tone Multi Frequency (DTMF)",
     "spectrum": {
         "filename": "DTMF tones.png",
-        "url": null
+        "url": "https://www.sigidwiki.com/images/d/d4/DTMF_tones.png"
     },
     "audio": {
         "filename": "dtmf.mp3",
-        "url": null
+        "url": "https://www.sigidwiki.com/images/a/af/Dtmf.mp3"
     },
     "category": [
         "Analogue"
