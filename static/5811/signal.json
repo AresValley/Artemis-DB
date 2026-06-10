@@ -62,7 +62,11 @@
     ],
     "mode": [
         {
-            "value": "USB,FM",
+            "value": "USB",
+            "description": ""
+        },
+        {
+            "value": "FM",
             "description": ""
         }
     ],

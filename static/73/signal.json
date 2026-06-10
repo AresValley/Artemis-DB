@@ -31,8 +31,16 @@
     ],
     "acf": [
         {
-            "value": "Frame: 56.67 ms, Slot: 14.16 ms, Superframe: 1020 ms",
-            "description": ""
+            "value": 56.67,
+            "description": "Frame"
+        },
+        {
+            "value": 14.16,
+            "description": "Slot"
+        },
+        {
+            "value": 1020.0,
+            "description": "Superframe"
         }
     ],
     "modulation": [

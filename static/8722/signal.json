@@ -37,7 +37,11 @@
     ],
     "mode": [
         {
-            "value": "CW, RAW",
+            "value": "CW",
+            "description": ""
+        },
+        {
+            "value": "RAW",
             "description": ""
         }
     ],

@@ -48,7 +48,15 @@
     ],
     "location": [
         {
-            "value": "Chernihiv/Chernobyl, Ukraine; Komsomolsk-on-Amur, Russia",
+            "value": "Chernihiv/Chernobyl",
+            "description": ""
+        },
+        {
+            "value": "Ukraine; Komsomolsk-on-Amur",
+            "description": ""
+        },
+        {
+            "value": "Russia",
             "description": ""
         }
     ],

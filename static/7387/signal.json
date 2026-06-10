@@ -76,7 +76,11 @@
     ],
     "location": [
         {
-            "value": "Russia, Worldwide",
+            "value": "Russia",
+            "description": ""
+        },
+        {
+            "value": "Worldwide",
             "description": ""
         }
     ],

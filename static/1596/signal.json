@@ -34,8 +34,12 @@
     ],
     "acf": [
         {
-            "value": "Primary: 1000 ms , Secondary:  100 ms",
-            "description": ""
+            "value": 1000.0,
+            "description": "Primary"
+        },
+        {
+            "value": 100.0,
+            "description": "Secondary"
         }
     ],
     "modulation": [

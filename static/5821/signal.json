@@ -40,7 +40,11 @@
     ],
     "location": [
         {
-            "value": "Asia, Europe",
+            "value": "Asia",
+            "description": ""
+        },
+        {
+            "value": "Europe",
             "description": ""
         }
     ],

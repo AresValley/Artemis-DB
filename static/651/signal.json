@@ -31,8 +31,8 @@
     ],
     "acf": [
         {
-            "value": "BW3 (LDL):  13.3 ms",
-            "description": ""
+            "value": 13.3,
+            "description": "BW3 (LDL)"
         }
     ],
     "modulation": [

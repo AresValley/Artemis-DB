@@ -43,8 +43,12 @@
     ],
     "acf": [
         {
-            "value": "Header: variable, Trailer: 142.5 ms",
-            "description": ""
+            "value": 0.0,
+            "description": "Header (variable)"
+        },
+        {
+            "value": 142.5,
+            "description": "Trailer"
         }
     ],
     "modulation": [

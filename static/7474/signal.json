@@ -46,13 +46,21 @@
     ],
     "mode": [
         {
-            "value": "LSB, USB",
+            "value": "LSB",
+            "description": ""
+        },
+        {
+            "value": "USB",
             "description": ""
         }
     ],
     "location": [
         {
-            "value": "China, Worldwide",
+            "value": "China",
+            "description": ""
+        },
+        {
+            "value": "Worldwide",
             "description": ""
         }
     ],

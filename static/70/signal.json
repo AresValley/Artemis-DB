@@ -31,8 +31,12 @@
     ],
     "acf": [
         {
-            "value": "Frame: 1000 ms,   Word: 4.166 ms",
-            "description": ""
+            "value": 1000.0,
+            "description": "Frame"
+        },
+        {
+            "value": 4.166,
+            "description": "Word"
         }
     ],
     "modulation": [

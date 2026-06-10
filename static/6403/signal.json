@@ -39,7 +39,15 @@
     ],
     "location": [
         {
-            "value": "United States, South Korea, Jamaica",
+            "value": "United States",
+            "description": ""
+        },
+        {
+            "value": "South Korea",
+            "description": ""
+        },
+        {
+            "value": "Jamaica",
             "description": ""
         }
     ],

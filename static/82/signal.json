@@ -55,8 +55,12 @@
     ],
     "acf": [
         {
-            "value": "edacs48:  60 ms, edacs96:  30 ms",
-            "description": ""
+            "value": 60.0,
+            "description": "edacs48"
+        },
+        {
+            "value": 30.0,
+            "description": "edacs96"
         }
     ],
     "modulation": [

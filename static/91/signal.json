@@ -46,7 +46,11 @@
     ],
     "mode": [
         {
-            "value": "AM, FM",
+            "value": "AM",
+            "description": ""
+        },
+        {
+            "value": "FM",
             "description": ""
         }
     ],

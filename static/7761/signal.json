@@ -34,7 +34,11 @@
     ],
     "location": [
         {
-            "value": "Shellharbour, Australia",
+            "value": "Shellharbour",
+            "description": ""
+        },
+        {
+            "value": "Australia",
             "description": ""
         }
     ],

@@ -60,7 +60,11 @@
     ],
     "location": [
         {
-            "value": "Europe, Asia",
+            "value": "Europe",
+            "description": ""
+        },
+        {
+            "value": "Asia",
             "description": ""
         }
     ],

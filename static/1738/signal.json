@@ -39,8 +39,12 @@
     ],
     "acf": [
         {
-            "value": "Frame:  80 ms, Superframe:  320 ms",
-            "description": ""
+            "value": 80.0,
+            "description": "Frame"
+        },
+        {
+            "value": 320.0,
+            "description": "Superframe"
         }
     ],
     "modulation": [

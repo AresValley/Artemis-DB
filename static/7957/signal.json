@@ -47,7 +47,11 @@
     ],
     "location": [
         {
-            "value": "Worldwide, Poland",
+            "value": "Worldwide",
+            "description": ""
+        },
+        {
+            "value": "Poland",
             "description": ""
         }
     ],

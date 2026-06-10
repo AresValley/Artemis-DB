@@ -34,7 +34,11 @@
     ],
     "location": [
         {
-            "value": "Moscow, Russia (speculated)",
+            "value": "Moscow",
+            "description": ""
+        },
+        {
+            "value": "Russia (speculated)",
             "description": ""
         }
     ],

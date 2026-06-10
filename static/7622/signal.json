@@ -39,7 +39,11 @@
     ],
     "location": [
         {
-            "value": "United Kingdom, Europe",
+            "value": "United Kingdom",
+            "description": ""
+        },
+        {
+            "value": "Europe",
             "description": ""
         }
     ],

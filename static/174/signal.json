@@ -58,7 +58,11 @@
     ],
     "mode": [
         {
-            "value": "AM, NFM",
+            "value": "AM",
+            "description": ""
+        },
+        {
+            "value": "NFM",
             "description": ""
         }
     ],

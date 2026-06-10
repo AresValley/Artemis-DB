@@ -37,7 +37,11 @@
     ],
     "location": [
         {
-            "value": "Wacton, United Kingdom",
+            "value": "Wacton",
+            "description": ""
+        },
+        {
+            "value": "United Kingdom",
             "description": ""
         }
     ],

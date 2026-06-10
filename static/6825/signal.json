@@ -36,7 +36,11 @@
     "mode": [],
     "location": [
         {
-            "value": "France, United Kingdom",
+            "value": "France",
+            "description": ""
+        },
+        {
+            "value": "United Kingdom",
             "description": ""
         }
     ],

@@ -39,7 +39,11 @@
     ],
     "mode": [
         {
-            "value": "NFM, USB",
+            "value": "NFM",
+            "description": ""
+        },
+        {
+            "value": "USB",
             "description": ""
         }
     ],

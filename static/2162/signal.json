@@ -47,7 +47,23 @@
     ],
     "location": [
         {
-            "value": "Japan, Philippines, Argentina, Ecuador, Brazil",
+            "value": "Japan",
+            "description": ""
+        },
+        {
+            "value": "Philippines",
+            "description": ""
+        },
+        {
+            "value": "Argentina",
+            "description": ""
+        },
+        {
+            "value": "Ecuador",
+            "description": ""
+        },
+        {
+            "value": "Brazil",
             "description": ""
         }
     ],

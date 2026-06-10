@@ -37,7 +37,15 @@
     ],
     "location": [
         {
-            "value": "Europe, Japan, Asia",
+            "value": "Europe",
+            "description": ""
+        },
+        {
+            "value": "Japan",
+            "description": ""
+        },
+        {
+            "value": "Asia",
             "description": ""
         }
     ],

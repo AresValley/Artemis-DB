@@ -35,7 +35,11 @@
     ],
     "mode": [
         {
-            "value": "USB, LSB",
+            "value": "USB",
+            "description": ""
+        },
+        {
+            "value": "LSB",
             "description": ""
         }
     ],

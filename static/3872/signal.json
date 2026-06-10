@@ -42,7 +42,11 @@
     ],
     "mode": [
         {
-            "value": "RAW, AM",
+            "value": "RAW",
+            "description": ""
+        },
+        {
+            "value": "AM",
             "description": ""
         }
     ],

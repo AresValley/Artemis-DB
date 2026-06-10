@@ -43,8 +43,8 @@
     ],
     "acf": [
         {
-            "value": "Depending on mode and bandwidth",
-            "description": ""
+            "value": 0.0,
+            "description": "Depending on mode and bandwidth"
         }
     ],
     "modulation": [

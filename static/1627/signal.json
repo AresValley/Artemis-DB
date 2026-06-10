@@ -31,8 +31,12 @@
     ],
     "acf": [
         {
-            "value": "Header: 200 ms, Body:  66.66 ms",
-            "description": ""
+            "value": 200.0,
+            "description": "Header"
+        },
+        {
+            "value": 66.66,
+            "description": "Body"
         }
     ],
     "modulation": [

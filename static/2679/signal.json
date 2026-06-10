@@ -41,7 +41,11 @@
     ],
     "mode": [
         {
-            "value": "AM, CW",
+            "value": "AM",
+            "description": ""
+        },
+        {
+            "value": "CW",
             "description": ""
         }
     ],

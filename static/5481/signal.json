@@ -28,7 +28,11 @@
     "modulation": [],
     "mode": [
         {
-            "value": "USB,AM",
+            "value": "USB",
+            "description": ""
+        },
+        {
+            "value": "AM",
             "description": ""
         }
     ],

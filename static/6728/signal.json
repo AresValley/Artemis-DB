@@ -38,7 +38,11 @@
     ],
     "mode": [
         {
-            "value": "SSB, FM",
+            "value": "SSB",
+            "description": ""
+        },
+        {
+            "value": "FM",
             "description": ""
         }
     ],

@@ -57,7 +57,11 @@
     ],
     "mode": [
         {
-            "value": "DSB, RAW",
+            "value": "DSB",
+            "description": ""
+        },
+        {
+            "value": "RAW",
             "description": ""
         }
     ],

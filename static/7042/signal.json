@@ -27,7 +27,11 @@
     ],
     "location": [
         {
-            "value": "Pyongyang, North Korea",
+            "value": "Pyongyang",
+            "description": ""
+        },
+        {
+            "value": "North Korea",
             "description": ""
         }
     ],

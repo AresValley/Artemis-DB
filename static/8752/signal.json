@@ -28,12 +28,7 @@
             "description": ""
         }
     ],
-    "acf": [
-        {
-            "value": "-",
-            "description": ""
-        }
-    ],
+    "acf": [],
     "modulation": [
         {
             "value": "Pulse",

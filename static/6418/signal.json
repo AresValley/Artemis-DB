@@ -30,8 +30,12 @@
     ],
     "acf": [
         {
-            "value": "5ms, 10ms",
-            "description": ""
+            "value": 5.0,
+            "description": "Main"
+        },
+        {
+            "value": 10.0,
+            "description": "Main"
         }
     ],
     "modulation": [

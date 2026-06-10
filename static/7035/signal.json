@@ -42,7 +42,11 @@
     ],
     "mode": [
         {
-            "value": "DVB-S2, RAW",
+            "value": "DVB-S2",
+            "description": ""
+        },
+        {
+            "value": "RAW",
             "description": ""
         }
     ],

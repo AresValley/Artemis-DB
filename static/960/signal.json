@@ -31,8 +31,8 @@
     ],
     "acf": [
         {
-            "value": "Line per minute.",
-            "description": ""
+            "value": 0.0,
+            "description": "Line per minute."
         }
     ],
     "modulation": [
@@ -43,7 +43,15 @@
     ],
     "mode": [
         {
-            "value": "USB, LSB, NFM",
+            "value": "USB",
+            "description": ""
+        },
+        {
+            "value": "LSB",
+            "description": ""
+        },
+        {
+            "value": "NFM",
             "description": ""
         }
     ],

@@ -44,7 +44,11 @@
     ],
     "location": [
         {
-            "value": "China, Worldwide",
+            "value": "China",
+            "description": ""
+        },
+        {
+            "value": "Worldwide",
             "description": ""
         }
     ],

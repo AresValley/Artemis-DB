@@ -45,7 +45,19 @@
     ],
     "location": [
         {
-            "value": "Israel, Belgium, United States, South Africa",
+            "value": "Israel",
+            "description": ""
+        },
+        {
+            "value": "Belgium",
+            "description": ""
+        },
+        {
+            "value": "United States",
+            "description": ""
+        },
+        {
+            "value": "South Africa",
             "description": ""
         }
     ],

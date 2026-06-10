@@ -34,7 +34,11 @@
     ],
     "location": [
         {
-            "value": "Smolensk, Russia",
+            "value": "Smolensk",
+            "description": ""
+        },
+        {
+            "value": "Russia",
             "description": ""
         }
     ],

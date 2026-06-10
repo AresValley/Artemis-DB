@@ -46,7 +46,15 @@
     ],
     "mode": [
         {
-            "value": "RAW, AM, FM",
+            "value": "RAW",
+            "description": ""
+        },
+        {
+            "value": "AM",
+            "description": ""
+        },
+        {
+            "value": "FM",
             "description": ""
         }
     ],

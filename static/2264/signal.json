@@ -44,7 +44,19 @@
     ],
     "location": [
         {
-            "value": "Finland, Slovakia, Germany, United States",
+            "value": "Finland",
+            "description": ""
+        },
+        {
+            "value": "Slovakia",
+            "description": ""
+        },
+        {
+            "value": "Germany",
+            "description": ""
+        },
+        {
+            "value": "United States",
             "description": ""
         }
     ],

@@ -42,7 +42,11 @@
     ],
     "mode": [
         {
-            "value": "USB,LSB (rare)",
+            "value": "USB",
+            "description": ""
+        },
+        {
+            "value": "LSB (rare)",
             "description": ""
         }
     ],

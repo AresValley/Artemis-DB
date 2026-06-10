@@ -27,8 +27,8 @@
     ],
     "acf": [
         {
-            "value": "1000 ms",
-            "description": ""
+            "value": 1000.0,
+            "description": "Main"
         }
     ],
     "modulation": [

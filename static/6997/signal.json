@@ -39,7 +39,11 @@
     ],
     "location": [
         {
-            "value": "United States, Asia",
+            "value": "United States",
+            "description": ""
+        },
+        {
+            "value": "Asia",
             "description": ""
         }
     ],

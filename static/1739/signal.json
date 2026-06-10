@@ -51,8 +51,12 @@
     ],
     "acf": [
         {
-            "value": "Frame: 60 ms, Slot: 30 ms",
-            "description": ""
+            "value": 60.0,
+            "description": "Frame"
+        },
+        {
+            "value": 30.0,
+            "description": "Slot"
         }
     ],
     "modulation": [

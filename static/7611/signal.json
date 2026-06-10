@@ -59,7 +59,19 @@
     ],
     "location": [
         {
-            "value": "Russia, Belarus, Kyrgyzstan, Worldwide",
+            "value": "Russia",
+            "description": ""
+        },
+        {
+            "value": "Belarus",
+            "description": ""
+        },
+        {
+            "value": "Kyrgyzstan",
+            "description": ""
+        },
+        {
+            "value": "Worldwide",
             "description": ""
         }
     ],
