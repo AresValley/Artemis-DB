@@ -114,7 +114,7 @@ def get_descriptions_for_chunk(session, signals_chunk: list[Signal]):
             wikitext_clean = _wikitext2markdown(wikitext_raw)
             signal.description = wikitext_clean
         except Exception:
-            continue
+            signal.description = ''
         result.append(signal)
     return result
 
@@ -167,6 +167,6 @@ if __name__ == "__main__":
 
     # Saving all jsons
     for signal in signals_with_description:
-        if signal.description == "":
+        if signal.description == '':
             print(f'🟨 CHECK: no description for {signal.pageid} {signal.title[:20]} ({signal.url})')
         signal.save()
