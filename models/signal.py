@@ -28,8 +28,8 @@ class Signal:
         self.mode = []
         self.location = []
 
-        self.short_description = None
-        self.description = None
+        self.short_description = ''
+        self.description = ''
 
     @property
     def url(self) -> str:
@@ -47,6 +47,10 @@ class Signal:
     @property
     def json_path(self) -> str:
         return self.dir / 'signal.json'
+
+    @property
+    def full_description(self) -> str:
+        return f'# SUMMARY\n{self.short_description}\n# DETAILS\n{self.description}'
 
     def save(self):
         output_data = {
