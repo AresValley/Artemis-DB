@@ -41,10 +41,14 @@ class Signal:
         return ProjectPath.STATIC_DIR / str(self.pageid)
 
     @property
+    def media_dir(self) -> Path:
+        return ProjectPath.STATIC_DIR / str(self.pageid) / 'media'
+
+    @property
     def json_path(self) -> str:
         return self.dir / 'signal.json'
 
-    def save_json(self):
+    def save(self):
         output_data = {
             "pageid": self.pageid,
             "title": self.title,
@@ -67,7 +71,7 @@ class Signal:
             json.dump(output_data, f, ensure_ascii=False, indent=4)
 
 
-    def load_json(self):
+    def load(self):
         if not self.json_path.exists():
             print(f"Error: file {self.json_path} does not exist.")
             return False
@@ -99,3 +103,34 @@ class Signal:
         except Exception as e:
             print(f"Error during JSON loading: {e}")
             return False
+    
+    def check_integrity(self):
+        # 1. Helper per il controllo della virgola (campi testuali)
+        def check_comma(items, alert_msg):
+            for item in items:
+                if ',' in item['value']:
+                    print(alert_msg)
+                    print(f'{self.pageid}\t{item["value"]}')
+
+        # 2. Helper per il controllo dei numeri interi non negativi
+        def check_non_negative_int(items, field_name):
+            for item in items:
+                val = item['value']
+                # Verifica se è convertibile in intero positivo o zero
+                try:
+                    # str(int(val)) == str(val) gestisce stringhe come '120'
+                    # ma fallisce giustamente su '120.5' o '-5'
+                    if int(val) < 0:
+                        raise ValueError
+                except (ValueError, TypeError):
+                    print(f'{field_name} non valido (richiesto intero >= 0)')
+                    print(f'{self.pageid}\t{val}')
+
+        # Esecuzione controlli stringhe
+        check_comma(self.mode, 'modo malformato')
+        check_comma(self.modulation, 'modulazione malformata')
+        check_comma(self.location, 'location malformata')
+
+        # Esecuzione controlli numerici
+        check_non_negative_int(self.frequency, 'frequency')
+        check_non_negative_int(self.bandwidth, 'bandwidth')
