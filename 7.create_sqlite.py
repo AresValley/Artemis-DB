@@ -52,7 +52,7 @@ class Static2Sqlite:
             for sig in tqdm(all_signals):
                 sig_id = sig_db.add_signal(
                     sig.title,
-                    sig.description,
+                    sig.full_description,
                     sig.url
                 )
 
@@ -78,7 +78,8 @@ class Static2Sqlite:
                     sig_db.add_location(sig_id, location['value'], location['description'])
 
                 ####################### MARK: Copy Media
-                if sig.spectrum['filename']:
+                # Process Spectrum Image
+                if sig.spectrum.get('url'):
                     doc_id = sig_db.add_document(
                         'png',
                         sig_id,
@@ -89,12 +90,29 @@ class Static2Sqlite:
                     )
                     src_file_path = sig.media_dir / "1.png"
                     dst_file_path = ProjectPath.MEDIA_DIR / f"{doc_id}.png"
-                
-                # Safe check if source file exists before trying to copy
-                if src_file_path.exists():
-                    shutil.copy(src_file_path, dst_file_path)
-                else:
-                    print(f"\n[Warning] File missing on disk: {src_file_path}")
+                    
+                    if src_file_path.exists():
+                        shutil.copy(src_file_path, dst_file_path)
+                    else:
+                        print(f"\n[Warning] Spectrum file missing on disk: {src_file_path}")
+
+                # Process Audio
+                if sig.audio.get('url'):
+                    doc_id = sig_db.add_document(
+                        'ogg',
+                        sig_id,
+                        'Main',
+                        'This is the wiki audio of the signal from www.sigidwiki.com',
+                        'Audio',
+                        1
+                    )
+                    src_file_path = sig.media_dir / "1.ogg"
+                    dst_file_path = ProjectPath.MEDIA_DIR / f"{doc_id}.ogg"
+                    
+                    if src_file_path.exists():
+                        shutil.copy(src_file_path, dst_file_path)
+                    else:
+                        print(f"\n[Warning] Audio file missing on disk: {src_file_path}")
 
             # Commit everything onto disk in one sequence
             sig_db.commit_transaction()
@@ -123,4 +141,4 @@ if __name__ == "__main__":
     os.makedirs(ProjectPath.MEDIA_DIR, exist_ok=True)
 
     Static2Sqlite(args.version)
-    #make_archive()
+    make_archive()
