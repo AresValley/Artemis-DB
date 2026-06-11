@@ -90,7 +90,7 @@ def get_signal_data(session, signal: Signal):
                 for i in location:
                     signal.location.append({"value": i, "description": ""})
             
-            signal.short_description = signal_data['Signal description'][0] if signal_data['Signal description'] else None
+            signal.short_description = signal_data['Signal description'][0] if signal_data['Signal description'] else ''
 
             return signal
 
