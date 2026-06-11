@@ -5,8 +5,6 @@ import requests
 from pathlib import Path
 from PIL import Image
 
-from utils.generic_utils import get_extension
-
 
 def download_file(url: str, destination: Path) -> bool:
     try:
@@ -26,8 +24,8 @@ def download_file(url: str, destination: Path) -> bool:
 
 def download_spectrum(url: str, file_name: str, save_path: Path):
     """Scarica lo spettro, gestisce l'estensione temporanea e lo converte in PNG."""
-    orig_ext = get_extension(url) or 'tmp'
-    temp_path = save_path / f"{file_name}_temp.{orig_ext}"
+    orig_ext = Path(url).suffix
+    temp_path = save_path / f"{file_name}_temp{orig_ext}"
     output_path = save_path / f"{file_name}.png"
 
     if download_file(url, temp_path):
@@ -42,14 +40,12 @@ def download_spectrum(url: str, file_name: str, save_path: Path):
 
 
 def download_audio(url: str, file_name: str, save_path: Path, allvorbis: bool = False):
-    ext = get_extension(url).lower() if get_extension(url) else ''
+    ext = Path(url).suffix
     audio_path = save_path / f"{file_name}.ogg"
 
-    if (ext in ['wav', 'flac']) and not allvorbis:
-        print('Using codec: flac')
+    if (ext in ['.wav', '.flac']) and not allvorbis:
         codec = 'flac'
     else:
-        print('Using codec: libvorbis')
         codec = 'libvorbis'
 
     cmd = [
