@@ -20,8 +20,6 @@ class ProjectPath():
 
 class Constants():
     EDITABLE = -1
-    
-    UNIT_TO_FACTOR = {"Hz": 1, "kHz": 10**3, "MHz": 10**6, "GHz": 10**9}
 
     CATEGORIES = [
         "Aviation",

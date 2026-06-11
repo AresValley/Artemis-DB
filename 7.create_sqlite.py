@@ -4,15 +4,15 @@ import argparse
 import datetime
 import shutil
 
-import utils.json_utils as js
 from tqdm import tqdm
 
-from utils.constants import Path, Constants
+from utils.constants import ProjectPath, Constants
 from utils.sql_utils import ArtemisDB
+from utils.generic_utils import checksum_sha256
+from models.signal import Signal
 
 
 class Static2Sqlite:
-
     def __init__(self, db_version):
         sig_db = ArtemisDB('data')
         sig_db.create_db()
@@ -25,23 +25,20 @@ class Static2Sqlite:
             Constants.EDITABLE
         )
 
-        with open(Path.STATIC_DIR / 'index.json') as file:
-            sigs_idx = json.load(file)
+        with open(ProjectPath.INDEX_JSON) as file:
+            index = json.load(file)
 
-        loaded_signals = []
+        all_signals = []
 
         ####################### MARK: Scan Tags
-        all_cat = set()
         print("Extracting signals and unique category tags...")
-        for sig_idx in sigs_idx.values():
-            sig = js.Signal()
-            sig.load(sig_idx['dir'])
-            loaded_signals.append(sig)  # Cache structure in RAM
-            for cat in sig.category:
-                all_cat.add(cat)
+        for pageid, title in index.items():
+            sig = Signal(pageid, title)
+            sig.load()
+            all_signals.append(sig)
 
         cat_idx = {}
-        for cat in sorted(all_cat):
+        for cat in Constants.CATEGORIES:
             clb_id = sig_db.add_category_label(cat)
             cat_idx[cat] = clb_id
 
@@ -52,9 +49,9 @@ class Static2Sqlite:
         sig_db.begin_transaction()
 
         try:
-            for sig in tqdm(loaded_signals):
+            for sig in tqdm(all_signals):
                 sig_id = sig_db.add_signal(
-                    sig.name,
+                    sig.title,
                     sig.description,
                     sig.url
                 )
@@ -81,23 +78,23 @@ class Static2Sqlite:
                     sig_db.add_location(sig_id, location['value'], location['description'])
 
                 ####################### MARK: Copy Media
-                for media in sig.media:
+                if sig.spectrum['filename']:
                     doc_id = sig_db.add_document(
-                        media['extension'],
+                        'png',
                         sig_id,
-                        media['name'],
-                        media['description'],
-                        media['type'],
-                        media['preview']
+                        'Main',
+                        'This is the wiki spectrum of the signal from www.sigidwiki.com',
+                        'Image',
+                        1
                     )
-                    src_file_path = sig.media_dir / f"{media['file_name']}.{media['extension']}"
-                    dst_file_path = Path.MEDIA_DIR / f"{doc_id}.{media['extension']}"
-                    
-                    # Safe check if source file exists before trying to copy
-                    if src_file_path.exists():
-                        shutil.copy(src_file_path, dst_file_path)
-                    else:
-                        print(f"\n[Warning] File missing on disk: {src_file_path}")
+                    src_file_path = sig.media_dir / "1.png"
+                    dst_file_path = ProjectPath.MEDIA_DIR / f"{doc_id}.png"
+                
+                # Safe check if source file exists before trying to copy
+                if src_file_path.exists():
+                    shutil.copy(src_file_path, dst_file_path)
+                else:
+                    print(f"\n[Warning] File missing on disk: {src_file_path}")
 
             # Commit everything onto disk in one sequence
             sig_db.commit_transaction()
@@ -110,23 +107,20 @@ class Static2Sqlite:
             raise e
 
 
+def make_archive():
+    shutil.make_archive('sigID', 'tar', 'sigID')
+
+    print("SHA256:\t{}".format(checksum_sha256('sigID.tar')))
+    print("BYTES:\t{}".format(os.path.getsize('sigID.tar')))
+
+
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="Artemis DB Parser")
     parser.add_argument("--version", type=int, help="Database version", required=True)
     args = parser.parse_args()
 
-    os.makedirs(Path.DATA_DIR, exist_ok=True)
-    os.makedirs(Path.MEDIA_DIR, exist_ok=True)
+    os.makedirs(ProjectPath.DATA_DIR, exist_ok=True)
+    os.makedirs(ProjectPath.MEDIA_DIR, exist_ok=True)
 
     Static2Sqlite(args.version)
-
-
-
-#     import shutil
-# import os
-# from utils.generic_utils import checksum_sha256
-
-# shutil.make_archive('sigID', 'tar', 'sigID')
-
-# print("SHA256:\t{}".format(checksum_sha256('sigID.tar')))
-# print("BYTES:\t{}".format(os.path.getsize('sigID.tar')))
+    #make_archive()
