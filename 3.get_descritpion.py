@@ -97,7 +97,7 @@ def _wikitext2markdown(wikitext):
     testo = re.sub(r"''(.*?)''", r"*\1*", testo)
 
     # 7. FIX LISTE PUNTATE
-    testo = re.sub(r"^\*(?!\*)(?:\s*)", "* ", testo, flags=re.MULTILINE)
+    testo = re.sub(r"^\*(?!\*)(?:\s*)", "- ", testo, flags=re.MULTILINE)
 
     # 8. PULIZIA FINALE TAG HTML E SPAZI
     testo = testo.replace("<br>", "\n").replace("<br />", "\n").replace("<br/>", "\n")

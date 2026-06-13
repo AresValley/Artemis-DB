@@ -50,6 +50,7 @@ class Constants():
         "HP laptop",
         "Interferance signal from old computer screen",
         "4G LTE 450MHz"
+        "WLO"
     ]
 
     KNOWN_MODULATIONS = {
@@ -74,12 +75,14 @@ class Constants():
     'BASK': 'Binary Amplitude-Shift Keying', # Equivalent to OOK
     'OOK': 'On-Off Keying', # Equivalent to BASK
     'M-ary ASK': 'M-ary Amplitude-Shift Keying',
+    'MP‑DASK': 'Experimental Multi‑Parallel Differential Amplitude Shift Keying',
     'FSK': 'Frequency-Shift Keying',
     'AFSK': 'Audio Frequency-Shift Keying',
     'BFSK': 'Binary Frequency-Shift Keying',
     'M-ary FSK': 'M-ary Frequency-Shift Keying',
     'GFSK': 'Gaussian Frequency-Shift Keying',
     'CPFSK': 'Continuous Phase Frequency-Shift Keying',
+    'CWFSK': 'Continuous Wave - Frequency Shift Keying',
     'MSK': 'Minimum-Shift Keying', # A type of CPFSK
     'GMSK': 'Gaussian Minimum-Shift Keying',
     'C4FM': '4-level FSK Technology', # Introduced by Yaesu
@@ -124,10 +127,12 @@ class Constants():
     'FHSS': 'Frequency Hopping Spread Spectrum',
     'THSS': 'Time Hopping Spread Spectrum',
     'BOC': 'Binary Offset Carrier Modulation', # Used in GNSS
+    'TMBOC': 'Time-Multiplexed Binary Offset Carrier Modulation',
     'IM/DD': 'Intensity Modulation with Direct Detection', # Optical only
 
     # Multiplexing / Multiple Access / Carrier Schemes
     'FDM': 'Frequency-Division Multiplexing',
+    'SC-FDMA': 'Single-carrier Frequency-Division Multiplexing Access',
     'OFDM': 'Orthogonal Frequency-Division Multiplexing',
     'DMT': 'Discrete Multitone', # Often used with/as OFDM (e.g., in DSL)
     'FBMC': 'Filter Bank Multi-Carrier',
@@ -140,6 +145,9 @@ class Constants():
     # Pulse Shaping / Modulation on Pulse (Less common stand-alone terms)
     'FMOP': 'Frequency Modulation on Pulse',
     'PMOP': 'Phase Modulation on Pulse',
+
+    # Special
+    'IRIG': 'Inter-range instrumentation group timecodes'
 }
 
     KNOWN_LOCATIONS = [
@@ -340,7 +348,7 @@ class Constants():
         "Qatar",
         "Réunion",
         "Romania",
-        "Russian Federation",
+        "Russia",
         "Rwanda",
         "Saudi Arabia",
         "Sudan",
