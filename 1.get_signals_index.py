@@ -37,14 +37,17 @@ def get_identified_signal_urls() -> list[Signal]:
     }
 
     page_count = 0
+    excluded = []
     while True:
         data = _fetch_json(params)
         pages = data.get("query", {}).get("categorymembers", [])
 
         for page in pages:
-            if page["title"] not in Constants.SIG_EXCLUSION:
+            if page["pageid"] not in Constants.SIG_EXCLUSION:
                 signal = Signal(page["pageid"], page["title"])
                 all_signals.append(signal)
+            else:
+                excluded.append((page["pageid"], page["title"]))
 
         page_count += len(pages)
 
@@ -57,6 +60,9 @@ def get_identified_signal_urls() -> list[Signal]:
             params.update(data["continue"])
         else:
             print(f"  ... found {page_count} total signals.")
+            print(f"\nEXCLUDED\t{len(excluded)} signals")
+            for i in excluded:
+                print(f"- {i[0]}\t{i[1]}")
             break
 
         time.sleep(1.0)

@@ -40,17 +40,11 @@ class Constants():
     ]
 
     SIG_EXCLUSION = [
-        "Unknown Data Transmission",
-        "Unknown tone on MURS 154.600",
-        "Unidentified modem sound",
-        "Unidentified Pulsating Signal 1915 KHz",
-        "1234",
-        "Errant Signal on 2m Ham Band",
-        "AC Interference",
-        "HP laptop",
-        "Interferance signal from old computer screen",
-        "4G LTE 450MHz"
-        "WLO"
+        8436,
+        3661,
+        6330,
+        6229,
+        6244
     ]
 
     KNOWN_MODULATIONS = {
