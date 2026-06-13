@@ -13,8 +13,7 @@ from models.signal import Signal
 
 def _wikitext2markdown(wikitext):
     """
-    Rielaborazione contenuto mediawiki in markdown
-    La descrizione esatta delle varie sezioni è commentata punto per punto
+    Rielaborazione contenuto mediawiki in markdown con conversione tabelle robusta
     """
     base_url = "https://www.sigidwiki.com/wiki/"
 
@@ -22,53 +21,75 @@ def _wikitext2markdown(wikitext):
     wikitext = re.sub(
         r"^\s*<(span|div)[^>]*>[\s\S]*?<\/\1>", "", wikitext, flags=re.IGNORECASE
     )
-
-    # 1b. Rimuove i tag di citazione <ref> lasciando solo il contenuto interno
+    
+    # 1b. Rimuove i tag di citazione <ref> lasciando il contenuto interno
     wikitext = re.sub(r"</?ref[^>]*>", "", wikitext, flags=re.IGNORECASE)
 
-    # 2. Parsing del Wikitext
+    # 2. Parsing del Wikitext iniziale per rimuovere i template
     parsed = wtp.parse(wikitext)
-
-    # 3. Rimuove TUTTI i template ({{Cell}}, {{Signal ...}}) in modo pulito
     for template in parsed.templates:
         template.string = ""
 
-    # 4. ISOLAMENTO DELL'INTRODUZIONE
-    # Rigeneriamo il parsing sulla stringa pulita dai template
+    # 3. ISOLAMENTO DELL'INTRODUZIONE
     clean_parsed = wtp.parse(parsed.string)
     if clean_parsed.sections:
         testo = clean_parsed.sections[0].contents
     else:
         testo = clean_parsed.string
 
+    # 4. CONVERSIONE DELLE TABELLE DIRECTLY ON STRING
+    # Usiamo wtp.parse sul blocco di testo isolato per trovare le tabelle stabili
+    testo_parsed = wtp.parse(testo)
+    for table in testo_parsed.tables:
+        try:
+            raw_data = table.data()
+            if not raw_data:
+                testo = testo.replace(table.string, "")
+                continue
+                
+            md_table = []
+            rows = []
+            for r in raw_data:
+                # Sostituiamo i \n con gli spazi e forziamo la stringa
+                cleaned_row = [str(cell).replace('\n', ' ').strip() for cell in r]
+                if any(cleaned_row):
+                    rows.append(cleaned_row)
+            
+            if len(rows) > 0:
+                header = rows[0]
+                md_table.append("| " + " | ".join(header) + " |")
+                md_table.append("| " + " | ".join(["---" for _ in header]) + " |")
+                
+                for row in rows[1:]:
+                    while len(row) < len(header):
+                        row.append("")
+                    md_table.append("| " + " | ".join(row[:len(header)]) + " |")
+                
+                formatted_md_table = "\n\n" + "\n".join(md_table) + "\n\n"
+                # Sostituiamo brutalmente il vecchio blocco tabella text con il nuovo MD
+                testo = testo.replace(table.string, formatted_md_table)
+            else:
+                testo = testo.replace(table.string, "")
+        except Exception:
+            testo = testo.replace(table.string, "")
+
     # 5. CONVERSIONE E PULIZIA LINK
-    # 5a. Convertiamo i link con testo esplicito URL -> [testo](URL)
+    # 5a. Link con testo esplicito URL -> [testo](URL)
     testo = re.sub(r"\[(https?://[^\s\]]+)\s+([^\]]+)\]", r" [\2](\1)", testo)
 
-    # 5b. Convertiamo i link "nudi" (es. https://...) in [LINK](https://...)
-    testo = re.sub(
-        r"(?<![\(\[])(https?://[^\s,;\)\"\]]+)", r" [LINK](\1)", testo
-    )
+    # 5b. Link "nudi" (es. https://...) in [LINK](https://...)
+    testo = re.sub(r"(?<![\(\[])(https?://[^\s,;\)\"\]]+)", r" [LINK](\1)", testo)
 
-    # 5c. Convertiamo i link interni generici del Wiki (CORRETTO)
+    # 5c. Link interni del Wiki
     parsed_testo = wtp.parse(testo)
     for link in parsed_testo.wikilinks:
         target = link.title.strip()
-        
-        # Salta i link a file o immagini
         if target.lower().startswith(('file:', 'image:')):
             link.string = ""
             continue
-            
-        # Se non c'è un testo alternativo (es. [[FM Radio]]), usa il titolo della pagina
         text = link.text.strip() if link.text else target
-        
-        # Sostituisce gli spazi con "_" e converte le parentesi tonde in caratteri safe (%28, %29)
         safe_target = urllib.parse.quote(target.replace(' ', '_'))
-        
-        # Sostituisce il vecchio link nel testo con il formato Markdown corretto
         link.string = f" [{text}]({base_url}{safe_target})"
-
     testo = parsed_testo.string
 
     # 6. FORMATTAZIONE (Grassetto e Corsivo)
