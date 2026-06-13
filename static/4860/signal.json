@@ -29,7 +29,7 @@
     "modulation": [
         {
             "value": "CW",
-            "description": ""
+            "description": "Continuous Wave"
         }
     ],
     "mode": [

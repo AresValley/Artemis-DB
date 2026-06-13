@@ -58,11 +58,11 @@
     "modulation": [
         {
             "value": "QAM",
-            "description": ""
+            "description": "Quadrature Amplitude Modulation"
         },
         {
             "value": "OFDM",
-            "description": ""
+            "description": "Orthogonal Frequency-Division Multiplexing"
         }
     ],
     "mode": [

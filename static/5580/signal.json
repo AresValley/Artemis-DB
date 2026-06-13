@@ -37,11 +37,11 @@
     "modulation": [
         {
             "value": "FSK",
-            "description": ""
+            "description": "Frequency-Shift Keying"
         },
         {
             "value": "GMSK",
-            "description": ""
+            "description": "Gaussian Minimum-Shift Keying"
         }
     ],
     "mode": [

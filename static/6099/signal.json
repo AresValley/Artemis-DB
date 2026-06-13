@@ -50,11 +50,11 @@
     "modulation": [
         {
             "value": "PCM",
-            "description": ""
+            "description": "Pulse Code Modulation"
         },
         {
             "value": "FM",
-            "description": ""
+            "description": "Frequency Modulation"
         }
     ],
     "mode": [

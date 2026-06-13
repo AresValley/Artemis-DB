@@ -45,7 +45,7 @@
     "modulation": [
         {
             "value": "MP‑DASK",
-            "description": ""
+            "description": "Experimental Multi‑Parallel Differential Amplitude Shift Keying"
         }
     ],
     "mode": [

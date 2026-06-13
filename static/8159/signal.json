@@ -34,7 +34,7 @@
     "modulation": [
         {
             "value": "IRIG",
-            "description": ""
+            "description": "Inter-range instrumentation group timecodes"
         }
     ],
     "mode": [

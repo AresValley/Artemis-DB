@@ -29,7 +29,7 @@
     "modulation": [
         {
             "value": "FSK",
-            "description": ""
+            "description": "Frequency-Shift Keying"
         }
     ],
     "mode": [
@@ -45,5 +45,5 @@
         }
     ],
     "short description": "A sort of SCADA signaling method used to cooordinate traffic or other road works using external NFM transmitters.  Can also be shared with road commission vehicles and related things.",
-    "description": "{{#tag:html5media|File:SDRSharp_20171204_074409Z_151010000Hz_AF.wav}}\n\n* [Roads Department License](https://wireless2.fcc.gov/UlsApp/UlsSearch/license.jsp?licKey=1199540)"
+    "description": "{{#tag:html5media|File:SDRSharp_20171204_074409Z_151010000Hz_AF.wav}}\n\n- [Roads Department License](https://wireless2.fcc.gov/UlsApp/UlsSearch/license.jsp?licKey=1199540)"
 }

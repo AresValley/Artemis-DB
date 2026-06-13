@@ -41,11 +41,11 @@
     "modulation": [
         {
             "value": "QAM",
-            "description": ""
+            "description": "Quadrature Amplitude Modulation"
         },
         {
             "value": "TDMA",
-            "description": ""
+            "description": "Time-Division Multiple Access"
         }
     ],
     "mode": [

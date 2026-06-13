@@ -33,11 +33,11 @@
     "modulation": [
         {
             "value": "DQPSK",
-            "description": ""
+            "description": "Differential Quadrature Phase-Shift Keying"
         },
         {
             "value": "OFDM",
-            "description": ""
+            "description": "Orthogonal Frequency-Division Multiplexing"
         }
     ],
     "mode": [],
@@ -48,5 +48,5 @@
         }
     ],
     "short description": "Digital Multimedia Broadcasting (DMB) is a digital radio transmission technology developed in South Korea as part of the national IT project for sending multimedia such as TV, radio and datacasting to mobile devices such as mobile phones, laptops and GPS navigation systems.",
-    "description": "[Category:Requested](https://www.sigidwiki.com/wiki/Category%3ARequested)"
+    "description": "[Category:Requested](https://www.sigidwiki.com/wiki/Category%3ARequested)\n\n [signal description::Digital Multimedia Broadcasting (DMB) is a digital radio transmission technology developed in South Korea as part of the national IT project for sending multimedia such as TV, radio and datacasting to mobile devices such as mobile phones, laptops and GPS navigation systems.](https://www.sigidwiki.com/wiki/signal_description%3A%3ADigital_Multimedia_Broadcasting_%28DMB%29_is_a_digital_radio_transmission_technology_developed_in_South_Korea_as_part_of_the_national_IT_project_for_sending_multimedia_such_as_TV%2C_radio_and_datacasting_to_mobile_devices_such_as_mobile_phones%2C_laptops_and_GPS_navigation_systems.)"
 }

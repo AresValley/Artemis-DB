@@ -28,11 +28,11 @@
     "modulation": [
         {
             "value": "PPM",
-            "description": ""
+            "description": "Pulse Position Modulation"
         },
         {
             "value": "GFSK",
-            "description": ""
+            "description": "Gaussian Frequency-Shift Keying"
         }
     ],
     "mode": [

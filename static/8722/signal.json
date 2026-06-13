@@ -31,8 +31,8 @@
     "acf": [],
     "modulation": [
         {
-            "value": "CW doppler",
-            "description": ""
+            "value": "CW",
+            "description": "Continuous Wave"
         }
     ],
     "mode": [

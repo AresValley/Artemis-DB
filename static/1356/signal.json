@@ -33,7 +33,7 @@
     "modulation": [
         {
             "value": "PPM",
-            "description": ""
+            "description": "Pulse Position Modulation"
         }
     ],
     "mode": [

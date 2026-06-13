@@ -50,11 +50,11 @@
     "modulation": [
         {
             "value": "FMOP",
-            "description": ""
+            "description": "Frequency Modulation on Pulse"
         },
         {
-            "value": "Pulsed",
-            "description": ""
+            "value": "Pulse",
+            "description": "Undisclosed Pulse Modulation"
         }
     ],
     "mode": [

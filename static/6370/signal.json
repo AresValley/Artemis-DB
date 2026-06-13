@@ -55,23 +55,23 @@
     "modulation": [
         {
             "value": "BPSK",
-            "description": ""
+            "description": "Binary Phase-Shift Keying"
         },
         {
             "value": "QAM",
-            "description": ""
+            "description": "Quadrature Amplitude Modulation"
         },
         {
             "value": "DSSS",
-            "description": ""
+            "description": "Direct Sequence Spread Spectrum"
         },
         {
             "value": "BOC",
-            "description": ""
+            "description": "Binary Offset Carrier Modulation"
         },
         {
             "value": "TMBOC",
-            "description": ""
+            "description": "Time-Multiplexed Binary Offset Carrier Modulation"
         }
     ],
     "mode": [
@@ -87,5 +87,5 @@
         }
     ],
     "short description": "Generic positioning, navigation, and timing (PNT) signals transmitted by global/regional navigation satellite system (GNSS/RNSS) and Satellite-Based Augmentation System (SBAS) constellations such as GPS, GLONASS, Galileo, BeiDou, QZSS, and IRNSS.",
-    "description": "Radio Navigation Satellite System (RNSS) signals are transmitted by multiple satellite constellations, typically multiplexed (transmitted on the same frequency as each other), using generic modulation techniques such as CDMA, FDMA, and BOC. They are intended to be used for positioning, navigation, and timing (PNT) and are typically derived from on-board atomic clocks for nanosecond-level precision. There are currently a couple constellations maintained by various nations:\n* The United States of America's \"Navstar\" Global Positioning System (GPS)\n* The Russian Federation's Global Navigation Satellite System (ГЛОНАСС/GLONASS)\n* The European Union's Galileo\n* The People's Republic of China's BeiDou Navigation Satellite System\n* Japan's Quasi-Zenith Satellite System (QZSS)\n* The Republic of India's Indian Regional Navigation Satellite System (IRNSS)\n\nTraditional receivers have multiple 'channels' tracking multiple satellites (a minimum of 3 are needed for a coarse 2D fix, 4 for a 3D fix, and 5 or more for enhanced accuracy/precision/integrity). Each channel starts in the 'acquisition' phase where it searches across doppler/phase parameters to detect the presence of a satellite's signal. After acquisition, the channel enters the 'tracking' phase where it follows the signal's doppler, phase, and any other quantities of interest (such as telemetry, which is usually encoded into the signal). The channel stays in the 'tracking' phase until the signal is eventually lost or otherwise problematic (low elevation, unhealthy status, detected jamming/spoofing, etc.)\n\nThe receiver can then use the observables from the channels to assemble navigation messages (telemetry data), correct for errors (such as clock bias, ionospheric delay, etc.), and eventually calculate a Position, Velocity, Time (PVT) solution. 'Raw' observables can also be used to enhance the precision/accuracy of other receivers, such as Real-Time Kinematics (RTK).\n\nThere are also multiple Satellite-Based Augmentation Systems (SBAS), which typically use similar modulation as the other RNSS signals, but on a different frequency (like the -1 MHz 1574.42 MHz of Wide-Area Augmentation System (WAAS), the US Federal Aviation Administration (FAA)'s SBAS)."
+    "description": "Radio Navigation Satellite System (RNSS) signals are transmitted by multiple satellite constellations, typically multiplexed (transmitted on the same frequency as each other), using generic modulation techniques such as CDMA, FDMA, and BOC. They are intended to be used for positioning, navigation, and timing (PNT) and are typically derived from on-board atomic clocks for nanosecond-level precision. There are currently a couple constellations maintained by various nations:\n- The United States of America's \"Navstar\" Global Positioning System (GPS)\n- The Russian Federation's Global Navigation Satellite System (ГЛОНАСС/GLONASS)\n- The European Union's Galileo\n- The People's Republic of China's BeiDou Navigation Satellite System\n- Japan's Quasi-Zenith Satellite System (QZSS)\n- The Republic of India's Indian Regional Navigation Satellite System (IRNSS)\n\nTraditional receivers have multiple 'channels' tracking multiple satellites (a minimum of 3 are needed for a coarse 2D fix, 4 for a 3D fix, and 5 or more for enhanced accuracy/precision/integrity). Each channel starts in the 'acquisition' phase where it searches across doppler/phase parameters to detect the presence of a satellite's signal. After acquisition, the channel enters the 'tracking' phase where it follows the signal's doppler, phase, and any other quantities of interest (such as telemetry, which is usually encoded into the signal). The channel stays in the 'tracking' phase until the signal is eventually lost or otherwise problematic (low elevation, unhealthy status, detected jamming/spoofing, etc.)\n\nThe receiver can then use the observables from the channels to assemble navigation messages (telemetry data), correct for errors (such as clock bias, ionospheric delay, etc.), and eventually calculate a Position, Velocity, Time (PVT) solution. 'Raw' observables can also be used to enhance the precision/accuracy of other receivers, such as Real-Time Kinematics (RTK).\n\nThere are also multiple Satellite-Based Augmentation Systems (SBAS), which typically use similar modulation as the other RNSS signals, but on a different frequency (like the -1 MHz 1574.42 MHz of Wide-Area Augmentation System (WAAS), the US Federal Aviation Administration (FAA)'s SBAS)."
 }

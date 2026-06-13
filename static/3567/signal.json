@@ -53,7 +53,7 @@
     "modulation": [
         {
             "value": "USB",
-            "description": ""
+            "description": "Upper Sideband"
         }
     ],
     "mode": [

@@ -33,7 +33,7 @@
     "modulation": [
         {
             "value": "IFK",
-            "description": ""
+            "description": "Incremental Frequency Keying"
         }
     ],
     "mode": [

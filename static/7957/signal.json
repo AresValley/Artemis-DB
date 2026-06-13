@@ -32,11 +32,11 @@
     "modulation": [
         {
             "value": "BPSK",
-            "description": ""
+            "description": "Binary Phase-Shift Keying"
         },
         {
             "value": "QPSK",
-            "description": ""
+            "description": "Quadrature Phase-Shift Keying"
         }
     ],
     "mode": [

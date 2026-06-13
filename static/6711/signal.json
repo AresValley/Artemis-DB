@@ -33,11 +33,11 @@
     "modulation": [
         {
             "value": "FM",
-            "description": ""
+            "description": "Frequency Modulation"
         },
         {
             "value": "BPSK",
-            "description": ""
+            "description": "Binary Phase-Shift Keying"
         }
     ],
     "mode": [

@@ -34,7 +34,7 @@
     "modulation": [
         {
             "value": "FHSS",
-            "description": ""
+            "description": "Frequency Hopping Spread Spectrum"
         }
     ],
     "mode": [

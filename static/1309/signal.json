@@ -38,15 +38,15 @@
     "modulation": [
         {
             "value": "OOK",
-            "description": ""
+            "description": "On-Off Keying"
         },
         {
             "value": "FSK",
-            "description": ""
+            "description": "Frequency-Shift Keying"
         },
         {
             "value": "MSK",
-            "description": ""
+            "description": "Minimum-Shift Keying"
         }
     ],
     "mode": [

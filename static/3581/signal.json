@@ -30,7 +30,7 @@
     "modulation": [
         {
             "value": "CSS",
-            "description": ""
+            "description": "Chirp Spread Spectrum"
         }
     ],
     "mode": [

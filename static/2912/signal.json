@@ -44,7 +44,7 @@
     "modulation": [
         {
             "value": "PSK",
-            "description": ""
+            "description": "Phase-Shift Keying"
         }
     ],
     "mode": [
@@ -60,5 +60,5 @@
         }
     ],
     "short description": "North Korean Diplomatic PSK link. Also known as KRE-PSK. Four speed modes have been seen, 150 bd, 300 bd, 600 bd, and 1200 bd. All use BPSK modulation. The main identifying feature of this signal are the preambles and end of transmission patterns.",
-    "description": "**North Korean Diplomatic PSK** link. Used by North Korean Diplomatic Services Also known as KRE-PSK. Four speed modes have been seen, 150 bd, 300 bd, 600 bd, and 1200 bd. All use BPSK modulation. The main identifying feature of this signal are the preambles and end of transmission patterns.\n\n* 150 Bd signal has 300 Hz Bandwidth.\n* 300 Bd signal has 600 Hz Bandwidth\n* 600 Bd signal has 1200 Hz Bandwidth\n* 1200 Bd signal has 2400 Hz Bandwidth"
+    "description": "**North Korean Diplomatic PSK** link. Used by North Korean Diplomatic Services Also known as KRE-PSK. Four speed modes have been seen, 150 bd, 300 bd, 600 bd, and 1200 bd. All use BPSK modulation. The main identifying feature of this signal are the preambles and end of transmission patterns.\n\n- 150 Bd signal has 300 Hz Bandwidth.\n- 300 Bd signal has 600 Hz Bandwidth\n- 600 Bd signal has 1200 Hz Bandwidth\n- 1200 Bd signal has 2400 Hz Bandwidth"
 }

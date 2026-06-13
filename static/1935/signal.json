@@ -53,12 +53,12 @@
     ],
     "modulation": [
         {
-            "value": "4FSK",
-            "description": ""
+            "value": "FSK",
+            "description": "Frequency-Shift Keying"
         },
         {
             "value": "MSK",
-            "description": ""
+            "description": "Minimum-Shift Keying"
         }
     ],
     "mode": [

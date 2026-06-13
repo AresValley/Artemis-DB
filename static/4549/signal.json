@@ -29,11 +29,11 @@
     "modulation": [
         {
             "value": "AM",
-            "description": ""
+            "description": "Amplitude Modulation"
         },
         {
             "value": "ASK",
-            "description": ""
+            "description": "Amplitude-Shift Keying"
         }
     ],
     "mode": [

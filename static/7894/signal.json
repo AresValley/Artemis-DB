@@ -26,7 +26,7 @@
     "modulation": [
         {
             "value": "FSK",
-            "description": ""
+            "description": "Frequency-Shift Keying"
         }
     ],
     "mode": [
@@ -36,10 +36,6 @@
         }
     ],
     "location": [
-        {
-            "value": "Wacton",
-            "description": ""
-        },
         {
             "value": "United Kingdom",
             "description": ""

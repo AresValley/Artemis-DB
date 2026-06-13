@@ -49,7 +49,7 @@
     "modulation": [
         {
             "value": "FM",
-            "description": ""
+            "description": "Frequency Modulation"
         }
     ],
     "mode": [

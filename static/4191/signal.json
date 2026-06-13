@@ -27,8 +27,8 @@
     "acf": [],
     "modulation": [
         {
-            "value": "FM-P",
-            "description": ""
+            "value": "PFM",
+            "description": "Pulse Frequency Modulation"
         }
     ],
     "mode": [

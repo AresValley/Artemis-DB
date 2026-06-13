@@ -29,7 +29,7 @@
     "modulation": [
         {
             "value": "PSK",
-            "description": ""
+            "description": "Phase-Shift Keying"
         }
     ],
     "mode": [

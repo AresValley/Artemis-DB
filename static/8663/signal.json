@@ -49,11 +49,11 @@
     "modulation": [
         {
             "value": "AM",
-            "description": ""
+            "description": "Amplitude Modulation"
         },
         {
             "value": "Pulse",
-            "description": ""
+            "description": "Undisclosed Pulse Modulation"
         }
     ],
     "mode": [

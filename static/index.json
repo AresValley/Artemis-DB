@@ -12,7 +12,6 @@
     "3872": "3G WCDMA",
     "4274": "49MHz RC Car Controller",
     "3463": "4G (LTE) Long Term Evolution Uplink",
-    "8436": "4G LTE 450MHz",
     "551": "4G LTE Network",
     "8438": "4G LTE450",
     "5644": "5G 'New Radio' Cellular Radio - Downlink",
@@ -377,6 +376,7 @@
     "211": "Next Generation Digital Narrowband (NXDN)",
     "436": "NFM Voice",
     "180": "Nissan Car Key",
+    "8774": "Nissan Qashqai Keyless Entry LF (Intelligent Key)",
     "4850": "NML",
     "4718": "NOAA Direct Sounder Broadcast (DSB)",
     "6758": "NOAA ITOS High Resolution Picture Transmission (HRPT)",
@@ -571,7 +571,6 @@
     "5472": "Wireless Hydrophone System (WHS)",
     "7578": "Wireless Smart Utility Networks (Wi-SUN)",
     "3581": "Wireless Temperature Sensor",
-    "3661": "WLO",
     "5137": "WSPR",
     "5207": "WWVB",
     "7057": "XMPP trials",
@@ -580,7 +579,7 @@
     "3441": "Yugoslavian 16-Tone Modem",
     "3450": "Yugoslavian 20-Tone Modem",
     "8250": "Zaliv52",
+    "8414": "Zigbee",
     "2344": "ZVEI Selcall",
-    "6671": "Électricité de France HNZ",
-    "8414": "Zigbee"
+    "6671": "Électricité de France HNZ"
 }

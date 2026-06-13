@@ -36,8 +36,8 @@
     "acf": [],
     "modulation": [
         {
-            "value": "IFK+",
-            "description": ""
+            "value": "IFK",
+            "description": "Incremental Frequency Keying"
         }
     ],
     "mode": [

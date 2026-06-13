@@ -60,12 +60,12 @@
     "acf": [],
     "modulation": [
         {
-            "value": "MFSK",
-            "description": ""
+            "value": "FSK",
+            "description": "Frequency-Shift Keying"
         },
         {
             "value": "FSK",
-            "description": ""
+            "description": "Frequency-Shift Keying"
         }
     ],
     "mode": [

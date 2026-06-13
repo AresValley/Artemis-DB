@@ -26,11 +26,11 @@
     "modulation": [
         {
             "value": "AM",
-            "description": ""
+            "description": "Amplitude Modulation"
         },
         {
             "value": "AM",
-            "description": ""
+            "description": "Amplitude Modulation"
         }
     ],
     "mode": [],

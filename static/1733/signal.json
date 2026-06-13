@@ -28,11 +28,11 @@
     "modulation": [
         {
             "value": "OFDM",
-            "description": ""
+            "description": "Orthogonal Frequency-Division Multiplexing"
         },
         {
-            "value": "OFDMA",
-            "description": ""
+            "value": "OFDM",
+            "description": "Orthogonal Frequency-Division Multiplexing"
         }
     ],
     "mode": [],

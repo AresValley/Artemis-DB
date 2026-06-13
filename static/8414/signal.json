@@ -44,12 +44,12 @@
     "acf": [],
     "modulation": [
         {
-            "value": "QQPSK",
-            "description": ""
+            "value": "QPSK",
+            "description": "Quadrature Phase-Shift Keying"
         },
         {
             "value": "DSSS",
-            "description": ""
+            "description": "Direct Sequence Spread Spectrum"
         }
     ],
     "mode": [

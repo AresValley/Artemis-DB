@@ -36,23 +36,23 @@
     "modulation": [
         {
             "value": "BPSK",
-            "description": ""
+            "description": "Binary Phase-Shift Keying"
         },
         {
             "value": "QPSK",
-            "description": ""
+            "description": "Quadrature Phase-Shift Keying"
         },
         {
-            "value": "16QAM",
-            "description": ""
+            "value": "QAM",
+            "description": "Quadrature Amplitude Modulation"
         },
         {
-            "value": "64QAM",
-            "description": ""
+            "value": "QAM",
+            "description": "Quadrature Amplitude Modulation"
         },
         {
-            "value": "256QAM (Turbo QAM)",
-            "description": ""
+            "value": "QAM",
+            "description": "Quadrature Amplitude Modulation"
         }
     ],
     "mode": [
@@ -72,5 +72,5 @@
         }
     ],
     "short description": "IEEE 802.11n-2009, commonly shortened to 802.11n, is a wireless-networking standard that uses multiple antennas to increase data rates. The Wi-Fi Alliance has also retroactively labeled the technology for the standard as Wi-Fi 4.",
-    "description": "IEEE 802.11n-2009, commonly shortened to 802.11n, is a wireless-networking standard that uses multiple antennas to increase data rates. \nThe Wi-Fi Alliance has also retroactively labelled the technology for the standard as Wi-Fi 4. It standardized support for multiple-input multiple-output, frame aggregation, and security improvements, among other features, and can be used in the 2.4 GHz or 5 GHz frequency bands.\n\n* The signal file corresponds to a Wi-Fi signal captured directly above the router, the signaling beacon can be heard. 0:00 to 0:14: Daily use, low transfer. 0:15 to end: Full bandwidth usage @ 113mbps.*"
+    "description": "IEEE 802.11n-2009, commonly shortened to 802.11n, is a wireless-networking standard that uses multiple antennas to increase data rates. \nThe Wi-Fi Alliance has also retroactively labelled the technology for the standard as Wi-Fi 4. It standardized support for multiple-input multiple-output, frame aggregation, and security improvements, among other features, and can be used in the 2.4 GHz or 5 GHz frequency bands.\n\n- The signal file corresponds to a Wi-Fi signal captured directly above the router, the signaling beacon can be heard. 0:00 to 0:14: Daily use, low transfer. 0:15 to end: Full bandwidth usage @ 113mbps.*"
 }

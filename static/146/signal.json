@@ -28,7 +28,7 @@
     "modulation": [
         {
             "value": "PCM",
-            "description": ""
+            "description": "Pulse Code Modulation"
         }
     ],
     "mode": [],

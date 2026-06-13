@@ -41,7 +41,7 @@
     "modulation": [
         {
             "value": "OFDM",
-            "description": ""
+            "description": "Orthogonal Frequency-Division Multiplexing"
         }
     ],
     "mode": [
@@ -52,7 +52,7 @@
     ],
     "location": [
         {
-            "value": "Canada / Worldwide",
+            "value": "Worldwide",
             "description": ""
         }
     ],

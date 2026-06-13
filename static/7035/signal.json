@@ -32,12 +32,12 @@
     "acf": [],
     "modulation": [
         {
-            "value": "QPSK16",
-            "description": ""
+            "value": "QPSK",
+            "description": "Quadrature Phase-Shift Keying"
         },
         {
-            "value": "8PSK",
-            "description": ""
+            "value": "D8PSK",
+            "description": "Differential 8-Phase-Shift Keying"
         }
     ],
     "mode": [

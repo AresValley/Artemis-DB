@@ -73,12 +73,12 @@
     ],
     "modulation": [
         {
-            "value": "FFSK",
-            "description": ""
+            "value": "FSK",
+            "description": "Frequency-Shift Keying"
         },
         {
             "value": "FM",
-            "description": ""
+            "description": "Frequency Modulation"
         }
     ],
     "mode": [

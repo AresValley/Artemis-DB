@@ -32,20 +32,20 @@
     "acf": [],
     "modulation": [
         {
-            "value": "ODFM",
-            "description": ""
-        },
-        {
             "value": "BPSK",
-            "description": ""
+            "description": "Binary Phase-Shift Keying"
         },
         {
             "value": "QPSK",
-            "description": ""
+            "description": "Quadrature Phase-Shift Keying"
         },
         {
             "value": "QAM",
-            "description": ""
+            "description": "Quadrature Amplitude Modulation"
+        },
+        {
+            "value": "OFDM",
+            "description": "Orthogonal Frequency-Division Multiplexing"
         }
     ],
     "mode": [],

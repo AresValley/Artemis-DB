@@ -30,7 +30,7 @@
     "modulation": [
         {
             "value": "BPSK",
-            "description": ""
+            "description": "Binary Phase-Shift Keying"
         }
     ],
     "mode": [
@@ -41,7 +41,7 @@
     ],
     "location": [
         {
-            "value": "Asia-Pacific",
+            "value": "Asia",
             "description": ""
         }
     ],

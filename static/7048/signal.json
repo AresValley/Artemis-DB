@@ -28,12 +28,12 @@
     "acf": [],
     "modulation": [
         {
-            "value": "16-QAM",
-            "description": ""
+            "value": "QAM",
+            "description": "Quadrature Amplitude Modulation"
         },
         {
             "value": "OFDM",
-            "description": ""
+            "description": "Orthogonal Frequency-Division Multiplexing"
         }
     ],
     "mode": [
@@ -49,5 +49,5 @@
         }
     ],
     "short description": "Band 88 FDD",
-    "description": "<h1>LTE420 transmitter booting up</h1>\n\nAudio recording:\n\n{{#tag:html5media|File:LTE-M_Simplydooge.mp3}}"
+    "description": ""
 }

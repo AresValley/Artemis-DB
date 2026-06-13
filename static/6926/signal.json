@@ -33,7 +33,7 @@
     "modulation": [
         {
             "value": "QPSK",
-            "description": ""
+            "description": "Quadrature Phase-Shift Keying"
         }
     ],
     "mode": [
@@ -48,6 +48,6 @@
             "description": ""
         }
     ],
-    "short description": null,
+    "short description": "",
     "description": ""
 }

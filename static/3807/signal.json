@@ -33,7 +33,7 @@
     "modulation": [
         {
             "value": "ASK",
-            "description": ""
+            "description": "Amplitude-Shift Keying"
         }
     ],
     "mode": [

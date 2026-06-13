@@ -41,7 +41,7 @@
     "modulation": [
         {
             "value": "GFSK",
-            "description": ""
+            "description": "Gaussian Frequency-Shift Keying"
         }
     ],
     "mode": [

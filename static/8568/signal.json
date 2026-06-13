@@ -37,19 +37,19 @@
     "modulation": [
         {
             "value": "QPSK",
-            "description": ""
+            "description": "Quadrature Phase-Shift Keying"
         },
         {
-            "value": "8PSK",
-            "description": ""
+            "value": "D8PSK",
+            "description": "Differential 8-Phase-Shift Keying"
         },
         {
-            "value": "16APSK",
-            "description": ""
+            "value": "APSK",
+            "description": "Amplitude Phase-Shift Keying"
         },
         {
-            "value": "32APSK",
-            "description": ""
+            "value": "APSK",
+            "description": "Amplitude Phase-Shift Keying"
         }
     ],
     "mode": [

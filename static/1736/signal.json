@@ -34,15 +34,15 @@
     "modulation": [
         {
             "value": "ASK",
-            "description": ""
+            "description": "Amplitude-Shift Keying"
         },
         {
             "value": "FSK",
-            "description": ""
+            "description": "Frequency-Shift Keying"
         },
         {
             "value": "OOK",
-            "description": ""
+            "description": "On-Off Keying"
         }
     ],
     "mode": [

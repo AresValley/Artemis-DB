@@ -33,11 +33,11 @@
     "modulation": [
         {
             "value": "QAM",
-            "description": ""
+            "description": "Quadrature Amplitude Modulation"
         },
         {
             "value": "VSB",
-            "description": ""
+            "description": "Vestigial Sideband Modulation"
         }
     ],
     "mode": [

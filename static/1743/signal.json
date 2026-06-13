@@ -27,7 +27,7 @@
     "modulation": [
         {
             "value": "QAM",
-            "description": ""
+            "description": "Quadrature Amplitude Modulation"
         }
     ],
     "mode": [

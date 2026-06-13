@@ -41,15 +41,15 @@
     "modulation": [
         {
             "value": "QAM",
-            "description": ""
+            "description": "Quadrature Amplitude Modulation"
         },
         {
             "value": "VSB",
-            "description": ""
+            "description": "Vestigial Sideband Modulation"
         },
         {
             "value": "FM",
-            "description": ""
+            "description": "Frequency Modulation"
         }
     ],
     "mode": [

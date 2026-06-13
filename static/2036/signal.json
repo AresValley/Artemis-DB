@@ -37,11 +37,11 @@
     "modulation": [
         {
             "value": "PSK",
-            "description": ""
+            "description": "Phase-Shift Keying"
         },
         {
-            "value": "MFSK",
-            "description": ""
+            "value": "FSK",
+            "description": "Frequency-Shift Keying"
         }
     ],
     "mode": [

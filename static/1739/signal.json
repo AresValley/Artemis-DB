@@ -61,8 +61,8 @@
     ],
     "modulation": [
         {
-            "value": "4FSK",
-            "description": ""
+            "value": "FSK",
+            "description": "Frequency-Shift Keying"
         }
     ],
     "mode": [

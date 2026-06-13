@@ -37,7 +37,7 @@
     "modulation": [
         {
             "value": "BPSK",
-            "description": ""
+            "description": "Binary Phase-Shift Keying"
         }
     ],
     "mode": [
@@ -48,11 +48,7 @@
     ],
     "location": [
         {
-            "value": "Chernihiv/Chernobyl",
-            "description": ""
-        },
-        {
-            "value": "Ukraine; Komsomolsk-on-Amur",
+            "value": "Ukraine",
             "description": ""
         },
         {

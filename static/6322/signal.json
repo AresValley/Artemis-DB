@@ -37,8 +37,8 @@
     "acf": [],
     "modulation": [
         {
-            "value": "8PSK",
-            "description": ""
+            "value": "D8PSK",
+            "description": "Differential 8-Phase-Shift Keying"
         }
     ],
     "mode": [

@@ -33,7 +33,7 @@
     "modulation": [
         {
             "value": "OOK",
-            "description": ""
+            "description": "On-Off Keying"
         }
     ],
     "mode": [

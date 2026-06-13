@@ -41,11 +41,11 @@
     "modulation": [
         {
             "value": "TDMA",
-            "description": ""
+            "description": "Time-Division Multiple Access"
         },
         {
-            "value": "4GFSK",
-            "description": ""
+            "value": "GFSK",
+            "description": "Gaussian Frequency-Shift Keying"
         }
     ],
     "mode": [

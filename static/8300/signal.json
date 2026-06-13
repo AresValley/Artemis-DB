@@ -43,32 +43,32 @@
     "acf": [],
     "modulation": [
         {
-            "value": "OFDMA",
-            "description": ""
+            "value": "OFDM",
+            "description": "Orthogonal Frequency-Division Multiplexing"
         },
         {
             "value": "BPSK",
-            "description": ""
+            "description": "Binary Phase-Shift Keying"
         },
         {
             "value": "QPSK",
-            "description": ""
+            "description": "Quadrature Phase-Shift Keying"
         },
         {
-            "value": "16QAM",
-            "description": ""
+            "value": "QAM",
+            "description": "Quadrature Amplitude Modulation"
         },
         {
-            "value": "64QAM",
-            "description": ""
+            "value": "QAM",
+            "description": "Quadrature Amplitude Modulation"
         },
         {
-            "value": "256QAM",
-            "description": ""
+            "value": "QAM",
+            "description": "Quadrature Amplitude Modulation"
         },
         {
-            "value": "1024QAM",
-            "description": ""
+            "value": "QAM",
+            "description": "Quadrature Amplitude Modulation"
         }
     ],
     "mode": [

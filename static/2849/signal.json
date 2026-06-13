@@ -33,7 +33,7 @@
     "modulation": [
         {
             "value": "GMSK",
-            "description": ""
+            "description": "Gaussian Minimum-Shift Keying"
         }
     ],
     "mode": [
@@ -44,7 +44,7 @@
     ],
     "location": [
         {
-            "value": "US",
+            "value": "United States",
             "description": ""
         }
     ],

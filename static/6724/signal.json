@@ -32,8 +32,8 @@
     "acf": [],
     "modulation": [
         {
-            "value": "Analog OFDM",
-            "description": ""
+            "value": "OFDM",
+            "description": "Orthogonal Frequency-Division Multiplexing"
         }
     ],
     "mode": [

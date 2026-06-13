@@ -49,11 +49,11 @@
     "modulation": [
         {
             "value": "FSK",
-            "description": ""
+            "description": "Frequency-Shift Keying"
         },
         {
             "value": "PSK",
-            "description": ""
+            "description": "Phase-Shift Keying"
         }
     ],
     "mode": [

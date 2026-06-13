@@ -40,8 +40,8 @@
     ],
     "modulation": [
         {
-            "value": "Pulsed",
-            "description": ""
+            "value": "Pulse",
+            "description": "Undisclosed Pulse Modulation"
         }
     ],
     "mode": [

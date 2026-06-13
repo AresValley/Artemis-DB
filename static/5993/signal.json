@@ -33,7 +33,7 @@
     "modulation": [
         {
             "value": "D8PSK",
-            "description": ""
+            "description": "Differential 8-Phase-Shift Keying"
         }
     ],
     "mode": [

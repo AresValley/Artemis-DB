@@ -34,7 +34,7 @@
     "modulation": [
         {
             "value": "AM",
-            "description": ""
+            "description": "Amplitude Modulation"
         }
     ],
     "mode": [

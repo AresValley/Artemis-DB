@@ -33,11 +33,11 @@
     "modulation": [
         {
             "value": "ASK",
-            "description": ""
+            "description": "Amplitude-Shift Keying"
         },
         {
             "value": "FHSS",
-            "description": ""
+            "description": "Frequency Hopping Spread Spectrum"
         }
     ],
     "mode": [],

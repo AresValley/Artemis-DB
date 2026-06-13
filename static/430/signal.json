@@ -32,8 +32,8 @@
     "acf": [],
     "modulation": [
         {
-            "value": "FFSK",
-            "description": ""
+            "value": "FSK",
+            "description": "Frequency-Shift Keying"
         }
     ],
     "mode": [

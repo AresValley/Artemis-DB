@@ -24,11 +24,11 @@
     "modulation": [
         {
             "value": "AM",
-            "description": ""
+            "description": "Amplitude Modulation"
         },
         {
             "value": "FM",
-            "description": ""
+            "description": "Frequency Modulation"
         }
     ],
     "mode": [

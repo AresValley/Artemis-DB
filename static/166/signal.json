@@ -38,7 +38,7 @@
     "modulation": [
         {
             "value": "GMSK",
-            "description": ""
+            "description": "Gaussian Minimum-Shift Keying"
         }
     ],
     "mode": [

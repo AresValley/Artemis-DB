@@ -33,19 +33,19 @@
     "modulation": [
         {
             "value": "BPSK",
-            "description": ""
+            "description": "Binary Phase-Shift Keying"
         },
         {
-            "value": "4-8PSK",
-            "description": ""
+            "value": "PSK",
+            "description": "Phase-Shift Keying"
         },
         {
-            "value": "16-32QAM",
-            "description": ""
+            "value": "QAM",
+            "description": "Quadrature Amplitude Modulation"
         },
         {
             "value": "FSK",
-            "description": ""
+            "description": "Frequency-Shift Keying"
         }
     ],
     "mode": [

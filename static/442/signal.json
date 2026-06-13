@@ -37,7 +37,7 @@
     "modulation": [
         {
             "value": "FMCW",
-            "description": ""
+            "description": "Frequency-Modulated Continuous Wave"
         }
     ],
     "mode": [

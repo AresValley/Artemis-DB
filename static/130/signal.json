@@ -37,7 +37,7 @@
     "modulation": [
         {
             "value": "PPM",
-            "description": ""
+            "description": "Pulse Position Modulation"
         }
     ],
     "mode": [
@@ -53,5 +53,5 @@
         }
     ],
     "short description": "ADS-B is used by aircraft as an alternative to secondary radar. It broadcasts GPS position (latitude, longitude), pressure altitude, callsign, as well as track and ground speed.",
-    "description": "**Automatic Dependent Surveillance-Broadcast (ADS-B)** is used by aircraft as an alternative to secondary radar. It broadcasts GPS position (latitude, longitude), pressure altitude, callsign, as well as track and ground speed separated into messages carrying 10 bytes of data each. ADS-B uses PPM to transmit data.\n\nThere are two types of ADS-B: \n* one that transmits at 1090 MHz using the mode-S extended squitter (downlink format 17) of the SSR transponder, with about 2 MHz of bandwidth; (Worldwide)\n* one that transmits at 978 MHz (UAT, Universal Access Transceiver), using a larger bandwidth of about 1.3 MHz and also transmitting weather data. (US Only)"
+    "description": "**Automatic Dependent Surveillance-Broadcast (ADS-B)** is used by aircraft as an alternative to secondary radar. It broadcasts GPS position (latitude, longitude), pressure altitude, callsign, as well as track and ground speed separated into messages carrying 10 bytes of data each. ADS-B uses PPM to transmit data.\n\nThere are two types of ADS-B: \n- one that transmits at 1090 MHz using the mode-S extended squitter (downlink format 17) of the SSR transponder, with about 2 MHz of bandwidth; (Worldwide)\n- one that transmits at 978 MHz (UAT, Universal Access Transceiver), using a larger bandwidth of about 1.3 MHz and also transmitting weather data. (US Only)"
 }

@@ -33,11 +33,11 @@
     "modulation": [
         {
             "value": "CW",
-            "description": ""
+            "description": "Continuous Wave"
         },
         {
             "value": "FSK",
-            "description": ""
+            "description": "Frequency-Shift Keying"
         }
     ],
     "mode": [],

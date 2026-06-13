@@ -40,24 +40,24 @@
     "acf": [],
     "modulation": [
         {
-            "value": "16QAM",
-            "description": ""
+            "value": "QAM",
+            "description": "Quadrature Amplitude Modulation"
         },
         {
-            "value": "32QAM",
-            "description": ""
+            "value": "QAM",
+            "description": "Quadrature Amplitude Modulation"
         },
         {
-            "value": "64QAM",
-            "description": ""
+            "value": "QAM",
+            "description": "Quadrature Amplitude Modulation"
         },
         {
-            "value": "128QAM",
-            "description": ""
+            "value": "QAM",
+            "description": "Quadrature Amplitude Modulation"
         },
         {
-            "value": "256QAM",
-            "description": ""
+            "value": "QAM",
+            "description": "Quadrature Amplitude Modulation"
         }
     ],
     "mode": [],

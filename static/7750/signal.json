@@ -37,7 +37,7 @@
     "modulation": [
         {
             "value": "GMSK",
-            "description": ""
+            "description": "Gaussian Minimum-Shift Keying"
         }
     ],
     "mode": [
@@ -53,5 +53,5 @@
         }
     ],
     "short description": "Proprietary GMSK mode used for voice by Fujian Baofeng walkie talkies",
-    "description": "Proprietary GMSK mode used for digital voice by Fujian Baofeng walkie talkies. At least supported by the following models:\n\n* Alervites AT-W31D (FCC ID: [2BBGD-AT31D](https://fcc.report/FCC-ID/2BBGD-AT31D))\n* Baofeng 1901D (FCC ID: [2AJGM-1901D](https://fcc.report/FCC-ID/2AJGM-1901D))\n* Baofeng 888SD (FCC ID: [2AJGM-888SD](https://fcc.report/FCC-ID/2AJGM-888SD))\n* Baofeng T20D (FCC ID: [2AJGM-T20D](https://fcc.report/FCC-ID/2AJGM-T20D))\n* Baofeng V1D (FCC ID: [2AJGM-V1D](https://fcc.report/FCC-ID/2AJGM-V1D))\n* Baofeng V12D/GT68PRO (FCC ID: [2AJGM-V12D](https://fcc.report/FCC-ID/2AJGM-V12D))\n* Baofeng W31D (FCC ID: [2AJGM-W31D](https://fcc.report/FCC-ID/2AJGM-W31D))\n \nAccording to FCC filings, it uses TDMA on a 12.5KHz channel, with GMSK at data rate of 10248 bps. However, the SDR waterfall suggests there is no such TDMA applied.\n\nThe protocol has some sort of 5-bit encryption or selective call mechanism, specified as a number from 0 to 31 on the CPS."
+    "description": "Proprietary GMSK mode used for digital voice by Fujian Baofeng walkie talkies. At least supported by the following models:\n\n- Alervites AT-W31D (FCC ID: [2BBGD-AT31D](https://fcc.report/FCC-ID/2BBGD-AT31D))\n- Baofeng 1901D (FCC ID: [2AJGM-1901D](https://fcc.report/FCC-ID/2AJGM-1901D))\n- Baofeng 888SD (FCC ID: [2AJGM-888SD](https://fcc.report/FCC-ID/2AJGM-888SD))\n- Baofeng T20D (FCC ID: [2AJGM-T20D](https://fcc.report/FCC-ID/2AJGM-T20D))\n- Baofeng V1D (FCC ID: [2AJGM-V1D](https://fcc.report/FCC-ID/2AJGM-V1D))\n- Baofeng V12D/GT68PRO (FCC ID: [2AJGM-V12D](https://fcc.report/FCC-ID/2AJGM-V12D))\n- Baofeng W31D (FCC ID: [2AJGM-W31D](https://fcc.report/FCC-ID/2AJGM-W31D))\n \nAccording to FCC filings, it uses TDMA on a 12.5KHz channel, with GMSK at data rate of 10248 bps. However, the SDR waterfall suggests there is no such TDMA applied.\n\nThe protocol has some sort of 5-bit encryption or selective call mechanism, specified as a number from 0 to 31 on the CPS."
 }

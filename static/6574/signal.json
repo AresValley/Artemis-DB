@@ -29,7 +29,7 @@
     "modulation": [
         {
             "value": "PAM",
-            "description": ""
+            "description": "Pulse Amplitude Modulation"
         }
     ],
     "mode": [],

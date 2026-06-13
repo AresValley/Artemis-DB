@@ -45,27 +45,27 @@
     "modulation": [
         {
             "value": "QAM",
-            "description": ""
+            "description": "Quadrature Amplitude Modulation"
         },
         {
             "value": "VSB",
-            "description": ""
+            "description": "Vestigial Sideband Modulation"
         },
         {
             "value": "FM",
-            "description": ""
+            "description": "Frequency Modulation"
         },
         {
             "value": "AM",
-            "description": ""
+            "description": "Amplitude Modulation"
         },
         {
-            "value": "2PSK",
-            "description": ""
+            "value": "PSK",
+            "description": "Phase-Shift Keying"
         },
         {
-            "value": "4PSK",
-            "description": ""
+            "value": "PSK",
+            "description": "Phase-Shift Keying"
         }
     ],
     "mode": [

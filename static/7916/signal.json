@@ -29,8 +29,8 @@
     "acf": [],
     "modulation": [
         {
-            "value": "CVSD",
-            "description": ""
+            "value": "CVSDM",
+            "description": "Continuously Variable Slope Delta Modulation"
         }
     ],
     "mode": [

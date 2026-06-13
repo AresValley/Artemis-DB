@@ -37,7 +37,7 @@
     "modulation": [
         {
             "value": "AFSK",
-            "description": ""
+            "description": "Audio Frequency-Shift Keying"
         }
     ],
     "mode": [

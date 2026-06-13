@@ -32,8 +32,8 @@
     "acf": [],
     "modulation": [
         {
-            "value": "8VSB",
-            "description": ""
+            "value": "VSB",
+            "description": "Vestigial Sideband Modulation"
         }
     ],
     "mode": [

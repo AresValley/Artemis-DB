@@ -36,8 +36,8 @@
     "acf": [],
     "modulation": [
         {
-            "value": "MFSK",
-            "description": ""
+            "value": "FSK",
+            "description": "Frequency-Shift Keying"
         }
     ],
     "mode": [
@@ -53,5 +53,5 @@
         }
     ],
     "short description": "Piccolo was a MFSK system developed by the UK Foreign and Commonwealth Office (FCO) to communicate with foreign embassies and UK military stations around the world. No longer used.",
-    "description": "**Piccolo** was a MFSK system developed by the UK Foreign and Commonwealth Office (FCO) to communicate with foreign embassies and UK military stations around the world. No longer used.\n\nTwo Types:\n\n* MK6: 180 Hz wide 6-tone MFSK version of Piccolo. Uses [ITA-2](http://www.wavecom.ch/content/ext/decoder-online-help/default.htm#!worddocuments/ita2alphabet.htm) encoding for alphanumeric text.\n\n* MK12: 300 Hz wide 12-tone MFSK version of Piccolo. Uses [ITA-5](http://www.wavecom.ch/content/ext/decoder-online-help/default.htm#!worddocuments/ita5alphabet.htm) encoding for alphanumeric text."
+    "description": "**Piccolo** was a MFSK system developed by the UK Foreign and Commonwealth Office (FCO) to communicate with foreign embassies and UK military stations around the world. No longer used.\n\nTwo Types:\n\n- MK6: 180 Hz wide 6-tone MFSK version of Piccolo. Uses [ITA-2](http://www.wavecom.ch/content/ext/decoder-online-help/default.htm#!worddocuments/ita2alphabet.htm) encoding for alphanumeric text.\n\n- MK12: 300 Hz wide 12-tone MFSK version of Piccolo. Uses [ITA-5](http://www.wavecom.ch/content/ext/decoder-online-help/default.htm#!worddocuments/ita5alphabet.htm) encoding for alphanumeric text."
 }

@@ -28,11 +28,11 @@
     "modulation": [
         {
             "value": "PSK",
-            "description": ""
+            "description": "Phase-Shift Keying"
         },
         {
             "value": "DSSS",
-            "description": ""
+            "description": "Direct Sequence Spread Spectrum"
         }
     ],
     "mode": [

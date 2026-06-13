@@ -34,7 +34,7 @@
     "modulation": [
         {
             "value": "FMOP",
-            "description": ""
+            "description": "Frequency Modulation on Pulse"
         }
     ],
     "mode": [

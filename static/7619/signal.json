@@ -31,11 +31,11 @@
     "modulation": [
         {
             "value": "CW",
-            "description": ""
+            "description": "Continuous Wave"
         },
         {
             "value": "FM",
-            "description": ""
+            "description": "Frequency Modulation"
         }
     ],
     "mode": [

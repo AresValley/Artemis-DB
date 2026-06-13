@@ -33,11 +33,11 @@
     "modulation": [
         {
             "value": "GFSK",
-            "description": ""
+            "description": "Gaussian Frequency-Shift Keying"
         },
         {
             "value": "DPSK",
-            "description": ""
+            "description": "Differential Phase-Shift Keying"
         }
     ],
     "mode": [],

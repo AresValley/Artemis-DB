@@ -28,8 +28,12 @@
     "acf": [],
     "modulation": [
         {
-            "value": "PM/PCM",
-            "description": ""
+            "value": "PM",
+            "description": "Phase Modulation"
+        },
+        {
+            "value": "PCM",
+            "description": "Pulse Code Modulation"
         }
     ],
     "mode": [

@@ -41,7 +41,7 @@
     "modulation": [
         {
             "value": "C4FM",
-            "description": ""
+            "description": "4-level FSK Technology"
         }
     ],
     "mode": [

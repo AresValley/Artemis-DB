@@ -20,12 +20,7 @@
     ],
     "bandwidth": [],
     "acf": [],
-    "modulation": [
-        {
-            "value": "J3E",
-            "description": ""
-        }
-    ],
+    "modulation": [],
     "mode": [
         {
             "value": "USB",
@@ -34,11 +29,7 @@
     ],
     "location": [
         {
-            "value": "Moscow",
-            "description": ""
-        },
-        {
-            "value": "Russia (speculated)",
+            "value": "Russia",
             "description": ""
         }
     ],

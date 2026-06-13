@@ -32,15 +32,15 @@
     "modulation": [
         {
             "value": "BPSK",
-            "description": ""
+            "description": "Binary Phase-Shift Keying"
         },
         {
             "value": "QAM",
-            "description": ""
+            "description": "Quadrature Amplitude Modulation"
         },
         {
-            "value": "8PSK",
-            "description": ""
+            "value": "D8PSK",
+            "description": "Differential 8-Phase-Shift Keying"
         }
     ],
     "mode": [

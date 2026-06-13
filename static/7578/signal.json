@@ -28,7 +28,7 @@
     "modulation": [
         {
             "value": "GFSK",
-            "description": ""
+            "description": "Gaussian Frequency-Shift Keying"
         }
     ],
     "mode": [
@@ -44,5 +44,5 @@
         }
     ],
     "short description": "Wireless Smart Utility Networks (Wi-SUN）",
-    "description": "* Used for communication of smart meters, photovoltaic setups etc. in Japan\n* Standardized in: 802.15.4g/e/6LoWPAN\n* Modulation Binary GFSK\n* Channel Spacing (KHz): 200, 400, 600, Total Number of channels: 38, 18, 12\n* Data Rate: 50 kbps"
+    "description": "- Used for communication of smart meters, photovoltaic setups etc. in Japan\n- Standardized in: 802.15.4g/e/6LoWPAN\n- Modulation Binary GFSK\n- Channel Spacing (KHz): 200, 400, 600, Total Number of channels: 38, 18, 12\n- Data Rate: 50 kbps"
 }

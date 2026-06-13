@@ -28,8 +28,8 @@
     "acf": [],
     "modulation": [
         {
-            "value": "NFM",
-            "description": ""
+            "value": "FM",
+            "description": "Frequency Modulation"
         }
     ],
     "mode": [

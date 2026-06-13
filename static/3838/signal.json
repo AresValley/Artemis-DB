@@ -28,7 +28,7 @@
     "modulation": [
         {
             "value": "PPM",
-            "description": ""
+            "description": "Pulse Position Modulation"
         }
     ],
     "mode": [
@@ -44,5 +44,5 @@
         }
     ],
     "short description": "Chinese radio jamming signals intended to disrupt/censor broadcast communications.",
-    "description": "'''\nOddity 9/9/16, No longer a oddity, I just found this signal today on 17580 kHz, Jamming a VOA transmission. '''"
+    "description": "Report Date: 09/09/2016. Active jamming operations were identified on 17580 kHz, targeting a VOA transmission. The interfering signal, formerly cataloged as an 'oddity', has been reclassified as active interference."
 }

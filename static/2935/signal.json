@@ -32,12 +32,12 @@
     "acf": [],
     "modulation": [
         {
-            "value": "MFSK",
-            "description": ""
+            "value": "FSK",
+            "description": "Frequency-Shift Keying"
         },
         {
             "value": "PSK",
-            "description": ""
+            "description": "Phase-Shift Keying"
         }
     ],
     "mode": [

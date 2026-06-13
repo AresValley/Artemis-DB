@@ -34,15 +34,15 @@
     "modulation": [
         {
             "value": "QPSK",
-            "description": ""
+            "description": "Quadrature Phase-Shift Keying"
         },
         {
             "value": "BPSK",
-            "description": ""
+            "description": "Binary Phase-Shift Keying"
         },
         {
             "value": "APSK",
-            "description": ""
+            "description": "Amplitude Phase-Shift Keying"
         }
     ],
     "mode": [

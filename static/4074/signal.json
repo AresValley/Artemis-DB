@@ -31,11 +31,11 @@
     "modulation": [
         {
             "value": "AM",
-            "description": ""
+            "description": "Amplitude Modulation"
         },
         {
             "value": "PSK",
-            "description": ""
+            "description": "Phase-Shift Keying"
         }
     ],
     "mode": [

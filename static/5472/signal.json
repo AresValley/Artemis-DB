@@ -23,7 +23,7 @@
     "modulation": [
         {
             "value": "PPM",
-            "description": ""
+            "description": "Pulse Position Modulation"
         }
     ],
     "mode": [
@@ -38,6 +38,6 @@
             "description": ""
         }
     ],
-    "short description": null,
+    "short description": "",
     "description": "[:File:WHS.wav](https://www.sigidwiki.com/wiki/%3AFile%3AWHS.wav)"
 }

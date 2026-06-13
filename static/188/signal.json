@@ -38,7 +38,7 @@
     "modulation": [
         {
             "value": "SDPSK",
-            "description": ""
+            "description": "Symmetric Differential Phase-Shift Keying"
         }
     ],
     "mode": [

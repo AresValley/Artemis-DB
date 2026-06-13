@@ -38,11 +38,11 @@
     "modulation": [
         {
             "value": "FM",
-            "description": ""
+            "description": "Frequency Modulation"
         },
         {
             "value": "FSK",
-            "description": ""
+            "description": "Frequency-Shift Keying"
         }
     ],
     "mode": [

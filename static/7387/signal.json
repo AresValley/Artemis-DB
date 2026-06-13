@@ -52,20 +52,20 @@
     "acf": [],
     "modulation": [
         {
-            "value": "MFSK",
-            "description": ""
+            "value": "FSK",
+            "description": "Frequency-Shift Keying"
         },
         {
             "value": "OFDM",
-            "description": ""
+            "description": "Orthogonal Frequency-Division Multiplexing"
         },
         {
             "value": "FM",
-            "description": ""
+            "description": "Frequency Modulation"
         },
         {
             "value": "FMCW",
-            "description": ""
+            "description": "Frequency-Modulated Continuous Wave"
         }
     ],
     "mode": [

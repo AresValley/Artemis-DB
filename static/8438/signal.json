@@ -48,12 +48,12 @@
     "acf": [],
     "modulation": [
         {
-            "value": "OFDMA",
-            "description": ""
+            "value": "OFDM",
+            "description": "Orthogonal Frequency-Division Multiplexing"
         },
         {
             "value": "SC-FDMA",
-            "description": ""
+            "description": "Single-carrier Frequency-Division Multiplexing Access"
         }
     ],
     "mode": [

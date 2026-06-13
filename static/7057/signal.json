@@ -33,11 +33,11 @@
     "modulation": [
         {
             "value": "PSK",
-            "description": ""
+            "description": "Phase-Shift Keying"
         },
         {
             "value": "QAM",
-            "description": ""
+            "description": "Quadrature Amplitude Modulation"
         }
     ],
     "mode": [

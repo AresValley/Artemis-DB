@@ -26,19 +26,19 @@
     "modulation": [
         {
             "value": "PCM",
-            "description": ""
+            "description": "Pulse Code Modulation"
         },
         {
             "value": "PAM",
-            "description": ""
+            "description": "Pulse Amplitude Modulation"
         },
         {
             "value": "FM",
-            "description": ""
+            "description": "Frequency Modulation"
         },
         {
             "value": "PM",
-            "description": ""
+            "description": "Phase Modulation"
         }
     ],
     "mode": [

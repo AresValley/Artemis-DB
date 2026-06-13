@@ -33,15 +33,15 @@
     "modulation": [
         {
             "value": "PSK",
-            "description": ""
+            "description": "Phase-Shift Keying"
         },
         {
             "value": "OFDM",
-            "description": ""
+            "description": "Orthogonal Frequency-Division Multiplexing"
         },
         {
-            "value": "PSK8",
-            "description": ""
+            "value": "PSK",
+            "description": "Phase-Shift Keying"
         }
     ],
     "mode": [

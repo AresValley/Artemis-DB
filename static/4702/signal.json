@@ -76,8 +76,8 @@
     "acf": [],
     "modulation": [
         {
-            "value": "8-FSK",
-            "description": ""
+            "value": "FSK",
+            "description": "Frequency-Shift Keying"
         }
     ],
     "mode": [

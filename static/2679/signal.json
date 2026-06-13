@@ -32,11 +32,11 @@
     "modulation": [
         {
             "value": "CW",
-            "description": ""
+            "description": "Continuous Wave"
         },
         {
             "value": "FMCW",
-            "description": ""
+            "description": "Frequency-Modulated Continuous Wave"
         }
     ],
     "mode": [

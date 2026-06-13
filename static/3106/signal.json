@@ -38,7 +38,7 @@
     "modulation": [
         {
             "value": "OFDM",
-            "description": ""
+            "description": "Orthogonal Frequency-Division Multiplexing"
         }
     ],
     "mode": [
@@ -54,5 +54,5 @@
         }
     ],
     "short description": "UK GOV/MIL \"WinDRM51\" variant. Unknown purpose, But link between UK & Cyprus has been found some years ago.",
-    "description": "Signal found 2016 January 3rd T18-58-46Z 9104.6kHz\n\n**IDENTIFIED** It's the UK GOV/MIL \"WinDRM51\" variant, supposed idle only, seen on many freqs in the past, for unknown purpose yet. But link between UK & Cyprus has been found some years ago. Credit: Linkz -- [Cartoonman](https://www.sigidwiki.com/wiki/User%3ACartoonman) ( [talk](https://www.sigidwiki.com/wiki/User_talk%3ACartoonman)) 08:59, 18 January 2016 (NZDT)\n\nIt is a special case of OFDM, using only one of every two symbols."
+    "description": "UK GOV/MIL \"WinDRM51\" variant, supposed to be idle only, seen on many frequencies in the past, for an unknown purpose yet. But the link between the UK & Cyprus was found some years ago. Credit: Linkz -- [Cartoonman](https://www.sigidwiki.com/wiki/User%3ACartoonman) ( [talk](https://www.sigidwiki.com/wiki/User_talk%3ACartoonman)) 08:59, 18 January 2016 (NZDT)\n\nIt is a special case of OFDM that uses only one of every two symbols."
 }

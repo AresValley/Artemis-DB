@@ -37,7 +37,7 @@
     "modulation": [
         {
             "value": "OQPSK",
-            "description": ""
+            "description": "Offset Quadrature Phase-Shift Keying"
         }
     ],
     "mode": [

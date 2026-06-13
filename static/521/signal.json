@@ -44,8 +44,8 @@
     "acf": [],
     "modulation": [
         {
-            "value": "ILFM",
-            "description": ""
+            "value": "LFM",
+            "description": "Linear Frequency Modulation"
         }
     ],
     "mode": [

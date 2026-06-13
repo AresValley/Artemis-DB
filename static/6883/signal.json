@@ -28,7 +28,7 @@
     "modulation": [
         {
             "value": "PFM",
-            "description": ""
+            "description": "Pulse Frequency Modulation"
         }
     ],
     "mode": [

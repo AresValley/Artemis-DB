@@ -44,7 +44,7 @@
     "modulation": [
         {
             "value": "PWM",
-            "description": ""
+            "description": "Pulse Width Modulation"
         }
     ],
     "mode": [

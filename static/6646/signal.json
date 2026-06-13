@@ -27,7 +27,7 @@
     "modulation": [
         {
             "value": "MSK",
-            "description": ""
+            "description": "Minimum-Shift Keying"
         }
     ],
     "mode": [

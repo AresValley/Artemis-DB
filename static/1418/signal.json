@@ -42,19 +42,19 @@
     "modulation": [
         {
             "value": "PSK",
-            "description": ""
+            "description": "Phase-Shift Keying"
         },
         {
             "value": "BPSK",
-            "description": ""
+            "description": "Binary Phase-Shift Keying"
         },
         {
             "value": "QPSK",
-            "description": ""
+            "description": "Quadrature Phase-Shift Keying"
         },
         {
-            "value": "8PSK",
-            "description": ""
+            "value": "D8PSK",
+            "description": "Differential 8-Phase-Shift Keying"
         }
     ],
     "mode": [

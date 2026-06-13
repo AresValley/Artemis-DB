@@ -38,7 +38,7 @@
     "modulation": [
         {
             "value": "DSSS",
-            "description": ""
+            "description": "Direct Sequence Spread Spectrum"
         }
     ],
     "mode": [

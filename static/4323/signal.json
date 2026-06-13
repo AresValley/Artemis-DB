@@ -33,7 +33,7 @@
     "modulation": [
         {
             "value": "PSK",
-            "description": ""
+            "description": "Phase-Shift Keying"
         }
     ],
     "mode": [
@@ -49,5 +49,5 @@
         }
     ],
     "short description": "Thales SALAMANDRE (using HFXL waveform) uses up to 16 separate contiguous or not-contiguous narrowband HF channels for high datarate military and tactical communications. Operates on a modified STANAG-4539 platform.",
-    "description": "**Thales SALAMANDRE** (using **HFXL** waveform) uses uses up to 16 separate contiguous or not-contiguous narrowband HF channels for high datarate military and tactical communications. Operates on a modified STANAG-4539 platform.\n\n* Credits to ANgazu, Antonio, and KarapuZ for the find and analysis.*"
+    "description": "**Thales SALAMANDRE** (using **HFXL** waveform) uses uses up to 16 separate contiguous or not-contiguous narrowband HF channels for high datarate military and tactical communications. Operates on a modified STANAG-4539 platform.\n\n- Credits to ANgazu, Antonio, and KarapuZ for the find and analysis.*"
 }

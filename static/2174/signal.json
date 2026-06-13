@@ -37,15 +37,15 @@
     "modulation": [
         {
             "value": "FM",
-            "description": ""
+            "description": "Frequency Modulation"
         },
         {
             "value": "DPCM",
-            "description": ""
+            "description": "Differential Pulse Code Modulation"
         },
         {
             "value": "VSB",
-            "description": ""
+            "description": "Vestigial Sideband Modulation"
         }
     ],
     "mode": [

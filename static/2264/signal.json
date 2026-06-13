@@ -32,8 +32,8 @@
     "acf": [],
     "modulation": [
         {
-            "value": "MC-CDMA",
-            "description": ""
+            "value": "CDMA",
+            "description": "Code-Division Multiple Access"
         }
     ],
     "mode": [

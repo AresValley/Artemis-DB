@@ -22,11 +22,7 @@
     ],
     "bandwidth": [
         {
-            "value": 10,
-            "description": ""
-        },
-        {
-            "value": 0,
+            "value": 10000,
             "description": ""
         }
     ],
@@ -34,7 +30,7 @@
     "modulation": [
         {
             "value": "AFSK",
-            "description": ""
+            "description": "Audio Frequency-Shift Keying"
         }
     ],
     "mode": [
@@ -62,5 +58,5 @@
         }
     ],
     "short description": "Radiosonde launched on a weather balloon.",
-    "description": "This Radiosonde is mostly used in Israel, Belgium, USA as well as South Africa. The IMET range of Radiosonde's are manufactured by Intermet [https://www.intermet.co] www.intermet.co\n----\nThe iMet 54 is the latest product in the Intermet range\n----\n\n----\nThe iMet 4 is a more modern radiosonde, and more compact.\n----\n\n----\nwhile the iMet 1 is an older model which is almost not used in 2021.\nIt also has a bit wider bandwidth.\n----"
+    "description": "This Radiosonde is mostly used in Israel, Belgium, USA as well as South Africa. The IMET range of radiosondes is manufactured by Intermet [https://www.intermet.co] www.intermet.co\nThe iMet 54 is the latest product in the Intermet range. The iMet 4 is a more modern radiosonde, and more compact while the iMet 1 is an older model which is almost not used in 2021.\nIt also has a bit wider bandwidth."
 }

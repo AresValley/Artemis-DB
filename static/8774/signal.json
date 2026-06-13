@@ -1,0 +1,46 @@
+{
+    "pageid": "8774",
+    "title": "Nissan Qashqai Keyless Entry LF (Intelligent Key)",
+    "spectrum": {
+        "filename": "Nissan Qashqai.png",
+        "url": "https://www.sigidwiki.com/images/8/87/Nissan_Qashqai.png"
+    },
+    "audio": {
+        "filename": "125KHz.mp3",
+        "url": "https://www.sigidwiki.com/images/4/45/125KHz.mp3"
+    },
+    "category": [],
+    "frequency": [
+        {
+            "value": 125000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 10000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "ASK",
+            "description": "Amplitude-Shift Keying"
+        }
+    ],
+    "mode": [
+        {
+            "value": "AM / CW",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ],
+    "short description": "This signal is the Low Frequency (LF) interrogation ping from a Nissan Qashqai (Intelligent Key / Keyless Entry system). \n\nThe vehicle's Body Control Module (BCM) transmits short 125 kHz ASK-modulated pulses via internal and external antennas to detect the presence of the key fob. \n\nThe system operates on a trigger-based logic: a single short pulse is transmitted when any door is opened or closed. If the key fob is not detected inside the cabin after a door closes, the system switches to a continuous cycling search pattern accompanied by a dashboard warning and an interior buzzer until a timeout is reached.",
+    "description": "This signal is the Low Frequency (LF) interrogation ping from a Nissan Qashqai (Intelligent Key / Keyless Entry system). \n\nThe vehicle's Body Control Module (BCM) transmits short 125 kHz ASK-modulated pulses via internal and external antennas to detect the presence of the key fob. \n\nThe system operates on a trigger-based logic: a single short pulse is transmitted when any door is opened or closed. If the key fob is not detected inside the cabin after a door closes, the system switches to a continuous cycling search pattern accompanied by a dashboard warning and an interior buzzer until a timeout is reached."
+}
