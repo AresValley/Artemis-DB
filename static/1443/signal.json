@@ -61,5 +61,5 @@
         }
     ],
     "short description": "THROB is a unique data mode that relies heavily on DSP techniques, using MFSK and AM modulation techniques together.",
-    "description": "**THROB** is a unique data mode that relies heavily on DSP techniques. THROB was created by Lionel Sear, G3PPT.\n\nTHROB uses 9 tones, spaced 8 or 16Hz. THROBX, an evolution of THROB, uses 11 tones spaced 7.8125 or 15.625Hz. \n\n[[Image:THROBTable.png]]"
+    "description": "**THROB** is a unique data mode that relies heavily on DSP techniques. THROB was created by Lionel Sear, G3PPT.\n\nTHROB uses 9 tones, spaced 8 or 16Hz. THROBX, an evolution of THROB, uses 11 tones spaced 7.8125 or 15.625Hz."
 }

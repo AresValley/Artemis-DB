@@ -57,5 +57,5 @@
         }
     ],
     "short description": "Thales Système 3000 Skyhopper is the frequency hopping mode of the Système 3000 Modem. Characterized by it's very short bursts and frequency hopping behavior.",
-    "description": "**Thales Système 3000 Skyhopper** is the frequency hopping mode of the [Système 3000 Modem](https://www.sigidwiki.com/wiki/Thales Système 3000 HF Modem). Characterized by its very short bursts and frequency hopping behavior.\n\nThe Skyhopper mode supports wide-band hopping up to 2 MHz wide. ALE and PSK burst data can be sent using Skyhopper mode."
+    "description": "**Thales Système 3000 Skyhopper** is the frequency hopping mode of the [Système 3000 Modem](https://www.sigidwiki.com/wiki/Thales_Syst%C3%A8me_3000_HF_Modem). Characterized by its very short bursts and frequency hopping behavior.\n\nThe Skyhopper mode supports wide-band hopping up to 2 MHz wide. ALE and PSK burst data can be sent using Skyhopper mode."
 }

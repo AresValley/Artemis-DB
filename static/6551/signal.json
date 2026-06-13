@@ -81,5 +81,5 @@
         }
     ],
     "short description": "Cuban jammers jam the frequencies of Radio Martí, Radio Republica and occasionally WRMI radio.",
-    "description": "{| class=\"wikitable\"\n|+\n|-\n! scope=\"col\"| Cuban Jammer in USB Mode.\n|-\n| File:6.030_kHz_Cuban_Jammer_USB_Mode.wav\n|}\n\n{| class=\"wikitable\"\n|+\n|-\n! scope=\"col\"| Cuba Jamming on WRMI.\n|-\n| File:WRMI_Jamming.wav\n|}"
+    "description": "{| class=\"wikitable\"\n|+\n|-\n! scope=\"col\"| Cuban Jammer in USB Mode.\n|-\n| <html5media>File:6.030_kHz_Cuban_Jammer_USB_Mode.wav</html5media>\n|}\n\n{| class=\"wikitable\"\n|+\n|-\n! scope=\"col\"| Cuba Jamming on WRMI.\n|-\n| <html5media>File:WRMI_Jamming.wav</html5media>\n|}"
 }

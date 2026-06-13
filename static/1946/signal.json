@@ -45,5 +45,5 @@
         }
     ],
     "short description": "Accurate positioning by Low Frequencies, a former German DGPS navigation system. No longer in use as of 2013.",
-    "description": "**Accurate positioning by Low Frequencies**, a former German DGPS navigation system. **No longer in use as of 2013**\n\nThe system serviced all of Germany, with a 600 km - 800 km range from the transmitting antenna near Frankfurt. \n\nThis signal operated at 1187.6 Baud and used BPSK modulation. This signal also used the [RDS](https://www.sigidwiki.com/wiki/Radio_Data_System_(RDS)) format used in commercial FM sidebands for the low bitrate dissemination of information. This version of RDS was transmitted in SSB with a decreased pilot level to reduce the bandwidth."
+    "description": "**Accurate positioning by Low Frequencies**, a former German DGPS navigation system. **No longer in use as of 2013**\n\nThe system serviced all of Germany, with a 600 km - 800 km range from the transmitting antenna near Frankfurt. \n\nThis signal operated at 1187.6 Baud and used BPSK modulation. This signal also used the [RDS](https://www.sigidwiki.com/wiki/Radio_Data_System_%28RDS%29) format used in commercial FM sidebands for the low bitrate dissemination of information. This version of RDS was transmitted in SSB with a decreased pilot level to reduce the bandwidth."
 }

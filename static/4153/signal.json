@@ -52,5 +52,5 @@
         }
     ],
     "short description": "IsatM2M Service operated by Inmarsat on existing Inmarsat-D/D+ infrastructure.",
-    "description": "**IsatM2M Paging Service** was operated by Inmarsat on (then) existing [Inmarsat-D/D+](https://www.sigidwiki.com/wiki/Inmarsat-D(D+) Downlink) infrastructure. It was used for transport vehicle security, industrial equipment monitoring (SCADA) and marine tracking. Similar waveform to [Inmarsat-D/D+](https://www.sigidwiki.com/wiki/Inmarsat-D(D+) Downlink) but employs faster bit rate and wider bandwidth."
+    "description": "**IsatM2M Paging Service** was operated by Inmarsat on (then) existing [Inmarsat-D/D+](https://www.sigidwiki.com/wiki/Inmarsat-D%28D%2B%29_Downlink) infrastructure. It was used for transport vehicle security, industrial equipment monitoring (SCADA) and marine tracking. Similar waveform to [Inmarsat-D/D+](https://www.sigidwiki.com/wiki/Inmarsat-D%28D%2B%29_Downlink) but employs faster bit rate and wider bandwidth."
 }

@@ -48,7 +48,8 @@ class Constants():
         "Errant Signal on 2m Ham Band",
         "AC Interference",
         "HP laptop",
-        "Interferance signal from old computer screen"
+        "Interferance signal from old computer screen",
+        "4G LTE 450MHz"
     ]
 
     KNOWN_MODULATIONS = {

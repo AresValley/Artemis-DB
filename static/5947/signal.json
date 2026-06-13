@@ -39,5 +39,5 @@
         }
     ],
     "short description": "Interference from Smart TV units",
-    "description": "File:528_Mhz.png|Interference from a Master-G TV unit.\n\n{{Gallery||cg1|center|\nImage: |Description here \nImage:528.400.png |Another interfering signalFile: SDRSharp_20200812.wav"
+    "description": "<gallery>\nFile:528_Mhz.png|Interference from a Master-G TV unit.\n\n{{Gallery||cg1|center|<gallery widths=200px>\nImage: |Description here \nImage:528.400.png |Another interfering signal<html5media width=\"300\">File: SDRSharp_20200812.wav</html5media>"
 }

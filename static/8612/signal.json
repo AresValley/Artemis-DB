@@ -73,5 +73,5 @@
         }
     ],
     "short description": "Slow 20-baud FSK signal with very large 7 kHz frequency shift. Used by Russian military.",
-    "description": "This is a slow 20-baud FSK mode used by Russian military, with unusual 7 kHz frequency shift. Due to such a large frequency shift, it may be confused as being two [CW](https://www.sigidwiki.com/wiki/Morse_Code_(CW)) transmissions on nearby frequencies. Tranmissions have been heard on the 40-meter amateur radio band, usually but not always, on two frequencies simultaneously.\n\nAt least one source of the signal has been traced to Crimea, close to Sevastopol, where the Russian Black Sea Fleet base is located."
+    "description": "This is a slow 20-baud FSK mode used by Russian military, with unusual 7 kHz frequency shift. Due to such a large frequency shift, it may be confused as being two [CW](https://www.sigidwiki.com/wiki/Morse_Code_%28CW%29) transmissions on nearby frequencies. Tranmissions have been heard on the 40-meter amateur radio band, usually but not always, on two frequencies simultaneously.\n\nAt least one source of the signal has been traced to Crimea, close to Sevastopol, where the Russian Black Sea Fleet base is located."
 }

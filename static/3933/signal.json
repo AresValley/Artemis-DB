@@ -54,5 +54,5 @@
         }
     ],
     "short description": "This is the proprietary HF Data Signal Protocol for the Rohde & Schwarz HF Modem GM2100.",
-    "description": "This is the proprietary HF Data Signal Protocol for the **Rohde & Schwarz HF Modem GM2100**. The modem itself supports three data modes, this special R&H data format, [STANAG 4285](https://www.sigidwiki.com/wiki/STANAG 4285), and [MIL-STD-188-110](https://www.sigidwiki.com/wiki/MIL-STD-188-110_Serial)."
+    "description": "This is the proprietary HF Data Signal Protocol for the **Rohde & Schwarz HF Modem GM2100**. The modem itself supports three data modes, this special R&H data format, [STANAG 4285](https://www.sigidwiki.com/wiki/STANAG_4285), and [MIL-STD-188-110](https://www.sigidwiki.com/wiki/MIL-STD-188-110_Serial)."
 }

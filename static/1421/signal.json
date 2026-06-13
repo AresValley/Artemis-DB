@@ -69,5 +69,5 @@
         }
     ],
     "short description": "THOR is an adaptation of DominoEX with MFSK16 binary varicode and FEC.",
-    "description": "Domino Series: [DominoF](https://www.sigidwiki.com/wiki/DominoF) -> [DominoEX](https://www.sigidwiki.com/wiki/DominoEX) -> [THOR](https://www.sigidwiki.com/wiki/THOR) \n\n**THOR** is the advancement and adaptation of DominoEX with MFSK16 binary varicode and FEC. THOR was made by Dave W1HKJ. THOR is considered superior to DominoEX for it's improved FEC capability and performance.\n\nThe default mode is THOR 11.\n\n[[Image:THORTable.png]]"
+    "description": "Domino Series: [DominoF](https://www.sigidwiki.com/wiki/DominoF) -> [DominoEX](https://www.sigidwiki.com/wiki/DominoEX) -> [THOR](https://www.sigidwiki.com/wiki/THOR) \n\n**THOR** is the advancement and adaptation of DominoEX with MFSK16 binary varicode and FEC. THOR was made by Dave W1HKJ. THOR is considered superior to DominoEX for it's improved FEC capability and performance.\n\nThe default mode is THOR 11."
 }

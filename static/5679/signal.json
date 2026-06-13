@@ -41,5 +41,5 @@
     ],
     "location": [],
     "short description": "Motorola MOSCAD, is motorola's FSK version of SCADA for Data acquisition.",
-    "description": "#REDIRECT [Supervisory Control And Data Acquisition (SCADA)](https://www.sigidwiki.com/wiki/Supervisory Control And Data Acquisition (SCADA))\n\nAs there are about a zillion forms of SCADA, existing either as short AFSK bursts, to PSK and the latter, this is also an example of Motorola's way of doing SCADA."
+    "description": "#REDIRECT [Supervisory Control And Data Acquisition (SCADA)](https://www.sigidwiki.com/wiki/Supervisory_Control_And_Data_Acquisition_%28SCADA%29)\n\nAs there are about a zillion forms of SCADA, existing either as short AFSK bursts, to PSK and the latter, this is also an example of Motorola's way of doing SCADA."
 }
