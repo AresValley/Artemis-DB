@@ -7,8 +7,8 @@
 
 ## [v73] - 2026-06-14
 
-[!NOTE]
-The second version of the new parser uses the MediaWiki APIs and requires only minimal manual processing of the results. This approach is intended to ensure more frequent updates, with a target release cycle of once every one to two months.
+> [!IMPORTANT]
+> The second version of the new parser uses the MediaWiki APIs and requires only minimal manual processing of the results. This approach is intended to ensure more frequent updates, with a target release cycle of once every one to two months.
 
 ### Added
 - 17067bps FSK
