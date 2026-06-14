@@ -1,5 +1,4 @@
 import subprocess
-import os
 import requests
 
 from pathlib import Path
@@ -9,60 +8,85 @@ from PIL import Image
 def download_file(url: str, destination: Path) -> bool:
     try:
         with requests.get(url, stream=True, timeout=15) as response:
-            if response.status_code == 200:
+            response.raise_for_status() 
+            if 200 <= response.status_code < 300:
                 with open(destination, 'wb') as file:
                     for chunk in response.iter_content(chunk_size=8192):
-                        file.write(chunk)
+                        if chunk:
+                            file.write(chunk)
                 return True
             else:
-                print(format(f"Errore download {url}: Stato {response.status_code}"))
+                print(f"Error during download {url}: {response.status_code}")
                 return False
     except requests.RequestException as e:
-        print(f"Errore di rete durante il download di {url}: {e}")
+        print(f"Error during download {url}: {e}")
         return False
 
 
 def download_spectrum(url: str, file_name: str, save_path: Path):
-    """Scarica lo spettro, gestisce l'estensione temporanea e lo converte in PNG."""
-    orig_ext = Path(url).suffix
-    temp_path = save_path / f"{file_name}_temp{orig_ext}"
+    """Scarica lo spettro, gestisce l'estensione temporanea univoca e lo converte in PNG."""
+    orig_ext = Path(url).suffix or ".tmp"
+
+    temp_path = save_path / f"{file_name}_temp_{orig_ext}"
     output_path = save_path / f"{file_name}.png"
+
+    save_path.mkdir(parents=True, exist_ok=True)
 
     if download_file(url, temp_path):
         try:
             with Image.open(temp_path) as im:
+                im.load() 
                 im.convert("RGB").save(output_path, "PNG")
         except Exception as e:
-            print(f"Errore durante la conversione dell'immagine: {e}")
+            print(f"Error: image conversione failed {file_name}: {e}")
         finally:
-            if temp_path.exists():
-                os.remove(temp_path)
+            try:
+                temp_path.unlink(missing_ok=True)
+            except Exception as e:
+                print(f"Impossibile rimuovere il file temporaneo {temp_path}: {e}")
+    else:
+        print(f"Download fallito per {file_name}, conversione annullata.")
 
 
 def download_audio(url: str, file_name: str, save_path: Path, allvorbis: bool = False):
-    ext = Path(url).suffix
-    audio_path = save_path / f"{file_name}.ogg"
+    """
+    Scarica e taglia i primi 60 secondi di un audio da un URL usando FFmpeg.
+    """
+    save_path.mkdir(parents=True, exist_ok=True)
 
-    if (ext in ['.wav', '.flac']) and not allvorbis:
+    orig_ext = Path(url).suffix.lower()
+    if (orig_ext in ['.wav', '.flac']) and not allvorbis:
         codec = 'flac'
     else:
         codec = 'libvorbis'
 
+    audio_path = save_path / f"{file_name}.ogg"
+
     cmd = [
-        "ffmpeg", "-y",                # -y sovrascrive se il file esiste già
-        "-i", url,                     # ffmpeg sa leggere direttamente gli URL di rete!
-        "-ss", "0", 
-        "-t", "60", 
-        "-c:a", codec, 
-        "-loglevel", "error", 
-        "-hide_banner", 
-        "-nostats", 
+        "ffmpeg", "-y",
+        "-rw_timeout", "15000000",      # Timeout di rete (15 secondi)
+        "-ss", "0",                     # PRIMA di -i: interrompe il download appena ha i dati sufficienti
+        "-t", "60",                     # Limita a 60 secondi
+        "-i", url,
+        "-c:a", codec,
+        "-fflags", "+bitexact",
+        "-flags:a", "+bitexact",
+        "-loglevel", "error",
+        "-hide_banner",
+        "-nostats",
         str(audio_path)
     ]
 
     try:
-        subprocess.run(cmd, check=True)
+        subprocess.run(cmd, check=True, timeout=45)
+        return True
     except subprocess.CalledProcessError as e:
-        print(f"Errore durante l'esecuzione di ffmpeg per l'audio: {e}")
-    except FileNotFoundError:
-        print("Errore: 'ffmpeg' non è installato o non è presente nel PATH del sistema.")
+        print(f"Error during execution of ffmpeg {file_name}: {e}")
+        if audio_path.exists():
+            audio_path.unlink()
+        return False
+    except subprocess.TimeoutExpired:
+        print(f"Error: conversion of {file_name} is taking too much time.")
+        if audio_path.exists():
+            audio_path.unlink()
+        return False
