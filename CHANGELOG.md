@@ -5,8 +5,94 @@
 
 ## [Unreleased]
 
+## [v73] - 2026-06-14
+
+[!NOTE]
+The second version of the new parser uses the MediaWiki APIs and requires only minimal manual processing of the results. This approach is intended to ensure more frequent updates, with a target release cycle of once every one to two months.
+
 ### Added
-- SKiYMET (N532)
+- 17067bps FSK
+- 1G (NMT) Nordic Mobile Telephone
+- 2G (GSM) Global System for Mobile Communications
+- 4G (LTE) Long Term Evolution Uplink
+- 4G LTE450
+- 5G 'New Radio' Cellular Radio - Downlink
+- 5G (NR) New Radio Uplink
+- 5G Broadcast (MBMS) Multimedia Broadcast / Multicast Service
+- 802.11ah
+- 802.11ax
+- Altai Radiotelephone
+- AUDI keyfob
+- Baofeng GMSK
+- Bluetooth Low Energy
+- BRAS-3 (RS-10)
+- Chinese/Asian radio "MDC1200"
+- CIS MFSK-11
+- CIS OFDM-121
+- CIS W-MFSK-17
+- CIS-1200 (T-230-1A 'Mahovik')
+- Digital Video Broadcasting — Cable (DVB-C)
+- Digital Video Broadcasting — Satellite (DVB-S)
+- Duga radar
+- EasyPal Digital SSTV
+- EBRO S800 keyfob
+- Ethernet Over Powerline
+- F03 numbers station
+- F07 number station
+- GK-2A LRIT ( Low-Rate Image Transmission )
+- Google Pixel Interference
+- HF trading link '120 Hz FMCW idle tone'
+- Hoffman Broadfield Signpost AVM System
+- Industrial key opener
+- Interoperable Electronic Train Management System (I-ETMS)
+- Iranian 'Bubble' Jammer
+- IS-54 D-AMPS
+- Kenwood FleetSync
+- KY57/58 voice encryption
+- Land Rover Discovery 4 Car Key
+- Low Frequency Bicycle Computer Sensor
+- LRS restaurant pager
+- LTE420 MCX
+- Magnetron (microwave owen)
+- Microwave motion sensor (doppler radar module)
+- Monaco Enterprises MAAP Fire Alarm
+- MPDA
+- Multiple sub-Nyquist Sampling Encoding (MUSE)
+- Multiplexed Analogue Components (MAC)
+- Nissan Qashqai Keyless Entry LF (Intelligent Key)
+- North Korean noise jammer
+- OpenWay CENTRON Smart-Meter
+- OTP-2 Satellite Musical Beacon
+- P03 numbers station
+- P07 numbers station
+- Pager (POCSAG 1200)
+- Podsolnukh 'Sunflower' Radar
+- Possible quarry telemetry
+- Quansheng UVK5 Digital Text Message
+- Radio Navigation Satellite System (RNSS)
+- Radio-relay link
+- Radioteknicheskaya Systema Dalney Navigatsii (RSDN-20)
+- RDL VLF
+- Road Coordination/Maintenance Telemetry
+- Russian Intelligence 200bd 1000Hz FSK (F06)
+- Russian Intelligence 200bd 500Hz FSK (F01)
+- Russian military 20bd 7kHz FSK
+- Samsung Washing Machine Interference
+- SECAM
+- SECOR 4 (EGRS 4)
+- SIMONe meteor radar
+- SKiYMET meteor radar
+- SOLRAD 7B (COSPAR ID: 1965-016D)
+- TV Satellite Telemetry
+- Vaisala RS80
+- Voice Inversion Scrambling
+- Whelen DTMF
+- Zaliv52
+- Zigbee
+
+### Changed
+
+In principle, all signals have undergone changes, but these changes are almost exclusively limited to their descriptions.
 
 ## [v72] - 2025-05-04
 
@@ -80,7 +166,8 @@
 
 
 <!-- Links definitions -->
-[Unreleased]: https://github.com/AresValley/Artemis/compare/v72...HEAD
+[Unreleased]: https://github.com/AresValley/Artemis/compare/v73...HEAD
+[v73]: https://github.com/AresValley/Artemis/releases/tag/v73
 [v72]: https://github.com/AresValley/Artemis/releases/tag/v72
 [v71]: https://github.com/AresValley/Artemis/releases/tag/v71
 [v70]: https://github.com/AresValley/Artemis/releases/tag/v70
