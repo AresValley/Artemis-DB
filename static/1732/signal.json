@@ -1,0 +1,44 @@
+{
+    "pageid": "1732",
+    "title": "Positive Train Control (PTC)",
+    "spectrum": {
+        "filename": "PTC.jpg",
+        "url": "https://www.sigidwiki.com/images/1/1a/PTC.jpg"
+    },
+    "audio": {
+        "filename": "PTC_TDMA.mp3",
+        "url": "https://www.sigidwiki.com/images/e/ee/PTC_TDMA.mp3"
+    },
+    "category": [
+        "Digital",
+        "Utility"
+    ],
+    "frequency": [
+        {
+            "value": 220000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 20000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [],
+    "mode": [
+        {
+            "value": "RAW",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "United States",
+            "description": ""
+        }
+    ],
+    "short description": "Positive train control (PTC) is a system of functional requirements for monitoring and controlling train movements as an attempt to provide increased safety.",
+    "description": "**Positive train control (PTC)** is a system of functional requirements for monitoring and controlling train movements as an attempt to provide increased safety. PTC is currently being implemented in the United States on freight, intercity, and commuter rail lines.\n\nPTC can have various implementations, including ACSES and I-ETMS. TDMA is used in this particular sample recorded."
+}

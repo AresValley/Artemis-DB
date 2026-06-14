@@ -1,0 +1,81 @@
+{
+    "pageid": "3926",
+    "title": "2G CDMA (IS-95)",
+    "spectrum": {
+        "filename": "2gcdma.png",
+        "url": "https://www.sigidwiki.com/images/5/52/2gcdma.png"
+    },
+    "audio": {
+        "filename": "MC4f-CDMA-IS-95B.wav",
+        "url": "https://www.sigidwiki.com/images/b/b0/MC4f-CDMA-IS-95B.wav"
+    },
+    "category": [
+        "Digital",
+        "Commercial"
+    ],
+    "frequency": [
+        {
+            "value": 815000000,
+            "description": ""
+        },
+        {
+            "value": 894000000,
+            "description": ""
+        },
+        {
+            "value": 1850000000,
+            "description": ""
+        },
+        {
+            "value": 1995000000,
+            "description": ""
+        },
+        {
+            "value": 880000000,
+            "description": ""
+        },
+        {
+            "value": 960000000,
+            "description": ""
+        },
+        {
+            "value": 1710000000,
+            "description": ""
+        },
+        {
+            "value": 1880000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 1228000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "DSSS",
+            "description": "Direct Sequence Spread Spectrum"
+        },
+        {
+            "value": "QPSK",
+            "description": "Quadrature Phase-Shift Keying"
+        }
+    ],
+    "mode": [
+        {
+            "value": "RAW",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ],
+    "short description": "CDMA-One also known as IS-95, was the first ever cellular standard technology based on Code Division Multiple Access (CDMA). It is a predecessor of the 1xRTT (CDMA2000/IS-2000) standard, which is backwards compatible.",
+    "description": "IS-95, commonly known by the brand name cdmaOne, is a 2G [Review on Generations in Mobile Cellular Technology](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=56333e725d31a4ae30541aa565d5f3f5bc003d98). C. S. Patil, R. R. Karhe, M. A. Aher; Shri Gulabrao Deokar College of Engineering Department of Electronics and Telecommunication Engineering. October 2012. Accessed 10 October 2023. digital cellular technology. Published in 1995 by a collaboration between Qualcomm, Motorola, and AT&T (later Lucent), IS-95 was the first major cellular technology to use spread-spectrum techniques to increase spectrum efficiency, user density, and signal robustness. IS-95 uses direct-sequence spread spectrum (DSSS) to expand a 1.2-9.6 kbps or 14.4 kbps signal to a large bandwidth, and uses correlation to identify a station's signal via its assigned code and recover traffic, thus creating code-division multiple access (CDMA). CDMA allows cells to share frequencies, allowing for denser system construction than what was possible with AMPS [IS-95, cdmaOne](https://www.electronics-notes.com/articles/connectivity/cdmaone-cdma2000/is95-cdmaone-technology-basics.php). Electronics Notes. Accessed 10 October 2023.. cdmaOne competed against GSM with GPRS, an equivalent 2G technology.\n\nIS-95 exists as two largely compatible versions: the initially published IS-95A, and the later IS-95B that the name cdmaOne refers to. IS-95A provided a data rate of 14.4 kbps, while IS-95B allowed aggregation of eight CDMA channels to provide a 115.2 kbps data rate. As the physical layer of IS-95A and IS-95B are identical, infrastructure was not changed to upgrade IS-95A base stations to IS-95B [Evolution of Wireless Data Services: IS-95 to cdma2000](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=defa6861796ccd03a3a294d88f2cbe92db90f17a). Douglas N. Knisely, Sarath Kumar, Subhasis Laha, Sanjiv Nanda; Lucent Technologies. October 1998. Accessed 10 October 2023.. IS-95B additionally supports the 1900 MHz PCS band, while IS-95A was specified only for the 800 MHz cellular band [A Walk Through To IS-95A, IS-95B, CDMA2000, And Call Processing](https://www.geocities.ws/rahulschauhan/CDMAPrimer.htm), version 2. Rahul Chauhan. 20 June 2003. Accessed 10 October 2023.. \n\nSeparate channels, modulated with separate codes, on cdmaOne downlinks are synthesized in software and added together, creating a single 1.228 MHz wide signal with multiple codes within. The code structure of cdmaOne permits 64 channels per base station. Some channels serve special purposes, such as receiver synchronization and base station identification. Power control is necessary for cdmaOne systems both on the downlink and uplink sides in order to keep individual channels from occupying excessive amounts of channel resources. On the base station downlink, the process of adding channels together also performs the task of allocating a certain amount of transmitter power to each channel. On uplinks transmitted by subscribers, a power control mechanism adjusts the subscriber's transmitter power to keep it within a desirable range when received by the base station. This power control process solves the near-far problem that CDMA systems are susceptible to.\nIS-2000, branded by Qualcomm as CDMA2000 and standardized by the ITU as IMT-MC, is backwards compatible with IS-95 handsets, although it depends on the radio configuration (RC) of the network. RC1 and RC2 support IS-95, but RC3 towards RC7 do not[https://fcc.report/FCC-ID/OVFKWC-KX9/609589].\nMost cdmaOne networks have been upgraded to CDMA2000 or shut down entirely. LTE (4G) and 5G NR are displacing 2G and especially 3G technologies in North America [T-Mobile, Verizon, AT&T, and Sprint 2G/3G/4G LTE network shutdown dates: the sunset!](https://www.phonearena.com/news/t-mobile-verizon-att-sprint-2g-3g-4g-lte-network-shut-down-date_id134159). Daniel Petrov; PhoneArena. 22 February 2022. Accessed 10 October 2023. and Europe [2G / 3G Network Shutdown Status and Challenges](https://www.smartviser.com/post/2g-3gnetworkshutdown). Susie Siouti; SmartViser. 9 June 2022; updated 28 April 2023. Accessed 10 October 2023.. CDMA networks are particularly affected by a decrease in available cell towers. As cdmaOne signals from the cell site not used by a receiver appear as noise, cdmaOne loses capacity as more subscribers try to use a single cell, and thus a minimum amount of infrastructure is needed in order to prevent congestion [On the Optimal Base-Station Density for CDMA Cellular Networks](https://ti.rwth-aachen.de/publications/output.php?id=56&table=article&type=pdf). Stephen Hanly, Rudolf Mathar. 8 August 2002. Accessed 10 October 2023.."
+}

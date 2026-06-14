@@ -1,0 +1,46 @@
+{
+    "pageid": "7568",
+    "title": "North Korean noise jammer",
+    "spectrum": {
+        "filename": "NK jammer.png",
+        "url": "https://www.sigidwiki.com/images/6/62/NK_jammer.png"
+    },
+    "audio": {
+        "filename": "NK_jammer_AM.wav",
+        "url": "https://www.sigidwiki.com/images/0/06/NK_jammer_AM.wav"
+    },
+    "category": [],
+    "frequency": [
+        {
+            "value": 6600000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 7000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "AM",
+            "description": "Amplitude Modulation"
+        }
+    ],
+    "mode": [
+        {
+            "value": "AM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "North Korea",
+            "description": ""
+        }
+    ],
+    "short description": "Noise jammer with a carrier than tends to switch frequencies slightly lower and higher than the main signal frequency. Commonly found on 6.6 MHz",
+    "description": "Signal can be found overlapping South Korean broadcast stations. It is most commonly found on 6.6 MHz. It is a white noise jammer with a carrier than tends to switch frequencies slightly lower and higher than the main signal frequency."
+}

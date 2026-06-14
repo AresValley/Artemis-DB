@@ -1,0 +1,53 @@
+{
+    "pageid": "1356",
+    "title": "LORAN",
+    "spectrum": {
+        "filename": "LORAN.png",
+        "url": "https://www.sigidwiki.com/images/1/17/LORAN.png"
+    },
+    "audio": {
+        "filename": "LORAN-C_USB.mp3",
+        "url": "https://www.sigidwiki.com/images/9/93/LORAN-C_USB.mp3"
+    },
+    "category": [
+        "Marine",
+        "Navigation"
+    ],
+    "frequency": [
+        {
+            "value": 90000,
+            "description": ""
+        },
+        {
+            "value": 110000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 20000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "PPM",
+            "description": "Pulse Position Modulation"
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ],
+    "short description": "LORAN (short for LOng RAnge Navigation) is a hyperbolic radio navigation system.",
+    "description": "**LORAN** (short for LOng RAnge Navigation) is a hyperbolic radio navigation system. LORAN-C was the predominant LORAN system in use but in recent years eLORAN, or E-LORAN (Enhanced LORAN) has been replacing obsolete LORAN-C systems. However, eLORAN has not been able to catch on as well as GPS systems become cheaper and more accessible to users, so eLORAN systems have begun to shut down.\n\neLORAN is, to radio listeners, virtually identical to LORAN-C, but the primary difference is the addition of a Data Channel to send DGPS info, Differential eLORAN corrections, UTC Time of day, eLORAN Integrity info, as well as other data. The data is transmitted at about 20-50 bps using Pulse Position Modulation (Also known as Eurofix), or by using 9th Pulse Modulation.\n\n**Alert: At the end of 2015, the entire European Loran system was discontinued. This INCLUDES the UK eLORAN Implementation. [Analysis of Shutdown by PA3FWM](http://pa3fwm.nl/signals/loran-2015/)**\n\nNote: The 100 kHz signal recorded is a combination of LORAN and CHAYKA systems, as they all operate on the same frequency. To distinguish between them you have to analyse the GRI (Group Repetition Interval) to determine the chain and match it to documented GRI numbers for LORAN and CHAYKA systems."
+}

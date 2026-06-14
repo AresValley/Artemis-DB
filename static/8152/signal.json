@@ -1,0 +1,60 @@
+{
+    "pageid": "8152",
+    "title": "802.11ah",
+    "spectrum": {
+        "filename": null,
+        "url": null
+    },
+    "audio": {
+        "filename": null,
+        "url": null
+    },
+    "category": [
+        "Digital",
+        "Utility"
+    ],
+    "frequency": [
+        {
+            "value": 750000000,
+            "description": ""
+        },
+        {
+            "value": 928000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 1000000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "BPSK",
+            "description": "Binary Phase-Shift Keying"
+        },
+        {
+            "value": "QPSK",
+            "description": "Quadrature Phase-Shift Keying"
+        },
+        {
+            "value": "QAM",
+            "description": "Quadrature Amplitude Modulation"
+        },
+        {
+            "value": "OFDM",
+            "description": "Orthogonal Frequency-Division Multiplexing"
+        }
+    ],
+    "mode": [],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ],
+    "short description": "HaLow (802.11ah) is a wireless technology standard for exchanging data between devices over medium distances. Released by the Wi-Fi Alliance in 2016, it was initially developed as a competitive Internet of Things standard.",
+    "description": "**Wi-Fi HaLow** (IEEE **802.11ah**) is a sub-1 GHz Wi-Fi standard optimized for long-range, low-power IoT connectivity, supporting up to several kilometers of coverage with efficient penetration through walls. It uses narrower channel widths (1–16 MHz) and advanced modulation schemes to balance range, throughput, and power efficiency."
+}

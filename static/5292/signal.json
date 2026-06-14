@@ -1,0 +1,52 @@
+{
+    "pageid": "5292",
+    "title": "Bluetooth Low Energy",
+    "spectrum": {
+        "filename": "BLE.jpg",
+        "url": "https://www.sigidwiki.com/images/c/ce/BLE.jpg"
+    },
+    "audio": {
+        "filename": "BLE smart bracelet.mp3",
+        "url": "https://www.sigidwiki.com/images/5/52/BLE_smart_bracelet.mp3"
+    },
+    "category": [
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 2402000000,
+            "description": ""
+        },
+        {
+            "value": 2480000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 2000000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "GFSK",
+            "description": "Gaussian Frequency-Shift Keying"
+        }
+    ],
+    "mode": [
+        {
+            "value": "AM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ],
+    "short description": "",
+    "description": "**Bluetooth Low Energy**\n\n- uses the same 2.400–2.4835 GHz ISM band as classic [Bluetooth](https://www.sigidwiki.com/wiki/Bluetooth)\n- is NOT backward-compatible with classic Bluetooth (Basic Rate/Enhanced Rate).\n- devices can have either classic Bluetooth, Bluetooth LE or both.\n- BLE uses a simpler, GFSK for modulation / DSSS\n- BLE uses Frequency Hopping\n\n\"Bluetooth Smart Ready\" means the device can be used with Classic or Low Energy\n\n\"Bluetooth Smart\" requires a Bluetooth Smart Ready or Bluetooth Smart device to connect.\n\nmax transmit power (Bluetooth 4.0): 10 mW\nmax transmit power (Bluetooth 5): 100 mW"
+}

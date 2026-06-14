@@ -1,0 +1,62 @@
+{
+    "pageid": "917",
+    "title": "PACTOR IV",
+    "spectrum": {
+        "filename": "PACTOR_IV.jpg",
+        "url": "https://www.sigidwiki.com/images/8/88/PACTOR_IV.jpg"
+    },
+    "audio": {
+        "filename": "PACTORIVaudio1.mp3",
+        "url": "https://www.sigidwiki.com/images/c/ce/PACTORIVaudio1.mp3"
+    },
+    "category": [
+        "Digital",
+        "Commercial",
+        "Amateur Radio"
+    ],
+    "frequency": [
+        {
+            "value": 3000000,
+            "description": ""
+        },
+        {
+            "value": 30000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 2400,
+            "description": ""
+        },
+        {
+            "value": 300,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "PSK",
+            "description": "Phase-Shift Keying"
+        },
+        {
+            "value": "QAM",
+            "description": "Quadrature Amplitude Modulation"
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ],
+    "short description": "PACTOR IV is the newest iteration of the PACTOR series, advancing from PACTOR I-III. It is 1.5x-3x faster than PACTOR III, and has 10 speed levels.",
+    "description": "PACTOR Series: [PACTOR I](https://www.sigidwiki.com/wiki/PACTOR_I) - [PACTOR II](https://www.sigidwiki.com/wiki/PACTOR_II) - [PACTOR III](https://www.sigidwiki.com/wiki/PACTOR_III) - [PACTOR IV](https://www.sigidwiki.com/wiki/PACTOR_IV) \n\n**PACTOR IV** is the newest iteration of the PACTOR series, advancing from PACTOR I-III. It is 1.5x-3x faster than PACTOR III, and has 10 speed levels. \n \nThis is a proprietary standard developed by SCS GmbH & Co. KG, Hanau, Germany. This mode is used exclusively in SCS's P4dragon series of shortwave data modems. The P4dragon series modems are all backwards compatible with PACTOR I-III, and, like PACTOR II and III, uses PACTOR I SELCALL to establish connections with other modems. \n\nPACTOR is used by many groups, including [Sailmail](http://www.sailmail.com/) for mariners to send and receive emails. It is also used by Ham Radio operators, Governmental and Diplomatic agencies, and even NGO's. \n\n| PACTOR IV's 10 Speed Modes | PACTOR IV's 10 Speed Modes | PACTOR IV's 10 Speed Modes | PACTOR IV's 10 Speed Modes |\n| --- | --- | --- | --- |\n| Speedlevel | Modulation | Gross rate | Net rate [bps] |\n| 1 | 2-Tone-Chirp | 113 | 46,9 |\n| 2 | DQPSK, Spread-16 | 225 | 85,32 |\n| 3 | DQPSK, Spread-16 | 225 | 147,2 |\n| 4 | DQPSK, Spread-8 | 450 | 300,8 |\n| 5 | BPSK | 1800 | 433,1 |\n| 6 | BPSK | 1800 | 1096,5 |\n| 7 | QPSK | 3600 | 2199,5 |\n| 8 | 8-PSK | 5400 | 3304,5 |\n| 9 | 16-QAM | 7200 | 4407,5 |\n| 10 | 32-QAM | 9000 | 5512,5 |"
+}

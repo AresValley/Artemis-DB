@@ -1,44 +1,86 @@
 {
-    "signal": {
-        "name": "CIS-11",
-        "url": "https://www.sigidwiki.com/wiki/CIS-11"
+    "pageid": "82",
+    "title": "Enhanced Digital Access Communications System (EDACS)",
+    "spectrum": {
+        "filename": "EDACS_96k.jpg",
+        "url": "https://www.sigidwiki.com/images/f/fe/EDACS_96k.jpg"
+    },
+    "audio": {
+        "filename": "EDACS_96.mp3",
+        "url": "https://www.sigidwiki.com/images/3/31/EDACS_96.mp3"
     },
     "category": [
+        "Trunked Radio",
         "Digital"
     ],
     "frequency": [
         {
-            "value": 3000000,
+            "value": 160000000,
             "description": ""
         },
         {
-            "value": 30000000,
+            "value": 450000000,
+            "description": ""
+        },
+        {
+            "value": 700000000,
+            "description": ""
+        },
+        {
+            "value": 806000000,
+            "description": ""
+        },
+        {
+            "value": 870000000,
+            "description": ""
+        },
+        {
+            "value": 896000000,
+            "description": ""
+        },
+        {
+            "value": 941000000,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 650,
+            "value": 12500,
+            "description": ""
+        },
+        {
+            "value": 6250,
             "description": ""
         }
     ],
-    "acf": [],
+    "acf": [
+        {
+            "value": 60.0,
+            "description": "edacs48"
+        },
+        {
+            "value": 30.0,
+            "description": "edacs96"
+        }
+    ],
     "modulation": [
         {
-            "value": "FSK",
-            "description": ""
+            "value": "GFSK",
+            "description": "Gaussian Frequency-Shift Keying"
         }
     ],
     "mode": [
         {
-            "value": "USB",
+            "value": "NFM",
             "description": ""
         }
     ],
     "location": [
         {
-            "value": "Russia",
+            "value": "Worldwide",
             "description": ""
         }
-    ]
+    ],
+    "short description": "EDACS is a trunked radio system developed by General Electric and Ericsson. EDACS was invented by General Electric in the mid-80s and is currently owned by Harris Corporation. Harris has announced that EDACS systems will no longer be supported by 2017.",
+    "description": "**EDACS** is a trunked radio system developed by General Electric and Ericsson. EDACS was invented by General Electric in the mid-80s and then further engineered by Ericsson and is currently owned by Harris Corporation. Harris has announced that **EDACS systems will no longer be supported by 2017**, urging customers to switch to newer P25 systems.\n\nEDACS is primarily seen with its trunking channels; the voice can either be analog FM or digitally encoded with AEGIS or [ProVoice](https://www.sigidwiki.com/wiki/ProVoice). AEGIS was the original format, but was soon replaced by ProVoice. \n\nEDACS has three modes, Wideband, Narrowband, and Encrypted. Wideband EDACS is the most common form of this channel, and uses a 12.4kHz wide 9.6kbit/s trunking channel segmented on 25 kHz wide channels, where Narrowband EDACS uses 6.25 kHz 4.8kbit/s trunking on 12.5 kHz wide channels. The Encrypted version of EDACS (called EDACS Security Key ( [ESK](http://wiki.radioreference.com/index.php/ESK)), M/A-COM's trademark name for this feature) is a variant of the Wideband EDACS format, using specially coded frames that require a specific security key for two EDACS radios to communicate.\n \nTransmitted using GFSK digital modulation over working channels at either 4.8kbit/s or 9.6kbit/s. EDACS is a type of ESMR (Enhanced Specialized Mobile Radio) network."
 }

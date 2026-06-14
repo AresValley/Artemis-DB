@@ -1,0 +1,56 @@
+{
+    "pageid": "2548",
+    "title": "EFR Teleswitch",
+    "spectrum": {
+        "filename": "EFR_Teleswitch.jpg",
+        "url": "https://www.sigidwiki.com/images/c/cb/EFR_Teleswitch.jpg"
+    },
+    "audio": {
+        "filename": "EFR_Teleswitch.mp3",
+        "url": "https://www.sigidwiki.com/images/1/11/EFR_Teleswitch.mp3"
+    },
+    "category": [
+        "Utility"
+    ],
+    "frequency": [
+        {
+            "value": 135600,
+            "description": ""
+        },
+        {
+            "value": 139900,
+            "description": ""
+        },
+        {
+            "value": 129100,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 1000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "FSK",
+            "description": "Frequency-Shift Keying"
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Europe",
+            "description": ""
+        }
+    ],
+    "short description": "Europäische Funk-Rundsteuerung (EFR) Teleswitch (European Radio Ripple Control GmbH (ERA) Teleswitch) is an energy management system operated via long-wave radio. Uses two transmitters in Germany and one in Hungary. Also known by DCF39, DCF49 and HGA22.",
+    "description": "**Europäische Funk-Rundsteuerung (EFR) Teleswitch** (European Radio Ripple Control GmbH (ERA) Teleswitch) is an energy management system operated via long-wave radio. The system is deployed by European Radio Ripple Control GmbH. \n\nUses two transmitters in Germany and one in Hungary, covering most of Central Europe. Also known by DCF39, DCF49 and HGA22, the transmitters in the network.\n\nUses FSK modulation with 340 Hz shift at 200 bps ASCII"
+}

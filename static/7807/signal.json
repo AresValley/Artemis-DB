@@ -1,0 +1,58 @@
+{
+    "pageid": "7807",
+    "title": "17067bps FSK",
+    "spectrum": {
+        "filename": "Fsk17067_wf.png",
+        "url": "https://www.sigidwiki.com/images/1/1c/Fsk17067_wf.png"
+    },
+    "audio": {
+        "filename": "Fsk17067_af.wav",
+        "url": "https://www.sigidwiki.com/images/e/e9/Fsk17067_af.wav"
+    },
+    "category": [
+        "Military",
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 30000000,
+            "description": ""
+        },
+        {
+            "value": 88000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 25000,
+            "description": ""
+        }
+    ],
+    "acf": [
+        {
+            "value": 11.25,
+            "description": "Main"
+        }
+    ],
+    "modulation": [
+        {
+            "value": "FSK",
+            "description": "Frequency-Shift Keying"
+        }
+    ],
+    "mode": [
+        {
+            "value": "FM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ],
+    "short description": "Unknown military-use signal reminiscent of [[Motorola SECURENET|SECURENET]] CVSD voice.",
+    "description": "The general characteristics of this signal are an occupied bandwidth of 25 kHz, a data rate of 17066.7 bits per second (a symbol duration of 58.59375 us) in 2FSK, a deviation of +/- 4.8 kHz, and a short 6 kHz tone heard in FM demodulation at unkey. The ACF of the preamble is 192 bits, or 11.25 ms. This may be an example of the Russian ZAS (ЗАС) telephony system. The signal was observed in Sharja, UAE, and suspected to be used by Iran Navy; this signal has also been heard in Poland and Russia. As of the present moment it is unclear whether this signal is 2FSK or 2-GFSK, but 2-GFSK is suspected."
+}

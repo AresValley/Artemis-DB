@@ -1,0 +1,70 @@
+{
+    "pageid": "3996",
+    "title": "CDMA2000 (3G physical layer)",
+    "spectrum": {
+        "filename": "CDMA2.png",
+        "url": "https://www.sigidwiki.com/images/b/b2/CDMA2.png"
+    },
+    "audio": {
+        "filename": "889.060.000.wav",
+        "url": "https://www.sigidwiki.com/images/6/60/889.060.000.wav"
+    },
+    "category": [
+        "Commercial",
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 850000000,
+            "description": ""
+        },
+        {
+            "value": 900000000,
+            "description": ""
+        },
+        {
+            "value": 1800000000,
+            "description": ""
+        },
+        {
+            "value": 1900000000,
+            "description": ""
+        },
+        {
+            "value": 450000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 1230000,
+            "description": ""
+        }
+    ],
+    "acf": [
+        {
+            "value": 10.0,
+            "description": "Main"
+        }
+    ],
+    "modulation": [
+        {
+            "value": "QPSK",
+            "description": "Quadrature Phase-Shift Keying"
+        }
+    ],
+    "mode": [
+        {
+            "value": "RAW",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "United States",
+            "description": ""
+        }
+    ],
+    "short description": "CDMA2000, or IS-2000, is a cellular network standard utilizing the CDMA technology for calls and data.",
+    "description": "CDMA2000 also known as TIA/EIA IS-2000 is a 3rd generation cellular standard developed by 3GPP2. CDMA2000 uses CDMA technology, similar to and backwards compatible with its predecessor cdmaOne. This standard is not compatible with and competed with UMTS (WCDMA), developed by 3GPP. \n \nCDMA2000 has largely been phased out worldwide, in favor of the new 5G NR and 4G LTE networks. In the US, CDMA2000 has been entirely phased out by the major operators such as Verizon and Sprint in 2022, and US Cellular shut down its 1xRTT network in 2024. Small, regional carriers have also been shutting down their CDMA2000 networks in the United States. In December 2024, Cellcom decommissioned its 1xRTT network, and in September 2025, Inland Cellular has shut down its CDMA2000 network.\n\nWhile rare, as of January 2026, CDMA2000 is still used in some parts of the world, including Ecuador, Mongolia, Myanmar, Uzbekistan and Yemen. CDMA2000 may also be available in United States with limited, regional coverage through GCI Mobile (Alaska) and Sagebrush Cellular (Montana)."
+}

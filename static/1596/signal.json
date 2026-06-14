@@ -1,0 +1,65 @@
+{
+    "pageid": "1596",
+    "title": "RWM",
+    "spectrum": {
+        "filename": "RWM.png",
+        "url": "https://www.sigidwiki.com/images/3/30/RWM.png"
+    },
+    "audio": {
+        "filename": "RWM time 1.mp3",
+        "url": "https://www.sigidwiki.com/images/9/96/RWM_time_1.mp3"
+    },
+    "category": [
+        "Time"
+    ],
+    "frequency": [
+        {
+            "value": 4996000,
+            "description": ""
+        },
+        {
+            "value": 14996000,
+            "description": ""
+        },
+        {
+            "value": 9996000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 5,
+            "description": ""
+        }
+    ],
+    "acf": [
+        {
+            "value": 1000.0,
+            "description": "Primary"
+        },
+        {
+            "value": 100.0,
+            "description": "Secondary"
+        }
+    ],
+    "modulation": [
+        {
+            "value": "OOK",
+            "description": "On-Off Keying"
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Russia",
+            "description": ""
+        }
+    ],
+    "short description": "RWM is a Russian shortwave time signal station.",
+    "description": "**RWM** is a Russian shortwave time signal station. Unlike other time signal stations, RWM only transmits time intervals, it does not tell you the time of day or month nor year."
+}

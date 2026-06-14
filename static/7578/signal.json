@@ -1,0 +1,48 @@
+{
+    "pageid": "7578",
+    "title": "Wireless Smart Utility Networks (Wi-SUN)",
+    "spectrum": {
+        "filename": "Waterf3.jpg",
+        "url": "https://www.sigidwiki.com/images/5/5c/Waterf3.jpg"
+    },
+    "audio": {
+        "filename": "Audio 927300000Hz 18-57-16 18-08-2024.mp3",
+        "url": "https://www.sigidwiki.com/images/5/58/Audio_927300000Hz_18-57-16_18-08-2024.mp3"
+    },
+    "category": [
+        "Utility"
+    ],
+    "frequency": [
+        {
+            "value": 922500000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 260000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "GFSK",
+            "description": "Gaussian Frequency-Shift Keying"
+        }
+    ],
+    "mode": [
+        {
+            "value": "FM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Japan",
+            "description": ""
+        }
+    ],
+    "short description": "Wireless Smart Utility Networks (Wi-SUN）",
+    "description": "- Used for communication of smart meters, photovoltaic setups etc. in Japan\n- Standardized in: 802.15.4g/e/6LoWPAN\n- Modulation Binary GFSK\n- Channel Spacing (KHz): 200, 400, 600, Total Number of channels: 38, 18, 12\n- Data Rate: 50 kbps"
+}

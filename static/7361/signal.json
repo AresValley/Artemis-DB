@@ -1,0 +1,38 @@
+{
+    "pageid": "7361",
+    "title": "Induction cooker interference",
+    "spectrum": {
+        "filename": "Induction cooker pwr5 A.png",
+        "url": "https://www.sigidwiki.com/images/d/da/Induction_cooker_pwr5_A.png"
+    },
+    "audio": {
+        "filename": "Induction cooker pwr5 USB.ogg",
+        "url": "https://www.sigidwiki.com/images/0/00/Induction_cooker_pwr5_USB.ogg"
+    },
+    "category": [
+        "Interfering"
+    ],
+    "frequency": [],
+    "bandwidth": [],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "OOK",
+            "description": "On-Off Keying"
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ],
+    "short description": "RF interference from nearby induction cooker can sometimes be mistaken for a real LF or VLF transmission.",
+    "description": "RF interference from an induction cooker can sometimes appear on the LF or VLF range where it may look like an actual transmission. It's unlikely to radiate very efficiently, so when it is encountered, the source is likely nearby. \n\nThis example is from an AEG induction cooker. It shows typical power control behavior. On the lowest power levels, power is controlled by on/off duty cycle control. On higher power levels, power is apparently controlled by changing frequency which probably changes current in a resonant circuit. \n \n\n**Warning:** Placing an antenna on top of or very close to an induction cooker may damage the receiver. If you want to analyze your induction cooker, keep the antenna at a safe distance."
+}

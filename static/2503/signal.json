@@ -1,0 +1,53 @@
+{
+    "pageid": "2503",
+    "title": "UHF Vehicle Location System",
+    "spectrum": {
+        "filename": "unk data link .jpg",
+        "url": "https://www.sigidwiki.com/images/1/17/Unk_data_link_.jpg"
+    },
+    "audio": {
+        "filename": "Data_link_nyc_477587kHz_AF.mp3",
+        "url": "https://www.sigidwiki.com/images/4/42/Data_link_nyc_477587kHz_AF.mp3"
+    },
+    "category": [
+        "Digital",
+        "Commercial"
+    ],
+    "frequency": [
+        {
+            "value": 900000000,
+            "description": ""
+        },
+        {
+            "value": 400000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 12500,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "FSK",
+            "description": "Frequency-Shift Keying"
+        }
+    ],
+    "mode": [
+        {
+            "value": "NFM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "United States",
+            "description": ""
+        }
+    ],
+    "short description": "UHF Vehicle Location System",
+    "description": ""
+}

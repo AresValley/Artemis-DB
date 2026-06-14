@@ -1,0 +1,81 @@
+{
+    "pageid": "5811",
+    "title": "8PSK",
+    "spectrum": {
+        "filename": "8PSK500F.png",
+        "url": "https://www.sigidwiki.com/images/f/f1/8PSK500F.png"
+    },
+    "audio": {
+        "filename": "EXAMPLE_8PSK500F.mp3",
+        "url": "https://www.sigidwiki.com/images/4/40/EXAMPLE_8PSK500F.mp3"
+    },
+    "category": [
+        "Digital",
+        "Amateur Radio"
+    ],
+    "frequency": [
+        {
+            "value": 3000000,
+            "description": ""
+        },
+        {
+            "value": 30000000,
+            "description": ""
+        },
+        {
+            "value": 300000000,
+            "description": ""
+        },
+        {
+            "value": 3000000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 125,
+            "description": ""
+        },
+        {
+            "value": 250,
+            "description": ""
+        },
+        {
+            "value": 500,
+            "description": ""
+        },
+        {
+            "value": 1000,
+            "description": ""
+        },
+        {
+            "value": 1200,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "D8PSK",
+            "description": "Differential 8-Phase-Shift Keying"
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        },
+        {
+            "value": "FM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ],
+    "short description": "8PSK modulation is a way to encode data using eight phase angles. Each symbol can encode three bits of data. It can achieve higher data rates than other phase modulation schemes, but it also requires a higher signal-to-noise ratio and is more prone to errors.",
+    "description": "8PSK, developed by John Phelps (KL4YFD) in 2014, is a digital mode in Fldigi designed for medium-speed data transmission via standard FM and SSB radios. It offers six modes optimized for weak signals on various bands (VHF/UHF and others) and employs heavy forward error correction (FEC) using different Viterbi polynomials. Unlike BPSK or QPSK, 8PSK uses eight phase states and requires RSID-enabled modes (Reed-Solomon Identification, instead of standard AFC) to accurately determine the mode and center frequency. An optional pilot carrier—ideally set at -40 dB or higher—provides a crucial frequency/phase reference.\n\nA pilot carrier in 8PSK extends its use especially over HF SSB, even with older radios prone to frequency drift. It improves decoding by compensating for drift (with a precision of ±½ Hz), offering a stable reference and real-time RF channel quality information. The pilot tone is detected using a sliding FFT (SFFT) with roughly 1 Hz resolution. For initial signal acquisition, RSID or manual tuning is necessary. The system locks the pilot tone when its signal-to-noise (s/n) ratio is 2:1 or better, adjusting the tracking point in discrete 1 Hz steps once per second. The tone is transmitted during both the 8PSK preamble and data transmission.\n\nFor 8FSK, transmitter linearity is critical since overdrive (often due to excessive audio levels) can cause bandwidth expansion, poor reception, and tuning challenges. Generally, these sensitive modes require minimal power, with PSK modes sometimes outperforming CW in decoding.\n\nThere are many ways to construct a PSK constellation, but 8-PSK is the most common. There are more than eight phases, so the error rate is too high. There are better, though more complex, modulation options, such as quadrature amplitude modulation (QAM).\n\nEffective PSK reception needs a phase-locked demodulator. Fldigi features a fast-acquire, slow-tracking AFC system: align the red bandwidth bar over the signal, click, and the system will quickly lock and commence decoding. Although it’s hard to visually distinguish BPSK from QPSK (except under high signal-to-noise conditions), switching modes and reacquiring the signal can aid in proper decoding."
+}

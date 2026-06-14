@@ -1,0 +1,48 @@
+{
+    "pageid": "8323",
+    "title": "Samsung Washing Machine Interference",
+    "spectrum": {
+        "filename": "Samsung washing machine interference.png",
+        "url": "https://www.sigidwiki.com/images/2/2a/Samsung_washing_machine_interference.png"
+    },
+    "audio": {
+        "filename": "Samsung washer.mp3",
+        "url": "https://www.sigidwiki.com/images/0/0e/Samsung_washer.mp3"
+    },
+    "category": [
+        "Interfering"
+    ],
+    "frequency": [
+        {
+            "value": 6000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 15000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "FM",
+            "description": "Frequency Modulation"
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ],
+    "short description": "Interference from a samsung washing machine. Manifests as lines and bulb-looking patterns across the spectrum.",
+    "description": "Interference from a samsung washing machine. Manifests as lines and bulb-looking patterns across the spectrum. Discovered when the washing machine was started while listening to shortwave."
+}

@@ -1,25 +1,73 @@
 {
-    "signal": {
-        "name": "GYN2 GBR",
-        "url": "https://www.sigidwiki.com/wiki/GYN2_GBR"
+    "pageid": "200",
+    "title": "Multi Frequency Shift Keying (MFSK)",
+    "spectrum": {
+        "filename": "MFSK_8_thmb.jpg",
+        "url": "https://www.sigidwiki.com/images/e/e6/MFSK_8_thmb.jpg"
+    },
+    "audio": {
+        "filename": "MFSK_16.mp3",
+        "url": "https://www.sigidwiki.com/images/0/0c/MFSK_16.mp3"
     },
     "category": [
-        "Military"
+        "Amateur Radio",
+        "Digital"
     ],
     "frequency": [
         {
-            "value": 81000,
+            "value": 3000000,
+            "description": ""
+        },
+        {
+            "value": 30000000,
             "description": ""
         }
     ],
-    "bandwidth": [],
-    "acf": [],
-    "modulation": [],
-    "mode": [],
-    "location": [
+    "bandwidth": [
         {
-            "value": "United Kingdom",
+            "value": 154,
+            "description": ""
+        },
+        {
+            "value": 218,
+            "description": ""
+        },
+        {
+            "value": 316,
+            "description": ""
+        },
+        {
+            "value": 330,
+            "description": ""
+        },
+        {
+            "value": 435,
+            "description": ""
+        },
+        {
+            "value": 630,
             "description": ""
         }
-    ]
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "FSK",
+            "description": "Frequency-Shift Keying"
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ],
+    "short description": "MFSK is a generic family of frequency shift keying digital transmission methods using more than the two tones of BFSK (binary FSK).\nMany digital signals, especially on HF, use MFSK including WSPR, FT4 and FT8. MFSK-8 and MFSK-16 are two other well-known amateur radio modes.",
+    "description": "**MFSK** is a generic family of multi-frequency shift keying digital transmission modes in which one tone from a set of M tones is transmitted at any given time. Amateur radio modes using forms of MFSK include WSPR, FT-4, FT-8, MFSK-8 and MFSK-16. MFSK16 and MFSK8 were developed by Murray ZL1BPU and Nino IZ8BLY in 1999.\n\nMFSK-8 uses a set of 8 tones with the equal distance of 15.625 Hz, MFSK-16 a set of 16 tones with the equal distance of 7.8125 Hz. The baud rate of MFSK-8 is 7.81 Bd and that of MFSK-16 is 15.625 Bd."
 }

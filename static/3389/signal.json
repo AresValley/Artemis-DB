@@ -1,0 +1,53 @@
+{
+    "pageid": "3389",
+    "title": "Coherent CW",
+    "spectrum": {
+        "filename": "Coherent CW.jpg",
+        "url": "https://www.sigidwiki.com/images/c/cf/Coherent_CW.jpg"
+    },
+    "audio": {
+        "filename": "Coherent CW.mp3",
+        "url": "https://www.sigidwiki.com/images/4/45/Coherent_CW.mp3"
+    },
+    "category": [
+        "Digital",
+        "Amateur Radio"
+    ],
+    "frequency": [
+        {
+            "value": 3000000,
+            "description": ""
+        },
+        {
+            "value": 30000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 1,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "OOK",
+            "description": "On-Off Keying"
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ],
+    "short description": "Coherent CW (also known as CCW) was a strictly timed morse code mode designed by Ray Petit W7GHM (The same inventor of CLOVER). CCW depended on accurate timing from both receiver and transmitter.",
+    "description": "**Coherent CW** (also known as **CCW**) was a strictly timed morse code mode designed by Ray Petit W7GHM (The same inventor of [CLOVER](https://www.sigidwiki.com/wiki/CLOVER-II)). CCW depended on accurate timing from both receiver and transmitter."
+}

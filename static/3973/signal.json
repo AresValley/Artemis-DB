@@ -1,0 +1,49 @@
+{
+    "pageid": "3973",
+    "title": "ARGOS A-DCS",
+    "spectrum": {
+        "filename": "KMS4-Waterfall.jpg",
+        "url": "https://www.sigidwiki.com/images/a/a0/KMS4-Waterfall.jpg"
+    },
+    "audio": {
+        "filename": "KMS4-Sample.mp3",
+        "url": "https://www.sigidwiki.com/images/7/7d/KMS4-Sample.mp3"
+    },
+    "category": [
+        "Satellite",
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 465990000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 54000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "PSK",
+            "description": "Phase-Shift Keying"
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ],
+    "short description": "Some polar weather satellites from the METOP and POES series carry ARGOS A-DCS (Advanced Data Collection System), which is a system to collect data from sondes and other remote land or air-based instrumentation.",
+    "description": "Some weather satellites from the METOP and POES series carry **ARGOS A-DCS** ( Advanced Data Collection System) which is a system to collect data from sondes and other remote land or air based instrumentation."
+}

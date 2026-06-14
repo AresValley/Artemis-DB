@@ -1,0 +1,52 @@
+{
+    "pageid": "1305",
+    "title": "HC-ARQ",
+    "spectrum": {
+        "filename": "HC-ARQ.jpg",
+        "url": "https://www.sigidwiki.com/images/5/5f/HC-ARQ.jpg"
+    },
+    "audio": {
+        "filename": "HC-ARQ.mp3",
+        "url": "https://www.sigidwiki.com/images/8/87/HC-ARQ.mp3"
+    },
+    "category": [
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 3000000,
+            "description": ""
+        },
+        {
+            "value": 30000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 300,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "FSK",
+            "description": "Frequency-Shift Keying"
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ],
+    "short description": "Haegelin Crypto ARQ (HC-ARQ) was an FSK synchronous simplex ARQ system used by the UN and International Rescue Committee. This mode has been phased out and is no longer in use.",
+    "description": "**Haegelin Crypto ARQ (HC-ARQ)** was an FSK synchronous simplex ARQ system used by the UN and International Rescue Committee. This mode has been phased out and is no longer in use. HC-ARQ Operates at 240 Baud. The FSK modulation has a 200Hz shift. Uses the ITA-2 Alphabet."
+}

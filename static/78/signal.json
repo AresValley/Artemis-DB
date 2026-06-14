@@ -1,45 +1,69 @@
 {
-    "signal": {
-        "name": "CIS MFSK-20 XPA",
-        "url": "https://www.sigidwiki.com/wiki/CIS_MFSK-20_XPA"
+    "pageid": "78",
+    "title": "Motorola Type II",
+    "spectrum": {
+        "filename": "Moto.jpg",
+        "url": "https://www.sigidwiki.com/images/4/4b/Moto.jpg"
+    },
+    "audio": {
+        "filename": "Motorola2F1D_Sound.mp3",
+        "url": "https://www.sigidwiki.com/images/7/70/Motorola2F1D_Sound.mp3"
     },
     "category": [
-        "Digital",
-        "Numbers Stations"
+        "Trunked Radio",
+        "Digital"
     ],
     "frequency": [
         {
-            "value": 3000000,
+            "value": 136000000,
             "description": ""
         },
         {
-            "value": 30000000,
+            "value": 174000000,
+            "description": ""
+        },
+        {
+            "value": 380000000,
+            "description": ""
+        },
+        {
+            "value": 520000000,
+            "description": ""
+        },
+        {
+            "value": 851000000,
+            "description": ""
+        },
+        {
+            "value": 941000000,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 800,
+            "value": 16000,
             "description": ""
         }
     ],
     "acf": [],
     "modulation": [
         {
-            "value": "MFSK",
-            "description": ""
+            "value": "FSK",
+            "description": "Frequency-Shift Keying"
         }
     ],
     "mode": [
         {
-            "value": "USB",
+            "value": "NFM",
             "description": ""
         }
     ],
     "location": [
         {
-            "value": "Russia",
+            "value": "Worldwide",
             "description": ""
         }
-    ]
+    ],
+    "short description": "Radio trunking control channel.",
+    "description": "**Motorola Type II** refers to the second generation Motorola Trunked Radio Systems that replaced fleets and sub fleets with the concept of talkgroups and individual radio IDs."
 }

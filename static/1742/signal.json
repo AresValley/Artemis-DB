@@ -1,0 +1,49 @@
+{
+    "pageid": "1742",
+    "title": "CompuLert",
+    "spectrum": {
+        "filename": "Compulert.jpg",
+        "url": "https://www.sigidwiki.com/images/1/12/Compulert.jpg"
+    },
+    "audio": {
+        "filename": "compulert.mp3",
+        "url": "https://www.sigidwiki.com/images/6/66/Compulert.mp3"
+    },
+    "category": [
+        "Digital",
+        "Utility"
+    ],
+    "frequency": [
+        {
+            "value": 453375000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 5000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "FSK",
+            "description": "Frequency-Shift Keying"
+        }
+    ],
+    "mode": [
+        {
+            "value": "NFM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ],
+    "short description": "Low speed FSK telemetry to monitor and control warning sirens that are used to warn the public of threats such as tsunamis, severe weather, chemical spills and civil emergencies.",
+    "description": "Low speed FSK telemetry to monitor and control warning sirens that are used to warn the public of threats such as tsunamis, severe weather, chemical spills and civil emergencies.\n\nCompulert was developed by Alerting Communicators of America (ACA), now named [American Signal Corporation (ASC)](https://en.wikipedia.org/wiki/American_Signal_Corporation). It is a SCADA-based proprietary FSK protocol used to manage and monitor warning sirens in an area."
+}

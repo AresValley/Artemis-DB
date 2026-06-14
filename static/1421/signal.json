@@ -1,0 +1,73 @@
+{
+    "pageid": "1421",
+    "title": "THOR",
+    "spectrum": {
+        "filename": "THORthmb.png",
+        "url": "https://www.sigidwiki.com/images/f/f4/THORthmb.png"
+    },
+    "audio": {
+        "filename": "THOR11.mp3",
+        "url": "https://www.sigidwiki.com/images/5/51/THOR11.mp3"
+    },
+    "category": [
+        "Amateur Radio",
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 3000000,
+            "description": ""
+        },
+        {
+            "value": 30000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 173,
+            "description": ""
+        },
+        {
+            "value": 244,
+            "description": ""
+        },
+        {
+            "value": 346,
+            "description": ""
+        },
+        {
+            "value": 262,
+            "description": ""
+        },
+        {
+            "value": 355,
+            "description": ""
+        },
+        {
+            "value": 524,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "IFK",
+            "description": "Incremental Frequency Keying"
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ],
+    "short description": "THOR is an adaptation of DominoEX with MFSK16 binary varicode and FEC.",
+    "description": "Domino Series: [DominoF](https://www.sigidwiki.com/wiki/DominoF) -> [DominoEX](https://www.sigidwiki.com/wiki/DominoEX) -> [THOR](https://www.sigidwiki.com/wiki/THOR) \n\n**THOR** is the advancement and adaptation of DominoEX with MFSK16 binary varicode and FEC. THOR was made by Dave W1HKJ. THOR is considered superior to DominoEX for it's improved FEC capability and performance.\n\nThe default mode is THOR 11."
+}

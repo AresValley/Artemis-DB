@@ -1,0 +1,57 @@
+{
+    "pageid": "572",
+    "title": "VHF Omnidirectional Range (VOR)",
+    "spectrum": {
+        "filename": "VORthmbnew.png",
+        "url": "https://www.sigidwiki.com/images/b/bb/VORthmbnew.png"
+    },
+    "audio": {
+        "filename": "VOR_sound.mp3",
+        "url": "https://www.sigidwiki.com/images/c/c8/VOR_sound.mp3"
+    },
+    "category": [
+        "Aviation",
+        "Navigation"
+    ],
+    "frequency": [
+        {
+            "value": 108000000,
+            "description": ""
+        },
+        {
+            "value": 117950000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 21000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "AM",
+            "description": "Amplitude Modulation"
+        },
+        {
+            "value": "FM",
+            "description": "Frequency Modulation"
+        }
+    ],
+    "mode": [
+        {
+            "value": "NFM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ],
+    "short description": "A type of radio navigation system used by aircraft. It is distinctive in that the center frequency is flanked by two FM waves.",
+    "description": "A type of radio navigation system used by aircraft. It is distinctive in that the center frequency is flanked by two FM waves. The center carrier may have subcarriers of AM voice, morse code identifier, or both."
+}

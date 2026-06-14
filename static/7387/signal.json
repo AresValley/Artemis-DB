@@ -1,0 +1,89 @@
+{
+    "pageid": "7387",
+    "title": "Russian MFSK-OFDM-chirp hybrid modem",
+    "spectrum": {
+        "filename": "Unknown data mfsk sweep ofdm medium.png",
+        "url": "https://www.sigidwiki.com/images/8/85/Unknown_data_mfsk_sweep_ofdm_medium.png"
+    },
+    "audio": {
+        "filename": "Unknown data mfsk sweep ofdm sample.ogg",
+        "url": "https://www.sigidwiki.com/images/4/4c/Unknown_data_mfsk_sweep_ofdm_sample.ogg"
+    },
+    "category": [
+        "Digital",
+        "Military"
+    ],
+    "frequency": [
+        {
+            "value": 12176000,
+            "description": ""
+        },
+        {
+            "value": 16257000,
+            "description": ""
+        },
+        {
+            "value": 16259000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 24000,
+            "description": ""
+        },
+        {
+            "value": 48000,
+            "description": ""
+        },
+        {
+            "value": 3000,
+            "description": ""
+        },
+        {
+            "value": 12000,
+            "description": ""
+        },
+        {
+            "value": 96000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "FSK",
+            "description": "Frequency-Shift Keying"
+        },
+        {
+            "value": "OFDM",
+            "description": "Orthogonal Frequency-Division Multiplexing"
+        },
+        {
+            "value": "FM",
+            "description": "Frequency Modulation"
+        },
+        {
+            "value": "FMCW",
+            "description": "Frequency-Modulated Continuous Wave"
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Russia",
+            "description": ""
+        },
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ],
+    "short description": "A supposedly Russian HF data mode with MFSK, OFDM and frequency sweeps, resulting in an interesting spectrogram and sound.",
+    "description": "This is an interesting data mode that is believed to be used by Russian military or other agencies. The official name, purpose and equipment used to transmit this signal are not known, and there doesn't seem to be a commonly agreed name among amateur listeners. \n\nThe signal is transmitted in bursts. Each bursts starts with a pilot tone and a couple of irregular frequency sweeps, then follows a short MFSK part and then a data transmission which apparently consists of OFDM blocks and which is periodically interrupted by upward frequency sweeps, two in this case. The burst ends with a series of frequency sweeps. Frequency sweeps may also be transmitted before the OFDM part begins. \n\nPurpose of the different modulation techniques is not known. In this sample case there is also a continuous carrier slightly below the burst transmission. It's not always seen and it may or may not belong to this transmission. \n\nBandwidth of this sample is about 3 ... 3.2 kHz but this signal has been seen with much higher bandwidths of 12, 24, 48 and 96 kHz as well, see the links and video examples below. Bandwidth of 6 kHz has been seen in assumed test transmissions."
+}

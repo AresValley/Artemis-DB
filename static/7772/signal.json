@@ -1,0 +1,61 @@
+{
+    "pageid": "7772",
+    "title": "Chinese-64 MFSK",
+    "spectrum": {
+        "filename": "Chinese-64 MFSK.png",
+        "url": "https://www.sigidwiki.com/images/3/31/Chinese-64_MFSK.png"
+    },
+    "audio": {
+        "filename": "Chinese-64 MFSK 2025-02-02 14-30-42.mp3",
+        "url": "https://www.sigidwiki.com/images/b/b5/Chinese-64_MFSK_2025-02-02_14-30-42.mp3"
+    },
+    "category": [
+        "Digital",
+        "Military"
+    ],
+    "frequency": [
+        {
+            "value": 12916000,
+            "description": ""
+        },
+        {
+            "value": 16989000,
+            "description": ""
+        },
+        {
+            "value": 3673000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 2500,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "FSK",
+            "description": "Frequency-Shift Keying"
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        },
+        {
+            "value": "LSB (rare)",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "China",
+            "description": ""
+        }
+    ],
+    "short description": "Chinese Modem MFSK-64",
+    "description": ""
+}

@@ -1,0 +1,51 @@
+{
+    "pageid": "2172",
+    "title": "Narrow-Bandwidth Television (NBTV)",
+    "spectrum": {
+        "filename": "nbtv_32.gif",
+        "url": "https://www.sigidwiki.com/images/e/e8/Nbtv_32.gif"
+    },
+    "audio": {
+        "filename": null,
+        "url": null
+    },
+    "category": [
+        "Amateur Radio"
+    ],
+    "frequency": [
+        {
+            "value": 50000000,
+            "description": ""
+        },
+        {
+            "value": 1800000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 13000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "AM",
+            "description": "Amplitude Modulation"
+        },
+        {
+            "value": "FM",
+            "description": "Frequency Modulation"
+        }
+    ],
+    "mode": [],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ],
+    "short description": "Narrow-Bandwidth Television (NBTV).",
+    "description": "**Narrow-Bandwidth Television (NBTV)** is an open source analog TV mode developed for amateur radio by the Narrow-bandwidth Television Association."
+}

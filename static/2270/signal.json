@@ -1,0 +1,50 @@
+{
+    "pageid": "2270",
+    "title": "NATEL",
+    "spectrum": {
+        "filename": "natel 5-tone.png",
+        "url": "https://www.sigidwiki.com/images/4/48/Natel_5-tone.png"
+    },
+    "audio": {
+        "filename": "NATEL 5-tone.mp3",
+        "url": "https://www.sigidwiki.com/images/1/18/NATEL_5-tone.mp3"
+    },
+    "category": [],
+    "frequency": [
+        {
+            "value": 30000000,
+            "description": ""
+        },
+        {
+            "value": 800000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 5000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "FSK",
+            "description": "Frequency-Shift Keying"
+        }
+    ],
+    "mode": [
+        {
+            "value": "NFM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ],
+    "short description": "NATEL is a 5-tone selcall mode defined by Scandinavian National Telephone recommendations.",
+    "description": "**NATEL** is a 5-tone selcall mode defined by Scandinavian National Telephone recommendations.\n\nSelcall (selective calling) is a type of squelch protocol used in radio communications systems, in which transmissions include a brief burst of sequential audio tones. Receivers that are set to respond to the transmitted tone sequence will open their squelch, while others will remain muted.\n\nNATEL has 15 tones to choose from, but can send at most 5 tones at a time. Each tone has a duration of 70 ms per tone. The bursts transmit right before a radio transmission. \n\n| Digit | Hz | Digit | Hz |\n| --- | --- | --- | --- |\n| 0 | 1633 | 8 | 1336 |\n| 1 | 631 | 9 | 1477 |\n| 2 | 697 | A | 1633 |\n| 3 | 770 | B | 600 |\n| 4 | 852 | C | 1995 |\n| 5 | 941 | D | 2205 |\n| 6 | 1040 | E | 1805 |\n| 7 | 1209 | Tone Duration | 70 ms |"
+}

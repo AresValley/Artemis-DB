@@ -1,0 +1,48 @@
+{
+    "pageid": "6972",
+    "title": "MONITOR-2(RS39S)",
+    "spectrum": {
+        "filename": "Monitor-22.png",
+        "url": "https://www.sigidwiki.com/images/1/1f/Monitor-22.png"
+    },
+    "audio": {
+        "filename": "Monitor-2TLM.mp3",
+        "url": "https://www.sigidwiki.com/images/7/7a/Monitor-2TLM.mp3"
+    },
+    "category": [
+        "Satellite"
+    ],
+    "frequency": [
+        {
+            "value": 435815000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 12500,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "AFSK",
+            "description": "Audio Frequency-Shift Keying"
+        }
+    ],
+    "mode": [
+        {
+            "value": "FM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ],
+    "short description": "Monitor-2 is a Russian 3u Cubesat used for cosmic flare observation. It is most likely only active when above Russia.",
+    "description": "Monitor-2 is a Russian 3u Cubesat used for cosmic flare observation. It is most likely only active when above Russia"
+}

@@ -1,0 +1,43 @@
+{
+    "pageid": "5947",
+    "title": "Smart TV Interference",
+    "spectrum": {
+        "filename": "528 11 August.png",
+        "url": "https://www.sigidwiki.com/images/7/7e/528_11_August.png"
+    },
+    "audio": {
+        "filename": "SDRSharp 20200812 011809Z 528385500Hz AF.wav",
+        "url": "https://www.sigidwiki.com/images/9/96/SDRSharp_20200812_011809Z_528385500Hz_AF.wav"
+    },
+    "category": [
+        "Interfering"
+    ],
+    "frequency": [
+        {
+            "value": 528000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 84000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ],
+    "short description": "Interference from Smart TV units",
+    "description": "<gallery>\nFile:528_Mhz.png|Interference from a Master-G TV unit.\n\n{{Gallery||cg1|center|<gallery widths=200px>\nImage: |Description here \nImage:528.400.png |Another interfering signal<html5media width=\"300\">File: SDRSharp_20200812.wav</html5media>"
+}

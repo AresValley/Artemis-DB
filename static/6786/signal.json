@@ -1,0 +1,43 @@
+{
+    "pageid": "6786",
+    "title": "Kia SVI-JFRGE04 Key Fob",
+    "spectrum": {
+        "filename": "Kiakeyfobdesktop (1).png",
+        "url": "https://www.sigidwiki.com/images/a/a6/Kiakeyfobdesktop_%281%29.png"
+    },
+    "audio": {
+        "filename": "Kiakeyfobcubicsdr.mp3",
+        "url": "https://www.sigidwiki.com/images/6/66/Kiakeyfobcubicsdr.mp3"
+    },
+    "category": [
+        "Utility"
+    ],
+    "frequency": [],
+    "bandwidth": [
+        {
+            "value": 55000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "FSK",
+            "description": "Frequency-Shift Keying"
+        }
+    ],
+    "mode": [
+        {
+            "value": "NFM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ],
+    "short description": "Kia SVI-JFRGE04 Keyless entry transponder used for multiple Kia models, for model years 2014-2020",
+    "description": ""
+}

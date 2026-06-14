@@ -1,0 +1,55 @@
+{
+    "pageid": "4074",
+    "title": "UK AM Data System (UK-AMDS)",
+    "spectrum": {
+        "filename": "BBC teleswitch 2.png",
+        "url": "https://www.sigidwiki.com/images/1/19/BBC_teleswitch_2.png"
+    },
+    "audio": {
+        "filename": "bbc teleswitch.mp3",
+        "url": "https://www.sigidwiki.com/images/3/39/Bbc_teleswitch.mp3"
+    },
+    "category": [
+        "Commercial",
+        "Time",
+        "Analogue",
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 198000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 85,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "AM",
+            "description": "Amplitude Modulation"
+        },
+        {
+            "value": "PSK",
+            "description": "Phase-Shift Keying"
+        }
+    ],
+    "mode": [
+        {
+            "value": "SSB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "United Kingdom",
+            "description": ""
+        }
+    ],
+    "short description": "UK AM Data System (UK-AMDS) was developed by BBC Research and Development in 1984 as a way to transmit low bitrate data on BBC Radio 4's LF AM carrier. Elements of this system were adopted into ETSI's AMSS.",
+    "description": "**UK AM Data System (UK-AMDS)** was developed by BBC Research and Development in 1984 as a way to transmit low bitrate data on BBC Radio 4's LF AM carrier. Elements of this system were adopted into ETSI's [AMSS](https://www.sigidwiki.com/wiki/Amplitude_Modulation_Signalling_System_%28AMSS%29)."
+}

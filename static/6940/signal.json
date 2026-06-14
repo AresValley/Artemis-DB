@@ -1,0 +1,56 @@
+{
+    "pageid": "6940",
+    "title": "High Resolution Data (HRD)",
+    "spectrum": {
+        "filename": "Hrd.png",
+        "url": "https://www.sigidwiki.com/images/6/6c/Hrd.png"
+    },
+    "audio": {
+        "filename": null,
+        "url": null
+    },
+    "category": [
+        "Satellite"
+    ],
+    "frequency": [
+        {
+            "value": 7812000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 25000000,
+            "description": ""
+        },
+        {
+            "value": 35000000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "OQPSK",
+            "description": "Offset Quadrature Phase-Shift Keying"
+        },
+        {
+            "value": "QPSK",
+            "description": "Quadrature Phase-Shift Keying"
+        }
+    ],
+    "mode": [
+        {
+            "value": "RAW",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ],
+    "short description": "The HRD direct broadcast is an X-band continuous downlink from NOAA JPSS satellites of mission environmental data to users on the ground that are equipped with a suitable receiver.",
+    "description": "The HRD direct broadcast is an X-band continuous downlink from NOAA JPSS satellites of mission environmental data to users on the ground that are equipped with a suitable receiver when the satellite is within view.\nOffering over 20 times faster data transfer than HRPT, this enables the use of more modern instruments with higher resolution and more channels."
+}

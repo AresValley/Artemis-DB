@@ -1,0 +1,52 @@
+{
+    "pageid": "2781",
+    "title": "VEZHA-S",
+    "spectrum": {
+        "filename": "RUS_FSK_COMMS.jpg",
+        "url": "https://www.sigidwiki.com/images/f/f6/RUS_FSK_COMMS.jpg"
+    },
+    "audio": {
+        "filename": "RUS_VEZHA.mp3",
+        "url": "https://www.sigidwiki.com/images/e/ea/RUS_VEZHA.mp3"
+    },
+    "category": [
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 2755000,
+            "description": ""
+        },
+        {
+            "value": 12165000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 650,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "FSK",
+            "description": "Frequency-Shift Keying"
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Russia",
+            "description": ""
+        }
+    ],
+    "short description": "Two-way 100 Bd/500 Hz Russian Telegraph system, attributed name VEZHA-C (Tower-S), usage claimed to be by Russian Ministry of Communications (MinComSvyaz Rossii). Possible usage in meteorology under callsign RWD59.",
+    "description": "Two-way 100 Bd/500 Hz Russian Telegraph system, attributed name **VEZHA-S (ВЕЖА-C, Tower-S)**, usage claimed to be by Russian Ministry of Communications (Минкомсвязь России). Possible usage in meteorology under callsign RWD59. This signal has always been seen transmitted with another identical signal at another frequency, so it works on a two-way communication network. It's periodic transmission behavior is suspected to be ARQ between the two users. Reported to be a very old Soviet-era system.\n\nLogs have been posted attributed to this signal:\n\n5.440,00 RWD59 - Moskva RUS PTT RUS-ARQ 100/500"
+}

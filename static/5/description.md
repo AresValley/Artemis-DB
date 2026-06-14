@@ -1,1 +1,0 @@
-Original remote of KIA Carnival (2006).

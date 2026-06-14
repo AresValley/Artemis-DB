@@ -1,0 +1,58 @@
+{
+    "pageid": "1254",
+    "title": "DCF77",
+    "spectrum": {
+        "filename": "DCF77.jpg",
+        "url": "https://www.sigidwiki.com/images/d/db/DCF77.jpg"
+    },
+    "audio": {
+        "filename": "DCF77.mp3",
+        "url": "https://www.sigidwiki.com/images/6/62/DCF77.mp3"
+    },
+    "category": [
+        "Time",
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 77500,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 1300,
+            "description": ""
+        }
+    ],
+    "acf": [
+        {
+            "value": 1000.0,
+            "description": "Main"
+        }
+    ],
+    "modulation": [
+        {
+            "value": "AM",
+            "description": "Amplitude Modulation"
+        },
+        {
+            "value": "PSK",
+            "description": "Phase-Shift Keying"
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Germany",
+            "description": ""
+        }
+    ],
+    "short description": "DCF77 is a German longwave time signal radio station based at 77.5 kHz. DCF uses an AM modulated carrier and phase modulation sidebands to transmit its time signal.",
+    "description": "**DCF77** is a German longwave time signal radio station based at 77.5 kHz. DCF uses an AM modulated carrier and phase modulation sidebands to transmit it's time signal. DCF77 is located near the town of Mainflingen."
+}

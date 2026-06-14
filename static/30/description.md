@@ -1,1 +1,0 @@
-The Advanced Television Systems Committee (ATSC) 3.0 standard (marketed as NextGen TV) is a revised set of video broadcasting specifications that outlines improvements to spectrum efficiency.

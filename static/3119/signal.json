@@ -1,0 +1,52 @@
+{
+    "pageid": "3119",
+    "title": "HNG-FEC",
+    "spectrum": {
+        "filename": "HNG FEC.jpg",
+        "url": "https://www.sigidwiki.com/images/3/37/HNG_FEC.jpg"
+    },
+    "audio": {
+        "filename": "hng-fec.mp3",
+        "url": "https://www.sigidwiki.com/images/6/67/Hng-fec.mp3"
+    },
+    "category": [
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 2400000,
+            "description": ""
+        },
+        {
+            "value": 24000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 600,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "FSK",
+            "description": "Frequency-Shift Keying"
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Hungary",
+            "description": ""
+        }
+    ],
+    "short description": "HNG-FEC was a full duplex system developed and used solely by the Ministry of Foreign Affairs in Hungary. Used 100.05 bd with 500 Hz shift FSK. This mode is no longer used today.",
+    "description": "HNG-FEC was a full duplex system used by the Ministry of Foreign Affairs in Hungary. Used 100.05 Bd with 500 Hz shift FSK. This mode is no longer used today.\n\nHNG-FEC uses a 15 bit code, the first 5 bits corresponding to the ITA-2 alphabet. The first and last bits of this code word are inverted (Inv, Nor, Nor, Nor, Nor, Inv). The remaining 10 bits are used for error detection and correction. Error correction is done by table look up of the character which closest matches the one that was received in error."
+}

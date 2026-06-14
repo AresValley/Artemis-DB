@@ -1,0 +1,49 @@
+{
+    "pageid": "5707",
+    "title": "Mazda SKE126-01 Key Fob",
+    "spectrum": {
+        "filename": "SKE126-012.png",
+        "url": "https://www.sigidwiki.com/images/0/0e/SKE126-012.png"
+    },
+    "audio": {
+        "filename": "SKE126-01 keyfob.mp3",
+        "url": "https://www.sigidwiki.com/images/d/de/SKE126-01_keyfob.mp3"
+    },
+    "category": [
+        "Utility",
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 433412500,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 100000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "FSK",
+            "description": "Frequency-Shift Keying"
+        }
+    ],
+    "mode": [
+        {
+            "value": "WFM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ],
+    "short description": "SKE126-01 Key Fob used for multiple Mazda models between 2006-2014. Manufactured by Mitsubishi Electric Company.",
+    "description": "Mazda SKE126-01 Key Fob for Mazda models without proximity keyless system.\n\n**Used in:**\n\nMazda 2 (2011 - 2014)\n\nMazda 3 (2009 - 2013)\n\nMazda 5 (2005 - 2015) without motorised side doors\n\nMazda 6 (2007 - 2012)\n\nMazda CX7 (2007 - 2015)\n\nMazda MX5 (2006 - 2012)"
+}

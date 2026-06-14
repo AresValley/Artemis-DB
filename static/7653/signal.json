@@ -1,0 +1,64 @@
+{
+    "pageid": "7653",
+    "title": "CIS W-MFSK-17",
+    "spectrum": {
+        "filename": "Unknown MFSK-17 or FHSS 2.png",
+        "url": "https://www.sigidwiki.com/images/f/f7/Unknown_MFSK-17_or_FHSS_2.png"
+    },
+    "audio": {
+        "filename": "Unknown MFSK-17 or FHSS USB 20kHz.ogg",
+        "url": "https://www.sigidwiki.com/images/4/44/Unknown_MFSK-17_or_FHSS_USB_20kHz.ogg"
+    },
+    "category": [
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 5071000,
+            "description": ""
+        },
+        {
+            "value": 6778000,
+            "description": ""
+        },
+        {
+            "value": 8158000,
+            "description": ""
+        },
+        {
+            "value": 13373000,
+            "description": ""
+        },
+        {
+            "value": 13361000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 37500,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "FSK",
+            "description": "Frequency-Shift Keying"
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Russia",
+            "description": ""
+        }
+    ],
+    "short description": "Presumably Russian MFSK signal with wide bandwidth and 17 tones",
+    "description": "CIS W-MFSK-17 or CIS Wide-MFSK-17, was first spotted on November 20, 2018. Second observation was made on September 30, 2024. Third observation was made on February 04, 2026. \n\nThe signal has 17 tones with 2.3 kHz spacing in between them and width about 37.5 kHz. The source of the signal supposedly located in Moscow (or at least nearby) based on good reception on RTL-SDR V4 located in Moscow and absence of the signal on WebSDR University of Twente (http://websdr.ewi.utwente.nl:8901/) on the same frequencies during transmission (except for 13.373 MHz, which was faint), the purpose of the signal is unknown. CIS W-MFSK-17 looks similar to Russian MFSK signals such as [XPB](https://www.sigidwiki.com/wiki/CIS_MFSK-16_XPB) or [XPA](https://www.sigidwiki.com/wiki/CIS_MFSK-20_XPA), but has a much higher bandwidth. Like other Russian MFSK signals, CIS W-MFSK-17 was observed to transmit on several frequencies, one after another. Unlike [XPA](https://www.sigidwiki.com/wiki/CIS_MFSK-20_XPA) that also has 17 tones, CIS W-MFSK-17 seems to not have any preamble."
+}

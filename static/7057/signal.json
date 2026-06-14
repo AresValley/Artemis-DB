@@ -1,0 +1,57 @@
+{
+    "pageid": "7057",
+    "title": "XMPP trials",
+    "spectrum": {
+        "filename": "XMPP EXAMPLE.png",
+        "url": "https://www.sigidwiki.com/images/7/7a/XMPP_EXAMPLE.png"
+    },
+    "audio": {
+        "filename": "XMPPsound.mp3",
+        "url": "https://www.sigidwiki.com/images/d/d9/XMPPsound.mp3"
+    },
+    "category": [
+        "Military",
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 2000000,
+            "description": ""
+        },
+        {
+            "value": 7800000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 34000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "PSK",
+            "description": "Phase-Shift Keying"
+        },
+        {
+            "value": "QAM",
+            "description": "Quadrature Amplitude Modulation"
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ],
+    "short description": "XMPP (Extensible Messaging and Presence Protocol) on shortwave is used by the military and are known for using [[MIL-STD-188-110 Serial|MIL 188-110A Serial]] HF waveform and 6-bit code clear text with dual bursts of STANAG-5439 and STANAG-5066 as for XMPP Multi-User Chat (MUC) messages",
+    "description": "**XMPP** (formerly called Jabber) is short for \"Extensible Messaging and Presence Protocol\". It is the open standard for Instant messaging (IM) Group Chat and Presence services.\n\nOn shortwave, you can see the military use this protocol. They are known for using ** [MIL 188-110A Serial](https://www.sigidwiki.com/wiki/MIL-STD-188-110_Serial)** HF waveform (fixed 600bps/S) and 6-bit code clear text with dual bursts of ** [STANAG 4539](https://www.sigidwiki.com/wiki/STANAG_4539)** and **STANAG-5066** as for XMPP Multi-User Chat (MUC) messages, over a bandwidth of 34 kHz. **Multi-User Chat (MUC)** is a central service for military communication. If data is being provided, it makes sense to share it so that all interested parties can see it. XMPP is widely used for military deployments, where operation over constrained and degraded networks is often essential, particularly for tactical operation."
+}

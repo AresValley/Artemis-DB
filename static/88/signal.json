@@ -1,45 +1,85 @@
 {
-    "signal": {
-        "name": "CIS-16",
-        "url": "https://www.sigidwiki.com/wiki/CIS-16"
+    "pageid": "88",
+    "title": "Automatic Packet Reporting System (APRS)",
+    "spectrum": {
+        "filename": "APRS.jpg",
+        "url": "https://www.sigidwiki.com/images/e/e3/APRS.jpg"
+    },
+    "audio": {
+        "filename": "AFSK1200_Sound.mp3",
+        "url": "https://www.sigidwiki.com/images/4/41/AFSK1200_Sound.mp3"
     },
     "category": [
-        "Digital",
-        "Military"
+        "Amateur Radio",
+        "Digital"
     ],
     "frequency": [
         {
-            "value": 3000000,
+            "value": 144390000,
             "description": ""
         },
         {
-            "value": 30000000,
+            "value": 145570000,
+            "description": ""
+        },
+        {
+            "value": 144575000,
+            "description": ""
+        },
+        {
+            "value": 144640000,
+            "description": ""
+        },
+        {
+            "value": 144660000,
+            "description": ""
+        },
+        {
+            "value": 144930000,
+            "description": ""
+        },
+        {
+            "value": 145825000,
+            "description": ""
+        },
+        {
+            "value": 432500000,
+            "description": ""
+        },
+        {
+            "value": 144800000,
+            "description": ""
+        },
+        {
+            "value": 145175000,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 2700,
+            "value": 12500,
             "description": ""
         }
     ],
     "acf": [],
     "modulation": [
         {
-            "value": "PSK",
-            "description": ""
+            "value": "AFSK",
+            "description": "Audio Frequency-Shift Keying"
         }
     ],
     "mode": [
         {
-            "value": "USB",
+            "value": "NFM",
             "description": ""
         }
     ],
     "location": [
         {
-            "value": "Russia",
+            "value": "Worldwide",
             "description": ""
         }
-    ]
+    ],
+    "short description": "Packet system for real time data communications. Used by hams for location reporting, weather stations etc.",
+    "description": "Packet system for real time data communications. Used by hams for location reporting, weather stations etc. APRS is transported over the AX.25 protocol using 1200 bit/s Bell 202 AFSK on frequencies located within the 2 meter amateur band."
 }

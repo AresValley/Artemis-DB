@@ -1,0 +1,57 @@
+{
+    "pageid": "6424",
+    "title": "Ultra Low Latency (ULL) Electronic Trading Network",
+    "spectrum": {
+        "filename": "HF_Monster_48k_Crop.PNG",
+        "url": "https://www.sigidwiki.com/images/4/4f/HF_Monster_48k_Crop.PNG"
+    },
+    "audio": {
+        "filename": "HDSDR 20200831 035632Z 11010kHz AF.wav",
+        "url": "https://www.sigidwiki.com/images/6/62/HDSDR_20200831_035632Z_11010kHz_AF.wav"
+    },
+    "category": [
+        "Digital",
+        "Commercial"
+    ],
+    "frequency": [
+        {
+            "value": 6000000,
+            "description": ""
+        },
+        {
+            "value": 20000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 60000,
+            "description": ""
+        },
+        {
+            "value": 30000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "OQPSK",
+            "description": "Offset Quadrature Phase-Shift Keying"
+        }
+    ],
+    "mode": [
+        {
+            "value": "RAW",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "United States",
+            "description": ""
+        }
+    ],
+    "short description": "A 48k or 24k baud OQPSK signal that is strongly suspected (through numerous circumstantial pieces of evidence) to be either an experimental or active P2P RF link between financial market data centers, used for High Frequency Trading (HFT) and other latency-sensitive market activities.",
+    "description": "This **Ultra Low Latency (ULL) Electronic Trading Network** is a 48k or 24k baud OQPSK signal that is strongly suspected (through numerous circumstantial pieces of evidence) to be either an experimental or active P2P RF link between financial market data centers, used for High Frequency Trading (HFT) and other latency-sensitive market activities. Not much is known on exactly which commercial entity it belongs to, but the link is likely part of a Chicago <-> New York link to connect the NY and Chicago financial hubs.\n\nIt is an OQPSK signal with a baud rate of 48k or 24k. \nDue to natural fading on HF it is almost never seen at full strength with the natural PSK rounded amplitude shape. There is usually two of these signals present on HF, one lower frequency than the other.\n\nTDoA suggests that the signal is being transmitted outside of Chicago."
+}

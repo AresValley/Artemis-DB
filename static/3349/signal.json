@@ -1,0 +1,68 @@
+{
+    "pageid": "3349",
+    "title": "TWINPLEX",
+    "spectrum": {
+        "filename": "Danish TWINPLEX.jpg",
+        "url": "https://www.sigidwiki.com/images/e/ea/Danish_TWINPLEX.jpg"
+    },
+    "audio": {
+        "filename": "Danish -TWPLEX.mp3",
+        "url": "https://www.sigidwiki.com/images/2/2c/Danish_-TWPLEX.mp3"
+    },
+    "category": [
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 3000000,
+            "description": ""
+        },
+        {
+            "value": 30000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 450,
+            "description": ""
+        },
+        {
+            "value": 550,
+            "description": ""
+        },
+        {
+            "value": 660,
+            "description": ""
+        },
+        {
+            "value": 750,
+            "description": ""
+        },
+        {
+            "value": 950,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "FSK",
+            "description": "Frequency-Shift Keying"
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ],
+    "short description": "TWINPLEX, also known as F7B4 and TWINPLEX-SITOR, was a diplex 4-FSK ARQ mode developed by Mackay Radio and Telegraph Company, based in New York City, in the early 1950's. TWINPLEX was used by Interpol, the United Nations, and other diplomatic services.",
+    "description": "**TWINPLEX**, also known as F7B4 and TWINPLEX-SITOR, was a diplex 4-FSK ARQ mode developed by Mackay Radio and Telegraph Company, based in New York City, in the early 1950s. This mode was used by Interpol, the United Nations, and many government diplomatic services all over the world, including Australia, Denmark, The Netherlands, Norway, Pakistan and Spain. \n\nTWINPLEX was developed to try to double the throughput of a single telegraph channel while still staying within a single channel's bandwidth. Two separate channels can be transmitted simultaneously using TWINPLEX; the two channels can even be at different data rates.'"
+}

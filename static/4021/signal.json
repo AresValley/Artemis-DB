@@ -1,0 +1,48 @@
+{
+    "pageid": "4021",
+    "title": "Meteosat WEFAX",
+    "spectrum": {
+        "filename": "Waterfall1.png",
+        "url": "https://www.sigidwiki.com/images/4/4d/Waterfall1.png"
+    },
+    "audio": {
+        "filename": "Finalmeteosatnew.mp3",
+        "url": "https://www.sigidwiki.com/images/0/0e/Finalmeteosatnew.mp3"
+    },
+    "category": [
+        "Analogue",
+        "Satellite"
+    ],
+    "frequency": [
+        {
+            "value": 1691000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "AM",
+            "description": "Amplitude Modulation"
+        },
+        {
+            "value": "FM",
+            "description": "Frequency Modulation"
+        }
+    ],
+    "mode": [
+        {
+            "value": "FM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ],
+    "short description": "Meteosat WEFAX is a WEFAX used to transmit satellite images via Meteosat Satellites. WEFAX was introduced with the first Meteosat in 1977.",
+    "description": "Weather Satellite Modes: [APT](https://www.sigidwiki.com/wiki/Automatic_Picture_Transmission_%28APT%29) - [LRPT](https://www.sigidwiki.com/wiki/Low_Rate_Picture_Transmission_%28LRPT%29)\n \n WEFAX Modes: [Meteosat WEFAX](https://www.sigidwiki.com/wiki/Meteosat_WEFAX) - [WEFAX](https://www.sigidwiki.com/wiki/WEFAX)\n\n**Meteosat WEFAX** is the original [WEFAX](https://www.sigidwiki.com/wiki/WEFAX) implementation used to transmit satellite images via Meteosat Satellites. WEFAX was introduced with the first Meteosat in 1977. Meteosat WEFAX uses an AM 2.4 kHz carrier signal modulated with a 1.6 kHz video signal."
+}

@@ -1,0 +1,58 @@
+{
+    "pageid": "912",
+    "title": "PACTOR III",
+    "spectrum": {
+        "filename": "PACTORIIIthumb.jpg",
+        "url": "https://www.sigidwiki.com/images/2/2f/PACTORIIIthumb.jpg"
+    },
+    "audio": {
+        "filename": "PIII_Complete_1.mp3",
+        "url": "https://www.sigidwiki.com/images/3/38/PIII_Complete_1.mp3"
+    },
+    "category": [
+        "Digital",
+        "Commercial",
+        "Amateur Radio"
+    ],
+    "frequency": [
+        {
+            "value": 3000000,
+            "description": ""
+        },
+        {
+            "value": 30000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 400,
+            "description": ""
+        },
+        {
+            "value": 2400,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "PSK",
+            "description": "Phase-Shift Keying"
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ],
+    "short description": "PACTOR III introduces 6 speed levels that provide higher throughput and improved robustness compared to PACTOR I and II. PACTOR III is on average 3.5 times faster than PACTOR II. With optimal conditions, PACTOR III becomes over 5 times faster.",
+    "description": "PACTOR Series: [PACTOR I](https://www.sigidwiki.com/wiki/PACTOR_I) - [PACTOR II](https://www.sigidwiki.com/wiki/PACTOR_II) - [PACTOR III](https://www.sigidwiki.com/wiki/PACTOR_III) - [PACTOR IV](https://www.sigidwiki.com/wiki/PACTOR_IV) \n\n**PACTOR III** introduces 6 speed levels that provide higher throughput and improved robustness compared to PACTOR I and II. PACTOR III is on average 3.5 times faster than PACTOR II. With optimal conditions, PACTOR III becomes over 5 times faster.\n \nPACTOR III has a maximum bandwidth of 2400 Hz. This is a proprietary standard developed by SCS GmbH & Co. KG, Hanau, Germany. \n\nPactor III has 6 speed modes, made up of 2, 6, 14, 16, and 18 tone modulations, with each tone spaced 120Hz apart. \n\nDuring a standard transmission connection between two operators, PACTOR III Modems will transmit a PACTOR I SELCALL to determine the optimal mode and speed to establish between the two operators."
+}

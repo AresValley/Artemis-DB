@@ -1,0 +1,48 @@
+{
+    "pageid": "5207",
+    "title": "WWVB",
+    "spectrum": {
+        "filename": "WWVB-1.png",
+        "url": "https://www.sigidwiki.com/images/5/54/WWVB-1.png"
+    },
+    "audio": {
+        "filename": "WWVB Signal 10s.mp3",
+        "url": "https://www.sigidwiki.com/images/e/e9/WWVB_Signal_10s.mp3"
+    },
+    "category": [
+        "Time"
+    ],
+    "frequency": [
+        {
+            "value": 60000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 1,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "ASK",
+            "description": "Amplitude-Shift Keying"
+        }
+    ],
+    "mode": [
+        {
+            "value": "CW",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "United States",
+            "description": ""
+        }
+    ],
+    "short description": "WWVB is the lowest frequency time signal in the USA.",
+    "description": "WWVB is an LF time signal in the USA. The time code is encoded in the duration of the gap between pulses. PSK is also used on the carrier as an additional time code.\nThe time code format and additional information can be found on the WWVB [Wikipedia page](https://en.wikipedia.org/wiki/WWVB)."
+}

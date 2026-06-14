@@ -1,0 +1,65 @@
+{
+    "pageid": "3201",
+    "title": "Robust PACKET",
+    "spectrum": {
+        "filename": "Robust PACKET.jpg",
+        "url": "https://www.sigidwiki.com/images/6/6b/Robust_PACKET.jpg"
+    },
+    "audio": {
+        "filename": "robust-packet.mp3",
+        "url": "https://www.sigidwiki.com/images/0/07/Robust-packet.mp3"
+    },
+    "category": [
+        "Digital",
+        "Amateur Radio"
+    ],
+    "frequency": [
+        {
+            "value": 3610000,
+            "description": ""
+        },
+        {
+            "value": 7047300,
+            "description": ""
+        },
+        {
+            "value": 10147300,
+            "description": ""
+        },
+        {
+            "value": 14103300,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 500,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "PSK",
+            "description": "Phase-Shift Keying"
+        },
+        {
+            "value": "OFDM",
+            "description": "Orthogonal Frequency-Division Multiplexing"
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ],
+    "short description": "Robust PACKET, also known as HF-APRS, RPR, Winlink RMS, and APRSlink, is an OFDM version of the amateur mode PACKET which is optimized for shortwave use. This mode was developed by Spezielle Communications Systeme GmbH & Co. KG (SCS).",
+    "description": "[PACKET](https://www.sigidwiki.com/wiki/PACKET) - [Robust PACKET](https://www.sigidwiki.com/wiki/Robust_PACKET)\n\n**Robust PACKET**, also known as HF-APRS, RPR, Winlink RMS, APRSlink, RPR-HF-APRS, and SCS Robust Packet, is an OFDM version of the amateur mode [PACKET](https://www.sigidwiki.com/wiki/PACKET) optimized for shortwave use. This mode was developed by [Spezielle Communications Systeme GmbH & Co. KG (SCS)](http://www.p4dragon.com/en/Home.html), who developed the [PACTOR](https://www.sigidwiki.com/wiki/PACTOR_III) protocol. \n\nRobust PACKET uses 500 Hz of bandwidth with 60 Hz spacing between carriers, and uses OFDM with 8 DBPSK or DQPSK carriers. On 200 bps mode, it uses BPSK. For 600 bps mode, DQPSK is used. For both modes, each subcarrier runs at a constant rate of 50 Bd. \n\nLike [PACKET](https://www.sigidwiki.com/wiki/PACKET), Robust PACKET uses the AX-25 frame protocol for transmitting data. Compared to PACKET, Robust PACKET has better resistance against multipath propagation and fading. In addition, Robust PACKET takes less total bandwidth, with sidebands only extending out to 500 Hz, where with PACKET, the sidebands produced from the 300 Bd FSK extend as far as 730 Hz.\n\nThis mode is available only on SCS's ' [Tracker / DSP TNC](http://www.p4dragon.com/en/Modems.html#widget4)'"
+}

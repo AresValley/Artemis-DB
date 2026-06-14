@@ -1,0 +1,153 @@
+{
+    "pageid": "5644",
+    "title": "5G 'New Radio' Cellular Radio - Downlink",
+    "spectrum": {
+        "filename": "NR_OR_10_downlink.jpg",
+        "url": "https://www.sigidwiki.com/images/2/2d/NR_OR_10_downlink.jpg"
+    },
+    "audio": {
+        "filename": "NR_downlink.mp3",
+        "url": "https://www.sigidwiki.com/images/6/66/NR_downlink.mp3"
+    },
+    "category": [
+        "Digital",
+        "Commercial"
+    ],
+    "frequency": [
+        {
+            "value": 600000000,
+            "description": ""
+        },
+        {
+            "value": 50000000000,
+            "description": ""
+        },
+        {
+            "value": 3600000000,
+            "description": ""
+        },
+        {
+            "value": 700000000,
+            "description": ""
+        },
+        {
+            "value": 850000000,
+            "description": ""
+        },
+        {
+            "value": 900000000,
+            "description": ""
+        },
+        {
+            "value": 2500000000,
+            "description": ""
+        },
+        {
+            "value": 3700000000,
+            "description": ""
+        },
+        {
+            "value": 28000000000,
+            "description": ""
+        },
+        {
+            "value": 39000000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 100000000,
+            "description": ""
+        },
+        {
+            "value": 5000000,
+            "description": ""
+        },
+        {
+            "value": 10000000,
+            "description": ""
+        },
+        {
+            "value": 15000000,
+            "description": ""
+        },
+        {
+            "value": 20000000,
+            "description": ""
+        },
+        {
+            "value": 25000000,
+            "description": ""
+        },
+        {
+            "value": 30000000,
+            "description": ""
+        },
+        {
+            "value": 40000000,
+            "description": ""
+        },
+        {
+            "value": 50000000,
+            "description": ""
+        },
+        {
+            "value": 60000000,
+            "description": ""
+        },
+        {
+            "value": 70000000,
+            "description": ""
+        },
+        {
+            "value": 80000000,
+            "description": ""
+        },
+        {
+            "value": 90000000,
+            "description": ""
+        },
+        {
+            "value": 200000000,
+            "description": ""
+        },
+        {
+            "value": 400000000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "QPSK",
+            "description": "Quadrature Phase-Shift Keying"
+        },
+        {
+            "value": "QAM",
+            "description": "Quadrature Amplitude Modulation"
+        },
+        {
+            "value": "QAM",
+            "description": "Quadrature Amplitude Modulation"
+        },
+        {
+            "value": "QAM",
+            "description": "Quadrature Amplitude Modulation"
+        }
+    ],
+    "mode": [
+        {
+            "value": "CP-OFDM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ],
+    "short description": "5G cellular, also known by 3GPP '5G' NR (new radio), etc.  is a newly released cellular standard that allows for backwards compatibility with 4G LTE, and will allow for several gigabits of connection speeds, (up to 10-100Gb) per second.  This is the 600 MHz downlink band for the new standard.",
+    "description": "**New Radio** refers to the 5th generation of cellular technology (5G).\n\n5G is currently in commercial use across more than 90 countries. In the U.S, AT&T, Verizon and T-Mobile are the major 5G carriers.\n\nT-Mobile launched commercial 5G service in 2019 with 600 MHz (n71) and mmWave (n261, n260 and n258) bands. Merger with Sprint brought additional bands (n25, 1.9 GHz and n41, 2.5 GHz) for capacity. \n\n5G can be either SA (Standalone) or non-Standalone (NSA) depending on the hardware and software implementations.\n\n5G NR supports 2 distinct duplex modes, FDD and TDD. FDD, or Frequency Division Duplexing, utilizes paired spectrum with separate uplink and downlink channels. TDD, or Time Division Duplexing, allows both uplink and downlink to share the same spectrum by utilizing time slots. TDD bands such as n41, n77, and n78 are commonly used for high capacity deployments, while FDD is commonly used for coverage and stability.\n\nNR Dual Connectivity (NR-DC) is a 5G connectivity option that allows simultaneous Sub6 and mmWave connections in NR SA deployments. \n\nThe actual sound of 5G is derived from 4G, its more of a \"pulse sound\", because of the UFMC modulation component."
+}

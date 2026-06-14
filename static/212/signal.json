@@ -1,7 +1,13 @@
 {
-    "signal": {
-        "name": "HC-265 Voice Scrambler",
-        "url": "https://www.sigidwiki.com/wiki/HC-265_Voice_Scrambler"
+    "pageid": "212",
+    "title": "Japan Military 8-Channel FSK",
+    "spectrum": {
+        "filename": "Japan_8_2-fsk.jpg",
+        "url": "https://www.sigidwiki.com/images/9/9c/Japan_8_2-fsk.jpg"
+    },
+    "audio": {
+        "filename": "jp_mil.mp3",
+        "url": "https://www.sigidwiki.com/images/c/c7/Jp_mil.mp3"
     },
     "category": [
         "Military",
@@ -9,21 +15,17 @@
     ],
     "frequency": [
         {
-            "value": 3000000,
+            "value": 16553500,
             "description": ""
         },
         {
-            "value": 30000000,
+            "value": 4295000,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 2250,
-            "description": ""
-        },
-        {
-            "value": 3000,
+            "value": 2400,
             "description": ""
         }
     ],
@@ -31,7 +33,7 @@
     "modulation": [
         {
             "value": "FSK",
-            "description": ""
+            "description": "Frequency-Shift Keying"
         }
     ],
     "mode": [
@@ -42,8 +44,10 @@
     ],
     "location": [
         {
-            "value": "Worldwide",
+            "value": "Japan",
             "description": ""
         }
-    ]
+    ],
+    "short description": "Data signal thought to originate from Japanese Military/Navy",
+    "description": "Data signal thought to originate from Japanese Military/Navy. Although 8-Channels are used, it is actually two FSK channels duplicated with Orthogonal Frequency-Division Multiplexing (OFDM) among the other 6 channels for high redundancy.\n\nThe signal consists of two independent FSK-2 channels which are doubled according to a cross-schema. All four channels use the Manchester code and, with time offset between the two channels, formed using OFDM."
 }

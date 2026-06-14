@@ -1,45 +1,62 @@
 {
-    "signal": {
-        "name": "CDMA420",
-        "url": "https://www.sigidwiki.com/wiki/CDMA420"
+    "pageid": "70",
+    "title": "Vaisala RS92-SGP Weather Balloon (Radiosonde)",
+    "spectrum": {
+        "filename": "VaisalaRS92SGP.png",
+        "url": "https://www.sigidwiki.com/images/0/00/VaisalaRS92SGP.png"
+    },
+    "audio": {
+        "filename": "RS92SGP_Sound.mp3",
+        "url": "https://www.sigidwiki.com/images/a/a8/RS92SGP_Sound.mp3"
     },
     "category": [
-        "Commercial",
-        "Digital"
+        "Digital",
+        "Utility"
     ],
     "frequency": [
         {
-            "value": 410000000,
+            "value": 400150000,
             "description": ""
         },
         {
-            "value": 425000000,
+            "value": 405990000,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 2500000,
+            "value": 10000,
             "description": ""
         }
     ],
-    "acf": [],
+    "acf": [
+        {
+            "value": 1000.0,
+            "description": "Frame"
+        },
+        {
+            "value": 4.166,
+            "description": "Word"
+        }
+    ],
     "modulation": [
         {
-            "value": "QPSK",
-            "description": ""
+            "value": "GFSK",
+            "description": "Gaussian Frequency-Shift Keying"
         }
     ],
     "mode": [
         {
-            "value": "AM",
+            "value": "NFM",
             "description": ""
         }
     ],
     "location": [
         {
-            "value": "Poland",
+            "value": "Worldwide",
             "description": ""
         }
-    ]
+    ],
+    "short description": "Weather balloon (radiosonde) telemetry data.",
+    "description": "Weather balloon (radiosonde) telemetry data. Only transmits during a weather balloon launch. Uses Gaussian Frequency Shift Keying (GFSK)"
 }

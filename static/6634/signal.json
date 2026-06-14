@@ -1,0 +1,52 @@
+{
+    "pageid": "6634",
+    "title": "Russian overhead power line telemetry system",
+    "spectrum": {
+        "filename": "Pow tel 3.JPG",
+        "url": "https://www.sigidwiki.com/images/b/bf/Pow_tel_3.JPG"
+    },
+    "audio": {
+        "filename": "PL_502_khz_wiki.mp3",
+        "url": "https://www.sigidwiki.com/images/b/b3/PL_502_khz_wiki.mp3"
+    },
+    "category": [
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 50000,
+            "description": ""
+        },
+        {
+            "value": 1000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 400,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "FSK",
+            "description": "Frequency-Shift Keying"
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Russia",
+            "description": ""
+        }
+    ],
+    "short description": "Russian telemetry system, transmitted over the overhead power lines.",
+    "description": "A system for transmitting telemetry and telemechanics commands through overhead high-voltage lines."
+}

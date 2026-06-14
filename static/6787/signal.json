@@ -1,0 +1,49 @@
+{
+    "pageid": "6787",
+    "title": "PROBA 1/2 Downlink",
+    "spectrum": {
+        "filename": "Schermata del 2022-12-26 12-20-13.png",
+        "url": "https://www.sigidwiki.com/images/1/13/Schermata_del_2022-12-26_12-20-13.png"
+    },
+    "audio": {
+        "filename": null,
+        "url": null
+    },
+    "category": [
+        "Satellite",
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 2235000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 4000000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "BPSK",
+            "description": "Binary Phase-Shift Keying"
+        }
+    ],
+    "mode": [
+        {
+            "value": "RAW",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Europe",
+            "description": ""
+        }
+    ],
+    "short description": "Dump of satellite data to Redu, Belgium ground station from the PROBA (Project for On-Board Autonomy) 1, 2, and V ESA satellites.",
+    "description": "The PROBA (**Pr**oject for **O**n-**B**oard **A**utonomy) 1, 2 and V are advanced minisatellites that perform very different tasks on the same architecture."
+}

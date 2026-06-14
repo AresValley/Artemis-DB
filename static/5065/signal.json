@@ -1,0 +1,61 @@
+{
+    "pageid": "5065",
+    "title": "OrbComm Mobile Telephony",
+    "spectrum": {
+        "filename": "Watervall.png",
+        "url": "https://www.sigidwiki.com/images/0/0b/Watervall.png"
+    },
+    "audio": {
+        "filename": "Sound.mp3",
+        "url": "https://www.sigidwiki.com/images/2/2a/Sound.mp3"
+    },
+    "category": [
+        "Satellite",
+        "Digital",
+        "Utility"
+    ],
+    "frequency": [
+        {
+            "value": 137440000,
+            "description": ""
+        },
+        {
+            "value": 137460000,
+            "description": ""
+        },
+        {
+            "value": 137200000,
+            "description": ""
+        },
+        {
+            "value": 137225000,
+            "description": ""
+        },
+        {
+            "value": 137250000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 15000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [],
+    "mode": [
+        {
+            "value": "NFM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ],
+    "short description": "Orbcomm digitized mobile satellite-based telephone signal intercepted over Hawaii, preceding NOAA 19 pass.",
+    "description": "See also: [Orbcomm](https://www.sigidwiki.com/wiki/Orbcomm)"
+}

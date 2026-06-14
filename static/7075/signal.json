@@ -1,0 +1,54 @@
+{
+    "pageid": "7075",
+    "title": "Broadband Global Area Network (BGAN)",
+    "spectrum": {
+        "filename": "Bgan.png",
+        "url": "https://www.sigidwiki.com/images/9/96/Bgan.png"
+    },
+    "audio": {
+        "filename": "Bgan wfm.mp3",
+        "url": "https://www.sigidwiki.com/images/1/11/Bgan_wfm.mp3"
+    },
+    "category": [
+        "Commercial",
+        "Digital",
+        "Satellite"
+    ],
+    "frequency": [
+        {
+            "value": 1525000000,
+            "description": ""
+        },
+        {
+            "value": 1559000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 200000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "QPSK",
+            "description": "Quadrature Phase-Shift Keying"
+        }
+    ],
+    "mode": [
+        {
+            "value": "WFM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ],
+    "short description": "Proprietary satellite network owned and operated by Inmarsat that provides cellular 3G equivalent data and voice services to subscribers.",
+    "description": "**Inmarsat BGAN** is a satellite based data and voice network that provides services to subscribers in remote areas. It is designed to be an equivalent to 3G cellular with similar speed and throughput, provided the user has line of sight to a geostationary satellite."
+}

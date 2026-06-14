@@ -1,38 +1,45 @@
 {
-    "signal": {
-        "name": "Gandalf MDT",
-        "url": "https://www.sigidwiki.com/wiki/Gandalf_MDT"
+    "pageid": "201",
+    "title": "Automatic Link Establishment (2G ALE)",
+    "spectrum": {
+        "filename": "ALE2G.jpg",
+        "url": "https://www.sigidwiki.com/images/f/f9/ALE2G.jpg"
+    },
+    "audio": {
+        "filename": "2G_ALEaudio.mp3",
+        "url": "https://www.sigidwiki.com/images/a/ab/2G_ALEaudio.mp3"
     },
     "category": [
+        "Military",
         "Digital",
-        "Commercial"
+        "Amateur Radio"
     ],
     "frequency": [
         {
-            "value": 150000000,
+            "value": 3068000,
             "description": ""
         },
         {
-            "value": 450000000,
+            "value": 28312500,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 10000,
+            "value": 2000,
             "description": ""
         }
     ],
     "acf": [],
     "modulation": [
         {
-            "value": "4FSK",
-            "description": ""
+            "value": "FSK",
+            "description": "Frequency-Shift Keying"
         }
     ],
     "mode": [
         {
-            "value": "NFM",
+            "value": "USB",
             "description": ""
         }
     ],
@@ -41,5 +48,7 @@
             "value": "Worldwide",
             "description": ""
         }
-    ]
+    ],
+    "short description": "Automatic Link Establishment, 2G ALE (Official designation MIL-STD-188-141A and/or MIL-STD-188-141B (Appendix A)) is the current standardized method of establishing connections between radio operators. Also known as FED-STD 1045, FED-STD 1049, and STANAG 5066.",
+    "description": "**Automatic Link Establishment**, **2G ALE** (Official designation MIL-STD-188-141A and/or MIL-STD-188-141B (Appendix A)) is the current standardized method of establishing connections between radio operators. Also known as FED-STD 1045, FED-STD 1049, and STANAG 5066. Although an improved protocol exists ( [3G ALE](https://www.sigidwiki.com/wiki/Automatic_Link_Establishment_%283G_ALE%29)), the vast majority of ALE systems in use in the world at the present time are 2G ALE."
 }

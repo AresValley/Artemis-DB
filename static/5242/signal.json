@@ -1,0 +1,52 @@
+{
+    "pageid": "5242",
+    "title": "HP Laptop",
+    "spectrum": {
+        "filename": "Annotation 2019-04-01 161921.png",
+        "url": "https://www.sigidwiki.com/images/2/29/Annotation_2019-04-01_161921.png"
+    },
+    "audio": {
+        "filename": "SDR.wav",
+        "url": "https://www.sigidwiki.com/images/e/ef/SDR.wav"
+    },
+    "category": [
+        "Interfering"
+    ],
+    "frequency": [
+        {
+            "value": 50900,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 1500,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "USB",
+            "description": "Upper Sideband"
+        },
+        {
+            "value": "LSB",
+            "description": "Lower Sideband"
+        }
+    ],
+    "mode": [
+        {
+            "value": "CW",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ],
+    "short description": "RF Interference Signals From HP Laptop",
+    "description": "**HP EliteBook 8560W RF Interference**\n\nThis signal is emitted from the HP EliteBook 8560W.\nIt is present at all times when the laptop is powered on.\nTouching the touch pad increases the signal strength dramatically.\n\nThe signal is centered at 50.9 Khz. It swaps between 2 frequencies +- ~153 Hz from the center frequency. Each tone lasts approximately 125 ms.\n\nIt is unknown why this signal is generated, or why it acts like an idling FSK signal. It is speculated that this is unintended interference from the laptop.\n\nThe IQ file was recorded by using the built-in soundcard as a crude VLF receiver, with a random wire antenna.\nNearby VLF receivers will also hear the same thing."
+}

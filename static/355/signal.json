@@ -1,51 +1,48 @@
 {
-    "signal": {
-        "name": "OrbComm Mobile Telephony",
-        "url": "https://www.sigidwiki.com/wiki/OrbComm_Mobile_Telephony"
+    "pageid": "355",
+    "title": "Digital Audio Broadcasting Plus (DAB+)",
+    "spectrum": {
+        "filename": "Dab+.JPG",
+        "url": "https://www.sigidwiki.com/images/0/09/Dab%2B.JPG"
+    },
+    "audio": {
+        "filename": "SDRSharp 20181030 033126Z 205837723Hz AF.mp3",
+        "url": "https://www.sigidwiki.com/images/d/d1/SDRSharp_20181030_033126Z_205837723Hz_AF.mp3"
     },
     "category": [
-        "Satellite"
+        "Digital",
+        "Commercial"
     ],
     "frequency": [
         {
-            "value": 137440000,
+            "value": 174000000,
             "description": ""
         },
         {
-            "value": 137460000,
-            "description": ""
-        },
-        {
-            "value": 137200000,
-            "description": ""
-        },
-        {
-            "value": 137225000,
-            "description": ""
-        },
-        {
-            "value": 137250000,
+            "value": 230000000,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 15000,
+            "value": 1536000,
             "description": ""
         }
     ],
     "acf": [],
-    "modulation": [],
-    "mode": [
+    "modulation": [
         {
-            "value": "NFM",
-            "description": ""
+            "value": "OFDM",
+            "description": "Orthogonal Frequency-Division Multiplexing"
         }
     ],
+    "mode": [],
     "location": [
         {
             "value": "Worldwide",
             "description": ""
         }
-    ]
+    ],
+    "short description": "DAB+ is a medium of delivering broadcast radio, containing multiple stations in a single multiplex.",
+    "description": "**DAB+** is an improved standard of the original [DAB](https://www.sigidwiki.com/wiki/DAB), which uses the more efficient HE-AAC v2 audio codec. As such, most DAB receivers are not compatible with DAB+.\nThe total bitrate of the multiples is 1.136 Mbps. each carrier is roughly 1.3 Kbps in standard protection mode."
 }

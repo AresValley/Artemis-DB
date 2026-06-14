@@ -1,0 +1,49 @@
+{
+    "pageid": "8560",
+    "title": "EBRO S800 keyfob",
+    "spectrum": {
+        "filename": "EBRO-S800.jpg",
+        "url": "https://www.sigidwiki.com/images/0/09/EBRO-S800.jpg"
+    },
+    "audio": {
+        "filename": "EBRO-S800 keyfob.mp3",
+        "url": "https://www.sigidwiki.com/images/c/c1/EBRO-S800_keyfob.mp3"
+    },
+    "category": [
+        "Utility",
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 433400000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 100000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "FSK",
+            "description": "Frequency-Shift Keying"
+        }
+    ],
+    "mode": [
+        {
+            "value": "RAW",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Europe",
+            "description": ""
+        }
+    ],
+    "short description": "The EBRO keyfob is a compact wireless remote used for vehicle access and basic control functions. It features a simple, ergonomic design with clearly defined buttons for locking, unlocking, and additional vehicle commands. Built for everyday reliability, it uses low‑power radio communication to securely interact with the car’s onboard system. Its lightweight construction and keychain‑friendly form factor make it convenient to carry and operate.",
+    "description": "The EBRO keyfob is a compact wireless remote used for vehicle access and basic control functions. It features a simple, ergonomic design with clearly defined buttons for locking, unlocking, and additional vehicle commands. Built for everyday reliability, it uses low‑power radio communication to securely interact with the car’s onboard system. Its lightweight construction and keychain‑friendly form factor make it convenient to carry and operate."
+}

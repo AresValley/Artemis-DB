@@ -1,0 +1,36 @@
+{
+    "pageid": "4965",
+    "title": "Friedland Libra+ 48249SL wireless doorbell",
+    "spectrum": {
+        "filename": "48249.png",
+        "url": "https://www.sigidwiki.com/images/3/31/48249.png"
+    },
+    "audio": {
+        "filename": null,
+        "url": null
+    },
+    "category": [],
+    "frequency": [
+        {
+            "value": 868000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "FSK",
+            "description": "Frequency-Shift Keying"
+        }
+    ],
+    "mode": [],
+    "location": [
+        {
+            "value": "Finland",
+            "description": ""
+        }
+    ],
+    "short description": "",
+    "description": ""
+}

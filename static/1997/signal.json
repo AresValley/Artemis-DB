@@ -1,0 +1,58 @@
+{
+    "pageid": "1997",
+    "title": "Graw DFM-06 Weather Balloon (Radiosonde)",
+    "spectrum": {
+        "filename": "Graw.jpg",
+        "url": "https://www.sigidwiki.com/images/0/0a/Graw.jpg"
+    },
+    "audio": {
+        "filename": "DFM06 404,710 MHz.mp3",
+        "url": "https://www.sigidwiki.com/images/c/c7/DFM06_404%2C710_MHz.mp3"
+    },
+    "category": [
+        "Digital",
+        "Utility"
+    ],
+    "frequency": [
+        {
+            "value": 400010000,
+            "description": ""
+        },
+        {
+            "value": 405990000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 20000,
+            "description": ""
+        }
+    ],
+    "acf": [
+        {
+            "value": 2000.0,
+            "description": "Main"
+        }
+    ],
+    "modulation": [
+        {
+            "value": "FSK",
+            "description": "Frequency-Shift Keying"
+        }
+    ],
+    "mode": [
+        {
+            "value": "NFM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Europe",
+            "description": ""
+        }
+    ],
+    "short description": "The DFM-06 is a standard radiosonde for most applications. It is perfectly suited for synoptic observations or military applications.",
+    "description": "The **Graw DFM-06** is a standard radiosonde for most applications. It is perfectly suited for synoptic observations or military applications.\n\nIt is designed to measure the profile of atmospheric pressure, temperature, humidity, wind speed and direction, from the surface up to 40 km altitude. Continuous data sets of measurements are sent down to the ground station by a high quality radio-telemetry link."
+}

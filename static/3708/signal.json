@@ -1,0 +1,48 @@
+{
+    "pageid": "3708",
+    "title": "BPC",
+    "spectrum": {
+        "filename": "BPC.jpg",
+        "url": "https://www.sigidwiki.com/images/f/f1/BPC.jpg"
+    },
+    "audio": {
+        "filename": "CHN BPC.mp3",
+        "url": "https://www.sigidwiki.com/images/4/49/CHN_BPC.mp3"
+    },
+    "category": [
+        "Time"
+    ],
+    "frequency": [
+        {
+            "value": 68500,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 1,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "AM",
+            "description": "Amplitude Modulation"
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "China",
+            "description": ""
+        }
+    ],
+    "short description": "BPC is the callsign of the Chinese low-frequency time broadcasting station, located near Shangqiu, Henan in China.",
+    "description": "**BPC** is the callsign of a time signal broadcasting from the BPC Shangqiu Low-Frequency Time-Code Radio Station, cooperatively constructed by the National Time Service Center of the Chinese Academy of Sciences (中国科学院国家授时中心) and Xi’an Gaohua Technology Company. It was constructed on April 25, 2002."
+}

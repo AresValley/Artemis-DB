@@ -1,23 +1,57 @@
 {
-    "signal": {
-        "name": "Siemens 1.5T MRI Scanner",
-        "url": "https://www.sigidwiki.com/wiki/Siemens_1.5T_MRI_Scanner"
+    "pageid": "442",
+    "title": "PLUTO II OTH Radar",
+    "spectrum": {
+        "filename": "PLUTO_II.png",
+        "url": "https://www.sigidwiki.com/images/e/e8/PLUTO_II.png"
     },
-    "category": [],
+    "audio": {
+        "filename": "PLUTO_50_Swps_sec.mp3",
+        "url": "https://www.sigidwiki.com/images/5/51/PLUTO_50_Swps_sec.mp3"
+    },
+    "category": [
+        "Military",
+        "Radar"
+    ],
     "frequency": [
         {
-            "value": 64000000,
+            "value": 8000000,
+            "description": ""
+        },
+        {
+            "value": 38000000,
             "description": ""
         }
     ],
-    "bandwidth": [],
-    "acf": [],
-    "modulation": [],
-    "mode": [],
-    "location": [
+    "bandwidth": [
         {
-            "value": "Worldwide",
+            "value": 20000,
+            "description": ""
+        },
+        {
+            "value": 40000,
             "description": ""
         }
-    ]
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "FMCW",
+            "description": "Frequency-Modulated Continuous Wave"
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Cyprus",
+            "description": ""
+        }
+    ],
+    "short description": "PLUTO II is an Over The Horizon Radar located in the Sovereign Base Area just outside RAF Akrotiri in Cyprus. PLUTO II is very active in Europe.",
+    "description": "**PLUTO II** is an Over The Horizon Radar located in the UK Sovereign Base Area just outside the [RAF Akrotiri](http://en.wikipedia.org/wiki/RAF_Akrotiri) base in Cyprus. Uses FMCW (Frequency Modulated Continuous Wave). PLUTO has been seen with sweeprates of 25 and 50 sweeps/sec even sometimes 12.5 sweeps/sec.\n\n50 sweeps/sec with 20 kHz bandwidth is the most commonly used mode. 25 sweeps/sec with 20 kHz bandwidth is quite often used when propagation conditions are good, especially on higher frequencies. 12.5 sweeps/sec mode is rare and it is usually used with 40 kHz bandwidth. Other sweep rates, bandwidths and their combinations may exist.\n\nLike some other OTH radars, PLUTO II can operate multiple beams simultaneously on multiple frequencies.\n\nPLUTO II can be confused with the [29B6 'Kontayner\" radar](https://www.sigidwiki.com/wiki/29B6_%27Kontayner%27_OTH_Radar) but can be differentiated by its wider bandwidth, different sweep rate and \"smoother\" sound. Signal analysis will reveal FMCW operation."
 }

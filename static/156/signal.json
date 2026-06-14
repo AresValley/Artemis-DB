@@ -1,45 +1,30 @@
 {
-    "signal": {
-        "name": "Driftnet Buoy Radio Beacon",
-        "url": "https://www.sigidwiki.com/wiki/Driftnet_Buoy_Radio_Beacon"
+    "pageid": "156",
+    "title": "Portable Traffic Lights",
+    "spectrum": {
+        "filename": "PortTrafLight_Waterfall.png",
+        "url": "https://www.sigidwiki.com/images/4/43/PortTrafLight_Waterfall.png"
+    },
+    "audio": {
+        "filename": "PortTrafLight_Sound.mp3",
+        "url": "https://www.sigidwiki.com/images/a/aa/PortTrafLight_Sound.mp3"
     },
     "category": [
-        "Marine"
+        "Digital",
+        "Utility"
     ],
     "frequency": [
         {
-            "value": 1600000,
-            "description": ""
-        },
-        {
-            "value": 2850000,
-            "description": ""
-        },
-        {
-            "value": 4000000,
-            "description": ""
-        },
-        {
-            "value": 28000000,
+            "value": 154463000,
             "description": ""
         }
     ],
-    "bandwidth": [
-        {
-            "value": 1,
-            "description": ""
-        }
-    ],
+    "bandwidth": [],
     "acf": [],
-    "modulation": [
-        {
-            "value": "OOK",
-            "description": ""
-        }
-    ],
+    "modulation": [],
     "mode": [
         {
-            "value": "USB",
+            "value": "NFM",
             "description": ""
         }
     ],
@@ -48,5 +33,7 @@
             "value": "Worldwide",
             "description": ""
         }
-    ]
+    ],
+    "short description": "Signals sent from portable traffic lights that are often used at roadworks.",
+    "description": "Signals sent from portable traffic lights that are often used at roadworks."
 }

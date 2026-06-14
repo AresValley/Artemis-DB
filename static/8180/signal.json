@@ -1,0 +1,58 @@
+{
+    "pageid": "8180",
+    "title": "Altai Radiotelephone",
+    "spectrum": {
+        "filename": "Altai_Waterfall.png",
+        "url": "https://www.sigidwiki.com/images/9/91/Altai_Waterfall.png"
+    },
+    "audio": {
+        "filename": "Altai_Broadcast.wav",
+        "url": "https://www.sigidwiki.com/images/2/24/Altai_Broadcast.wav"
+    },
+    "category": [
+        "Commercial",
+        "Analogue",
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 300000000,
+            "description": ""
+        },
+        {
+            "value": 342000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 10000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "FM",
+            "description": "Frequency Modulation"
+        },
+        {
+            "value": "FSK",
+            "description": "Frequency-Shift Keying"
+        }
+    ],
+    "mode": [
+        {
+            "value": "NFM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ],
+    "short description": "The initial generation of cellular mobile radiotelecommunications, similar to trunked radio.",
+    "description": "**Altai Mobile Radiotelephone** was developed in 1968, and was deployed for use in Russia. Legacy systems are still in active use today.\n\nIn band signaling is used to connect the mobile unit to the central station in order to place voice calls Voice is transmitted over NFM analog modulation. The network is connected to the public telephone network via a PBX.\n\nThe technology was deployed for governmental use with separate networks isolated from the commercial side.\n\nIn the 1970s, the upgrade from VHF to UHF occurred. \n\nIn 1975, telecommunications companies elsewhere in the USSR including Hungary adopted the technology."
+}

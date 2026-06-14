@@ -1,0 +1,58 @@
+{
+    "pageid": "2023",
+    "title": "Thales Système 3000 Voice Scrambler",
+    "spectrum": {
+        "filename": "scrambled thales.jpg",
+        "url": "https://www.sigidwiki.com/images/8/8f/Scrambled_thales.jpg"
+    },
+    "audio": {
+        "filename": "SYS3000_VOice scrambler.mp3",
+        "url": "https://www.sigidwiki.com/images/8/86/SYS3000_VOice_scrambler.mp3"
+    },
+    "category": [
+        "Military",
+        "Analogue",
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 1500000,
+            "description": ""
+        },
+        {
+            "value": 30000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 3000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "PSK",
+            "description": "Phase-Shift Keying"
+        },
+        {
+            "value": "FSK",
+            "description": "Frequency-Shift Keying"
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ],
+    "short description": "Voice Scrambling mode from Thales Système 3000 HF Modem. Has characteristic PSK and MFSK bursts at the beginning and end of a voice transmission.",
+    "description": "Voice Scrambling mode from [Thales Système 3000 HF Modem](https://www.sigidwiki.com/wiki/Thales_Syst%C3%A8me_3000_HF_Modem). Has characteristic PSK and MFSK bursts at the beginning and end of a voice transmission. The Système 3000 is used in the TRC-3600 transceiver produced by [Thales](https://www.thalesgroup.com/en) in France.\n\nThe PSK preamble lasts 150ms, and the PSK end of transmission burst lasts 100ms. In between the bursts, there is a very brief MFSK burst right after the preamble, and right before the end of transmission PSK burst. The MFSK is likely 8-MFSK."
+}

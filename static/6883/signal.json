@@ -1,0 +1,48 @@
+{
+    "pageid": "6883",
+    "title": "MRZ-3MK Weather Balloon (radiosonde)",
+    "spectrum": {
+        "filename": "MRZ3 MK.PNG",
+        "url": "https://www.sigidwiki.com/images/0/0c/MRZ3_MK.PNG"
+    },
+    "audio": {
+        "filename": null,
+        "url": null
+    },
+    "category": [
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 1680000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 6000000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "PFM",
+            "description": "Pulse Frequency Modulation"
+        }
+    ],
+    "mode": [
+        {
+            "value": "AM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Russia",
+            "description": ""
+        }
+    ],
+    "short description": "MRZ-3MK is a Russian weather radiosonde.",
+    "description": ""
+}

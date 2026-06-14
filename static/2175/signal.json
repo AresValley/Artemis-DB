@@ -1,0 +1,85 @@
+{
+    "pageid": "2175",
+    "title": "Multiplexed Analogue Components (MAC)",
+    "spectrum": {
+        "filename": "NoWaterfallFiller.png",
+        "url": "https://www.sigidwiki.com/images/1/12/NoWaterfallFiller.png"
+    },
+    "audio": {
+        "filename": null,
+        "url": null
+    },
+    "category": [
+        "Analogue",
+        "Commercial"
+    ],
+    "frequency": [
+        {
+            "value": 54000000,
+            "description": ""
+        },
+        {
+            "value": 18000000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 7800000,
+            "description": ""
+        },
+        {
+            "value": 10500000,
+            "description": ""
+        },
+        {
+            "value": 11400000,
+            "description": ""
+        },
+        {
+            "value": 22000000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "QAM",
+            "description": "Quadrature Amplitude Modulation"
+        },
+        {
+            "value": "VSB",
+            "description": "Vestigial Sideband Modulation"
+        },
+        {
+            "value": "FM",
+            "description": "Frequency Modulation"
+        },
+        {
+            "value": "AM",
+            "description": "Amplitude Modulation"
+        },
+        {
+            "value": "PSK",
+            "description": "Phase-Shift Keying"
+        },
+        {
+            "value": "PSK",
+            "description": "Phase-Shift Keying"
+        }
+    ],
+    "mode": [
+        {
+            "value": "RAW",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ],
+    "short description": "Multiplexed Analogue Components (MAC/packet) family was a analogue television broadcasting standard. Replaced by digital broadcast.",
+    "description": "**This Article is currently in stub process. Feel free to add on to it by adding accurate images, sound files, and IF-IQ, by hitting the \"Edit\" button above this page.**\n\n**Multiplexed Analogue Components (MAC/packet)** family was a analogue television broadcasting standard. Replaced by digital broadcast."
+}

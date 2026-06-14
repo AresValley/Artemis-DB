@@ -1,0 +1,41 @@
+{
+    "pageid": "7755",
+    "title": "Google Pixel Interference",
+    "spectrum": {
+        "filename": "27MHz pulsing signal.png",
+        "url": "https://www.sigidwiki.com/images/6/69/27MHz_pulsing_signal.png"
+    },
+    "audio": {
+        "filename": "Pulsing singal 20241224 122323 27120khz.mp3",
+        "url": "https://www.sigidwiki.com/images/b/b2/Pulsing_singal_20241224_122323_27120khz.mp3"
+    },
+    "category": [],
+    "frequency": [
+        {
+            "value": 27120000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 1000000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [],
+    "mode": [
+        {
+            "value": "RAW",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ],
+    "short description": "1.925hz pulsing signal (5 pulses) that repeats every few seconds around 5-10 times, then stops for an unknown period. Strong enough to completely disrupt AGC on CB band. Signal penetrates at most a few megahertz.",
+    "description": "**This is just NFC check at 13.5 MHz this is expected near a cable and is present with any phone** [Arclamp](https://www.sigidwiki.com/wiki/User%3AArclamp) ( [talk](https://www.sigidwiki.com/wiki/User_talk%3AArclamp))\n\n**Identified** sometime earlier in 2025 - the interference is from my Google Pixel 6a. For a while I had been using it as my main SDR due to house conditions, but I've confirmed recently that on a computer, the interference comes back once I move my phone close to the RTL-SDR stick. The signal is noticeably less disruptive on the V4 stick compared to the V3 stick it was originally found on.\n\nPulsing signal (5 pulses) that repeats every few seconds around 5-10 times, then stops for an unknown period. Strong enough to completely disrupt AGC on CB band. Signal penetrates at most a few megahertz. Ticks at around 1.925hz clicking, and occasionally switches to a loud pulse mode that overloads the AGC.\n\nThe gap between being in pulse mode and click mode is mostly consistent but sometimes lasts 3 ticks instead of 2.\n\nIQ file: [LINK](https://mega.nz/file/aE5XgR5Y#eNfyRjQ5irh4sv9su_cmrEBPqaDxyShKHlWebMEYZhA)\n\n(The provided audio file is from this IQ)"
+}

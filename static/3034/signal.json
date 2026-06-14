@@ -1,0 +1,58 @@
+{
+    "pageid": "3034",
+    "title": "Israeli Navy Hybrid Modem (188-110 MOD)",
+    "spectrum": {
+        "filename": "Mil_Mod_Israeli.jpg",
+        "url": "https://www.sigidwiki.com/images/f/fe/Mil_Mod_Israeli.jpg"
+    },
+    "audio": {
+        "filename": "ISR-NY_HYBRID.mp3",
+        "url": "https://www.sigidwiki.com/images/4/4c/ISR-NY_HYBRID.mp3"
+    },
+    "category": [
+        "Military",
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 3000000,
+            "description": ""
+        },
+        {
+            "value": 30000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 2750,
+            "description": ""
+        }
+    ],
+    "acf": [
+        {
+            "value": 66.6,
+            "description": "MIL-STD body"
+        }
+    ],
+    "modulation": [
+        {
+            "value": "PSK",
+            "description": "Phase-Shift Keying"
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Israel",
+            "description": ""
+        }
+    ],
+    "short description": "The Israeli Naval Hybrid Modem is based on the MIL-STD-188-110 Serial Standard. Has characteristic preamble with 4/6 Tone and 18 QPSK parallel mode before 110 Serial transmission. Possible use as a broadcast transmitter for ships. Used by the Israeli Navy 4XZ station from Haifa.",
+    "description": "The **Israeli Naval Hybrid Modem** is based on the [MIL-STD-188-110 Serial](https://www.sigidwiki.com/wiki/MIL-STD-188-110_Serial) Standard. Has characteristic preamble with 4/6 Tone and 18 QPSK parallel mode before 110 Serial transmission. Possible use as a broadcast transmitter for ships. Used by the Israeli Navy 4XZ station from Haifa.\n\nVariations of this hybrid modem have been seen. Some start with 6 tones, others start with 4 tones. Furthermore, some have a single short 1000 Hz tone right before the 4/6 tone preamble with a length of 233ms."
+}

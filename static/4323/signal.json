@@ -1,0 +1,53 @@
+{
+    "pageid": "4323",
+    "title": "Thales SALAMANDRE (HFXL)",
+    "spectrum": {
+        "filename": "Screenshot 31.png",
+        "url": "https://www.sigidwiki.com/images/b/b3/Screenshot_31.png"
+    },
+    "audio": {
+        "filename": "June-9-antonio-HFXL-6.363200 MHz.mp3",
+        "url": "https://www.sigidwiki.com/images/0/01/June-9-antonio-HFXL-6.363200_MHz.mp3"
+    },
+    "category": [
+        "Military",
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 3000000,
+            "description": ""
+        },
+        {
+            "value": 30000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 150000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "PSK",
+            "description": "Phase-Shift Keying"
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ],
+    "short description": "Thales SALAMANDRE (using HFXL waveform) uses up to 16 separate contiguous or not-contiguous narrowband HF channels for high datarate military and tactical communications. Operates on a modified STANAG-4539 platform.",
+    "description": "**Thales SALAMANDRE** (using **HFXL** waveform) uses uses up to 16 separate contiguous or not-contiguous narrowband HF channels for high datarate military and tactical communications. Operates on a modified STANAG-4539 platform.\n\n- Credits to ANgazu, Antonio, and KarapuZ for the find and analysis.*"
+}

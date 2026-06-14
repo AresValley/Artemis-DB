@@ -1,0 +1,65 @@
+{
+    "pageid": "1329",
+    "title": "ISCAT",
+    "spectrum": {
+        "filename": "ISCAT-A_Sim.jpg",
+        "url": "https://www.sigidwiki.com/images/0/03/ISCAT-A_Sim.jpg"
+    },
+    "audio": {
+        "filename": "ISCAT-A_simulated.mp3",
+        "url": "https://www.sigidwiki.com/images/d/dd/ISCAT-A_simulated.mp3"
+    },
+    "category": [
+        "Amateur Radio",
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 50000000,
+            "description": ""
+        },
+        {
+            "value": 54000000,
+            "description": ""
+        },
+        {
+            "value": 144000000,
+            "description": ""
+        },
+        {
+            "value": 148000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 904,
+            "description": ""
+        },
+        {
+            "value": 1809,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "FSK",
+            "description": "Frequency-Shift Keying"
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ],
+    "short description": "Ionospheric Scattering (ISCAT) mode used for weak signal long distance radio contact by meteor and Ionosphere scattering.",
+    "description": "**Ionospheric Scattering (ISCAT)** mode used for weak signal long distance radio contact by meteor and Ionosphere scattering.\n\nISCAT has two sub-modes: ISCAT-B and ISCAT-A. ISCAT-B is the original ISCAT mode with total bandwidth 1809 Hz. ISCAT-A runs at half the rate, uses half the bandwidth, and (for average decodes on steady signals) is about 1 dB more sensitive."
+}

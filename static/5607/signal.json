@@ -1,0 +1,49 @@
+{
+    "pageid": "5607",
+    "title": "Electric Fence Remote Control",
+    "spectrum": {
+        "filename": "SIGNAL-LINSEG.png",
+        "url": "https://www.sigidwiki.com/images/f/ff/SIGNAL-LINSEG.png"
+    },
+    "audio": {
+        "filename": "Linseg Remote Control Signal.mp3",
+        "url": "https://www.sigidwiki.com/images/8/8f/Linseg_Remote_Control_Signal.mp3"
+    },
+    "category": [
+        "Utility",
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 433920000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 10000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "AM",
+            "description": "Amplitude Modulation"
+        }
+    ],
+    "mode": [
+        {
+            "value": "AM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ],
+    "short description": "This signal comes from an RF remote control device that transmits in UHF over 433.92MHz and controls the arming and disarming system of an electric fence.",
+    "description": "The signal comes from a LINSEG brand electric fence security key, model PTV0009.\n\nIt has 4 buttons with different functions, each pulse runs the signal emitted around 4KHz over its center frequency, eventually with different data transmitted to its reception box of the electric fence."
+}

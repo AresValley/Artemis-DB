@@ -1,0 +1,53 @@
+{
+    "pageid": "6601",
+    "title": "Ethernet Over Powerline",
+    "spectrum": {
+        "filename": "Powerline Over Ethernet.png",
+        "url": "https://www.sigidwiki.com/images/9/97/Powerline_Over_Ethernet.png"
+    },
+    "audio": {
+        "filename": "Powerline over Ethernet.wav",
+        "url": "https://www.sigidwiki.com/images/f/f7/Powerline_over_Ethernet.wav"
+    },
+    "category": [
+        "Digital",
+        "Interfering"
+    ],
+    "frequency": [
+        {
+            "value": 0,
+            "description": ""
+        },
+        {
+            "value": 60000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 60000000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "PAM",
+            "description": "Pulse Amplitude Modulation"
+        }
+    ],
+    "mode": [
+        {
+            "value": "AM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ],
+    "short description": "Ethernet Over Powerline, is an alternative way to reach ethernet cables through a set of adapters that go into outlets that can be plugged directly in the router instead of routing cables all the way from one end of a building to another.  It creates the Pulse-Amplitude modulation that ethernet uses, over the RF waves, and can reach a bandwidth of 60 MHz depending on certain conditions. It can cause enormous interference in HF and lower VHF.",
+    "description": "Ethernet over powerline is a method of utilizing mains cabling for local area networking. It can cause major interference on HF, lower VHF and possibly MF and LF frequency ranges."
+}

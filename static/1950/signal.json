@@ -1,0 +1,52 @@
+{
+    "pageid": "1950",
+    "title": "Automatic Link Set-up (ALIS)",
+    "spectrum": {
+        "filename": "ALIS.jpg",
+        "url": "https://www.sigidwiki.com/images/9/94/ALIS.jpg"
+    },
+    "audio": {
+        "filename": "alis.mp3",
+        "url": "https://www.sigidwiki.com/images/2/20/Alis.mp3"
+    },
+    "category": [
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 3000000,
+            "description": ""
+        },
+        {
+            "value": 30000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 270,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "FSK",
+            "description": "Frequency-Shift Keying"
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ],
+    "short description": "Automatic Link Set-up (ALIS) is an automatic link system used by Rohde & Schwarz modems.",
+    "description": "**Automatic Link Set-up (ALIS)** is an automatic link system used by [Rohde & Schwarz](https://www.rohde-schwarz.com/en/home_48230.html) modems. Used in the same way as ALE. Primarily uses FSK with 228.66 Bd (variable from 30-650 Bd), and a FSK shift of 170 Hz. ALIS also uses ARQ / PRP for error correction. An improved version of ALIS was made, called [ALIS-2](https://www.sigidwiki.com/wiki/Improved_Automatic_Link_Set-up_%28ALIS-2%29)\n\nALIS is described in report 551-2 of the ITU \"Reports of the CCIR 1990 - Fixed Services at Frequencies below about 30 MHz\"."
+}

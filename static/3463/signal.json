@@ -1,0 +1,101 @@
+{
+    "pageid": "3463",
+    "title": "4G (LTE) Long Term Evolution Uplink",
+    "spectrum": {
+        "filename": "LTE_O2_10_uplink-data download.jpg",
+        "url": "https://www.sigidwiki.com/images/a/a2/LTE_O2_10_uplink-data_download.jpg"
+    },
+    "audio": {
+        "filename": "LTEuplink.mp3",
+        "url": "https://www.sigidwiki.com/images/9/91/LTEuplink.mp3"
+    },
+    "category": [
+        "Commercial",
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 700000000,
+            "description": ""
+        },
+        {
+            "value": 800000000,
+            "description": ""
+        },
+        {
+            "value": 900000000,
+            "description": ""
+        },
+        {
+            "value": 1700000000,
+            "description": ""
+        },
+        {
+            "value": 1900000000,
+            "description": ""
+        },
+        {
+            "value": 2500000000,
+            "description": ""
+        },
+        {
+            "value": 3500000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 5000000,
+            "description": ""
+        },
+        {
+            "value": 1400000,
+            "description": ""
+        },
+        {
+            "value": 3000000,
+            "description": ""
+        },
+        {
+            "value": 10000000,
+            "description": ""
+        },
+        {
+            "value": 15000000,
+            "description": ""
+        },
+        {
+            "value": 20000000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "QPSK",
+            "description": "Quadrature Phase-Shift Keying"
+        },
+        {
+            "value": "QAM",
+            "description": "Quadrature Amplitude Modulation"
+        },
+        {
+            "value": "QAM",
+            "description": "Quadrature Amplitude Modulation"
+        }
+    ],
+    "mode": [
+        {
+            "value": "SC-FDMA",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ],
+    "short description": "Acquired via telecommunications carrier hardware during interference investigation of an Australian cellular network.",
+    "description": ""
+}

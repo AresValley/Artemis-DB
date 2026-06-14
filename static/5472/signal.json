@@ -1,0 +1,43 @@
+{
+    "pageid": "5472",
+    "title": "Wireless Hydrophone System (WHS)",
+    "spectrum": {
+        "filename": "Výstřižek.PNG",
+        "url": "https://www.sigidwiki.com/images/f/f7/V%C3%BDst%C5%99i%C5%BEek.PNG"
+    },
+    "audio": {
+        "filename": "Video.mp3",
+        "url": "https://www.sigidwiki.com/images/7/7b/Video.mp3"
+    },
+    "category": [
+        "Utility"
+    ],
+    "frequency": [
+        {
+            "value": 434225000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "PPM",
+            "description": "Pulse Position Modulation"
+        }
+    ],
+    "mode": [
+        {
+            "value": "RAW",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Europe",
+            "description": ""
+        }
+    ],
+    "short description": "",
+    "description": "[:File:WHS.wav](https://www.sigidwiki.com/wiki/%3AFile%3AWHS.wav)"
+}

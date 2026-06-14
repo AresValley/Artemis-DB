@@ -1,0 +1,51 @@
+{
+    "pageid": "5430",
+    "title": "MFJ-269C Antenna SWR Analyzer",
+    "spectrum": {
+        "filename": "Gqrx_wf_20190607_204049.png",
+        "url": "https://www.sigidwiki.com/images/d/d7/Gqrx_wf_20190607_204049.png"
+    },
+    "audio": {
+        "filename": "MFJ.mp3",
+        "url": "https://www.sigidwiki.com/images/b/b4/MFJ.mp3"
+    },
+    "category": [
+        "Analogue"
+    ],
+    "frequency": [
+        {
+            "value": 500000,
+            "description": ""
+        },
+        {
+            "value": 500000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 1000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [],
+    "mode": [
+        {
+            "value": "AM",
+            "description": ""
+        },
+        {
+            "value": "NFM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ],
+    "short description": "Popular antenna analyzer among ham operators and the like. Output power is only ~20mW so if heard, source is nearby. Other MFJ models may be similar.",
+    "description": "MFJ's line of antenna analyzers are extremely popular due in part to their simplicity and ease of use. One feature is the ability to attach an antenna and get a rough idea of its center frequency and usable bandwidth among other things. This necessitates the injection of a small signal in order to make these measurements that may be heard nearby."
+}

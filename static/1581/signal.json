@@ -1,0 +1,57 @@
+{
+    "pageid": "1581",
+    "title": "CIS-112",
+    "spectrum": {
+        "filename": "CIS-112 pramb.jpg",
+        "url": "https://www.sigidwiki.com/images/7/75/CIS-112_pramb.jpg"
+    },
+    "audio": {
+        "filename": "CIS-112 preambles.mp3",
+        "url": "https://www.sigidwiki.com/images/9/95/CIS-112_preambles.mp3"
+    },
+    "category": [
+        "Military",
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 3000000,
+            "description": ""
+        },
+        {
+            "value": 30000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 3000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "PSK",
+            "description": "Phase-Shift Keying"
+        },
+        {
+            "value": "OFDM",
+            "description": "Orthogonal Frequency-Division Multiplexing"
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Russia",
+            "description": ""
+        }
+    ],
+    "short description": "CIS-112 OFDM signal. Has a preamble of 7 Tones (not including carrier), then 56 tones before entering into the 112 tone data transmission.",
+    "description": "**CIS-112** OFDM signal. Has a preamble of 8 Tones (including carrier), then a 56 tone OFDM preamble before entering into the 112 tone data transmission. Each channel uses DQPSK at 22.22 baud. As with all MPSK CIS signals, there is a pilot tone 3300 Hz from the suppressed carrier."
+}

@@ -1,0 +1,53 @@
+{
+    "pageid": "3682",
+    "title": "Vaisala RS41-SG Weather Balloon (Radiosonde)",
+    "spectrum": {
+        "filename": "RS41.jpg",
+        "url": "https://www.sigidwiki.com/images/a/a7/RS41.jpg"
+    },
+    "audio": {
+        "filename": "RS41.mp3",
+        "url": "https://www.sigidwiki.com/images/f/ff/RS41.mp3"
+    },
+    "category": [
+        "Digital",
+        "Utility"
+    ],
+    "frequency": [
+        {
+            "value": 400000000,
+            "description": ""
+        },
+        {
+            "value": 406000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 4800,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "GFSK",
+            "description": "Gaussian Frequency-Shift Keying"
+        }
+    ],
+    "mode": [
+        {
+            "value": "NFM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ],
+    "short description": "Weather balloon (radiosonde) telemetry data.",
+    "description": "**Vaisala RS41-SG and RS41-SGP Weather Balloons**. \n\nCurrently in the United States, the National Oceanic and Atmospheric Administration (NOAA) is in the process transitioning some of it's National Weather Service (NWS) offices that are part of the upper-air observation program to the [Graw DFM-17 radiosonde](https://www.sigidwiki.com/wiki/Graw_DFM-17_(Radiosonde)). Other offices are being transitioned to different variations of the Vaisala RS-41 Radiosonde A list of upper-air sites and their new radiosonde types can be found [here on the weather.gov website](https://www.weather.gov/media/upperair/Documents/Upper%20Air%20Sites%20Ground%20Equipment%20and%20Radiosonde%20Types.pdf)."
+}

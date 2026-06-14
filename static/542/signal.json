@@ -1,0 +1,65 @@
+{
+    "pageid": "542",
+    "title": "Link-11",
+    "spectrum": {
+        "filename": "Link-11Waterfall.png",
+        "url": "https://www.sigidwiki.com/images/b/bd/Link-11Waterfall.png"
+    },
+    "audio": {
+        "filename": "TDLaudiofile.mp3",
+        "url": "https://www.sigidwiki.com/images/f/fb/TDLaudiofile.mp3"
+    },
+    "category": [
+        "Military",
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 2000000,
+            "description": ""
+        },
+        {
+            "value": 29999900,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 2500,
+            "description": ""
+        },
+        {
+            "value": 3000,
+            "description": ""
+        },
+        {
+            "value": 5000,
+            "description": ""
+        },
+        {
+            "value": 6000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "PSK",
+            "description": "Phase-Shift Keying"
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ],
+    "short description": "Link-11 (Also known as ALLIGATOR, STANAG 5511, TADIL-A, MIL-STD-6011, and MIL-STD-188-203-1A) is a Tactical Data Link standard (formerly known as Tactical Digital Information Link (TADIL) used by NATO and the US Military for Maritime Tactical Data Exchange.",
+    "description": "**Link-11** (Also known as ALLIGATOR, STANAG 5511, TADIL-A, MIL-STD-6011, and MIL-STD-188-203-1A) is a Tactical Data Link standard (formerly known as Tactical Digital Information Link (TADIL) used by NATO and the US Military for Maritime Tactical Data Exchange. \n\nLink 11 is used to exchange digital information among airborne, land-based, and ship-board tactical data systems. It is the primary means to exchange data such as radar tracking information beyond line of sight. In addition, it is used for radar coordination and weapons fire control.\n\nThis page refers to the main Link-11 waveform used in MF and HF bands. There is also a [UHF version of LINK-11](https://www.sigidwiki.com/wiki/Link-11_%28UHF%29) used in the UHF band for line-of-sight operations.\n\n \nLink-11 is due to be replaced by [Link 22](http://en.wikipedia.org/wiki/Link_22)"
+}

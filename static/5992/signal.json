@@ -1,0 +1,48 @@
+{
+    "pageid": "5992",
+    "title": "Instrument Landing System",
+    "spectrum": {
+        "filename": "Ils waterfall.png",
+        "url": "https://www.sigidwiki.com/images/c/c5/Ils_waterfall.png"
+    },
+    "audio": {
+        "filename": "Ils sound.mp3",
+        "url": "https://www.sigidwiki.com/images/8/80/Ils_sound.mp3"
+    },
+    "category": [
+        "Aviation",
+        "Navigation"
+    ],
+    "frequency": [
+        {
+            "value": 108000000,
+            "description": ""
+        },
+        {
+            "value": 335000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 15000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [],
+    "mode": [
+        {
+            "value": "AM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ],
+    "short description": "Radio navigation system that allows aircraft to perform precision approaches in low visibility conditions.",
+    "description": "Instrument Landing Systems are installed at the end of airport runways, and provide guidance to aircraft inbound to land. It is a dual-band system that uses the VHF airband for the localiser (horizontal axis), and the UHF airband for the glide path (vertical axis).\nThe signal is amplitude modulated with 90 Hz and 150 Hz tones, which are directionally transmitted in such a way that the carriers overlap, forming the path for aircraft to follow.\nA CW identifier is also transmitted, which allows pilots to check they have intercepted the correct ILS.\nOlder ILS systems may still have [marker beacons](https://www.sigidwiki.com/wiki/ILS_Marker_Beacon) placed at fixed positions along the approach, but are being phased out in favour of Distance Measuring Equipment (DME)."
+}

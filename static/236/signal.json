@@ -1,41 +1,35 @@
 {
-    "signal": {
-        "name": "IRA-ARQ",
-        "url": "https://www.sigidwiki.com/wiki/IRA-ARQ"
+    "pageid": "236",
+    "title": "ISM Band Weather sensor",
+    "spectrum": {
+        "filename": "Alecto_wxthmb.png",
+        "url": "https://www.sigidwiki.com/images/6/64/Alecto_wxthmb.png"
+    },
+    "audio": {
+        "filename": "Alecto_wx.mp3",
+        "url": "https://www.sigidwiki.com/images/c/ca/Alecto_wx.mp3"
     },
     "category": [
-        "Digital"
+        "Digital",
+        "Utility"
     ],
     "frequency": [
         {
-            "value": 3000000,
-            "description": ""
-        },
-        {
-            "value": 30000000,
+            "value": 433000000,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 650,
-            "description": ""
-        },
-        {
-            "value": 1350,
+            "value": 4400,
             "description": ""
         }
     ],
     "acf": [],
-    "modulation": [
-        {
-            "value": "FSK",
-            "description": ""
-        }
-    ],
+    "modulation": [],
     "mode": [
         {
-            "value": "USB",
+            "value": "AM",
             "description": ""
         }
     ],
@@ -44,5 +38,7 @@
             "value": "Worldwide",
             "description": ""
         }
-    ]
+    ],
+    "short description": "Data returned from a consumer weather sensor using the AlectoV1 protocol.",
+    "description": "Data returned from a consumer weather sensor using the AlectoV1 protocol. Signal is On-Off-Keyed (OOK), 36bit packets."
 }

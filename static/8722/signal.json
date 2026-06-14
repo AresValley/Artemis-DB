@@ -1,0 +1,56 @@
+{
+    "pageid": "8722",
+    "title": "Microwave motion sensor (doppler radar module)",
+    "spectrum": {
+        "filename": "MWlamp.jpg",
+        "url": "https://www.sigidwiki.com/images/4/43/MWlamp.jpg"
+    },
+    "audio": {
+        "filename": "MWlamp.mp3",
+        "url": "https://www.sigidwiki.com/images/0/0b/MWlamp.mp3"
+    },
+    "category": [
+        "Utility"
+    ],
+    "frequency": [
+        {
+            "value": 5820000000,
+            "description": ""
+        },
+        {
+            "value": 5840000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 100,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "CW",
+            "description": "Continuous Wave"
+        }
+    ],
+    "mode": [
+        {
+            "value": "CW",
+            "description": ""
+        },
+        {
+            "value": "RAW",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ],
+    "short description": "Microwave motion sensor uses a small Doppler radar module to detect movement. The sensor emits microwave signals and monitors the reflected waves.",
+    "description": "A e.g. luminaire equipped with a **microwave motion sensor** uses a small Doppler radar module to detect movement. The sensor emits low‑power microwave signals and monitors the reflected waves. When motion causes a Doppler shift, the sensor triggers the light to switch on or adjust brightness. This makes the fixture highly sensitive, capable of detecting motion even through thin materials like glass or plastic.\n\nMost commercial microwave motion sensors use Continuous‑Wave Doppler Modulation. The sensor transmits a continuous unmodulated carrier at around 5.8 GHz. Motion is detected by analyzing the frequency shift in the reflected signal. The output is a low‑frequency Doppler signal proportional to movement speed.\n\nSome modules use FMCW or FSK variants, but only in more advanced presence‑detection sensors. Standard lighting sensors are almost always CW.\n\nThe RF bandwidth of the transmitted signal is very narrow, usually a few MHz or less. Many modules specify 1–20 MHz occupied bandwidth. The Doppler output (baseband) is only tens to hundreds of Hz, depending on motion speed."
+}

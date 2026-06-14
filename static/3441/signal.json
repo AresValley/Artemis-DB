@@ -1,0 +1,56 @@
+{
+    "pageid": "3441",
+    "title": "Yugoslavian 16-Tone Modem",
+    "spectrum": {
+        "filename": "YUG 16 tone.jpg",
+        "url": "https://www.sigidwiki.com/images/c/c9/YUG_16_tone.jpg"
+    },
+    "audio": {
+        "filename": "YUG16-TONE.mp3",
+        "url": "https://www.sigidwiki.com/images/7/7b/YUG16-TONE.mp3"
+    },
+    "category": [
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 3000000,
+            "description": ""
+        },
+        {
+            "value": 30000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 2100,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "PSK",
+            "description": "Phase-Shift Keying"
+        },
+        {
+            "value": "OFDM",
+            "description": "Orthogonal Frequency-Division Multiplexing"
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Europe",
+            "description": ""
+        }
+    ],
+    "short description": "The Yugoslavian 16-Tone Modem, also known as YUG-Diplo 16-Tone, is a 16 tone OFDM PSK modem used in former Yugoslavia for diplomatic use. No longer used today.",
+    "description": "The **Yugoslavian 16-Tone Modem**, also known as YUG-Diplo 16-Tone, is a 16 tone OFDM PSK modem used in former Yugoslavia for diplomatic use. No longer used today."
+}

@@ -1,0 +1,57 @@
+{
+    "pageid": "1219",
+    "title": "CIS-36-50",
+    "spectrum": {
+        "filename": "CIS-36-50.jpg",
+        "url": "https://www.sigidwiki.com/images/1/10/CIS-36-50.jpg"
+    },
+    "audio": {
+        "filename": "36-50.mp3",
+        "url": "https://www.sigidwiki.com/images/d/d7/36-50.mp3"
+    },
+    "category": [
+        "Military",
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 3000000,
+            "description": ""
+        },
+        {
+            "value": 30000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 300,
+            "description": ""
+        },
+        {
+            "value": 550,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "FSK",
+            "description": "Frequency-Shift Keying"
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Russia",
+            "description": ""
+        }
+    ],
+    "short description": "CIS-36-50, also known as BEE-36, is an FSK modem used by the Russian Navy.",
+    "description": "**CIS-36-50**, also known as BEE-36, is an FSK modem used by the Russian Navy. Can be seen with 36, 50, 75, 100 and 150 Bd rates, as well as shifts of 85, 125, 250 and 500 Hz, variable 50-3500 Bd."
+}

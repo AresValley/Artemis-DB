@@ -1,0 +1,53 @@
+{
+    "pageid": "2903",
+    "title": "CV-786",
+    "spectrum": {
+        "filename": "CV-786.jpg",
+        "url": "https://www.sigidwiki.com/images/1/17/CV-786.jpg"
+    },
+    "audio": {
+        "filename": "cv-786.mp3",
+        "url": "https://www.sigidwiki.com/images/6/66/Cv-786.mp3"
+    },
+    "category": [
+        "Digital",
+        "Military"
+    ],
+    "frequency": [
+        {
+            "value": 3000000,
+            "description": ""
+        },
+        {
+            "value": 30000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 900,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "FSK",
+            "description": "Frequency-Shift Keying"
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ],
+    "short description": "CV-786 is a wideband FSK mode built in Rockwell-Collins MDM-2001 modems. Also known as TRC-75, as it was used in TRC-75 transceivers. A military-based Radio TeleTYpe mode.",
+    "description": "**CV-786** is a wideband FSK mode built in Rockwell-Collins MDM-2001 modems (MDM = MultimoDe Modem). Also known as TRC-75, as it was used in TRC-75 transceivers. A military-based Radio TeleTYpe mode. Uses 850 Hz Shift and uses between 50-150 bd. \n\n- Center Frequency: 2000 Hz\n- Mark Tone: 2425 Hz\n- Space Tone: 1575 Hz"
+}

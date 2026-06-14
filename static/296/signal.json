@@ -1,10 +1,16 @@
 {
-    "signal": {
-        "name": "MIL-STD-188-110 Appendix A 16-Tone",
-        "url": "https://www.sigidwiki.com/wiki/MIL-STD-188-110_Appendix_A_16-Tone"
+    "pageid": "296",
+    "title": "SITOR-A",
+    "spectrum": {
+        "filename": "SITOR-A.jpg",
+        "url": "https://www.sigidwiki.com/images/f/fc/SITOR-A.jpg"
+    },
+    "audio": {
+        "filename": "ARQ-AMTOR.mp3",
+        "url": "https://www.sigidwiki.com/images/6/6f/ARQ-AMTOR.mp3"
     },
     "category": [
-        "Military",
+        "Marine",
         "Digital"
     ],
     "frequency": [
@@ -19,19 +25,20 @@
     ],
     "bandwidth": [
         {
-            "value": 2100,
+            "value": 350,
             "description": ""
         }
     ],
-    "acf": [],
+    "acf": [
+        {
+            "value": 450.0,
+            "description": "Main"
+        }
+    ],
     "modulation": [
         {
-            "value": "PSK",
-            "description": ""
-        },
-        {
-            "value": "OFDM",
-            "description": ""
+            "value": "FSK",
+            "description": "Frequency-Shift Keying"
         }
     ],
     "mode": [
@@ -45,5 +52,7 @@
             "value": "Worldwide",
             "description": ""
         }
-    ]
+    ],
+    "short description": "SITOR-A (Also known as AMTOR-A) is one of two modes of SITOR, which stands for Simplex Teletype Over Radio.",
+    "description": "**SITOR-A** is one of two modes of SITOR, which stands for Simplex Teletype Over Radio. Based on CCIR 476-4. It was formerly used to transmit maritime short messages, however the maritime industry is gradually moving away from using this mode in favor of PACTOR. AMTOR is a type of SITOR used by amateur radio operators.\n\nSITOR-A has been seed with shifts of 170 Hz, 300 Hz, 400 Hz, and 850 Hz. SITOR-A is most commonly used with 170 Hz shift and 100 Bd."
 }

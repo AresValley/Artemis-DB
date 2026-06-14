@@ -1,0 +1,62 @@
+{
+    "pageid": "5171",
+    "title": "IMet-1 RS Radiosonde",
+    "spectrum": {
+        "filename": "WhatsApp Image 2018-12-29 at 21.08.30 (2).jpeg",
+        "url": "https://www.sigidwiki.com/images/5/58/WhatsApp_Image_2018-12-29_at_21.08.30_%282%29.jpeg"
+    },
+    "audio": {
+        "filename": "Untitled (mp3cut.net).mp3",
+        "url": "https://www.sigidwiki.com/images/0/01/Untitled_%28mp3cut.net%29.mp3"
+    },
+    "category": [],
+    "frequency": [
+        {
+            "value": 402000000,
+            "description": ""
+        },
+        {
+            "value": 406000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 10000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "AFSK",
+            "description": "Audio Frequency-Shift Keying"
+        }
+    ],
+    "mode": [
+        {
+            "value": "NFM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Israel",
+            "description": ""
+        },
+        {
+            "value": "Belgium",
+            "description": ""
+        },
+        {
+            "value": "United States",
+            "description": ""
+        },
+        {
+            "value": "South Africa",
+            "description": ""
+        }
+    ],
+    "short description": "Radiosonde launched on a weather balloon.",
+    "description": "This Radiosonde is mostly used in Israel, Belgium, USA as well as South Africa. The IMET range of radiosondes is manufactured by Intermet [https://www.intermet.co] www.intermet.co\nThe iMet 54 is the latest product in the Intermet range. The iMet 4 is a more modern radiosonde, and more compact while the iMet 1 is an older model which is almost not used in 2021.\nIt also has a bit wider bandwidth."
+}

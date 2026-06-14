@@ -1,0 +1,69 @@
+{
+    "pageid": "1236",
+    "title": "Contestia",
+    "spectrum": {
+        "filename": "Contestiathmb.png",
+        "url": "https://www.sigidwiki.com/images/3/34/Contestiathmb.png"
+    },
+    "audio": {
+        "filename": "Contestia_8-250.mp3",
+        "url": "https://www.sigidwiki.com/images/c/c9/Contestia_8-250.mp3"
+    },
+    "category": [
+        "Amateur Radio",
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 3000000,
+            "description": ""
+        },
+        {
+            "value": 30000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 150,
+            "description": ""
+        },
+        {
+            "value": 250,
+            "description": ""
+        },
+        {
+            "value": 500,
+            "description": ""
+        },
+        {
+            "value": 1000,
+            "description": ""
+        },
+        {
+            "value": 2000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "FSK",
+            "description": "Frequency-Shift Keying"
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ],
+    "short description": "Contestia, developed by  Nick Fedoseev (UT2UZ) in 2005, is a digital mode derived from Olivia. It aims to deliver a compromise of speed and performance.",
+    "description": "**Contestia**, developed by Nick Fedoseev (UT2UZ) in 2005, is a digital mode derived from [Olivia](https://www.sigidwiki.com/wiki/Olivia). It aims to deliver a compromise of speed and performance.\n\nContestia performs very well under weak signal conditions. It decodes below the noise level but Olivia still outperforms it in this area by about 1.5 - 3db depending on configuration. Despite this, Contestia performs twice as fast as Olivia comparatively (e.g. Contestia 8/250 is twice as fast as Olivia 8/250). Contestia uses a block size of 32 where Olivia uses a block size of 64. Contestia also uses a modified alphabet that's 6-bit encoded."
+}

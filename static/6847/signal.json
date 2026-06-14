@@ -1,0 +1,74 @@
+{
+    "pageid": "6847",
+    "title": "COFDMTV",
+    "spectrum": {
+        "filename": "COFDMTV2.png",
+        "url": "https://www.sigidwiki.com/images/d/d2/COFDMTV2.png"
+    },
+    "audio": {
+        "filename": "mode13.wav",
+        "url": "https://www.sigidwiki.com/images/9/96/Mode13.wav"
+    },
+    "category": [
+        "Digital"
+    ],
+    "frequency": [],
+    "bandwidth": [
+        {
+            "value": 1600,
+            "description": ""
+        },
+        {
+            "value": 2500,
+            "description": ""
+        },
+        {
+            "value": 2700,
+            "description": ""
+        },
+        {
+            "value": 3200,
+            "description": ""
+        },
+        {
+            "value": 2250,
+            "description": ""
+        },
+        {
+            "value": 2400,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "OFDM",
+            "description": "Orthogonal Frequency-Division Multiplexing"
+        },
+        {
+            "value": "PSK",
+            "description": "Phase-Shift Keying"
+        },
+        {
+            "value": "QPSK",
+            "description": "Quadrature Phase-Shift Keying"
+        }
+    ],
+    "mode": [
+        {
+            "value": "SSB",
+            "description": ""
+        },
+        {
+            "value": "FM",
+            "description": ""
+        },
+        {
+            "value": "AM",
+            "description": ""
+        }
+    ],
+    "location": [],
+    "short description": "COFDMTV is an easy-to-use picture transmission mode based on Coded Orthogonal Frequency-Division Multiplexing (COFDM).",
+    "description": "The modes allow for a payload of up to 5380 bytes.\nCOFDMTV is based on COFDM (coded orthogonal frequency-division multiplexing) technology:\n\n- 160 ms long OFDM symbols\n\n- 6.25 Hz per sub-carrier\n\n- 1⁄8 guard interval\n\n- Differentially encoded PSK (phase-shift keying) modulation\n\n- Systematic polar codes for forward error correction"
+}

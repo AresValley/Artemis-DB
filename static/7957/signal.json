@@ -1,0 +1,60 @@
+{
+    "pageid": "7957",
+    "title": "P03 numbers station",
+    "spectrum": {
+        "filename": "P03k strong.png",
+        "url": "https://www.sigidwiki.com/images/5/56/P03k_strong.png"
+    },
+    "audio": {
+        "filename": "P03k strong.mp3",
+        "url": "https://www.sigidwiki.com/images/8/88/P03k_strong.mp3"
+    },
+    "category": [
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 4000000,
+            "description": ""
+        },
+        {
+            "value": 21000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 200,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "BPSK",
+            "description": "Binary Phase-Shift Keying"
+        },
+        {
+            "value": "QPSK",
+            "description": "Quadrature Phase-Shift Keying"
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        },
+        {
+            "value": "Poland",
+            "description": ""
+        }
+    ],
+    "short description": "Enigma designation P03 is a family of digital PSK modes, used by the \"Polish 11\" numbers station operator, which is likely a Polish intelligence agency.",
+    "description": "**P03** is a family of digital PSK modes that are used by the \"Polish 11\" numbers station operator. This operator is likely a Polish intelligence agency.\n\nP03 has at least 8 sub-modes, P03e to P03l. P03 modes use very narrow bandwidth so transmissions can be hard to notice and may be mistaken with QRM. \n\nP03 is closely related to [F03](https://www.sigidwiki.com/wiki/F03_numbers_station) which is used by the same operator. P03 and F03 are the successors of [Polish Intelligence 100bd 625 Hz FSK](https://www.sigidwiki.com/wiki/Polish_Intelligence_100bd_625Hz_FSK), also known as F11. \n\n| Mode | Modulation | Baud Rate | Center freq | Period |\n| --- | --- | --- | --- | --- |\n| P03e | QPSK | 100 bd | +1000 Hz | 488 bits |\n| P03f | QPSK | 200 bd | +1000 Hz | 496 bits |\n| P03g | BPSK | 50 bd | +1000 Hz | 464 bits |\n| P03h | BPSK | 100 bd | +1000 Hz | 512 bits |\n| P03i | BPSK | 62.5 bd | +1000 Hz | 464 bits |\n| P03j | QPSK | 100 bd | +1000 Hz | 504 bits |\n| P03k | BPSK | 100 bd | +1000 Hz | 480 bits |\n| P03l | QPSK | 100 bd | +1000 Hz | 464 bits |"
+}

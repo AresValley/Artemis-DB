@@ -1,0 +1,53 @@
+{
+    "pageid": "1214",
+    "title": "CIS 3x144 VFT",
+    "spectrum": {
+        "filename": "CIS3x144bdtfc.jpg",
+        "url": "https://www.sigidwiki.com/images/3/31/CIS3x144bdtfc.jpg"
+    },
+    "audio": {
+        "filename": "CIS144.mp3",
+        "url": "https://www.sigidwiki.com/images/d/d5/CIS144.mp3"
+    },
+    "category": [
+        "Military",
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 3000000,
+            "description": ""
+        },
+        {
+            "value": 30000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 3100,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "FSK",
+            "description": "Frequency-Shift Keying"
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Russia",
+            "description": ""
+        }
+    ],
+    "short description": "Three 144 Bd FSK signals in a 3100 Hz VFT bandwidth. Reportedly phased out.",
+    "description": "Three 144 Bd FSK signals in a 3100 Hz VFT (Voice-Frequency Telegraphy) bandwidth. Reportedly phased out.\n\nVFT (Voice-Frequency Telegraphy), i.e. a technique that uses the entire voice-frequency range 300-3400 Hz for sending multiple transmissions simultaneously over one voice-bandwidth radio channel so that the entire frequency bandwidth of the channel is used."
+}

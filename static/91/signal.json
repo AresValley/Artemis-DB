@@ -1,45 +1,65 @@
 {
-    "signal": {
-        "name": "CIS-3000",
-        "url": "https://www.sigidwiki.com/wiki/CIS-3000"
+    "pageid": "91",
+    "title": "Automatic Picture Transmission (APT)",
+    "spectrum": {
+        "filename": "APT_NOAA.jpg",
+        "url": "https://www.sigidwiki.com/images/0/08/APT_NOAA.jpg"
+    },
+    "audio": {
+        "filename": "NOAA-19APT.mp3",
+        "url": "https://www.sigidwiki.com/images/5/56/NOAA-19APT.mp3"
     },
     "category": [
-        "Military",
-        "Digital"
+        "Satellite",
+        "Analogue"
     ],
     "frequency": [
         {
-            "value": 3000000,
+            "value": 137100000,
             "description": ""
         },
         {
-            "value": 30000000,
+            "value": 137620000,
+            "description": ""
+        },
+        {
+            "value": 137912500,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 3400,
+            "value": 34000,
             "description": ""
         }
     ],
     "acf": [],
     "modulation": [
         {
-            "value": "PSK",
-            "description": ""
+            "value": "AM",
+            "description": "Amplitude Modulation"
+        },
+        {
+            "value": "FM",
+            "description": "Frequency Modulation"
         }
     ],
     "mode": [
         {
-            "value": "USB",
+            "value": "AM",
+            "description": ""
+        },
+        {
+            "value": "FM",
             "description": ""
         }
     ],
     "location": [
         {
-            "value": "Russia",
+            "value": "Worldwide",
             "description": ""
         }
-    ]
+    ],
+    "short description": "Automatic Picture Transmission (APT), also known as NOAA-GEOSAT, was an analog image transmission mode used by the NOAA weather satellites and some Russian weather satellites to transmit satellite weather photos.  As of august 2025, most of the NOAA sats that transmitted this mode have been decommissioned, and have discontinued transmission.",
+    "description": "Weather Satellite Modes: [APT](https://www.sigidwiki.com/wiki/Automatic_Picture_Transmission_%28APT%29) - [LRPT](https://www.sigidwiki.com/wiki/Low_Rate_Picture_Transmission_%28LRPT%29) - [Meteosat WEFAX](https://www.sigidwiki.com/wiki/Meteosat_WEFAX)\n\n**Automatic Picture Transmission (APT)**, also known as **NOAA-GEOSAT**, is an analog image transmission mode used to by the NOAA weather satellites and formerly some Russian weather satellites to transmit satellite weather photos. On August 19th 2025, the final satellite transmitting this mode (NOAA-15) was decommissioned at 15:26 UTC. This mode is no longer in use."
 }

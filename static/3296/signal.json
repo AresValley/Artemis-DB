@@ -1,0 +1,52 @@
+{
+    "pageid": "3296",
+    "title": "SPREAD",
+    "spectrum": {
+        "filename": "SPREAD.jpg",
+        "url": "https://www.sigidwiki.com/images/9/97/SPREAD.jpg"
+    },
+    "audio": {
+        "filename": "spread-51.mp3",
+        "url": "https://www.sigidwiki.com/images/b/b4/Spread-51.mp3"
+    },
+    "category": [
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 3000000,
+            "description": ""
+        },
+        {
+            "value": 30000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 600,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "FSK",
+            "description": "Frequency-Shift Keying"
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ],
+    "short description": "SPREAD, also known as AUTOSPEC Mk2, SPREAD-11, SPREAD-21, and SPREAD-51, was a FEC system used by Romanian diplomatic stations and the Brazilian Navy and shore stations. SPREAD is considered the successor to AUTOSPEC.",
+    "description": "**SPREAD**, also known as AUTOSPEC Mk2, SPREAD-11, SPREAD-21, and SPREAD-51, was a FEC system used by Romanian diplomatic stations and the Brazilian Navy and shore stations. SPREAD is considered the successor to [AUTOSPEC](https://www.sigidwiki.com/wiki/AUTOSPEC), and like AUTOSPEC, used the 10-bit Bauer code. SPREAD is named so because it spreads bits after the 10-bit bauer code.\n\nThree variants of SPREAD exist, SPREAD-11, SPREAD-21, and SPREAD-51. \n- For SPREAD-11, after each bit of the 10-bit Bauer code, 10 data bits from other characters are sent.\n- For SPREAD-21, after each bit of the 10-bit Bauer code, 20 data bits from other characters are sent.\n- For SPREAD-51, after each bit of the 10-bit Bauer code, 50 data bits from other characters are sent.\n\nThe spreading of bits helps to improve the data transfer reliability.\n\nSPREAD uses a 410 Hz FSK shift, and had been mostly seen at 68.5 Bd, 102.7 Bd and 137 Bd with 218 Bd seen seldomly."
+}

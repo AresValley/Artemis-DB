@@ -1,48 +1,51 @@
 {
-    "signal": {
-        "name": "Beta",
-        "url": "https://www.sigidwiki.com/wiki/Beta"
+    "pageid": "521",
+    "title": "CODAR",
+    "spectrum": {
+        "filename": "CODARthm.jpg",
+        "url": "https://www.sigidwiki.com/images/d/df/CODARthm.jpg"
+    },
+    "audio": {
+        "filename": "CODARAUDIOz.mp3",
+        "url": "https://www.sigidwiki.com/images/8/89/CODARAUDIOz.mp3"
     },
     "category": [
-        "Time"
+        "Radar",
+        "Marine"
     ],
     "frequency": [
         {
-            "value": 20500,
+            "value": 4438000,
             "description": ""
         },
         {
-            "value": 23000,
+            "value": 12920000,
             "description": ""
         },
         {
-            "value": 25000,
+            "value": 13500000,
             "description": ""
         },
         {
-            "value": 25100,
+            "value": 42500000,
             "description": ""
         },
         {
-            "value": 25500,
+            "value": 12470000,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 200,
+            "value": 50000,
             "description": ""
         }
     ],
     "acf": [],
     "modulation": [
         {
-            "value": "CW",
-            "description": ""
-        },
-        {
-            "value": "OOK",
-            "description": ""
+            "value": "LFM",
+            "description": "Linear Frequency Modulation"
         }
     ],
     "mode": [
@@ -53,20 +56,10 @@
     ],
     "location": [
         {
-            "value": "Russia",
-            "description": ""
-        },
-        {
-            "value": "Belarus",
-            "description": ""
-        },
-        {
-            "value": "Kyrgyzstan",
-            "description": ""
-        },
-        {
             "value": "Worldwide",
             "description": ""
         }
-    ]
+    ],
+    "short description": "CODAR (Coastal Ocean Dynamics Applications Radar) is used for near-surface ocean monitoring, such as waves and water current.",
+    "description": "**CODAR (Coastal Ocean Dynamics Applications Radar)** is used for near-surface ocean monitoring, such as waves and water current. Commonly becomes a source of interference for amateur radio operators. Developed between 1973 and 1983 at NOAA's Wave Propagation Laboratory, the founders left NOAA and formed the [CODAR Ocean Sensors](http://www.codar.com/index.htm) company, producing CODAR radar systems for commercial use.\n\nCODAR is based on [Bragg’s Scattering Law](https://en.wikipedia.org/wiki/Bragg%27s_law). This allowed for the monitoring of ocean current and wave condition with high precision and range of up to 200 km. CODAR uses ILFM (Interpulse Linear Frequency Modulation), which is essentially a FMCW signal that is broken up into pulses in order to create a 50% duty cycle."
 }

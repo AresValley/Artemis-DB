@@ -1,0 +1,50 @@
+{
+    "pageid": "2561",
+    "title": "The Buzzer (ZhUOZ MDZhB UZB76)",
+    "spectrum": {
+        "filename": "Screenshot 2025-03-04 11.53.04 AM.png",
+        "url": "https://www.sigidwiki.com/images/1/18/Screenshot_2025-03-04_11.53.04_AM.png"
+    },
+    "audio": {
+        "filename": "2019-02-19T03_53_11Z_4625.00_usb.mp3",
+        "url": "https://www.sigidwiki.com/images/3/39/2019-02-19T03_53_11Z_4625.00_usb.mp3"
+    },
+    "category": [
+        "Analogue",
+        "Military",
+        "Numbers Stations"
+    ],
+    "frequency": [
+        {
+            "value": 4625000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 2800,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "USB",
+            "description": "Upper Sideband"
+        }
+    ],
+    "mode": [
+        {
+            "value": "AM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Russia",
+            "description": ""
+        }
+    ],
+    "short description": "The Buzzer, call-sign NZhTI (formerly ANVF, ZhUOZ, MDZhB and UZB-76), is a Russian Military Commandment system signal used to broadcast diplomatic ciphered messages known as \"monolit\" to the russian navy.  If there is no message to broadcast, its \"homing\" signal is a loud ship-horn buzzing sound.  It is believed to serve a similar purposes to The Alarm and The Air Horn.",
+    "description": "**The Buzzer**, call-sign **НЖТИ (NZhTI)**, nicknamed Жужжалка, formerly known by its previous callsigns **АНВФ (ANVF)**, **ЖУОЗ (ZhUOZ)**, **МДЖБ (MDZhB)** and **УЗБ-76 (UZB-76)**, is a Russian-based military station that frequently broadcasts * [Monolit](http://priyom.org/military-stations/russia/monolyth-messages-description)* format messages in Russian. Its official name is actually вулкан (Vulkan, Volcano in English). Its trademark buzzer is constantly transmitted while there is no message to broadcast. Active since the late 1970s.\n\nNZhTI is an analogue [Upper Side Band](https://www.sigidwiki.com/wiki/Single_Sideband_Voice) voice signal. It has an active carrier at 4625 kHz. It is believed that the buzzer is not directly modulated but actually recorded by an active microphone, as there have been reports of hearing background chatter while the buzzer was on."
+}

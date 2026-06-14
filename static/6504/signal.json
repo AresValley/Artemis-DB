@@ -1,0 +1,53 @@
+{
+    "pageid": "6504",
+    "title": "M17 RF Protocol",
+    "spectrum": {
+        "filename": "M17_wf.png",
+        "url": "https://www.sigidwiki.com/images/c/c8/M17_wf.png"
+    },
+    "audio": {
+        "filename": "M17_10m.mp3",
+        "url": "https://www.sigidwiki.com/images/a/a7/M17_10m.mp3"
+    },
+    "category": [
+        "Amateur Radio",
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 30000000,
+            "description": ""
+        },
+        {
+            "value": 10500000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 9000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "FSK",
+            "description": "Frequency-Shift Keying"
+        }
+    ],
+    "mode": [
+        {
+            "value": "NFM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ],
+    "short description": "An open source digital mode developed for amateur and other radio applications.",
+    "description": "The **M17 RF Protocol** is an open source digital radio mode developed for amateur radio applications and experimentation. The air interface is designed to transmit digital voice and data with a rate of 3200 bits/s, modulated with square root raised cosine filtered 4FSK at 9600 bits/s and 9 kHz wide channels."
+}

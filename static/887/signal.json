@@ -1,0 +1,54 @@
+{
+    "pageid": "887",
+    "title": "PACTOR I",
+    "spectrum": {
+        "filename": "PACTOR_Addimg.jpg",
+        "url": "https://www.sigidwiki.com/images/c/cf/PACTOR_Addimg.jpg"
+    },
+    "audio": {
+        "filename": "PACTOR-200.mp3",
+        "url": "https://www.sigidwiki.com/images/a/ad/PACTOR-200.mp3"
+    },
+    "category": [
+        "Digital",
+        "Commercial",
+        "Amateur Radio"
+    ],
+    "frequency": [
+        {
+            "value": 3000000,
+            "description": ""
+        },
+        {
+            "value": 30000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 300,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "FSK",
+            "description": "Frequency-Shift Keying"
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ],
+    "short description": "PACTOR-I is a digital data protocol combining elements of PACKET and AMTOR ARQ.",
+    "description": "PACTOR Series: [PACTOR I](https://www.sigidwiki.com/wiki/PACTOR_I) - [PACTOR II](https://www.sigidwiki.com/wiki/PACTOR_II) - [PACTOR III](https://www.sigidwiki.com/wiki/PACTOR_III) - [PACTOR IV](https://www.sigidwiki.com/wiki/PACTOR_IV) \n\n**PACTOR-I** is a digital data protocol combining elements of PACKET and AMTOR ARQ.\n \nPACTOR-I is used by many groups, including [Sailmail](http://www.sailmail.com/) for mariners to send and receive emails. It is also used by Ham Radio operators, Governmental and Diplomatic agencies, and even NGO's. PACTOR-I is also used as a [Selcall](https://en.wikipedia.org/wiki/Selcall) protocol to establish connections with other PACTOR modems. PACTOR-II, III, and IV modems all use PACTOR-I for selcalling. \n\nPACTOR I has 200 Bd rate, Huffman compression technique, uses 2 FSK tones with a shift of 200Hz, and true binary data transfer capability. Created by Ulrich Strate (DF4KV) and Hans-Peter Helfert (DL6MAA) in 1990."
+}

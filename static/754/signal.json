@@ -1,0 +1,48 @@
+{
+    "pageid": "754",
+    "title": "RBU",
+    "spectrum": {
+        "filename": "RBU_.jpg",
+        "url": "https://www.sigidwiki.com/images/9/97/RBU_.jpg"
+    },
+    "audio": {
+        "filename": "RBU_with_carrier_audio.mp3",
+        "url": "https://www.sigidwiki.com/images/9/9a/RBU_with_carrier_audio.mp3"
+    },
+    "category": [
+        "Time"
+    ],
+    "frequency": [
+        {
+            "value": 66660,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 650,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "FSK",
+            "description": "Frequency-Shift Keying"
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Russia",
+            "description": ""
+        }
+    ],
+    "short description": "RBU is a time code radio station located in Moscow.  It transmits a continuous 10 kW time code on 66.66 kHz.",
+    "description": "**RBU** is a time code radio station located in Moscow. It transmits a continuous 10 kW time code on 66⅔ kHz.\n\nThere are 2 main tones AM modulated onto sidebands, 100 Hz and 312.5 Hz. 100 Hz denotes a \"0\" bit, whereas 312.5 Hz denotes a \"1\". These are used to sync clocks and give the exact time."
+}

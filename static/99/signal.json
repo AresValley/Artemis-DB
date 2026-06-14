@@ -1,11 +1,16 @@
 {
-    "signal": {
-        "name": "CLOVER 2500",
-        "url": "https://www.sigidwiki.com/wiki/CLOVER_2500"
+    "pageid": "99",
+    "title": "WEFAX",
+    "spectrum": {
+        "filename": "Weather_Fascimile.jpg",
+        "url": "https://www.sigidwiki.com/images/c/c9/Weather_Fascimile.jpg"
+    },
+    "audio": {
+        "filename": "WFaxData.mp3",
+        "url": "https://www.sigidwiki.com/images/e/e0/WFaxData.mp3"
     },
     "category": [
-        "Digital",
-        "Amateur Radio"
+        "Analogue"
     ],
     "frequency": [
         {
@@ -19,19 +24,15 @@
     ],
     "bandwidth": [
         {
-            "value": 2500,
+            "value": 3000,
             "description": ""
         }
     ],
     "acf": [],
     "modulation": [
         {
-            "value": "PSK",
-            "description": ""
-        },
-        {
-            "value": "QAM",
-            "description": ""
+            "value": "FM",
+            "description": "Frequency Modulation"
         }
     ],
     "mode": [
@@ -45,5 +46,7 @@
             "value": "Worldwide",
             "description": ""
         }
-    ]
+    ],
+    "short description": "Radiofax (Also known as Weatherfax, HF-FAX, WEFAX, and Weather Facsimile) is a slow scan analog image transmission mode used for the transmission of weather charts and meteorological reports.",
+    "description": "**WEFAX** (Also known as Weatherfax, HF-FAX, Radiofax, and Weather Facsimile) is a slow scan analog image transmission mode used for the transmission of weather charts and meteorological reports. The only station known to be sending newspaper articles (in Japanese) is the Fukushima Fisheries service in Japan. Their schedule can be found [here](http://www.udxf.nl/Fukushima-fax-sked.pdf) (courtesy of the UDXF) as a PDF. \n\nWEFAX was originally developed for satellite usage, but has gained usage in the HF bands in the past decades. Satellite WEFAX use can be seen at [Meteosat WEFAX](https://www.sigidwiki.com/wiki/Meteosat_WEFAX)."
 }

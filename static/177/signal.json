@@ -1,38 +1,39 @@
 {
-    "signal": {
-        "name": "FSK441",
-        "url": "https://www.sigidwiki.com/wiki/FSK441"
+    "pageid": "177",
+    "title": "Toyota Car Key",
+    "spectrum": {
+        "filename": "ToyotaCarFob_Waterfall.png",
+        "url": "https://www.sigidwiki.com/images/d/d4/ToyotaCarFob_Waterfall.png"
+    },
+    "audio": {
+        "filename": "ToyotaCarFob_Sound.mp3",
+        "url": "https://www.sigidwiki.com/images/5/55/ToyotaCarFob_Sound.mp3"
     },
     "category": [
         "Digital",
-        "Amateur Radio"
+        "Utility"
     ],
     "frequency": [
         {
-            "value": 144000000,
+            "value": 315000000,
             "description": ""
         },
         {
-            "value": 444000000,
+            "value": 433000000,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 1750,
+            "value": 40000,
             "description": ""
         }
     ],
     "acf": [],
-    "modulation": [
-        {
-            "value": "FSK",
-            "description": ""
-        }
-    ],
+    "modulation": [],
     "mode": [
         {
-            "value": "USB",
+            "value": "AM",
             "description": ""
         }
     ],
@@ -41,5 +42,7 @@
             "value": "Worldwide",
             "description": ""
         }
-    ]
+    ],
+    "short description": "Wireless entry rolling code car key.",
+    "description": "Wireless entry rolling code car key."
 }

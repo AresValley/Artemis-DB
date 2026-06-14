@@ -1,0 +1,68 @@
+{
+    "pageid": "6626",
+    "title": "ProVoice",
+    "spectrum": {
+        "filename": "Provoiceimg.png",
+        "url": "https://www.sigidwiki.com/images/7/78/Provoiceimg.png"
+    },
+    "audio": {
+        "filename": "Provoice.mp3",
+        "url": "https://www.sigidwiki.com/images/e/e9/Provoice.mp3"
+    },
+    "category": [
+        "Digital",
+        "Trunked Radio"
+    ],
+    "frequency": [
+        {
+            "value": 160000000,
+            "description": ""
+        },
+        {
+            "value": 450000000,
+            "description": ""
+        },
+        {
+            "value": 700000000,
+            "description": ""
+        },
+        {
+            "value": 806000000,
+            "description": ""
+        },
+        {
+            "value": 870000000,
+            "description": ""
+        },
+        {
+            "value": 896000000,
+            "description": ""
+        },
+        {
+            "value": 941000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "GFSK",
+            "description": "Gaussian Frequency-Shift Keying"
+        }
+    ],
+    "mode": [
+        {
+            "value": "NFM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ],
+    "short description": "ProVoice is a digital voice mode used in EDACS trunked systems.",
+    "description": "ProVoice is a digital voice mode used in [EDACS](https://www.sigidwiki.com/wiki/EDACS) trunked systems. It is transmitted using GFSK modulation at 9.6 kbit/s."
+}

@@ -1,0 +1,81 @@
+{
+    "pageid": "1978",
+    "title": "ARQ-N",
+    "spectrum": {
+        "filename": "ARQ-N.jpg",
+        "url": "https://www.sigidwiki.com/images/1/14/ARQ-N.jpg"
+    },
+    "audio": {
+        "filename": "arq-n.mp3",
+        "url": "https://www.sigidwiki.com/images/7/79/Arq-n.mp3"
+    },
+    "category": [
+        "Military",
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 3000000,
+            "description": ""
+        },
+        {
+            "value": 30000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 85,
+            "description": ""
+        },
+        {
+            "value": 160,
+            "description": ""
+        },
+        {
+            "value": 170,
+            "description": ""
+        },
+        {
+            "value": 190,
+            "description": ""
+        },
+        {
+            "value": 340,
+            "description": ""
+        },
+        {
+            "value": 388,
+            "description": ""
+        },
+        {
+            "value": 400,
+            "description": ""
+        },
+        {
+            "value": 850,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "FSK",
+            "description": "Frequency-Shift Keying"
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ],
+    "short description": "ARQ-N is a synchronous dual channel ARQ mode identical to ARQ-E, with the only difference being that ARQ-N has no symbol inversions. Formerly used by Italian Diplomatic services.",
+    "description": "**ARQ-N** is a synchronous dual channel ARQ mode identical to ARQ-E, with the only difference being that ARQ-N has no symbol inversions. Formerly used by Italian Diplomatic services. Also grouped under ARQ1000 Duplex. Uses 7-bit ITA 2-P Alphabet.\n\nLike ARQ-E and E3, this mode was invented by Siemens of Germany, and has all the features of ARQ-E, with the exception of a lack of symbol inversion.The lack of inversion makes it impossible to automatically determine the length of the RQ cycle. However, known systems operate exclusively with a single RQ character and three repeated characters. This mode is most commonly heard at 96 Bd, but baud rates of 48, 50, 64, 72, 96, 144, 184.6, 192, and 288 baud are possible."
+}

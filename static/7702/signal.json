@@ -1,0 +1,54 @@
+{
+    "pageid": "7702",
+    "title": "Radar altimeter",
+    "spectrum": {
+        "filename": "Radar altimeter5.PNG",
+        "url": "https://www.sigidwiki.com/images/4/44/Radar_altimeter5.PNG"
+    },
+    "audio": {
+        "filename": "Radar altimeter sound.mp3",
+        "url": "https://www.sigidwiki.com/images/3/32/Radar_altimeter_sound.mp3"
+    },
+    "category": [
+        "Radar",
+        "Aviation",
+        "Analogue"
+    ],
+    "frequency": [
+        {
+            "value": 4200000000,
+            "description": ""
+        },
+        {
+            "value": 4300000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 20000000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "FMCW",
+            "description": "Frequency-Modulated Continuous Wave"
+        }
+    ],
+    "mode": [
+        {
+            "value": "AM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ],
+    "short description": "Aircrafts radar altimeter.",
+    "description": "A radar altimeter (RA), also called a radio altimeter (RALT), electronic altimeter, reflection altimeter, or low-range radio altimeter (LRRA), measures altitude above the terrain presently beneath an aircraft or spacecraft by timing how long it takes a beam of radio waves to travel to ground, reflect, and return to the craft. This type of altimeter provides the distance between the antenna and the ground directly below it, in contrast to a barometric altimeter which provides the distance above a defined vertical datum, usually mean sea level.\n\nReceived on a regular C-band LNB, the signal is very wide, 20+ MHz, differs in frequency and shape depending on the manufacturer. It is better to receive the edge of the signal to distinguish different ones, about 910 MHz IF is a good starting point. \nAirplanes fly with the altimeter constantly on, even at high altitudes outside its operating range."
+}

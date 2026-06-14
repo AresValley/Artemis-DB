@@ -1,0 +1,49 @@
+{
+    "pageid": "6009",
+    "title": "ICARUS (International Cooperation for Animal Research Using Space)",
+    "spectrum": {
+        "filename": "ICARUS.jpg",
+        "url": "https://www.sigidwiki.com/images/5/50/ICARUS.jpg"
+    },
+    "audio": {
+        "filename": "ICARUS Sound.mp3",
+        "url": "https://www.sigidwiki.com/images/a/ad/ICARUS_Sound.mp3"
+    },
+    "category": [
+        "Satellite",
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 468100000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 32000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "PSK",
+            "description": "Phase-Shift Keying"
+        }
+    ],
+    "mode": [
+        {
+            "value": "NFM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ],
+    "short description": "ICARUS aims its services primarily at scientific groups that perform basic and application-oriented research with migrating animals.",
+    "description": "ICARUS is a collaborative ISS payload of DLR (German Aerospace Center) and Roscosmos (Russian Space Agency), planned to be installed on the Russian Segment, namely the MLM (Multipurpose Laboratory Module) of the ISS. The ICARUS Initiative is a global collaboration of scientists, which was founded in 2002 with the aim of establishing a global observation system for (small) animals as the basis for a scientific revolution in biology and zoology, respectively. ICARUS extends the satellite-based earth observation to the fauna on Earth."
+}

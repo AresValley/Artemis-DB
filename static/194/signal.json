@@ -1,43 +1,44 @@
 {
-    "signal": {
-        "name": "GOES Data Collection System (DCS)",
-        "url": "https://www.sigidwiki.com/wiki/GOES_Data_Collection_System_(DCS)"
+    "pageid": "194",
+    "title": "End of Train Device (EOTD)",
+    "spectrum": {
+        "filename": "EOTthmb.jpg",
+        "url": "https://www.sigidwiki.com/images/4/47/EOTthmb.jpg"
+    },
+    "audio": {
+        "filename": "EOT_Sound.mp3",
+        "url": "https://www.sigidwiki.com/images/9/9d/EOT_Sound.mp3"
     },
     "category": [
-        "Satellite",
         "Digital",
         "Utility"
     ],
     "frequency": [
         {
-            "value": 1679900000,
+            "value": 452.9375,
             "description": ""
         },
         {
-            "value": 1680200000,
+            "value": 457937500,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 300,
-            "description": ""
-        },
-        {
-            "value": 1200,
+            "value": 8000,
             "description": ""
         }
     ],
     "acf": [],
     "modulation": [
         {
-            "value": "8PSK",
-            "description": ""
+            "value": "FSK",
+            "description": "Frequency-Shift Keying"
         }
     ],
     "mode": [
         {
-            "value": "USB",
+            "value": "NFM",
             "description": ""
         }
     ],
@@ -46,5 +47,7 @@
             "value": "Worldwide",
             "description": ""
         }
-    ]
+    ],
+    "short description": "Transmits train telemetry such as brake status and accidental separation information to the head locomotive.",
+    "description": "- Not to be confused with EOT (end-of-transmission).*\n\nTransmits train telemetry such as brake status and accidental separation information to the head locomotive. \n\nETD devices monitor functions such as brake line pressure and accidental separation of the train using a motion sensor, functions that were previously monitored by a crew in the caboose. The ETD transmits the data via a telemetry link to the Head-of-Train Device (HTD) in the locomotive.\n\nDue to be replaced by 802.16t in the future."
 }

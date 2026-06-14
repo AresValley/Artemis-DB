@@ -1,0 +1,54 @@
+{
+    "pageid": "4814",
+    "title": "Milstar",
+    "spectrum": {
+        "filename": "Milstar_FHSS.jpg",
+        "url": "https://www.sigidwiki.com/images/f/f8/Milstar_FHSS.jpg"
+    },
+    "audio": {
+        "filename": "SDRSharp 20180117 095857Z 243799000Hz IQ.wav",
+        "url": "https://www.sigidwiki.com/images/4/4e/SDRSharp_20180117_095857Z_243799000Hz_IQ.wav"
+    },
+    "category": [
+        "Digital",
+        "Military",
+        "Satellite"
+    ],
+    "frequency": [
+        {
+            "value": 243785000,
+            "description": ""
+        },
+        {
+            "value": 243822000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 50000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "FHSS",
+            "description": "Frequency Hopping Spread Spectrum"
+        }
+    ],
+    "mode": [
+        {
+            "value": "RAW",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ],
+    "short description": "UHF FHSS Downlink of Milstar, a US joint military service satellite communications system that provides secure, jam resistant, worldwide communications. Nicknamed 'Waterdroplets' for it's characteristic waveform and sound.",
+    "description": "UHF FHSS Downlink of **Milstar**, a US joint military service satellite communications system that provides secure, jam resistant, worldwide communications. Nicknamed 'Waterdroplets' for it's characteristic waveform and sound.\n\nMilstar 5's UHF FHSS Downlink is at 243.785 MHz and Milstar 1 at 243.822 MHz. They may look like a single wide signal when both are transmitting together.\n\nMilstar was built and developed by Lockheed Martin's Missile and Space Corporation for the United States Department of Defense."
+}

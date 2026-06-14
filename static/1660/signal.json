@@ -1,0 +1,62 @@
+{
+    "pageid": "1660",
+    "title": "MIL-STD-188-110 Serial",
+    "spectrum": {
+        "filename": "MIL_STD_188-110ABC.jpg",
+        "url": "https://www.sigidwiki.com/images/6/64/MIL_STD_188-110ABC.jpg"
+    },
+    "audio": {
+        "filename": "188-110A_(serial)-1.mp3",
+        "url": "https://www.sigidwiki.com/images/7/74/188-110A_%28serial%29-1.mp3"
+    },
+    "category": [
+        "Military",
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 3000000,
+            "description": ""
+        },
+        {
+            "value": 30000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 2750,
+            "description": ""
+        }
+    ],
+    "acf": [
+        {
+            "value": 200.0,
+            "description": "Header"
+        },
+        {
+            "value": 66.66,
+            "description": "Body"
+        }
+    ],
+    "modulation": [
+        {
+            "value": "PSK",
+            "description": "Phase-Shift Keying"
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ],
+    "short description": "MIL-STD-188-110 Serial is a US Department of Defense standard for HF Communications, Serial PSK mode. Can transmit both data and voice with a range of interleaving and speed modes for optimal propagation.",
+    "description": "**MIL-STD-188-110 Serial** is a US Department of Defense standard for HF Communications, Serial PSK mode. The mode was officially specified in the \"Military Standard Interoperability and Performance Standards for Data Modems\" in 1991. The original waveform was first outlined in the MIL-STD-188-110A standard, and has since remained over the next two revisions, the current one being MIL-STD-188-110C W/ Change 1. This serial waveform is very popular for its HF performance and robustness. This mode is almost identical to [STANAG 4285](https://www.sigidwiki.com/wiki/STANAG_4285), but has some differences that keeps them from being interchangeable."
+}

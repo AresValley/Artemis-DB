@@ -1,0 +1,53 @@
+{
+    "pageid": "5993",
+    "title": "Ground-Based Augmentation System (GBAS)",
+    "spectrum": {
+        "filename": "YMML GBAS WF.mp3.png",
+        "url": "https://www.sigidwiki.com/images/7/7c/YMML_GBAS_WF.mp3.png"
+    },
+    "audio": {
+        "filename": "YMML GBAS AF.mp3",
+        "url": "https://www.sigidwiki.com/images/6/68/YMML_GBAS_AF.mp3"
+    },
+    "category": [
+        "Aviation",
+        "Navigation"
+    ],
+    "frequency": [
+        {
+            "value": 108000000,
+            "description": ""
+        },
+        {
+            "value": 117975000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 15000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "D8PSK",
+            "description": "Differential 8-Phase-Shift Keying"
+        }
+    ],
+    "mode": [
+        {
+            "value": "AM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ],
+    "short description": "GBAS is an advanced aircraft navigation system that provides GPS corrections to aircraft on approach.",
+    "description": "Ground-Based Augmentation Systems (GBAS) forms part of the Global Navigation Satellite System (GNSS), and provides GPS corrections to aircraft on approach, guiding them to land. GBAS will eventually replace conventional [Instrument Landing Systems](https://www.sigidwiki.com/wiki/Instrument_Landing_System), as it is more precise than ILS and is less expensive to install."
+}

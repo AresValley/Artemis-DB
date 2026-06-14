@@ -1,0 +1,43 @@
+{
+    "pageid": "6993",
+    "title": "Futuba RC Controller",
+    "spectrum": {
+        "filename": "Futuba t2pc rc controller waterfall.png",
+        "url": "https://www.sigidwiki.com/images/b/b1/Futuba_t2pc_rc_controller_waterfall.png"
+    },
+    "audio": {
+        "filename": "SDRSharp 20231109 183417Z 75790708Hz AF.mp3",
+        "url": "https://www.sigidwiki.com/images/f/f3/SDRSharp_20231109_183417Z_75790708Hz_AF.mp3"
+    },
+    "category": [
+        "Utility",
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 75000000,
+            "description": ""
+        },
+        {
+            "value": 72000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 12000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [],
+    "mode": [
+        {
+            "value": "AM",
+            "description": ""
+        }
+    ],
+    "location": [],
+    "short description": "72-75 MHz transmitters are used to control various types of RC models. RC Controllers that use 72-75 MHz don't seem to be used as often as they used to.",
+    "description": ""
+}

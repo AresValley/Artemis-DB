@@ -1,62 +1,39 @@
 {
-    "signal": {
-        "name": "GMDSS Digital Selective Calling",
-        "url": "https://www.sigidwiki.com/wiki/GMDSS_Digital_Selective_Calling"
+    "pageid": "192",
+    "title": "ILS Marker Beacon",
+    "spectrum": {
+        "filename": "800px-LOM_Waterfallthmb.png",
+        "url": "https://www.sigidwiki.com/images/3/3e/800px-LOM_Waterfallthmb.png"
+    },
+    "audio": {
+        "filename": "LOM_Sound.mp3",
+        "url": "https://www.sigidwiki.com/images/1/15/LOM_Sound.mp3"
     },
     "category": [
-        "Marine",
-        "Digital"
+        "Aviation"
     ],
     "frequency": [
         {
-            "value": 2187500,
-            "description": ""
-        },
-        {
-            "value": 4207500,
-            "description": ""
-        },
-        {
-            "value": 6312000,
-            "description": ""
-        },
-        {
-            "value": 8414500,
-            "description": ""
-        },
-        {
-            "value": 12577000,
-            "description": ""
-        },
-        {
-            "value": 16804500,
-            "description": ""
-        },
-        {
-            "value": 2177000,
-            "description": ""
-        },
-        {
-            "value": 156525000,
+            "value": 75000000,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 350,
+            "value": 3000,
             "description": ""
         }
     ],
     "acf": [],
     "modulation": [
         {
-            "value": "FSK",
-            "description": ""
+            "value": "OOK",
+            "description": "On-Off Keying"
         }
     ],
     "mode": [
         {
-            "value": "USB",
+            "value": "AM",
             "description": ""
         }
     ],
@@ -65,5 +42,7 @@
             "value": "Worldwide",
             "description": ""
         }
-    ]
+    ],
+    "short description": "ILS Marker Beacons are used by aircraft for Instrument Landing Systems, transmitted by an upward-facing directive antenna at known distances along the approach path.",
+    "description": "**ILS Marker Beacons** are used by aircraft for [Instrument Landing Systems](https://www.sigidwiki.com/wiki/Instrument_Landing_System), transmitted by an upward-facing directive antenna at known distances along the approach path.\n \nThere are three types of marker beacon: Outer Marker (400 Hz dashes), Middle Marker (1020 Hz dot-dashes), Inner Marker (3000 Hz dots). The latter is installed only in ILSs having decision heights of less than 200 feet (60 m). \n\nIf the Outer Marker is combined with a NDB (Non Directional Beacon), the two make a \"Locator Outer Marker\", or LOM. They trigger a three-lights indicator and a togglable aural warning in the cockpit when the aircraft flies directly over them."
 }

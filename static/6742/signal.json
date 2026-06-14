@@ -1,0 +1,49 @@
+{
+    "pageid": "6742",
+    "title": "METEOR-M High Resolution Picture Transmission (HRPT)",
+    "spectrum": {
+        "filename": "METEOR HRPT WF.png",
+        "url": "https://www.sigidwiki.com/images/b/b0/METEOR_HRPT_WF.png"
+    },
+    "audio": {
+        "filename": null,
+        "url": null
+    },
+    "category": [
+        "Satellite",
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 1700000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 3000000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "PSK",
+            "description": "Phase-Shift Keying"
+        }
+    ],
+    "mode": [
+        {
+            "value": "RAW",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ],
+    "short description": "A variant of the [[High_Resolution_Picture_Transmission_(HRPT)|NOAA HRPT]] signal, which has a different data structure and better low-signal handling characteristics.",
+    "description": "The Meteor-M series of satellites transmit high resolution pictures from the MSU-MR (main radiometer) and additionally, data from MTVZA (a microwave sounding instrument) over an HRPT link. However, while the signal is still being PSK modulated, the data structure is different than the [NOAA HRPT](https://www.sigidwiki.com/wiki/High_Resolution_Picture_Transmission_%28HRPT%29) signal. This gives improved low-signal handling characteristics and makes the signal incompatible with NOAA HRPT decoders."
+}

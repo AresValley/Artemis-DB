@@ -1,0 +1,53 @@
+{
+    "pageid": "3362",
+    "title": "VISEL",
+    "spectrum": {
+        "filename": "VISEL.jpg",
+        "url": "https://www.sigidwiki.com/images/0/00/VISEL.jpg"
+    },
+    "audio": {
+        "filename": "VISEL 120_9 Baud.mp3",
+        "url": "https://www.sigidwiki.com/images/9/94/VISEL_120_9_Baud.mp3"
+    },
+    "category": [
+        "Digital",
+        "Military"
+    ],
+    "frequency": [
+        {
+            "value": 3000000,
+            "description": ""
+        },
+        {
+            "value": 30000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 400,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "FSK",
+            "description": "Frequency-Shift Keying"
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Europe",
+            "description": ""
+        }
+    ],
+    "short description": "VISEL, also known as YUG-MIL 120.9 Bd, FEC-12, and YUG-MIL FEC, is a synchronous teleprinter system used by the former Yugoslav military. No longer active today.",
+    "description": "**VISEL**, also known as YUG-MIL 120.9 Bd, FEC-12, and YUG-MIL FEC, is a synchronous teleprinter system used by the former Yugoslav military. No longer active today."
+}

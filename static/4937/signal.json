@@ -1,0 +1,39 @@
+{
+    "pageid": "4937",
+    "title": "SAS/SRC",
+    "spectrum": {
+        "filename": "SAS-SRC mod pattern.gif",
+        "url": "https://www.sigidwiki.com/images/d/df/SAS-SRC_mod_pattern.gif"
+    },
+    "audio": {
+        "filename": "AF 17OCT2014 080000z SAS-SRC.mp3",
+        "url": "https://www.sigidwiki.com/images/0/09/AF_17OCT2014_080000z_SAS-SRC.mp3"
+    },
+    "category": [
+        "Military",
+        "Marine"
+    ],
+    "frequency": [
+        {
+            "value": 40400,
+            "description": ""
+        }
+    ],
+    "bandwidth": [],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "MSK",
+            "description": "Minimum-Shift Keying"
+        }
+    ],
+    "mode": [],
+    "location": [
+        {
+            "value": "Sweden",
+            "description": ""
+        }
+    ],
+    "short description": "Swedish navy transmitter for submarine communication. It shares the antenna with SAQ (Grimeton Radio)",
+    "description": "SAS is the military part of the Varberg site. It shares the antenna with SAQ (Grimeton Radio) [LINK](https://www.sigidwiki.com/wiki/Grimeton_Radio_(SAQ)). \n\nSo if SAQ is going to start one of its rare transmissions, SAS is turned off one or two days before.\n\nSwedish MSK transmitters can easily be identified in the waterfall diagram by their fishbone-like modulation pattern. This seems to belong to the idle phases while the pattern becomes more random while transmitting data."
+}

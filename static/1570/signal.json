@@ -1,0 +1,65 @@
+{
+    "pageid": "1570",
+    "title": "CIS OFDM HDR Modem",
+    "spectrum": {
+        "filename": "CIS-45 33bd.jpg",
+        "url": "https://www.sigidwiki.com/images/0/04/CIS-45_33bd.jpg"
+    },
+    "audio": {
+        "filename": "CIS-45 33.3bd tfc.mp3",
+        "url": "https://www.sigidwiki.com/images/b/b6/CIS-45_33.3bd_tfc.mp3"
+    },
+    "category": [
+        "Military",
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 3000000,
+            "description": ""
+        },
+        {
+            "value": 30000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 2800,
+            "description": ""
+        },
+        {
+            "value": 2950,
+            "description": ""
+        },
+        {
+            "value": 3000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "PSK",
+            "description": "Phase-Shift Keying"
+        },
+        {
+            "value": "OFDM",
+            "description": "Orthogonal Frequency-Division Multiplexing"
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Russia",
+            "description": ""
+        }
+    ],
+    "short description": "Russian OFDM HDR (High Data Rate) Modem. Has three main modes: CIS-45, CIS-60, and CIS-93, corresponding to the number of OFDM tones in the signal.",
+    "description": "**Russian OFDM HDR (High Data Rate) Modem**. Has three main modes: **CIS-45**, **CIS-60**, and **CIS-93**, corresponding to the number of OFDM tones in the signal. For all three modes, there is a carrier located 3300 Hz from the suppressed carrier. In addition, all three modes utilize PSK OFDM Modulation."
+}

@@ -1,0 +1,56 @@
+{
+    "pageid": "2056",
+    "title": "IRA-ARQ",
+    "spectrum": {
+        "filename": "IRA-ARQ 300bd 500hz.jpg",
+        "url": "https://www.sigidwiki.com/images/1/11/IRA-ARQ_300bd_500hz.jpg"
+    },
+    "audio": {
+        "filename": "bulgascii 300bd 500 shift.mp3",
+        "url": "https://www.sigidwiki.com/images/4/41/Bulgascii_300bd_500_shift.mp3"
+    },
+    "category": [
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 3000000,
+            "description": ""
+        },
+        {
+            "value": 30000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 650,
+            "description": ""
+        },
+        {
+            "value": 1350,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "FSK",
+            "description": "Frequency-Shift Keying"
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ],
+    "short description": "IRA-ARQ, also known as BULG-ASCII and ASCII-ARQ, is a high data rate ARQ FSK system used by Bulgarian, Slovakian, and Czech diplomatic stations. The maximum speed of this mode has been seen to reach 1200 bd. Not seen much much nowadays",
+    "description": "**IRA-ARQ**, also known as BULG-ASCII and ASCII-ARQ, is a high data rate ARQ FSK system used by Bulgarian, Slovakian, and Czech diplomatic stations. The maximum speed of this mode has been seen to reach 1200 bd. IRA-ARQ uses the ASCII (ITA-5 or IRA) alphabet charset. Some transmissions of IRA-ARQ can be decoded using an ASCII decoder. \n\nThis mode is typically found with baud rates of 75, 100, 110, 150, 180, 200, 240, 300 or 600 bd. Faster baud rates have also been seen."
+}

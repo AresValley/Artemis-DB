@@ -1,0 +1,64 @@
+{
+    "pageid": "640",
+    "title": "Codan Data Modem",
+    "spectrum": {
+        "filename": "Codan_Modem.jpg",
+        "url": "https://www.sigidwiki.com/images/2/2f/Codan_Modem.jpg"
+    },
+    "audio": {
+        "filename": "CODAN_all_modes.mp3",
+        "url": "https://www.sigidwiki.com/images/1/17/CODAN_all_modes.mp3"
+    },
+    "category": [
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 3000000,
+            "description": ""
+        },
+        {
+            "value": 30000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 1800,
+            "description": ""
+        },
+        {
+            "value": 2560,
+            "description": ""
+        },
+        {
+            "value": 400,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "PSK",
+            "description": "Phase-Shift Keying"
+        },
+        {
+            "value": "FSK",
+            "description": "Frequency-Shift Keying"
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ],
+    "short description": "Codan Data Modulation for Codan Data Modems. Has 3 distinct signals: Data, ALE, and SELCAL. This modulation is used in Codan's 9001, 9002, 3012 and 3212 modems.",
+    "description": "Codan Data Modulation for Codan Data Modems. This modulation is used in Codan's 9001, 9002, 3012 and 3212 modems.\n\nData link comprises of 16 DPSK (Differential Phase-Shift Keying) channels at 112.5 Hz spacing on 1800 Hz of bandwidth.\n\nCodan's CHIRP (an ALE signal) uses PSK modulation across 32 channels with 80Hz of spacing. CHIRP uses 2560Hz of bandwidth."
+}

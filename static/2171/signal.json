@@ -1,0 +1,65 @@
+{
+    "pageid": "2171",
+    "title": "SECAM",
+    "spectrum": {
+        "filename": "SECAM.jpg",
+        "url": "https://www.sigidwiki.com/images/0/07/SECAM.jpg"
+    },
+    "audio": {
+        "filename": "SECAM.mp3",
+        "url": "https://www.sigidwiki.com/images/4/46/SECAM.mp3"
+    },
+    "category": [
+        "Analogue",
+        "Commercial"
+    ],
+    "frequency": [
+        {
+            "value": 47000000,
+            "description": ""
+        },
+        {
+            "value": 862000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 6000000,
+            "description": ""
+        },
+        {
+            "value": 7000000,
+            "description": ""
+        },
+        {
+            "value": 8000000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "VSB",
+            "description": "Vestigial Sideband Modulation"
+        },
+        {
+            "value": "FM",
+            "description": "Frequency Modulation"
+        }
+    ],
+    "mode": [
+        {
+            "value": "RAW",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ],
+    "short description": "Sequential Colour with Memory (SECAM) Analogue Television Broadcast. Now phased out in most of the world.",
+    "description": "**Sequential Colour with Memory (SECAM) Analogue Television Broadcast**. Now phased out in most of the world. Replaced by DVB-T. Used Frequency Modulation for transmitting video. Uses CCIR System B.\n\nHas a Field Rate of 50 Hz, 625 lines per frame, and a Gamma of 2.8."
+}

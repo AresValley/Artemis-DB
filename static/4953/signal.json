@@ -1,0 +1,39 @@
+{
+    "pageid": "4953",
+    "title": "SAS2",
+    "spectrum": {
+        "filename": "SAS2 mod pattern 2.gif",
+        "url": "https://www.sigidwiki.com/images/7/7a/SAS2_mod_pattern_2.gif"
+    },
+    "audio": {
+        "filename": "AF M12k 24DEC2015 073954z SAS2 .mp3",
+        "url": "https://www.sigidwiki.com/images/d/d4/AF_M12k_24DEC2015_073954z_SAS2_.mp3"
+    },
+    "category": [
+        "Military",
+        "Marine"
+    ],
+    "frequency": [
+        {
+            "value": 42500,
+            "description": ""
+        }
+    ],
+    "bandwidth": [],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "MSK",
+            "description": "Minimum-Shift Keying"
+        }
+    ],
+    "mode": [],
+    "location": [
+        {
+            "value": "Sweden",
+            "description": ""
+        }
+    ],
+    "short description": "Swedish navy transmitter for submarine communication. It shares the antenna with SAQ (Grimeton Radio) and is activated less often as the other Swedish transmitters used for VLF submarine communication. Usually, it works with reduced power.",
+    "description": "SAS2 is activated less often as the other Swedish transmitters used for VLF submarine communication. Usually, it works with reduced power.\n\nSwedish MSK transmitters can easily be identified in the waterfall diagram by their fishbone-like modulation pattern. This seems to belong to the idle phases where no data are transmitted. \n\nThe fishbone pattern is even audible as a characteristic modulation."
+}

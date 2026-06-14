@@ -1,0 +1,56 @@
+{
+    "pageid": "3073",
+    "title": "FEC-A",
+    "spectrum": {
+        "filename": "FEC-A 96 Bd 400 Hz.jpg",
+        "url": "https://www.sigidwiki.com/images/d/d5/FEC-A_96_Bd_400_Hz.jpg"
+    },
+    "audio": {
+        "filename": "FEC-A-96-TFC.mp3",
+        "url": "https://www.sigidwiki.com/images/d/df/FEC-A-96-TFC.mp3"
+    },
+    "category": [
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 3000000,
+            "description": ""
+        },
+        {
+            "value": 30000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 100,
+            "description": ""
+        },
+        {
+            "value": 1200,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "FSK",
+            "description": "Frequency-Shift Keying"
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ],
+    "short description": "FEC-A, also known as FEC-100 or FEC-100A, is a synchronous simplex ARQ system that uses the ITA 2 alphabet. This mode was once used by many embassies, diplomatic services, and news agencies worldwide. This mode was developed by Siemens.",
+    "description": "**FEC-A**, also known as FEC-100 or FEC-100A, is a synchronous simplex ARQ system that uses the ITA 2 alphabet. This mode was once used by many embassies, diplomatic services, and news agencies, including Turkish, German, French, Nigerian, and Serbian. This mode was developed by Siemens.\n\nUsers that have used FEC-A:\n\n- Turkish and German Press\n- French (P6z) Diplo Services\n- Serbian (DFZG) Diplo Services\n- Turkish (TAD) Diplo Services\n\nFEC-A has shifts of 85 Hz, 200 Hz, 400 Hz, and 850 Hz. FEC-A has speeds of 96 Bd, 144 Bd, 192 Bd, and 288 Bd. It was once reported that MFA Paris and French Embassy in Romania used a 2x192 Bd speed of 384 Bd.\n\nFEC-A uses a convolutional error correction scheme based on data bits being read into a shift register, the length of which may be changed. Values of 72 and 128 bits are common."
+}

@@ -1,0 +1,48 @@
+{
+    "pageid": "4191",
+    "title": "BALDR Weather Sensor Telemetry",
+    "spectrum": {
+        "filename": "OOK SDR Sharp.PNG",
+        "url": "https://www.sigidwiki.com/images/d/df/OOK_SDR_Sharp.PNG"
+    },
+    "audio": {
+        "filename": "SDRSharp 20170218 155836Z 434675400Hz AF.wav",
+        "url": "https://www.sigidwiki.com/images/e/e8/SDRSharp_20170218_155836Z_434675400Hz_AF.wav"
+    },
+    "category": [
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 434675400,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 12500,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "PFM",
+            "description": "Pulse Frequency Modulation"
+        }
+    ],
+    "mode": [
+        {
+            "value": "FM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ],
+    "short description": "BalDR weather sensor SCADA telemetry, A signal standard that belongs to the BalDR brand of weather sensors, and might also belong to other brands of weather sensors that use their technologies.  Uses a set of randomly-generated delimiters which vary the overall pitch of the signal by slight Hz rates and modulation properties, to send its data and keep the display updated.",
+    "description": ""
+}

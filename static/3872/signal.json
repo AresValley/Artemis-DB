@@ -1,0 +1,56 @@
+{
+    "pageid": "3872",
+    "title": "3G WCDMA",
+    "spectrum": {
+        "filename": "3GWCDMA.png",
+        "url": "https://www.sigidwiki.com/images/1/1a/3GWCDMA.png"
+    },
+    "audio": {
+        "filename": "WCDMA 3G.mp3",
+        "url": "https://www.sigidwiki.com/images/b/bb/WCDMA_3G.mp3"
+    },
+    "category": [
+        "Digital",
+        "Commercial"
+    ],
+    "frequency": [
+        {
+            "value": 824000000,
+            "description": ""
+        },
+        {
+            "value": 2100000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 4200000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "QPSK",
+            "description": "Quadrature Phase-Shift Keying"
+        },
+        {
+            "value": "BPSK",
+            "description": "Binary Phase-Shift Keying"
+        }
+    ],
+    "mode": [
+        {
+            "value": "RAW",
+            "description": ""
+        },
+        {
+            "value": "AM",
+            "description": ""
+        }
+    ],
+    "location": [],
+    "short description": "WCDMA, known primarily as 3G mobile, is a family of 3G data protocols used to send voice, text and signaling data to smart phones and other wireless devices.",
+    "description": "UMTS (Universal Mobile Telecommunications System) is a 3rd generation mobile phone technology developed by the 3GPP partnership. Unlike 2G GSM, UMTS uses CDMA (Code Division Multiple Access) technology. Despite UMTS using CDMA technology, it is a different standard than cdmaOne and CDMA2000, competing 2G and 3G standards developed by 3GPP2. UMTS is further improved and extended to support higher data rates by the HSPA (High Speed Packet Access) standard."
+}

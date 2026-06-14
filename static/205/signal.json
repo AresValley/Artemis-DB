@@ -1,55 +1,39 @@
 {
-    "signal": {
-        "name": "Globe Wireless HF Network",
-        "url": "https://www.sigidwiki.com/wiki/Globe_Wireless_HF_Network"
+    "pageid": "205",
+    "title": "LoJack",
+    "spectrum": {
+        "filename": "Lojack.jpg",
+        "url": "https://www.sigidwiki.com/images/5/5b/Lojack.jpg"
+    },
+    "audio": {
+        "filename": "Traqueur_164.1750_FSK_(2).mp3",
+        "url": "https://www.sigidwiki.com/images/9/9c/Traqueur_164.1750_FSK_%282%29.mp3"
     },
     "category": [
-        "Digital",
-        "Marine",
-        "Commercial"
+        "Utility"
     ],
     "frequency": [
         {
-            "value": 3000000,
-            "description": ""
-        },
-        {
-            "value": 30000000,
+            "value": 173075000,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 400,
-            "description": ""
-        },
-        {
-            "value": 750,
-            "description": ""
-        },
-        {
-            "value": 2000,
+            "value": 10000,
             "description": ""
         }
     ],
     "acf": [],
     "modulation": [
         {
-            "value": "PSK",
-            "description": ""
-        },
-        {
             "value": "FSK",
-            "description": ""
-        },
-        {
-            "value": "OFDM",
-            "description": ""
+            "description": "Frequency-Shift Keying"
         }
     ],
     "mode": [
         {
-            "value": "USB",
+            "value": "NFM",
             "description": ""
         }
     ],
@@ -58,5 +42,7 @@
             "value": "Worldwide",
             "description": ""
         }
-    ]
+    ],
+    "short description": "LoJack is a vehicle tracking system that allows vehicles to be tracked by police, with the aim of recovering them in case of theft via a small radio transceiver clandestinely installed in a vehicle.",
+    "description": "**LoJack** is a vehicle tracking system that allows vehicles to be tracked by police, with the aim of recovering them in case of theft via a small radio transceiver clandestinely installed in a vehicle.\n \nBit rate: 1200 bits per second\n\nModulation rate: 1200 baud\n\nBinary “0”/Space: 1.5 cycles of an 1800 Hz sine wave\n\nBinary “1”/Mark: 1 cycle of a 1200 Hz sine wave"
 }

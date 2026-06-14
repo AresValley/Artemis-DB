@@ -1,0 +1,38 @@
+{
+    "pageid": "6487",
+    "title": "Cobra Dane",
+    "spectrum": {
+        "filename": null,
+        "url": null
+    },
+    "audio": {
+        "filename": null,
+        "url": null
+    },
+    "category": [
+        "Military",
+        "Radar"
+    ],
+    "frequency": [
+        {
+            "value": 1215000000,
+            "description": ""
+        },
+        {
+            "value": 1400000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [],
+    "acf": [],
+    "modulation": [],
+    "mode": [],
+    "location": [
+        {
+            "value": "United States",
+            "description": ""
+        }
+    ],
+    "short description": "The AN/FPS-108 COBRA DANE is a PESA phased array radar installation operated by Raytheon for the United States Space Force (originally for the United States Air Force) at Eareckson Air Station on the island of Shemya, Aleutian Islands, Alaska.",
+    "description": "The AN/FPS-108 COBRA DANE is a PESA phased array radar installation operated by Raytheon for the United States Space Force at Eareckson Air Station on the island of Shemya, Aleutian Islands, Alaska.[1] This radar system was built in 1976 and brought on-line in 1977 for the primary mission of gathering intelligence about Russia's ICBM program in support of verification of the SALT II arms limitation treaty. Its single face 29 m (95 ft) diameter phased array radar antenna 52.7373°N 174.0914°E faces the Kamchatka Peninsula and Russia's Kura Test Range. COBRA DANE operates in the 1215–1400 MHz band."
+}

@@ -1,0 +1,48 @@
+{
+    "pageid": "6681",
+    "title": "2006 Kia Grand Carnival Keyfob",
+    "spectrum": {
+        "filename": "Kia Grand Carnival Keyfob.PNG",
+        "url": "https://www.sigidwiki.com/images/d/db/Kia_Grand_Carnival_Keyfob.PNG"
+    },
+    "audio": {
+        "filename": "Kia Grand Carival Keyfob.wav",
+        "url": "https://www.sigidwiki.com/images/0/01/Kia_Grand_Carival_Keyfob.wav"
+    },
+    "category": [
+        "Utility"
+    ],
+    "frequency": [
+        {
+            "value": 433920000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 100000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "FSK",
+            "description": "Frequency-Shift Keying"
+        }
+    ],
+    "mode": [
+        {
+            "value": "NFM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ],
+    "short description": "Original remote of KIA Carnival (2006).",
+    "description": ""
+}

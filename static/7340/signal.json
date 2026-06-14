@@ -1,0 +1,52 @@
+{
+    "pageid": "7340",
+    "title": "CIS MFSK-11",
+    "spectrum": {
+        "filename": "Unknown MFSK-11.png",
+        "url": "https://www.sigidwiki.com/images/8/81/Unknown_MFSK-11.png"
+    },
+    "audio": {
+        "filename": "Unknown MFSK-11 USB.ogg",
+        "url": "https://www.sigidwiki.com/images/3/38/Unknown_MFSK-11_USB.ogg"
+    },
+    "category": [
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 7800000,
+            "description": ""
+        },
+        {
+            "value": 23800000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 3300,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "FSK",
+            "description": "Frequency-Shift Keying"
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Russia",
+            "description": ""
+        }
+    ],
+    "short description": "This MSFK-11 signal is widely believed to originate from Russia, used by Russian intelligence, military or diplomatic agencies.",
+    "description": "This is an MFSK-11 mode which is believed to be used by Russian intelligence, military or diplomatic agencies. It has been observed on frequencies used by such Russian agencies but purpose of the signal is unknown. Identification is based on UDXF group logs and i56578-SWL analysis. The signal is similar to [CIS MFSK-16 XPB](https://www.sigidwiki.com/wiki/CIS_MFSK-16_XPB) and [CIS MFSK-21-13](https://www.sigidwiki.com/wiki/CIS_MFSK-21-13) but is less common. Also similar is [Automatic Link Establishment (2G_ALE)](https://www.sigidwiki.com/wiki/Automatic_Link_Establishment_%282G_ALE%29) but it is not related.\n\nTone spacing is 250 Hz and the first tone is 650 Hz away from the assumed transmission frequency. Bandwidth is about 3300 Hz."
+}

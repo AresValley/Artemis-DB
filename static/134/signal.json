@@ -1,33 +1,40 @@
 {
-    "signal": {
-        "name": "DeltaFix",
-        "url": "https://www.sigidwiki.com/wiki/DeltaFix"
+    "pageid": "134",
+    "title": "Redundant Digital File Transfer (RDFT)",
+    "spectrum": {
+        "filename": "Digtrx_intro.jpg",
+        "url": "https://www.sigidwiki.com/images/5/54/Digtrx_intro.jpg"
+    },
+    "audio": {
+        "filename": "DIGTRX_INTRO.mp3",
+        "url": "https://www.sigidwiki.com/images/6/6f/DIGTRX_INTRO.mp3"
     },
     "category": [
-        "Marine",
-        "Navigation"
+        "Amateur Radio",
+        "Numbers Stations",
+        "Digital"
     ],
     "frequency": [
         {
-            "value": 1700000,
+            "value": 9240000,
             "description": ""
         },
         {
-            "value": 3400000,
+            "value": 9065000,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 250,
+            "value": 1800,
             "description": ""
         }
     ],
     "acf": [],
     "modulation": [
         {
-            "value": "FSK",
-            "description": ""
+            "value": "PSK",
+            "description": "Phase-Shift Keying"
         }
     ],
     "mode": [
@@ -41,5 +48,7 @@
             "value": "Worldwide",
             "description": ""
         }
-    ]
+    ],
+    "short description": "RDFT is an amateur radio digital mode used to transmit files.",
+    "description": "**RDFT** is an amateur radio digital mode used to transmit files invented by Barry Sanderson, KB9VAK. Uses DPSK.\n\nRDFT was designed for radio amateurs to send files, primarily pictures, known as Digital SSTV, although it was not very popular. Now it is used almost exclusively by the Cuban Number Station (HM01).\n\nOriginal applications for coding, modulating, demodulating and decoding, which use DSP techniques to work with PC soundcard, were written by Barry Sanderson, KB9VAK. \nThe only GUI application (which utilizes applications written by KB9VAK) known to copy the files (but not necessarily decrypt them) is DIGTRX made by Roland Zurmely, PY4ZBZ.\n\nThis software has been long abandoned for other modes and has been replaced by HamDRM and other similar digital SSTV software."
 }

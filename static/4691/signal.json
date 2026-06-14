@@ -1,0 +1,49 @@
+{
+    "pageid": "4691",
+    "title": "Hyundai Mobis RKE-4F16 Key Fob",
+    "spectrum": {
+        "filename": "Hyundai Key Fob.jpg",
+        "url": "https://www.sigidwiki.com/images/2/2e/Hyundai_Key_Fob.jpg"
+    },
+    "audio": {
+        "filename": "TQ8-RKE Audio.mp3",
+        "url": "https://www.sigidwiki.com/images/1/1e/TQ8-RKE_Audio.mp3"
+    },
+    "category": [
+        "Utility",
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 433920000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 110000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "FSK",
+            "description": "Frequency-Shift Keying"
+        }
+    ],
+    "mode": [
+        {
+            "value": "WFM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ],
+    "short description": "Hyundai Mobis RKE-4F16 Wireless Key Fob for Hyundai Sonata models 2014-Present.",
+    "description": "**Hyundai Mobis RKE-4F16 Wireless Key Fob** for Hyundai Sonata models 2014-Present."
+}

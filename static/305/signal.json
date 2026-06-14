@@ -1,40 +1,49 @@
 {
-    "signal": {
-        "name": "MRZ-3MK Weather Balloon (radiosonde)",
-        "url": "https://www.sigidwiki.com/wiki/MRZ-3MK_Weather_Balloon_(radiosonde)"
+    "pageid": "305",
+    "title": "Autocab",
+    "spectrum": {
+        "filename": "Autocab.jpg",
+        "url": "https://www.sigidwiki.com/images/f/f1/Autocab.jpg"
+    },
+    "audio": {
+        "filename": "autocab.mp3",
+        "url": "https://www.sigidwiki.com/images/3/37/Autocab.mp3"
     },
     "category": [
-        "Digital"
+        "Digital",
+        "Commercial"
     ],
     "frequency": [
         {
-            "value": 1680000000,
+            "value": 163375000,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 6000000,
+            "value": 12500,
             "description": ""
         }
     ],
     "acf": [],
     "modulation": [
         {
-            "value": "PFM",
-            "description": ""
+            "value": "PSK",
+            "description": "Phase-Shift Keying"
         }
     ],
     "mode": [
         {
-            "value": "AM",
+            "value": "NFM",
             "description": ""
         }
     ],
     "location": [
         {
-            "value": "Russia",
+            "value": "United Kingdom",
             "description": ""
         }
-    ]
+    ],
+    "short description": "This is an example of the Autocab Media Data Terminals used by cab companies all over the world.",
+    "description": "This is an example of the Autocab Media Data Terminals used by cab companies all over the world. Autocab is an example of Digital Dispatch System (DDS) for taxis. These use QPSK modulation."
 }

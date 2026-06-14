@@ -1,0 +1,56 @@
+{
+    "pageid": "2220",
+    "title": "Pursuit Wireless Car Key",
+    "spectrum": {
+        "filename": "1995_nissan_key.jpg",
+        "url": "https://www.sigidwiki.com/images/1/16/1995_nissan_key.jpg"
+    },
+    "audio": {
+        "filename": "Nissan_Wireless_Key_AM_Mode.mp3",
+        "url": "https://www.sigidwiki.com/images/e/e4/Nissan_Wireless_Key_AM_Mode.mp3"
+    },
+    "category": [
+        "Utility"
+    ],
+    "frequency": [
+        {
+            "value": 301500000,
+            "description": ""
+        },
+        {
+            "value": 302500000,
+            "description": ""
+        },
+        {
+            "value": 434000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 40000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "AM",
+            "description": "Amplitude Modulation"
+        }
+    ],
+    "mode": [
+        {
+            "value": "AM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ],
+    "short description": "Pursuit series wireless car alarm entry key, for use on vehicles equipped with Pursuit Series Car Alarm System.",
+    "description": "**Pursuit series wireless car alarm** entry key, for use on vehicles equipped with Pursuit Series Car Alarm System. The transmitting key fob's are manufactured by Nutek Corporation in Taiwan."
+}

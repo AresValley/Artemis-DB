@@ -1,0 +1,57 @@
+{
+    "pageid": "1574",
+    "title": "CIS-20",
+    "spectrum": {
+        "filename": "CIS-20.jpg",
+        "url": "https://www.sigidwiki.com/images/5/53/CIS-20.jpg"
+    },
+    "audio": {
+        "filename": "CIS20.mp3",
+        "url": "https://www.sigidwiki.com/images/e/e8/CIS20.mp3"
+    },
+    "category": [
+        "Military",
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 3000000,
+            "description": ""
+        },
+        {
+            "value": 30000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 2750,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "PSK",
+            "description": "Phase-Shift Keying"
+        },
+        {
+            "value": "OFDM",
+            "description": "Orthogonal Frequency-Division Multiplexing"
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Russia",
+            "description": ""
+        }
+    ],
+    "short description": "Russian AT-3104 Modem signal, 20-tone OFDM DQPSK signal. Has characteristic pilot tone located 3300 Hz from suppressed carrier. All 20 channels operate at 75 Bd.",
+    "description": "Russian AT-3104 Modem signal, 20-tone OFDM DQPSK signal. Has characteristic pilot tone located 3300 Hz from suppressed carrier. All 20 channels operate at 75 Bd."
+}

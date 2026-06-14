@@ -1,70 +1,47 @@
 {
-    "signal": {
-        "name": "FT4",
-        "url": "https://www.sigidwiki.com/wiki/FT4"
+    "pageid": "180",
+    "title": "Nissan Car Key",
+    "spectrum": {
+        "filename": "NissanCarFob_Waterfallthmb.png",
+        "url": "https://www.sigidwiki.com/images/e/e9/NissanCarFob_Waterfallthmb.png"
+    },
+    "audio": {
+        "filename": "NissanCarFob_Sound.mp3",
+        "url": "https://www.sigidwiki.com/images/a/a0/NissanCarFob_Sound.mp3"
     },
     "category": [
-        "Amateur Radio",
-        "Digital"
+        "Digital",
+        "Utility"
     ],
     "frequency": [
         {
-            "value": 14080000,
+            "value": 315000000,
             "description": ""
         },
         {
-            "value": 3575000,
+            "value": 433000000,
             "description": ""
         },
         {
-            "value": 7047500,
+            "value": 301500000,
             "description": ""
         },
         {
-            "value": 10140,
-            "description": ""
-        },
-        {
-            "value": 18104000,
-            "description": ""
-        },
-        {
-            "value": 21140000,
-            "description": ""
-        },
-        {
-            "value": 24919000,
-            "description": ""
-        },
-        {
-            "value": 28180000,
-            "description": ""
-        },
-        {
-            "value": 50318000,
-            "description": ""
-        },
-        {
-            "value": 144170000,
+            "value": 302500000,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 83,
+            "value": 40000,
             "description": ""
         }
     ],
     "acf": [],
-    "modulation": [
-        {
-            "value": "GFSK",
-            "description": ""
-        }
-    ],
+    "modulation": [],
     "mode": [
         {
-            "value": "USB",
+            "value": "AM",
             "description": ""
         }
     ],
@@ -73,5 +50,7 @@
             "value": "Worldwide",
             "description": ""
         }
-    ]
+    ],
+    "short description": "Wireless entry rolling code car key.",
+    "description": "Wireless entry rolling code car key."
 }

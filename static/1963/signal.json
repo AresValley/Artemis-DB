@@ -1,0 +1,52 @@
+{
+    "pageid": "1963",
+    "title": "ARQ6-98",
+    "spectrum": {
+        "filename": "ARQ 6-98.jpg",
+        "url": "https://www.sigidwiki.com/images/3/3a/ARQ_6-98.jpg"
+    },
+    "audio": {
+        "filename": "arq6-98.mp3",
+        "url": "https://www.sigidwiki.com/images/6/63/Arq6-98.mp3"
+    },
+    "category": [
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 10000000,
+            "description": ""
+        },
+        {
+            "value": 23000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 400,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "FSK",
+            "description": "Frequency-Shift Keying"
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ],
+    "short description": "ARQ6-98, also known as ARQ-6-98 and ARQ-6/98, is a 6-character block simplex ARQ system formerly used by French and Italian diplomatic services for the exchange of teletype-data. It is no longer used or seen today.",
+    "description": "**ARQ6-98** is a 6-character block simplex ARQ system formerly used by French and Italian diplomatic services. It is no longer used or seen today. This mode uses the CCIR-476 charset. \n\n [ARQ6-90](https://www.sigidwiki.com/wiki/ARQ6-90) and [ARQ6-98](https://www.sigidwiki.com/wiki/ARQ6-98) differ in both bandwidth and their inter datablock timing. A complete cycle for ARQ6-98 has duration of 490 ms of which the data block is 210 ms an interval is 280 ms."
+}

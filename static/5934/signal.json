@@ -1,0 +1,67 @@
+{
+    "pageid": "5934",
+    "title": "MSK144",
+    "spectrum": {
+        "filename": "MSK144 2.png",
+        "url": "https://www.sigidwiki.com/images/1/18/MSK144_2.png"
+    },
+    "audio": {
+        "filename": "Msk144 audio.mp3",
+        "url": "https://www.sigidwiki.com/images/8/87/Msk144_audio.mp3"
+    },
+    "category": [],
+    "frequency": [
+        {
+            "value": 144000000,
+            "description": ""
+        },
+        {
+            "value": 440000000,
+            "description": ""
+        },
+        {
+            "value": 50000000,
+            "description": ""
+        },
+        {
+            "value": 70000000,
+            "description": ""
+        },
+        {
+            "value": 30000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 2500,
+            "description": ""
+        }
+    ],
+    "acf": [
+        {
+            "value": 72.0,
+            "description": "Main"
+        }
+    ],
+    "modulation": [
+        {
+            "value": "MSK",
+            "description": "Minimum-Shift Keying"
+        }
+    ],
+    "mode": [
+        {
+            "value": "FM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ],
+    "short description": "MSK144 is a Minimum Shift Keying FSK signal used for amateur radio meteor-scatter contacts. It transmits 144 bit long packets at a baudrate of 2000 bps using frequencies 1000 and 2000 Hz.",
+    "description": "**MSK144** is a Minimum Shift Keying FSK signal used for amateur radio meteor-scatter contacts. It transmits 144 bit long packets at a baudrate of 2000 bps using frequencies 1000 and 2000 Hz. It is part of the WSJT-X suite, developed by Joe Taylor K1JT and others."
+}

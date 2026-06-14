@@ -1,0 +1,46 @@
+{
+    "pageid": "6092",
+    "title": "Land Rover Discovery 4 Car Key",
+    "spectrum": {
+        "filename": "NoWaterfallFiller.png",
+        "url": "https://www.sigidwiki.com/images/1/12/NoWaterfallFiller.png"
+    },
+    "audio": {
+        "filename": "LR (mp3cut.net).mp3",
+        "url": "https://www.sigidwiki.com/images/3/34/LR_%28mp3cut.net%29.mp3"
+    },
+    "category": [],
+    "frequency": [
+        {
+            "value": 433930000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 950000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "FSK",
+            "description": "Frequency-Shift Keying"
+        }
+    ],
+    "mode": [
+        {
+            "value": "NFM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ],
+    "short description": "2FSK transmission mode 20828 baud,\nInformation is transmitted by the code \"Manchester\", respectively, the data transfer rate is twice lower (7785.63 baud).",
+    "description": ""
+}

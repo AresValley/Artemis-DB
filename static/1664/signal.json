@@ -1,0 +1,65 @@
+{
+    "pageid": "1664",
+    "title": "CIS-128",
+    "spectrum": {
+        "filename": "CIS-128.jpg",
+        "url": "https://www.sigidwiki.com/images/c/c9/CIS-128.jpg"
+    },
+    "audio": {
+        "filename": "ofdm128.mp3",
+        "url": "https://www.sigidwiki.com/images/2/2d/Ofdm128.mp3"
+    },
+    "category": [
+        "Military",
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 3000000,
+            "description": ""
+        },
+        {
+            "value": 30000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 3100,
+            "description": ""
+        },
+        {
+            "value": 6100,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "PSK",
+            "description": "Phase-Shift Keying"
+        },
+        {
+            "value": "OFDM",
+            "description": "Orthogonal Frequency-Division Multiplexing"
+        },
+        {
+            "value": "QAM",
+            "description": "Quadrature Amplitude Modulation"
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Russia",
+            "description": ""
+        }
+    ],
+    "short description": "CIS-128 is an OFDM  mode that uses 128 channels, with one “off” channel in the center, so the signal is divided into two 64 channel parts.",
+    "description": "**CIS-128** is an OFDM mode that uses 128 channels, with one “off” channel in the center, so the signal is divided into two 64 channel parts. This mode has been seen using QAM and PSK of various modes. QAM-16, QAM-4, and QPSK have been seen so far. Has a baud rate of about 21 Bd in each subchannel. Has been seen with [CIS-3000](https://www.sigidwiki.com/wiki/CIS-3000) preluding the transmission.\n\nAlso seen in a 6 kHz wideband mode, with double the baud rate but still maintaining 128 channels and the center off channel."
+}

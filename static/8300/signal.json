@@ -1,0 +1,88 @@
+{
+    "pageid": "8300",
+    "title": "802.11ax",
+    "spectrum": {
+        "filename": "802-11ax-waterfall.png",
+        "url": "https://www.sigidwiki.com/images/5/57/802-11ax-waterfall.png"
+    },
+    "audio": {
+        "filename": "802.11ax.wav",
+        "url": "https://www.sigidwiki.com/images/c/cf/802.11ax.wav"
+    },
+    "category": [
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 2412000000,
+            "description": ""
+        },
+        {
+            "value": 7125000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 20000000,
+            "description": ""
+        },
+        {
+            "value": 40000000,
+            "description": ""
+        },
+        {
+            "value": 80000000,
+            "description": ""
+        },
+        {
+            "value": 160000000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "OFDM",
+            "description": "Orthogonal Frequency-Division Multiplexing"
+        },
+        {
+            "value": "BPSK",
+            "description": "Binary Phase-Shift Keying"
+        },
+        {
+            "value": "QPSK",
+            "description": "Quadrature Phase-Shift Keying"
+        },
+        {
+            "value": "QAM",
+            "description": "Quadrature Amplitude Modulation"
+        },
+        {
+            "value": "QAM",
+            "description": "Quadrature Amplitude Modulation"
+        },
+        {
+            "value": "QAM",
+            "description": "Quadrature Amplitude Modulation"
+        },
+        {
+            "value": "QAM",
+            "description": "Quadrature Amplitude Modulation"
+        }
+    ],
+    "mode": [
+        {
+            "value": "AM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ],
+    "short description": "IEEE 802.11ax-2021, also known as Wi-Fi 6, is a WLAN standard improves upon previous Wi-Fi standards by utilizing 1024QAM modulation, larger channel bandwidths, and improved efficiency.",
+    "description": "IEEE 802.11ax-2021, also known as 802.11ax, or Wi-Fi 6, is a standard of wireless networking that utilizes 1024QAM, OFDMA, MU-MIMO, and up to 160 MHz channel bandwidth to allow for more throughput and lower latency compared to previous standards. 802.11ax offers a peak theoretical speeds of 9.6Gbps, with real-world speeds reaching upwards of 1500Mbps."
+}

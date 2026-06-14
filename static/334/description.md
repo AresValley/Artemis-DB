@@ -1,1 +1,0 @@
-Naval Radio Transmitting Facility (NRTF) sends encrypted commands to submerged US naval submarines in the Pacific.

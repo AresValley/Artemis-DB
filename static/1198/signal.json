@@ -1,0 +1,81 @@
+{
+    "pageid": "1198",
+    "title": "ARQ-E(E3)",
+    "spectrum": {
+        "filename": "ARQE3192Bd.png",
+        "url": "https://www.sigidwiki.com/images/b/ba/ARQE3192Bd.png"
+    },
+    "audio": {
+        "filename": "ARQ-E3_192_Baud.mp3",
+        "url": "https://www.sigidwiki.com/images/3/3c/ARQ-E3_192_Baud.mp3"
+    },
+    "category": [
+        "Military",
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 3000000,
+            "description": ""
+        },
+        {
+            "value": 30000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 85,
+            "description": ""
+        },
+        {
+            "value": 160,
+            "description": ""
+        },
+        {
+            "value": 170,
+            "description": ""
+        },
+        {
+            "value": 190,
+            "description": ""
+        },
+        {
+            "value": 340,
+            "description": ""
+        },
+        {
+            "value": 388,
+            "description": ""
+        },
+        {
+            "value": 400,
+            "description": ""
+        },
+        {
+            "value": 850,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "FSK",
+            "description": "Frequency-Shift Keying"
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ],
+    "short description": "ARQ-E, also known as ARQ-1000 Duplex or ARQ-1000D, is a synchronous full-duplex ARQ system. ARQ-E3 is a variant that uses a different alphabet encoding. Mainly used by French Military Forces. Stations commonly idled for hours on end.",
+    "description": "**ARQ-E**, also known as ARQ-1000 duplex or ARQ-1000D, is a synchronous full-duplex ARQ system. ARQ-E3 is a variant that uses a different alphabet encoding. Once used by Italian and French Military Forces. Stations commonly idled for hours on end. \n \nARQ-E was developed by Siemens in Germany. ARQ-E uses 7-bit ITA 2-P alphabet. ARQ-E3 is a variant that uses the 7-bit error correcting ITA 3 alphabet. When decoding ARQ-E, if many 'F' characters are being decoded, it's very likely it's a ARQ-E3 protocol. The same is true vice-versa, decoding with ARQ-E3 on an ARQ-E signal. \n\nARQ-E(E3) can operate on a wide range of bauds, from 30 Bd to 650 Bd. They're most commonly found with bauds between 96 and 233. The bandwidth is also pretty varied, with the smallest at 85 Hz, and the largest at 850 Hz."
+}

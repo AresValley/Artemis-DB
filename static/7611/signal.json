@@ -1,0 +1,80 @@
+{
+    "pageid": "7611",
+    "title": "Beta",
+    "spectrum": {
+        "filename": "Beta time code 3.png",
+        "url": "https://www.sigidwiki.com/images/b/bd/Beta_time_code_3.png"
+    },
+    "audio": {
+        "filename": "Beta time code.ogg",
+        "url": "https://www.sigidwiki.com/images/3/30/Beta_time_code.ogg"
+    },
+    "category": [
+        "Time"
+    ],
+    "frequency": [
+        {
+            "value": 20500,
+            "description": ""
+        },
+        {
+            "value": 23000,
+            "description": ""
+        },
+        {
+            "value": 25000,
+            "description": ""
+        },
+        {
+            "value": 25100,
+            "description": ""
+        },
+        {
+            "value": 25500,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 200,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "CW",
+            "description": "Continuous Wave"
+        },
+        {
+            "value": "OOK",
+            "description": "On-Off Keying"
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Russia",
+            "description": ""
+        },
+        {
+            "value": "Belarus",
+            "description": ""
+        },
+        {
+            "value": "Kyrgyzstan",
+            "description": ""
+        },
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ],
+    "short description": "Beta is the designation of a time signal service which is transmitted from multiple Russian VLF stations.",
+    "description": "**Beta** is the designation of a Russian VLF time signal service, controlled by All-Russian Scientific Research Institute for Physical-Engineering and Radiotechnical Metrology, and operated by Russian Navy. It is transmitted several times per day from 6 transmitter stations which take turns transmitting the signal and only one station transmits at a time.\n\nThe six Beta transmitters are: [LINK](https://en.wikipedia.org/wiki/Beta_(time_signal)) [LINK](http://www.vlf.it/russianvlf/russianvlf.htm) \n\n- **RJH63**, Krasnodar, Russia \n\n- **RJH69**, Vilyeyka, near Molodechno, Belarus \n\n- **RJH77**, Archangelsk, Russia \n\n- **RJH86**, Bishkek, Kyrgyzstan \n\n- **RJH90**, Nizhny Novgorod, Russia \n\n- **RAB99**, Khabarovsk, Russia \n\nTransmitter output power has been estimated to be 1000 kW but due to the low efficiency of electrically short antennas, transmitted power may be around 30 to 50 kW EIRP."
+}

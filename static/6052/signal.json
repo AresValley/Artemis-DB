@@ -1,0 +1,49 @@
+{
+    "pageid": "6052",
+    "title": "LEOSAR Downlink",
+    "spectrum": {
+        "filename": "LEOTIT.png",
+        "url": "https://www.sigidwiki.com/images/a/a3/LEOTIT.png"
+    },
+    "audio": {
+        "filename": "LEOSARTIT.mp3",
+        "url": "https://www.sigidwiki.com/images/4/42/LEOSARTIT.mp3"
+    },
+    "category": [
+        "Satellite",
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 1544500000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 350000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "PSK",
+            "description": "Phase-Shift Keying"
+        }
+    ],
+    "mode": [
+        {
+            "value": "NFM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ],
+    "short description": "Cospas-Sarsat downlink from polar-orbiting weather satellites. The International Cospas-Sarsat Programme is a satellite-aided search and rescue initiative.",
+    "description": "The International Cospas-Sarsat Programme is a satellite-aided search and rescue initiative. The system utilizes a network of satellites that provide coverage everywhere on Earth. Distress alerts are detected, located and forwarded to over 200 countries and territories at no cost to beacon owners or the receiving government agencies.\n\nThis signal is from LEO (Low Earth Orbit) polar orbiting satellites - NOAA 15/18/19, METOP B, METEOR-M N2-2.\nCospas-Sarsat also uses a MEOSAR segment used by satellites in higher orbits such as Galileo, and GEOSAR for geostationary satellites like ELEKTRO-L and GOES."
+}

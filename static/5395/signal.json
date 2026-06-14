@@ -1,0 +1,44 @@
+{
+    "pageid": "5395",
+    "title": "GRAVES",
+    "spectrum": {
+        "filename": "GRAVES.png",
+        "url": "https://www.sigidwiki.com/images/7/72/GRAVES.png"
+    },
+    "audio": {
+        "filename": "Gqrx 20190519 090112 143050200.ogg",
+        "url": "https://www.sigidwiki.com/images/c/c5/Gqrx_20190519_090112_143050200.ogg"
+    },
+    "category": [
+        "Military",
+        "Radar"
+    ],
+    "frequency": [
+        {
+            "value": 143050000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 1000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [],
+    "mode": [
+        {
+            "value": "RAW I/Q",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "France",
+            "description": ""
+        }
+    ],
+    "short description": "The Grand Réseau Adapté à la Veille Spatiale (GRAVES) system is a French space-surveillance system for low-orbit (up to 1000km) satellites. Emitter is based near Dijon, France.",
+    "description": "The **Grand Réseau Adapté à la Veille Spatiale (GRAVES)** system is a French space-surveillance system for low-orbit (up to 1000km) satellites. Emitter is based near Dijon, France."
+}

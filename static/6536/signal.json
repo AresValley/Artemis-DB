@@ -1,0 +1,53 @@
+{
+    "pageid": "6536",
+    "title": "Graw DFM-17 (Radiosonde)",
+    "spectrum": {
+        "filename": "Dfmwaterfall.png",
+        "url": "https://www.sigidwiki.com/images/9/99/Dfmwaterfall.png"
+    },
+    "audio": {
+        "filename": "dfm17sample.wav",
+        "url": "https://www.sigidwiki.com/images/a/a6/Dfm17sample.wav"
+    },
+    "category": [
+        "Utility",
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 400000000,
+            "description": ""
+        },
+        {
+            "value": 405990000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 10000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "GFSK",
+            "description": "Gaussian Frequency-Shift Keying"
+        }
+    ],
+    "mode": [
+        {
+            "value": "NFM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ],
+    "short description": "Radiosonde developed by Graw/Noris Group GmbH for upper air weather observation",
+    "description": "The DFM-17 is a radiosonde developed by Graw/Noris Group GmbH which contains a temperature, barometric pressure (optional), and humidity sensor for upper air weather observations. It also contains a GPS receiver for position tracking as well as calculating wind speeds. \n\nCurrently in the United States, the National Oceanic and Atmospheric Administration (NOAA) is in the process transitioning some of it's National Weather Service (NWS) offices that are part of the upper-air observation program to the Graw DFM-17 radiosonde. Other offices are being transitioned to different variations of the [Vaisala RS-41 Radiosonde](https://www.sigidwiki.com/wiki/Vaisala_RS41-SG_Weather_Balloon_(Radiosonde)). A list of upper-air sites and their new radiosonde types can be found [here on the weather.gov website](https://www.weather.gov/media/upperair/Documents/Upper%20Air%20Sites%20Ground%20Equipment%20and%20Radiosonde%20Types.pdf)."
+}

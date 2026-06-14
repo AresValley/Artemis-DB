@@ -1,0 +1,58 @@
+{
+    "pageid": "3235",
+    "title": "PSK2K",
+    "spectrum": {
+        "filename": "PSK2K.jpg",
+        "url": "https://www.sigidwiki.com/images/1/19/PSK2K.jpg"
+    },
+    "audio": {
+        "filename": "PSK2K.mp3",
+        "url": "https://www.sigidwiki.com/images/2/2b/PSK2K.mp3"
+    },
+    "category": [
+        "Digital",
+        "Amateur Radio"
+    ],
+    "frequency": [
+        {
+            "value": 50360000,
+            "description": ""
+        },
+        {
+            "value": 144360000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 2000,
+            "description": ""
+        }
+    ],
+    "acf": [
+        {
+            "value": 129.0,
+            "description": "Main"
+        }
+    ],
+    "modulation": [
+        {
+            "value": "PSK",
+            "description": "Phase-Shift Keying"
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ],
+    "short description": "PSK2K is a meteor scatter type of mode written by DJ5HG Using a modulation scheme of BPSK at 2000 Bd.",
+    "description": "**PSK2K** is a meteor scatter type of mode written by DJ5HG Using a modulation scheme of BPSK at 2000 Bd. Every codeword of PSK2k has 258 bits. Since the Baudrate is 2000, a codeword is transmitted in 129 ms. Identical code words are transmitted continuously."
+}

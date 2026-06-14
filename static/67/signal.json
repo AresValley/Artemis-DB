@@ -1,32 +1,39 @@
 {
-    "signal": {
-        "name": "CCIR Selcall",
-        "url": "https://www.sigidwiki.com/wiki/CCIR_Selcall"
+    "pageid": "67",
+    "title": "POCSAG",
+    "spectrum": {
+        "filename": "POCSAG_Waterfallthmb.png",
+        "url": "https://www.sigidwiki.com/images/5/5b/POCSAG_Waterfallthmb.png"
+    },
+    "audio": {
+        "filename": "POCSAG_Sound.mp3",
+        "url": "https://www.sigidwiki.com/images/4/4f/POCSAG_Sound.mp3"
     },
     "category": [
-        "Analogue"
+        "Digital",
+        "Commercial"
     ],
     "frequency": [
         {
-            "value": 30000000,
+            "value": 932000000,
             "description": ""
         },
         {
-            "value": 800000000,
+            "value": 25000000,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 5000,
+            "value": 9000,
             "description": ""
         }
     ],
     "acf": [],
     "modulation": [
         {
-            "value": "MFSK",
-            "description": ""
+            "value": "FSK",
+            "description": "Frequency-Shift Keying"
         }
     ],
     "mode": [
@@ -40,5 +47,7 @@
             "value": "Worldwide",
             "description": ""
         }
-    ]
+    ],
+    "short description": "POCSAG (Post Office Code Standardisation Advisory Group), also known as Super-POCSAG, Radio Paging Code No. 1 or RPC1, is a one-way 2FSK paging protocol that supports 512, 1200, and 2400 bps.",
+    "description": "**POCSAG** (**Post Office Code Standardisation Advisory Group**), also known as Super-POCSAG, Radio Paging Code No. 1 or RPC1, is a one-way 2FSK paging protocol that supports 512, 1200, and 2400 bps. POCSAG transmissions of different speeds and different paging protocols (e.g. [FLEX](https://www.sigidwiki.com/wiki/FLEX)) on the same paging channel are supported. POCSAG's official designation is \"*CCIR Recommendation 584, Radio Paging Code No. 1*\". \n\nThe Post Office Code Standardisation Advisory Group was from the British Post Office, which used to run nearly all telecommunications in Britain before privatization."
 }

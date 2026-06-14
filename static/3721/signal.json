@@ -1,0 +1,57 @@
+{
+    "pageid": "3721",
+    "title": "FSQ",
+    "spectrum": {
+        "filename": "FSQ.png",
+        "url": "https://www.sigidwiki.com/images/b/bb/FSQ.png"
+    },
+    "audio": {
+        "filename": "FSQ.mp3",
+        "url": "https://www.sigidwiki.com/images/1/11/FSQ.mp3"
+    },
+    "category": [
+        "Digital",
+        "Amateur Radio"
+    ],
+    "frequency": [
+        {
+            "value": 3580000,
+            "description": ""
+        },
+        {
+            "value": 7104000,
+            "description": ""
+        },
+        {
+            "value": 10149000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 300,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "IFK",
+            "description": "Incremental Frequency Keying"
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ],
+    "short description": "Fast Simple QSO (FSQ) is an amateur radio digital modulation mode developed by Con Wassilieff ZL2AFP with Murray Greenman ZL1BPU in 2015.",
+    "description": "**Fast Simple QSO (FSQ)** is an amateur radio digital modulation mode developed by Con Wassilieff ZL2AFP with Murray Greenman ZL1BPU in 2015. FSQ is used on HF on fixed frequency channels. VHF adaptions of FSQ are also supported using VHF FM. FSQ uses IFK+ and has efficient alphabet encoding as well as no need for syncing to receive. The FSQ modulation, coding and FSQCall protocol are publicly disclosed and described, and the software is open source. \n\nFSQ is intended for fixed frequency (channelized) operation, with dedicated calling frequencies. It isn't intended as a 'tune around to see what you can find' mode!"
+}

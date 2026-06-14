@@ -1,0 +1,58 @@
+{
+    "pageid": "1727",
+    "title": "Digital Enhanced Cordless Telecommunications (DECT)",
+    "spectrum": {
+        "filename": "DECT waterfall.jpg",
+        "url": "https://www.sigidwiki.com/images/1/11/DECT_waterfall.jpg"
+    },
+    "audio": {
+        "filename": "Dect16.mp3",
+        "url": "https://www.sigidwiki.com/images/6/61/Dect16.mp3"
+    },
+    "category": [
+        "Commercial",
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 1880000000,
+            "description": ""
+        },
+        {
+            "value": 1900000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 1600000,
+            "description": ""
+        }
+    ],
+    "acf": [
+        {
+            "value": 10.0,
+            "description": "Main"
+        }
+    ],
+    "modulation": [
+        {
+            "value": "GFSK",
+            "description": "Gaussian Frequency-Shift Keying"
+        }
+    ],
+    "mode": [
+        {
+            "value": "AM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ],
+    "short description": "DECT is a ETSI standard for short range communications, mainly cordless phones. It uses a 10 channel/24 slots in a TDMA FDD structure.\nAudio sample is 100 times slower than real for listening purposes.",
+    "description": "**DECT** is a ETSI standard for short range communications, mainly cordless phones. It uses a 10 channel/24 slots in a TDMA FDD structure.\nAudio sample is 100 times slower than real for listening purposes."
+}

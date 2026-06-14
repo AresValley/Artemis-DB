@@ -1,0 +1,60 @@
+{
+    "pageid": "6650",
+    "title": "RDL VLF",
+    "spectrum": {
+        "filename": "RDL FSK.PNG",
+        "url": "https://www.sigidwiki.com/images/d/d5/RDL_FSK.PNG"
+    },
+    "audio": {
+        "filename": "RDL FSK audio.mp3",
+        "url": "https://www.sigidwiki.com/images/a/ac/RDL_FSK_audio.mp3"
+    },
+    "category": [
+        "Military"
+    ],
+    "frequency": [
+        {
+            "value": 18100,
+            "description": ""
+        },
+        {
+            "value": 21100,
+            "description": ""
+        },
+        {
+            "value": 27300,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 300,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "FSK",
+            "description": "Frequency-Shift Keying"
+        },
+        {
+            "value": "CWFSK",
+            "description": "Continuous Wave - Frequency Shift Keying"
+        }
+    ],
+    "mode": [
+        {
+            "value": "CW",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Russia",
+            "description": ""
+        }
+    ],
+    "short description": "RDL is a Russian VLF station located in Krasnodar. It is one of the few VLF stations that changes modes during routine transmissions.",
+    "description": "RDL is one of the most interesting VLF stations due to its variety of modes and intermittent, but frequent operation.\n\nThe station has two modes of operation:\n- Fast FSK, used most of the time\n- Slow Morse FSK, cleartext. Usually broadcasts the callsign, followed by some numbers, and finishing with the time of the transmission.\n\nThe transmissions will cease, or switch to a very low power when the message is sent.\nThe duration of the transmission is very variable, from less than a minute to more than ten."
+}

@@ -1,0 +1,53 @@
+{
+    "pageid": "7048",
+    "title": "LTE420 MCX",
+    "spectrum": {
+        "filename": "LTE-M.png",
+        "url": "https://www.sigidwiki.com/images/8/81/LTE-M.png"
+    },
+    "audio": {
+        "filename": "LTEM.mp3",
+        "url": "https://www.sigidwiki.com/images/b/b7/LTEM.mp3"
+    },
+    "category": [
+        "Commercial",
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 423700000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 1080000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "QAM",
+            "description": "Quadrature Amplitude Modulation"
+        },
+        {
+            "value": "OFDM",
+            "description": "Orthogonal Frequency-Division Multiplexing"
+        }
+    ],
+    "mode": [
+        {
+            "value": "AM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Poland",
+            "description": ""
+        }
+    ],
+    "short description": "Band 88 FDD",
+    "description": ""
+}

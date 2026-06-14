@@ -1,34 +1,84 @@
 {
-    "signal": {
-        "name": "BlueWalker-3 Wideband Telemetry",
-        "url": "https://www.sigidwiki.com/wiki/BlueWalker-3_Wideband_Telemetry"
+    "pageid": "61",
+    "title": "Project 25 (P25)",
+    "spectrum": {
+        "filename": "P25.jpg",
+        "url": "https://www.sigidwiki.com/images/2/2d/P25.jpg"
+    },
+    "audio": {
+        "filename": "P25_trunking_channel.mp3",
+        "url": "https://www.sigidwiki.com/images/e/e7/P25_trunking_channel.mp3"
     },
     "category": [
-        "Satellite",
+        "Trunked Radio",
         "Digital"
     ],
     "frequency": [
         {
-            "value": 2245000000,
+            "value": 136000000,
+            "description": ""
+        },
+        {
+            "value": 174000000,
+            "description": ""
+        },
+        {
+            "value": 380000000,
+            "description": ""
+        },
+        {
+            "value": 512000000,
+            "description": ""
+        },
+        {
+            "value": 769000000,
+            "description": ""
+        },
+        {
+            "value": 824000000,
+            "description": ""
+        },
+        {
+            "value": 851000000,
+            "description": ""
+        },
+        {
+            "value": 859000000,
+            "description": ""
+        },
+        {
+            "value": 896000000,
+            "description": ""
+        },
+        {
+            "value": 939000000,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 1000000,
+            "value": 12500,
             "description": ""
         }
     ],
     "acf": [],
     "modulation": [
         {
-            "value": "BPSK",
-            "description": ""
+            "value": "PSK",
+            "description": "Phase-Shift Keying"
+        },
+        {
+            "value": "C4FM",
+            "description": "4-level FSK Technology"
+        },
+        {
+            "value": "TDMA",
+            "description": "Time-Division Multiple Access"
         }
     ],
     "mode": [
         {
-            "value": "RAW",
+            "value": "NFM",
             "description": ""
         }
     ],
@@ -37,5 +87,7 @@
             "value": "Worldwide",
             "description": ""
         }
-    ]
+    ],
+    "short description": "Project 25 (P25 or APCO-25) is a trunked radio standard developed by The Association of Public Safety Communications Officials International (APCO-25) for use with public safety organizations around the world.",
+    "description": "- Not to be confused with Yaesu [C4FM](https://www.sigidwiki.com/wiki/Yaesu_System_Fusion)*\n\n**Project 25 (P25 or APCO-25)** is a trunked radio standard developed by The Association of Public Safety Communications Officials International (APCO-25) for use with public safety organizations around the world. P25 supports encrypted voice."
 }

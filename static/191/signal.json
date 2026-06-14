@@ -1,38 +1,38 @@
 {
-    "signal": {
-        "name": "GM2100 (R&S)",
-        "url": "https://www.sigidwiki.com/wiki/GM2100_(R%26S)"
+    "pageid": "191",
+    "title": "Ionosonde",
+    "spectrum": {
+        "filename": "Ionosonde2e.png",
+        "url": "https://www.sigidwiki.com/images/e/ee/Ionosonde2e.png"
+    },
+    "audio": {
+        "filename": "Ionosondee.mp3",
+        "url": "https://www.sigidwiki.com/images/8/88/Ionosondee.mp3"
     },
     "category": [
-        "Digital",
-        "Military"
+        "Radar"
     ],
     "frequency": [
         {
-            "value": 3000000,
+            "value": 1000000,
             "description": ""
         },
         {
-            "value": 30000000,
+            "value": 40000000,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 3000,
+            "value": 1,
             "description": ""
         }
     ],
-    "acf": [
-        {
-            "value": 133.3,
-            "description": "Main"
-        }
-    ],
+    "acf": [],
     "modulation": [
         {
-            "value": "PSK",
-            "description": ""
+            "value": "FMCW",
+            "description": "Frequency-Modulated Continuous Wave"
         }
     ],
     "mode": [
@@ -43,8 +43,10 @@
     ],
     "location": [
         {
-            "value": "Europe",
+            "value": "Worldwide",
             "description": ""
         }
-    ]
+    ],
+    "short description": "An Ionosonde (Also known as a chirpsounder or ionospheric sounder) is a radar that examines the Ionosphere and monitors HF propagation conditions by sweeping the HF band and receiving the echoes.",
+    "description": "An **Ionosonde** (Also known as a chirpsounder or ionospheric sounder) is a radar that examines the Ionosphere and monitors HF propagation conditions by sweeping the HF band and receiving the echoes.\n\nIonosondes sweep from 1-40Mhz. They send a line of very short pulses up the band. It looks like a slanted line when observed on a waterfall display.\n \nIonosondes are examples of Frequency-Modulated Continuous Wave (FMCW) based radar."
 }

@@ -1,0 +1,49 @@
+{
+    "pageid": "8584",
+    "title": "LRS restaurant pager",
+    "spectrum": {
+        "filename": "LRS.jpg",
+        "url": "https://www.sigidwiki.com/images/c/c5/LRS.jpg"
+    },
+    "audio": {
+        "filename": "LRS.mp3",
+        "url": "https://www.sigidwiki.com/images/9/9a/LRS.mp3"
+    },
+    "category": [
+        "Digital",
+        "Utility"
+    ],
+    "frequency": [
+        {
+            "value": 446000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 12500,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "FM",
+            "description": "Frequency Modulation"
+        }
+    ],
+    "mode": [
+        {
+            "value": "NFM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ],
+    "short description": "LRS restaurant pagers operate in the PMR446 band, most commonly on 446.15625 MHz. The system uses narrowband FM (NFM) modulation with a 12.5 kHz channel bandwidth, transmitting short data bursts that activate individual pagers.",
+    "description": "**LRS restaurant pagers** operate in the PMR446 band, most commonly on 446.15625 MHz. The system uses narrowband FM (NFM) modulation with a 12.5 kHz channel bandwidth, transmitting short data bursts that activate individual pagers. Transmission power is low (typically well below the PMR446 limit of 500 mW ERP), since the required range is only tens to hundreds of meters. Communication is one‑way: the base station sends an ID-coded message, and the pager vibrates, lights up, or beeps when its code is received."
+}

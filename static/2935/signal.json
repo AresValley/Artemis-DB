@@ -1,0 +1,57 @@
+{
+    "pageid": "2935",
+    "title": "CIS MFSK-68",
+    "spectrum": {
+        "filename": "CIS MFSK-68.jpg",
+        "url": "https://www.sigidwiki.com/images/3/3b/CIS_MFSK-68.jpg"
+    },
+    "audio": {
+        "filename": "HDSDR_20151229_175329Z_7kHz_AF.mp3",
+        "url": "https://www.sigidwiki.com/images/1/1b/HDSDR_20151229_175329Z_7kHz_AF.mp3"
+    },
+    "category": [
+        "Digital",
+        "Military"
+    ],
+    "frequency": [
+        {
+            "value": 7659000,
+            "description": ""
+        },
+        {
+            "value": 18280000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 10000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "FSK",
+            "description": "Frequency-Shift Keying"
+        },
+        {
+            "value": "PSK",
+            "description": "Phase-Shift Keying"
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Russia",
+            "description": ""
+        }
+    ],
+    "short description": "New Russian MFSK Modem that uses 68 MFSK (5 tones at a time) as well as a 9000 Bd 8-PSK insert every second which spans 10 kHz wide. This signal is often found attributed with CIS-3000, where CIS-3000 acts as the ALE for this signal as well as CIS-128. It is used by Russian diplomatic services and known with the unofficial name \"Perelivt\".",
+    "description": "Also known as **Perelivt**, this is a relatively new Russian MFSK Modem that uses 68 MFSK (5 tones per symbol) as well as a 9000 Bd 8-PSK insert every second which spans 10 kHz wide. This signal is used by Russian diplomatic services and it is often found attributed with CIS-3000, where [CIS-3000](https://www.sigidwiki.com/wiki/CIS-3000) acts as the ALE for this signal as well as [CIS-128](https://www.sigidwiki.com/wiki/CIS-128). It has also been seen precluding a [Mazielka (X06)](https://www.sigidwiki.com/wiki/Mazielka_%28X06%29) selcall. They may be sent from the same modem.\n\nThe MFSK uses 68 tones at 100 Bd or 50 Bd. The MFSK portion lasts 960 ms, and the PSK insert lasts 40 ms, so a single frame is exactly 1 second long. The 8-PSK insert transmits at 9000 Bd, so roughly 1440 bits are transmitted each time the PSK insert happens.\n\nThe number of tones has also been said to be 64 or 66 depending on the source. It is not known if there are different variants or operating modes of this signal."
+}

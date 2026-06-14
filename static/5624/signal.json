@@ -1,0 +1,85 @@
+{
+    "pageid": "5624",
+    "title": "FT4",
+    "spectrum": {
+        "filename": "Ft42.png",
+        "url": "https://www.sigidwiki.com/images/9/9f/Ft42.png"
+    },
+    "audio": {
+        "filename": "FT4 2020-02-16T16 22 52Z 14080.62 usb.wav",
+        "url": "https://www.sigidwiki.com/images/9/99/FT4_2020-02-16T16_22_52Z_14080.62_usb.wav"
+    },
+    "category": [
+        "Amateur Radio",
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 14080000,
+            "description": ""
+        },
+        {
+            "value": 3575000,
+            "description": ""
+        },
+        {
+            "value": 7047500,
+            "description": ""
+        },
+        {
+            "value": 10140,
+            "description": ""
+        },
+        {
+            "value": 18104000,
+            "description": ""
+        },
+        {
+            "value": 21140000,
+            "description": ""
+        },
+        {
+            "value": 24919000,
+            "description": ""
+        },
+        {
+            "value": 28180000,
+            "description": ""
+        },
+        {
+            "value": 50318000,
+            "description": ""
+        },
+        {
+            "value": 144170000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 83.3,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "FSK",
+            "description": "Frequency-Shift Keying"
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ],
+    "short description": "FT4 is an amateur radio contesting communication protocol developed by Joe Taylor (K1JT) and Steve Franke (K9AN) descended from FT8.",
+    "description": "**FT4** is an amateur radio contesting communication protocol developed by Joe Taylor (K1JT) and Steve Franke (K9AN) that is descended from [FT8](https://www.sigidwiki.com/wiki/FT8). The specifications for FT4 are available [on the Princeton Physics website](https://physics.princeton.edu/pulsar/k1jt/FT4_Protocol.pdf).\n\nFT4 uses 4-MFSK modulation, transmission takes 4.48s with a 7.5s timing window. Frequency changes are Gaussian smoothed to minimize bandwidth. FT4 transmissions can be decoded at S/N down to -17.5dB in a 2500 Hz noise bandwidth."
+}

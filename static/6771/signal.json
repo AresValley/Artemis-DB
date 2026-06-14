@@ -1,0 +1,50 @@
+{
+    "pageid": "6771",
+    "title": "CORIOLIS Tactical Direct Broadcast",
+    "spectrum": {
+        "filename": "CORIOLIS DB.png",
+        "url": "https://www.sigidwiki.com/images/6/68/CORIOLIS_DB.png"
+    },
+    "audio": {
+        "filename": null,
+        "url": null
+    },
+    "category": [
+        "Satellite",
+        "Military",
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 2221500000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 2000000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "BPSK",
+            "description": "Binary Phase-Shift Keying"
+        }
+    ],
+    "mode": [
+        {
+            "value": "RAW",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ],
+    "short description": "Direct Broadcast digital signal from the CORIOLIS satellite, primarily carries data from the WindSat instrument.",
+    "description": "The CORIOLIS Tactical Direct Broadcast link carries direct broadcast (real time) data from the CORIOLIS satellite (a satellite designed to measure sea waves, and indirectly, wind speed and direction)."
+}

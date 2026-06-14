@@ -1,0 +1,54 @@
+{
+    "pageid": "6969",
+    "title": "Aprizesat",
+    "spectrum": {
+        "filename": "AprizesatWF.png",
+        "url": "https://www.sigidwiki.com/images/3/32/AprizesatWF.png"
+    },
+    "audio": {
+        "filename": "Aprizesat.mp3",
+        "url": "https://www.sigidwiki.com/images/8/82/Aprizesat.mp3"
+    },
+    "category": [
+        "Commercial",
+        "Satellite",
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 400500000,
+            "description": ""
+        },
+        {
+            "value": 400650000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 5000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "GMSK",
+            "description": "Gaussian Minimum-Shift Keying"
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ],
+    "short description": "Data downlink from Aprizesat microsatellites. Aprizesat constellation consists of 12 Active satellites, These provide a worldwide M2M asset tracking service and relay AIS packets.",
+    "description": "Data downlink from Aprizesat microsatellites. Aprizesat constellation consists of 12 Active satellites, These provide a worldwide M2M asset tracking service and relay AIS packets."
+}

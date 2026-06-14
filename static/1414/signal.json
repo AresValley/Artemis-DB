@@ -1,0 +1,73 @@
+{
+    "pageid": "1414",
+    "title": "STANAG 4481",
+    "spectrum": {
+        "filename": "STANAG_4481.jpg",
+        "url": "https://www.sigidwiki.com/images/f/f7/STANAG_4481.jpg"
+    },
+    "audio": {
+        "filename": "KG84.mp3",
+        "url": "https://www.sigidwiki.com/images/e/ee/KG84.mp3"
+    },
+    "category": [
+        "Military",
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 2815000,
+            "description": ""
+        },
+        {
+            "value": 3046000,
+            "description": ""
+        },
+        {
+            "value": 11213000,
+            "description": ""
+        },
+        {
+            "value": 18016000,
+            "description": ""
+        },
+        {
+            "value": 8986000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 1500,
+            "description": ""
+        },
+        {
+            "value": 2750,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "FSK",
+            "description": "Frequency-Shift Keying"
+        },
+        {
+            "value": "PSK",
+            "description": "Phase-Shift Keying"
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ],
+    "short description": "STANAG 4481, also known as CRATT, Link-4, and NATO-75, is specified by the NATO (North Atlantic Treaty Organization) Military Agency for Standardization as a \"Minimum technical equipment standards for naval HF shore-to-ship broadcast system\"",
+    "description": "**STANAG 4481**, also known as CRATT, Link-4, and NATO-75, is specified by the NATO (North Atlantic Treaty Organization) Military Agency for Standardization as a \"Minimum technical equipment standards for naval HF shore-to-ship broadcast system\""
+}

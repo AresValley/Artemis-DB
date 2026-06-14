@@ -1,0 +1,53 @@
+{
+    "pageid": "5867",
+    "title": "Hoffman Broadfield Signpost AVM System",
+    "spectrum": {
+        "filename": "Mpt1327 clone.png",
+        "url": "https://www.sigidwiki.com/images/4/46/Mpt1327_clone.png"
+    },
+    "audio": {
+        "filename": "SDRSharp 20200628 022743Z 507875000Hz AF.mp3",
+        "url": "https://www.sigidwiki.com/images/0/09/SDRSharp_20200628_022743Z_507875000Hz_AF.mp3"
+    },
+    "category": [
+        "Commercial",
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 517875000,
+            "description": ""
+        },
+        {
+            "value": 507225000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 7500,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "FSK",
+            "description": "Frequency-Shift Keying"
+        }
+    ],
+    "mode": [
+        {
+            "value": "NFM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Australia",
+            "description": ""
+        }
+    ],
+    "short description": "Proprietary FFSK data network used for public transport telemetry. It is primarily used to track and control vehicles, and facilitates PTT-ID for communication with tram drivers.",
+    "description": "The Automatic Vehicle Monitoring (AVM) system was implemented on Melbourne's public Bus and Tram network in the 1980s. It is primarily used to track and control vehicles, and facilitates PTT-ID for communication with tram drivers.\n\nThere are five fleet controllers (see frequencies) which send a poll to each vehicle every 10 seconds, and the tram will transmit its current location (a code from the last received \"Signpost\" beacon), route, distance, speed, door status, alarms along with some other data, including odometer information on the uplink frequency.\n\nSince 2009 the AVM data feeds the PIDs at tram stops and stations, as well as the TramTracker app for mobile devices."
+}

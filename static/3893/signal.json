@@ -1,0 +1,56 @@
+{
+    "pageid": "3893",
+    "title": "Acer X222W monitor, sleep pulse",
+    "spectrum": {
+        "filename": "Acer monitor default sleep signal.PNG",
+        "url": "https://www.sigidwiki.com/images/d/da/Acer_monitor_default_sleep_signal.PNG"
+    },
+    "audio": {
+        "filename": "Acer monitor sound (FM).ogg",
+        "url": "https://www.sigidwiki.com/images/8/8b/Acer_monitor_sound_%28FM%29.ogg"
+    },
+    "category": [
+        "Interfering"
+    ],
+    "frequency": [
+        {
+            "value": 470000000,
+            "description": ""
+        },
+        {
+            "value": 420000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 300000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "Pulse",
+            "description": "Undisclosed Pulse Modulation"
+        }
+    ],
+    "mode": [
+        {
+            "value": "FM",
+            "description": ""
+        },
+        {
+            "value": "AM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ],
+    "short description": "Used for some PC monitors to keep the monitor's power on (or sleeping) across the spectra.  Monitors may transmit whatever frequency peaks needed to keep it \"on\" or on sleep mode.",
+    "description": ""
+}

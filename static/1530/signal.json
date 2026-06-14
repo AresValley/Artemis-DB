@@ -1,0 +1,53 @@
+{
+    "pageid": "1530",
+    "title": "CIS MFSK-20 XPA",
+    "spectrum": {
+        "filename": "XPA10.png",
+        "url": "https://www.sigidwiki.com/images/7/76/XPA10.png"
+    },
+    "audio": {
+        "filename": "XPA10.mp3",
+        "url": "https://www.sigidwiki.com/images/c/cb/XPA10.mp3"
+    },
+    "category": [
+        "Numbers Stations",
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 3000000,
+            "description": ""
+        },
+        {
+            "value": 30000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 800,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "FSK",
+            "description": "Frequency-Shift Keying"
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Russia",
+            "description": ""
+        }
+    ],
+    "short description": "Enigma Designation XPA, also known as MFSK-20, CIS MFSK-17, and CIS MFSK-20, is a 17-tone MFSK signal said to have origin from Russian Intelligence and Foreign Ministry stations.",
+    "description": "**Enigma Designation XPA**, also known as MFSK-20, CIS MFSK-17, and CIS MFSK-20, is a 17-tone MFSK signal said to have origin from Russian Intelligence and Foreign Ministry stations. \n\nXPA has a very unique preamble sequence, and a lower \"sync\" tone that other MFSK systems don't have. XPA transmits 5 number groups of unknown meaning. XPA has used 10 baud USB mode and 20 baud DSB (AM) mode, but since 2011 XPA has stopped using the 20 baud mode and is only using the 10 baud USB mode."
+}

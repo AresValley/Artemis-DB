@@ -1,0 +1,50 @@
+{
+    "pageid": "8044",
+    "title": "GK-2A LRIT ( Low-Rate Image Transmission )",
+    "spectrum": {
+        "filename": "LRIT_TRAFFIC.png",
+        "url": "https://www.sigidwiki.com/images/1/1c/LRIT_TRAFFIC.png"
+    },
+    "audio": {
+        "filename": "LRIT_AM.wav",
+        "url": "https://www.sigidwiki.com/images/3/33/LRIT_AM.wav"
+    },
+    "category": [
+        "Satellite",
+        "Digital",
+        "Utility"
+    ],
+    "frequency": [
+        {
+            "value": 1692100000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 170000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "BPSK",
+            "description": "Binary Phase-Shift Keying"
+        }
+    ],
+    "mode": [
+        {
+            "value": "RAW",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Asia",
+            "description": ""
+        }
+    ],
+    "short description": "LRIT (Low-Rate Image Transmission) is used to transmit images on the GK-2A satellite",
+    "description": "**Geo-KOMPSAT-2A** (GK2A) is a geostationary meteorological satellite (located at 128.2° E) operated by the Korea Meteorological Administration (KMA). (NORAD: 43823. Int: 2018-100A.)"
+}

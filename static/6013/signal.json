@@ -1,0 +1,54 @@
+{
+    "pageid": "6013",
+    "title": "CAS-4A/B Satellite Telemetry",
+    "spectrum": {
+        "filename": "CAS4B2.png",
+        "url": "https://www.sigidwiki.com/images/4/42/CAS4B2.png"
+    },
+    "audio": {
+        "filename": "CAS 4Sound.mp3",
+        "url": "https://www.sigidwiki.com/images/1/1b/CAS_4Sound.mp3"
+    },
+    "category": [
+        "Amateur Radio",
+        "Satellite",
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 145835000,
+            "description": ""
+        },
+        {
+            "value": 145890000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 10000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "GMSK",
+            "description": "Gaussian Minimum-Shift Keying"
+        }
+    ],
+    "mode": [
+        {
+            "value": "NFM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ],
+    "short description": "CAS-4A/B Satellite 4.8 kbps GMSK Telemetry Downlink.",
+    "description": "Two CAMSAT’s armature radio payloads piggybacked on the optical remote sensing micro-satellites OVS-1A and OVS-1Bhave beenlaunched at 11:00BJT on June 15, 2017 at The Jiuquan Satellite Launch Center of China, using CZ-4B launch vehicle."
+}

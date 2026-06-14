@@ -1,0 +1,69 @@
+{
+    "pageid": "1229",
+    "title": "CIS-1280",
+    "spectrum": {
+        "filename": "CIS-1280.jpg",
+        "url": "https://www.sigidwiki.com/images/7/7c/CIS-1280.jpg"
+    },
+    "audio": {
+        "filename": "CIS-1280.mp3",
+        "url": "https://www.sigidwiki.com/images/f/fd/CIS-1280.mp3"
+    },
+    "category": [
+        "Military",
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 9058000,
+            "description": ""
+        },
+        {
+            "value": 7663000,
+            "description": ""
+        },
+        {
+            "value": 5752000,
+            "description": ""
+        },
+        {
+            "value": 13369000,
+            "description": ""
+        },
+        {
+            "value": 3000000,
+            "description": ""
+        },
+        {
+            "value": 13000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 1280,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "PSK",
+            "description": "Phase-Shift Keying"
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Russia",
+            "description": ""
+        }
+    ],
+    "short description": "CIS-1280 is a OQPSK (Offset Quadrature Phase Shift-Keying) modulation data  modem signal. Also known as Soviet Mil(MOD)/FAPSI/PTT system. These stations are recognizable in that they are all placed on .081 offsets from a kilohertz or half kilohertz point.",
+    "description": "**CIS-1280** is an OQPSK (Offset Quadrature Phase Shift-Keying) modulation data modem signal. Also known as Soviet Mil(MOD)/FAPSI/PTT system. These stations are recognizable in that they are all placed on .081 offsets from a kilohertz or half kilohertz point.\n\nOQPSK means the width of the signal is exactly equal to the speed of the signal, which in this case is 1280 bps.\n\nData on this signal is found in Roland Proesch's *Technical Handbook for Radio Monitoring HF*."
+}

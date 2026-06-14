@@ -1,0 +1,52 @@
+{
+    "pageid": "6671",
+    "title": "Électricité de France HNZ",
+    "spectrum": {
+        "filename": null,
+        "url": null
+    },
+    "audio": {
+        "filename": "Hnz sample.mp3",
+        "url": "https://www.sigidwiki.com/images/3/3c/Hnz_sample.mp3"
+    },
+    "category": [
+        "Utility"
+    ],
+    "frequency": [
+        {
+            "value": 68500000,
+            "description": ""
+        },
+        {
+            "value": 73300000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 8000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "AFSK",
+            "description": "Audio Frequency-Shift Keying"
+        }
+    ],
+    "mode": [
+        {
+            "value": "FM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "France",
+            "description": ""
+        }
+    ],
+    "short description": "Electrical substation SCADA protocol used by EDF (Électricité de France).",
+    "description": "Electrical substation SCADA protocol used by EDF (Électricité de France). \"HNZ\" meaning unknown, may refer to the \"HN Z 66-S-11\" specification document.\n\n8N1 transmitted over CCITT V23 at 600bps."
+}

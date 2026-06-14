@@ -1,0 +1,77 @@
+{
+    "pageid": "8612",
+    "title": "Russian military 20bd 7kHz FSK",
+    "spectrum": {
+        "filename": "Russian FSK 7kHz 1.png",
+        "url": "https://www.sigidwiki.com/images/7/77/Russian_FSK_7kHz_1.png"
+    },
+    "audio": {
+        "filename": "Russian 7kHz FSK 1.mp3",
+        "url": "https://www.sigidwiki.com/images/c/c6/Russian_7kHz_FSK_1.mp3"
+    },
+    "category": [
+        "Military",
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 7041000,
+            "description": ""
+        },
+        {
+            "value": 7062500,
+            "description": ""
+        },
+        {
+            "value": 7042500,
+            "description": ""
+        },
+        {
+            "value": 7061000,
+            "description": ""
+        },
+        {
+            "value": 6941000,
+            "description": ""
+        },
+        {
+            "value": 6942500,
+            "description": ""
+        },
+        {
+            "value": 6961000,
+            "description": ""
+        },
+        {
+            "value": 6962500,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 7000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "FSK",
+            "description": "Frequency-Shift Keying"
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Russia",
+            "description": ""
+        }
+    ],
+    "short description": "Slow 20-baud FSK signal with very large 7 kHz frequency shift. Used by Russian military.",
+    "description": "This is a slow 20-baud FSK mode used by Russian military, with unusual 7 kHz frequency shift. Due to such a large frequency shift, it may be confused as being two [CW](https://www.sigidwiki.com/wiki/Morse_Code_%28CW%29) transmissions on nearby frequencies. Tranmissions have been heard on the 40-meter amateur radio band, usually but not always, on two frequencies simultaneously.\n\nAt least one source of the signal has been traced to Crimea, close to Sevastopol, where the Russian Black Sea Fleet base is located."
+}

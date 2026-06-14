@@ -1,0 +1,74 @@
+{
+    "pageid": "6814",
+    "title": "SkyOFDM",
+    "spectrum": {
+        "filename": "SkyOFDM.png",
+        "url": "https://www.sigidwiki.com/images/f/f1/SkyOFDM.png"
+    },
+    "audio": {
+        "filename": "SkyOFDM-short.mp3",
+        "url": "https://www.sigidwiki.com/images/5/57/SkyOFDM-short.mp3"
+    },
+    "category": [
+        "Digital",
+        "Military"
+    ],
+    "frequency": [
+        {
+            "value": 3000000,
+            "description": ""
+        },
+        {
+            "value": 30000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 2000,
+            "description": ""
+        },
+        {
+            "value": 2400,
+            "description": ""
+        }
+    ],
+    "acf": [
+        {
+            "value": 76.2,
+            "description": "Main"
+        },
+        {
+            "value": 78.0,
+            "description": "Main"
+        },
+        {
+            "value": 113.4,
+            "description": "Main"
+        }
+    ],
+    "modulation": [
+        {
+            "value": "PSK",
+            "description": "Phase-Shift Keying"
+        },
+        {
+            "value": "OFDM",
+            "description": "Orthogonal Frequency-Division Multiplexing"
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Finland",
+            "description": ""
+        }
+    ],
+    "short description": "Data transmission mode developed by SkySweep Technologies in Finland. Probably used by Finnish MFA",
+    "description": "SkyOFDM is a high speed modem based on the OFDM and turbo coding technologies. It offers several baud rates (300-9600 bps) and two different interleaving options (short and long). Also there are two bandwidth options: 2000Hz (OFDM 22 tones) and 2400 Hz (OFDM 28 tones).\n\nAt least two times the signal has been able to locate it to Southern Finland."
+}

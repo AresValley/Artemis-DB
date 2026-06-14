@@ -1,6 +1,6 @@
 import sqlite3
 from contextlib import closing
-from utils.constants import Query, Path
+from utils.constants import Query, ProjectPath
 
 
 class Database():
@@ -71,7 +71,7 @@ class ArtemisDB(Database):
     """ Class of the main Artemis database. Inherits from the Database superclass """
 
     def __init__(self, db_name):
-        sql_path = Path.DATA_DIR / "{}.sqlite".format(db_name)
+        sql_path = ProjectPath.DATA_DIR / "{}.sqlite".format(db_name)
         super().__init__(sql_path)   
 
     def create_db(self):

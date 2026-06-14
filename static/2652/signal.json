@@ -1,0 +1,37 @@
+{
+    "pageid": "2652",
+    "title": "Lightning Sferics",
+    "spectrum": {
+        "filename": "Lightening Sfpherics.png",
+        "url": "https://www.sigidwiki.com/images/3/33/Lightening_Sfpherics.png"
+    },
+    "audio": {
+        "filename": "thundr.mp3",
+        "url": "https://www.sigidwiki.com/images/f/f8/Thundr.mp3"
+    },
+    "category": [
+        "Interfering"
+    ],
+    "frequency": [
+        {
+            "value": 0,
+            "description": ""
+        },
+        {
+            "value": 30000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [],
+    "acf": [],
+    "modulation": [],
+    "mode": [],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ],
+    "short description": "VLF RF emissions from lightning in the atmosphere that can affect up to HF frequencies and beyond depending on strength. Has a popping crackle sound with both USB and AM modes of reception.",
+    "description": "**Lightning Sferics** are VLF RF emissions from lightning in the atmosphere that can affect up to HF frequencies and beyond depending on strength. Has a popping crackle sound with both USB and AM modes of reception."
+}

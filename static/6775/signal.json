@@ -1,0 +1,52 @@
+{
+    "pageid": "6775",
+    "title": "Logitech(R) Wireless Mouse+Keyboard Signal",
+    "spectrum": {
+        "filename": "LOGITECH MOUSE-KBD COMBO ISM-BAND.jpg",
+        "url": "https://www.sigidwiki.com/images/a/ab/LOGITECH_MOUSE-KBD_COMBO_ISM-BAND.jpg"
+    },
+    "audio": {
+        "filename": null,
+        "url": null
+    },
+    "category": [
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 2400000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 500000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "PPM",
+            "description": "Pulse Position Modulation"
+        },
+        {
+            "value": "GFSK",
+            "description": "Gaussian Frequency-Shift Keying"
+        }
+    ],
+    "mode": [
+        {
+            "value": "RAW",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ],
+    "short description": "This signal comes from Logitech(R) Brand wireless mouse and keyboard combo unit.",
+    "description": "The keyboard contains two radios, one sends the mouse+kbd signal to the USB dongle, the other listens to the mouse's transmitter and multiplexes it into the signal sent to the USB Dongle Receiver, that is the signal in the image. You can't see the much weaker mouse signal, but it is there between the pulses of the main radio. The keyboards main radio sends PPM, the mouse, for some reason, uses GFSK."
+}

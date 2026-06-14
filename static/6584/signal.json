@@ -1,0 +1,48 @@
+{
+    "pageid": "6584",
+    "title": "Digital Radio Mondiale Plus (DRM+)",
+    "spectrum": {
+        "filename": null,
+        "url": null
+    },
+    "audio": {
+        "filename": null,
+        "url": null
+    },
+    "category": [
+        "Digital",
+        "Commercial"
+    ],
+    "frequency": [
+        {
+            "value": 47000000,
+            "description": ""
+        },
+        {
+            "value": 230000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 100000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "OFDM",
+            "description": "Orthogonal Frequency-Division Multiplexing"
+        }
+    ],
+    "mode": [],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ],
+    "short description": "DRM+ is a VHF implementation of DRM primarily for the FM broadcast band.",
+    "description": "**This Article is currently in stub process. Feel free to add on to it by adding accurate images, sound files, and IF-IQ, by hitting the \"Edit\" button above this page.**\n\n**DRM+** is a digital audio broadcast mode based on the [DRM](https://www.sigidwiki.com/wiki/DRM) standard, primarily for use in the WFM broadcast spectrum. It uses COFDM (Coded Orthogonal Frequency Division Multiplexing) with QAM (Quadrature Amplitude Modulation).\n\nDRM+ differs from medium wave and HF DRM in that a 100 kHz channel is used for transmission of the digital audio and data, as well as using robustness mode 'E' to guard against fading."
+}

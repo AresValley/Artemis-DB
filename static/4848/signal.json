@@ -1,0 +1,49 @@
+{
+    "pageid": "4848",
+    "title": "NPM",
+    "spectrum": {
+        "filename": "Lualualei HI (2).jpg",
+        "url": "https://www.sigidwiki.com/images/0/02/Lualualei_HI_%282%29.jpg"
+    },
+    "audio": {
+        "filename": "HE Holt.mp3",
+        "url": "https://www.sigidwiki.com/images/2/2c/HE_Holt.mp3"
+    },
+    "category": [
+        "Military",
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 21400,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 300,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "FSK",
+            "description": "Frequency-Shift Keying"
+        }
+    ],
+    "mode": [
+        {
+            "value": "CW",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "United States",
+            "description": ""
+        }
+    ],
+    "short description": "Naval Radio Transmitting Facility (NRTF) sends encrypted commands to submerged US naval submarines in the Pacific.",
+    "description": ""
+}

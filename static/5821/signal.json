@@ -1,0 +1,53 @@
+{
+    "pageid": "5821",
+    "title": "ELEKTRO-L GGAK-E Direct Broadcast",
+    "spectrum": {
+        "filename": "ELEKTRO-L N2 BCN.png",
+        "url": "https://www.sigidwiki.com/images/b/b6/ELEKTRO-L_N2_BCN.png"
+    },
+    "audio": {
+        "filename": "Ggak l2.mp3",
+        "url": "https://www.sigidwiki.com/images/0/09/Ggak_l2.mp3"
+    },
+    "category": [
+        "Digital",
+        "Satellite"
+    ],
+    "frequency": [
+        {
+            "value": 1693000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 15000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "PSK",
+            "description": "Phase-Shift Keying"
+        }
+    ],
+    "mode": [
+        {
+            "value": "DSB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Asia",
+            "description": ""
+        },
+        {
+            "value": "Europe",
+            "description": ""
+        }
+    ],
+    "short description": "Broadcasts the data from the GGAK-E cosmic ray detector onboard ELEKTRO-L geostationary weather satellites",
+    "description": "The ELEKTRO-L series of geostationary weather satellites carry a cosmic ray detector called GGAK-E (Гелио Геофизический Aппаратурный Kомплекс = Helio-geophysical Instrumentation Complex) to monitor solar wind, cosmic rays and radiation levels.\n\nThe data is broadcast over an L-band link at 1693 MHz. Very little is known about the link or the instrument."
+}

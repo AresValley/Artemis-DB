@@ -1,54 +1,53 @@
 {
-    "signal": {
-        "name": "STANAG 4415",
-        "url": "https://www.sigidwiki.com/wiki/STANAG_4415"
+    "pageid": "430",
+    "title": "STP403 Bus PIT System",
+    "spectrum": {
+        "filename": "Fouine91_MPT1327-Like.jpg",
+        "url": "https://www.sigidwiki.com/images/c/c9/Fouine91_MPT1327-Like.jpg"
+    },
+    "audio": {
+        "filename": "Fouine91_MPT1327-Like.mp3",
+        "url": "https://www.sigidwiki.com/images/b/b7/Fouine91_MPT1327-Like.mp3"
     },
     "category": [
-        "Digital",
-        "Military"
+        "Utility",
+        "Commercial"
     ],
     "frequency": [
         {
-            "value": 3000000,
+            "value": 164000000,
             "description": ""
         },
         {
-            "value": 30000000,
+            "value": 468487500,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 2750,
+            "value": 8000,
             "description": ""
         }
     ],
-    "acf": [
-        {
-            "value": 200.0,
-            "description": "Header"
-        },
-        {
-            "value": 66.66,
-            "description": "Body"
-        }
-    ],
+    "acf": [],
     "modulation": [
         {
-            "value": "PSK",
-            "description": ""
+            "value": "FSK",
+            "description": "Frequency-Shift Keying"
         }
     ],
     "mode": [
         {
-            "value": "USB",
+            "value": "NFM",
             "description": ""
         }
     ],
     "location": [
         {
-            "value": "Worldwide",
+            "value": "France",
             "description": ""
         }
-    ]
+    ],
+    "short description": "STP403 is a bus PIT system used to update digital displays at bus stops. STP403 was developed by French companies INEO and CESATEC.",
+    "description": ""
 }

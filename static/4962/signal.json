@@ -1,0 +1,39 @@
+{
+    "pageid": "4962",
+    "title": "SHR",
+    "spectrum": {
+        "filename": "Shr mod patterns 1.gif",
+        "url": "https://www.sigidwiki.com/images/a/a3/Shr_mod_patterns_1.gif"
+    },
+    "audio": {
+        "filename": "AF  17OCT2014 080000z SHR-SRC .mp3",
+        "url": "https://www.sigidwiki.com/images/8/8d/AF_17OCT2014_080000z_SHR-SRC_.mp3"
+    },
+    "category": [
+        "Military",
+        "Marine"
+    ],
+    "frequency": [
+        {
+            "value": 38000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "MSK",
+            "description": "Minimum-Shift Keying"
+        }
+    ],
+    "mode": [],
+    "location": [
+        {
+            "value": "Sweden",
+            "description": ""
+        }
+    ],
+    "short description": "Swedish navy transmitter for submarine communication. It shares the antenna with SAQ (Grimeton Radio).",
+    "description": "Swedish MSK transmitters can easily be identified in the waterfall diagram by their fishbone-like modulation pattern. This seems to belong to the idle phases while the pattern seems to become more random while transmitting data.\n\nThe data section in the transmission presented here for SHR is quite similar to that of SAS at the same time. Both transmitters appear to be synchronized."
+}

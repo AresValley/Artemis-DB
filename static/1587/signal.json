@@ -1,0 +1,54 @@
+{
+    "pageid": "1587",
+    "title": "Yachta T-219 Voice Scrambler",
+    "spectrum": {
+        "filename": "Yachta.jpg",
+        "url": "https://www.sigidwiki.com/images/0/03/Yachta.jpg"
+    },
+    "audio": {
+        "filename": "Yachta T-219.mp3",
+        "url": "https://www.sigidwiki.com/images/3/3b/Yachta_T-219.mp3"
+    },
+    "category": [
+        "Military",
+        "Analogue",
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 3000000,
+            "description": ""
+        },
+        {
+            "value": 30000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 2700,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "FSK",
+            "description": "Frequency-Shift Keying"
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Russia",
+            "description": ""
+        }
+    ],
+    "short description": "Yachta or Yakhta (Russian for 'Boat') T-219 is an analogue voice scrambler. It is unique in that an FSK sync signal is transmitted in the middle of the main signal, with the scrambled voice stream split above and below the FSK signal.",
+    "description": "**Yachta** or **Yakhta** (Russian for 'Yacht' or 'Boat') T-219 is an analogue voice scrambler. It is unique in that an FSK sync signal is transmitted in the middle of the main signal, with the scrambled voice stream split above and below the FSK signal. This mode was replaced by [CIS-12](https://www.sigidwiki.com/wiki/CIS-12).\n\nThe FSK sync signal transmits at 100 Bd with 150 Hz shift. Used by the Russian Military to send time-sensitive information."
+}

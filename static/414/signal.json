@@ -1,36 +1,52 @@
 {
-    "signal": {
-        "name": "S-Band Jammer",
-        "url": "https://www.sigidwiki.com/wiki/S-Band_Jammer"
+    "pageid": "414",
+    "title": "Serdolik",
+    "spectrum": {
+        "filename": "Crowd_36thmb.jpg",
+        "url": "https://www.sigidwiki.com/images/e/ea/Crowd_36thmb.jpg"
+    },
+    "audio": {
+        "filename": "unknown1.mp3",
+        "url": "https://www.sigidwiki.com/images/0/0e/Unknown1.mp3"
     },
     "category": [
-        "Military",
-        "Commercial",
-        "Analogue"
+        "Digital"
     ],
     "frequency": [
         {
-            "value": 2400000000,
+            "value": 3000000,
+            "description": ""
+        },
+        {
+            "value": 30000000,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 100000,
-            "description": ""
-        },
-        {
-            "value": 100000000,
+            "value": 1400,
             "description": ""
         }
     ],
     "acf": [],
-    "modulation": [],
-    "mode": [],
-    "location": [
+    "modulation": [
         {
-            "value": "Worldwide",
+            "value": "FSK",
+            "description": "Frequency-Shift Keying"
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
             "description": ""
         }
-    ]
+    ],
+    "location": [
+        {
+            "value": "Russia",
+            "description": ""
+        }
+    ],
+    "short description": "Serdolik is a MFSK signal used by the Russian diplomatic service.",
+    "description": "**Serdolik** is a MFSK signal used by the Russian diplomatic service.\n \nThis signal consists of a 34-tone MFSK signal at 40 bd. This mode is currently mainly used for link establishment, whereas the actual traffic is passed using an OFDM waveform."
 }

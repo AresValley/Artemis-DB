@@ -1,0 +1,53 @@
+{
+    "pageid": "3943",
+    "title": "HD Radio (FM)",
+    "spectrum": {
+        "filename": "HD_Radio_fm_broadcast.jpg",
+        "url": "https://www.sigidwiki.com/images/2/25/HD_Radio_fm_broadcast.jpg"
+    },
+    "audio": {
+        "filename": "Hd radio audio sample.mp3",
+        "url": "https://www.sigidwiki.com/images/9/9d/Hd_radio_audio_sample.mp3"
+    },
+    "category": [
+        "Commercial",
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 87700000,
+            "description": ""
+        },
+        {
+            "value": 107900000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 400000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "OFDM",
+            "description": "Orthogonal Frequency-Division Multiplexing"
+        }
+    ],
+    "mode": [
+        {
+            "value": "RAW",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "United States",
+            "description": ""
+        }
+    ],
+    "short description": "HD Radio is a proprietary digital broadcast radio format transmitted in North America, usually as sidebands on analog carriers. This is the FM band implementation of HD Radio.",
+    "description": "[HD Radio (AM)](https://www.sigidwiki.com/wiki/HD_Radio_%28AM%29) | [HD Radio (FM)](https://www.sigidwiki.com/wiki/HD_Radio_%28FM%29)\n\n**iBiquity HD Radio** is a proprietary digital broadcast radio format transmitted in North America, usually as sidebands on analog carriers. This is the FM band implementation of HD Radio. This system exists on both [FM](https://www.sigidwiki.com/wiki/FM_Broadcast_Radio) and [AM](https://www.sigidwiki.com/wiki/Amplitude_Modulation_%28AM%29) Bands. This system was developed by iBiquity, which has been acquired by DTS in 2016."
+}

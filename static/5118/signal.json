@@ -1,0 +1,49 @@
+{
+    "pageid": "5118",
+    "title": "Vaisala RS80",
+    "spectrum": {
+        "filename": "RS80Waterfall.png",
+        "url": "https://www.sigidwiki.com/images/6/6f/RS80Waterfall.png"
+    },
+    "audio": {
+        "filename": "RS80 Recudedd audio Audio.mp3",
+        "url": "https://www.sigidwiki.com/images/b/bf/RS80_Recudedd_audio_Audio.mp3"
+    },
+    "category": [
+        "Analogue",
+        "Utility"
+    ],
+    "frequency": [
+        {
+            "value": 1680000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 120000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "FSK",
+            "description": "Frequency-Shift Keying"
+        }
+    ],
+    "mode": [
+        {
+            "value": "FM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ],
+    "short description": "Valsala Radiosonde RS80. This is an analog weather balloon radiosonde.\nMeasures Temperature, Pressure and Humidity.",
+    "description": ""
+}

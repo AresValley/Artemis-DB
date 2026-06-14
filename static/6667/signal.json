@@ -1,0 +1,49 @@
+{
+    "pageid": "6667",
+    "title": "Wettersonde E084 (Radiosonde)",
+    "spectrum": {
+        "filename": "E084 wettersonde waterfall.png",
+        "url": "https://www.sigidwiki.com/images/7/7f/E084_wettersonde_waterfall.png"
+    },
+    "audio": {
+        "filename": "E084 radiosonde audio.mp3",
+        "url": "https://www.sigidwiki.com/images/b/b4/E084_radiosonde_audio.mp3"
+    },
+    "category": [
+        "Utility",
+        "Analogue"
+    ],
+    "frequency": [
+        {
+            "value": 403050000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 2500,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "FM",
+            "description": "Frequency Modulation"
+        }
+    ],
+    "mode": [
+        {
+            "value": "NFM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Europe",
+            "description": ""
+        }
+    ],
+    "short description": "The E084 is a radiosonde designed in 1990 by Deutsche Wetterdienst. It broadcasts a temperature reading at 403.05 MHz via a FM-modulated tone which changes pitch depending on the temperature.",
+    "description": "The E084 is a radiosonde designed in 1990 by Deutsche Wetterdienst.\nThese radiosondes are fairly common and cheap as surplus items, and it is possible to adjust the frequency to transmit in the 70cm ham band."
+}

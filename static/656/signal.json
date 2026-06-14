@@ -1,0 +1,52 @@
+{
+    "pageid": "656",
+    "title": "Chinese 4+4",
+    "spectrum": {
+        "filename": "CHN_4+4.jpg",
+        "url": "https://www.sigidwiki.com/images/c/c8/CHN_4%2B4.jpg"
+    },
+    "audio": {
+        "filename": "Chinese_4+4.mp3",
+        "url": "https://www.sigidwiki.com/images/e/e7/Chinese_4%2B4.mp3"
+    },
+    "category": [
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 3000000,
+            "description": ""
+        },
+        {
+            "value": 30000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 2500,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "PSK",
+            "description": "Phase-Shift Keying"
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "China",
+            "description": ""
+        }
+    ],
+    "short description": "Chinese 4+4, also known as 4+4 or PRC 4+4, is a multi-carrier transmission mode. It used by Chinese Diplomatic services with most traffic originating from Beijing, China.",
+    "description": "**Chinese 4+4**, also known as **4+4** or **PRC 4+4**, is a multi-carrier transmission mode. It used by Chinese Diplomatic services with most traffic originating from Beijing, China."
+}

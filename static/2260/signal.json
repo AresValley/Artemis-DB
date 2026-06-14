@@ -1,0 +1,52 @@
+{
+    "pageid": "2260",
+    "title": "EURO",
+    "spectrum": {
+        "filename": "euro 5-tone.png",
+        "url": "https://www.sigidwiki.com/images/5/5a/Euro_5-tone.png"
+    },
+    "audio": {
+        "filename": "EURO 5-tone.mp3",
+        "url": "https://www.sigidwiki.com/images/2/2e/EURO_5-tone.mp3"
+    },
+    "category": [
+        "Analogue"
+    ],
+    "frequency": [
+        {
+            "value": 30000000,
+            "description": ""
+        },
+        {
+            "value": 800000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 5000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "FSK",
+            "description": "Frequency-Shift Keying"
+        }
+    ],
+    "mode": [
+        {
+            "value": "NFM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ],
+    "short description": "EURO is a 6/7-tone selcall mode used in VHF/UHF radios. Also known as EuroSignal.",
+    "description": "**EURO** is a 6/7-tone selcall mode used in VHF/UHF radios. Also known as EuroSignal.\n\nSelcall (selective calling) is a type of squelch protocol used in radio communications systems, in which transmissions include a brief burst of sequential audio tones. Receivers that are set to respond to the transmitted tone sequence will open their squelch, while others will remain muted.\n\nEURO has 16 tones to choose from, but can send at most 7 tones at a time. EURO commonly sends 6-7 tones per burst. Each tone has a duration of 100 ms per tone. The bursts transmit right before a radio transmission."
+}

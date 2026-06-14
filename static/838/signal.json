@@ -1,0 +1,58 @@
+{
+    "pageid": "838",
+    "title": "SiriusXM Satellite Radio",
+    "spectrum": {
+        "filename": "XM Sattelite Radio.PNG",
+        "url": "https://www.sigidwiki.com/images/2/26/XM_Sattelite_Radio.PNG"
+    },
+    "audio": {
+        "filename": "XM Sattelite Radio sounds.mp3",
+        "url": "https://www.sigidwiki.com/images/2/25/XM_Sattelite_Radio_sounds.mp3"
+    },
+    "category": [
+        "Satellite",
+        "Digital",
+        "Commercial"
+    ],
+    "frequency": [
+        {
+            "value": 2332500000,
+            "description": ""
+        },
+        {
+            "value": 2345000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 12500000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "OFDM",
+            "description": "Orthogonal Frequency-Division Multiplexing"
+        },
+        {
+            "value": "PSK",
+            "description": "Phase-Shift Keying"
+        }
+    ],
+    "mode": [
+        {
+            "value": "RAW",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "United States",
+            "description": ""
+        }
+    ],
+    "short description": "SiriusXM Satellite Radio: Terrestrial Repeater Signal",
+    "description": "**SiriusXM Satellite Radio**: Terrestrial Repeater Signal.\n\nThese 2 pair signals are the pair of terrestrial repeaters for SiriusXM Satellite Radio, TerrA and TerrB."
+}

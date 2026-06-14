@@ -1,0 +1,57 @@
+{
+    "pageid": "3450",
+    "title": "Yugoslavian 20-Tone Modem",
+    "spectrum": {
+        "filename": "Yug Mil.jpg",
+        "url": "https://www.sigidwiki.com/images/c/ca/Yug_Mil.jpg"
+    },
+    "audio": {
+        "filename": "YUG-MIL_20-tone.mp3",
+        "url": "https://www.sigidwiki.com/images/8/88/YUG-MIL_20-tone.mp3"
+    },
+    "category": [
+        "Digital",
+        "Military"
+    ],
+    "frequency": [
+        {
+            "value": 3000000,
+            "description": ""
+        },
+        {
+            "value": 30000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 2200,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "PSK",
+            "description": "Phase-Shift Keying"
+        },
+        {
+            "value": "OFDM",
+            "description": "Orthogonal Frequency-Division Multiplexing"
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Europe",
+            "description": ""
+        }
+    ],
+    "short description": "The Yugoslavian 20-Tone Modem, also known as YUG-MIL 20-Tone and YUG Diplo 20-Tone, is a 20 tone OFDM PSK modem used in former Yugoslavia for military and diplomatic use. No longer used today.",
+    "description": "The **Yugoslavian 20-Tone Modem**, also known as YUG-MIL 20-Tone and YUG Diplo 20-tone, is a 20 tone OFDM PSK modem used in former Yugoslavia for military and diplomatic use. No longer used today."
+}

@@ -1,0 +1,49 @@
+{
+    "pageid": "6779",
+    "title": "CLOUDSAT Downlink",
+    "spectrum": {
+        "filename": "Cloudsat dump.png",
+        "url": "https://www.sigidwiki.com/images/0/0d/Cloudsat_dump.png"
+    },
+    "audio": {
+        "filename": null,
+        "url": null
+    },
+    "category": [
+        "Satellite",
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 2217500000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 2000000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "BPSK",
+            "description": "Binary Phase-Shift Keying"
+        }
+    ],
+    "mode": [
+        {
+            "value": "RAW",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Europe",
+            "description": ""
+        }
+    ],
+    "short description": "Dump to European ground station from the CLOUDSAT cloud profiling satellite. CLOUDSAT has a CPR (Cloud Profiling Radar) that operates at 94 GHz to create a vertical sounding (cross-section) of the atmosphere.",
+    "description": "CLOUDSAT is a NASA satellite with a single instrument, a CPR (Cloud Profiling Radar) that operates at 94 GHz to create a **vertical** sounding (cross section) of the atmosphere (as opposed to most satellites that provide horizontal profiles)\n\nIt dumps in S-band to a European ground station 12 orbits worth of data.\n\n [Baseband recording](https://cdn.rgbcraft.com/altro/basebands/CLOUDSAT.wav)"
+}

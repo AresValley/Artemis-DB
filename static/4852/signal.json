@@ -1,0 +1,49 @@
+{
+    "pageid": "4852",
+    "title": "NWC",
+    "spectrum": {
+        "filename": "HE Holt Australia (2).jpg",
+        "url": "https://www.sigidwiki.com/images/1/13/HE_Holt_Australia_%282%29.jpg"
+    },
+    "audio": {
+        "filename": "HE Holt.mp3",
+        "url": "https://www.sigidwiki.com/images/2/2c/HE_Holt.mp3"
+    },
+    "category": [
+        "Military",
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 19800,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 300,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "FSK",
+            "description": "Frequency-Shift Keying"
+        }
+    ],
+    "mode": [
+        {
+            "value": "CW",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Australia",
+            "description": ""
+        }
+    ],
+    "short description": "Naval Communication Station (NCS) Harold E. Holt. Used jointly by the Australian and United States navies to transmit encrypted orders to submerged submarines in the Pacific.",
+    "description": ""
+}

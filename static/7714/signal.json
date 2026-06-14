@@ -1,0 +1,31 @@
+{
+    "pageid": "7714",
+    "title": "Whelen DTMF",
+    "spectrum": {
+        "filename": "Screenshot 2024-10-18 8.56.13 AM.png",
+        "url": "https://www.sigidwiki.com/images/a/a0/Screenshot_2024-10-18_8.56.13_AM.png"
+    },
+    "audio": {
+        "filename": null,
+        "url": null
+    },
+    "category": [],
+    "frequency": [],
+    "bandwidth": [],
+    "acf": [],
+    "modulation": [],
+    "mode": [
+        {
+            "value": "DTMF",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "United States",
+            "description": ""
+        }
+    ],
+    "short description": "Use to monitor and control warning sirens",
+    "description": ""
+}

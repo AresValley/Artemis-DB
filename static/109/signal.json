@@ -1,37 +1,31 @@
 {
-    "signal": {
-        "name": "China digital radio (CDR)",
-        "url": "https://www.sigidwiki.com/wiki/China_digital_radio_(CDR)"
+    "pageid": "109",
+    "title": "Digital Audio Broadcasting (DAB)",
+    "spectrum": {
+        "filename": "Dab+.JPG",
+        "url": "https://www.sigidwiki.com/images/0/09/Dab%2B.JPG"
+    },
+    "audio": {
+        "filename": "Dab+.mp3",
+        "url": "https://www.sigidwiki.com/images/4/49/Dab%2B.mp3"
     },
     "category": [
-        "Commercial",
-        "Digital"
+        "Digital",
+        "Commercial"
     ],
     "frequency": [
         {
-            "value": 106100000,
+            "value": 174000000,
+            "description": ""
+        },
+        {
+            "value": 239000000,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 100000,
-            "description": ""
-        },
-        {
-            "value": 200000,
-            "description": ""
-        },
-        {
-            "value": 300000,
-            "description": ""
-        },
-        {
-            "value": 400000,
-            "description": ""
-        },
-        {
-            "value": 500000,
+            "value": 1536000,
             "description": ""
         }
     ],
@@ -39,19 +33,21 @@
     "modulation": [
         {
             "value": "OFDM",
-            "description": ""
+            "description": "Orthogonal Frequency-Division Multiplexing"
         }
     ],
     "mode": [
         {
-            "value": "USB",
+            "value": "AM",
             "description": ""
         }
     ],
     "location": [
         {
-            "value": "China",
+            "value": "Worldwide",
             "description": ""
         }
-    ]
+    ],
+    "short description": "DAB is an audio broadcasting standard containing a multiplex of digital radio stations in the signal.",
+    "description": "A digital radio broadcasting standard, used to broadcast radio programs and podcasts on VHF and UHF bands using digital modulation technologies. It is succeeded by DAB+ (Digital Audio Broadcasting Plus), which is not backwards compatible. DAB offers better audio quality and robustness than most analog methods used in traditional radio broadcasts because of its resistance to multipath fading. The only disadvantage is its quality drops sharply when signal strength reaches below a certain threshold. For a signal-to-noise ratio of 13 dB (which is the minimum required for error-free demodulation), the sensitivity is -86 dBm. In comparison to a FM radio receiver having a sensitivity of -120 dBm (at 12 dB SINAD and 1 kHz tone), DAB has less receiver sensitivity thus coverage. To compensate for this, DAB broadcast transmitters broadcast at a much higher power than FM counterparts. On the other hand, DAB is more energy and bandwidth efficient than AM/FM. As of 2017, over 38 countries have adopted this standard."
 }

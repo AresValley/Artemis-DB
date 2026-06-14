@@ -1,0 +1,58 @@
+{
+    "pageid": "8396",
+    "title": "Podsolnukh 'Sunflower' Radar",
+    "spectrum": {
+        "filename": "Sunflower thumbnail.jpg",
+        "url": "https://www.sigidwiki.com/images/9/95/Sunflower_thumbnail.jpg"
+    },
+    "audio": {
+        "filename": "Sunflower IQ.wav",
+        "url": "https://www.sigidwiki.com/images/5/53/Sunflower_IQ.wav"
+    },
+    "category": [
+        "Radar",
+        "Military",
+        "Marine"
+    ],
+    "frequency": [
+        {
+            "value": 8000000,
+            "description": ""
+        },
+        {
+            "value": 3500000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 50000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "FMOP",
+            "description": "Frequency Modulation on Pulse"
+        }
+    ],
+    "mode": [
+        {
+            "value": "IQ",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Russia",
+            "description": ""
+        },
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ],
+    "short description": "A Russian over the horizon radar, also known as \"Sunflower\"",
+    "description": "The name \"**Podsolnukh**\" (Russian for \"**Sunflower**\") is widely used in amateur monitoring and open-source communities, likely inspired by the large, multi-element antenna array that resembles a sunflower.\n\nPodsolnukh is an HF over-the-horizon (OTH) radar system reportedly employed by Russian forces for long-range maritime and air surveillance. The radar transmits frequency-agile FMCW-like signals with an estimated bandwidth of 50 kHz in 4 minute long bursts. Transmission often occurs on multiple nearby frequencies.\n\nObserved sweep rates include approximately 20, 30, 43, & 87 Hz, with 43 Hz being the most common. Unlike some other OTH radars, Podsolnukh does not appear to transmit a pre-burst tone. Some sources describe the radar as using pulsed modulation, but this seems to be a misinterpretation of the frequency-agile burst structure, unless there exists a variant that transmits in true pulses.\n\nThe Russian made Подсолнух-Э (Sunflower-E, export version) HF over-the-horizon surface wave radar (OTH-SW) is produced in part by the Scientific Research Institute for Long-Distance Communications NIIDAR (Научно-исследовательский институт дальней радиосвязи НИИДАР) and RTI Systems (РТИ Системы). The system is a bi-static HF surface wave radar developed to detect sea surface and air targets within a range of 15 to 450 kilometers and with a 120 degrees target area."
+}

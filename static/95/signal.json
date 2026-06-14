@@ -1,49 +1,54 @@
 {
-    "signal": {
-        "name": "CIS-50-50",
-        "url": "https://www.sigidwiki.com/wiki/CIS-50-50"
+    "pageid": "95",
+    "title": "Amplitude Modulation (AM)",
+    "spectrum": {
+        "filename": "AM_radio.jpg",
+        "url": "https://www.sigidwiki.com/images/f/f5/AM_radio.jpg"
+    },
+    "audio": {
+        "filename": "AM_Modulatio_2015-06-27T16-57-35Z_198.0kHz.mp3",
+        "url": "https://www.sigidwiki.com/images/d/d3/AM_Modulatio_2015-06-27T16-57-35Z_198.0kHz.mp3"
     },
     "category": [
-        "Digital",
-        "Military"
+        "Analogue",
+        "Commercial",
+        "Aviation"
     ],
     "frequency": [
         {
-            "value": 3000000,
+            "value": 137000000,
             "description": ""
         },
         {
-            "value": 30000000,
+            "value": 153000,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 150,
-            "description": ""
-        },
-        {
-            "value": 630,
+            "value": 10000,
             "description": ""
         }
     ],
     "acf": [],
     "modulation": [
         {
-            "value": "FSK",
-            "description": ""
+            "value": "AM",
+            "description": "Amplitude Modulation"
         }
     ],
     "mode": [
         {
-            "value": "USB",
+            "value": "AM",
             "description": ""
         }
     ],
     "location": [
         {
-            "value": "Russia",
+            "value": "Worldwide",
             "description": ""
         }
-    ]
+    ],
+    "short description": "Long range commercial broadcast and international radio. Also used for aviation communications.",
+    "description": "Long range commercial broadcast and international radio. Also used for aviation communications (military and civilian) and CB radio\nin some countries. High powered international stations can be received from all around the world with a sufficient antenna system."
 }

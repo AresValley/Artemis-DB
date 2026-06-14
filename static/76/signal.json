@@ -1,45 +1,98 @@
 {
-    "signal": {
-        "name": "CIS MFSK-16 XPA2",
-        "url": "https://www.sigidwiki.com/wiki/CIS_MFSK-16_XPA2"
+    "pageid": "76",
+    "title": "MPT 1327",
+    "spectrum": {
+        "filename": "MPT1327_waterfall.png",
+        "url": "https://www.sigidwiki.com/images/d/df/MPT1327_waterfall.png"
+    },
+    "audio": {
+        "filename": "MPT1327_Sound.mp3",
+        "url": "https://www.sigidwiki.com/images/d/db/MPT1327_Sound.mp3"
     },
     "category": [
-        "Digital",
-        "Numbers Stations"
+        "Trunked Radio",
+        "Digital"
     ],
     "frequency": [
         {
-            "value": 3000000,
+            "value": 176500000,
             "description": ""
         },
         {
-            "value": 30000000,
+            "value": 184500000,
+            "description": ""
+        },
+        {
+            "value": 201500000,
+            "description": ""
+        },
+        {
+            "value": 162500000,
+            "description": ""
+        },
+        {
+            "value": 207500000,
+            "description": ""
+        },
+        {
+            "value": 420000000,
+            "description": ""
+        },
+        {
+            "value": 800000000,
+            "description": ""
+        },
+        {
+            "value": 461000000,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 250,
+            "value": 10000,
+            "description": ""
+        },
+        {
+            "value": 25000,
+            "description": ""
+        },
+        {
+            "value": 20000,
+            "description": ""
+        },
+        {
+            "value": 12500,
             "description": ""
         }
     ],
-    "acf": [],
+    "acf": [
+        {
+            "value": 106.66,
+            "description": "Main"
+        }
+    ],
     "modulation": [
         {
-            "value": "MFSK",
-            "description": ""
+            "value": "FSK",
+            "description": "Frequency-Shift Keying"
+        },
+        {
+            "value": "FM",
+            "description": "Frequency Modulation"
         }
     ],
     "mode": [
         {
-            "value": "USB",
+            "value": "NFM",
             "description": ""
         }
     ],
     "location": [
         {
-            "value": "Russia",
+            "value": "Worldwide",
             "description": ""
         }
-    ]
+    ],
+    "short description": "MPT1327 (Ministry of Posts and Telegraph 1327) is a signaling protocol standard for analog trunked radio",
+    "description": "**MPT 1327** (Ministry of Posts and Telegraph 1327) is a signaling protocol standard for analog trunked radio. It was developed in 1988 by the British [Department of Trade and Industry (DTI)](https://en.wikipedia.org/wiki/Department_of_Trade_and_Industry_(United_Kingdom)).\n \nThis mode is primarily used in the United Kingdom, Europe, South Africa, Australia, and New Zealand.\n\nThe trunking control channel is used to communicate between the mobile radios and the network at 1200 bits per second with fast Frequency Shift Keying (FFSK) subcarrier modulation. Since this is an analog mode, voice traffic is sent with analog FM, so it can easily be monitored with a simple FM receiver."
 }

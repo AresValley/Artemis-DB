@@ -1,0 +1,65 @@
+{
+    "pageid": "1443",
+    "title": "THROB",
+    "spectrum": {
+        "filename": "THROB1prev.png",
+        "url": "https://www.sigidwiki.com/images/f/f5/THROB1prev.png"
+    },
+    "audio": {
+        "filename": "THROB_prev.mp3",
+        "url": "https://www.sigidwiki.com/images/f/f8/THROB_prev.mp3"
+    },
+    "category": [
+        "Amateur Radio",
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 3000000,
+            "description": ""
+        },
+        {
+            "value": 30000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 72,
+            "description": ""
+        },
+        {
+            "value": 94,
+            "description": ""
+        },
+        {
+            "value": 144,
+            "description": ""
+        },
+        {
+            "value": 188,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "FSK",
+            "description": "Frequency-Shift Keying"
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ],
+    "short description": "THROB is a unique data mode that relies heavily on DSP techniques, using MFSK and AM modulation techniques together.",
+    "description": "**THROB** is a unique data mode that relies heavily on DSP techniques. THROB was created by Lionel Sear, G3PPT.\n\nTHROB uses 9 tones, spaced 8 or 16Hz. THROBX, an evolution of THROB, uses 11 tones spaced 7.8125 or 15.625Hz."
+}

@@ -1,1 +1,0 @@
-Naval Communication Station (NCS) Harold E. Holt. Used jointly by the Australian and United States navies to transmit encrypted orders to submerged submarines in the Pacific.

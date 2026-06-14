@@ -1,0 +1,58 @@
+{
+    "pageid": "7162",
+    "title": "CIS MFSK-16 XPB",
+    "spectrum": {
+        "filename": "XPB4 b.png",
+        "url": "https://www.sigidwiki.com/images/6/6e/XPB4_b.png"
+    },
+    "audio": {
+        "filename": "XPB.ogg",
+        "url": "https://www.sigidwiki.com/images/2/20/XPB.ogg"
+    },
+    "category": [
+        "Numbers Stations",
+        "Digital",
+        "Military"
+    ],
+    "frequency": [
+        {
+            "value": 10000000,
+            "description": ""
+        },
+        {
+            "value": 20000000,
+            "description": ""
+        },
+        {
+            "value": 4400000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 2800,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "FSK",
+            "description": "Frequency-Shift Keying"
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Russia",
+            "description": ""
+        }
+    ],
+    "short description": "Enigma designation XPB is a custom 16-tone MFSK mode said to have origin from Russian Intelligence and Foreign Ministry stations.",
+    "description": "**Enigma designation XPB** is a custom 16-tone MFSK mode which is believed to be used by Russian intelligence.\n\nThe signal occupies about 2.8 kHz of bandwidth, but the first tone is about 500 Hz away from the designated transmission frequency, making the total bandwidth about 3.3 kHz.\n\nA 13-tone variant [LINK](https://www.youtube.com/watch?v=qhfSVnewopU) and slower transfer rate modes [LINK](https://www.youtube.com/watch?v=gscw4sWSmQY) [LINK](https://www.youtube.com/watch?v=eEd5DuR9u8Q) exist but it's not known if they use the same signal format or are used for the same purpose."
+}

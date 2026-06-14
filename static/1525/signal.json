@@ -1,0 +1,55 @@
+{
+    "pageid": "1525",
+    "title": "Sonne",
+    "spectrum": {
+        "filename": "Consol.png",
+        "url": "https://www.sigidwiki.com/images/4/4d/Consol.png"
+    },
+    "audio": {
+        "filename": "consol.mp3",
+        "url": "https://www.sigidwiki.com/images/4/4f/Consol.mp3"
+    },
+    "category": [
+        "Marine",
+        "Aviation",
+        "Navigation",
+        "Analogue"
+    ],
+    "frequency": [
+        {
+            "value": 250000,
+            "description": ""
+        },
+        {
+            "value": 350000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 1,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "OOK",
+            "description": "On-Off Keying"
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ],
+    "short description": "Sonne (Called Consol by the Britons) was a low-frequency radio range based radio navigation system used for long range navigation.",
+    "description": "**Sonne** (Called Consol by the Britons) was a low-frequency radio range based radio navigation system used for long range navigation. The system was derived from the United States based Elektra system, and was developed by the Germans during WWII. The theoretical accuracy was 0.6 degrees of arc, or 3 miles at 1000 miles. The system proved so simple and effective that it was implemented all over Europe and even into the US until the early 90's when newer systems like LORAN-C and GPS became more affordable."
+}

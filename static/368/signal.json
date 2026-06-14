@@ -1,41 +1,93 @@
 {
-    "signal": {
-        "name": "PROBA 1/2 Downlink",
-        "url": "https://www.sigidwiki.com/wiki/PROBA_1/2_Downlink"
+    "pageid": "368",
+    "title": "JT65",
+    "spectrum": {
+        "filename": "JT65AWaterfall.png",
+        "url": "https://www.sigidwiki.com/images/f/f6/JT65AWaterfall.png"
+    },
+    "audio": {
+        "filename": "JT65A.mp3",
+        "url": "https://www.sigidwiki.com/images/5/5e/JT65A.mp3"
     },
     "category": [
-        "Satellite",
-        "Digital"
+        "Digital",
+        "Amateur Radio"
     ],
     "frequency": [
         {
-            "value": 2235000000,
+            "value": 24917000,
+            "description": ""
+        },
+        {
+            "value": 1838000,
+            "description": ""
+        },
+        {
+            "value": 3576000,
+            "description": ""
+        },
+        {
+            "value": 7039000,
+            "description": ""
+        },
+        {
+            "value": 7076000,
+            "description": ""
+        },
+        {
+            "value": 10139000,
+            "description": ""
+        },
+        {
+            "value": 14076000,
+            "description": ""
+        },
+        {
+            "value": 18102000,
+            "description": ""
+        },
+        {
+            "value": 18098000,
+            "description": ""
+        },
+        {
+            "value": 50276000,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 4000000,
+            "value": 180,
+            "description": ""
+        },
+        {
+            "value": 360,
+            "description": ""
+        },
+        {
+            "value": 710,
             "description": ""
         }
     ],
     "acf": [],
     "modulation": [
         {
-            "value": "BPSK",
-            "description": ""
+            "value": "FSK",
+            "description": "Frequency-Shift Keying"
         }
     ],
     "mode": [
         {
-            "value": "RAW",
+            "value": "USB",
             "description": ""
         }
     ],
     "location": [
         {
-            "value": "Europe",
+            "value": "Worldwide",
             "description": ""
         }
-    ]
+    ],
+    "short description": "JT65 is an amateur radio QSO communication protocol developed by [https://en.wikipedia.org/wiki/Joseph_Hooton_Taylor_Jr Joe Taylor, K1JT]. JT65 has 3 submodes: JT65A, JT65B, and JT65C. The most popular submode of JT65 is JT65A. JT65 gets '65' from the 65 tones it uses.",
+    "description": "**JT65** is an amateur radio QSO communication protocol developed by [Joe Taylor, K1JT](https://en.wikipedia.org/wiki/Joseph_Hooton_Taylor_Jr). JT65 has 3 submodes: JT65A, JT65B, and JT65C. The most popular submode of JT65 is JT65A. JT65 gets '65' from the 65 tones it uses.\n\nEach transmission begins at t = 1s after the start of a UTC minute and finishes at t = 47.8 s. Each transmission must begin within the first 4 seconds of the minute to be decoded. Multiple stations transmit on the same carrier using both FDM and TDM methods. Initiating stations choose either the Even or Odd minute to transmit and responding stations transmit on the opposite minute. \n\nA sync (low) tone is to mark the lower boundary of each station's signal. The synchronizing tone is at 1270.5 Hz. The initiating station is responsible for choosing an offset that does not conflict with another station's signal. JT65 uses 126 contiguous time intervals, each of length 0.372 s (4096 samples at 11025 samples per second). Within each interval, the waveform is a constant-amplitude sinusoid at one of 65 pre-defined frequencies, and frequency changes between intervals are accomplished in a phase-continuous manner."
 }

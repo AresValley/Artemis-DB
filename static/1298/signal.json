@@ -1,0 +1,57 @@
+{
+    "pageid": "1298",
+    "title": "HC-265 Voice Scrambler",
+    "spectrum": {
+        "filename": "HC_265.jpg",
+        "url": "https://www.sigidwiki.com/images/a/ab/HC_265.jpg"
+    },
+    "audio": {
+        "filename": "HC-265_HF_2x120Bd_FSK.mp3",
+        "url": "https://www.sigidwiki.com/images/1/13/HC-265_HF_2x120Bd_FSK.mp3"
+    },
+    "category": [
+        "Military",
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 3000000,
+            "description": ""
+        },
+        {
+            "value": 30000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 2250,
+            "description": ""
+        },
+        {
+            "value": 3000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "FSK",
+            "description": "Frequency-Shift Keying"
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ],
+    "short description": "HC-265 is a Voice Scrambling mode developed by Hagelin Crypto for their HC-265 CRYPTOCOM secure voice unit.",
+    "description": "**HC-265** is a Voice Scrambling mode developed by [Hagelin Crypto AG](http://www.crypto.ch/) for their HC-265 CRYPTOCOM secure voice unit.\n\nOne key feature of this mode is it's FSK preamble and the sync tones during voice transmission. The standard HF protocol uses two 120Bd FSK signals for the preamble. One HF variation uses one 300Bd FSK signal for the preamble. The UHF variation uses two 240Bd FSK signals for the preamble. \n \nAll HC-265 transmissions use a sync tone that allows the receiver to stay in sync with the transmitter so that the voice message can be properly decoded. You can hear this sync tone in the background of the speech or when the speech is silent. At the end of each transmission there is a FSK EOT (End of Transmission) signal sent."
+}

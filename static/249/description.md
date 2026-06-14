@@ -1,1 +1,0 @@
-ISDB-T (Integrated Services Digital Broadcasting – Terrestrial) is a new type of digital broadcasting system for providing audio, video and multimedia services. ISDB-T system was standardized at the Association of Radio Industries and Businesses (ARIB) in Japan. ISDB-T uses a modulation method referred to as Band Segmented Transmission (BST) OFDM.

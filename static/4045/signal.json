@@ -1,0 +1,53 @@
+{
+    "pageid": "4045",
+    "title": "Link-11 (UHF)",
+    "spectrum": {
+        "filename": "Link-11_UHF.jpg",
+        "url": "https://www.sigidwiki.com/images/4/47/Link-11_UHF.jpg"
+    },
+    "audio": {
+        "filename": "Link-11_UHF.mp3",
+        "url": "https://www.sigidwiki.com/images/4/4e/Link-11_UHF.mp3"
+    },
+    "category": [
+        "Military",
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 225000000,
+            "description": ""
+        },
+        {
+            "value": 399975000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 30000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "PSK",
+            "description": "Phase-Shift Keying"
+        }
+    ],
+    "mode": [
+        {
+            "value": "NFM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ],
+    "short description": "This is the UHF band variant of Link-11, which is transmitted on a FM carrier. The FM-demodulated baseband is identical to the HF Link-11 waveform.",
+    "description": "This is the UHF band variant of **Link-11**, which is transmitted on a FM carrier. The FM-demodulated baseband is identical to the original [Link-11](https://www.sigidwiki.com/wiki/Link-11) waveform used on MF and HF bands. See the [Link-11](https://www.sigidwiki.com/wiki/Link-11) page for in-depth details on the underlying waveform characteristics."
+}

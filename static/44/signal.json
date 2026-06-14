@@ -1,44 +1,53 @@
 {
-    "signal": {
-        "name": "Automated Train Control System (ATCS)",
-        "url": "https://www.sigidwiki.com/wiki/Automated_Train_Control_System_(ATCS)"
+    "pageid": "44",
+    "title": "Aircraft Communications Addressing and Reporting System (ACARS)",
+    "spectrum": {
+        "filename": "ACARS.jpg",
+        "url": "https://www.sigidwiki.com/images/0/06/ACARS.jpg"
+    },
+    "audio": {
+        "filename": "ACARS_sound.mp3",
+        "url": "https://www.sigidwiki.com/images/1/13/ACARS_sound.mp3"
     },
     "category": [
+        "Aviation",
         "Digital"
     ],
     "frequency": [
         {
-            "value": 936987500,
+            "value": 129000000,
             "description": ""
         },
         {
-            "value": 896887500,
+            "value": 137000000,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 12500,
+            "value": 5000,
             "description": ""
         }
     ],
     "acf": [],
     "modulation": [
         {
-            "value": "FSK",
-            "description": ""
+            "value": "MSK",
+            "description": "Minimum-Shift Keying"
         }
     ],
     "mode": [
         {
-            "value": "NFM",
+            "value": "AM",
             "description": ""
         }
     ],
     "location": [
         {
-            "value": "United States",
+            "value": "Worldwide",
             "description": ""
         }
-    ]
+    ],
+    "short description": "ACARS is a digital datalink system for the transmission of short messages between aircraft and ground stations via airband radio or satellite.",
+    "description": "In aviation, ACARS (/ˈeɪkɑːrz/; an acronym for Aircraft Communications Addressing and Reporting System) is a digital datalink system for transmission of short messages between aircraft and ground stations via airband radio or satellite. The protocol was designed by ARINC and deployed in 1978, using the Telex format. More ACARS radio stations were added subsequently by SITA."
 }

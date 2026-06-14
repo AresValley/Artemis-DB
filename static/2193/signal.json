@@ -1,0 +1,58 @@
+{
+    "pageid": "2193",
+    "title": "Radio Data System (RDS)",
+    "spectrum": {
+        "filename": "RBDS.png",
+        "url": "https://www.sigidwiki.com/images/3/3b/RBDS.png"
+    },
+    "audio": {
+        "filename": "RDS.mp3",
+        "url": "https://www.sigidwiki.com/images/1/15/RDS.mp3"
+    },
+    "category": [
+        "Digital",
+        "Commercial"
+    ],
+    "frequency": [
+        {
+            "value": 65000000,
+            "description": ""
+        },
+        {
+            "value": 108000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 4000,
+            "description": ""
+        }
+    ],
+    "acf": [
+        {
+            "value": 87.6,
+            "description": "Main"
+        }
+    ],
+    "modulation": [
+        {
+            "value": "PSK",
+            "description": "Phase-Shift Keying"
+        }
+    ],
+    "mode": [
+        {
+            "value": "DSB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ],
+    "short description": "Radio Data System (RDS) and its North American variant, Radio Broadcast Data System (RBDS), are data modes transmitted on subcarriers of commercial FM radio station transmissions.",
+    "description": "**Radio Data System (RDS)** and its North American variant, **Radio Broadcast Data System (RBDS)**, are data modes transmitted on subcarriers of [commercial FM radio station transmissions](https://www.sigidwiki.com/wiki/FM_Broadcast_Radio). Both RDS and RBDS are identical modulation wise but they have some differences in the format of the data sent. RDS is published worldwide as IEC standard 62106.\n\nThe RDS system is Dual Side Band modulated onto the 57 kHz subcarrier of a commercial FM transmitter. The RDS mode transmitted is actually one PSK signal identically duplicated and mirrored across the 57 kHz carrier for robustness and redundancy. This individual PSK signal is about 2.2 kHz wide, and the combined DSB modulation of RDS is about 4 kHz. \n\nThe RDS system uses Binary PSK, with a data rate of 1187.5 bps. RDS is used to send data such as time, text data on radio programming, programming type, alternative frequencies, and traffic information.\n\nRDS-2 has been announced and is set to replace RDS.\n\nThe RDS subcarrier can be seen at 57 kHz subcarrier on this multiplex demodulated sideband of a commercial FM broadcast."
+}

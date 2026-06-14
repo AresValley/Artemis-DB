@@ -1,0 +1,52 @@
+{
+    "pageid": "7924",
+    "title": "Chinese 160kHz-wide OTH radar",
+    "spectrum": {
+        "filename": "Chinese radar 160kHz wide.png",
+        "url": "https://www.sigidwiki.com/images/1/13/Chinese_radar_160kHz_wide.png"
+    },
+    "audio": {
+        "filename": "Chinese radar 160kHz wide.mp3",
+        "url": "https://www.sigidwiki.com/images/4/4b/Chinese_radar_160kHz_wide.mp3"
+    },
+    "category": [
+        "Radar"
+    ],
+    "frequency": [
+        {
+            "value": 6000000,
+            "description": ""
+        },
+        {
+            "value": 29000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 160000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "FMCW",
+            "description": "Frequency-Modulated Continuous Wave"
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "China",
+            "description": ""
+        }
+    ],
+    "short description": "Chinese OTH radar with wide bandwidth and usually low sweep rate. Little information is available.",
+    "description": "This OTH radar has been located to China but not much else is known about it. Ham radio organizations have reported it on ham bands, causing interference (QRM). It transmits in FMCW mode, typically with a 160 kHz wide signal (although up to 360 kHz is possible), often 10 sweeps/sec but may use other modes. This radar is seldom heard in Europe unlike some other Chinese radars. \n\nDepending on receiver mode this radar can sound like some other radars, but the wide bandwidth should be noticed."
+}

@@ -1,0 +1,62 @@
+{
+    "pageid": "579",
+    "title": "WinDRM",
+    "spectrum": {
+        "filename": "Waterfall-20221028003713.jpg",
+        "url": "https://www.sigidwiki.com/images/7/73/Waterfall-20221028003713.jpg"
+    },
+    "audio": {
+        "filename": "Digitalsstv.mp3",
+        "url": "https://www.sigidwiki.com/images/5/58/Digitalsstv.mp3"
+    },
+    "category": [
+        "Amateur Radio",
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 14236000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 2200,
+            "description": ""
+        },
+        {
+            "value": 2400,
+            "description": ""
+        }
+    ],
+    "acf": [
+        {
+            "value": 400.0,
+            "description": "Main"
+        }
+    ],
+    "modulation": [
+        {
+            "value": "QAM",
+            "description": "Quadrature Amplitude Modulation"
+        },
+        {
+            "value": "OFDM",
+            "description": "Orthogonal Frequency-Division Multiplexing"
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ],
+    "short description": "WinDRM is an amateur radio derivation of the Digital Radio Mondiale (DRM) digital voice and data transmission protocol. Also known as HamDRM, and Digital SSTV.",
+    "description": "**WinDRM** is an amateur radio derivation of the [Digital Radio Mondiale (DRM)](https://www.sigidwiki.com/wiki/Digital_Radio_Mondiale_%28DRM%29) digital voice and data transmission protocol. Known as HamDRM, and Digital SSTV. Uses the same technology from commercial DRM broadcasts, with COFDM-QAM modulation, and is able to send text, voice, and images. This format was first adopted for amateur use by Francesco Lanza HB9TLK in his own version of Dream, an open-source DRM decoder. This technology was later adopted into WinDRM."
+}

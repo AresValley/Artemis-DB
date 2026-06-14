@@ -1,0 +1,53 @@
+{
+    "pageid": "943",
+    "title": "CIS-14",
+    "spectrum": {
+        "filename": "CIS-14TFC.jpg",
+        "url": "https://www.sigidwiki.com/images/5/5d/CIS-14TFC.jpg"
+    },
+    "audio": {
+        "filename": "CIS14-TFC.mp3",
+        "url": "https://www.sigidwiki.com/images/3/33/CIS14-TFC.mp3"
+    },
+    "category": [
+        "Digital",
+        "Military"
+    ],
+    "frequency": [
+        {
+            "value": 3000000,
+            "description": ""
+        },
+        {
+            "value": 30000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 650,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "FSK",
+            "description": "Frequency-Shift Keying"
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Russia",
+            "description": ""
+        }
+    ],
+    "short description": "Also known as AMOR and AMOR96. Synchronous FSK duplex teleprinter system with ARQ.",
+    "description": "Also known as **AMOR** and **AMOR96**. Synchronous 2-FSK duplex teleprinter system with ARQ. Has a 400 Hz Shift between the two tones. \n\nMost commonly found running at 96 Baud."
+}

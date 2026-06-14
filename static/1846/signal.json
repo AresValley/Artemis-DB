@@ -1,0 +1,57 @@
+{
+    "pageid": "1846",
+    "title": "Israeli VFT",
+    "spectrum": {
+        "filename": "Preamble.jpg",
+        "url": "https://www.sigidwiki.com/images/6/66/Preamble.jpg"
+    },
+    "audio": {
+        "filename": "full USB 4xPSK-75.mp3",
+        "url": "https://www.sigidwiki.com/images/2/2b/Full_USB_4xPSK-75.mp3"
+    },
+    "category": [
+        "Digital",
+        "Military"
+    ],
+    "frequency": [
+        {
+            "value": 3000000,
+            "description": ""
+        },
+        {
+            "value": 30000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 3100,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "FSK",
+            "description": "Frequency-Shift Keying"
+        },
+        {
+            "value": "PSK",
+            "description": "Phase-Shift Keying"
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Israel",
+            "description": ""
+        }
+    ],
+    "short description": "Israeli based VFT transmission, most likely used by Israeli government or military.",
+    "description": "**Israeli VFT** transmission, most likely used by Israeli government or military. \n\nHas been seen with a number of modes. Seen with 4xPSK-75, 1xFSK-150, and both 4xPSK-75 and 1xFSK-150 together.\nThe 4xPSK-75 data stream takes about 1.25kHz and the 1xFSK-150 1.8kHz, largely due to the shift. Putting both together in one VFT has a total of 1.8kHz bandwidth, with the 4xPSK-75 fitting in right below the 1xFSK-150, taking up the free space."
+}

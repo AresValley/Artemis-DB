@@ -1,0 +1,52 @@
+{
+    "pageid": "3151",
+    "title": "POL-ARQ",
+    "spectrum": {
+        "filename": "POL-ARQ.png",
+        "url": "https://www.sigidwiki.com/images/e/e9/POL-ARQ.png"
+    },
+    "audio": {
+        "filename": "Polarq.mp3",
+        "url": "https://www.sigidwiki.com/images/5/5a/Polarq.mp3"
+    },
+    "category": [
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 3000000,
+            "description": ""
+        },
+        {
+            "value": 30000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 350,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "FSK",
+            "description": "Frequency-Shift Keying"
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Europe",
+            "description": ""
+        }
+    ],
+    "short description": "POL-ARQ was a duplex ARQ system used by Polish and Italian diplomatic services. This system uses the CCIR 476-4 alphabet with polatiry retained. No longer in use.",
+    "description": "**POL-ARQ** is a duplex ARQ system used by Polish and Italian diplomatic services. This system uses the CCIR 476-4 alphabet with polatiry retained. No longer in use.\n\nPOL-ARQ is typically found at 100 Bd, but it is less frequently found at 200 Bd. POL-ARQ uses 300 Hz shift."
+}

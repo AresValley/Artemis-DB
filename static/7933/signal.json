@@ -1,0 +1,64 @@
+{
+    "pageid": "7933",
+    "title": "P07 numbers station",
+    "spectrum": {
+        "filename": "P07.png",
+        "url": "https://www.sigidwiki.com/images/7/7a/P07.png"
+    },
+    "audio": {
+        "filename": "P07.mp3",
+        "url": "https://www.sigidwiki.com/images/d/de/P07.mp3"
+    },
+    "category": [
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 4600000,
+            "description": ""
+        },
+        {
+            "value": 10450000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 3500,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "FSK",
+            "description": "Frequency-Shift Keying"
+        },
+        {
+            "value": "BPSK",
+            "description": "Binary Phase-Shift Keying"
+        },
+        {
+            "value": "QPSK",
+            "description": "Quadrature Phase-Shift Keying"
+        },
+        {
+            "value": "OFDM",
+            "description": "Orthogonal Frequency-Division Multiplexing"
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Russia",
+            "description": ""
+        }
+    ],
+    "short description": "Enigma designation P07 is a custom digital mode used by the \"Russian 7\" numbers station operator which is likely a major Russian intelligence agency.",
+    "description": "**P07** is a custom digital mode which is used by the \"Russian 7\" numbers station operator. This operator is probably a major Russian intelligence agency. Transmissions are known to happen on Wednesdays and Sundays. There are normally 6 transmissions per day with 10 minute intervals, each on a lower frequency with respect to the previous one.\n\nP07 transmission consists of FSK and BPSK intro sections and a QPSK OFDM data section. \n\nP07 is closely related to [F07](https://www.sigidwiki.com/wiki/F07_number_station) which is used by the same operator."
+}

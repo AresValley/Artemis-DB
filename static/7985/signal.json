@@ -1,0 +1,68 @@
+{
+    "pageid": "7985",
+    "title": "F03 numbers station",
+    "spectrum": {
+        "filename": "F03l.png",
+        "url": "https://www.sigidwiki.com/images/7/74/F03l.png"
+    },
+    "audio": {
+        "filename": "F03l.mp3",
+        "url": "https://www.sigidwiki.com/images/3/3f/F03l.mp3"
+    },
+    "category": [
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 4000000,
+            "description": ""
+        },
+        {
+            "value": 21000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 200,
+            "description": ""
+        },
+        {
+            "value": 400,
+            "description": ""
+        },
+        {
+            "value": 800,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "FSK",
+            "description": "Frequency-Shift Keying"
+        },
+        {
+            "value": "FSK",
+            "description": "Frequency-Shift Keying"
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        },
+        {
+            "value": "Poland",
+            "description": ""
+        }
+    ],
+    "short description": "Enigma designation F03 is a family of digital FSK modes, used by the \"Polish 11\" numbers station operator, which is likely a Polish intelligence agency.",
+    "description": "**F03** is a family of digital FSK modes that are used by the \"Polish 11\" numbers station operator. This operator is likely a Polish intelligence agency.\n\nF03 has 4 known active sub-modes.\n\nF03 is closely related to [P03](https://www.sigidwiki.com/wiki/P03_numbers_station) which is used by the same operator. F03 and P03 are the successors of [Polish Intelligence 100bd 625 Hz FSK](https://www.sigidwiki.com/wiki/Polish_Intelligence_100bd_625Hz_FSK), also known as F11.\n\nAudio from F03 can be mistaken for [RTTY](https://www.sigidwiki.com/wiki/Radio_Teletype_%28RTTY%29) and similar modes very easily. \n\n| Mode | Modulation | Baud Rate | Carrier Shift | Center freq | Period |\n| --- | --- | --- | --- | --- | --- |\n| F03f | FSK | 400 bd | 800 Hz | +1200 Hz | 496 bits |\n| F03i | FSK | 100 bd | 800 Hz | +1200 Hz | 488 bits |\n| F03j | 4-FSK | 100 bd | 400 Hz | +1200 Hz | 448 bits |\n| F03l | FSK | 100 bd | 200 Hz | +700 Hz | 448 bits |"
+}

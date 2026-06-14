@@ -1,0 +1,70 @@
+{
+    "pageid": "5637",
+    "title": "DB0UPB research beacon",
+    "spectrum": {
+        "filename": "DB0UPB.png",
+        "url": "https://www.sigidwiki.com/images/c/c2/DB0UPB.png"
+    },
+    "audio": {
+        "filename": "0kqvydic4s76vnto.myfritz.net 2019-12-10T13 31 26Z 3609.00 lsb.mp3",
+        "url": "https://www.sigidwiki.com/images/1/1c/0kqvydic4s76vnto.myfritz.net_2019-12-10T13_31_26Z_3609.00_lsb.mp3"
+    },
+    "category": [
+        "Amateur Radio",
+        "Analogue",
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 3600000,
+            "description": ""
+        },
+        {
+            "value": 7050000,
+            "description": ""
+        },
+        {
+            "value": 14101000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 2700,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "FSK",
+            "description": "Frequency-Shift Keying"
+        },
+        {
+            "value": "LSB",
+            "description": "Lower Sideband"
+        },
+        {
+            "value": "USB",
+            "description": "Upper Sideband"
+        }
+    ],
+    "mode": [
+        {
+            "value": "LSB",
+            "description": ""
+        },
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Germany",
+            "description": ""
+        }
+    ],
+    "short description": "The is a research beacon for training neural networks.",
+    "description": "This is a research beacon for training neuronal networks. The neuronal networks are used for developing a new type of DSP. \nBetween some choppy english sentences are data packets, maybe some sort of MFSK."
+}

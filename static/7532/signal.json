@@ -1,0 +1,67 @@
+{
+    "pageid": "7532",
+    "title": "JT4",
+    "spectrum": {
+        "filename": "JT4.png",
+        "url": "https://www.sigidwiki.com/images/d/de/JT4.png"
+    },
+    "audio": {
+        "filename": "JT4.ogg",
+        "url": "https://www.sigidwiki.com/images/1/12/JT4.ogg"
+    },
+    "category": [
+        "Digital"
+    ],
+    "frequency": [],
+    "bandwidth": [
+        {
+            "value": 17.5,
+            "description": ""
+        },
+        {
+            "value": 30.6,
+            "description": ""
+        },
+        {
+            "value": 56.9,
+            "description": ""
+        },
+        {
+            "value": 123,
+            "description": ""
+        },
+        {
+            "value": 241,
+            "description": ""
+        },
+        {
+            "value": 477,
+            "description": ""
+        },
+        {
+            "value": 949,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "FSK",
+            "description": "Frequency-Shift Keying"
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ],
+    "short description": "JT4 is a 4-FSK extreme weak-signal mode which is designed especially for Earth-Moon-Earth communications. It is part of the WSJT-X software.",
+    "description": "**JT4** is an extreme weak signal communication mode which is designed especially for Earth-Moon-Earth (EME) communications, also called moonbounce. It uses 4-FSK modulation and 1-minute transmit/receive time slots. One transmission lasts about 47 seconds and the remaining 13 seconds is reserved for timing inaccuracies and decoding. \n\nJT4 has seven submodes, JT4A to JT4G, each with wider tone spacing. The wider submodes are designed for operation in the higher microwave bands at least up to 24 GHz. \n\n| Submode | Tone spacing | Bandwidth | Minimum SNR for decoding |\n| --- | --- | --- | --- |\n| JT4A | 4.38 Hz | 17.5 Hz | -23 dB |\n| JT4B | 8.75 Hz | 30.6 Hz | -22 dB |\n| JT4C | 17.5 Hz | 56.9 Hz | -21 dB |\n| JT4D | 39.4 Hz | 123 Hz | -20 dB |\n| JT4E | 78.8 Hz | 241 Hz | -19 dB |\n| JT4F | 158 Hz | 477 Hz | -18 dB |\n| JT4G | 315 Hz | 949 Hz | -17 dB |"
+}

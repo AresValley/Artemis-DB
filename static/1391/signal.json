@@ -1,0 +1,61 @@
+{
+    "pageid": "1391",
+    "title": "Non-Directional Beacon (NDB)",
+    "spectrum": {
+        "filename": "Ndb-pes.jpg",
+        "url": "https://www.sigidwiki.com/images/4/44/Ndb-pes.jpg"
+    },
+    "audio": {
+        "filename": "NDB.mp3",
+        "url": "https://www.sigidwiki.com/images/5/5f/NDB.mp3"
+    },
+    "category": [
+        "Aviation",
+        "Navigation"
+    ],
+    "frequency": [
+        {
+            "value": 190000,
+            "description": ""
+        },
+        {
+            "value": 535000,
+            "description": ""
+        },
+        {
+            "value": 1750000,
+            "description": ""
+        },
+        {
+            "value": 1800000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 2000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "AM",
+            "description": "Amplitude Modulation"
+        }
+    ],
+    "mode": [
+        {
+            "value": "CW",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ],
+    "short description": "A Non-Directional Beacon (NDB) is a ground-based, low frequency radio transmitter used as an instrument approach for airports and offshore platforms.",
+    "description": "An **NDB** or **Non-Directional Beacon** is a ground-based, low frequency radio transmitter used as an instrument approach for airports and offshore platforms.\n \nThe NDB transmits an omni-directional signal that is received by the ADF or Automatic Direction Finder, a standard instrument onboard aircraft. The pilot uses the ADF to determine the direction to the NDB relative to the aircraft. To navigate using the ADF, the pilot enters the frequency of the NDB and the compass card (or arrow) on the ADF will indicate the heading to the station. The signal is transmitted on an uninterrupted 24/7 basis. \n\nAn audible Morse Code call sign of one or more letters or numbers is used to identify the NDB being received. \n \nTypically NDBs have output power from 25 to 125 watts for reception up to approx. 100 NM. Higher power systems from 500 to 1000 Watts are used for longer range applications. Range depends on a number of factors such as output power, antenna, ground conductivity, frequency, site conditions, latitude, and the condition of the ADF receiver."
+}

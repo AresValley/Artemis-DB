@@ -1,39 +1,69 @@
 {
-    "signal": {
-        "name": "WiMAX",
-        "url": "https://www.sigidwiki.com/wiki/WiMAX"
+    "pageid": "504",
+    "title": "Olivia",
+    "spectrum": {
+        "filename": "Olivia_8-250y.png",
+        "url": "https://www.sigidwiki.com/images/a/a3/Olivia_8-250y.png"
+    },
+    "audio": {
+        "filename": "Olivia_16-500.mp3",
+        "url": "https://www.sigidwiki.com/images/e/e5/Olivia_16-500.mp3"
     },
     "category": [
-        "Digital",
-        "Commercial"
+        "Amateur Radio",
+        "Digital"
     ],
-    "frequency": [],
-    "bandwidth": [
+    "frequency": [
         {
-            "value": 1250000,
+            "value": 3000000,
             "description": ""
         },
         {
-            "value": 20000000,
+            "value": 30000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 500,
+            "description": ""
+        },
+        {
+            "value": 125,
+            "description": ""
+        },
+        {
+            "value": 250,
+            "description": ""
+        },
+        {
+            "value": 1000,
+            "description": ""
+        },
+        {
+            "value": 2000,
             "description": ""
         }
     ],
     "acf": [],
     "modulation": [
         {
-            "value": "OFDM",
-            "description": ""
-        },
+            "value": "FSK",
+            "description": "Frequency-Shift Keying"
+        }
+    ],
+    "mode": [
         {
-            "value": "OFDMA",
+            "value": "USB",
             "description": ""
         }
     ],
-    "mode": [],
     "location": [
         {
             "value": "Worldwide",
             "description": ""
         }
-    ]
+    ],
+    "short description": "OLIVIA is an amateur digital teletype mode designed by Pawel Jalocha SP9VRC in 2005. Its goal was to be effective even in poor propagation conditions.",
+    "description": "**OLIVIA** is an amateur digital teletype mode designed by Pawel Jalocha SP9VRC in 2005. Its goal was to be effective even in poor propagation conditions. It can also decode well under other noise, QSB, QRM, flutter caused by polar path propagation and even auroral conditions. Olivia uses 7-bit ASCII alphabet. There are a handful of amateur digital modes that are derived from Olivia, including [RTTYM](https://www.sigidwiki.com/wiki/RTTYM) and [PAX](https://www.sigidwiki.com/wiki/PAX).\n\nOlivia is occasionally utilized during the Shortwave Radiogram transmissions, which run every weekend on WRMI and WINB (USA). See the [SW Radiogram](http://swradiogram.net/) website for the schedule."
 }

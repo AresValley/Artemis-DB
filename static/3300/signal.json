@@ -1,0 +1,61 @@
+{
+    "pageid": "3300",
+    "title": "STANAG 5065",
+    "spectrum": {
+        "filename": "STANAG 5065 FSK.jpg",
+        "url": "https://www.sigidwiki.com/images/7/72/STANAG_5065_FSK.jpg"
+    },
+    "audio": {
+        "filename": "stanag-5065-fsk.mp3",
+        "url": "https://www.sigidwiki.com/images/9/9c/Stanag-5065-fsk.mp3"
+    },
+    "category": [
+        "Military",
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 50000,
+            "description": ""
+        },
+        {
+            "value": 160000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 235,
+            "description": ""
+        },
+        {
+            "value": 360,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "FSK",
+            "description": "Frequency-Shift Keying"
+        },
+        {
+            "value": "MSK",
+            "description": "Minimum-Shift Keying"
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ],
+    "short description": "STANAG 5065 is defined as \"Minimum Standards for Naval Low Frequency (LF) Shore-To-Ship Surface Broadcast Systems\", with two primary protocols, FSK75 and MSK300.",
+    "description": "**STANAG 5065** is defined as \"Minimum Standards for Naval Low Frequency (LF) Shore-To-Ship Surface Broadcast Systems\", with two primary protocols, FSK75 and MSK300.\n\nFSK75 uses a 85 Hz shift at 75 Bd. The upper frequency tone is the space, and the lower frequency tone is the mark.\n\nMSK300 uses a 150 Hz shift at 300 Bd, MSK modulation."
+}

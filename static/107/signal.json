@@ -1,35 +1,69 @@
 {
-    "signal": {
-        "name": "California Smart-Meter",
-        "url": "https://www.sigidwiki.com/wiki/California_Smart-Meter"
+    "pageid": "107",
+    "title": "PAL Broadcast",
+    "spectrum": {
+        "filename": "PAL.jpg",
+        "url": "https://www.sigidwiki.com/images/f/ff/PAL.jpg"
+    },
+    "audio": {
+        "filename": "PAL SIGNAL.mp3",
+        "url": "https://www.sigidwiki.com/images/d/da/PAL_SIGNAL.mp3"
     },
     "category": [
-        "Digital",
-        "Utility"
+        "Analogue",
+        "Commercial"
     ],
     "frequency": [
         {
-            "value": 902000000,
+            "value": 47000000,
             "description": ""
         },
         {
-            "value": 928000000,
+            "value": 862000000,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 15000,
+            "value": 6000000,
+            "description": ""
+        },
+        {
+            "value": 7000000,
+            "description": ""
+        },
+        {
+            "value": 8000000,
             "description": ""
         }
     ],
     "acf": [],
-    "modulation": [],
-    "mode": [],
-    "location": [
+    "modulation": [
         {
-            "value": "United States",
+            "value": "QAM",
+            "description": "Quadrature Amplitude Modulation"
+        },
+        {
+            "value": "VSB",
+            "description": "Vestigial Sideband Modulation"
+        },
+        {
+            "value": "FM",
+            "description": "Frequency Modulation"
+        }
+    ],
+    "mode": [
+        {
+            "value": "RAW",
             "description": ""
         }
-    ]
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ],
+    "short description": "Phase Alternating Line (PAL) Analogue Television Broadcast. Now phased out in most of the world.",
+    "description": "**Phase Alternating Line (PAL) Analogue Television Broadcast**. Now phased out in most of the world. Replaced by DVB-T. Used Quadrature Amplitude Modulation for transmitting video. Uses CCIR System B.\n\nHas a Field Rate of 50 Hz, 625 lines per frame, and a Gamma of 2.8."
 }

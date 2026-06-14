@@ -1,0 +1,52 @@
+{
+    "pageid": "1874",
+    "title": "Israeli Intelligence VFT",
+    "spectrum": {
+        "filename": "Israeli Intel VFT.jpg",
+        "url": "https://www.sigidwiki.com/images/a/ab/Israeli_Intel_VFT.jpg"
+    },
+    "audio": {
+        "filename": "ISR-VFT75-150 Complete.mp3",
+        "url": "https://www.sigidwiki.com/images/a/a1/ISR-VFT75-150_Complete.mp3"
+    },
+    "category": [
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 3000000,
+            "description": ""
+        },
+        {
+            "value": 30000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 3100,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "FSK",
+            "description": "Frequency-Shift Keying"
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Israel",
+            "description": ""
+        }
+    ],
+    "short description": "Israeli Intelligence based FSK VFT.",
+    "description": "**Israeli Intelligence based FSK VFT**. \n\nThis particular mode has been seen with either a 75Bd or a 150Bd FSK signal, and can switch mid transmission."
+}

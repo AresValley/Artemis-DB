@@ -1,0 +1,57 @@
+{
+    "pageid": "1953",
+    "title": "Improved Automatic Link Set-up (ALIS-2)",
+    "spectrum": {
+        "filename": "ALIS 2.jpg",
+        "url": "https://www.sigidwiki.com/images/d/d1/ALIS_2.jpg"
+    },
+    "audio": {
+        "filename": "alis-2.mp3",
+        "url": "https://www.sigidwiki.com/images/7/7a/Alis-2.mp3"
+    },
+    "category": [
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 3000000,
+            "description": ""
+        },
+        {
+            "value": 30000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 2000,
+            "description": ""
+        }
+    ],
+    "acf": [
+        {
+            "value": 490.0,
+            "description": "Main"
+        }
+    ],
+    "modulation": [
+        {
+            "value": "FSK",
+            "description": "Frequency-Shift Keying"
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ],
+    "short description": "ALIS-2, also known as RS-ARQ, RS ARQ 240, and MERLIN, is an improvement of the original ALIS system. ALIS-2 is used in the Rohde & Schwarz MERLIN modem.",
+    "description": "**ALIS-2**, also known as RS-ARQ, RS ARQ 240, and MERLIN, is an improvement of the original [ALIS](https://www.sigidwiki.com/wiki/Automatic_Link_Set-up_%28ALIS%29) system. ALIS-2 is used in the Rohde & Schwarz MERLIN modem. This mode has been used most frequently by Turkish, German and Italian diplomatic stations. The Italian diplomatic stations seem to favor the 5 bit (ITA2) mode. Turkish diplomatic stations have been found using the 8 bit mode for all traffic.\n\nALIS-2 is described in the \"*Report of the CCIR 1990, Fixed Service at Frequencies below about 30 MHz*\" of the ITU."
+}

@@ -1,0 +1,57 @@
+{
+    "pageid": "2416",
+    "title": "CLOVER 2500",
+    "spectrum": {
+        "filename": "CLOVER-2500.jpg",
+        "url": "https://www.sigidwiki.com/images/2/24/CLOVER-2500.jpg"
+    },
+    "audio": {
+        "filename": "Clover-2500.mp3",
+        "url": "https://www.sigidwiki.com/images/c/c8/Clover-2500.mp3"
+    },
+    "category": [
+        "Digital",
+        "Amateur Radio"
+    ],
+    "frequency": [
+        {
+            "value": 3000000,
+            "description": ""
+        },
+        {
+            "value": 30000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 2500,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "PSK",
+            "description": "Phase-Shift Keying"
+        },
+        {
+            "value": "QAM",
+            "description": "Quadrature Amplitude Modulation"
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ],
+    "short description": "CLOVER 2500 is a new upgrade to CLOVER-2000, adding 25% more speed to the CLOVER system.",
+    "description": "**CLOVER 2500** is a new upgrade to [CLOVER 2000](https://www.sigidwiki.com/wiki/CLOVER_2000), adding 25% more speed to the CLOVER system. CLOVER-2500 was released in 2011 by [HAL Communications](http://www.halcomm.com/). \n\nCLOVER-2500 uses 8 312.5 Hz wide tone-pulse subcarriers that are each offset from the base tone by 1.6ms, so that every 12.8ms all eight tone pulses transmit their cycle. CLOVER-2500 uses Phase (PSK) or Phase-Amplitude (Circular QAM) shift keying modulation. CLOVER-2500 occupies 2.5 kHz of bandwidth in contrast to CLOVER-2000's 2000 Hz of bandwidth. The symbol rate for CLOVER-2500 is increased to 78.125 Bd for all modes, 25% faster than CLOVER-2000's 62.5 Bd.\n\n| Mode | Description | Data Rate | ARQ/FEC Support |\n| --- | --- | --- | --- |\n| 16P4A | 16-Phase 4-Amplitude Modulation (64-QAM) | 3750 bps Max | ARQ & FEC |\n| 8P2A | 8-Phase 2-Amplitude Modulation (16-QAM) | 2500 bps Max | ARQ & FEC |\n| 8PSM | 8 Phase Shift-Keying Modulation (8-PSK) | 1875 bps Max | ARQ & FEC |\n| QPSM | Quadrature Phase-Shift Keying (QPSK) | 1250 bps Max | ARQ & FEC |\n| BPSM | BPSK Binary Phase-Shift Keying (QPSK) | 625 bps Max | ARQ & FEC |\n| 2DPSM | BPSK with 2-Channel Redundancy | 312.5 bps Max | FEC |"
+}

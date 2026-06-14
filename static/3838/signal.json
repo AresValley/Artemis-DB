@@ -1,0 +1,48 @@
+{
+    "pageid": "3838",
+    "title": "Chinese Multitonal Jammer",
+    "spectrum": {
+        "filename": "Oddity.PNG",
+        "url": "https://www.sigidwiki.com/images/7/7e/Oddity.PNG"
+    },
+    "audio": {
+        "filename": "Websdr recording start 2016-09-10T14-56-01Z 17580.0kHz.wav",
+        "url": "https://www.sigidwiki.com/images/1/16/Websdr_recording_start_2016-09-10T14-56-01Z_17580.0kHz.wav"
+    },
+    "category": [
+        "Interfering"
+    ],
+    "frequency": [
+        {
+            "value": 9045000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 10000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "PPM",
+            "description": "Pulse Position Modulation"
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ],
+    "short description": "Chinese radio jamming signals intended to disrupt/censor broadcast communications.",
+    "description": "Report Date: 09/09/2016. Active jamming operations were identified on 17580 kHz, targeting a VOA transmission. The interfering signal, formerly cataloged as an 'oddity', has been reclassified as active interference."
+}

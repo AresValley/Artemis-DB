@@ -1,0 +1,60 @@
+{
+    "pageid": "8671",
+    "title": "CIS OFDM-121",
+    "spectrum": {
+        "filename": "CIS OFDM-121 waterfall.png",
+        "url": "https://www.sigidwiki.com/images/8/8f/CIS_OFDM-121_waterfall.png"
+    },
+    "audio": {
+        "filename": "USB CIS OFDM-121.mp3",
+        "url": "https://www.sigidwiki.com/images/f/f3/USB_CIS_OFDM-121.mp3"
+    },
+    "category": [
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 4454000,
+            "description": ""
+        },
+        {
+            "value": 20866000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 3100,
+            "description": ""
+        },
+        {
+            "value": 2700,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "OFDM",
+            "description": "Orthogonal Frequency-Division Multiplexing"
+        },
+        {
+            "value": "QPSK",
+            "description": "Quadrature Phase-Shift Keying"
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Russia",
+            "description": ""
+        }
+    ],
+    "short description": "CIS OFDM-121 is an OFDM mode that uses OFDM bursts with 121 channels, spaced by two QPSK-like bursts.\nNot all of the 121 available channels of OFDM bursts are used and it's possible to note a different arrangement of the channels in different days.",
+    "description": "**CIS OFDM-121** is an OFDM mode that uses OFDM bursts with 121 channels, spaced by two QPSK-like bursts.\nNot all of the 121 available channels of OFDM bursts are used and it's possible to note a different arrangement of the channels in different days.\n\nSometimes CIS OFDM-121 transmission has only QPSK-like bursts without OFDM bursts, in such cases the QPSK-like bursts are being transmitted in pairs (two QPSK-like bursts, transmitted one after another), similar to regular transmission, the timing between transmission of each pair might be the same as during normal transmission with OFDM bursts (long-spaced idle) or shorter (short-spaced idle). The transmissions without OFDM bursts could mean that no traffic is being sent and CIS OFDM-121 is in an idle state.\n\nIt was noticed that regular transmission (with OFDM bursts) sometimes can have gaps - no OFDM burst is being transmitted, despite OFDM bursts were transmitted before and after the gap. There might be several gaps during the transmission, but in that case there should be at least one OFDM burst before and after each gap (there might be two gaps in a row, but that's very rare). Sometimes QPSK-like bursts might be transmitted one after another not in pairs up to 15 bursts in a row.\n\nThe origin of the signal is assumed to be Moscow, Russia."
+}

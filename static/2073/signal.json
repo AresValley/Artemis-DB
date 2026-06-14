@@ -1,0 +1,52 @@
+{
+    "pageid": "2073",
+    "title": "CCITT",
+    "spectrum": {
+        "filename": "Ccitt_5-tones.jpg",
+        "url": "https://www.sigidwiki.com/images/6/61/Ccitt_5-tones.jpg"
+    },
+    "audio": {
+        "filename": "Ccitt_5-tone.mp3",
+        "url": "https://www.sigidwiki.com/images/7/7a/Ccitt_5-tone.mp3"
+    },
+    "category": [
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 30000000,
+            "description": ""
+        },
+        {
+            "value": 800000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 5000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "FSK",
+            "description": "Frequency-Shift Keying"
+        }
+    ],
+    "mode": [
+        {
+            "value": "NFM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ],
+    "short description": "CCITT is a 5-tone selcall system for VHF/UHF radios.",
+    "description": "**CCITT** is a 15 tone selcall system for VHF/UHF radios. CCITT stands for Consultative Committee for International Telephony and Telegraphy, which has now become the ITU-T. \n\nSelcall (selective calling) is a type of squelch protocol used in radio communications systems, in which transmissions include a brief burst of sequential audio tones. Receivers that are set to respond to the transmitted tone sequence will open their squelch, while others will remain muted.\n \nCCITT has 100 ms tone duration per tone. Each tone corresponds with either a number or letter, as denoted by the table below. CCITT has 15 tones to choose from, but only sends a burst of up to 5 tones. The bursts transmit right before a radio transmission."
+}

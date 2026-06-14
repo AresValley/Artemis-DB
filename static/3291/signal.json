@@ -1,0 +1,52 @@
+{
+    "pageid": "3291",
+    "title": "SI-FEC",
+    "spectrum": {
+        "filename": "SI-FEC.png",
+        "url": "https://www.sigidwiki.com/images/f/fe/SI-FEC.png"
+    },
+    "audio": {
+        "filename": "si-fec (dat 8_11).mp3",
+        "url": "https://www.sigidwiki.com/images/d/de/Si-fec_%28dat_8_11%29.mp3"
+    },
+    "category": [
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 3000000,
+            "description": ""
+        },
+        {
+            "value": 30000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 280,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "FSK",
+            "description": "Frequency-Shift Keying"
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Europe",
+            "description": ""
+        }
+    ],
+    "short description": "SI-FEC, also known as FEC-S, FEC 1000 Simplex, and FEC-1000S, was the FEC variant of SI-ARQ, and was only used under extremely poor propagation conditions. SI-FEC was developed by Siemens and was used by Austrian and Indonesian diplomatic services.",
+    "description": "**SI-FEC**, also known as FEC-S, FEC 1000 Simplex, and FEC-1000S, was the FEC variant of [SI-ARQ](https://www.sigidwiki.com/wiki/SI-ARQ), and was only used under extremely poor propagation conditions. SI-FEC was developed by Siemens and was used by Austrian and Indonesian diplomatic services. No longer used today.\n\nSI-FEC typically uses baudrates of 96, 192 or 200 Bd using the ITA-3 alphabet. During idle mode this system is the same as [CCIR 242 (ARQ-M2)](https://www.sigidwiki.com/wiki/ARQ-M2-242)."
+}

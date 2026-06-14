@@ -1,0 +1,53 @@
+{
+    "pageid": "6161",
+    "title": "OOK RC Car Remote Control",
+    "spectrum": {
+        "filename": "27MhzRCWaterfall.png",
+        "url": "https://www.sigidwiki.com/images/e/e6/27MhzRCWaterfall.png"
+    },
+    "audio": {
+        "filename": "RC Remote.mp3",
+        "url": "https://www.sigidwiki.com/images/2/2b/RC_Remote.mp3"
+    },
+    "category": [
+        "Utility",
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 27000000,
+            "description": ""
+        },
+        {
+            "value": 49000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 1600,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "OOK",
+            "description": "On-Off Keying"
+        }
+    ],
+    "mode": [
+        {
+            "value": "AM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ],
+    "short description": "Cheap RC Cars with only for buttons (Forward, Reverse, Left, Right) Typically use 27Mhz or 49Mhz as the transmit frequency. There's typically no channel switching system on the remote control, which leads to interference with operating two RC vehicles at once.",
+    "description": ""
+}

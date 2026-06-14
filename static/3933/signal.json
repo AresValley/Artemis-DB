@@ -1,0 +1,58 @@
+{
+    "pageid": "3933",
+    "title": "GM2100 (R&S)",
+    "spectrum": {
+        "filename": "GM2100 R26S.png",
+        "url": "https://www.sigidwiki.com/images/c/c0/GM2100_R26S.png"
+    },
+    "audio": {
+        "filename": "GM2100.mp3",
+        "url": "https://www.sigidwiki.com/images/4/4f/GM2100.mp3"
+    },
+    "category": [
+        "Digital",
+        "Military"
+    ],
+    "frequency": [
+        {
+            "value": 3000000,
+            "description": ""
+        },
+        {
+            "value": 30000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 3000,
+            "description": ""
+        }
+    ],
+    "acf": [
+        {
+            "value": 133.3,
+            "description": "Main"
+        }
+    ],
+    "modulation": [
+        {
+            "value": "PSK",
+            "description": "Phase-Shift Keying"
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Europe",
+            "description": ""
+        }
+    ],
+    "short description": "This is the proprietary HF Data Signal Protocol for the Rohde & Schwarz HF Modem GM2100.",
+    "description": "This is the proprietary HF Data Signal Protocol for the **Rohde & Schwarz HF Modem GM2100**. The modem itself supports three data modes, this special R&H data format, [STANAG 4285](https://www.sigidwiki.com/wiki/STANAG_4285), and [MIL-STD-188-110](https://www.sigidwiki.com/wiki/MIL-STD-188-110_Serial)."
+}

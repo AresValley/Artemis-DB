@@ -1,0 +1,48 @@
+{
+    "pageid": "3644",
+    "title": "BMW Key-Code signal",
+    "spectrum": {
+        "filename": "BMW Key Code.jpg",
+        "url": "https://www.sigidwiki.com/images/2/2c/BMW_Key_Code.jpg"
+    },
+    "audio": {
+        "filename": "BMW Key-Code Signal.mp3",
+        "url": "https://www.sigidwiki.com/images/e/ef/BMW_Key-Code_Signal.mp3"
+    },
+    "category": [
+        "Utility"
+    ],
+    "frequency": [
+        {
+            "value": 433000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 10000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "ASK",
+            "description": "Amplitude-Shift Keying"
+        }
+    ],
+    "mode": [
+        {
+            "value": "FM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ],
+    "short description": "This coded signal was sent by BMW Car-Key. It is used to open and lock bimmer doors.",
+    "description": "This coded signal was sent by BMW Car-Key. It is used to open and lock bimmer doors."
+}

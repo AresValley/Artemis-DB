@@ -1,0 +1,53 @@
+{
+    "pageid": "7090",
+    "title": "AIST 2D",
+    "spectrum": {
+        "filename": "AIST2D.png",
+        "url": "https://www.sigidwiki.com/images/1/12/AIST2D.png"
+    },
+    "audio": {
+        "filename": "AIST-2D.mp3",
+        "url": "https://www.sigidwiki.com/images/f/f0/AIST-2D.mp3"
+    },
+    "category": [
+        "Satellite",
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 435315000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 10000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "PM",
+            "description": "Phase Modulation"
+        },
+        {
+            "value": "PCM",
+            "description": "Pulse Code Modulation"
+        }
+    ],
+    "mode": [
+        {
+            "value": "NFM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ],
+    "short description": "Aist 2D is a Russian microsatellite developed and designed by a group of Samara Aerospace University students, postgraduates, and scientists in cooperation with TsSKB-Progress.",
+    "description": "[LINK](https://space.skyrocket.de/doc_sdat/aist-2.htm)\n [LINK](https://www.russianspaceweb.com/aist2d.html)"
+}

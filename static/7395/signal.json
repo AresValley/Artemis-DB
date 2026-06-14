@@ -1,0 +1,31 @@
+{
+    "pageid": "7395",
+    "title": "Siemens 1.5T MRI Scanner",
+    "spectrum": {
+        "filename": "T2_mri_cropped.png",
+        "url": "https://www.sigidwiki.com/images/3/39/T2_mri_cropped.png"
+    },
+    "audio": {
+        "filename": "T2_mri_rf.mp3",
+        "url": "https://www.sigidwiki.com/images/7/71/T2_mri_rf.mp3"
+    },
+    "category": [],
+    "frequency": [
+        {
+            "value": 64000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [],
+    "acf": [],
+    "modulation": [],
+    "mode": [],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ],
+    "short description": "Radio signal used by MRI machines to excite protons and obtain their response.",
+    "description": "An MRI machine uses kilowatts of radio frequency to excite protons and obtain their response, not only a strong magnetic field. My signals were recorded within <50m from the MRI clinic. Most of the radio frequency field is probably concentrated inside the device, and the room can also be shielded.\n\n**We can't reconstruct images from these because the response signal is extremely weak.** We also can't exactly extract the sounds of MRI from it's radio signal - they are emitted by gradient coils, not an RF coil."
+}

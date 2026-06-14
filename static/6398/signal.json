@@ -1,0 +1,61 @@
+{
+    "pageid": "6398",
+    "title": "FreeDV plus Video",
+    "spectrum": {
+        "filename": "Waterfall4.jpg",
+        "url": "https://www.sigidwiki.com/images/c/cc/Waterfall4.jpg"
+    },
+    "audio": {
+        "filename": "Demo15 0002Trim.mp3",
+        "url": "https://www.sigidwiki.com/images/9/91/Demo15_0002Trim.mp3"
+    },
+    "category": [
+        "Amateur Radio",
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 3000000,
+            "description": ""
+        },
+        {
+            "value": 30000000,
+            "description": ""
+        },
+        {
+            "value": 14236000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 3500,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "OFDM",
+            "description": "Orthogonal Frequency-Division Multiplexing"
+        },
+        {
+            "value": "FM",
+            "description": "Frequency Modulation"
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ],
+    "short description": "FreeDV plus Video (also known as FreeDV+) combines analog FM multicarrier Narrow Band TV (NBTV) by Con Wassilieff, ZL2AFP, and FreeDV digital voice by David Rowe, VK5DGR.",
+    "description": "**FreeDV plus Video** (also known as FreeDV+) combines analog FM multicarrier Narrow Band TV (NBTV) by Con Wassilieff, ZL2AFP, and FreeDV digital voice by David Rowe, VK5DGR. Bandwidth is 3.5 kHz, frame rate is 0.9 FPS, with 36-line resolution, full color. The ZL2AFP software has been modified for compatibility with the FreeDV \"700D\" and \"1600\" modes. FreeDV+ requires transmitting with a low-IMD transceiver and external amplifier, using Class-A and/or adaptive predistortion. FreeDV+ combines the NBTV and FreeDV signals using Frequency Division Multiple Access (FDMA), a technique also used to combine signals in communication satellites."
+}

@@ -1,1 +1,0 @@
-Data returned from a consumer weather sensor using the AlectoV1 protocol. Signal is On-Off-Keyed (OOK), 36bit packets.

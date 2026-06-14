@@ -1,0 +1,48 @@
+{
+    "pageid": "1836",
+    "title": "TDF",
+    "spectrum": {
+        "filename": "TDF.jpg",
+        "url": "https://www.sigidwiki.com/images/0/05/TDF.jpg"
+    },
+    "audio": {
+        "filename": "TDF time signal.mp3",
+        "url": "https://www.sigidwiki.com/images/3/31/TDF_time_signal.mp3"
+    },
+    "category": [
+        "Time"
+    ],
+    "frequency": [
+        {
+            "value": 162000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 1,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "PSK",
+            "description": "Phase-Shift Keying"
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "France",
+            "description": ""
+        }
+    ],
+    "short description": "TDF, also known as ALS162, is a time signal transmitted on the former carrier of France's '''France Inter''' longwave AM radio station on 162 kHz.",
+    "description": "**TDF**, also known as **ALS162**, is a time signal transmitted on the former carrier of France's **France Inter** longwave AM radio station on 162 kHz. The carrier is phase modulated in 0.1 second every second, except for the 59th second of each minute. The data encoded in this signal is similar to [DCF77](https://www.sigidwiki.com/wiki/DCF77), except for bit 13 and 14, which are set for holidays.\n\nAs of January 1st, 2017, France Inter's LW radio channel has ceased, but the TDF time signal carrier remains at 162 kHz."
+}

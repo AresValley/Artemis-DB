@@ -1,0 +1,62 @@
+{
+    "pageid": "2041",
+    "title": "CIS-1200 (T-230-1A 'Mahovik')",
+    "spectrum": {
+        "filename": "flywheel.jpg",
+        "url": "https://www.sigidwiki.com/images/b/b0/Flywheel.jpg"
+    },
+    "audio": {
+        "filename": "Makhovik.mp3",
+        "url": "https://www.sigidwiki.com/images/2/2a/Makhovik.mp3"
+    },
+    "category": [
+        "Digital",
+        "Military"
+    ],
+    "frequency": [
+        {
+            "value": 3000000,
+            "description": ""
+        },
+        {
+            "value": 30000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 2500,
+            "description": ""
+        }
+    ],
+    "acf": [
+        {
+            "value": 426.66,
+            "description": "Main"
+        }
+    ],
+    "modulation": [
+        {
+            "value": "SDPSK",
+            "description": "Symmetric Differential Phase-Shift Keying"
+        },
+        {
+            "value": "BPSK",
+            "description": "Binary Phase-Shift Keying"
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Russia",
+            "description": ""
+        }
+    ],
+    "short description": "CIS-1200, Mahovik, \"Flywheel\" in Russian, is a PSK based mode that can transmit both voice and data. It is transmitted from a Russian T-230-1A.",
+    "description": "**CIS-1200 (T-230-1A Маховик)**, or \"**Flywheel**\" in Russian, is a PSK based mode that can transmit both voice and data. It is transmitted from a Russian T-230-1A. Has been seen with both BPSK and SDPSK manipulation at 1200Bd."
+}

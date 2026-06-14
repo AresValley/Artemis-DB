@@ -1,0 +1,49 @@
+{
+    "pageid": "8372",
+    "title": "OTP-2 Satellite Musical Beacon",
+    "spectrum": {
+        "filename": "UNID Musical Satellite Slowed Stretched.png",
+        "url": "https://www.sigidwiki.com/images/1/19/UNID_Musical_Satellite_Slowed_Stretched.png"
+    },
+    "audio": {
+        "filename": "UNID Musical Satellite.mp3",
+        "url": "https://www.sigidwiki.com/images/d/d2/UNID_Musical_Satellite.mp3"
+    },
+    "category": [
+        "Satellite",
+        "Analogue"
+    ],
+    "frequency": [
+        {
+            "value": 400502000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 4200,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "FSK",
+            "description": "Frequency-Shift Keying"
+        }
+    ],
+    "mode": [
+        {
+            "value": "NFM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ],
+    "short description": "Musical transmission originating from the OTP-2 Cubesat",
+    "description": "Signal now identified as OTP-2/Barry-2. (2025-052AB; 63235) Satellite will broadcast this tune in-between telemetry bursts. Song is the [Kerbal Space Program theme](https://youtu.be/-idB7XK2xI8?si=d1uN16s6_gYFhjYL)\n\nThumbnail image was created by slowing down playback with high waterfall speed. \n\n [I/Q on MEGA](https://mega.nz/file/0z1QCLpA#mtLZ6PL7HzepXB7na-os1f93jWVuoiqGf95uwLWpA4k)"
+}

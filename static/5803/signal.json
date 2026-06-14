@@ -1,0 +1,69 @@
+{
+    "pageid": "5803",
+    "title": "Relocatable Over-the-Horizon Radar (ROTHR)",
+    "spectrum": {
+        "filename": "UnknownHF.PNG",
+        "url": "https://www.sigidwiki.com/images/d/d7/UnknownHF.PNG"
+    },
+    "audio": {
+        "filename": "SDRSharp 20170713 012801Z 14517079Hz AF (mp3cut.net).mp3",
+        "url": "https://www.sigidwiki.com/images/a/a2/SDRSharp_20170713_012801Z_14517079Hz_AF_%28mp3cut.net%29.mp3"
+    },
+    "category": [
+        "Radar",
+        "Military"
+    ],
+    "frequency": [
+        {
+            "value": 5000000,
+            "description": ""
+        },
+        {
+            "value": 28000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 4000,
+            "description": ""
+        },
+        {
+            "value": 8000,
+            "description": ""
+        },
+        {
+            "value": 16000,
+            "description": ""
+        },
+        {
+            "value": 50000,
+            "description": ""
+        },
+        {
+            "value": 100000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "FMCW",
+            "description": "Frequency-Modulated Continuous Wave"
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "United States",
+            "description": ""
+        }
+    ],
+    "short description": "Relocatable Over-the-Horizon Radar (ROTHR), also known as AN/TPS-71, is an OTH Radar used by the United States Navy that uses bistatic ionospheric backscattering for wide area surveillance.",
+    "description": "**Relocatable Over-the-Horizon Radar (ROTHR)**, also known as AN/TPS-71, is an OTH Radar used by the United States Navy that uses bistatic ionospheric backscattering for wide area surveillance. The Radar system was developed by the US Navy with assistance from Raytheon. Three ROTHR systems are in use, in Virginia, Texas and Puerto Rico.\n\nThe radar uses FMCW transmission and can use different bandwidths. Lower bandwidth transmissions are easier to receive in distant locations such as Europe. Transmission happens in bursts and a couple of successive bursts are often transmitted. After transmitting a burst sequence, the radar may change its frequency slightly, making it harder to follow compared to other OTH radars. Sweep rate is often changed between successive bursts. The bursts are most commonly transmitted without intro tone, and sometimes a three-part intro tone is used. This three-part intro tone is a characteristic feature of this radar.\n\nROTHR can be confused with the [JORN radar](https://www.sigidwiki.com/wiki/Jindalee_Operational_Radar_Network_%28JORN%29), but can be differentiated by its different bandwidth and three-part intro tone or lack of intro tone."
+}

@@ -1,0 +1,66 @@
+{
+    "pageid": "5503",
+    "title": "Motorola ASTRO 25 HPD Air Interface",
+    "spectrum": {
+        "filename": "Motorola-ASTRO25-HPD-HAI.png",
+        "url": "https://www.sigidwiki.com/images/a/a4/Motorola-ASTRO25-HPD-HAI.png"
+    },
+    "audio": {
+        "filename": "Motorola-ASTRO25-HPD-HAI-in-NFM.ogg",
+        "url": "https://www.sigidwiki.com/images/e/e6/Motorola-ASTRO25-HPD-HAI-in-NFM.ogg"
+    },
+    "category": [
+        "Digital",
+        "Trunked Radio"
+    ],
+    "frequency": [
+        {
+            "value": 769000000,
+            "description": ""
+        },
+        {
+            "value": 775000000,
+            "description": ""
+        },
+        {
+            "value": 851000000,
+            "description": ""
+        },
+        {
+            "value": 869000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 17700,
+            "description": ""
+        }
+    ],
+    "acf": [
+        {
+            "value": 120.0,
+            "description": "Main"
+        }
+    ],
+    "modulation": [
+        {
+            "value": "QAM",
+            "description": "Quadrature Amplitude Modulation"
+        }
+    ],
+    "mode": [
+        {
+            "value": "RAW",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "United States",
+            "description": ""
+        }
+    ],
+    "short description": "Motorola's ASTRO 25 High Performance Data Air Interface allows Motorola ASTRO 25 HPD modems to transfer data at up to 96 kbps over a 25 kHz channel in the 700 MHz or 800 MHz bands.",
+    "description": "Motorola ASTRO 25 High Performance Data (HPD) uses the HPD Air Interface (HAI) to communicate with compatible modems. The modems are used primarily by law enforcement mobile data terminals to communicate with a dispatch center's computer-aided dispatch system. Downlink channels strongly resemble [iDEN](https://www.sigidwiki.com/wiki/Integrated_Digital_Enhanced_Network_%28iDEN%29). The downlink uses four QAM channels packed closely together to occupy a 25 kHz channel, and the uplink uses TDMA. Short blips can be heard on the uplink, and they may not resemble the downlink signal. The downlink signal has a 120ms ACF with other peaks on multiples of 30ms, and the uplink signal has an ACF that is a multiple of 30ms (usually 180ms, 360ms, or 420ms). \n\nMost HPD systems use [Motorola HPD 1000](https://fccid.io/AZ492FT5850) modems for subscriber units and Motorola GTR 8000 transmitters for base stations."
+}

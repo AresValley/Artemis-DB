@@ -1,1 +1,0 @@
-Narrow-Bandwidth Television (NBTV) is an open source analog TV mode developed for amateur radio by the Narrow-bandwidth Television Association.

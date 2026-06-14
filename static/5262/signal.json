@@ -1,0 +1,57 @@
+{
+    "pageid": "5262",
+    "title": "MDC1200",
+    "spectrum": {
+        "filename": "MDC1200 3.png",
+        "url": "https://www.sigidwiki.com/images/0/0d/MDC1200_3.png"
+    },
+    "audio": {
+        "filename": "MDC1200 audio.wav",
+        "url": "https://www.sigidwiki.com/images/b/b7/MDC1200_audio.wav"
+    },
+    "category": [
+        "Commercial",
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 30000000,
+            "description": ""
+        },
+        {
+            "value": 960000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 12500,
+            "description": ""
+        },
+        {
+            "value": 20000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "AFSK",
+            "description": "Audio Frequency-Shift Keying"
+        }
+    ],
+    "mode": [
+        {
+            "value": "FM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ],
+    "short description": "MDC (Motorola Data Communications), also known as Stat-Alert, MDC-1200 and MDC-600, is a Motorola two-way radio low-speed data system.",
+    "description": "**Motorola Data Communications (MDC)** signaling includes a number of features: unit ID, status buttons, emergency button, selective inhibit, radio check, and selective calling. These features are programmable and could be used in any combination desired by the user. They are typically incorporated in high-end analog FM commercial and public safety radios made by Motorola and other manufacturers. In addition to Motorola, at least two other companies make compatible base station decoders for MDC-1200."
+}

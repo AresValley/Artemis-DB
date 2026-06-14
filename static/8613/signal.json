@@ -1,0 +1,61 @@
+{
+    "pageid": "8613",
+    "title": "Radio-relay link",
+    "spectrum": {
+        "filename": "RRlink.jpg",
+        "url": "https://www.sigidwiki.com/images/1/17/RRlink.jpg"
+    },
+    "audio": {
+        "filename": "RRlink 38 GHz.mp3",
+        "url": "https://www.sigidwiki.com/images/c/c9/RRlink_38_GHz.mp3"
+    },
+    "category": [
+        "Digital",
+        "Commercial"
+    ],
+    "frequency": [
+        {
+            "value": 6000000000,
+            "description": ""
+        },
+        {
+            "value": 38000000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 3500000,
+            "description": ""
+        },
+        {
+            "value": 800000000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "FSK",
+            "description": "Frequency-Shift Keying"
+        },
+        {
+            "value": "QAM",
+            "description": "Quadrature Amplitude Modulation"
+        }
+    ],
+    "mode": [
+        {
+            "value": "RAW",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ],
+    "short description": "A radio‑relay (microwave) link using small parabolic antennas is a short‑range, high‑capacity point‑to‑point microwave connection commonly deployed when fiber is unavailable or too expensive to build.",
+    "description": "**Radio-relay link** transmits data through highly directional beams between two fixed antennas. Because the wavelength is short, the antennas can be physically small while still achieving strong directivity and high throughput.\n\nKey characteristics\n\nTypically operates in licensed microwave bands from 6 to 40 GHz, with 38 GHz being one of the most widely used for dense urban links. Uses compact parabolic dishes (often 20–60 cm) that provide high gain and narrow beams, reducing interference and allowing many links to coexist in the same area. Supports high data rates, often hundreds of Mbps to several Gbps, depending on channel width and modulation. Range is usually 1–5 km at 38 GHz due to atmospheric attenuation; lower bands (6–13 GHz) can reach much farther. Requires clear line‑of‑sight. Higher frequencies are more sensitive to rain fade, so link budgets must include fade margins. Frequently used for last‑mile wireless backhaul, connecting buildings, towers, or remote sites “through the air” to the nearest operator’s network.\n\nTypical use cases\n\nConnecting businesses or base stations where fiber is unavailable\nTemporary or rapid‑deployment connectivity\nRedundant backup paths for critical infrastructure\nUrban microwave backhaul in dense operator networks"
+}

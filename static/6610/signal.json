@@ -1,0 +1,49 @@
+{
+    "pageid": "6610",
+    "title": "GOES High Rate Information Transmission (HRIT)",
+    "spectrum": {
+        "filename": "HRITnew.png",
+        "url": "https://www.sigidwiki.com/images/6/66/HRITnew.png"
+    },
+    "audio": {
+        "filename": null,
+        "url": null
+    },
+    "category": [
+        "Digital",
+        "Satellite"
+    ],
+    "frequency": [
+        {
+            "value": 1694100000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 1205000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "BPSK",
+            "description": "Binary Phase-Shift Keying"
+        }
+    ],
+    "mode": [
+        {
+            "value": "RAW",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ],
+    "short description": "GOES HRIT is a retransmission of satellite imagery and other information from the GOES-R series of satellites.",
+    "description": "GOES HRIT is a retransmission of satellite imagery and other information from the GOES-R series of satellites. It is possible to decode it and get images with cheap hardware."
+}

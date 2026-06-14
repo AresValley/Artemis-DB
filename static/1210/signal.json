@@ -1,0 +1,53 @@
+{
+    "pageid": "1210",
+    "title": "CIS 3x100 VFT",
+    "spectrum": {
+        "filename": "CIS3x100bd.jpg",
+        "url": "https://www.sigidwiki.com/images/c/c5/CIS3x100bd.jpg"
+    },
+    "audio": {
+        "filename": "CIS_3x100bd.mp3",
+        "url": "https://www.sigidwiki.com/images/7/75/CIS_3x100bd.mp3"
+    },
+    "category": [
+        "Military",
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 3000000,
+            "description": ""
+        },
+        {
+            "value": 30000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 3100,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "FSK",
+            "description": "Frequency-Shift Keying"
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Russia",
+            "description": ""
+        }
+    ],
+    "short description": "Three CIS-14 signals overlaid on top of each other in a 3100 Hz VFT bandwidth, operating at 100 bd",
+    "description": "Three CIS-14 signals overlaid on top of each other in a 3100 Hz VFT (Voice-Frequency Telegraphy) bandwidth, operating at 100 bd. The CIS-14 signals are transmitted with encryption. \n\nVFT (Voice-Frequency Telegraphy), i.e. a technique that uses the entire voice-frequency range 300-3400 Hz for sending multiple transmissions simultaneously over one voice-bandwidth radio channel so that the entire frequency bandwidth of the channel is used."
+}

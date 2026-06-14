@@ -1,0 +1,57 @@
+{
+    "pageid": "2158",
+    "title": "NTSC Broadcast",
+    "spectrum": {
+        "filename": "NTSCthumb.jpg",
+        "url": "https://www.sigidwiki.com/images/4/41/NTSCthumb.jpg"
+    },
+    "audio": {
+        "filename": "16-38-41 Unknown 229,250 MHz.wav",
+        "url": "https://www.sigidwiki.com/images/2/25/16-38-41_Unknown_229%2C250_MHz.wav"
+    },
+    "category": [
+        "Analogue",
+        "Commercial"
+    ],
+    "frequency": [
+        {
+            "value": 54000000,
+            "description": ""
+        },
+        {
+            "value": 806000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 6000000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "QAM",
+            "description": "Quadrature Amplitude Modulation"
+        },
+        {
+            "value": "VSB",
+            "description": "Vestigial Sideband Modulation"
+        }
+    ],
+    "mode": [
+        {
+            "value": "RAW",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ],
+    "short description": "National Television System Committee (NTSC) Television broadcast is an analogue television broadcast mode. Currently being phased out in parts of the world in favor of digital broadcast.",
+    "description": "**National Television System Committee (NTSC) Television** broadcast is an analogue television broadcast mode. Currently being phased out in parts of the world in favor of digital broadcast. The successor of NTSC is [ATSC](https://www.sigidwiki.com/wiki/ATSC_Broadcast)."
+}

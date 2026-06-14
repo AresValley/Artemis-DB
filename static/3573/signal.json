@@ -1,0 +1,54 @@
+{
+    "pageid": "3573",
+    "title": "Vehicle Counting System",
+    "spectrum": {
+        "filename": "Flinders Uni Vehicle Counting System Waterfall.PNG",
+        "url": "https://www.sigidwiki.com/images/6/60/Flinders_Uni_Vehicle_Counting_System_Waterfall.PNG"
+    },
+    "audio": {
+        "filename": null,
+        "url": null
+    },
+    "category": [
+        "Commercial",
+        "Digital",
+        "Utility"
+    ],
+    "frequency": [
+        {
+            "value": 915000000,
+            "description": ""
+        },
+        {
+            "value": 925000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 10000000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "FSK",
+            "description": "Frequency-Shift Keying"
+        }
+    ],
+    "mode": [
+        {
+            "value": "RAW",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Australia",
+            "description": ""
+        }
+    ],
+    "short description": "Data transmitted from a vehicle counting system installed in car parks. The data is frequency hopping over 10 MHz.",
+    "description": "A small unit is fixed to the road where the cars will drive. It is probably interrogated by the 'zone controller' unit using something similar to RFID. A directional antenna from the zone controller is pointed at the road sensor (the frequency of this is currently unknown). Data is transmitted from the zone controller regularly, even when no traffic is present.\n\nThe communication format is unknown, it uses frequency hopping over 10 MHz.\n\nIt appears to be similar to the system described in this website [LINK](http://www.trafficparking.com.au/vehicle-counting-systems.php) and the equipment appears to be provided by [LINK](http://www.smartparking.com/) (but that website doesn't have much information)."
+}

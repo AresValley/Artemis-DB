@@ -1,0 +1,53 @@
+{
+    "pageid": "7662",
+    "title": "CIS FTM-4",
+    "spectrum": {
+        "filename": "Unknown pulsating 4 tones and FM.png",
+        "url": "https://www.sigidwiki.com/images/a/a5/Unknown_pulsating_4_tones_and_FM.png"
+    },
+    "audio": {
+        "filename": "Unknown pulsating 4 tones and FM signal USB wide.ogg",
+        "url": "https://www.sigidwiki.com/images/d/d0/Unknown_pulsating_4_tones_and_FM_signal_USB_wide.ogg"
+    },
+    "category": [
+        "Military",
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 4000000,
+            "description": ""
+        },
+        {
+            "value": 20000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 13000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "FSK",
+            "description": "Frequency-Shift Keying"
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Russia",
+            "description": ""
+        }
+    ],
+    "short description": "CIS FTM-4 is the unofficial designation of a four-tone MFSK data mode which is apparently used by Russian military.",
+    "description": "**CIS FTM-4** is the unofficial designation of a 4-MFSK data mode which is apparently used by Russian military. It's also known with other names such as **CIS 4FSK 150bd** but the official name and equipment used to transmit it are unknown. \n\nThe signal consists of four tones spaced 4 kHz apart, making the total bandwidth slightly over 12 kHz. Symbol rate is 150bd. Something can be seen between the four tones as well."
+}

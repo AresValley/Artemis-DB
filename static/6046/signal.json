@@ -1,0 +1,53 @@
+{
+    "pageid": "6046",
+    "title": "Gonets",
+    "spectrum": {
+        "filename": "Gonet.png",
+        "url": "https://www.sigidwiki.com/images/f/fd/Gonet.png"
+    },
+    "audio": {
+        "filename": "GonetsFM.mp3",
+        "url": "https://www.sigidwiki.com/images/4/42/GonetsFM.mp3"
+    },
+    "category": [
+        "Commercial",
+        "Satellite"
+    ],
+    "frequency": [
+        {
+            "value": 265,
+            "description": ""
+        },
+        {
+            "value": 388000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 20000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "GMSK",
+            "description": "Gaussian Minimum-Shift Keying"
+        }
+    ],
+    "mode": [
+        {
+            "value": "NFM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ],
+    "short description": "Gonets (Russian Гонец, for Messenger) is a Russian civilian low Earth orbit communications satellite system.",
+    "description": "Gonets is a Russian civilian low Earth orbit communications satellite system. It consists of a number of satellites, derived from Strela military communications satellites. \nAs of 2016, the Gonets orbit group comprises 12 second-generation spacecraft \"Gonets-M\" and 1 first-generation \"Gonets-D1\". The orbital group performs the task of direct communication with subscribers at any point of the globe."
+}

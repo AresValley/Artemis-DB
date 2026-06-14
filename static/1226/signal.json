@@ -1,0 +1,53 @@
+{
+    "pageid": "1226",
+    "title": "CIS-300",
+    "spectrum": {
+        "filename": "CIS-300.jpg",
+        "url": "https://www.sigidwiki.com/images/5/55/CIS-300.jpg"
+    },
+    "audio": {
+        "filename": "CIS-300.mp3",
+        "url": "https://www.sigidwiki.com/images/3/3a/CIS-300.mp3"
+    },
+    "category": [
+        "Military",
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 3000000,
+            "description": ""
+        },
+        {
+            "value": 30000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 370,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "FSK",
+            "description": "Frequency-Shift Keying"
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Russia",
+            "description": ""
+        }
+    ],
+    "short description": "Known as CIS-300 Burst, FSK mode used with 300 Bd rate with a starting and ending tone on the upper part of the signal.",
+    "description": "Known as **CIS-300** Burst, FSK mode used with 300 Bd rate with a starting and ending tone on the upper part of the signal."
+}

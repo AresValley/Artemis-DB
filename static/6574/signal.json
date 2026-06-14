@@ -1,0 +1,44 @@
+{
+    "pageid": "6574",
+    "title": "Tactical Air Navigation System (TACAN)",
+    "spectrum": {
+        "filename": "TACAN.png",
+        "url": "https://www.sigidwiki.com/images/d/dc/TACAN.png"
+    },
+    "audio": {
+        "filename": "SDRSharp 20220206 222358Z 1205000000Hz AF.wav",
+        "url": "https://www.sigidwiki.com/images/f/f9/SDRSharp_20220206_222358Z_1205000000Hz_AF.wav"
+    },
+    "category": [
+        "Aviation",
+        "Navigation",
+        "Military"
+    ],
+    "frequency": [
+        {
+            "value": 1213000000,
+            "description": ""
+        },
+        {
+            "value": 960000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "PAM",
+            "description": "Pulse Amplitude Modulation"
+        }
+    ],
+    "mode": [],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ],
+    "short description": "Radio navigation technology that measures the slant range (distance) between an aircraft and a ground station by timing the propagation delay of radio signals.",
+    "description": "In aviation, distance measuring equipment (DME) is a radio navigation technology that measures the slant range (distance) between an aircraft and a ground station by timing the propagation delay of radio signals in the frequency band between 960 and 1215 megahertz (MHz). Line-of-visibility between the aircraft and ground station is required. An interrogator (airborne) initiates an exchange by transmitting a pulse pair, on an assigned 'channel', to the transponder ground station. The channel assignment specifies the carrier frequency and the spacing between the pulses. After a known delay, the transponder replies by transmitting a pulse pair on a frequency that is offset from the interrogation frequency by 63 MHz and having specified separation."
+}

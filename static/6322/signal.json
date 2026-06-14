@@ -1,0 +1,58 @@
+{
+    "pageid": "6322",
+    "title": "GOES Data Collection System (DCS)",
+    "spectrum": {
+        "filename": "GoesDCS300bd.jpeg",
+        "url": "https://www.sigidwiki.com/images/3/38/GoesDCS300bd.jpeg"
+    },
+    "audio": {
+        "filename": "goesDCS300bps.mp3",
+        "url": "https://www.sigidwiki.com/images/b/bc/GoesDCS300bps.mp3"
+    },
+    "category": [
+        "Satellite",
+        "Digital",
+        "Utility"
+    ],
+    "frequency": [
+        {
+            "value": 1679900000,
+            "description": ""
+        },
+        {
+            "value": 1680200000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 300,
+            "description": ""
+        },
+        {
+            "value": 1200,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "D8PSK",
+            "description": "Differential 8-Phase-Shift Keying"
+        }
+    ],
+    "mode": [
+        {
+            "value": "RAW",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ],
+    "short description": "Comes from the geostationary satellites GOES 16 and GOES 17. Relays information about water levels, lightning strikes, and other information.",
+    "description": ""
+}

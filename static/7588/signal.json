@@ -1,0 +1,54 @@
+{
+    "pageid": "7588",
+    "title": "Monaco Enterprises MAAP Fire Alarm",
+    "spectrum": {
+        "filename": "Dod fa.png",
+        "url": "https://www.sigidwiki.com/images/c/c0/Dod_fa.png"
+    },
+    "audio": {
+        "filename": "SDRSharp 20240826 225045Z 139676000Hz AF.wav",
+        "url": "https://www.sigidwiki.com/images/2/28/SDRSharp_20240826_225045Z_139676000Hz_AF.wav"
+    },
+    "category": [
+        "Military",
+        "Digital",
+        "Utility"
+    ],
+    "frequency": [
+        {
+            "value": 138950000,
+            "description": ""
+        },
+        {
+            "value": 139675000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 15000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "FSK",
+            "description": "Frequency-Shift Keying"
+        }
+    ],
+    "mode": [
+        {
+            "value": "FM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "United States",
+            "description": ""
+        }
+    ],
+    "short description": "Fire alarm control panel built for the United States of America's Department of Defense.",
+    "description": "Fire alarm control panel built for the United States of America's Department of Defense. FSK telemetry for Monaco Enterprises Fire Alarm system."
+}

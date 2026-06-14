@@ -1,0 +1,62 @@
+{
+    "pageid": "2831",
+    "title": "Polish Intelligence 100bd 625Hz FSK",
+    "spectrum": {
+        "filename": "F11.png",
+        "url": "https://www.sigidwiki.com/images/f/f0/F11.png"
+    },
+    "audio": {
+        "filename": "POL-2015-04-29-0845utc.mp3",
+        "url": "https://www.sigidwiki.com/images/7/77/POL-2015-04-29-0845utc.mp3"
+    },
+    "category": [
+        "Digital",
+        "Numbers Stations"
+    ],
+    "frequency": [
+        {
+            "value": 4000000,
+            "description": ""
+        },
+        {
+            "value": 20000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 3500,
+            "description": ""
+        }
+    ],
+    "acf": [
+        {
+            "value": 960.0,
+            "description": "Primary"
+        },
+        {
+            "value": 160.0,
+            "description": "Secondary"
+        }
+    ],
+    "modulation": [
+        {
+            "value": "FSK",
+            "description": "Frequency-Shift Keying"
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Poland",
+            "description": ""
+        }
+    ],
+    "short description": "Also known as F11, this is a one-way broadcast system that was used by one of Polish intelligence agencies for delivery of messages to their operatives abroad on fixed schedules.",
+    "description": "Also known as **F11**, this is a one-way broadcast system that was used by \"Polish 11\", one of Polish intelligence agencies, for delivery of messages to their operatives abroad on fixed schedules. This mode has not been active since 2018. Its successors are [F03](https://www.sigidwiki.com/wiki/F03_numbers_station) and [P03](https://www.sigidwiki.com/wiki/P03_numbers_station).\n\nThis mode has very close ties to the analogue broadcasts from the same agency, known by their ENIGMA codes [E11](http://priyom.org/number-stations/english/e11), [S11a](http://priyom.org/number-stations/slavic/s11a), and [M03](http://priyom.org/number-stations/morse/m03). It was always sent 15/20 minutes before them, delivering the *same* message that would later be sent by analogue means, on a nearby frequency. The digital broadcast also used to repeat 5 minutes after the first one, on the same frequency.\n\nHowever, not every analogue schedule had a digital equivalent."
+}

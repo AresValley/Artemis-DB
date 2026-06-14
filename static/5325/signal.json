@@ -1,0 +1,37 @@
+{
+    "pageid": "5325",
+    "title": "High Power Auroral Stimulation (HIPAS)",
+    "spectrum": {
+        "filename": null,
+        "url": null
+    },
+    "audio": {
+        "filename": null,
+        "url": null
+    },
+    "category": [
+        "Radar"
+    ],
+    "frequency": [
+        {
+            "value": 2850000,
+            "description": ""
+        },
+        {
+            "value": 4530000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [],
+    "acf": [],
+    "modulation": [],
+    "mode": [],
+    "location": [
+        {
+            "value": "United States",
+            "description": ""
+        }
+    ],
+    "short description": "The HIPAS (HIgh Power Auroral Stimulation) Observatory was a research facility, built to study the ionosphere and its influence on radio communications. It was located 25 miles east of Fairbanks, Alaska in the Fairbanks North Star Borough area.",
+    "description": "- 1986-2007\n- Was operated by University of California, Los Angeles\n- Also used [LIDAR](https://www.sigidwiki.com/wiki/LIDAR) at times (unknown freq)"
+}

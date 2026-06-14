@@ -1,2130 +1,585 @@
 {
-    "'Ghadir' OTH Radar": {
-        "dir": 1,
-        "url": "https://www.sigidwiki.com/wiki/%27Ghadir%27_OTH_Radar"
-    },
-    "'OTH-SW' OTH Radar": {
-        "dir": 2,
-        "url": "https://www.sigidwiki.com/wiki/%27OTH-SW%27_OTH_Radar"
-    },
-    "'Vario' Airplane Data Controller": {
-        "dir": 3,
-        "url": "https://www.sigidwiki.com/wiki/%27Vario%27_Airplane_Data_Controller"
-    },
-    "1G Advanced Mobile Phone System (AMPS)": {
-        "dir": 4,
-        "url": "https://www.sigidwiki.com/wiki/1G_Advanced_Mobile_Phone_System_(AMPS)"
-    },
-    "2006 Kia Grand Carnival Keyfob": {
-        "dir": 5,
-        "url": "https://www.sigidwiki.com/wiki/2006_Kia_Grand_Carnival_Keyfob"
-    },
-    "29B6 'Kontayner' OTH Radar": {
-        "dir": 6,
-        "url": "https://www.sigidwiki.com/wiki/29B6_%27Kontayner%27_OTH_Radar"
-    },
-    "2G CDMA (IS-95)": {
-        "dir": 7,
-        "url": "https://www.sigidwiki.com/wiki/2G_CDMA_(IS-95)"
-    },
-    "3G WCDMA": {
-        "dir": 8,
-        "url": "https://www.sigidwiki.com/wiki/3G_WCDMA"
-    },
-    "49MHz RC Car Controller": {
-        "dir": 9,
-        "url": "https://www.sigidwiki.com/wiki/49MHz_RC_Car_Controller"
-    },
-    "4G LTE Network": {
-        "dir": 10,
-        "url": "https://www.sigidwiki.com/wiki/4G_LTE_Network"
-    },
-    "5G \"New Radio\" cellular network - Downlink": {
-        "dir": 11,
-        "url": "https://www.sigidwiki.com/wiki/5G_%22New_Radio%22_cellular_network_-_Downlink"
-    },
-    "77Ya6 'Voronezh' radar": {
-        "dir": 12,
-        "url": "https://www.sigidwiki.com/wiki/77Ya6_%27Voronezh%27_radar"
-    },
-    "802.11n": {
-        "dir": 13,
-        "url": "https://www.sigidwiki.com/wiki/802.11n"
-    },
-    "8PSK": {
-        "dir": 14,
-        "url": "https://www.sigidwiki.com/wiki/8PSK"
-    },
-    "AFSK Paging Link": {
-        "dir": 15,
-        "url": "https://www.sigidwiki.com/wiki/AFSK_Paging_Link"
-    },
-    "AIST 2D": {
-        "dir": 16,
-        "url": "https://www.sigidwiki.com/wiki/AIST_2D"
-    },
-    "AKKORD-SS-PD": {
-        "dir": 17,
-        "url": "https://www.sigidwiki.com/wiki/AKKORD-SS-PD"
-    },
-    "ALE-400": {
-        "dir": 18,
-        "url": "https://www.sigidwiki.com/wiki/ALE-400"
-    },
-    "AMSAT-P3D": {
-        "dir": 19,
-        "url": "https://www.sigidwiki.com/wiki/AMSAT-P3D"
-    },
-    "ARGOS A-DCS": {
-        "dir": 20,
-        "url": "https://www.sigidwiki.com/wiki/ARGOS_A-DCS"
-    },
-    "ARQ-E(E3)": {
-        "dir": 21,
-        "url": "https://www.sigidwiki.com/wiki/ARQ-E(E3)"
-    },
-    "ARQ-M2-242": {
-        "dir": 22,
-        "url": "https://www.sigidwiki.com/wiki/ARQ-M2-242"
-    },
-    "ARQ-M2-342": {
-        "dir": 23,
-        "url": "https://www.sigidwiki.com/wiki/ARQ-M2-342"
-    },
-    "ARQ-M4-242": {
-        "dir": 24,
-        "url": "https://www.sigidwiki.com/wiki/ARQ-M4-242"
-    },
-    "ARQ-M4-342": {
-        "dir": 25,
-        "url": "https://www.sigidwiki.com/wiki/ARQ-M4-342"
-    },
-    "ARQ-N": {
-        "dir": 26,
-        "url": "https://www.sigidwiki.com/wiki/ARQ-N"
-    },
-    "ARQ6-90": {
-        "dir": 27,
-        "url": "https://www.sigidwiki.com/wiki/ARQ6-90"
-    },
-    "ARQ6-98": {
-        "dir": 28,
-        "url": "https://www.sigidwiki.com/wiki/ARQ6-98"
-    },
-    "ASCII": {
-        "dir": 29,
-        "url": "https://www.sigidwiki.com/wiki/ASCII"
-    },
-    "ATSC 3.0 Broadcast": {
-        "dir": 30,
-        "url": "https://www.sigidwiki.com/wiki/ATSC_3.0_Broadcast"
-    },
-    "ATSC Broadcast": {
-        "dir": 31,
-        "url": "https://www.sigidwiki.com/wiki/ATSC_Broadcast"
-    },
-    "AUTOSPEC": {
-        "dir": 32,
-        "url": "https://www.sigidwiki.com/wiki/AUTOSPEC"
-    },
-    "Accurate positioning by Low Frequencies (ALF)": {
-        "dir": 33,
-        "url": "https://www.sigidwiki.com/wiki/Accurate_positioning_by_Low_Frequencies_(ALF)"
-    },
-    "Acer X222W monitor, sleep pulse": {
-        "dir": 34,
-        "url": "https://www.sigidwiki.com/wiki/Acer_X222W_monitor,_sleep_pulse"
-    },
-    "Adam H Image Capable Digital Mode (AHICDM)": {
-        "dir": 35,
-        "url": "https://www.sigidwiki.com/wiki/Adam_H_Image_Capable_Digital_Mode_(AHICDM)"
-    },
-    "Adam H Secure Communication (AHSC)": {
-        "dir": 36,
-        "url": "https://www.sigidwiki.com/wiki/Adam_H_Secure_Communication_(AHSC)"
-    },
-    "Aircraft Communications Addressing and Reporting System (ACARS)": {
-        "dir": 37,
-        "url": "https://www.sigidwiki.com/wiki/Aircraft_Communications_Addressing_and_Reporting_System_(ACARS)"
-    },
-    "Alps Electric Co. TWB1U840 Key Fob": {
-        "dir": 38,
-        "url": "https://www.sigidwiki.com/wiki/Alps_Electric_Co._TWB1U840_Key_Fob"
-    },
-    "Amplitude Modulation (AM)": {
-        "dir": 39,
-        "url": "https://www.sigidwiki.com/wiki/Amplitude_Modulation_(AM)"
-    },
-    "Amplitude Modulation Signalling System (AMSS)": {
-        "dir": 40,
-        "url": "https://www.sigidwiki.com/wiki/Amplitude_Modulation_Signalling_System_(AMSS)"
-    },
-    "Aprizesat": {
-        "dir": 41,
-        "url": "https://www.sigidwiki.com/wiki/Aprizesat"
-    },
-    "Aqua Direct Broadcast (DB)": {
-        "dir": 42,
-        "url": "https://www.sigidwiki.com/wiki/Aqua_Direct_Broadcast_(DB)"
-    },
-    "Autocab": {
-        "dir": 43,
-        "url": "https://www.sigidwiki.com/wiki/Autocab"
-    },
-    "Automated Train Control System (ATCS)": {
-        "dir": 44,
-        "url": "https://www.sigidwiki.com/wiki/Automated_Train_Control_System_(ATCS)"
-    },
-    "Automatic Dependent Surveillance-Broadcast (ADS-B)": {
-        "dir": 45,
-        "url": "https://www.sigidwiki.com/wiki/Automatic_Dependent_Surveillance-Broadcast_(ADS-B)"
-    },
-    "Automatic Identification System (AIS)": {
-        "dir": 46,
-        "url": "https://www.sigidwiki.com/wiki/Automatic_Identification_System_(AIS)"
-    },
-    "Automatic Link Establishment (2G ALE)": {
-        "dir": 47,
-        "url": "https://www.sigidwiki.com/wiki/Automatic_Link_Establishment_(2G_ALE)"
-    },
-    "Automatic Link Establishment (3G ALE ARCS)": {
-        "dir": 48,
-        "url": "https://www.sigidwiki.com/wiki/Automatic_Link_Establishment_(3G_ALE_ARCS)"
-    },
-    "Automatic Link Set-up (ALIS)": {
-        "dir": 49,
-        "url": "https://www.sigidwiki.com/wiki/Automatic_Link_Set-up_(ALIS)"
-    },
-    "Automatic Packet Reporting System (APRS)": {
-        "dir": 50,
-        "url": "https://www.sigidwiki.com/wiki/Automatic_Packet_Reporting_System_(APRS)"
-    },
-    "Automatic Picture Transmission (APT)": {
-        "dir": 51,
-        "url": "https://www.sigidwiki.com/wiki/Automatic_Picture_Transmission_(APT)"
-    },
-    "Automatic Transmitter Identification System (ATIS)": {
-        "dir": 52,
-        "url": "https://www.sigidwiki.com/wiki/Automatic_Transmitter_Identification_System_(ATIS)"
-    },
-    "Automatic Vehicle Monitoring (AVM)": {
-        "dir": 53,
-        "url": "https://www.sigidwiki.com/wiki/Automatic_Vehicle_Monitoring_(AVM)"
-    },
-    "B-Netz": {
-        "dir": 54,
-        "url": "https://www.sigidwiki.com/wiki/B-Netz"
-    },
-    "BALDR Weather Sensor Telemetry": {
-        "dir": 55,
-        "url": "https://www.sigidwiki.com/wiki/BALDR_Weather_Sensor_Telemetry"
-    },
-    "BMW Key-Code signal": {
-        "dir": 56,
-        "url": "https://www.sigidwiki.com/wiki/BMW_Key-Code_signal"
-    },
-    "BPC": {
-        "dir": 57,
-        "url": "https://www.sigidwiki.com/wiki/BPC"
-    },
-    "BPM": {
-        "dir": 58,
-        "url": "https://www.sigidwiki.com/wiki/BPM"
-    },
-    "BR-6028": {
-        "dir": 59,
-        "url": "https://www.sigidwiki.com/wiki/BR-6028"
-    },
-    "Binary Interchange of Information and Signaling (BIIS)": {
-        "dir": 60,
-        "url": "https://www.sigidwiki.com/wiki/Binary_Interchange_of_Information_and_Signaling_(BIIS)"
-    },
-    "BlueWalker-3 Wideband Telemetry": {
-        "dir": 61,
-        "url": "https://www.sigidwiki.com/wiki/BlueWalker-3_Wideband_Telemetry"
-    },
-    "Bluetooth": {
-        "dir": 62,
-        "url": "https://www.sigidwiki.com/wiki/Bluetooth"
-    },
-    "Broadband Global Area Network (BGAN)": {
-        "dir": 63,
-        "url": "https://www.sigidwiki.com/wiki/Broadband_Global_Area_Network_(BGAN)"
-    },
-    "CAS-4A/B Satellite Telemetry": {
-        "dir": 64,
-        "url": "https://www.sigidwiki.com/wiki/CAS-4A/B_Satellite_Telemetry"
-    },
-    "CBET": {
-        "dir": 65,
-        "url": "https://www.sigidwiki.com/wiki/CBET"
-    },
-    "CCIR 493-4 Selcall": {
-        "dir": 66,
-        "url": "https://www.sigidwiki.com/wiki/CCIR_493-4_Selcall"
-    },
-    "CCIR Selcall": {
-        "dir": 67,
-        "url": "https://www.sigidwiki.com/wiki/CCIR_Selcall"
-    },
-    "CCITT": {
-        "dir": 68,
-        "url": "https://www.sigidwiki.com/wiki/CCITT"
-    },
-    "CDMA2000 (3G physical layer)": {
-        "dir": 69,
-        "url": "https://www.sigidwiki.com/wiki/CDMA2000_(3G_physical_layer)"
-    },
-    "CDMA420": {
-        "dir": 70,
-        "url": "https://www.sigidwiki.com/wiki/CDMA420"
-    },
-    "CHIP": {
-        "dir": 71,
-        "url": "https://www.sigidwiki.com/wiki/CHIP"
-    },
-    "CHU": {
-        "dir": 72,
-        "url": "https://www.sigidwiki.com/wiki/CHU"
-    },
-    "CIS 3x100 VFT": {
-        "dir": 73,
-        "url": "https://www.sigidwiki.com/wiki/CIS_3x100_VFT"
-    },
-    "CIS 3x144 VFT": {
-        "dir": 74,
-        "url": "https://www.sigidwiki.com/wiki/CIS_3x144_VFT"
-    },
-    "CIS 3xBaudot-50 VFT": {
-        "dir": 75,
-        "url": "https://www.sigidwiki.com/wiki/CIS_3xBaudot-50_VFT"
-    },
-    "CIS MFSK-16 XPA2": {
-        "dir": 76,
-        "url": "https://www.sigidwiki.com/wiki/CIS_MFSK-16_XPA2"
-    },
-    "CIS MFSK-16 XPB": {
-        "dir": 77,
-        "url": "https://www.sigidwiki.com/wiki/CIS_MFSK-16_XPB"
-    },
-    "CIS MFSK-20 XPA": {
-        "dir": 78,
-        "url": "https://www.sigidwiki.com/wiki/CIS_MFSK-20_XPA"
-    },
-    "CIS MFSK-21-13": {
-        "dir": 79,
-        "url": "https://www.sigidwiki.com/wiki/CIS_MFSK-21-13"
-    },
-    "CIS MFSK-68": {
-        "dir": 80,
-        "url": "https://www.sigidwiki.com/wiki/CIS_MFSK-68"
-    },
-    "CIS OFDM HDR Modem": {
-        "dir": 81,
-        "url": "https://www.sigidwiki.com/wiki/CIS_OFDM_HDR_Modem"
-    },
-    "CIS-11": {
-        "dir": 82,
-        "url": "https://www.sigidwiki.com/wiki/CIS-11"
-    },
-    "CIS-112": {
-        "dir": 83,
-        "url": "https://www.sigidwiki.com/wiki/CIS-112"
-    },
-    "CIS-12": {
-        "dir": 84,
-        "url": "https://www.sigidwiki.com/wiki/CIS-12"
-    },
-    "CIS-128": {
-        "dir": 85,
-        "url": "https://www.sigidwiki.com/wiki/CIS-128"
-    },
-    "CIS-1280": {
-        "dir": 86,
-        "url": "https://www.sigidwiki.com/wiki/CIS-1280"
-    },
-    "CIS-14": {
-        "dir": 87,
-        "url": "https://www.sigidwiki.com/wiki/CIS-14"
-    },
-    "CIS-16": {
-        "dir": 88,
-        "url": "https://www.sigidwiki.com/wiki/CIS-16"
-    },
-    "CIS-20": {
-        "dir": 89,
-        "url": "https://www.sigidwiki.com/wiki/CIS-20"
-    },
-    "CIS-300": {
-        "dir": 90,
-        "url": "https://www.sigidwiki.com/wiki/CIS-300"
-    },
-    "CIS-3000": {
-        "dir": 91,
-        "url": "https://www.sigidwiki.com/wiki/CIS-3000"
-    },
-    "CIS-36-50": {
-        "dir": 92,
-        "url": "https://www.sigidwiki.com/wiki/CIS-36-50"
-    },
-    "CIS-40.5": {
-        "dir": 93,
-        "url": "https://www.sigidwiki.com/wiki/CIS-40.5"
-    },
-    "CIS-48": {
-        "dir": 94,
-        "url": "https://www.sigidwiki.com/wiki/CIS-48"
-    },
-    "CIS-50-50": {
-        "dir": 95,
-        "url": "https://www.sigidwiki.com/wiki/CIS-50-50"
-    },
-    "CIS-8181": {
-        "dir": 96,
-        "url": "https://www.sigidwiki.com/wiki/CIS-8181"
-    },
-    "CLOUDSAT Downlink": {
-        "dir": 97,
-        "url": "https://www.sigidwiki.com/wiki/CLOUDSAT_Downlink"
-    },
-    "CLOVER 2000": {
-        "dir": 98,
-        "url": "https://www.sigidwiki.com/wiki/CLOVER_2000"
-    },
-    "CLOVER 2500": {
-        "dir": 99,
-        "url": "https://www.sigidwiki.com/wiki/CLOVER_2500"
-    },
-    "CLOVER-I": {
-        "dir": 100,
-        "url": "https://www.sigidwiki.com/wiki/CLOVER-I"
-    },
-    "CLOVER-II": {
-        "dir": 101,
-        "url": "https://www.sigidwiki.com/wiki/CLOVER-II"
-    },
-    "CODAR": {
-        "dir": 102,
-        "url": "https://www.sigidwiki.com/wiki/CODAR"
-    },
-    "COFDMTV": {
-        "dir": 103,
-        "url": "https://www.sigidwiki.com/wiki/COFDMTV"
-    },
-    "CORIOLIS Tactical Direct Broadcast": {
-        "dir": 104,
-        "url": "https://www.sigidwiki.com/wiki/CORIOLIS_Tactical_Direct_Broadcast"
-    },
-    "CRY2001 Voice Scrambler": {
-        "dir": 105,
-        "url": "https://www.sigidwiki.com/wiki/CRY2001_Voice_Scrambler"
-    },
-    "CV-786": {
-        "dir": 106,
-        "url": "https://www.sigidwiki.com/wiki/CV-786"
-    },
-    "California Smart-Meter": {
-        "dir": 107,
-        "url": "https://www.sigidwiki.com/wiki/California_Smart-Meter"
-    },
-    "Chilean Naval Time Signal": {
-        "dir": 108,
-        "url": "https://www.sigidwiki.com/wiki/Chilean_Naval_Time_Signal"
-    },
-    "China digital radio (CDR)": {
-        "dir": 109,
-        "url": "https://www.sigidwiki.com/wiki/China_digital_radio_(CDR)"
-    },
-    "Chinese 'Foghorn' OTH radar": {
-        "dir": 110,
-        "url": "https://www.sigidwiki.com/wiki/Chinese_%27Foghorn%27_OTH_radar"
-    },
-    "Chinese 30-tone OFDM modem": {
-        "dir": 111,
-        "url": "https://www.sigidwiki.com/wiki/Chinese_30-tone_OFDM_modem"
-    },
-    "Chinese 4+4": {
-        "dir": 112,
-        "url": "https://www.sigidwiki.com/wiki/Chinese_4%2B4"
-    },
-    "Chinese Firedrake Jammer": {
-        "dir": 113,
-        "url": "https://www.sigidwiki.com/wiki/Chinese_Firedrake_Jammer"
-    },
-    "Chinese Multitonal Jammer": {
-        "dir": 114,
-        "url": "https://www.sigidwiki.com/wiki/Chinese_Multitonal_Jammer"
-    },
-    "Cobra Dane": {
-        "dir": 115,
-        "url": "https://www.sigidwiki.com/wiki/Cobra_Dane"
-    },
-    "Codan Data Modem": {
-        "dir": 116,
-        "url": "https://www.sigidwiki.com/wiki/Codan_Data_Modem"
-    },
-    "Coherent BPSK": {
-        "dir": 117,
-        "url": "https://www.sigidwiki.com/wiki/Coherent_BPSK"
-    },
-    "Coherent CW": {
-        "dir": 118,
-        "url": "https://www.sigidwiki.com/wiki/Coherent_CW"
-    },
-    "CompuLert": {
-        "dir": 119,
-        "url": "https://www.sigidwiki.com/wiki/CompuLert"
-    },
-    "Contestia": {
-        "dir": 120,
-        "url": "https://www.sigidwiki.com/wiki/Contestia"
-    },
-    "Continuous Tone-Coded Squelch System (CTCSS)": {
-        "dir": 121,
-        "url": "https://www.sigidwiki.com/wiki/Continuous_Tone-Coded_Squelch_System_(CTCSS)"
-    },
-    "Contr\u00f4le de vitesse par balises (KVB)": {
-        "dir": 122,
-        "url": "https://www.sigidwiki.com/wiki/Contr%C3%B4le_de_vitesse_par_balises_(KVB)"
-    },
-    "Coquelet": {
-        "dir": 123,
-        "url": "https://www.sigidwiki.com/wiki/Coquelet"
-    },
-    "Cuban Jammer": {
-        "dir": 124,
-        "url": "https://www.sigidwiki.com/wiki/Cuban_Jammer"
-    },
-    "D-STAR": {
-        "dir": 125,
-        "url": "https://www.sigidwiki.com/wiki/D-STAR"
-    },
-    "DB0UPB research beacon": {
-        "dir": 126,
-        "url": "https://www.sigidwiki.com/wiki/DB0UPB_research_beacon"
-    },
-    "DCF77": {
-        "dir": 127,
-        "url": "https://www.sigidwiki.com/wiki/DCF77"
-    },
-    "DFM-09": {
-        "dir": 128,
-        "url": "https://www.sigidwiki.com/wiki/DFM-09"
-    },
-    "DUP-ARQ": {
-        "dir": 129,
-        "url": "https://www.sigidwiki.com/wiki/DUP-ARQ"
-    },
-    "DUP-ARQ-2": {
-        "dir": 130,
-        "url": "https://www.sigidwiki.com/wiki/DUP-ARQ-2"
-    },
-    "DUP-FEC-2": {
-        "dir": 131,
-        "url": "https://www.sigidwiki.com/wiki/DUP-FEC-2"
-    },
-    "Datawell Buoy HF Link": {
-        "dir": 132,
-        "url": "https://www.sigidwiki.com/wiki/Datawell_Buoy_HF_Link"
-    },
-    "Delfi-C3 Telemetry": {
-        "dir": 133,
-        "url": "https://www.sigidwiki.com/wiki/Delfi-C3_Telemetry"
-    },
-    "DeltaFix": {
-        "dir": 134,
-        "url": "https://www.sigidwiki.com/wiki/DeltaFix"
-    },
-    "Denso 4EA Key Fob": {
-        "dir": 135,
-        "url": "https://www.sigidwiki.com/wiki/Denso_4EA_Key_Fob"
-    },
-    "Differential Global Positioning System (DGPS)": {
-        "dir": 136,
-        "url": "https://www.sigidwiki.com/wiki/Differential_Global_Positioning_System_(DGPS)"
-    },
-    "Digisonde": {
-        "dir": 137,
-        "url": "https://www.sigidwiki.com/wiki/Digisonde"
-    },
-    "Digital Audio Broadcasting (DAB)": {
-        "dir": 138,
-        "url": "https://www.sigidwiki.com/wiki/Digital_Audio_Broadcasting_(DAB)"
-    },
-    "Digital Audio Broadcasting Plus (DAB+)": {
-        "dir": 139,
-        "url": "https://www.sigidwiki.com/wiki/Digital_Audio_Broadcasting_Plus_(DAB%2B)"
-    },
-    "Digital Dispatch Systems MDT": {
-        "dir": 140,
-        "url": "https://www.sigidwiki.com/wiki/Digital_Dispatch_Systems_MDT"
-    },
-    "Digital Enhanced Cordless Telecommunications (DECT)": {
-        "dir": 141,
-        "url": "https://www.sigidwiki.com/wiki/Digital_Enhanced_Cordless_Telecommunications_(DECT)"
-    },
-    "Digital Mobile Radio (DMR)": {
-        "dir": 142,
-        "url": "https://www.sigidwiki.com/wiki/Digital_Mobile_Radio_(DMR)"
-    },
-    "Digital Multimedia Broadcasting (DMB)": {
-        "dir": 143,
-        "url": "https://www.sigidwiki.com/wiki/Digital_Multimedia_Broadcasting_(DMB)"
-    },
-    "Digital NBTV": {
-        "dir": 144,
-        "url": "https://www.sigidwiki.com/wiki/Digital_NBTV"
-    },
-    "Digital Private Mobile Radio (dPMR)": {
-        "dir": 145,
-        "url": "https://www.sigidwiki.com/wiki/Digital_Private_Mobile_Radio_(dPMR)"
-    },
-    "Digital Radio Mondiale (DRM)": {
-        "dir": 146,
-        "url": "https://www.sigidwiki.com/wiki/Digital_Radio_Mondiale_(DRM)"
-    },
-    "Digital Radio Mondiale Plus (DRM+)": {
-        "dir": 147,
-        "url": "https://www.sigidwiki.com/wiki/Digital_Radio_Mondiale_Plus_(DRM%2B)"
-    },
-    "Digital Video Broadcasting \u2014 Terrestrial (DVB-T)": {
-        "dir": 148,
-        "url": "https://www.sigidwiki.com/wiki/Digital_Video_Broadcasting_%E2%80%94_Terrestrial_(DVB-T)"
-    },
-    "Digital-Coded Squelch (DCS)": {
-        "dir": 149,
-        "url": "https://www.sigidwiki.com/wiki/Digital-Coded_Squelch_(DCS)"
-    },
-    "DisplayPort Interference": {
-        "dir": 150,
-        "url": "https://www.sigidwiki.com/wiki/DisplayPort_Interference"
-    },
-    "Distress Radiobeacon (Analog)": {
-        "dir": 151,
-        "url": "https://www.sigidwiki.com/wiki/Distress_Radiobeacon_(Analog)"
-    },
-    "Distress Radiobeacon (Digital)": {
-        "dir": 152,
-        "url": "https://www.sigidwiki.com/wiki/Distress_Radiobeacon_(Digital)"
-    },
-    "Distributed Power Unit (DPU)": {
-        "dir": 153,
-        "url": "https://www.sigidwiki.com/wiki/Distributed_Power_Unit_(DPU)"
-    },
-    "DominoEX": {
-        "dir": 154,
-        "url": "https://www.sigidwiki.com/wiki/DominoEX"
-    },
-    "DominoF": {
-        "dir": 155,
-        "url": "https://www.sigidwiki.com/wiki/DominoF"
-    },
-    "Driftnet Buoy Radio Beacon": {
-        "dir": 156,
-        "url": "https://www.sigidwiki.com/wiki/Driftnet_Buoy_Radio_Beacon"
-    },
-    "Dual Tone Multi Frequency (DTMF)": {
-        "dir": 157,
-        "url": "https://www.sigidwiki.com/wiki/Dual_Tone_Multi_Frequency_(DTMF)"
-    },
-    "Duga 3": {
-        "dir": 158,
-        "url": "https://www.sigidwiki.com/wiki/Duga_3"
-    },
-    "ECG Telemetry": {
-        "dir": 159,
-        "url": "https://www.sigidwiki.com/wiki/ECG_Telemetry"
-    },
-    "EEA": {
-        "dir": 160,
-        "url": "https://www.sigidwiki.com/wiki/EEA"
-    },
-    "EFR Teleswitch": {
-        "dir": 161,
-        "url": "https://www.sigidwiki.com/wiki/EFR_Teleswitch"
-    },
-    "EIA": {
-        "dir": 162,
-        "url": "https://www.sigidwiki.com/wiki/EIA"
-    },
-    "ELEKTRO-L GGAK-E Direct Broadcast": {
-        "dir": 163,
-        "url": "https://www.sigidwiki.com/wiki/ELEKTRO-L_GGAK-E_Direct_Broadcast"
-    },
-    "EURO": {
-        "dir": 164,
-        "url": "https://www.sigidwiki.com/wiki/EURO"
-    },
-    "Electric Fence Remote Control": {
-        "dir": 165,
-        "url": "https://www.sigidwiki.com/wiki/Electric_Fence_Remote_Control"
-    },
-    "Emergency Alert System (EAS)": {
-        "dir": 166,
-        "url": "https://www.sigidwiki.com/wiki/Emergency_Alert_System_(EAS)"
-    },
-    "Emergency Managers Weather Information Network (EMWIN) - Repeater": {
-        "dir": 167,
-        "url": "https://www.sigidwiki.com/wiki/Emergency_Managers_Weather_Information_Network_(EMWIN)_-_Repeater"
-    },
-    "End of Train Device (EOTD)": {
-        "dir": 168,
-        "url": "https://www.sigidwiki.com/wiki/End_of_Train_Device_(EOTD)"
-    },
-    "Enhanced Digital Access Communications System (EDACS)": {
-        "dir": 169,
-        "url": "https://www.sigidwiki.com/wiki/Enhanced_Digital_Access_Communications_System_(EDACS)"
-    },
-    "Eurobalise downlink": {
-        "dir": 170,
-        "url": "https://www.sigidwiki.com/wiki/Eurobalise_downlink"
-    },
-    "European Radio Message System (ERMES)": {
-        "dir": 171,
-        "url": "https://www.sigidwiki.com/wiki/European_Radio_Message_System_(ERMES)"
-    },
-    "FEC-A": {
-        "dir": 172,
-        "url": "https://www.sigidwiki.com/wiki/FEC-A"
-    },
-    "FLASH-OFDM": {
-        "dir": 173,
-        "url": "https://www.sigidwiki.com/wiki/FLASH-OFDM"
-    },
-    "FLEX": {
-        "dir": 174,
-        "url": "https://www.sigidwiki.com/wiki/FLEX"
-    },
-    "FM Broadcast Radio": {
-        "dir": 175,
-        "url": "https://www.sigidwiki.com/wiki/FM_Broadcast_Radio"
-    },
-    "FM NBTV": {
-        "dir": 176,
-        "url": "https://www.sigidwiki.com/wiki/FM_NBTV"
-    },
-    "FSK441": {
-        "dir": 177,
-        "url": "https://www.sigidwiki.com/wiki/FSK441"
-    },
-    "FSQ": {
-        "dir": 178,
-        "url": "https://www.sigidwiki.com/wiki/FSQ"
-    },
-    "FST4W": {
-        "dir": 179,
-        "url": "https://www.sigidwiki.com/wiki/FST4W"
-    },
-    "FT4": {
-        "dir": 180,
-        "url": "https://www.sigidwiki.com/wiki/FT4"
-    },
-    "FT8": {
-        "dir": 181,
-        "url": "https://www.sigidwiki.com/wiki/FT8"
-    },
-    "FUNcube-1 Telemetry": {
-        "dir": 182,
-        "url": "https://www.sigidwiki.com/wiki/FUNcube-1_Telemetry"
-    },
-    "Factory installed alarm system Land Rover Discovery 4": {
-        "dir": 183,
-        "url": "https://www.sigidwiki.com/wiki/Factory_installed_alarm_system_Land_Rover_Discovery_4"
-    },
-    "Federal Signal Modem-MSK": {
-        "dir": 184,
-        "url": "https://www.sigidwiki.com/wiki/Federal_Signal_Modem-MSK"
-    },
-    "FreeDV COHPSK": {
-        "dir": 185,
-        "url": "https://www.sigidwiki.com/wiki/FreeDV_COHPSK"
-    },
-    "FreeDV plus Video": {
-        "dir": 186,
-        "url": "https://www.sigidwiki.com/wiki/FreeDV_plus_Video"
-    },
-    "Frequency Division Multiplex Digital Voice (FDMDV)": {
-        "dir": 187,
-        "url": "https://www.sigidwiki.com/wiki/Frequency_Division_Multiplex_Digital_Voice_(FDMDV)"
-    },
-    "Friedland Libra+ 48249SL wireless doorbell": {
-        "dir": 188,
-        "url": "https://www.sigidwiki.com/wiki/Friedland_Libra%2B_48249SL_wireless_doorbell"
-    },
-    "Futuba RC Controller": {
-        "dir": 189,
-        "url": "https://www.sigidwiki.com/wiki/Futuba_RC_Controller"
-    },
-    "G-TOR": {
-        "dir": 190,
-        "url": "https://www.sigidwiki.com/wiki/G-TOR"
-    },
-    "GM2100 (R&S)": {
-        "dir": 191,
-        "url": "https://www.sigidwiki.com/wiki/GM2100_(R%26S)"
-    },
-    "GMDSS Digital Selective Calling": {
-        "dir": 192,
-        "url": "https://www.sigidwiki.com/wiki/GMDSS_Digital_Selective_Calling"
-    },
-    "GOES CDA Telemetry": {
-        "dir": 193,
-        "url": "https://www.sigidwiki.com/wiki/GOES_CDA_Telemetry"
-    },
-    "GOES Data Collection System (DCS)": {
-        "dir": 194,
-        "url": "https://www.sigidwiki.com/wiki/GOES_Data_Collection_System_(DCS)"
-    },
-    "GOES High Rate Information Transmission (HRIT)": {
-        "dir": 195,
-        "url": "https://www.sigidwiki.com/wiki/GOES_High_Rate_Information_Transmission_(HRIT)"
-    },
-    "GOES Rebroadcast (GRB)": {
-        "dir": 196,
-        "url": "https://www.sigidwiki.com/wiki/GOES_Rebroadcast_(GRB)"
-    },
-    "GRAVES": {
-        "dir": 197,
-        "url": "https://www.sigidwiki.com/wiki/GRAVES"
-    },
-    "GRAW DFM-09 Weather Balloon (Radiosonde)": {
-        "dir": 198,
-        "url": "https://www.sigidwiki.com/wiki/GRAW_DFM-09_Weather_Balloon_(Radiosonde)"
-    },
-    "GSM TCH traffic channels non frequency hopping": {
-        "dir": 199,
-        "url": "https://www.sigidwiki.com/wiki/GSM_TCH_traffic_channels_non_frequency_hopping"
-    },
-    "GYN2 GBR": {
-        "dir": 200,
-        "url": "https://www.sigidwiki.com/wiki/GYN2_GBR"
-    },
-    "Gandalf MDT": {
-        "dir": 201,
-        "url": "https://www.sigidwiki.com/wiki/Gandalf_MDT"
-    },
-    "Glenayre Paging Link": {
-        "dir": 202,
-        "url": "https://www.sigidwiki.com/wiki/Glenayre_Paging_Link"
-    },
-    "Global Positioning System (GPS)": {
-        "dir": 203,
-        "url": "https://www.sigidwiki.com/wiki/Global_Positioning_System_(GPS)"
-    },
-    "Global System for Mobile Communications (GSM)": {
-        "dir": 204,
-        "url": "https://www.sigidwiki.com/wiki/Global_System_for_Mobile_Communications_(GSM)"
-    },
-    "Globe Wireless HF Network": {
-        "dir": 205,
-        "url": "https://www.sigidwiki.com/wiki/Globe_Wireless_HF_Network"
-    },
-    "Golay Paging (GSC)": {
-        "dir": 206,
-        "url": "https://www.sigidwiki.com/wiki/Golay_Paging_(GSC)"
-    },
-    "Gonets": {
-        "dir": 207,
-        "url": "https://www.sigidwiki.com/wiki/Gonets"
-    },
-    "Graw DFM-06 Weather Balloon (Radiosonde)": {
-        "dir": 208,
-        "url": "https://www.sigidwiki.com/wiki/Graw_DFM-06_Weather_Balloon_(Radiosonde)"
-    },
-    "Graw DFM-17 (Radiosonde)": {
-        "dir": 209,
-        "url": "https://www.sigidwiki.com/wiki/Graw_DFM-17_(Radiosonde)"
-    },
-    "Grimeton Radio (SAQ)": {
-        "dir": 210,
-        "url": "https://www.sigidwiki.com/wiki/Grimeton_Radio_(SAQ)"
-    },
-    "Ground-Based Augmentation System (GBAS)": {
-        "dir": 211,
-        "url": "https://www.sigidwiki.com/wiki/Ground-Based_Augmentation_System_(GBAS)"
-    },
-    "HC-265 Voice Scrambler": {
-        "dir": 212,
-        "url": "https://www.sigidwiki.com/wiki/HC-265_Voice_Scrambler"
-    },
-    "HC-ARQ": {
-        "dir": 213,
-        "url": "https://www.sigidwiki.com/wiki/HC-ARQ"
-    },
-    "HD Radio (AM)": {
-        "dir": 214,
-        "url": "https://www.sigidwiki.com/wiki/HD_Radio_(AM)"
-    },
-    "HD Radio (FM)": {
-        "dir": 215,
-        "url": "https://www.sigidwiki.com/wiki/HD_Radio_(FM)"
-    },
-    "HDMI RFI Clock": {
-        "dir": 216,
-        "url": "https://www.sigidwiki.com/wiki/HDMI_RFI_Clock"
-    },
-    "HFGCS (High Frequency Global Communications System)": {
-        "dir": 217,
-        "url": "https://www.sigidwiki.com/wiki/HFGCS_(High_Frequency_Global_Communications_System)"
-    },
-    "HNG-FEC": {
-        "dir": 218,
-        "url": "https://www.sigidwiki.com/wiki/HNG-FEC"
-    },
-    "HORYU-4 Telemetry": {
-        "dir": 219,
-        "url": "https://www.sigidwiki.com/wiki/HORYU-4_Telemetry"
-    },
-    "HP Laptop": {
-        "dir": 220,
-        "url": "https://www.sigidwiki.com/wiki/HP_Laptop"
-    },
-    "Hellschreiber": {
-        "dir": 221,
-        "url": "https://www.sigidwiki.com/wiki/Hellschreiber"
-    },
-    "High Frequency Active Auroral Research Program (HAARP)": {
-        "dir": 222,
-        "url": "https://www.sigidwiki.com/wiki/High_Frequency_Active_Auroral_Research_Program_(HAARP)"
-    },
-    "High Frequency Data Link (HFDL)": {
-        "dir": 223,
-        "url": "https://www.sigidwiki.com/wiki/High_Frequency_Data_Link_(HFDL)"
-    },
-    "High Frequency Data and Voice Link (HFDVL)": {
-        "dir": 224,
-        "url": "https://www.sigidwiki.com/wiki/High_Frequency_Data_and_Voice_Link_(HFDVL)"
-    },
-    "High Power Auroral Stimulation (HIPAS)": {
-        "dir": 225,
-        "url": "https://www.sigidwiki.com/wiki/High_Power_Auroral_Stimulation_(HIPAS)"
-    },
-    "High Resolution Data (HRD)": {
-        "dir": 226,
-        "url": "https://www.sigidwiki.com/wiki/High_Resolution_Data_(HRD)"
-    },
-    "High Speed USB Noise": {
-        "dir": 227,
-        "url": "https://www.sigidwiki.com/wiki/High_Speed_USB_Noise"
-    },
-    "Horus Binary 4FSK - v2": {
-        "dir": 228,
-        "url": "https://www.sigidwiki.com/wiki/Horus_Binary_4FSK_-_v2"
-    },
-    "HyperFix": {
-        "dir": 229,
-        "url": "https://www.sigidwiki.com/wiki/HyperFix"
-    },
-    "Hyundai Mobis RKE-4F16 Key Fob": {
-        "dir": 230,
-        "url": "https://www.sigidwiki.com/wiki/Hyundai_Mobis_RKE-4F16_Key_Fob"
-    },
-    "ICAO Selcal": {
-        "dir": 231,
-        "url": "https://www.sigidwiki.com/wiki/ICAO_Selcal"
-    },
-    "ICARUS (International Cooperation for Animal Research Using Space)": {
-        "dir": 232,
-        "url": "https://www.sigidwiki.com/wiki/ICARUS_(International_Cooperation_for_Animal_Research_Using_Space)"
-    },
-    "ICV": {
-        "dir": 233,
-        "url": "https://www.sigidwiki.com/wiki/ICV"
-    },
-    "ILS Marker Beacon": {
-        "dir": 234,
-        "url": "https://www.sigidwiki.com/wiki/ILS_Marker_Beacon"
-    },
-    "IMet-1 RS Radiosonde": {
-        "dir": 235,
-        "url": "https://www.sigidwiki.com/wiki/IMet-1_RS_Radiosonde"
-    },
-    "IRA-ARQ": {
-        "dir": 236,
-        "url": "https://www.sigidwiki.com/wiki/IRA-ARQ"
-    },
-    "IS-54 & IS-136 D-AMPS": {
-        "dir": 237,
-        "url": "https://www.sigidwiki.com/wiki/IS-54_D-AMPS"
-    },
-    "ISCAT": {
-        "dir": 238,
-        "url": "https://www.sigidwiki.com/wiki/ISCAT"
-    },
-    "ISM Band Weather sensor": {
-        "dir": 239,
-        "url": "https://www.sigidwiki.com/wiki/ISM_Band_Weather_sensor"
-    },
-    "ISM Band device": {
-        "dir": 240,
-        "url": "https://www.sigidwiki.com/wiki/ISM_Band_device"
-    },
-    "Improved Automatic Link Set-up (ALIS-2)": {
-        "dir": 241,
-        "url": "https://www.sigidwiki.com/wiki/Improved_Automatic_Link_Set-up_(ALIS-2)"
-    },
-    "Induction cooker interference": {
-        "dir": 242,
-        "url": "https://www.sigidwiki.com/wiki/Induction_cooker_interference"
-    },
-    "Inmarsat Aero": {
-        "dir": 243,
-        "url": "https://www.sigidwiki.com/wiki/Inmarsat_Aero"
-    },
-    "Inmarsat IsatM2M": {
-        "dir": 244,
-        "url": "https://www.sigidwiki.com/wiki/Inmarsat_IsatM2M"
-    },
-    "Inmarsat-C TDM": {
-        "dir": 245,
-        "url": "https://www.sigidwiki.com/wiki/Inmarsat-C_TDM"
-    },
-    "Inmarsat-D(D+) Downlink": {
-        "dir": 246,
-        "url": "https://www.sigidwiki.com/wiki/Inmarsat-D(D%2B)_Downlink"
-    },
-    "Instrument Landing System": {
-        "dir": 247,
-        "url": "https://www.sigidwiki.com/wiki/Instrument_Landing_System"
-    },
-    "Integrated Digital Enhanced Network (iDEN)": {
-        "dir": 248,
-        "url": "https://www.sigidwiki.com/wiki/Integrated_Digital_Enhanced_Network_(iDEN)"
-    },
-    "Integrated Services Digital Broadcasting\u2014Terrestrial (ISDB-T)": {
-        "dir": 249,
-        "url": "https://www.sigidwiki.com/wiki/Integrated_Services_Digital_Broadcasting%E2%80%94Terrestrial_(ISDB-T)"
-    },
-    "Ionized Meteor Trails": {
-        "dir": 250,
-        "url": "https://www.sigidwiki.com/wiki/Ionized_Meteor_Trails"
-    },
-    "Ionosonde": {
-        "dir": 251,
-        "url": "https://www.sigidwiki.com/wiki/Ionosonde"
-    },
-    "Iranian Navy QPSK Modem": {
-        "dir": 252,
-        "url": "https://www.sigidwiki.com/wiki/Iranian_Navy_QPSK_Modem"
-    },
-    "Iridium": {
-        "dir": 253,
-        "url": "https://www.sigidwiki.com/wiki/Iridium"
-    },
-    "IsatData Pro": {
-        "dir": 254,
-        "url": "https://www.sigidwiki.com/wiki/IsatData_Pro"
-    },
-    "Israeli Intelligence VFT": {
-        "dir": 255,
-        "url": "https://www.sigidwiki.com/wiki/Israeli_Intelligence_VFT"
-    },
-    "Israeli Navy Hybrid Modem (188-110 MOD)": {
-        "dir": 256,
-        "url": "https://www.sigidwiki.com/wiki/Israeli_Navy_Hybrid_Modem_(188-110_MOD)"
-    },
-    "Israeli VFT": {
-        "dir": 257,
-        "url": "https://www.sigidwiki.com/wiki/Israeli_VFT"
-    },
-    "JJY": {
-        "dir": 258,
-        "url": "https://www.sigidwiki.com/wiki/JJY"
-    },
-    "JS8": {
-        "dir": 259,
-        "url": "https://www.sigidwiki.com/wiki/JS8"
-    },
-    "JT65": {
-        "dir": 260,
-        "url": "https://www.sigidwiki.com/wiki/JT65"
-    },
-    "JT6M": {
-        "dir": 261,
-        "url": "https://www.sigidwiki.com/wiki/JT6M"
-    },
-    "JT9": {
-        "dir": 262,
-        "url": "https://www.sigidwiki.com/wiki/JT9"
-    },
-    "JTMS": {
-        "dir": 263,
-        "url": "https://www.sigidwiki.com/wiki/JTMS"
-    },
-    "Japan Military 8-Channel FSK": {
-        "dir": 264,
-        "url": "https://www.sigidwiki.com/wiki/Japan_Military_8-Channel_FSK"
-    },
-    "Japanese Slot Machine (XSL)": {
-        "dir": 265,
-        "url": "https://www.sigidwiki.com/wiki/Japanese_Slot_Machine_(XSL)"
-    },
-    "Jim Creek (NLK)": {
-        "dir": 266,
-        "url": "https://www.sigidwiki.com/wiki/Jim_Creek_(NLK)"
-    },
-    "Jindalee Operational Radar Network (JORN)": {
-        "dir": 267,
-        "url": "https://www.sigidwiki.com/wiki/Jindalee_Operational_Radar_Network_(JORN)"
-    },
-    "John Deere RTK Radio 450": {
-        "dir": 268,
-        "url": "https://www.sigidwiki.com/wiki/John_Deere_RTK_Radio_450"
-    },
-    "KG-STV": {
-        "dir": 269,
-        "url": "https://www.sigidwiki.com/wiki/KG-STV"
-    },
-    "Kia SVI-JFRGE04 Key Fob": {
-        "dir": 270,
-        "url": "https://www.sigidwiki.com/wiki/Kia_SVI-JFRGE04_Key_Fob"
-    },
-    "Kiwi": {
-        "dir": 271,
-        "url": "https://www.sigidwiki.com/wiki/Kiwi"
-    },
-    "LEOSAR Downlink": {
-        "dir": 272,
-        "url": "https://www.sigidwiki.com/wiki/LEOSAR_Downlink"
-    },
-    "LORAN": {
-        "dir": 273,
-        "url": "https://www.sigidwiki.com/wiki/LORAN"
-    },
-    "LTE Uplink": {
-        "dir": 274,
-        "url": "https://www.sigidwiki.com/wiki/LTE_Uplink"
-    },
-    "LTE-M": {
-        "dir": 275,
-        "url": "https://www.sigidwiki.com/wiki/LTE-M"
-    },
-    "Lentus": {
-        "dir": 276,
-        "url": "https://www.sigidwiki.com/wiki/Lentus"
-    },
-    "Lightning Sferics": {
-        "dir": 277,
-        "url": "https://www.sigidwiki.com/wiki/Lightning_Sferics"
-    },
-    "Link-11": {
-        "dir": 278,
-        "url": "https://www.sigidwiki.com/wiki/Link-11"
-    },
-    "Link-11 (UHF)": {
-        "dir": 279,
-        "url": "https://www.sigidwiki.com/wiki/Link-11_(UHF)"
-    },
-    "LoJack": {
-        "dir": 280,
-        "url": "https://www.sigidwiki.com/wiki/LoJack"
-    },
-    "LoRa": {
-        "dir": 281,
-        "url": "https://www.sigidwiki.com/wiki/LoRa"
-    },
-    "Lockheed Martin LMS-6 (Radiosonde)": {
-        "dir": 282,
-        "url": "https://www.sigidwiki.com/wiki/Lockheed_Martin_LMS-6_(Radiosonde)"
-    },
-    "Logic Trunked Radio (LTR)": {
-        "dir": 283,
-        "url": "https://www.sigidwiki.com/wiki/Logic_Trunked_Radio_(LTR)"
-    },
-    "Logitech(R) Wireless Mouse+Keyboard Signal": {
-        "dir": 284,
-        "url": "https://www.sigidwiki.com/wiki/Logitech(R)_Wireless_Mouse%2BKeyboard_Signal"
-    },
-    "Low Rate Picture Transmission (LRPT)": {
-        "dir": 285,
-        "url": "https://www.sigidwiki.com/wiki/Low_Rate_Picture_Transmission_(LRPT)"
-    },
-    "M17 RF Protocol": {
-        "dir": 286,
-        "url": "https://www.sigidwiki.com/wiki/M17_RF_Protocol"
-    },
-    "M20 Radiosonde": {
-        "dir": 287,
-        "url": "https://www.sigidwiki.com/wiki/M20_Radiosonde"
-    },
-    "MD-522": {
-        "dir": 288,
-        "url": "https://www.sigidwiki.com/wiki/MD-522"
-    },
-    "MD-674": {
-        "dir": 289,
-        "url": "https://www.sigidwiki.com/wiki/MD-674"
-    },
-    "MDC-4800": {
-        "dir": 290,
-        "url": "https://www.sigidwiki.com/wiki/MDC-4800"
-    },
-    "MDC1200": {
-        "dir": 291,
-        "url": "https://www.sigidwiki.com/wiki/MDC1200"
-    },
-    "METEOR-M High Resolution Picture Transmission (HRPT)": {
-        "dir": 292,
-        "url": "https://www.sigidwiki.com/wiki/METEOR-M_High_Resolution_Picture_Transmission_(HRPT)"
-    },
-    "METOP Advanced High Resolution Picture Transmission (AHRPT)": {
-        "dir": 293,
-        "url": "https://www.sigidwiki.com/wiki/METOP_Advanced_High_Resolution_Picture_Transmission_(AHRPT)"
-    },
-    "MFJ-269C Antenna SWR Analyzer": {
-        "dir": 294,
-        "url": "https://www.sigidwiki.com/wiki/MFJ-269C_Antenna_SWR_Analyzer"
-    },
-    "MIL-STD-110-342": {
-        "dir": 295,
-        "url": "https://www.sigidwiki.com/wiki/MIL-STD-110-342"
-    },
-    "MIL-STD-188-110 Appendix A 16-Tone": {
-        "dir": 296,
-        "url": "https://www.sigidwiki.com/wiki/MIL-STD-188-110_Appendix_A_16-Tone"
-    },
-    "MIL-STD-188-110 Appendix B 39-Tone": {
-        "dir": 297,
-        "url": "https://www.sigidwiki.com/wiki/MIL-STD-188-110_Appendix_B_39-Tone"
-    },
-    "MIL-STD-188-110 Serial": {
-        "dir": 298,
-        "url": "https://www.sigidwiki.com/wiki/MIL-STD-188-110_Serial"
-    },
-    "MMP-4800": {
-        "dir": 299,
-        "url": "https://www.sigidwiki.com/wiki/MMP-4800"
-    },
-    "MOBITEX": {
-        "dir": 300,
-        "url": "https://www.sigidwiki.com/wiki/MOBITEX"
-    },
-    "MODAT": {
-        "dir": 301,
-        "url": "https://www.sigidwiki.com/wiki/MODAT"
-    },
-    "MONITOR-2(RS39S)": {
-        "dir": 302,
-        "url": "https://www.sigidwiki.com/wiki/MONITOR-2(RS39S)"
-    },
-    "MPT 1327": {
-        "dir": 303,
-        "url": "https://www.sigidwiki.com/wiki/MPT_1327"
-    },
-    "MPT1394 Keyfob": {
-        "dir": 304,
-        "url": "https://www.sigidwiki.com/wiki/MPT1394_Keyfob"
-    },
-    "MRZ-3MK Weather Balloon (radiosonde)": {
-        "dir": 305,
-        "url": "https://www.sigidwiki.com/wiki/MRZ-3MK_Weather_Balloon_(radiosonde)"
-    },
-    "MRZ-N1 Weather Balloon (radiosonde)": {
-        "dir": 306,
-        "url": "https://www.sigidwiki.com/wiki/MRZ-N1_Weather_Balloon_(radiosonde)"
-    },
-    "MSK144": {
-        "dir": 307,
-        "url": "https://www.sigidwiki.com/wiki/MSK144"
-    },
-    "MSM-1250 Modem": {
-        "dir": 308,
-        "url": "https://www.sigidwiki.com/wiki/MSM-1250_Modem"
-    },
-    "MT63": {
-        "dir": 309,
-        "url": "https://www.sigidwiki.com/wiki/MT63"
-    },
-    "Marconi Selenia 25-Tone Modem": {
-        "dir": 310,
-        "url": "https://www.sigidwiki.com/wiki/Marconi_Selenia_25-Tone_Modem"
-    },
-    "Mazda SKE126-01 Key Fob": {
-        "dir": 311,
-        "url": "https://www.sigidwiki.com/wiki/Mazda_SKE126-01_Key_Fob"
-    },
-    "Mazielka (X06)": {
-        "dir": 312,
-        "url": "https://www.sigidwiki.com/wiki/Mazielka_(X06)"
-    },
-    "Meteomodem M10 Weather Balloon (Radiosonde)": {
-        "dir": 313,
-        "url": "https://www.sigidwiki.com/wiki/Meteomodem_M10_Weather_Balloon_(Radiosonde)"
-    },
-    "Meteomodem PilotSonde Weather Balloon": {
-        "dir": 314,
-        "url": "https://www.sigidwiki.com/wiki/Meteomodem_PilotSonde_Weather_Balloon"
-    },
-    "Meteosat WEFAX": {
-        "dir": 315,
-        "url": "https://www.sigidwiki.com/wiki/Meteosat_WEFAX"
-    },
-    "Microsonde Mark II Weather Balloon - LORAN-C signal (Radiosonde)": {
-        "dir": 316,
-        "url": "https://www.sigidwiki.com/wiki/Microsonde_Mark_II_Weather_Balloon_-_LORAN-C_signal_(Radiosonde)"
-    },
-    "Milstar": {
-        "dir": 317,
-        "url": "https://www.sigidwiki.com/wiki/Milstar"
-    },
-    "Modernised High Frequency Communications System (MHFCS)": {
-        "dir": 318,
-        "url": "https://www.sigidwiki.com/wiki/Modernised_High_Frequency_Communications_System_(MHFCS)"
-    },
-    "Morse Code (CW)": {
-        "dir": 319,
-        "url": "https://www.sigidwiki.com/wiki/Morse_Code_(CW)"
-    },
-    "Motorola ASTRO 25 HPD Air Interface": {
-        "dir": 320,
-        "url": "https://www.sigidwiki.com/wiki/Motorola_ASTRO_25_HPD_Air_Interface"
-    },
-    "Motorola MOSCAD SCADA telemetry": {
-        "dir": 321,
-        "url": "https://www.sigidwiki.com/wiki/Motorola_MOSCAD_SCADA_telemetry"
-    },
-    "Motorola SECURENET": {
-        "dir": 322,
-        "url": "https://www.sigidwiki.com/wiki/Motorola_SECURENET"
-    },
-    "Motorola Type II": {
-        "dir": 323,
-        "url": "https://www.sigidwiki.com/wiki/Motorola_Type_II"
-    },
-    "Multi Frequency Shift Keying (MFSK)": {
-        "dir": 324,
-        "url": "https://www.sigidwiki.com/wiki/Multi_Frequency_Shift_Keying_(MFSK)"
-    },
-    "Multitone Paging": {
-        "dir": 325,
-        "url": "https://www.sigidwiki.com/wiki/Multitone_Paging"
-    },
-    "NATEL": {
-        "dir": 326,
-        "url": "https://www.sigidwiki.com/wiki/NATEL"
-    },
-    "NB-IOT": {
-        "dir": 327,
-        "url": "https://www.sigidwiki.com/wiki/NB-IOT"
-    },
-    "NFM Voice": {
-        "dir": 328,
-        "url": "https://www.sigidwiki.com/wiki/NFM_Voice"
-    },
-    "NML": {
-        "dir": 329,
-        "url": "https://www.sigidwiki.com/wiki/NML"
-    },
-    "NOAA Direct Sounder Broadcast (DSB)": {
-        "dir": 330,
-        "url": "https://www.sigidwiki.com/wiki/NOAA_Direct_Sounder_Broadcast_(DSB)"
-    },
-    "NOAA ITOS High Resolution Picture Transmission (HRPT)": {
-        "dir": 331,
-        "url": "https://www.sigidwiki.com/wiki/NOAA_ITOS_High_Resolution_Picture_Transmission_(HRPT)"
-    },
-    "NOAA POES High Resolution Picture Transmission (HRPT)": {
-        "dir": 332,
-        "url": "https://www.sigidwiki.com/wiki/NOAA_POES_High_Resolution_Picture_Transmission_(HRPT)"
-    },
-    "NOV": {
-        "dir": 333,
-        "url": "https://www.sigidwiki.com/wiki/NOV"
-    },
-    "NPM": {
-        "dir": 334,
-        "url": "https://www.sigidwiki.com/wiki/NPM"
-    },
-    "NTSC Broadcast": {
-        "dir": 335,
-        "url": "https://www.sigidwiki.com/wiki/NTSC_Broadcast"
-    },
-    "NWC": {
-        "dir": 336,
-        "url": "https://www.sigidwiki.com/wiki/NWC"
-    },
-    "Narrow-Bandwidth Television (NBTV)": {
-        "dir": 337,
-        "url": "https://www.sigidwiki.com/wiki/Narrow-Bandwidth_Television_(NBTV)"
-    },
-    "National Public Alerting System (NPAS)": {
-        "dir": 338,
-        "url": "https://www.sigidwiki.com/wiki/National_Public_Alerting_System_(NPAS)"
-    },
-    "Near Field Communication (NFC)": {
-        "dir": 339,
-        "url": "https://www.sigidwiki.com/wiki/Near_Field_Communication_(NFC)"
-    },
-    "Near Instantaneous Companded Audio Multiplex (NICAM)": {
-        "dir": 340,
-        "url": "https://www.sigidwiki.com/wiki/Near_Instantaneous_Companded_Audio_Multiplex_(NICAM)"
-    },
-    "Next Generation Digital Narrowband (NXDN)": {
-        "dir": 341,
-        "url": "https://www.sigidwiki.com/wiki/Next_Generation_Digital_Narrowband_(NXDN)"
-    },
-    "Nissan Car Key": {
-        "dir": 342,
-        "url": "https://www.sigidwiki.com/wiki/Nissan_Car_Key"
-    },
-    "Nokia Adaptive Message Terminal": {
-        "dir": 343,
-        "url": "https://www.sigidwiki.com/wiki/Nokia_Adaptive_Message_Terminal"
-    },
-    "Non-Directional Beacon (NDB)": {
-        "dir": 344,
-        "url": "https://www.sigidwiki.com/wiki/Non-Directional_Beacon_(NDB)"
-    },
-    "Nordic Mobile Telephone (NMT)": {
-        "dir": 345,
-        "url": "https://www.sigidwiki.com/wiki/Nordic_Mobile_Telephone_(NMT)"
-    },
-    "North Korean Diplo FSK": {
-        "dir": 346,
-        "url": "https://www.sigidwiki.com/wiki/North_Korean_Diplo_FSK"
-    },
-    "North Korean Diplo PSK": {
-        "dir": 347,
-        "url": "https://www.sigidwiki.com/wiki/North_Korean_Diplo_PSK"
-    },
-    "North Korean Siren Jammer": {
-        "dir": 348,
-        "url": "https://www.sigidwiki.com/wiki/North_Korean_Siren_Jammer"
-    },
-    "OFDM NBTV": {
-        "dir": 349,
-        "url": "https://www.sigidwiki.com/wiki/OFDM_NBTV"
-    },
-    "OOK RC Car Remote Control": {
-        "dir": 350,
-        "url": "https://www.sigidwiki.com/wiki/OOK_RC_Car_Remote_Control"
-    },
-    "OPERA Beacon and Data": {
-        "dir": 351,
-        "url": "https://www.sigidwiki.com/wiki/OPERA_Beacon_and_Data"
-    },
-    "Olivia": {
-        "dir": 352,
-        "url": "https://www.sigidwiki.com/wiki/Olivia"
-    },
-    "One Beep, Two Beeps": {
-        "dir": 353,
-        "url": "https://www.sigidwiki.com/wiki/One_Beep,_Two_Beeps"
-    },
-    "OpenSky": {
-        "dir": 354,
-        "url": "https://www.sigidwiki.com/wiki/OpenSky"
-    },
-    "OrbComm Mobile Telephony": {
-        "dir": 355,
-        "url": "https://www.sigidwiki.com/wiki/OrbComm_Mobile_Telephony"
-    },
-    "Orbcomm": {
-        "dir": 356,
-        "url": "https://www.sigidwiki.com/wiki/Orbcomm"
-    },
-    "PACKET": {
-        "dir": 357,
-        "url": "https://www.sigidwiki.com/wiki/PACKET"
-    },
-    "PACTOR I": {
-        "dir": 358,
-        "url": "https://www.sigidwiki.com/wiki/PACTOR_I"
-    },
-    "PACTOR II": {
-        "dir": 359,
-        "url": "https://www.sigidwiki.com/wiki/PACTOR_II"
-    },
-    "PACTOR III": {
-        "dir": 360,
-        "url": "https://www.sigidwiki.com/wiki/PACTOR_III"
-    },
-    "PACTOR IV": {
-        "dir": 361,
-        "url": "https://www.sigidwiki.com/wiki/PACTOR_IV"
-    },
-    "PAL Broadcast": {
-        "dir": 362,
-        "url": "https://www.sigidwiki.com/wiki/PAL_Broadcast"
-    },
-    "PAX": {
-        "dir": 363,
-        "url": "https://www.sigidwiki.com/wiki/PAX"
-    },
-    "PLUTO II OTH Radar": {
-        "dir": 364,
-        "url": "https://www.sigidwiki.com/wiki/PLUTO_II_OTH_Radar"
-    },
-    "POCSAG": {
-        "dir": 365,
-        "url": "https://www.sigidwiki.com/wiki/POCSAG"
-    },
-    "POL-ARQ": {
-        "dir": 366,
-        "url": "https://www.sigidwiki.com/wiki/POL-ARQ"
-    },
-    "PRC-16": {
-        "dir": 367,
-        "url": "https://www.sigidwiki.com/wiki/PRC-16"
-    },
-    "PROBA 1/2 Downlink": {
-        "dir": 368,
-        "url": "https://www.sigidwiki.com/wiki/PROBA_1/2_Downlink"
-    },
-    "PSK Paging link": {
-        "dir": 369,
-        "url": "https://www.sigidwiki.com/wiki/PSK_Paging_link"
-    },
-    "PSK-AM": {
-        "dir": 370,
-        "url": "https://www.sigidwiki.com/wiki/PSK-AM"
-    },
-    "PSK2K": {
-        "dir": 371,
-        "url": "https://www.sigidwiki.com/wiki/PSK2K"
-    },
-    "Pager SSTV": {
-        "dir": 372,
-        "url": "https://www.sigidwiki.com/wiki/Pager_SSTV"
-    },
-    "Panther-H Modem": {
-        "dir": 373,
-        "url": "https://www.sigidwiki.com/wiki/Panther-H_Modem"
-    },
-    "Phase Shift Keying (PSK)": {
-        "dir": 374,
-        "url": "https://www.sigidwiki.com/wiki/Phase_Shift_Keying_(PSK)"
-    },
-    "Piccolo": {
-        "dir": 375,
-        "url": "https://www.sigidwiki.com/wiki/Piccolo"
-    },
-    "Polish Intelligence 100bd 625Hz FSK": {
-        "dir": 376,
-        "url": "https://www.sigidwiki.com/wiki/Polish_Intelligence_100bd_625Hz_FSK"
-    },
-    "Portable Traffic Lights": {
-        "dir": 377,
-        "url": "https://www.sigidwiki.com/wiki/Portable_Traffic_Lights"
-    },
-    "Positive Train Control (PTC)": {
-        "dir": 378,
-        "url": "https://www.sigidwiki.com/wiki/Positive_Train_Control_(PTC)"
-    },
-    "Powerline Over Ethernet": {
-        "dir": 379,
-        "url": "https://www.sigidwiki.com/wiki/Powerline_Over_Ethernet"
-    },
-    "Primary Aeronautical Surveillance Radar": {
-        "dir": 380,
-        "url": "https://www.sigidwiki.com/wiki/Primary_Aeronautical_Surveillance_Radar"
-    },
-    "Primex Wireless Time Sync": {
-        "dir": 381,
-        "url": "https://www.sigidwiki.com/wiki/Primex_Wireless_Time_Sync"
-    },
-    "ProVoice": {
-        "dir": 382,
-        "url": "https://www.sigidwiki.com/wiki/ProVoice"
-    },
-    "Project 25 (P25)": {
-        "dir": 383,
-        "url": "https://www.sigidwiki.com/wiki/Project_25_(P25)"
-    },
-    "Pulse Coded Modulated (PCM) RC Toy": {
-        "dir": 384,
-        "url": "https://www.sigidwiki.com/wiki/Pulse_Coded_Modulated_(PCM)_RC_Toy"
-    },
-    "Pursuit Wireless Car Key": {
-        "dir": 385,
-        "url": "https://www.sigidwiki.com/wiki/Pursuit_Wireless_Car_Key"
-    },
-    "Q-MAC HF Modem": {
-        "dir": 386,
-        "url": "https://www.sigidwiki.com/wiki/Q-MAC_HF_Modem"
-    },
-    "Q15X25": {
-        "dir": 387,
-        "url": "https://www.sigidwiki.com/wiki/Q15X25"
-    },
-    "QO-100-modem": {
-        "dir": 388,
-        "url": "https://www.sigidwiki.com/wiki/QO-100-modem"
-    },
-    "Quadcopter Telemetry Signal": {
-        "dir": 389,
-        "url": "https://www.sigidwiki.com/wiki/Quadcopter_Telemetry_Signal"
-    },
-    "RAC-ARQ": {
-        "dir": 390,
-        "url": "https://www.sigidwiki.com/wiki/RAC-ARQ"
-    },
-    "RBU": {
-        "dir": 391,
-        "url": "https://www.sigidwiki.com/wiki/RBU"
-    },
-    "RDL": {
-        "dir": 392,
-        "url": "https://www.sigidwiki.com/wiki/RDL"
-    },
-    "RFID": {
-        "dir": 393,
-        "url": "https://www.sigidwiki.com/wiki/RFID"
-    },
-    "ROS": {
-        "dir": 394,
-        "url": "https://www.sigidwiki.com/wiki/ROS"
-    },
-    "RS80": {
-        "dir": 395,
-        "url": "https://www.sigidwiki.com/wiki/RS80"
-    },
-    "RTTYM": {
-        "dir": 396,
-        "url": "https://www.sigidwiki.com/wiki/RTTYM"
-    },
-    "RUM-FEC": {
-        "dir": 397,
-        "url": "https://www.sigidwiki.com/wiki/RUM-FEC"
-    },
-    "RUM-MOI FEC": {
-        "dir": 398,
-        "url": "https://www.sigidwiki.com/wiki/RUM-MOI_FEC"
-    },
-    "RWM": {
-        "dir": 399,
-        "url": "https://www.sigidwiki.com/wiki/RWM"
-    },
-    "Radio Data Link Access Procedure (RD-LAP)": {
-        "dir": 400,
-        "url": "https://www.sigidwiki.com/wiki/Radio_Data_Link_Access_Procedure_(RD-LAP)"
-    },
-    "Radio Data System (RDS)": {
-        "dir": 401,
-        "url": "https://www.sigidwiki.com/wiki/Radio_Data_System_(RDS)"
-    },
-    "Radio Telephone Network C (C-Netz)": {
-        "dir": 402,
-        "url": "https://www.sigidwiki.com/wiki/Radio_Telephone_Network_C_(C-Netz)"
-    },
-    "Radio Teletype (RTTY)": {
-        "dir": 403,
-        "url": "https://www.sigidwiki.com/wiki/Radio_Teletype_(RTTY)"
-    },
-    "Radioteknicheskaya Systema Dalyoloiy Navigatsii (RSDN-20)": {
-        "dir": 404,
-        "url": "https://www.sigidwiki.com/wiki/Radioteknicheskaya_Systema_Dalyoloiy_Navigatsii_(RSDN-20)"
-    },
-    "Rain Master sprinkler control": {
-        "dir": 405,
-        "url": "https://www.sigidwiki.com/wiki/Rain_Master_sprinkler_control"
-    },
-    "ReFLEX": {
-        "dir": 406,
-        "url": "https://www.sigidwiki.com/wiki/ReFLEX"
-    },
-    "Redundant Digital File Transfer (RDFT)": {
-        "dir": 407,
-        "url": "https://www.sigidwiki.com/wiki/Redundant_Digital_File_Transfer_(RDFT)"
-    },
-    "Relocatable Over-the-Horizon Radar (ROTHR)": {
-        "dir": 408,
-        "url": "https://www.sigidwiki.com/wiki/Relocatable_Over-the-Horizon_Radar_(ROTHR)"
-    },
-    "Robust PACKET": {
-        "dir": 409,
-        "url": "https://www.sigidwiki.com/wiki/Robust_PACKET"
-    },
-    "Russian Diplo VFT PSK 64Bd": {
-        "dir": 410,
-        "url": "https://www.sigidwiki.com/wiki/Russian_Diplo_VFT_PSK_64Bd"
-    },
-    "Russian Intelligence 200bd 1000Hz FSK": {
-        "dir": 411,
-        "url": "https://www.sigidwiki.com/wiki/Russian_Intelligence_200bd_1000Hz_FSK"
-    },
-    "Russian OTH 'Ghadir' type": {
-        "dir": 412,
-        "url": "https://www.sigidwiki.com/wiki/Russian_OTH_%27Ghadir%27_type"
-    },
-    "Russian overhead power line telemetry system": {
-        "dir": 413,
-        "url": "https://www.sigidwiki.com/wiki/Russian_overhead_power_line_telemetry_system"
-    },
-    "S-Band Jammer": {
-        "dir": 414,
-        "url": "https://www.sigidwiki.com/wiki/S-Band_Jammer"
-    },
-    "SAS/SRC": {
-        "dir": 415,
-        "url": "https://www.sigidwiki.com/wiki/SAS/SRC"
-    },
-    "SAS2": {
-        "dir": 416,
-        "url": "https://www.sigidwiki.com/wiki/SAS2"
-    },
-    "SAS3": {
-        "dir": 417,
-        "url": "https://www.sigidwiki.com/wiki/SAS3"
-    },
-    "SHR": {
-        "dir": 418,
-        "url": "https://www.sigidwiki.com/wiki/SHR"
-    },
-    "SI-ARQ": {
-        "dir": 419,
-        "url": "https://www.sigidwiki.com/wiki/SI-ARQ"
-    },
-    "SI-FEC": {
-        "dir": 420,
-        "url": "https://www.sigidwiki.com/wiki/SI-FEC"
-    },
-    "SIGFOX": {
-        "dir": 421,
-        "url": "https://www.sigidwiki.com/wiki/SIGFOX"
-    },
-    "SITOR-A": {
-        "dir": 422,
-        "url": "https://www.sigidwiki.com/wiki/SITOR-A"
-    },
-    "SITOR-B": {
-        "dir": 423,
-        "url": "https://www.sigidwiki.com/wiki/SITOR-B"
-    },
-    "SNOTEL (Snow Telemetry)": {
-        "dir": 424,
-        "url": "https://www.sigidwiki.com/wiki/SNOTEL_(Snow_Telemetry)"
-    },
-    "SP-14 (XP)": {
-        "dir": 425,
-        "url": "https://www.sigidwiki.com/wiki/SP-14_(XP)"
-    },
-    "SPREAD": {
-        "dir": 426,
-        "url": "https://www.sigidwiki.com/wiki/SPREAD"
-    },
-    "SSTV": {
-        "dir": 427,
-        "url": "https://www.sigidwiki.com/wiki/SSTV"
-    },
-    "STANAG 4197": {
-        "dir": 428,
-        "url": "https://www.sigidwiki.com/wiki/STANAG_4197"
-    },
-    "STANAG 4285": {
-        "dir": 429,
-        "url": "https://www.sigidwiki.com/wiki/STANAG_4285"
-    },
-    "STANAG 4415": {
-        "dir": 430,
-        "url": "https://www.sigidwiki.com/wiki/STANAG_4415"
-    },
-    "STANAG 4481": {
-        "dir": 431,
-        "url": "https://www.sigidwiki.com/wiki/STANAG_4481"
-    },
-    "STANAG 4529": {
-        "dir": 432,
-        "url": "https://www.sigidwiki.com/wiki/STANAG_4529"
-    },
-    "STANAG 4539": {
-        "dir": 433,
-        "url": "https://www.sigidwiki.com/wiki/STANAG_4539"
-    },
-    "STANAG 5065": {
-        "dir": 434,
-        "url": "https://www.sigidwiki.com/wiki/STANAG_5065"
-    },
-    "STP403 Bus PIT System": {
-        "dir": 435,
-        "url": "https://www.sigidwiki.com/wiki/STP403_Bus_PIT_System"
-    },
-    "SWED-ARQ": {
-        "dir": 436,
-        "url": "https://www.sigidwiki.com/wiki/SWED-ARQ"
-    },
-    "Saab Grintek MHF-50 MFSK Modem": {
-        "dir": 437,
-        "url": "https://www.sigidwiki.com/wiki/Saab_Grintek_MHF-50_MFSK_Modem"
-    },
-    "Schneider Trio E-Series Modem": {
-        "dir": 438,
-        "url": "https://www.sigidwiki.com/wiki/Schneider_Trio_E-Series_Modem"
-    },
-    "Secondary surveillance radar (SSR)": {
-        "dir": 439,
-        "url": "https://www.sigidwiki.com/wiki/Secondary_surveillance_radar_(SSR)"
-    },
-    "Sensus Water meter (Acquisition units)": {
-        "dir": 440,
-        "url": "https://www.sigidwiki.com/wiki/Sensus_Water_meter_(Acquisition_units)"
-    },
-    "Serdolik": {
-        "dir": 441,
-        "url": "https://www.sigidwiki.com/wiki/Serdolik"
-    },
-    "Siemens 1.5T MRI Scanner": {
-        "dir": 442,
-        "url": "https://www.sigidwiki.com/wiki/Siemens_1.5T_MRI_Scanner"
-    },
-    "Siemens CHX-200 FSK Modem": {
-        "dir": 443,
-        "url": "https://www.sigidwiki.com/wiki/Siemens_CHX-200_FSK_Modem"
-    },
-    "Single Sideband Voice": {
-        "dir": 444,
-        "url": "https://www.sigidwiki.com/wiki/Single_Sideband_Voice"
-    },
-    "Single frequency russian overhead power line telemetry system": {
-        "dir": 445,
-        "url": "https://www.sigidwiki.com/wiki/Single_frequency_russian_overhead_power_line_telemetry_system"
-    },
-    "SiriusXM Satellite Radio": {
-        "dir": 446,
-        "url": "https://www.sigidwiki.com/wiki/SiriusXM_Satellite_Radio"
-    },
-    "SkyOFDM": {
-        "dir": 447,
-        "url": "https://www.sigidwiki.com/wiki/SkyOFDM"
-    },
-    "Slow-Scan Television (SSTV)": {
-        "dir": 448,
-        "url": "https://www.sigidwiki.com/wiki/Slow-Scan_Television_(SSTV)"
-    },
-    "Smart TV Interference": {
-        "dir": 449,
-        "url": "https://www.sigidwiki.com/wiki/Smart_TV_Interference"
-    },
-    "Snap Circuits SCROV-10 Remote Control": {
-        "dir": 450,
-        "url": "https://www.sigidwiki.com/wiki/Snap_Circuits_SCROV-10_Remote_Control"
-    },
-    "Sonne": {
-        "dir": 451,
-        "url": "https://www.sigidwiki.com/wiki/Sonne"
-    },
-    "Soyuz-MS spacecraft telemetry": {
-        "dir": 452,
-        "url": "https://www.sigidwiki.com/wiki/Soyuz-MS_spacecraft_telemetry"
-    },
-    "Spectrum Painting": {
-        "dir": 453,
-        "url": "https://www.sigidwiki.com/wiki/Spectrum_Painting"
-    },
-    "SuperDARN (Super Dual Auroral Radar Network)": {
-        "dir": 454,
-        "url": "https://www.sigidwiki.com/wiki/SuperDARN_(Super_Dual_Auroral_Radar_Network)"
-    },
-    "Supervisory Control And Data Acquisition (SCADA)": {
-        "dir": 455,
-        "url": "https://www.sigidwiki.com/wiki/Supervisory_Control_And_Data_Acquisition_(SCADA)"
-    },
-    "Switching Electronic Interference": {
-        "dir": 456,
-        "url": "https://www.sigidwiki.com/wiki/Switch-mode_power_supply_interference"
-    },
-    "T-230-1A 'Mahovik'": {
-        "dir": 457,
-        "url": "https://www.sigidwiki.com/wiki/T-230-1A_%27Mahovik%27"
-    },
-    "TDF": {
-        "dir": 458,
-        "url": "https://www.sigidwiki.com/wiki/TDF"
-    },
-    "THOR": {
-        "dir": 459,
-        "url": "https://www.sigidwiki.com/wiki/THOR"
-    },
-    "THROB": {
-        "dir": 460,
-        "url": "https://www.sigidwiki.com/wiki/THROB"
-    },
-    "TT2300": {
-        "dir": 461,
-        "url": "https://www.sigidwiki.com/wiki/TT2300"
-    },
-    "TWINPLEX": {
-        "dir": 462,
-        "url": "https://www.sigidwiki.com/wiki/TWINPLEX"
-    },
-    "Tactical Air Navigation System (TACAN)": {
-        "dir": 463,
-        "url": "https://www.sigidwiki.com/wiki/Tactical_Air_Navigation_System_(TACAN)"
-    },
-    "Terrestrial Trunked Radio (TETRA)": {
-        "dir": 464,
-        "url": "https://www.sigidwiki.com/wiki/Terrestrial_Trunked_Radio_(TETRA)"
-    },
-    "Tetrapol": {
-        "dir": 465,
-        "url": "https://www.sigidwiki.com/wiki/Tetrapol"
-    },
-    "Thales SALAMANDRE (HFXL)": {
-        "dir": 466,
-        "url": "https://www.sigidwiki.com/wiki/Thales_SALAMANDRE_(HFXL)"
-    },
-    "Thales Syst\u00e8me 3000 HF Modem": {
-        "dir": 467,
-        "url": "https://www.sigidwiki.com/wiki/Thales_Syst%C3%A8me_3000_HF_Modem"
-    },
-    "Thales Syst\u00e8me 3000 Skyhopper": {
-        "dir": 468,
-        "url": "https://www.sigidwiki.com/wiki/Thales_Syst%C3%A8me_3000_Skyhopper"
-    },
-    "Thales Syst\u00e8me 3000 Voice Scrambler": {
-        "dir": 469,
-        "url": "https://www.sigidwiki.com/wiki/Thales_Syst%C3%A8me_3000_Voice_Scrambler"
-    },
-    "The 'Air Horn'": {
-        "dir": 470,
-        "url": "https://www.sigidwiki.com/wiki/The_%27Air_Horn%27"
-    },
-    "The Alarm": {
-        "dir": 471,
-        "url": "https://www.sigidwiki.com/wiki/The_Alarm"
-    },
-    "The Buzzer (ZhUOZ MDZhB UZB76)": {
-        "dir": 472,
-        "url": "https://www.sigidwiki.com/wiki/The_Buzzer_(ZhUOZ_MDZhB_UZB76)"
-    },
-    "The Goose": {
-        "dir": 473,
-        "url": "https://www.sigidwiki.com/wiki/The_Goose"
-    },
-    "The Pip": {
-        "dir": 474,
-        "url": "https://www.sigidwiki.com/wiki/The_Pip"
-    },
-    "Tire Pressure Monitoring System (TPMS)": {
-        "dir": 475,
-        "url": "https://www.sigidwiki.com/wiki/Tire_Pressure_Monitoring_System_(TPMS)"
-    },
-    "Total Access Communication System (TACS)": {
-        "dir": 476,
-        "url": "https://www.sigidwiki.com/wiki/Total_Access_Communication_System_(TACS)"
-    },
-    "Toyota Car Key": {
-        "dir": 477,
-        "url": "https://www.sigidwiki.com/wiki/Toyota_Car_Key"
-    },
-    "Traffic Light Control R09": {
-        "dir": 478,
-        "url": "https://www.sigidwiki.com/wiki/Traffic_Light_Control_R09"
-    },
-    "Transit 5B-5": {
-        "dir": 479,
-        "url": "https://www.sigidwiki.com/wiki/Transit_5B-5"
-    },
-    "UHF Vehicle Location System": {
-        "dir": 480,
-        "url": "https://www.sigidwiki.com/wiki/UHF_Vehicle_Location_System"
-    },
-    "UIC 751-3": {
-        "dir": 481,
-        "url": "https://www.sigidwiki.com/wiki/UIC_751-3"
-    },
-    "UK AM Data System (UK-AMDS)": {
-        "dir": 482,
-        "url": "https://www.sigidwiki.com/wiki/UK_AM_Data_System_(UK-AMDS)"
-    },
-    "UK GOV MIL WINDRM51": {
-        "dir": 483,
-        "url": "https://www.sigidwiki.com/wiki/UK_GOV_MIL_WINDRM51"
-    },
-    "UTC (Coordinated Universal Time) Time Standard": {
-        "dir": 484,
-        "url": "https://www.sigidwiki.com/wiki/UTC_(Coordinated_Universal_Time)_Time_Standard"
-    },
-    "Ultra Low Latency (ULL) Electronic Trading Network": {
-        "dir": 485,
-        "url": "https://www.sigidwiki.com/wiki/Ultra_Low_Latency_(ULL)_Electronic_Trading_Network"
-    },
-    "VARA HF": {
-        "dir": 486,
-        "url": "https://www.sigidwiki.com/wiki/VARA_HF"
-    },
-    "VDEW": {
-        "dir": 487,
-        "url": "https://www.sigidwiki.com/wiki/VDEW"
-    },
-    "VEZHA-S": {
-        "dir": 488,
-        "url": "https://www.sigidwiki.com/wiki/VEZHA-S"
-    },
-    "VHF Data Link - Mode 2 (VDL-M2)": {
-        "dir": 489,
-        "url": "https://www.sigidwiki.com/wiki/VHF_Data_Link_-_Mode_2_(VDL-M2)"
-    },
-    "VHF Omnidirectional Range (VOR)": {
-        "dir": 490,
-        "url": "https://www.sigidwiki.com/wiki/VHF_Omnidirectional_Range_(VOR)"
-    },
-    "VISEL": {
-        "dir": 491,
-        "url": "https://www.sigidwiki.com/wiki/VISEL"
-    },
-    "VOICE": {
-        "dir": 492,
-        "url": "https://www.sigidwiki.com/wiki/VOICE"
-    },
-    "Vaisala RS41-SG Weather Balloon (Radiosonde)": {
-        "dir": 493,
-        "url": "https://www.sigidwiki.com/wiki/Vaisala_RS41-SG_Weather_Balloon_(Radiosonde)"
-    },
-    "Vaisala RS92-KL Weather Balloon (Radiosonde)": {
-        "dir": 494,
-        "url": "https://www.sigidwiki.com/wiki/Vaisala_RS92-KL_Weather_Balloon_(Radiosonde)"
-    },
-    "Vaisala RS92-SGP Weather Balloon (Radiosonde)": {
-        "dir": 495,
-        "url": "https://www.sigidwiki.com/wiki/Vaisala_RS92-SGP_Weather_Balloon_(Radiosonde)"
-    },
-    "Vehicle Counting System": {
-        "dir": 496,
-        "url": "https://www.sigidwiki.com/wiki/Vehicle_Counting_System"
-    },
-    "Vietnamese Siren Jammer": {
-        "dir": 497,
-        "url": "https://www.sigidwiki.com/wiki/Vietnamese_Siren_Jammer"
-    },
-    "Visonic MCT-201": {
-        "dir": 498,
-        "url": "https://www.sigidwiki.com/wiki/Visonic_MCT-201"
-    },
-    "WEFAX": {
-        "dir": 499,
-        "url": "https://www.sigidwiki.com/wiki/WEFAX"
-    },
-    "WLO": {
-        "dir": 500,
-        "url": "https://www.sigidwiki.com/wiki/WLO"
-    },
-    "WSPR": {
-        "dir": 501,
-        "url": "https://www.sigidwiki.com/wiki/WSPR"
-    },
-    "WWVB": {
-        "dir": 502,
-        "url": "https://www.sigidwiki.com/wiki/WWVB"
-    },
-    "Wettersonde E084 (Radiosonde)": {
-        "dir": 503,
-        "url": "https://www.sigidwiki.com/wiki/Wettersonde_E084_(Radiosonde)"
-    },
-    "WiMAX": {
-        "dir": 504,
-        "url": "https://www.sigidwiki.com/wiki/WiMAX"
-    },
-    "WinDRM": {
-        "dir": 505,
-        "url": "https://www.sigidwiki.com/wiki/WinDRM"
-    },
-    "WinLink Global Email Radio System (WGERS)": {
-        "dir": 506,
-        "url": "https://www.sigidwiki.com/wiki/WinLink_Global_Email_Radio_System_(WGERS)"
-    },
-    "Wireless Hydrophone System (WHS)": {
-        "dir": 507,
-        "url": "https://www.sigidwiki.com/wiki/Wireless_Hydrophone_System_(WHS)"
-    },
-    "Wireless Temperature Sensor": {
-        "dir": 508,
-        "url": "https://www.sigidwiki.com/wiki/Wireless_Temperature_Sensor"
-    },
-    "XMPP trials": {
-        "dir": 509,
-        "url": "https://www.sigidwiki.com/wiki/XMPP_trials"
-    },
-    "Yachta T-219 Voice Scrambler": {
-        "dir": 510,
-        "url": "https://www.sigidwiki.com/wiki/Yachta_T-219_Voice_Scrambler"
-    },
-    "Yaesu System Fusion": {
-        "dir": 511,
-        "url": "https://www.sigidwiki.com/wiki/Yaesu_System_Fusion"
-    },
-    "Yugoslavian 16-Tone Modem": {
-        "dir": 512,
-        "url": "https://www.sigidwiki.com/wiki/Yugoslavian_16-Tone_Modem"
-    },
-    "Yugoslavian 20-Tone Modem": {
-        "dir": 513,
-        "url": "https://www.sigidwiki.com/wiki/Yugoslavian_20-Tone_Modem"
-    },
-    "ZVEI Selcall": {
-        "dir": 514,
-        "url": "https://www.sigidwiki.com/wiki/ZVEI_Selcall"
-    },
-    "\u00c9lectricit\u00e9 de France HNZ": {
-        "dir": 515,
-        "url": "https://www.sigidwiki.com/wiki/%C3%89lectricit%C3%A9_de_France_HNZ"
-    },
-    "Russian MFSK-OFDM-chirp hybrid modem": {
-        "dir": 516,
-        "url": "https://www.sigidwiki.com/wiki/Russian_MFSK-OFDM-chirp_hybrid_modem"
-    },
-    "PI4": {
-        "dir": 517,
-        "url": "https://www.sigidwiki.com/wiki/PI4"
-    },
-    "JT4": {
-        "dir": 518,
-        "url": "https://www.sigidwiki.com/wiki/JT4"
-    },
-    "North Korean Noise Jammer": {
-        "dir": 519,
-        "url": "https://www.sigidwiki.com/wiki/North_Korean_noise_jammer"
-    },
-    "Wireless Smart Utility Networks (Wi-SUN)": {
-        "dir": 520,
-        "url": "https://www.sigidwiki.com/wiki/Wireless_Smart_Utility_Networks_(Wi-SUN)"
-    },
-    "Beta": {
-        "dir": 521,
-        "url": "https://www.sigidwiki.com/wiki/Beta"
-    },
-    "RF heating and welding interference": {
-        "dir": 522,
-        "url": "https://www.sigidwiki.com/wiki/RF_heating_and_welding_interference"
-    },
-    "MSF": {
-        "dir": 523,
-        "url": "https://www.sigidwiki.com/wiki/MSF"
-    },
-    "Canadian Meteor Orbit Radar (CMOR)": {
-        "dir": 524,
-        "url": "https://www.sigidwiki.com/wiki/Canadian_Meteor_Orbit_Radar_(CMOR)"
-    },
-    "CIS FTM-4": {
-        "dir": 525,
-        "url": "https://www.sigidwiki.com/wiki/CIS_FTM-4"
-    },
-    "Radar altimeter": {
-        "dir": 526,
-        "url": "https://www.sigidwiki.com/wiki/Radar_altimeter"
-    },
-    "DoD Fire Alarm Control Panel": {
-        "dir": 527,
-        "url": "https://www.sigidwiki.com/wiki/DoD_Fire_Alarm_Control_Panel"
-    },
-    "Chinese-64 MFSK": {
-        "dir": 528,
-        "url": "https://www.sigidwiki.com/wiki/Chinese-64_MFSK"
-    },
-    "FST4": {
-        "dir": 529,
-        "url": "https://www.sigidwiki.com/wiki/FST4"
-    },
-    "Q65": {
-        "dir": 530,
-        "url": "https://www.sigidwiki.com/wiki/Q65"
-    },
-    "Chinese 160kHz-wide OTH radar": {
-        "dir": 531,
-        "url": "https://www.sigidwiki.com/wiki/Chinese_160kHz-wide_OTH_radar"
-    },
-    "SKiYMET": {
-        "dir": 532,
-        "url": "https://www.sigidwiki.com/wiki/SKiYMET_meteor_radar"
-    }
+    "389": "'Ghadir' OTH Radar",
+    "4366": "'OTH-SW' OTH Radar",
+    "5450": "'Vario' Airplane Data Controller",
+    "7807": "17067bps FSK",
+    "2585": "1G (NMT) Nordic Mobile Telephone",
+    "6110": "1G Advanced Mobile Phone System (AMPS)",
+    "6681": "2006 Kia Grand Carnival Keyfob",
+    "483": "29B6 'Kontayner' OTH Radar",
+    "121": "2G (GSM) Global System for Mobile Communications",
+    "3926": "2G CDMA (IS-95)",
+    "3872": "3G WCDMA",
+    "4274": "49MHz RC Car Controller",
+    "3463": "4G (LTE) Long Term Evolution Uplink",
+    "551": "4G LTE Network",
+    "8438": "4G LTE450",
+    "5644": "5G 'New Radio' Cellular Radio - Downlink",
+    "8512": "5G (NR) New Radio Uplink",
+    "8519": "5G Broadcast (MBMS) Multimedia Broadcast / Multicast Service",
+    "6895": "77Ya6 'Voronezh' radar",
+    "8152": "802.11ah",
+    "8300": "802.11ax",
+    "5317": "802.11n",
+    "5811": "8PSK",
+    "1946": "Accurate positioning by Low Frequencies (ALF)",
+    "3893": "Acer X222W monitor, sleep pulse",
+    "143": "AFSK Paging Link",
+    "44": "Aircraft Communications Addressing and Reporting System (ACARS)",
+    "7090": "AIST 2D",
+    "7108": "AKKORD-SS-PD",
+    "1748": "ALE-400",
+    "4237": "Alps Electric Co. TWB1U840 Key Fob",
+    "8180": "Altai Radiotelephone",
+    "95": "Amplitude Modulation (AM)",
+    "3948": "Amplitude Modulation Signalling System (AMSS)",
+    "1957": "AMSAT-P3D",
+    "6969": "Aprizesat",
+    "6945": "Aqua Direct Broadcast (DB)",
+    "3973": "ARGOS A-DCS",
+    "1198": "ARQ-E(E3)",
+    "1972": "ARQ-M2-242",
+    "1973": "ARQ-M2-342",
+    "1974": "ARQ-M4-242",
+    "1975": "ARQ-M4-342",
+    "1978": "ARQ-N",
+    "1960": "ARQ6-90",
+    "1963": "ARQ6-98",
+    "1981": "ASCII",
+    "6403": "ATSC 3.0 Broadcast",
+    "553": "ATSC Broadcast",
+    "8557": "AUDI keyfob",
+    "305": "Autocab",
+    "2840": "Automated Train Control System (ATCS)",
+    "130": "Automatic Dependent Surveillance-Broadcast (ADS-B)",
+    "54": "Automatic Identification System (AIS)",
+    "201": "Automatic Link Establishment (2G ALE)",
+    "651": "Automatic Link Establishment (3G ALE ARCS)",
+    "1950": "Automatic Link Set-up (ALIS)",
+    "88": "Automatic Packet Reporting System (APRS)",
+    "91": "Automatic Picture Transmission (APT)",
+    "1992": "Automatic Transmitter Identification System (ATIS)",
+    "2044": "AUTOSPEC",
+    "6147": "B-Netz",
+    "4191": "BALDR Weather Sensor Telemetry",
+    "7750": "Baofeng GMSK",
+    "7611": "Beta",
+    "283": "Binary Interchange of Information and Signaling (BIIS)",
+    "1734": "Bluetooth",
+    "5292": "Bluetooth Low Energy",
+    "6783": "BlueWalker-3 Wideband Telemetry",
+    "3644": "BMW Key-Code signal",
+    "3708": "BPC",
+    "4081": "BPM",
+    "153": "BR-6028",
+    "8663": "BRAS-3 (RS-10)",
+    "7075": "Broadband Global Area Network (BGAN)",
+    "7630": "Canadian Meteor Orbit Radar (CMOR)",
+    "6013": "CAS-4A/B Satellite Telemetry",
+    "5715": "CBET",
+    "2213": "CCIR 493-4 Selcall",
+    "2066": "CCIR Selcall",
+    "2073": "CCITT",
+    "3996": "CDMA2000 (3G physical layer)",
+    "6926": "CDMA420",
+    "6855": "Chilean Naval Time Signal",
+    "5630": "China digital radio (CDR)",
+    "7257": "Chinese 'Foghorn' OTH radar",
+    "7924": "Chinese 160kHz-wide OTH radar",
+    "7474": "Chinese 30-tone OFDM modem",
+    "656": "Chinese 4+4",
+    "2638": "Chinese Firedrake Jammer",
+    "3838": "Chinese Multitonal Jammer",
+    "7772": "Chinese-64 MFSK",
+    "8433": "Chinese/Asian radio \"MDC1200\"",
+    "3212": "CHIP",
+    "2060": "CHU",
+    "1210": "CIS 3x100 VFT",
+    "1214": "CIS 3x144 VFT",
+    "1207": "CIS 3xBaudot-50 VFT",
+    "7662": "CIS FTM-4",
+    "7340": "CIS MFSK-11",
+    "3437": "CIS MFSK-16 XPA2",
+    "7162": "CIS MFSK-16 XPB",
+    "1530": "CIS MFSK-20 XPA",
+    "7294": "CIS MFSK-21-13",
+    "2935": "CIS MFSK-68",
+    "1570": "CIS OFDM HDR Modem",
+    "8671": "CIS OFDM-121",
+    "7653": "CIS W-MFSK-17",
+    "660": "CIS-11",
+    "1581": "CIS-112",
+    "938": "CIS-12",
+    "2041": "CIS-1200 (T-230-1A 'Mahovik')",
+    "1664": "CIS-128",
+    "1229": "CIS-1280",
+    "943": "CIS-14",
+    "948": "CIS-16",
+    "1574": "CIS-20",
+    "1226": "CIS-300",
+    "689": "CIS-3000",
+    "1219": "CIS-36-50",
+    "1223": "CIS-40.5",
+    "2913": "CIS-48",
+    "2457": "CIS-50-50",
+    "1232": "CIS-8181",
+    "6779": "CLOUDSAT Downlink",
+    "627": "CLOVER 2000",
+    "2416": "CLOVER 2500",
+    "2389": "CLOVER-I",
+    "631": "CLOVER-II",
+    "6487": "Cobra Dane",
+    "640": "Codan Data Modem",
+    "521": "CODAR",
+    "6847": "COFDMTV",
+    "3388": "Coherent BPSK",
+    "3389": "Coherent CW",
+    "1742": "CompuLert",
+    "1236": "Contestia",
+    "2095": "Continuous Tone-Coded Squelch System (CTCSS)",
+    "6825": "Contrôle de vitesse par balises (KVB)",
+    "691": "Coquelet",
+    "6771": "CORIOLIS Tactical Direct Broadcast",
+    "1250": "CRY2001 Voice Scrambler",
+    "6551": "Cuban Jammer",
+    "2903": "CV-786",
+    "166": "D-STAR",
+    "2875": "Datawell Buoy HF Link",
+    "5637": "DB0UPB research beacon",
+    "1254": "DCF77",
+    "3904": "Delfi-C3 Telemetry",
+    "876": "DeltaFix",
+    "4549": "Denso 4EA Key Fob",
+    "5485": "DFM-09",
+    "2473": "Differential Global Positioning System (DGPS)",
+    "6418": "Digisonde",
+    "109": "Digital Audio Broadcasting (DAB)",
+    "355": "Digital Audio Broadcasting Plus (DAB+)",
+    "2421": "Digital Dispatch Systems MDT",
+    "1727": "Digital Enhanced Cordless Telecommunications (DECT)",
+    "1739": "Digital Mobile Radio (DMR)",
+    "1731": "Digital Multimedia Broadcasting (DMB)",
+    "6728": "Digital NBTV",
+    "1738": "Digital Private Mobile Radio (dPMR)",
+    "115": "Digital Radio Mondiale (DRM)",
+    "6584": "Digital Radio Mondiale Plus (DRM+)",
+    "8574": "Digital Video Broadcasting — Cable (DVB-C)",
+    "8568": "Digital Video Broadcasting — Satellite (DVB-S)",
+    "206": "Digital Video Broadcasting — Terrestrial (DVB-T)",
+    "6512": "Digital-Coded Squelch (DCS)",
+    "5999": "DisplayPort Interference",
+    "870": "Distress Radiobeacon (Analog)",
+    "1552": "Distress Radiobeacon (Digital)",
+    "195": "Distributed Power Unit (DPU)",
+    "832": "DominoEX",
+    "3227": "DominoF",
+    "1257": "Driftnet Buoy Radio Beacon",
+    "2309": "Dual Tone Multi Frequency (DTMF)",
+    "5454": "Duga radar",
+    "2986": "DUP-ARQ",
+    "2989": "DUP-ARQ-2",
+    "2992": "DUP-FEC-2",
+    "5691": "EasyPal Digital SSTV",
+    "8560": "EBRO S800 keyfob",
+    "420": "ECG Telemetry",
+    "2199": "EEA",
+    "2548": "EFR Teleswitch",
+    "2102": "EIA",
+    "5607": "Electric Fence Remote Control",
+    "5821": "ELEKTRO-L GGAK-E Direct Broadcast",
+    "1536": "Emergency Alert System (EAS)",
+    "4134": "Emergency Managers Weather Information Network (EMWIN) - Repeater",
+    "194": "End of Train Device (EOTD)",
+    "82": "Enhanced Digital Access Communications System (EDACS)",
+    "6601": "Ethernet Over Powerline",
+    "2260": "EURO",
+    "4955": "Eurobalise downlink",
+    "335": "European Radio Message System (ERMES)",
+    "7985": "F03 numbers station",
+    "7912": "F07 number station",
+    "3073": "FEC-A",
+    "6619": "Federal Signal Modem-MSK",
+    "2264": "FLASH-OFDM",
+    "203": "FLEX",
+    "94": "FM Broadcast Radio",
+    "6711": "FM NBTV",
+    "2247": "FreeDV COHPSK",
+    "6398": "FreeDV plus Video",
+    "2246": "Frequency Division Multiplex Digital Voice (FDMDV)",
+    "4965": "Friedland Libra+ 48249SL wireless doorbell",
+    "867": "FSK441",
+    "3721": "FSQ",
+    "7854": "FST4",
+    "6885": "FST4W",
+    "5624": "FT4",
+    "4702": "FT8",
+    "161": "FUNcube-1 Telemetry",
+    "6993": "Futuba RC Controller",
+    "1291": "G-TOR",
+    "2774": "Gandalf MDT",
+    "8044": "GK-2A LRIT ( Low-Rate Image Transmission )",
+    "1743": "Glenayre Paging Link",
+    "1290": "Globe Wireless HF Network",
+    "3933": "GM2100 (R&S)",
+    "429": "GMDSS Digital Selective Calling",
+    "6997": "GOES CDA Telemetry",
+    "6322": "GOES Data Collection System (DCS)",
+    "6610": "GOES High Rate Information Transmission (HRIT)",
+    "7035": "GOES Rebroadcast (GRB)",
+    "3085": "Golay Paging (GSC)",
+    "6046": "Gonets",
+    "7755": "Google Pixel Interference",
+    "5395": "GRAVES",
+    "1997": "Graw DFM-06 Weather Balloon (Radiosonde)",
+    "5597": "GRAW DFM-09 Weather Balloon (Radiosonde)",
+    "6536": "Graw DFM-17 (Radiosonde)",
+    "4935": "Grimeton Radio (SAQ)",
+    "5993": "Ground-Based Augmentation System (GBAS)",
+    "5753": "GYN2 GBR",
+    "1298": "HC-265 Voice Scrambler",
+    "1305": "HC-ARQ",
+    "4049": "HD Radio (AM)",
+    "3943": "HD Radio (FM)",
+    "5823": "HDMI RFI Clock",
+    "1309": "Hellschreiber",
+    "7221": "HF trading link '120 Hz FMCW idle tone'",
+    "3567": "HFGCS (High Frequency Global Communications System)",
+    "2679": "High Frequency Active Auroral Research Program (HAARP)",
+    "2958": "High Frequency Data and Voice Link (HFDVL)",
+    "137": "High Frequency Data Link (HFDL)",
+    "5325": "High Power Auroral Stimulation (HIPAS)",
+    "6940": "High Resolution Data (HRD)",
+    "2623": "High Speed USB Noise",
+    "3119": "HNG-FEC",
+    "5867": "Hoffman Broadfield Signpost AVM System",
+    "6899": "Horus Binary 4FSK - v2",
+    "3975": "HORYU-4 Telemetry",
+    "5242": "HP Laptop",
+    "873": "HyperFix",
+    "4691": "Hyundai Mobis RKE-4F16 Key Fob",
+    "2276": "ICAO Selcal",
+    "6009": "ICARUS (International Cooperation for Animal Research Using Space)",
+    "6646": "ICV",
+    "192": "ILS Marker Beacon",
+    "5171": "IMet-1 RS Radiosonde",
+    "1953": "Improved Automatic Link Set-up (ALIS-2)",
+    "7361": "Induction cooker interference",
+    "7768": "Industrial key opener",
+    "3277": "Inmarsat Aero",
+    "4153": "Inmarsat IsatM2M",
+    "3143": "Inmarsat-C TDM",
+    "4017": "Inmarsat-D(D+) Downlink",
+    "5992": "Instrument Landing System",
+    "158": "Integrated Digital Enhanced Network (iDEN)",
+    "2162": "Integrated Services Digital Broadcasting—Terrestrial (ISDB-T)",
+    "2849": "Interoperable Electronic Train Management System (I-ETMS)",
+    "4860": "Ionized Meteor Trails",
+    "191": "Ionosonde",
+    "2056": "IRA-ARQ",
+    "8606": "Iranian 'Bubble' Jammer",
+    "2900": "Iranian Navy QPSK Modem",
+    "3466": "Iridium",
+    "6833": "IS-54 D-AMPS",
+    "6622": "IsatData Pro",
+    "1329": "ISCAT",
+    "174": "ISM Band device",
+    "236": "ISM Band Weather sensor",
+    "1874": "Israeli Intelligence VFT",
+    "3034": "Israeli Navy Hybrid Modem (188-110 MOD)",
+    "1846": "Israeli VFT",
+    "212": "Japan Military 8-Channel FSK",
+    "128": "Japanese Slot Machine (XSL)",
+    "5204": "Jim Creek (NLK)",
+    "1667": "Jindalee Operational Radar Network (JORN)",
+    "3716": "JJY",
+    "6283": "John Deere RTK Radio 450",
+    "5775": "JS8",
+    "7532": "JT4",
+    "368": "JT65",
+    "1342": "JT6M",
+    "1348": "JT9",
+    "1351": "JTMS",
+    "8167": "Kenwood FleetSync",
+    "1935": "KG-STV",
+    "6786": "Kia SVI-JFRGE04 Key Fob",
+    "1856": "Kiwi",
+    "7916": "KY57/58 voice encryption",
+    "6092": "Land Rover Discovery 4 Car Key",
+    "3232": "Lentus",
+    "6052": "LEOSAR Downlink",
+    "2652": "Lightning Sferics",
+    "542": "Link-11",
+    "4045": "Link-11 (UHF)",
+    "5967": "Lockheed Martin LMS-6 (Radiosonde)",
+    "4172": "Logic Trunked Radio (LTR)",
+    "6775": "Logitech(R) Wireless Mouse+Keyboard Signal",
+    "205": "LoJack",
+    "6493": "LoRa",
+    "1356": "LORAN",
+    "8752": "Low Frequency Bicycle Computer Sensor",
+    "2722": "Low Rate Picture Transmission (LRPT)",
+    "8584": "LRS restaurant pager",
+    "7048": "LTE420 MCX",
+    "6504": "M17 RF Protocol",
+    "6912": "M20 Radiosonde",
+    "8715": "Magnetron (microwave owen)",
+    "3479": "Marconi Selenia 25-Tone Modem",
+    "5707": "Mazda SKE126-01 Key Fob",
+    "1765": "Mazielka (X06)",
+    "3134": "MD-522",
+    "3123": "MD-674",
+    "4683": "MDC-4800",
+    "5262": "MDC1200",
+    "4946": "Meteomodem M10 Weather Balloon (Radiosonde)",
+    "6614": "Meteomodem PilotSonde Weather Balloon",
+    "6742": "METEOR-M High Resolution Picture Transmission (HRPT)",
+    "4021": "Meteosat WEFAX",
+    "6749": "METOP Advanced High Resolution Picture Transmission (AHRPT)",
+    "5430": "MFJ-269C Antenna SWR Analyzer",
+    "4819": "Microsonde Mark II Weather Balloon - LORAN-C signal (Radiosonde)",
+    "8722": "Microwave motion sensor (doppler radar module)",
+    "1828": "MIL-STD-110-342",
+    "1678": "MIL-STD-188-110 Appendix A 16-Tone",
+    "1677": "MIL-STD-188-110 Appendix B 39-Tone",
+    "1660": "MIL-STD-188-110 Serial",
+    "4814": "Milstar",
+    "2760": "MMP-4800",
+    "204": "MOBITEX",
+    "2206": "MODAT",
+    "1831": "Modernised High Frequency Communications System (MHFCS)",
+    "7588": "Monaco Enterprises MAAP Fire Alarm",
+    "6972": "MONITOR-2(RS39S)",
+    "567": "Morse Code (CW)",
+    "5503": "Motorola ASTRO 25 HPD Air Interface",
+    "5679": "Motorola MOSCAD SCADA telemetry",
+    "5032": "Motorola SECURENET",
+    "78": "Motorola Type II",
+    "8349": "MPDA",
+    "76": "MPT 1327",
+    "4204": "MPT1394 Keyfob",
+    "6883": "MRZ-3MK Weather Balloon (radiosonde)",
+    "6566": "MRZ-N1 Weather Balloon (radiosonde)",
+    "7622": "MSF",
+    "5934": "MSK144",
+    "1362": "MSM-1250 Modem",
+    "1370": "MT63",
+    "200": "Multi Frequency Shift Keying (MFSK)",
+    "2174": "Multiple sub-Nyquist Sampling Encoding (MUSE)",
+    "2175": "Multiplexed Analogue Components (MAC)",
+    "259": "Multitone Paging",
+    "2172": "Narrow-Bandwidth Television (NBTV)",
+    "2270": "NATEL",
+    "5267": "National Public Alerting System (NPAS)",
+    "5094": "NB-IOT",
+    "1728": "Near Field Communication (NFC)",
+    "6796": "Near Instantaneous Companded Audio Multiplex (NICAM)",
+    "211": "Next Generation Digital Narrowband (NXDN)",
+    "436": "NFM Voice",
+    "180": "Nissan Car Key",
+    "8774": "Nissan Qashqai Keyless Entry LF (Intelligent Key)",
+    "4850": "NML",
+    "4718": "NOAA Direct Sounder Broadcast (DSB)",
+    "6758": "NOAA ITOS High Resolution Picture Transmission (HRPT)",
+    "4730": "NOAA POES High Resolution Picture Transmission (HRPT)",
+    "3433": "Nokia Adaptive Message Terminal",
+    "1391": "Non-Directional Beacon (NDB)",
+    "2890": "North Korean Diplo FSK",
+    "2912": "North Korean Diplo PSK",
+    "7568": "North Korean noise jammer",
+    "7042": "North Korean Siren Jammer",
+    "4864": "NOV",
+    "4848": "NPM",
+    "2158": "NTSC Broadcast",
+    "4852": "NWC",
+    "6724": "OFDM NBTV",
+    "504": "Olivia",
+    "4783": "One Beep, Two Beeps",
+    "6161": "OOK RC Car Remote Control",
+    "1737": "OpenSky",
+    "380": "OpenWay CENTRON Smart-Meter",
+    "3807": "OPERA Beacon and Data",
+    "188": "Orbcomm",
+    "5065": "OrbComm Mobile Telephony",
+    "8372": "OTP-2 Satellite Musical Beacon",
+    "7957": "P03 numbers station",
+    "7933": "P07 numbers station",
+    "955": "PACKET",
+    "887": "PACTOR I",
+    "895": "PACTOR II",
+    "912": "PACTOR III",
+    "917": "PACTOR IV",
+    "7894": "Pager (POCSAG 1200)",
+    "107": "PAL Broadcast",
+    "2370": "Panther-H Modem",
+    "3220": "PAX",
+    "140": "Phase Shift Keying (PSK)",
+    "7485": "PI4",
+    "690": "Piccolo",
+    "442": "PLUTO II OTH Radar",
+    "67": "POCSAG",
+    "8396": "Podsolnukh 'Sunflower' Radar",
+    "3151": "POL-ARQ",
+    "2831": "Polish Intelligence 100bd 625Hz FSK",
+    "156": "Portable Traffic Lights",
+    "1732": "Positive Train Control (PTC)",
+    "7761": "Possible quarry telemetry",
+    "1866": "PRC-16",
+    "6560": "Primary Aeronautical Surveillance Radar",
+    "1985": "Primex Wireless Time Sync",
+    "6787": "PROBA 1/2 Downlink",
+    "61": "Project 25 (P25)",
+    "6626": "ProVoice",
+    "5420": "PSK Paging link",
+    "3166": "PSK-AM",
+    "3235": "PSK2K",
+    "146": "Pulse Coded Modulated (PCM) RC Toy",
+    "2220": "Pursuit Wireless Car Key",
+    "3410": "Q-MAC HF Modem",
+    "3405": "Q15X25",
+    "7872": "Q65",
+    "6639": "QO-100-modem",
+    "3329": "Quadcopter Telemetry Signal",
+    "8333": "Quansheng UVK5 Digital Text Message",
+    "3421": "RAC-ARQ",
+    "7702": "Radar altimeter",
+    "4119": "Radio Data Link Access Procedure (RD-LAP)",
+    "2193": "Radio Data System (RDS)",
+    "6370": "Radio Navigation Satellite System (RNSS)",
+    "6144": "Radio Telephone Network C (C-Netz)",
+    "197": "Radio Teletype (RTTY)",
+    "8613": "Radio-relay link",
+    "4875": "Radioteknicheskaya Systema Dalney Navigatsii (RSDN-20)",
+    "6526": "Rain Master sprinkler control",
+    "754": "RBU",
+    "6650": "RDL VLF",
+    "134": "Redundant Digital File Transfer (RDFT)",
+    "535": "ReFLEX",
+    "5803": "Relocatable Over-the-Horizon Radar (ROTHR)",
+    "7619": "RF heating and welding interference",
+    "1736": "RFID",
+    "4776": "Road Coordination/Maintenance Telemetry",
+    "3201": "Robust PACKET",
+    "1394": "ROS",
+    "3187": "RTTYM",
+    "3265": "RUM-FEC",
+    "3272": "RUM-MOI FEC",
+    "704": "Russian Diplo VFT PSK 64Bd",
+    "2814": "Russian Intelligence 200bd 1000Hz FSK (F06)",
+    "8320": "Russian Intelligence 200bd 500Hz FSK (F01)",
+    "7387": "Russian MFSK-OFDM-chirp hybrid modem",
+    "8612": "Russian military 20bd 7kHz FSK",
+    "6804": "Russian OTH 'Ghadir' type",
+    "6634": "Russian overhead power line telemetry system",
+    "1596": "RWM",
+    "6764": "S-Band Jammer",
+    "1401": "Saab Grintek MHF-50 MFSK Modem",
+    "8323": "Samsung Washing Machine Interference",
+    "4937": "SAS/SRC",
+    "4953": "SAS2",
+    "4950": "SAS3",
+    "5580": "Schneider Trio E-Series Modem",
+    "2171": "SECAM",
+    "6564": "Secondary surveillance radar (SSR)",
+    "8159": "SECOR 4 (EGRS 4)",
+    "5749": "Sensus Water meter (Acquisition units)",
+    "414": "Serdolik",
+    "4962": "SHR",
+    "3290": "SI-ARQ",
+    "3291": "SI-FEC",
+    "7395": "Siemens 1.5T MRI Scanner",
+    "673": "Siemens CHX-200 FSK Modem",
+    "3621": "SIGFOX",
+    "7506": "SIMONe meteor radar",
+    "6677": "Single frequency russian overhead power line telemetry system",
+    "102": "Single Sideband Voice",
+    "838": "SiriusXM Satellite Radio",
+    "296": "SITOR-A",
+    "620": "SITOR-B",
+    "7499": "SKiYMET meteor radar",
+    "6814": "SkyOFDM",
+    "960": "Slow-Scan Television (SSTV)",
+    "5947": "Smart TV Interference",
+    "6003": "Snap Circuits SCROV-10 Remote Control",
+    "5403": "SNOTEL (Snow Telemetry)",
+    "8141": "SOLRAD 7B (COSPAR ID: 1965-016D)",
+    "1525": "Sonne",
+    "6099": "Soyuz-MS spacecraft telemetry",
+    "2013": "SP-14 (XP)",
+    "6961": "Spectrum Painting",
+    "3296": "SPREAD",
+    "1622": "STANAG 4197",
+    "118": "STANAG 4285",
+    "1627": "STANAG 4415",
+    "1414": "STANAG 4481",
+    "1418": "STANAG 4529",
+    "1694": "STANAG 4539",
+    "3300": "STANAG 5065",
+    "430": "STP403 Bus PIT System",
+    "5274": "SuperDARN (Super Dual Auroral Radar Network)",
+    "4317": "Supervisory Control And Data Acquisition (SCADA)",
+    "3314": "SWED-ARQ",
+    "7349": "Switching Electronic Interference",
+    "6574": "Tactical Air Navigation System (TACAN)",
+    "1836": "TDF",
+    "73": "Terrestrial Trunked Radio (TETRA)",
+    "558": "Tetrapol",
+    "4323": "Thales SALAMANDRE (HFXL)",
+    "2030": "Thales Système 3000 HF Modem",
+    "2036": "Thales Système 3000 Skyhopper",
+    "2023": "Thales Système 3000 Voice Scrambler",
+    "6530": "The 'Air Horn'",
+    "5588": "The Alarm",
+    "2561": "The Buzzer (ZhUOZ MDZhB UZB76)",
+    "4247": "The Goose",
+    "5481": "The Pip",
+    "1421": "THOR",
+    "1443": "THROB",
+    "208": "Tire Pressure Monitoring System (TPMS)",
+    "6111": "Total Access Communication System (TACS)",
+    "177": "Toyota Car Key",
+    "6703": "Traffic Light Control R09",
+    "5988": "Transit 5B-5",
+    "3357": "TT2300",
+    "8580": "TV Satellite Telemetry",
+    "3349": "TWINPLEX",
+    "2503": "UHF Vehicle Location System",
+    "2838": "UIC 751-3",
+    "4074": "UK AM Data System (UK-AMDS)",
+    "3106": "UK GOV MIL WINDRM51",
+    "6424": "Ultra Low Latency (ULL) Electronic Trading Network",
+    "697": "UTC (Coordinated Universal Time) Time Standard",
+    "3682": "Vaisala RS41-SG Weather Balloon (Radiosonde)",
+    "5118": "Vaisala RS80",
+    "3740": "Vaisala RS92-KL Weather Balloon (Radiosonde)",
+    "70": "Vaisala RS92-SGP Weather Balloon (Radiosonde)",
+    "6289": "VARA HF",
+    "2315": "VDEW",
+    "3573": "Vehicle Counting System",
+    "2781": "VEZHA-S",
+    "171": "VHF Data Link - Mode 2 (VDL-M2)",
+    "572": "VHF Omnidirectional Range (VOR)",
+    "3303": "Vietnamese Siren Jammer",
+    "3362": "VISEL",
+    "4647": "Visonic MCT-201",
+    "3224": "VOICE",
+    "207": "Voice Inversion Scrambling",
+    "99": "WEFAX",
+    "6667": "Wettersonde E084 (Radiosonde)",
+    "7714": "Whelen DTMF",
+    "1733": "WiMAX",
+    "579": "WinDRM",
+    "5472": "Wireless Hydrophone System (WHS)",
+    "7578": "Wireless Smart Utility Networks (Wi-SUN)",
+    "3581": "Wireless Temperature Sensor",
+    "5137": "WSPR",
+    "5207": "WWVB",
+    "7057": "XMPP trials",
+    "1587": "Yachta T-219 Voice Scrambler",
+    "5083": "Yaesu System Fusion",
+    "3441": "Yugoslavian 16-Tone Modem",
+    "3450": "Yugoslavian 20-Tone Modem",
+    "8250": "Zaliv52",
+    "8414": "Zigbee",
+    "2344": "ZVEI Selcall",
+    "6671": "Électricité de France HNZ"
 }

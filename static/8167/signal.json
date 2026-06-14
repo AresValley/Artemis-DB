@@ -1,0 +1,48 @@
+{
+    "pageid": "8167",
+    "title": "Kenwood FleetSync",
+    "spectrum": {
+        "filename": "Fleetsync.png",
+        "url": "https://www.sigidwiki.com/images/2/26/Fleetsync.png"
+    },
+    "audio": {
+        "filename": null,
+        "url": null
+    },
+    "category": [
+        "Digital",
+        "Analogue"
+    ],
+    "frequency": [
+        {
+            "value": 150000000,
+            "description": ""
+        },
+        {
+            "value": 850000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 25000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "FSK",
+            "description": "Frequency-Shift Keying"
+        }
+    ],
+    "mode": [],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ],
+    "short description": "FleetSync is a manufacturer specific signaling standard which includes a number of features: unit ID, status, emergency button, inhibit, status check, GPS, and selective calling.",
+    "description": "**Kenwood FleetSync** is a manufacturer specific signaling standard which includes a number of features: unit ID, status, emergency button, inhibit, status check, GPS, and selective calling."
+}

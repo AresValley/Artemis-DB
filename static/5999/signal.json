@@ -1,0 +1,47 @@
+{
+    "pageid": "5999",
+    "title": "DisplayPort Interference",
+    "spectrum": {
+        "filename": "DP interference.png",
+        "url": "https://www.sigidwiki.com/images/a/a7/DP_interference.png"
+    },
+    "audio": {
+        "filename": "SDRSharp 20200916 023725Z 380480000Hz AF.mp3",
+        "url": "https://www.sigidwiki.com/images/6/66/SDRSharp_20200916_023725Z_380480000Hz_AF.mp3"
+    },
+    "category": [
+        "Interfering"
+    ],
+    "frequency": [
+        {
+            "value": 381500000,
+            "description": ""
+        },
+        {
+            "value": 159557500,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 250000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [],
+    "mode": [
+        {
+            "value": "RAW",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ],
+    "short description": "DisplayPort is a digital standard used to carry video and audio data to computer monitors. It emits RF interference in the 300-400 MHz range when in use.",
+    "description": ""
+}

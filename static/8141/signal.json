@@ -1,0 +1,52 @@
+{
+    "pageid": "8141",
+    "title": "SOLRAD 7B (COSPAR ID: 1965-016D)",
+    "spectrum": {
+        "filename": "Solrad7bwf.png",
+        "url": "https://www.sigidwiki.com/images/2/23/Solrad7bwf.png"
+    },
+    "audio": {
+        "filename": "Solrad7bmodulationaudio.mp3",
+        "url": "https://www.sigidwiki.com/images/6/69/Solrad7bmodulationaudio.mp3"
+    },
+    "category": [
+        "Satellite",
+        "Analogue"
+    ],
+    "frequency": [
+        {
+            "value": 136.8,
+            "description": ""
+        },
+        {
+            "value": 136806000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 6000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "AM",
+            "description": "Amplitude Modulation"
+        },
+        {
+            "value": "IRIG",
+            "description": "Inter-range instrumentation group timecodes"
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [],
+    "short description": "SOLRAD-7B is one of the many \"zombie satellites\" in orbit and is an artifact of the mid 1960's US space program. It occasionally will become active again when illuminated by sunlight due to the satellite bus having several small, semi-circular solar panels.",
+    "description": "**SOLRAD-7B** (NORAD ID: *1291*) is one of the 10 satellites of it's type that reached orbit. The SOLRAD series was created to measure radiation as a result of solar activity in space, and to help determine what was needed to protect both humans and spacecraft, while also being utilized by NRO under the cover name *GRAB* (Galactic Radiation and Background) to record the transmitted wavelength of Soviet anti-aircraft radar sites to optimize bomber flight paths during the cold war. It is a roughly 1 foot, spherical satellite carrying several small solar panels with 2 antennas on either side. When it gains enough power from the sun, it will begin transmitting a relatively strong center carrier as well as weak sidebands that are likely where modulated data should be. \n\n\"The telemetry is a multiplex of six [IRIG](https://en.wikipedia.org/wiki/IRIG_timecode)-106 7.5% bandwidth sub carrier oscillators, linearly added and amplitude modulate the RF carrier. IRIG 3 (730 Hz centre frequency) and IRIG 4 (960 Hz cf) vary in step over 3.6 second with 8 periods of 450 millisecond each. IRIG 5 (1300 Hz cf), IRIG 6 (1700 Hz cf) and IRIG 7 (2300 Hz cf) are all fixed at their lower deviation limit of 1202 Hz, 1572 Hz and 2127 Hz respectively. IRIG 8 (3000 Hz) drifts from the the lower limit, 2775 Hz, to the upper limit, 3225 Hz, over time.\" - from [Mike Kenny's site](https://emitters.space/Emitters.html#2).\n\nOn Sunday May 31st, 2026, at around 1:15 PM EST, SOLRAD 7B was [observed to be partially modulating data](https://imgur.com/a/pWX6RyK) onto several of its subcarriers for around 15-20 seconds.\n \nIn comparison to period audio recordings from the *\"Sounds from Space 1962-1966\"* segment at the website of [Mattias Bopp](https://www.dd1us.de/), this appears to represent that the telemetry system is still partially functional - albeit missing parts from other segments of the system that are still only carrier tones. Observations [like this one from SatNOGS](https://network.satnogs.org/observations/14111733/) show similar activity on these carriers."
+}

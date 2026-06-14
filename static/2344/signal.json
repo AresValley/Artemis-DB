@@ -1,0 +1,52 @@
+{
+    "pageid": "2344",
+    "title": "ZVEI Selcall",
+    "spectrum": {
+        "filename": "zvei-1 5-tone.jpg",
+        "url": "https://www.sigidwiki.com/images/b/b3/Zvei-1_5-tone.jpg"
+    },
+    "audio": {
+        "filename": "zvei-1 5 tone.mp3",
+        "url": "https://www.sigidwiki.com/images/f/f1/Zvei-1_5_tone.mp3"
+    },
+    "category": [
+        "Analogue"
+    ],
+    "frequency": [
+        {
+            "value": 30000000,
+            "description": ""
+        },
+        {
+            "value": 800000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 5000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "FSK",
+            "description": "Frequency-Shift Keying"
+        }
+    ],
+    "mode": [
+        {
+            "value": "NFM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ],
+    "short description": "ZVEI is a family of selcall modes defined by the Zentralverband der Electrotechnischen Industrie in Germany. Selcall modes include ZVEI-1, ZVEI-2, ZVEI-3, PZVEI, DZVEI, PDZVEI and ZVEI-VDEW.",
+    "description": "**ZVEI** is a family of selcall modes defined by the ZVEI (Zentralverband Elektrotechnik- und Elektronikindustrie e.V.) in Germany. Selcall modes include ZVEI-1, ZVEI-2, ZVEI-3, PZVEI, DZVEI, PDZVEI and ZVEI-VDEW. Each varies only in the frequency digit encoding.\n\nSelcall (selective calling) is a type of squelch protocol used in radio communications systems, in which transmissions include a brief burst of sequential audio tones. Receivers that are set to respond to the transmitted tone sequence will open their squelch, while others will remain muted.\n \nThe different parameters for each mode can be seen in the following table. Tone width is how long each tone lasts."
+}

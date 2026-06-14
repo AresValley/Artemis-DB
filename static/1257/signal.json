@@ -1,0 +1,60 @@
+{
+    "pageid": "1257",
+    "title": "Driftnet Buoy Radio Beacon",
+    "spectrum": {
+        "filename": "DriftnetBuoyDrift.jpg",
+        "url": "https://www.sigidwiki.com/images/d/d8/DriftnetBuoyDrift.jpg"
+    },
+    "audio": {
+        "filename": "GLFdrift.mp3",
+        "url": "https://www.sigidwiki.com/images/d/d6/GLFdrift.mp3"
+    },
+    "category": [
+        "Marine"
+    ],
+    "frequency": [
+        {
+            "value": 1600000,
+            "description": ""
+        },
+        {
+            "value": 2850000,
+            "description": ""
+        },
+        {
+            "value": 4000000,
+            "description": ""
+        },
+        {
+            "value": 28000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 1,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "OOK",
+            "description": "On-Off Keying"
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ],
+    "short description": "Driftnet Radio Buoys are extensively used by fishing boats operating in open seas and oceans for collecting long fishing lines or fishing nets, with the assistance of a radio direction finder",
+    "description": "**Driftnet Radio Buoys (DRB)** are extensively used by fishing boats operating in open seas and oceans for collecting long fishing lines or fishing nets, with the assistance of a radio direction finder\n \nDRB's use either Morse Code (CW) or a variety of dots and tones for uniquely identifying them. DRB's have a distinctive trait of long pauses and long preamble tones before transmitting their unique identifier. In addition, there is significant frequency drift that can be seen in some beacons; Driftnet buoys use batteries, so when the battery voltage starts to drop, frequency drift occurs in the transmission."
+}

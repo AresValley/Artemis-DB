@@ -1,0 +1,53 @@
+{
+    "pageid": "704",
+    "title": "Russian Diplo VFT PSK 64Bd",
+    "spectrum": {
+        "filename": "CIS_unk.jpg",
+        "url": "https://www.sigidwiki.com/images/3/3b/CIS_unk.jpg"
+    },
+    "audio": {
+        "filename": "CIS_3xPSK_tfc.ogg",
+        "url": "https://www.sigidwiki.com/images/8/80/CIS_3xPSK_tfc.ogg"
+    },
+    "category": [
+        "Digital",
+        "Numbers Stations"
+    ],
+    "frequency": [
+        {
+            "value": 4022000,
+            "description": ""
+        },
+        {
+            "value": 23131000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 2500,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "PSK",
+            "description": "Phase-Shift Keying"
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Russia",
+            "description": ""
+        }
+    ],
+    "short description": "Russian Diplomatic 3 channel VFT PSK running at 64 Bd. Enigma M42 designation",
+    "description": "**Russian Diplomatic 3 channel VFT** PSK running at 64 Bd. Enigma M42 designation. Also known as CIS 3xPSK. Using 3 channels of BPSK."
+}

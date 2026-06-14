@@ -1,0 +1,65 @@
+{
+    "pageid": "3405",
+    "title": "Q15X25",
+    "spectrum": {
+        "filename": "Q15X25 2400.jpg",
+        "url": "https://www.sigidwiki.com/images/d/dc/Q15X25_2400.jpg"
+    },
+    "audio": {
+        "filename": "Q15X25.mp3",
+        "url": "https://www.sigidwiki.com/images/8/8e/Q15X25.mp3"
+    },
+    "category": [
+        "Amateur Radio",
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 3585000,
+            "description": ""
+        },
+        {
+            "value": 7035000,
+            "description": ""
+        },
+        {
+            "value": 14109000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 1950,
+            "description": ""
+        },
+        {
+            "value": 2350,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "PSK",
+            "description": "Phase-Shift Keying"
+        },
+        {
+            "value": "OFDM",
+            "description": "Orthogonal Frequency-Division Multiplexing"
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ],
+    "short description": "Q15X25, also known as NEWQPSK, is an experimental amateur radio packet modem developed by Pawel Jalocha SP9VRC. Q15X25 is a OFDM QPSK implementation of the AX.25 Packet protocol used in PACKET.",
+    "description": "**Q15X25**, also known as **NEWQPSK**, is an experimental amateur radio packet modem developed by Pawel Jalocha SP9VRC. Q15X25 is an OFDM QPSK implementation of the AX.25 Packet protocol used in [PACKET](https://www.sigidwiki.com/wiki/PACKET). Q15X25 uses ARQ and FEC and performs just like a packet radio terminal."
+}

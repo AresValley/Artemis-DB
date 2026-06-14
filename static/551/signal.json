@@ -1,0 +1,117 @@
+{
+    "pageid": "551",
+    "title": "4G LTE Network",
+    "spectrum": {
+        "filename": "LTE_Thumb.jpg",
+        "url": "https://www.sigidwiki.com/images/9/99/LTE_Thumb.jpg"
+    },
+    "audio": {
+        "filename": "LTE_OR_10_downlink.mp3",
+        "url": "https://www.sigidwiki.com/images/e/e0/LTE_OR_10_downlink.mp3"
+    },
+    "category": [
+        "Digital",
+        "Commercial"
+    ],
+    "frequency": [
+        {
+            "value": 3500000000,
+            "description": ""
+        },
+        {
+            "value": 450000000,
+            "description": ""
+        },
+        {
+            "value": 600000000,
+            "description": ""
+        },
+        {
+            "value": 700000000,
+            "description": ""
+        },
+        {
+            "value": 800000000,
+            "description": ""
+        },
+        {
+            "value": 900000000,
+            "description": ""
+        },
+        {
+            "value": 1800000000,
+            "description": ""
+        },
+        {
+            "value": 2100000000,
+            "description": ""
+        },
+        {
+            "value": 2300000000,
+            "description": ""
+        },
+        {
+            "value": 2600000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 20000000,
+            "description": ""
+        },
+        {
+            "value": 1400000,
+            "description": ""
+        },
+        {
+            "value": 3000000,
+            "description": ""
+        },
+        {
+            "value": 5000000,
+            "description": ""
+        },
+        {
+            "value": 10000000,
+            "description": ""
+        },
+        {
+            "value": 15000000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "QAM",
+            "description": "Quadrature Amplitude Modulation"
+        },
+        {
+            "value": "QAM",
+            "description": "Quadrature Amplitude Modulation"
+        },
+        {
+            "value": "QAM",
+            "description": "Quadrature Amplitude Modulation"
+        },
+        {
+            "value": "QPSK",
+            "description": "Quadrature Phase-Shift Keying"
+        }
+    ],
+    "mode": [
+        {
+            "value": "OFDM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ],
+    "short description": "Long Term Evolution Network. Also known as 4G LTE Data and Evolved Universal Terrestrial Radio Access (E-UTRA). Data service for wireless consumer devices.",
+    "description": "**Long Term Evolution Network**. Also known as 4G LTE Data and Evolved Universal Terrestrial Radio Access (E-UTRA). Data service for wireless consumer devices.\n \nLTE uses OFDM (Orthogonal Frequency Division Multiplexing) modulation.\nIn a LTE channel, it is divided into resource blocks. Each resource block is 180kHz in bandwidth. In each of the resource blocks, there are many subcarrier channels which are spaced 15kHz away from each other. The DC subcarrier (blank) is present in the middle to mitigate the effect of LO leakage.\n\nFor a 20MHz channel, there could be up to 1024 subcarriers. The high number of subcarriers will allow for more users to use the network simultaneously. Carrier Aggregation (used in LTE-Advanced) increases the bandwidth further. LTE can be either FDD (Frequency Division Duplex) and TDD (Time Division Duplex) depending on the network configuration."
+}

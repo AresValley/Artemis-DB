@@ -1,0 +1,50 @@
+{
+    "pageid": "3581",
+    "title": "Wireless Temperature Sensor",
+    "spectrum": {
+        "filename": "WTS.png",
+        "url": "https://www.sigidwiki.com/images/c/c9/WTS.png"
+    },
+    "audio": {
+        "filename": "SDRSharp 20160326 002438Z 433992kHz AF Flinders Uni Freezer Telemetry.mp3",
+        "url": "https://www.sigidwiki.com/images/5/5b/SDRSharp_20160326_002438Z_433992kHz_AF_Flinders_Uni_Freezer_Telemetry.mp3"
+    },
+    "category": [
+        "Commercial",
+        "Digital",
+        "Utility"
+    ],
+    "frequency": [
+        {
+            "value": 434000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 150000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "CSS",
+            "description": "Chirp Spread Spectrum"
+        }
+    ],
+    "mode": [
+        {
+            "value": "FM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Australia",
+            "description": ""
+        }
+    ],
+    "short description": "The freezer temperature is requested by a master at regular intervals, and the slave attached to a freezer responds. The communication format appears to be a variant of chirp spread spectrum, (although the spectrum it consumes is quite narrow at ~150 kHz).",
+    "description": "A master sends out requests to individual freezer telemetry units and the slave at the freezer responds with the temperature information. The communication format appears to be a variant of chirp spread spectrum, (although the spectrum it consumes is quite narrow at ~150 kHz). The signal can be observed by FM demodulation where the rising or falling chirp can be seen along with the abrupt changes in frequency. The image below shows an FM demodulated radio capture. The signal in blue is the master sending a request to a slave, black is background noise and red is the response from the slave.\n\nBasically, this is a variant of LoRa modulation, perhaps the page needs updating, as similar digital signals can be observed in many other situations."
+}

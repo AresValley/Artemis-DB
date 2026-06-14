@@ -1,0 +1,56 @@
+{
+    "pageid": "3421",
+    "title": "RAC-ARQ",
+    "spectrum": {
+        "filename": "RAC-ARQ.jpg",
+        "url": "https://www.sigidwiki.com/images/3/37/RAC-ARQ.jpg"
+    },
+    "audio": {
+        "filename": "merod_mode3 266 Bd 800 Hz.mp3",
+        "url": "https://www.sigidwiki.com/images/7/76/Merod_mode3_266_Bd_800_Hz.mp3"
+    },
+    "category": [
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 3000000,
+            "description": ""
+        },
+        {
+            "value": 30000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 1000,
+            "description": ""
+        },
+        {
+            "value": 1300,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "FSK",
+            "description": "Frequency-Shift Keying"
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ],
+    "short description": "RAC-ARQ, also known as MEROD and RACAL-ARQ, is a teleprinter system by Racal, used in MEROD devices. MEROD stands for Message Entry and Read Out Device. Hasn't been seen since 2010.",
+    "description": "**RAC-ARQ**, also known as MEROD and RACAL-ARQ, is a teleprinter system by Racal, used in MEROD devices. MEROD stands for Message Entry and Read Out Device. Hasn't been seen since 2010."
+}

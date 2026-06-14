@@ -1,0 +1,53 @@
+{
+    "pageid": "3227",
+    "title": "DominoF",
+    "spectrum": {
+        "filename": "DominoF.png",
+        "url": "https://www.sigidwiki.com/images/1/15/DominoF.png"
+    },
+    "audio": {
+        "filename": "DominoFs.mp3",
+        "url": "https://www.sigidwiki.com/images/3/38/DominoFs.mp3"
+    },
+    "category": [
+        "Digital",
+        "Amateur Radio"
+    ],
+    "frequency": [
+        {
+            "value": 1838000,
+            "description": ""
+        },
+        {
+            "value": 28080000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 220,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "IFK",
+            "description": "Incremental Frequency Keying"
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ],
+    "short description": "DominoF was the first experimental implementation of the Domino family of IFK modes, developed by Con ZL2AFP. DominoF used dual interleaved tone sets. Superseded by DominoEX.",
+    "description": "**DominoF** was the first experimental implementation of the Domino family of IFK modes, developed by Con Wassilieff ZL2AFP and Murray Greenman ZL1BPU in 2004. DominoF used dual interleaved tone sets. \n\nDominoF had a baudrate of 10.766 Bd, 40 wpm. DominoF only used 16 tones, where [DominoEX](https://www.sigidwiki.com/wiki/DominoEX) and [THOR](https://www.sigidwiki.com/wiki/THOR) used 18."
+}

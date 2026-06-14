@@ -1,0 +1,65 @@
+{
+    "pageid": "6289",
+    "title": "VARA HF",
+    "spectrum": {
+        "filename": "VARA HF.PNG",
+        "url": "https://www.sigidwiki.com/images/f/fd/VARA_HF.PNG"
+    },
+    "audio": {
+        "filename": "VARA HF Sample.ogg",
+        "url": "https://www.sigidwiki.com/images/c/c6/VARA_HF_Sample.ogg"
+    },
+    "category": [
+        "Amateur Radio",
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 54000000,
+            "description": ""
+        },
+        {
+            "value": 1800000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 2750,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "BPSK",
+            "description": "Binary Phase-Shift Keying"
+        },
+        {
+            "value": "PSK",
+            "description": "Phase-Shift Keying"
+        },
+        {
+            "value": "QAM",
+            "description": "Quadrature Amplitude Modulation"
+        },
+        {
+            "value": "FSK",
+            "description": "Frequency-Shift Keying"
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ],
+    "short description": "VARA HF is a sound-card mode used to exchange traffic (Mostly Winlink traffic) on the HF bands",
+    "description": "**VARA HF** is a soundcard modem like ARDOP that can be commonly found on the HF bands exchanging traffic (Winlink). The creator of VARA is EA5HVK. \n\nFree version of VARA HF only allows transfers up to ~180 bps, where as the paid version (70 USD) can allow transfers up to a max theoretical speed of ~8490 bps.\n\nSpeeds:\n\n| | Vara HF 2750Hz (Tactical) | Vara HF 2750Hz (Tactical) | Vara HF 2750Hz (Tactical) | Vara HF 2750Hz (Tactical) | Vara HF 2300Hz (Standard) | Vara HF 2300Hz (Standard) | Vara HF 2300Hz (Standard) | Vara HF 2300Hz (Standard) | Vara HF 500Hz (Narrow) | Vara HF 500Hz (Narrow) | Vara HF 500Hz (Narrow) | Vara HF 500Hz (Narrow) |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| Level | Symbol rate | Carriers | Mod | Net Rate bps | Symbol rate | Carriers | Mod | Net Rate bps | Symbol rate | Carriers | Mod | Net Rate bps |\n| 1 | 23 | 40 | FSK | 18 | 23 | 32 | FSK | 18 | 23 | 11 | FSK | 18 |\n| 2 | 47 | 20 | FSK | 41 | 47 | 16 | FSK | 41 | 47 | 11 | FSK | 41 |\n| 3 | 47 | 20 | FSK | 82 | 47 | 16 | FSK | 82 | 47 | 11 | FSK | 61 |\n| 4 | 94 | 20 | FSK | 175 | 94 | 16 | FSK | 175 | 94 | 2 | BPSK | 88 |\n| 5 | 94 | 3 | 4PSK | 270 | 94 | 3 | 4PSK | 270 | 94 | 2 | 4PSK | 177 |\n| 6 | 94 | 4 | 4PSK | 363 | 94 | 4 | 4PSK | 363 | 94 | 3 | 4PSK | 270 |\n| 7 | 94 | 6 | 4PSK | 549 | 94 | 6 | 4PSK | 549 | 42 | 11 | 4PSK | 441 |\n| 8 | 94 | 8 | 4PSK | 735 | 94 | 8 | 4PSK | 735 | 42 | 11 | 4PSK | 588 |\n| 9 | 94 | 10 | 4PSK | 922 | 94 | 10 | 4PSK | 922 | 42 | 11 | 4PSK | 705 |\n| 10 | 94 | 13 | 4PSK | 1203 | 42 | 49 | 4PSK | 2011 | 42 | 11 | 8PSK | 884 |\n| 11 | 42 | 59 | 4PSK | 2423 | 42 | 49 | 4PSK | 2682 | 42 | 11 | 8PSK | 1060 |\n| 12 | 42 | 59 | 4PSK | 3230 | 42 | 49 | 4PSK | 3219 | 42 | 11 | 16QAM | 1286 |\n| 13 | 42 | 59 | 4PSK | 3877 | 42 | 49 | 8PSK | 4025 | 42 | 11 | 32QAM | 1543 |\n| 14 | 42 | 59 | 8PSK | 4848 | 42 | 49 | 8PSK | 4830 | | | | |\n| 15 | 42 | 59 | 8PSK | 5817 | 42 | 49 | 16QAM | 5872 | | | | |\n| 16 | 42 | 59 | 16QAM | 7074 | 42 | 49 | 32QAM | 7050 | | | | |\n| 17 | 42 | 59 | 32QAM | 8489 | | | | | | | | |"
+}

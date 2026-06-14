@@ -1,0 +1,49 @@
+{
+    "pageid": "6758",
+    "title": "NOAA ITOS High Resolution Picture Transmission (HRPT)",
+    "spectrum": {
+        "filename": "NOAA ITOS HRPT WF.png",
+        "url": "https://www.sigidwiki.com/images/4/4c/NOAA_ITOS_HRPT_WF.png"
+    },
+    "audio": {
+        "filename": "ITOS HRPT Audio.mp3",
+        "url": "https://www.sigidwiki.com/images/3/37/ITOS_HRPT_Audio.mp3"
+    },
+    "category": [
+        "Satellite",
+        "Analogue"
+    ],
+    "frequency": [
+        {
+            "value": 1697500000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 1000000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "FM",
+            "description": "Frequency Modulation"
+        }
+    ],
+    "mode": [
+        {
+            "value": "WFM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ],
+    "short description": "An analog signal broadcast from NOAA ITOS polar satellites that transmitted images from the VHRR radiometer.",
+    "description": "The NOAA ITOS (Improved TIROS Observation Satellite) series of satellites transmit high resolution pictures from the VHRR (main radiometer) and calibration/telemetry data over an **analog** HRPT link. Additionally, the same signal is used to transmit stored data.\n\nThe signal is an analog video signal, FM modulated, encoded over an FM link. The main payload of HRPT is VHRR data composed of two channels in the visible, and infrared spectrum; additionally, telemetry similar to APT is included in the image, and the data are transmitted at 360 lines per minute (LPM). \n\nThis signal is not to be confused with the more modern, digital [HRPT](https://www.sigidwiki.com/wiki/NOAA_POES_High_Resolution_Picture_Transmission_%28HRPT%29) signal used by the ATN (POES) series of satellites, or with the [variant](https://www.sigidwiki.com/wiki/METEOR-M_High_Resolution_Picture_Transmission_%28HRPT%29) used by Russian METEOR-M satellites."
+}

@@ -1,0 +1,48 @@
+{
+    "pageid": "5204",
+    "title": "Jim Creek (NLK)",
+    "spectrum": {
+        "filename": "NLK.PNG",
+        "url": "https://www.sigidwiki.com/images/f/f1/NLK.PNG"
+    },
+    "audio": {
+        "filename": "NLK Signal 10s.mp3",
+        "url": "https://www.sigidwiki.com/images/9/94/NLK_Signal_10s.mp3"
+    },
+    "category": [
+        "Military"
+    ],
+    "frequency": [
+        {
+            "value": 24800,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 300,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "MSK",
+            "description": "Minimum-Shift Keying"
+        }
+    ],
+    "mode": [
+        {
+            "value": "CW",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "United States",
+            "description": ""
+        }
+    ],
+    "short description": "Jim Creek Naval Radio Station is used by the US Navy to transmit commands to distant submarines.",
+    "description": ""
+}

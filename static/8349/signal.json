@@ -1,0 +1,65 @@
+{
+    "pageid": "8349",
+    "title": "MPDA",
+    "spectrum": {
+        "filename": "Mainmpda.png",
+        "url": "https://www.sigidwiki.com/images/d/db/Mainmpda.png"
+    },
+    "audio": {
+        "filename": "MPDA-4x10.mp3",
+        "url": "https://www.sigidwiki.com/images/a/a9/MPDA-4x10.mp3"
+    },
+    "category": [
+        "Digital",
+        "Amateur Radio"
+    ],
+    "frequency": [
+        {
+            "value": 53000000,
+            "description": ""
+        },
+        {
+            "value": 1800000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 2000,
+            "description": ""
+        },
+        {
+            "value": 500,
+            "description": ""
+        },
+        {
+            "value": 1000,
+            "description": ""
+        },
+        {
+            "value": 1500,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "MP‑DASK",
+            "description": "Experimental Multi‑Parallel Differential Amplitude Shift Keying"
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ],
+    "short description": "Experimental Multi‑Parallel Differential Amplitude Shift Keying (MP‑DASK) narrowband data mode for HF/VHF amateur radio text communication, created by amateur radio operator 6L5TNG in the Republic of Korea.",
+    "description": "**MPDA** (short for **Multi-Parallel Differential Amplitude Shift Keying**) is a robust, narrowband digital communication protocol designed for amateur radio text transmission over HF and VHF bands. Developed by amateur radio operator **6L5TNG (Kang Han)** from the Republic of Korea, this protocol specifically utilizes an **Intra-Symbol Differential** modulation scheme to achieve spectral efficiency and exceptional robustness against fading (QSB)."
+}

@@ -1,0 +1,43 @@
+{
+    "pageid": "6003",
+    "title": "Snap Circuits SCROV-10 Remote Control",
+    "spectrum": {
+        "filename": "SCROV-10.png",
+        "url": "https://www.sigidwiki.com/images/b/b5/SCROV-10.png"
+    },
+    "audio": {
+        "filename": "SCROV-10-Audio.mp3",
+        "url": "https://www.sigidwiki.com/images/8/8c/SCROV-10-Audio.mp3"
+    },
+    "category": [
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 27145000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 6000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "ASK",
+            "description": "Amplitude-Shift Keying"
+        }
+    ],
+    "mode": [
+        {
+            "value": "RAW",
+            "description": ""
+        }
+    ],
+    "location": [],
+    "short description": "A remote control transmission from the controller from an Elenco Snap Circuits SCROV-10 kit.",
+    "description": "The remote transmits an idle signal, even when no buttons are being pressed.\nThe remote also has a \"channel\" switch to move between 3 different channels.\n\nChannel A:\n\nChannel B:\n\nChannel C:"
+}

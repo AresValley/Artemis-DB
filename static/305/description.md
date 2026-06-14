@@ -1,1 +1,0 @@
-MRZ-3MK is a Russian weather radiosonde.

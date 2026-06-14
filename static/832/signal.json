@@ -1,0 +1,77 @@
+{
+    "pageid": "832",
+    "title": "DominoEX",
+    "spectrum": {
+        "filename": "DominoEX.png",
+        "url": "https://www.sigidwiki.com/images/0/0d/DominoEX.png"
+    },
+    "audio": {
+        "filename": "DominoEX_11Bd.mp3",
+        "url": "https://www.sigidwiki.com/images/b/b9/DominoEX_11Bd.mp3"
+    },
+    "category": [
+        "Amateur Radio",
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 10142000,
+            "description": ""
+        },
+        {
+            "value": 5332000,
+            "description": ""
+        },
+        {
+            "value": 28117000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 173,
+            "description": ""
+        },
+        {
+            "value": 244,
+            "description": ""
+        },
+        {
+            "value": 346,
+            "description": ""
+        },
+        {
+            "value": 262,
+            "description": ""
+        },
+        {
+            "value": 355,
+            "description": ""
+        },
+        {
+            "value": 524,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "IFK",
+            "description": "Incremental Frequency Keying"
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ],
+    "short description": "DominoEX, also known as just Domino, is an IFK (Incremental Frequency Keying) mode developed by Murray Greenman ZL1BPU and Con Wassilieff ZL2AFP in 2004 that was the first fully developed iteration of the Domino IFK family modes. Used to send text over RF.",
+    "description": "Domino Series: [DominoF](https://www.sigidwiki.com/wiki/DominoF) -> [DominoEX](https://www.sigidwiki.com/wiki/DominoEX) -> [THOR](https://www.sigidwiki.com/wiki/THOR) \n\n**DominoEX**, also known as just Domino, is an IFK (Incremental Frequency Keying) mode developed by Murray Greenman ZL1BPU and Con Wassilieff ZL2AFP in 2004 that was the first fully developed iteration of the Domino IFK family modes Used to send text over RF. It is the successor to the developmental versions [DominoF](https://www.sigidwiki.com/wiki/DominoF) and DominoG.\n\nIFK (Incremental Frequency Keying) is used, where the data is represented not by the frequency of each tone, but by the frequency difference between one tone and the next. An additional technique, called Offset Incremental Keying (IFK+) is used to manage the tone sequence in order to counter inter-symbol interference caused by multipath reception. This gives the mode a great improvement in robustness.\n\nDominoEX had optional FEC for all of its available submodes. \n\n| | **MODE** | **BAUD** | **BW** | **TONES** | **SPEED** | **FEC** | **TONE SPACING** |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n| | **DominoEX 4** | 3.90625 | 173 Hz | 18 | ~25 WPM | ~12 WPM | Baud rate ×2 |\n| | **DominoEX 5** | 5.3833 | 224 Hz | 18 | ~31 WPM | ~16 WPM | Baud rate ×2 |\n| | **DominoEX 8** | 7.8125 | 346 Hz | 18 | ~50 WPM | ~25 WPM | Baud rate ×2 |\n| <nowiki>*</nowiki> | **DominoEX 11** | 10.766 | 262 Hz | 18 | ~70 WPM | ~35 WPM | Baud rate ×1 |\n| | **DominoEX 16** | 15.625 | 355 Hz | 18 | ~100 WPM | ~50 WPM | Baud rate ×1 |\n| | **DominoEX 22** | 21.533 | 524 Hz | 18 | ~140 WPM | ~70 WPM | Baud rate ×1 |\n| Table of DominoEX modes. * Default mode (with FEC off) | Table of DominoEX modes. * Default mode (with FEC off) | Table of DominoEX modes. * Default mode (with FEC off) | Table of DominoEX modes. * Default mode (with FEC off) | Table of DominoEX modes. * Default mode (with FEC off) | Table of DominoEX modes. * Default mode (with FEC off) | Table of DominoEX modes. * Default mode (with FEC off) | Table of DominoEX modes. * Default mode (with FEC off) |"
+}

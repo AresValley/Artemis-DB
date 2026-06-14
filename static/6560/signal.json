@@ -1,0 +1,56 @@
+{
+    "pageid": "6560",
+    "title": "Primary Aeronautical Surveillance Radar",
+    "spectrum": {
+        "filename": "L-band radar.JPG",
+        "url": "https://www.sigidwiki.com/images/7/7b/L-band_radar.JPG"
+    },
+    "audio": {
+        "filename": "L-band aero radar.mp3",
+        "url": "https://www.sigidwiki.com/images/f/f2/L-band_aero_radar.mp3"
+    },
+    "category": [
+        "Radar",
+        "Commercial",
+        "Navigation",
+        "Analogue",
+        "Aviation"
+    ],
+    "frequency": [
+        {
+            "value": 1215000000,
+            "description": ""
+        },
+        {
+            "value": 1400000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 3000000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "Pulse",
+            "description": "Undisclosed Pulse Modulation"
+        }
+    ],
+    "mode": [
+        {
+            "value": "RAW",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ],
+    "short description": "A Primary radar (PSR Primary Surveillance Radar) is a conventional radar sensor that illuminates a large portion of space with an electromagnetic wave and receives back the reflected waves from targets within that space.",
+    "description": "A Primary radar (PSR Primary Surveillance Radar) is a conventional radar sensor that illuminates a large portion of space with an electromagnetic wave and receives back the reflected waves from targets within that space. The term thus refers to a radar system used to detect and localize potentially non-cooperative targets. It is specific to the field of air traffic control where it is opposed to the secondary radar which receives additional information from the target's transponder."
+}

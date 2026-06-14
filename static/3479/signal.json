@@ -1,0 +1,57 @@
+{
+    "pageid": "3479",
+    "title": "Marconi Selenia 25-Tone Modem",
+    "spectrum": {
+        "filename": "Marconi25.jpg",
+        "url": "https://www.sigidwiki.com/images/c/cc/Marconi25.jpg"
+    },
+    "audio": {
+        "filename": "Marconi25.mp3",
+        "url": "https://www.sigidwiki.com/images/c/ce/Marconi25.mp3"
+    },
+    "category": [
+        "Digital",
+        "Military"
+    ],
+    "frequency": [
+        {
+            "value": 3000000,
+            "description": ""
+        },
+        {
+            "value": 30000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 1600,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "PSK",
+            "description": "Phase-Shift Keying"
+        },
+        {
+            "value": "OFDM",
+            "description": "Orthogonal Frequency-Division Multiplexing"
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ],
+    "short description": "The Marconi Selenia 25-Tone Modem is a military modem developed sometime around 2003 by Marconi Selenia Communications (Now Finmeccanica). It supports ECCM capability and transmits at a datarate of 2400bps. This mode was employed by Turkey.",
+    "description": "The Marconi Selenia 25-Tone Modem is a military modem developed sometime around 2003 by [Marconi Selenia Communications](https://it.wikipedia.org/wiki/Selex_Elsag) (Now [Finmeccanica](https://en.wikipedia.org/wiki/Finmeccanica)). It supports ECCM capability and transmits at a datarate of 2400bps."
+}

@@ -1,0 +1,58 @@
+{
+    "pageid": "2722",
+    "title": "Low Rate Picture Transmission (LRPT)",
+    "spectrum": {
+        "filename": "LRPTWaterfall.jpg",
+        "url": "https://www.sigidwiki.com/images/1/17/LRPTWaterfall.jpg"
+    },
+    "audio": {
+        "filename": null,
+        "url": null
+    },
+    "category": [
+        "Satellite",
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 137000000,
+            "description": ""
+        },
+        {
+            "value": 138000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 120000,
+            "description": ""
+        }
+    ],
+    "acf": [
+        {
+            "value": 0.5,
+            "description": "Main"
+        }
+    ],
+    "modulation": [
+        {
+            "value": "QPSK",
+            "description": "Quadrature Phase-Shift Keying"
+        }
+    ],
+    "mode": [
+        {
+            "value": "RAW",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ],
+    "short description": "The Low Rate Picture Transmission (LRPT) is a digital transmission system, commonly transmitted by METEOR-M satellites, used to deliver weather images and data.",
+    "description": "The **Low Rate Picture Transmission (LRPT)** is a digital transmission system, intended to deliver images and data from an orbital weather satellite directly to end users via a VHF radio signal. It is used aboard polar-orbiting, near-Earth weather satellite programs such as MetOp (LRPT permanently deactivated on MetOp-A due to interference with on HIRS) and NPOESS (replaced with JPSS), and is currently being used on METEOR-M satellites."
+}

@@ -1,0 +1,70 @@
+{
+    "pageid": "1290",
+    "title": "Globe Wireless HF Network",
+    "spectrum": {
+        "filename": "GW.jpg",
+        "url": "https://www.sigidwiki.com/images/a/a5/GW.jpg"
+    },
+    "audio": {
+        "filename": "GW.mp3",
+        "url": "https://www.sigidwiki.com/images/9/9b/GW.mp3"
+    },
+    "category": [
+        "Marine",
+        "Digital",
+        "Commercial"
+    ],
+    "frequency": [
+        {
+            "value": 3000000,
+            "description": ""
+        },
+        {
+            "value": 30000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 400,
+            "description": ""
+        },
+        {
+            "value": 750,
+            "description": ""
+        },
+        {
+            "value": 2000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "PSK",
+            "description": "Phase-Shift Keying"
+        },
+        {
+            "value": "FSK",
+            "description": "Frequency-Shift Keying"
+        },
+        {
+            "value": "OFDM",
+            "description": "Orthogonal Frequency-Division Multiplexing"
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ],
+    "short description": "Globe Wireless' Maritime Digital Radio was a system of 24 stations around the globe offering data services to large cargo vessels. Since 2014, GW has discontinued their HF network.",
+    "description": "**Globe Wireless's HF Network** was a system of 24 stations around the globe offering data services to large cargo vessels. Since 2014, GW has discontinued their HF network, and the company has been purchased by Inmarsat, which is focusing primarily on satellite networks. Globe Wireless was a provider of HF and satellite email and data services to the shipping industry.\n \nThe remnants of the Globe Wireless network is scattered all over the world. Parts of the HF network are now used by [Swisscom](https://www.swisscom.ch/en/business/broadcast/radio-communication/maritime-communication.html), including its own Bern Radio in Switzerland. [http://translate.google.com/translate?hl=en&sl=pt&u= [LINK](https://ivandias.wordpress.com/2015/03/02/bern-radio/&prev=search)] [https://www.swisscom.ch/content/dam/swisscom/de/biz/broadcast-new/sicherheitsfunk/Maritime_Communication_HF_Network_and_CRS.pdf] Swisscom solely uses PACTOR III with huffman compression for data transfer. [http://translate.google.com/translate?hl=en&sl=de&u= [LINK](http://de.wikipedia.org/wiki/Bernradio&prev=search)]"
+}

@@ -1,0 +1,52 @@
+{
+    "pageid": "5420",
+    "title": "PSK Paging link",
+    "spectrum": {
+        "filename": "purc signaling.png",
+        "url": "https://www.sigidwiki.com/images/b/bb/Purc_signaling.png"
+    },
+    "audio": {
+        "filename": "PURC 454 475.wav",
+        "url": "https://www.sigidwiki.com/images/5/5b/PURC_454_475.wav"
+    },
+    "category": [
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 470000000,
+            "description": ""
+        },
+        {
+            "value": 150000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 12500,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "PSK",
+            "description": "Phase-Shift Keying"
+        }
+    ],
+    "mode": [
+        {
+            "value": "FM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "United States",
+            "description": ""
+        }
+    ],
+    "short description": "Also known as PSK paging,  is a signal that allows side-by-side PSK to exist in AFSK paging links, allowing for more dynamically processed DSP available.",
+    "description": "This signal has been found at: 454.475 MHz In Chicago, IL. The input signal rests on 158.1 MHz. The cause of the DSP is unknown, but the transmitter rests on top of Chicago's Oglive Transport center. However, it acts as a normal paging license. The license is unknown because of the input of 158.1 MHz. FCC databases unfortunately do not list a license under these two frequencies. However, it could be possible that KSA810 is the license, but the license does not include 158.1 on the list of frequencies."
+}

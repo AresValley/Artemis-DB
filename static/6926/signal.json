@@ -1,0 +1,53 @@
+{
+    "pageid": "6926",
+    "title": "CDMA420",
+    "spectrum": {
+        "filename": "CDMA420LTE420.png",
+        "url": "https://www.sigidwiki.com/images/4/4b/CDMA420LTE420.png"
+    },
+    "audio": {
+        "filename": "CDMA420-sound.mp3",
+        "url": "https://www.sigidwiki.com/images/1/18/CDMA420-sound.mp3"
+    },
+    "category": [
+        "Commercial",
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 410000000,
+            "description": ""
+        },
+        {
+            "value": 425000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 2500000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "QPSK",
+            "description": "Quadrature Phase-Shift Keying"
+        }
+    ],
+    "mode": [
+        {
+            "value": "AM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Poland",
+            "description": ""
+        }
+    ],
+    "short description": "",
+    "description": ""
+}

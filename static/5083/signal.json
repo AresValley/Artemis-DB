@@ -1,0 +1,61 @@
+{
+    "pageid": "5083",
+    "title": "Yaesu System Fusion",
+    "spectrum": {
+        "filename": "YSFopt.png",
+        "url": "https://www.sigidwiki.com/images/5/5e/YSFopt.png"
+    },
+    "audio": {
+        "filename": "Yaesu sys fusion.wav",
+        "url": "https://www.sigidwiki.com/images/2/26/Yaesu_sys_fusion.wav"
+    },
+    "category": [
+        "Amateur Radio",
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 144000000,
+            "description": ""
+        },
+        {
+            "value": 148000000,
+            "description": ""
+        },
+        {
+            "value": 420000000,
+            "description": ""
+        },
+        {
+            "value": 450000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 12500,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "C4FM",
+            "description": "4-level FSK Technology"
+        }
+    ],
+    "mode": [
+        {
+            "value": "FM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ],
+    "short description": "System Fusion is Yaesu's digital voice/data protocol for amateur radio, using the AMBE+2 vocoder on a C4FM signal.",
+    "description": ""
+}

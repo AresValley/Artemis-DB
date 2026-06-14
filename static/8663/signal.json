@@ -1,0 +1,73 @@
+{
+    "pageid": "8663",
+    "title": "BRAS-3 (RS-10)",
+    "spectrum": {
+        "filename": "BRAS-3 1791kHz.png",
+        "url": "https://www.sigidwiki.com/images/a/ad/BRAS-3_1791kHz.png"
+    },
+    "audio": {
+        "filename": "BRAS-3 1791kHz AM.mp3",
+        "url": "https://www.sigidwiki.com/images/d/de/BRAS-3_1791kHz_AM.mp3"
+    },
+    "category": [
+        "Navigation",
+        "Marine"
+    ],
+    "frequency": [
+        {
+            "value": 1685000,
+            "description": ""
+        },
+        {
+            "value": 1712000,
+            "description": ""
+        },
+        {
+            "value": 1774000,
+            "description": ""
+        },
+        {
+            "value": 1791000,
+            "description": ""
+        },
+        {
+            "value": 1816000,
+            "description": ""
+        },
+        {
+            "value": 2107000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 14000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "AM",
+            "description": "Amplitude Modulation"
+        },
+        {
+            "value": "Pulse",
+            "description": "Undisclosed Pulse Modulation"
+        }
+    ],
+    "mode": [
+        {
+            "value": "AM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Russia",
+            "description": ""
+        }
+    ],
+    "short description": "BRAS-3 and the closely related RS-10 are Russian medium frequency hyperbolic navigation systems used for marine navigation",
+    "description": "**BRAS-3** and the closely related **RS-10** are Russian medium frequency hyperbolic navigation systems designed mainly for marine navigation. Information about these systems, especially RS-10, is scarce. It is known that the systems are deployed as \"chains\" of three stations, each with one master and two slave stations which transmit pulsed signals in a rather complex sequence. As of 2026, most chains have been decommissioned. At least one chain is still operational somewhere in the Baltic Sea area, likely in Kaliningrad. [LINK](https://groups.io/g/UDXF/topic/32694719)\n\nThe system is said to have range of 200 km or more, and accuracy of 12 to 60 meters. Transmitter output power is said to be only 15 watts. [LINK](https://web.archive.org/web/20210418015255/http://alancordwell.co.uk:80/Legacy/radionavigation/russian/bras.html)"
+}

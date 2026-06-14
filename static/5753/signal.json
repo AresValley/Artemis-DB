@@ -1,0 +1,33 @@
+{
+    "pageid": "5753",
+    "title": "GYN2 GBR",
+    "spectrum": {
+        "filename": "GYN2opt.png",
+        "url": "https://www.sigidwiki.com/images/a/a7/GYN2opt.png"
+    },
+    "audio": {
+        "filename": "Gyn2 gbr 25 06 2021.mp3",
+        "url": "https://www.sigidwiki.com/images/1/1f/Gyn2_gbr_25_06_2021.mp3"
+    },
+    "category": [
+        "Military"
+    ],
+    "frequency": [
+        {
+            "value": 81000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [],
+    "acf": [],
+    "modulation": [],
+    "mode": [],
+    "location": [
+        {
+            "value": "United Kingdom",
+            "description": ""
+        }
+    ],
+    "short description": "Transmitting site owned by the Ministry of Defense. Originally constructed in 1946 and was originally used as a shortwave radio station. In present time, the transmitting site is used by the British Navy in order to transmit encrypted messages to submarines at sea. The site is also capable of DRM and is beamed at 121°, towards Germany and Central Europe",
+    "description": ""
+}

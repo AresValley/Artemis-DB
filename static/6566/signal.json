@@ -1,0 +1,48 @@
+{
+    "pageid": "6566",
+    "title": "MRZ-N1 Weather Balloon (radiosonde)",
+    "spectrum": {
+        "filename": "MHZ.PNG",
+        "url": "https://www.sigidwiki.com/images/8/80/MHZ.PNG"
+    },
+    "audio": {
+        "filename": "MRZ radiosonde.mp3",
+        "url": "https://www.sigidwiki.com/images/e/ee/MRZ_radiosonde.mp3"
+    },
+    "category": [
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 403000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 5000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "FSK",
+            "description": "Frequency-Shift Keying"
+        }
+    ],
+    "mode": [
+        {
+            "value": "FM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Russia",
+            "description": ""
+        }
+    ],
+    "short description": "MRZ-N1 is a russian  weather radiosonde.",
+    "description": "A radiosonde is a battery-powered telemetry instrument carried into the atmosphere usually by a weather balloon that measures various atmospheric parameters and transmits them by radio to a ground receiver. Modern radiosondes measure or calculate the following variables: altitude, pressure, temperature, relative humidity, wind (both wind speed and wind direction), cosmic ray readings at high altitude and geographical position (latitude/longitude)."
+}

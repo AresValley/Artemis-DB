@@ -1,0 +1,73 @@
+{
+    "pageid": "8438",
+    "title": "4G LTE450",
+    "spectrum": {
+        "filename": "20260120 21271483.jpg",
+        "url": "https://www.sigidwiki.com/images/1/13/20260120_21271483.jpg"
+    },
+    "audio": {
+        "filename": "LTE450 NFM.wav",
+        "url": "https://www.sigidwiki.com/images/3/3a/LTE450_NFM.wav"
+    },
+    "category": [
+        "Digital",
+        "Commercial"
+    ],
+    "frequency": [
+        {
+            "value": 450000000,
+            "description": ""
+        },
+        {
+            "value": 460000000,
+            "description": ""
+        },
+        {
+            "value": 470000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 1400000,
+            "description": ""
+        },
+        {
+            "value": 3000000,
+            "description": ""
+        },
+        {
+            "value": 2000000,
+            "description": ""
+        },
+        {
+            "value": 4740000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "OFDM",
+            "description": "Orthogonal Frequency-Division Multiplexing"
+        },
+        {
+            "value": "SC-FDMA",
+            "description": "Single-carrier Frequency-Division Multiplexing Access"
+        }
+    ],
+    "mode": [
+        {
+            "value": "NFM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ],
+    "short description": "LTE 450 refers to the deployment of Long-Term Evolution (LTE) technology in the 380-512 MHz frequency band. LTE 450 networks allow various 4G LTE options to deliver efficient and reliable telecommunications services: LTE, LTE-M, and NB-IoT.",
+    "description": ""
+}

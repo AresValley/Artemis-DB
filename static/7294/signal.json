@@ -1,0 +1,57 @@
+{
+    "pageid": "7294",
+    "title": "CIS MFSK-21-13",
+    "spectrum": {
+        "filename": "MFSK 21-13 21to13.png",
+        "url": "https://www.sigidwiki.com/images/1/1c/MFSK_21-13_21to13.png"
+    },
+    "audio": {
+        "filename": "CIS MFSK 21-13 21-to-13 sample.ogg",
+        "url": "https://www.sigidwiki.com/images/5/52/CIS_MFSK_21-13_21-to-13_sample.ogg"
+    },
+    "category": [
+        "Digital",
+        "Military"
+    ],
+    "frequency": [
+        {
+            "value": 4834000,
+            "description": ""
+        },
+        {
+            "value": 16292000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 3300,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "FSK",
+            "description": "Frequency-Shift Keying"
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Russia",
+            "description": ""
+        },
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ],
+    "short description": "An MFSK data mode that is believed to originate from Russian sources. Changes between MFSK-21, MFSK-13 and different speeds.",
+    "description": "This is an MFSK signal that is believed to originate from Russian sources. Transmission changes between 21-tone MFSK with 125 Hz tone spacing and 13-tone MFSK with 250 Hz tone spacing, and different speeds. Sometimes only some of these modes may be used. The purpose of and the equipment used to transmit this signal are unknown.\n\nThe MFSK-21 mode occupies about 2600 Hz and the MFSK-13 mode about 3000 Hz of bandwidth. Total bandwidth is slightly more, about 3300 Hz, if the designated transmission frequencies are assumed to hit integer kHz."
+}

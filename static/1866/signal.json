@@ -1,0 +1,53 @@
+{
+    "pageid": "1866",
+    "title": "PRC-16",
+    "spectrum": {
+        "filename": "PRC-16.jpg",
+        "url": "https://www.sigidwiki.com/images/c/c6/PRC-16.jpg"
+    },
+    "audio": {
+        "filename": "PRC-16.mp3",
+        "url": "https://www.sigidwiki.com/images/1/15/PRC-16.mp3"
+    },
+    "category": [
+        "Military",
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 14300000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 2200,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "PSK",
+            "description": "Phase-Shift Keying"
+        },
+        {
+            "value": "OFDM",
+            "description": "Orthogonal Frequency-Division Multiplexing"
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "China",
+            "description": ""
+        }
+    ],
+    "short description": "PRC-16 is a Chinese sourced PSK data link, traced to Shanghai. Suspected user Chinese Military.",
+    "description": "**PRC-16** is a Chinese sourced PSK data link, traced to Shanghai. Suspected user Chinese Military. A woman speaking Chinese has been heard on this frequency before.\n\nAn idle tone that repeats every 720ms is possibly a marker to keep the channel free from interfering operators. The data portion of the signal always occurs in a burst, and follows a very similar format to [MIL-STD-188-110 App.A 16-tone OFDM](https://www.sigidwiki.com/wiki/MIL-STD-188-110_Appendix_A_16-Tone), only lacking the pilot tone. PRC-16 has been seen using BPSK modulation in its subcarriers at 75bd each. Each burst lasts about 1150 ms (600ms for preamble, 550ms for the 16x75 BPSK waveform). An interesting characteristic is the 4xBPSK mode right after the toned preamble but before the 16x75 waveform."
+}

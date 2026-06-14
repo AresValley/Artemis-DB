@@ -1,0 +1,61 @@
+{
+    "pageid": "5580",
+    "title": "Schneider Trio E-Series Modem",
+    "spectrum": {
+        "filename": "Trio.PNG",
+        "url": "https://www.sigidwiki.com/images/c/c6/Trio.PNG"
+    },
+    "audio": {
+        "filename": "TRIO_USB.mp3",
+        "url": "https://www.sigidwiki.com/images/f/fb/TRIO_USB.mp3"
+    },
+    "category": [
+        "Digital",
+        "Utility"
+    ],
+    "frequency": [
+        {
+            "value": 370000000,
+            "description": ""
+        },
+        {
+            "value": 518000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 12500,
+            "description": ""
+        },
+        {
+            "value": 25000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "FSK",
+            "description": "Frequency-Shift Keying"
+        },
+        {
+            "value": "GMSK",
+            "description": "Gaussian Minimum-Shift Keying"
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ],
+    "short description": "Schneider Trio E-Series Modems are industrial modems used for SCADA, telemetry, and other ASCII-based messaging applications.",
+    "description": "**Schneider Trio E-Series Modems** are industrial data modems used for SCADA, telemetry, and other ASCII-based messaging applications. These modems were originally developed by Trio Datacom Pty Ltd and sold under their name. In 2011 Trio Datacom, along with Control Microsystems, were acquired by Schneider Electric and were rebranded into Telemetry and Remote SCADA Solutions within Schneider's Industry Business."
+}

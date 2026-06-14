@@ -1,0 +1,61 @@
+{
+    "pageid": "4366",
+    "title": "'OTH-SW' OTH Radar",
+    "spectrum": {
+        "filename": "OTH RADAR.png",
+        "url": "https://www.sigidwiki.com/images/1/1f/OTH_RADAR.png"
+    },
+    "audio": {
+        "filename": "PRC_OTH_SW.mp3",
+        "url": "https://www.sigidwiki.com/images/b/bc/PRC_OTH_SW.mp3"
+    },
+    "category": [
+        "Military",
+        "Radar"
+    ],
+    "frequency": [
+        {
+            "value": 6000000,
+            "description": ""
+        },
+        {
+            "value": 30000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 40000,
+            "description": ""
+        },
+        {
+            "value": 60000,
+            "description": ""
+        },
+        {
+            "value": 80000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "FMCW",
+            "description": "Frequency-Modulated Continuous Wave"
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "China",
+            "description": ""
+        }
+    ],
+    "short description": "OTH-SW is a Chinese over-the-horizon radar. It is known to operate with pulse repetition frequencies of 43 Hz and 86 Hz.",
+    "description": "**OTH-SW** is a Chinese over the horizon radar. It is known to operate with pulse repition frequencies of 43&nbsp;Hz and 86&nbsp;Hz"
+}

@@ -1,0 +1,65 @@
+{
+    "pageid": "2247",
+    "title": "FreeDV COHPSK",
+    "spectrum": {
+        "filename": "700 tfc DV.png",
+        "url": "https://www.sigidwiki.com/images/1/14/700_tfc_DV.png"
+    },
+    "audio": {
+        "filename": "700D.wav",
+        "url": "https://www.sigidwiki.com/images/d/de/700D.wav"
+    },
+    "category": [
+        "Amateur Radio",
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 3000000,
+            "description": ""
+        },
+        {
+            "value": 30000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 1500,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "PSK",
+            "description": "Phase-Shift Keying"
+        },
+        {
+            "value": "QPSK",
+            "description": "Quadrature Phase-Shift Keying"
+        },
+        {
+            "value": "DQPSK",
+            "description": "Differential Quadrature Phase-Shift Keying"
+        },
+        {
+            "value": "OFDM",
+            "description": "Orthogonal Frequency-Division Multiplexing"
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ],
+    "short description": "FreeDV Coherent PSK (Also known as FreeDV 700) is a robust Digital Voice mode developed by David Rowe for his FreeDV Digital Voice Software.",
+    "description": "**FreeDV Coherent PSK** (Also known as FreeDV 700) is a robust Digital Voice mode developed by [David Rowe](http://www.rowetel.com/blog/?page_id=434) for his FreeDV Digital Voice Software. The 14-subcarrier QPSK mode uses pilot symbol assisted coherent PSK, whereas [FDMDV](https://www.sigidwiki.com/wiki/Frequency_Division_Multiplex_Digital_Voice_%28FDMDV%29) uses differential PSK. Coherent PSK is more robust against bit errors than differential PSK. This mode has 14 subcarriers, but it's actually 7 75bd subcarriers duplicated to form the full 14, so there is strong redundancy. The entire system runs at 700 bit/s, using the 700 bit/s Codec 2 voice codec developed by Rowe. \n\nThis mode is currently in active development, so details may change significantly as development continues."
+}

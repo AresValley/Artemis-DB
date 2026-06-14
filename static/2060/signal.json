@@ -1,0 +1,61 @@
+{
+    "pageid": "2060",
+    "title": "CHU",
+    "spectrum": {
+        "filename": "CHU.jpg",
+        "url": "https://www.sigidwiki.com/images/f/f9/CHU.jpg"
+    },
+    "audio": {
+        "filename": "samplechu.mp3",
+        "url": "https://www.sigidwiki.com/images/9/96/Samplechu.mp3"
+    },
+    "category": [
+        "Time",
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 3330000,
+            "description": ""
+        },
+        {
+            "value": 7850000,
+            "description": ""
+        },
+        {
+            "value": 14670000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 2250,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "FSK",
+            "description": "Frequency-Shift Keying"
+        },
+        {
+            "value": "OOK",
+            "description": "On-Off Keying"
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Canada",
+            "description": ""
+        }
+    ],
+    "short description": "CHU is a time signal radio station operated by the Institute for National Measurement Standards of the National Research Council of Canada.",
+    "description": "**CHU** is a time signal radio station operated by the Institute for National Measurement Standards of the [National Research Council of Canada](http://www.nrc-cnrc.gc.ca/eng/index.html).\n \nThis signal is broadcast on three frequencies: 3 kW (3330, 14670 kHz) and 5 kW (7850 kHz). The transmitter is located just south of Ottawa, Canada. The signal follows a strict pattern of CW beeps, along with 9 seconds where a digital time code is transmitted in a 300 Bd FSK mode using the Bell 103 standard, a 2225 Hz tone to represent a mark (1 bit) and 2025 Hz tone for a space (0 bit)."
+}

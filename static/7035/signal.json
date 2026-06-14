@@ -1,0 +1,61 @@
+{
+    "pageid": "7035",
+    "title": "GOES Rebroadcast (GRB)",
+    "spectrum": {
+        "filename": null,
+        "url": null
+    },
+    "audio": {
+        "filename": "Audio 1687100000Hz 14-48-18 09-12-2023.wav",
+        "url": "https://www.sigidwiki.com/images/9/9a/Audio_1687100000Hz_14-48-18_09-12-2023.wav"
+    },
+    "category": [
+        "Satellite",
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 1681600000,
+            "description": ""
+        },
+        {
+            "value": 1686600000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 10000000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "QPSK",
+            "description": "Quadrature Phase-Shift Keying"
+        },
+        {
+            "value": "D8PSK",
+            "description": "Differential 8-Phase-Shift Keying"
+        }
+    ],
+    "mode": [
+        {
+            "value": "DVB-S2",
+            "description": ""
+        },
+        {
+            "value": "RAW",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ],
+    "short description": "GOES Rebroadcast (GRB) is a form of data sent from the GOES-R series of satellites that contain information from all of the instruments on board the GOES satellites",
+    "description": "'''The GOES Rebroadcast (GRB) data is a set of data products broadcasted from the GOES-R series of satellites that contains information from all of its on-board instruments. The data contains imagery and info from the Advanced Baseline Imager, the Solar Ultraviolet Imager, as well as the standard HRIT data. \n\nThe signal is broadcasted as a DVB-S2 (Digital Video Broadcast, standard 2) signal modulated as both QPSK and 8PSK, with forward error corrections of 2/3 and 9/10. The sample rate is around 7.8-8.6 Million samples per second.\n\nThe dish size recommended for RF data reception is 2m-5m, larger being better.\n\nAn example of all GOES data can be found on [NOAA's website](https://www.star.nesdis.noaa.gov/goes/index.php)\n\nThe images in the GRB data are also quite frequent with very little amounts of filler data.\n\nHere is the official data table for the GOES GRB data:\n\n| Product | Data |\n| --- | --- |\n| Full Disk Imagery | Every 5-15 minutes |\n| Other modes | 3000km x 5000km CONUS, 1000km x 1000km Mesoscale |\n| Polarization | Dual Circular Polarized |\n| Polarization | Dual Circular Polarized |\n| Receiver Center Frequency | 1681.6 MHz |\n| Data rate | 31 Mbps |\n| Antenna coverage | Earth coverage to 5 |\n| Data sources | ABI (16 bands), GLM, SEISS, EXIS, SUVI, MAG |\n| Space weather | 2 Mbps |\n| Lightning data | 0.5 Mbps |\n\n'''"
+}

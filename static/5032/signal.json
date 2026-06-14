@@ -1,0 +1,81 @@
+{
+    "pageid": "5032",
+    "title": "Motorola SECURENET",
+    "spectrum": {
+        "filename": "Securnet.png",
+        "url": "https://www.sigidwiki.com/images/c/c3/Securnet.png"
+    },
+    "audio": {
+        "filename": "SECURENET-AF.mp3",
+        "url": "https://www.sigidwiki.com/images/7/70/SECURENET-AF.mp3"
+    },
+    "category": [
+        "Trunked Radio",
+        "Commercial"
+    ],
+    "frequency": [
+        {
+            "value": 137000000,
+            "description": ""
+        },
+        {
+            "value": 174000000,
+            "description": ""
+        },
+        {
+            "value": 400000000,
+            "description": ""
+        },
+        {
+            "value": 420000000,
+            "description": ""
+        },
+        {
+            "value": 450000000,
+            "description": ""
+        },
+        {
+            "value": 520000000,
+            "description": ""
+        },
+        {
+            "value": 941000000,
+            "description": ""
+        },
+        {
+            "value": 851000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 16000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "FSK",
+            "description": "Frequency-Shift Keying"
+        },
+        {
+            "value": "FSK",
+            "description": "Frequency-Shift Keying"
+        }
+    ],
+    "mode": [
+        {
+            "value": "FM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ],
+    "short description": "Motorola SECURENET (\"analog\" encryption) was a secure voice option for conventional and Motorola Type II trunked systems, encoding the voice using 12kbps CVSD and encrypting the bitstream. It is easily identified by the 6 kHz tone at the end of transmission. As it is not 12.5 kHz FCC narrowbanding mandate compliant, it does not see much use anymore.",
+    "description": "- Not to be confused with the [Motorola Type II](https://www.sigidwiki.com/wiki/Motorola_Type_II) trunking system*\n\nMotorola SECURENET is an obsolete voice encryption algorithm supported by Motorola MX300, Saber/Spectra, STX, MTS/MCS, ASTRO Saber/Spectra, XTL/XTS, and APX radios. Standard SECURENET operation begins with analog voice sampled and digitized with [CVSD](https://en.wikipedia.org/wiki/Continuously_variable_slope_delta_modulation) at 12 kHz, and the resulting bitstream is encrypted before transmission using 2-level FSK at 4 kHz deviation. Motorola made a 4FSK 2.4 kHz deviation variant named FRED (Four-level Recovery Encode/Decode) for use with 800 MHz NPSPAC frequencies and with simulcast systems. There is minimal data transmitted alongside the CVSD voice to prevent interruptions in the voice audio, and due to the encryption algorithms' high-entropy output, SECURENET sounds like noise when tuned with a conventional FM receiver (with exception to the 6 kHz end-of-transmission tone). SECURENET decoded audio quality is poor due to the heavy lowpassing necessary with CVSD. \n\nSECURENET can be used simplex, through a repeater (capable of passing unfiltered audio, or via reconstruction of the bitstream), or as a system voice option of a Motorola Type I or [Type II](https://www.sigidwiki.com/wiki/Motorola_Type_II) trunked system. If MDC1200 pre-transmission PTT-ID/RAC is enabled on a secure channel, the radio will send the MDC in clear analog with any configured PL/DPL, drop PL/DPL after sending MDC1200, and proceed with SECURENET voice; this permits repeaters to use PL/DPL squelch and/or MDC Repeater Access Codes with secure voice. <!-- I haven't tried EOT MDC transmission -->"
+}

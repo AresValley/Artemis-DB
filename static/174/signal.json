@@ -1,40 +1,66 @@
 {
-    "signal": {
-        "name": "FLEX",
-        "url": "https://www.sigidwiki.com/wiki/FLEX"
+    "pageid": "174",
+    "title": "ISM Band device",
+    "spectrum": {
+        "filename": "ISMBandPowerMeter_Waterfallthmb.jpg",
+        "url": "https://www.sigidwiki.com/images/a/a5/ISMBandPowerMeter_Waterfallthmb.jpg"
+    },
+    "audio": {
+        "filename": "ISMBandPowerMeter_Sound.mp3",
+        "url": "https://www.sigidwiki.com/images/0/00/ISMBandPowerMeter_Sound.mp3"
     },
     "category": [
         "Digital",
-        "Commercial"
+        "Utility"
     ],
     "frequency": [
         {
-            "value": 152600000,
+            "value": 900000000,
             "description": ""
         },
         {
-            "value": 931938000,
+            "value": 920000000,
+            "description": ""
+        },
+        {
+            "value": 315000000,
+            "description": ""
+        },
+        {
+            "value": 868000000,
+            "description": ""
+        },
+        {
+            "value": 433920000,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 5000,
+            "value": 20000,
             "description": ""
         }
     ],
     "acf": [],
     "modulation": [
         {
-            "value": "FSK",
-            "description": ""
+            "value": "ASK",
+            "description": "Amplitude-Shift Keying"
         },
         {
-            "value": "4FSK",
-            "description": ""
+            "value": "OOK",
+            "description": "On-Off Keying"
+        },
+        {
+            "value": "FSK",
+            "description": "Frequency-Shift Keying"
         }
     ],
     "mode": [
+        {
+            "value": "AM",
+            "description": ""
+        },
         {
             "value": "NFM",
             "description": ""
@@ -45,5 +71,7 @@
             "value": "Worldwide",
             "description": ""
         }
-    ]
+    ],
+    "short description": "An ISM band device such as a power meter or a wireless doorbell.",
+    "description": "An ISM band wireless device signal. Signals include power meters, doorbells, remote-controlled power switches, etc.\n\nA fast and large drift is common to those, as the devices are often battery-powered.\n\nSome of the protocols use ASK or OOK, and some (especially the high data rate ones) use FSK."
 }

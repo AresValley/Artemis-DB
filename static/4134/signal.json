@@ -1,0 +1,64 @@
+{
+    "pageid": "4134",
+    "title": "Emergency Managers Weather Information Network (EMWIN) - Repeater",
+    "spectrum": {
+        "filename": "EMWIN.png",
+        "url": "https://www.sigidwiki.com/images/1/14/EMWIN.png"
+    },
+    "audio": {
+        "filename": "Unknown163.mp3",
+        "url": "https://www.sigidwiki.com/images/f/ff/Unknown163.mp3"
+    },
+    "category": [
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 163325000,
+            "description": ""
+        },
+        {
+            "value": 163350000,
+            "description": ""
+        },
+        {
+            "value": 168812500,
+            "description": ""
+        },
+        {
+            "value": 168712500,
+            "description": ""
+        },
+        {
+            "value": 163300000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 20000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "AFSK",
+            "description": "Audio Frequency-Shift Keying"
+        }
+    ],
+    "mode": [
+        {
+            "value": "NFM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "United States",
+            "description": ""
+        }
+    ],
+    "short description": "The Emergency Managers Weather Information Network (EMWIN) is a system for distributing a live stream of weather information in the United States. This is the VHF Repeater of the network.",
+    "description": "The **Emergency Managers Weather Information Network (EMWIN)** is a system for distributing a live stream of weather information in the United States. This is the VHF Repeater of the network. The backbone of the system is operated via satellite by the U.S. National Weather Service (NWS), but data are transmitted over radio repeaters by the NWS, citizens, and other organizations in many regions, and information can also be downloaded via the Internet.\n\nEMWIN VHF Repeaters use ASCII 8-bit modulation. Typically run at 1200 baud, but 2400 and 9600 baud implementations do exist in certain places.\n\nLocal VHF/UHF radio rebroadcasts and older-generation EMWIN satellite systems operate at the speeds of 1200 and 9600 baud. EMWIN data consists of textual observational and forecast information, including a limited number of cloud and radar images. The new EMWIN, labeled EMWIN-N, began being upgraded in 2009. The upgrade continues through 2011 to ready older GOES satellites to provide a higher speed of 19.2 kbit/s. The data broadcasts are monetarily free with both local rebroadcasts and satellite feeds. \n\nEMWIN weather data is primarily transmitted over GOES satellites that observe the United States. The new satellites are the GOES-N series, and are designated GOES 13, GOES 14 and GOES 15."
+}

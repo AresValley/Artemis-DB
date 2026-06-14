@@ -1,0 +1,52 @@
+{
+    "pageid": "2066",
+    "title": "CCIR Selcall",
+    "spectrum": {
+        "filename": "Ccir-1_5-tone.jpg",
+        "url": "https://www.sigidwiki.com/images/8/89/Ccir-1_5-tone.jpg"
+    },
+    "audio": {
+        "filename": "Ccir-1_5-tones.mp3",
+        "url": "https://www.sigidwiki.com/images/2/2d/Ccir-1_5-tones.mp3"
+    },
+    "category": [
+        "Analogue"
+    ],
+    "frequency": [
+        {
+            "value": 30000000,
+            "description": ""
+        },
+        {
+            "value": 800000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 5000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "FSK",
+            "description": "Frequency-Shift Keying"
+        }
+    ],
+    "mode": [
+        {
+            "value": "NFM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ],
+    "short description": "CCIR selcall consists of CCIR-1, CCIR-2, and PCCIR, which are 5-tone selcall modes for VHF/UHF radios. CCIR-1 and CCIR-2 only differ in the tone duration, and PCCIR only differs in the group, reset, and repeat tone frequencies.",
+    "description": "**CCIR Selcall** consists of CCIR-1, CCIR-2, and PCCIR, which are 5-tone selcall modes for VHF/UHF radios. CCIR-1 and CCIR-2 only differ in the tone duration, and PCCIR only differs in the group, reset, and repeat tone frequencies. CCIR-2 is also known as CCIR-7, because CCIR-2 is based on CCIR-7 recommendations; CCIR-1 is based on CCIR-1 recommendations. CCIR stands for Comité Consultatif International des Radiocommunications, which has now become the ITU-R.\n\nSelcall (selective calling) is a type of squelch protocol used in radio communications systems, in which transmissions include a brief burst of sequential audio tones. Receivers that are set to respond to the transmitted tone sequence will open their squelch, while others will remain muted."
+}

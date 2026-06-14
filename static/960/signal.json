@@ -1,0 +1,66 @@
+{
+    "pageid": "960",
+    "title": "Slow-Scan Television (SSTV)",
+    "spectrum": {
+        "filename": "Robot_36waterfall.jpg",
+        "url": "https://www.sigidwiki.com/images/3/3a/Robot_36waterfall.jpg"
+    },
+    "audio": {
+        "filename": "Robot_36_prev.mp3",
+        "url": "https://www.sigidwiki.com/images/2/22/Robot_36_prev.mp3"
+    },
+    "category": [
+        "Amateur Radio",
+        "Analogue"
+    ],
+    "frequency": [
+        {
+            "value": 3000000,
+            "description": ""
+        },
+        {
+            "value": 450000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 3000,
+            "description": ""
+        }
+    ],
+    "acf": [
+        {
+            "value": 0.0,
+            "description": "Line per minute."
+        }
+    ],
+    "modulation": [
+        {
+            "value": "FM",
+            "description": "Frequency Modulation"
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        },
+        {
+            "value": "LSB",
+            "description": ""
+        },
+        {
+            "value": "NFM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ],
+    "short description": "Slow-scan television (SSTV) is a method for picture transmission used by amateur radio operators to transmit and receive images.",
+    "description": "**Slow-scan television (SSTV)** is a method for picture transmission used by amateur radio operators to transmit and receive images. A technical term for SSTV is narrowband television. The most popular modes of SSTV are Robot, Scottie, and Martin.\n\nCommercial analog television signals require 6 to 8 MHz of bandwidth, because it transmits 25 or 30 picture frames per second (in the [NTSC](https://www.sigidwiki.com/wiki/NTSC_Broadcast), [PAL](https://www.sigidwiki.com/wiki/PAL_Broadcast) or SECAM color systems), but SSTV usually only takes up a maximum of 3 kHz of bandwidth. It is a much slower method of still picture transmission, usually taking from about eight seconds to a couple of minutes, depending on the mode used, to transmit one image frame.\n \nSSTV uses analog frequency modulation, in which every different value of brightness in the image gets a different audio frequency. In other words, the signal frequency shifts up to create brighter pixels and shifts down to create darker pixels. Color is achieved by sending the brightness of each color component (usually red, green and blue) separately.\n\nSync is 1100 to 1300 Hz; channel information is 1500 to 2300 Hz.\n\nSSTV has been used in popular culture, including secret easter eggs in the video games Portal and Portal 2 by Valve. It was also used in the famous entertainment site Newgrounds, for their opensource video game Friday Night Funkin. << The mode used for the resulting image was Scottie 2, and decodes to a note made by the author about how the internet has evolved along with its culture, how it was formed, etc. \n\nThe reddit article to prove this image here: [LINK](https://www.reddit.com/r/FridayNightFunkin/comments/kk9j1v/the_possible_friday_night_funkin_arg/)"
+}

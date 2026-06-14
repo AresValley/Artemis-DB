@@ -1,49 +1,58 @@
 {
-    "signal": {
-        "name": "NTSC Broadcast",
-        "url": "https://www.sigidwiki.com/wiki/NTSC_Broadcast"
+    "pageid": "335",
+    "title": "European Radio Message System (ERMES)",
+    "spectrum": {
+        "filename": "ERMES_waterfall.jpg",
+        "url": "https://www.sigidwiki.com/images/3/34/ERMES_waterfall.jpg"
+    },
+    "audio": {
+        "filename": "Ermes-3125bps.mp3",
+        "url": "https://www.sigidwiki.com/images/6/65/Ermes-3125bps.mp3"
     },
     "category": [
-        "Analogue",
+        "Digital",
         "Commercial"
     ],
     "frequency": [
         {
-            "value": 54000000,
+            "value": 169412500,
             "description": ""
         },
         {
-            "value": 806000000,
+            "value": 169832500,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 6000000,
+            "value": 25000,
             "description": ""
         }
     ],
-    "acf": [],
+    "acf": [
+        {
+            "value": 740.0,
+            "description": "Main"
+        }
+    ],
     "modulation": [
         {
-            "value": "QAM",
-            "description": ""
-        },
-        {
-            "value": "VSB",
-            "description": ""
+            "value": "FSK",
+            "description": "Frequency-Shift Keying"
         }
     ],
     "mode": [
         {
-            "value": "RAW",
+            "value": "NFM",
             "description": ""
         }
     ],
     "location": [
         {
-            "value": "Worldwide",
+            "value": "Europe",
             "description": ""
         }
-    ]
+    ],
+    "short description": "European Radio Message System (ERMES) is a European common standard for paging developed by the European Telecommunications Standards Institute (ESTI)",
+    "description": "**European Radio Message System (ERMES)** is a European common standard for paging developed by [ETSI](http://www.etsi.org/) (European Telecommunications Standards Institute) in 1990. By 1996, ERMES became operational.\n\nERMES used to use 16 channels in its frequency of operation, but since 2006 this had been reduced to 8 channels. \n \n<!--It supports alphanumeric, numeric and tone\npaging. ERMES operates at a constant speed of 6250 bps\n and uses 4 level FSK signalling. This protocol uses a\n dedicated frequency spectrum in the 169 MHz range and\nsupports 16 adjacent channels. The pagers are designed\nsuch that each pager is assigned to a specific time\nslot and when the pager senses it is not in its 'home'\nsystem it begins its roaming routine by scanning all\nchannels.-->\n\nThe modulation method is 4-FSK at 6.25 kbit/s (3125 symbols/sec)."
 }

@@ -1,0 +1,57 @@
+{
+    "pageid": "2890",
+    "title": "North Korean Diplo FSK",
+    "spectrum": {
+        "filename": "DPRK ARQ.jpg",
+        "url": "https://www.sigidwiki.com/images/1/14/DPRK_ARQ.jpg"
+    },
+    "audio": {
+        "filename": "KRE_FSK-BURST.mp3",
+        "url": "https://www.sigidwiki.com/images/8/8c/KRE_FSK-BURST.mp3"
+    },
+    "category": [
+        "Digital",
+        "Numbers Stations"
+    ],
+    "frequency": [
+        {
+            "value": 9000000,
+            "description": ""
+        },
+        {
+            "value": 29000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 1200,
+            "description": ""
+        },
+        {
+            "value": 1400,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "FSK",
+            "description": "Frequency-Shift Keying"
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "North Korea",
+            "description": ""
+        }
+    ],
+    "short description": "North Korean Diplomatic FSK link, teletype radio diplomatic usage. Also known as DPRK-FSK, KRE-FSK, DPRK-ARQ, and KEGURI. Has a FEC stream mode and a burst ARQ mode.",
+    "description": "**North Korean Diplomatic FSK** link, teletype radio diplomatic usage. Also known as DPRK-FSK, KRE-FSK, DPRK-ARQ, and KEGURI. Has a FEC stream mode and a burst ARQ mode.\n\nThe ARQ FSK mode has two speeds, 600 Bd and 1200 Bd, and both have a 600 Hz shift. The 600 Bd FSK mode has a packet length of 217 ms (323 ms of pause), with 130 bits per packet. The 1200 Bd mode has a packet length of 210 ms (290 ms pause) with 264 bits per packet.\n\nThe FEC FSK continuous stream mode uses 600 Bd and 600 Hz shift. A reversal variant has also been seen."
+}

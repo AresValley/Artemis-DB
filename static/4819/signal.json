@@ -1,0 +1,53 @@
+{
+    "pageid": "4819",
+    "title": "Microsonde Mark II Weather Balloon - LORAN-C signal (Radiosonde)",
+    "spectrum": {
+        "filename": "microsondemk2.png",
+        "url": "https://www.sigidwiki.com/images/b/b0/Microsondemk2.png"
+    },
+    "audio": {
+        "filename": "Mk2fmstart.ogg",
+        "url": "https://www.sigidwiki.com/images/1/13/Mk2fmstart.ogg"
+    },
+    "category": [
+        "Digital",
+        "Utility"
+    ],
+    "frequency": [
+        {
+            "value": 400000000,
+            "description": ""
+        },
+        {
+            "value": 406000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 130000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "FSK",
+            "description": "Frequency-Shift Keying"
+        }
+    ],
+    "mode": [
+        {
+            "value": "WFM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ],
+    "short description": "Weather balloon telemetry data. The LORAN-C signal is mixed into the carrier.",
+    "description": "Weather balloon telemetry data. The LORAN-C signal's data is retransmitted by the radiosonde to geo-tag it's measurements to the receiving operator.\n\nThe Microsonde Mark II was originally made by VIZ Manufacturing Company in Philadelphia, Pennsylvania, USA. VIZ was later bought in 1997 by Sippican Corporation, forming the VIZ Meteorological Systems Group of Sippican's Sea-Air Systems Division. In 2004, Sippican itself was purchased by Lockheed Martin Corporation, becoming part of their MS2 division."
+}

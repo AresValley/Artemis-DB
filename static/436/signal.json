@@ -1,44 +1,68 @@
 {
-    "signal": {
-        "name": "SWED-ARQ",
-        "url": "https://www.sigidwiki.com/wiki/SWED-ARQ"
+    "pageid": "436",
+    "title": "NFM Voice",
+    "spectrum": {
+        "filename": "Sintitulo.png",
+        "url": "https://www.sigidwiki.com/images/b/b9/Sintitulo.png"
+    },
+    "audio": {
+        "filename": "Nfm_voice.mp3",
+        "url": "https://www.sigidwiki.com/images/9/93/Nfm_voice.mp3"
     },
     "category": [
-        "Digital"
+        "Analogue"
     ],
     "frequency": [
         {
-            "value": 3000000,
+            "value": 27000000,
             "description": ""
         },
         {
-            "value": 30000000,
+            "value": 470000000,
+            "description": ""
+        },
+        {
+            "value": 864000000,
+            "description": ""
+        },
+        {
+            "value": 162400000,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 600,
+            "value": 5000,
+            "description": ""
+        },
+        {
+            "value": 30000,
+            "description": ""
+        },
+        {
+            "value": 12500,
             "description": ""
         }
     ],
     "acf": [],
     "modulation": [
         {
-            "value": "FSK",
-            "description": ""
+            "value": "FM",
+            "description": "Frequency Modulation"
         }
     ],
     "mode": [
         {
-            "value": "USB",
+            "value": "NFM",
             "description": ""
         }
     ],
     "location": [
         {
-            "value": "Sweden",
+            "value": "Worldwide",
             "description": ""
         }
-    ]
+    ],
+    "short description": "Used in analog walkie-talkies and communication systems.",
+    "description": "Used in analog walkie-talkies and communication systems. In addition, old cordless phones and baby monitors transmit unencoded NFM voice. These older devices are most commonly found in the 49 MHz Part 15 band 49.82 MHz – 49.9 MHz region. FCC type accepted 25 channel analog cordless phones can be found in the 43-49.98 MHz range. They can also be found in the 27 MHz, 40 MHz, 864 MHz and 902-928 MHz regions.\n \nNewer devices utilize the [DECT](https://www.sigidwiki.com/wiki/DECT) protocol, which is harder to decode."
 }

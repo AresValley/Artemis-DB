@@ -1,0 +1,53 @@
+{
+    "pageid": "673",
+    "title": "Siemens CHX-200 FSK Modem",
+    "spectrum": {
+        "filename": "CHX200.jpg",
+        "url": "https://www.sigidwiki.com/images/f/ff/CHX200.jpg"
+    },
+    "audio": {
+        "filename": "Chx200.mp3",
+        "url": "https://www.sigidwiki.com/images/f/f3/Chx200.mp3"
+    },
+    "category": [
+        "Military",
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 1500000,
+            "description": ""
+        },
+        {
+            "value": 30000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 300,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "FSK",
+            "description": "Frequency-Shift Keying"
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ],
+    "short description": "CHX200, also known as Siemens CHP200 and PRC-921/GY, is a backpack HF ECCOM transceiver, designed and built by Siemens.",
+    "description": "**CHX200**, also known as Siemens CHP200 and PRC-921/GY, is a backpack HF ECCOM transceiver, designed and built by Siemens.\n\n- PRC = Portable Radio Communications\n- ECCOM = Emergency Communications\n- HF = High Frequency\n\nThe Siemens CHX200 F1-Modem Military manpack is used for ECCOM, with production started in 1981. This modem operates at 250 Bd, with a FSK shift of 170 Hz. \n \nThe modem uses a CHP-200 processor, which allows for encryption and frequency hopping. The modem can also transmit in simplex and ARQ mode.\n\nThis radio transceiver was built in Germany by Siemens, & was under license in Indonesia (for domestic use).\n\nParts of the radio transceiver:\n- Receiver / exciter CHX200RX / TX\n- Power amplifier CHX200PA400\n- F1 modem CHX200F1\n- The antenna control CHO902\n- Power supply 24 V / 230 V AC adapter / charger CHX200PS400"
+}

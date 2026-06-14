@@ -1,0 +1,60 @@
+{
+    "pageid": "4875",
+    "title": "Radioteknicheskaya Systema Dalney Navigatsii (RSDN-20)",
+    "spectrum": {
+        "filename": "Rsdn.PNG",
+        "url": "https://www.sigidwiki.com/images/d/d8/Rsdn.PNG"
+    },
+    "audio": {
+        "filename": "AF 24DEC2015 073110z942 RSDN20 11900.mp3",
+        "url": "https://www.sigidwiki.com/images/c/c2/AF_24DEC2015_073110z942_RSDN20_11900.mp3"
+    },
+    "category": [
+        "Navigation",
+        "Military"
+    ],
+    "frequency": [
+        {
+            "value": 11910,
+            "description": ""
+        },
+        {
+            "value": 12090,
+            "description": ""
+        },
+        {
+            "value": 12650,
+            "description": ""
+        },
+        {
+            "value": 14880,
+            "description": ""
+        },
+        {
+            "value": 12040,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 20,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [],
+    "mode": [
+        {
+            "value": "CW",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Russia",
+            "description": ""
+        }
+    ],
+    "short description": "RSDN-20, also known as Alpha, is a Russian hyperbolic radio navigation system. Presumed to be used for Russian ships, submarines and aircraft in the northern hemisphere, possibly worldwide.",
+    "description": "**Radioteknicheskaya Sistema Dal'ney Navigatsii**, also known as **RSDN-20** and with the designation **Alpha**, is a Russian hyperbolic radio navigation system. Presumed to be used for Russian ships, submarines and aircraft in the northern hemisphere, possibly worldwide. These transmissions are among the lowest-frequency man made transmissions in the world. The Russian name means \"Radiotechnical long-range navigation system\". The RSDN-20 system is said to have a range of 10000 km and a position error of 2.5 to 7 km.\n\nRSDN-20 transmitters are located in Novosibirsk, Krasnodar, and Khabarovsk in Russia. Two other transmitters exist in Revda and Seyda, but they are no longer operational."
+}

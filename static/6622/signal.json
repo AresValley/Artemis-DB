@@ -1,0 +1,44 @@
+{
+    "pageid": "6622",
+    "title": "IsatData Pro",
+    "spectrum": {
+        "filename": null,
+        "url": null
+    },
+    "audio": {
+        "filename": null,
+        "url": null
+    },
+    "category": [
+        "Satellite",
+        "Digital",
+        "Commercial"
+    ],
+    "frequency": [
+        {
+            "value": 1525000000,
+            "description": ""
+        },
+        {
+            "value": 1559000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "OQPSK",
+            "description": "Offset Quadrature Phase-Shift Keying"
+        }
+    ],
+    "mode": [],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ],
+    "short description": "Inmarsat's M2M data service for SCADA asset tracking and reporting.",
+    "description": "[Category:Requested](https://www.sigidwiki.com/wiki/Category%3ARequested)"
+}

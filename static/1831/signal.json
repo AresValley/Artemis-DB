@@ -1,0 +1,57 @@
+{
+    "pageid": "1831",
+    "title": "Modernised High Frequency Communications System (MHFCS)",
+    "spectrum": {
+        "filename": "ISB AUS MIL.jpg",
+        "url": "https://www.sigidwiki.com/images/5/59/ISB_AUS_MIL.jpg"
+    },
+    "audio": {
+        "filename": "Australian MHFCS 15858 kHz.mp3",
+        "url": "https://www.sigidwiki.com/images/4/42/Australian_MHFCS_15858_kHz.mp3"
+    },
+    "category": [
+        "Digital",
+        "Military"
+    ],
+    "frequency": [
+        {
+            "value": 27477500,
+            "description": ""
+        },
+        {
+            "value": 2010000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 750,
+            "description": ""
+        },
+        {
+            "value": 400,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "FSK",
+            "description": "Frequency-Shift Keying"
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Australia",
+            "description": ""
+        }
+    ],
+    "short description": "The Modernised High Frequency Communications System (MHFCS) is an Australian Department of Defense HF System for their military communications network. Also known as AUS MIL ISB Modem, AUS MHFCS, and ADF HFCS.",
+    "description": "The **Modernised High Frequency Communications System (MHFCS)** is an Australian Department of Defense HF System for their military communications network. Also known as AUS MIL ISB Modem, AUS MHFCS, and ADF MHFCS. This system was initiated as the High Frequency Modernization Project.\n\nThe purpose of the High Frequency (HF) Modernisation Project (JP 2043) is to \"provide the Australian Defense Forces (ADF) with a secure, cost-effective information exchange capability for the command and control of deployed forces as a primary survivable system and as a parallel system to satellite communications\"."
+}

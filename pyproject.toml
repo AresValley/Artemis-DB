@@ -1,13 +1,13 @@
 [project]
 name = "artemis-db"
-version = "1.0.0"
+version = "2.0.0"
 description = "SigId wiki database crawler for Artemis"
 readme = "README.md"
 requires-python = ">=3.14"
 dependencies = [
-    "beautifulsoup4>=4.14.3",
-    "lxml>=6.1.1",
     "pillow>=12.2.0",
+    "rapidfuzz>=3.14.5",
     "requests>=2.34.2",
     "tqdm>=4.68.1",
+    "wikitextparser>=0.56.4",
 ]

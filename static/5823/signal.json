@@ -1,0 +1,67 @@
+{
+    "pageid": "5823",
+    "title": "HDMI RFI Clock",
+    "spectrum": {
+        "filename": "HDMI clock 4rd.png",
+        "url": "https://www.sigidwiki.com/images/b/ba/HDMI_clock_4rd.png"
+    },
+    "audio": {
+        "filename": null,
+        "url": null
+    },
+    "category": [
+        "Interfering"
+    ],
+    "frequency": [
+        {
+            "value": 148350000,
+            "description": ""
+        },
+        {
+            "value": 148500000,
+            "description": ""
+        },
+        {
+            "value": 296700000,
+            "description": ""
+        },
+        {
+            "value": 297000000,
+            "description": ""
+        },
+        {
+            "value": 445500000,
+            "description": ""
+        },
+        {
+            "value": 742500000,
+            "description": ""
+        },
+        {
+            "value": 445050000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 700000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [],
+    "mode": [
+        {
+            "value": "AM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ],
+    "short description": "HDMI is a popular media source for delivering video, audio, all in the same stream.  Unfortunately, there is massive interference from it when a neighboring SDR is near it.  It can disrupt receiving to a great degree.",
+    "description": "HDMI is a popular media source for delivering video, audio, all in the same stream. Unfortunately, there is massive interference from it when a neighboring SDR is near it. It can disrupt receiving to a great degree."
+}

@@ -1,0 +1,70 @@
+{
+    "pageid": "3143",
+    "title": "Inmarsat-C TDM",
+    "spectrum": {
+        "filename": "Inmarsat_TDM_NCS.jpg",
+        "url": "https://www.sigidwiki.com/images/2/24/Inmarsat_TDM_NCS.jpg"
+    },
+    "audio": {
+        "filename": "Inmarsat_TDM.mp3",
+        "url": "https://www.sigidwiki.com/images/7/73/Inmarsat_TDM.mp3"
+    },
+    "category": [
+        "Satellite",
+        "Marine"
+    ],
+    "frequency": [
+        {
+            "value": 1537700000,
+            "description": ""
+        },
+        {
+            "value": 1539585000,
+            "description": ""
+        },
+        {
+            "value": 1539685000,
+            "description": ""
+        },
+        {
+            "value": 1539525000,
+            "description": ""
+        },
+        {
+            "value": 1539555000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 2500,
+            "description": ""
+        }
+    ],
+    "acf": [
+        {
+            "value": 135.0,
+            "description": "Main"
+        }
+    ],
+    "modulation": [
+        {
+            "value": "PSK",
+            "description": "Phase-Shift Keying"
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ],
+    "short description": "Inmarsat C provides two-way data and messaging communication services to and from virtually anywhere in the world. The low-cost terminals and antennas are small enough to be fitted to any size of ship.",
+    "description": "This signal identification is from Inmarsat 3-F4. This is a 1200 bps DBPSK Network Control Station Channel (NCSC).\n\nThe Inmarsat C maritime mobile satellite system has an inherent capability, known as Enhanced Group Call (EGC), which allows broadcast messages to be made to selected groups of ship stations located anywhere within a satellite's coverage. Four geostationary satellites provide worldwide coverage for these types of broadcasts. Two types of EGC services are available: Safety NET and Fleet NET. Fleet NET is a commercial messaging services offered by Inmarsat, and is not recognized by the Global Maritime Distress & Safety System, or GMDSS. Safety NET, along with NAVTEX, is recognized by the GMDSS as the primary means for disseminating maritime safety information. Ships regulated by the Safety of Life at Sea Convention travelling outside areas covered by NAVTEX must carry an Inmarsat C Safety NET receiver by 1 February 1999."
+}

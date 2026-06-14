@@ -1,0 +1,52 @@
+{
+    "pageid": "5749",
+    "title": "Sensus Water meter (Acquisition units)",
+    "spectrum": {
+        "filename": "SWD.png",
+        "url": "https://www.sigidwiki.com/images/0/09/SWD.png"
+    },
+    "audio": {
+        "filename": null,
+        "url": null
+    },
+    "category": [
+        "Commercial",
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 902000000,
+            "description": ""
+        },
+        {
+            "value": 927000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 175000000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "ASK",
+            "description": "Amplitude-Shift Keying"
+        },
+        {
+            "value": "FHSS",
+            "description": "Frequency Hopping Spread Spectrum"
+        }
+    ],
+    "mode": [],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ],
+    "short description": "These are samples from the Sensus Water meters. They are a FHSS ASK encoded data transmission for purposes of providing municipalities water meter telemetry (for billing how much water you use).",
+    "description": ""
+}

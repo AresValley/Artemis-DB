@@ -1,0 +1,47 @@
+{
+    "pageid": "2623",
+    "title": "High Speed USB Noise",
+    "spectrum": {
+        "filename": "USB noise.png",
+        "url": "https://www.sigidwiki.com/images/a/a3/USB_noise.png"
+    },
+    "audio": {
+        "filename": "USB_Noise.mp3",
+        "url": "https://www.sigidwiki.com/images/6/69/USB_Noise.mp3"
+    },
+    "category": [
+        "Interfering"
+    ],
+    "frequency": [
+        {
+            "value": 480000000,
+            "description": ""
+        },
+        {
+            "value": 960000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 200000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [],
+    "mode": [
+        {
+            "value": "RAW",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ],
+    "short description": "High Speed USB 2.0 clock noise. Shows up at multiples of 480 MHz.",
+    "description": "**High Speed USB 2.0** clock noise. Shows up at multiples of 480 MHz. The USB clock is 48 MHz * 10 = 480 MBit/s. \n\nThis type of noise is quite commonly seen at 480/960 MHz on USB powered SDR devices."
+}

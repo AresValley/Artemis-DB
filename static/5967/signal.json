@@ -1,0 +1,61 @@
+{
+    "pageid": "5967",
+    "title": "Lockheed Martin LMS-6 (Radiosonde)",
+    "spectrum": {
+        "filename": "Lms6.png",
+        "url": "https://www.sigidwiki.com/images/c/c3/Lms6.png"
+    },
+    "audio": {
+        "filename": "Lms 6 radiosonde.mp3",
+        "url": "https://www.sigidwiki.com/images/9/9c/Lms_6_radiosonde.mp3"
+    },
+    "category": [
+        "Utility",
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 400000000,
+            "description": ""
+        },
+        {
+            "value": 403000000,
+            "description": ""
+        },
+        {
+            "value": 1676000000,
+            "description": ""
+        },
+        {
+            "value": 1682000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 10000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "GFSK",
+            "description": "Gaussian Frequency-Shift Keying"
+        }
+    ],
+    "mode": [
+        {
+            "value": "NFM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ],
+    "short description": "The LMS-6 is a radiosonde developed by Lockheed Martin which contains a temperature, barometric pressure (On the 1680 MHz models only), and humidity sensor for upper air weather observations.",
+    "description": "The LMS-6 is a radiosonde developed by Lockheed Martin which contains a temperature, barometric pressure (On the 1680 MHz models only), and humidity sensor for upper air weather observations. It also contains a GPS receiver for position tracking as well as calculating wind speeds.\n\nCurrently in the United States, the National Oceanic and Atmospheric Administration (NOAA) is in the process transitioning some of it's National Weather Service (NWS) offices that are part of the upper-air observation program to the [Graw DFM-17 radiosonde](https://www.sigidwiki.com/wiki/Graw_DFM-17_(Radiosonde)). Other offices are being transitioned to different variations of the Vaisala RS-41 Radiosonde A list of upper-air sites and their new radiosonde types can be found [here on the weather.gov website](https://www.weather.gov/media/upperair/Documents/Upper%20Air%20Sites%20Ground%20Equipment%20and%20Radiosonde%20Types.pdf)."
+}

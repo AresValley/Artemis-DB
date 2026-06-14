@@ -1,0 +1,52 @@
+{
+    "pageid": "8715",
+    "title": "Magnetron (microwave owen)",
+    "spectrum": {
+        "filename": "MWowen.jpg",
+        "url": "https://www.sigidwiki.com/images/1/17/MWowen.jpg"
+    },
+    "audio": {
+        "filename": "MWowen.mp3",
+        "url": "https://www.sigidwiki.com/images/6/6a/MWowen.mp3"
+    },
+    "category": [
+        "Utility"
+    ],
+    "frequency": [
+        {
+            "value": 2440000000,
+            "description": ""
+        },
+        {
+            "value": 2460000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 20000000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "Pulse",
+            "description": "Undisclosed Pulse Modulation"
+        }
+    ],
+    "mode": [
+        {
+            "value": "RAW",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ],
+    "short description": "Magnetron produces regularly repeating pulses of microwave energy. These pulses have a defined repetition rate, a stable peak amplitude, and a consistent pulse width.",
+    "description": "The **magnetron (microwave owen)** produces regularly repeating pulses of microwave energy. These pulses have a defined repetition rate, a stable peak amplitude, and a consistent pulse width. Because the signal is pulsed rather than continuous, its spectrum contains the carrier frequency along with sidebands determined by the pulse shape and timing. Overall, it behaves as a periodic pulsed microwave source.\n\nBandwidth is a ~20 MHz‑wide centered on the carrier. It contains discrete spectral lines spaced by the PRF. The envelope of the spectrum resembles a sinc function (main lobe + side lobes). Inside each pulse, the magnetron oscillates at its natural cavity frequency.\nMagnetrons are non‑linear oscillators, so their frequency shifts due to\n- pushing: change in anode current\n- pulling: change in load impedance (e.g., reflections from the antenna)\n\nThese effects cause small frequency variations that look like FM, but they are not controlled modulation, just a by‑product of the device physics. Because the magnetron is a free‑running oscillator, its phase is not stable from pulse to pulse.\nThis is why classical magnetrons are not used in coherent radar."
+}

@@ -1,0 +1,50 @@
+{
+    "pageid": "2638",
+    "title": "Chinese Firedrake Jammer",
+    "spectrum": {
+        "filename": "CHN Jammer.png",
+        "url": "https://www.sigidwiki.com/images/0/0a/CHN_Jammer.png"
+    },
+    "audio": {
+        "filename": "CHN Jammer.mp3",
+        "url": "https://www.sigidwiki.com/images/8/85/CHN_Jammer.mp3"
+    },
+    "category": [],
+    "frequency": [
+        {
+            "value": 6000000,
+            "description": ""
+        },
+        {
+            "value": 18000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 10000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "AM",
+            "description": "Amplitude Modulation"
+        }
+    ],
+    "mode": [
+        {
+            "value": "AM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "China",
+            "description": ""
+        }
+    ],
+    "short description": "Commercial AM Broadcast jamming signal that plays Chinese folk songs to jam specific radio stations in Asia from being received by listeners.",
+    "description": "The **Chinese Firedrake Jammer** (also known as FireDragon) is a Commercial AM Broadcast jamming signal that aims to jam specific radio stations in Asia from being received by listeners. It plays the characteristic Chinese folk song \"The Firedrake\" which runs for an hour duration, the same duration of radio programmes on shortwave.\n\nThe jamming signal has been traced to be sourced from ChinaSat 6B within the China National Radio (CNR) satellite feed circuits. In 2024, it was replaced by the ChinaSat 6E satellite. Jamming signals were also present on the APStar 6C satellite. The satellite relays the jamming music to ground transmitters across China to then transmit on the same frequencies as radio stations that China sees as unfavorable, including (but not limited to) [Voice of America](https://en.wikipedia.org/wiki/Voice_of_America), [Radio Free Asia](https://en.wikipedia.org/wiki/Radio_Free_Asia), [BBC World Service](https://en.wikipedia.org/wiki/BBC_World_Service) etc. as well as stations based in Taiwan."
+}

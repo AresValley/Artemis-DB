@@ -1,38 +1,60 @@
 {
-    "signal": {
-        "name": "UK GOV MIL WINDRM51",
-        "url": "https://www.sigidwiki.com/wiki/UK_GOV_MIL_WINDRM51"
+    "pageid": "483",
+    "title": "29B6 'Kontayner' OTH Radar",
+    "spectrum": {
+        "filename": "Kontainer.png",
+        "url": "https://www.sigidwiki.com/images/9/99/Kontainer.png"
+    },
+    "audio": {
+        "filename": "29B6 40Hz USB 5kHz.ogg",
+        "url": "https://www.sigidwiki.com/images/6/6d/29B6_40Hz_USB_5kHz.ogg"
     },
     "category": [
         "Military",
-        "Digital"
+        "Radar"
     ],
     "frequency": [
         {
-            "value": 9104000,
+            "value": 6100000,
             "description": ""
         },
         {
-            "value": 13451250,
+            "value": 32000000,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 2500,
+            "value": 3500,
+            "description": ""
+        },
+        {
+            "value": 7000,
+            "description": ""
+        },
+        {
+            "value": 14000,
+            "description": ""
+        },
+        {
+            "value": 28000,
             "description": ""
         }
     ],
     "acf": [
         {
-            "value": 106.66,
+            "value": 25.0,
             "description": "Main"
         }
     ],
     "modulation": [
         {
-            "value": "OFDM",
-            "description": ""
+            "value": "FMOP",
+            "description": "Frequency Modulation on Pulse"
+        },
+        {
+            "value": "Pulse",
+            "description": "Undisclosed Pulse Modulation"
         }
     ],
     "mode": [
@@ -43,8 +65,10 @@
     ],
     "location": [
         {
-            "value": "Europe",
+            "value": "Russia",
             "description": ""
         }
-    ]
+    ],
+    "short description": "29B6, nicknamed 'Контейнер' (Kontayner), is a Russian over the horizon radar. It is currently very active in Europe. The radar uses 150 antenna masts with data transmission systems, transmitters and receivers, a power station, and control buildings. It can detect high-altitude and low-altitude aircraft and missiles at very long ranges.",
+    "description": "**29B6**, nicknamed 'Контейнер' (Kontayner), is a Russian over the horizon radar. It is currently very active in Europe. The radar uses 150 antenna masts with data transmission systems, transmitters and receivers, a power station and control buildings. It is able to detect both high altitude and low altitude aircraft and missiles at very long ranges. \n\n \nThe first 29B6 radar installation is based at Kolkino radar station. [The receiving antennas](https://www.google.com/maps/@53.9838759,43.8422573,1009m/data=!3m1!1e3) are located 8 km south-west from Kovylkino, Mordovia, Russia 53.9841°N 43.8427°E. [The transmitting antennas](https://www.google.com/maps/@56.6928186,43.4866501,1177m/data=!3m1!1e3) are located 300 km from receiver, 5 km north from Gorodets town, Nizhegorodskaya oblast', Russia 56.69328°N 43.48625°E.\n\nAs of 2018 or 2019, the Gorodets transmitter station has been dismantled and a new transmitter built near the Kovylkino receiver. [LINK](https://planesandstuff.wordpress.com/2020/02/25/russian-othr-29b6-konteyner-analysis/) Another 29B6 facility has been planned to be built in Kaliningrad. [LINK](https://planesandstuff.wordpress.com/2020/03/23/more-konteyner/)\n\n29B6 uses pulsed modulation with Frequency Modulation On Pulse (FMOP), unlike many other OTH radars which tend to use Frequency Modulated Continuous Wave (FMCW). Like some other OTH radars, the 29B6 can transmit multiple beams simultaneously on multiple frequencies.\n\nAs of about 2019, the 29B6 almost always transmits 40 pulses/sec which gives an unambiguous range of 3750 km. Bandwidth of the signal is usually about 14 kHz but it's often hard to determine accurately due to splattering that is caused by its pulsed operation. Other modes may still be used but they are rarely seen.\n\nPreviously, it commonly used 50 pulses/sec (max range 3000 km), but it was also seen with 25 sweeps/sec (max range 6000 km) and 100 sweeps/sec (max range 1500 km). \n\n29B6 can be confused with the [PLUTO II](https://www.sigidwiki.com/wiki/PLUTO_II_OTH_Radar) radar but can be usually differentiated by its different sweep rate (40 Hz vs 50/25/12.5 Hz), slightly narrower bandwidth and sharper or rougher sound. Signal analysis will reveal pulsed operation."
 }

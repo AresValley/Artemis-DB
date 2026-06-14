@@ -1,0 +1,56 @@
+{
+    "pageid": "7630",
+    "title": "Canadian Meteor Orbit Radar (CMOR)",
+    "spectrum": {
+        "filename": "CMOR 1.png",
+        "url": "https://www.sigidwiki.com/images/5/55/CMOR_1.png"
+    },
+    "audio": {
+        "filename": "CMOR 1 AM.ogg",
+        "url": "https://www.sigidwiki.com/images/c/cb/CMOR_1_AM.ogg"
+    },
+    "category": [
+        "Radar"
+    ],
+    "frequency": [
+        {
+            "value": 17450000,
+            "description": ""
+        },
+        {
+            "value": 29850000,
+            "description": ""
+        },
+        {
+            "value": 38150000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 28000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "Pulse",
+            "description": "Undisclosed Pulse Modulation"
+        }
+    ],
+    "mode": [
+        {
+            "value": "AM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Canada",
+            "description": ""
+        }
+    ],
+    "short description": "Canadian Meteor Orbit Radar, or CMOR, is a meteor detection radar located near Tavistock, Ontario.",
+    "description": "**Canadian Meteor Orbit Radar**, **CMOR**, is a meteor detection radar operated by University of Western Ontario and located near Tavistock, Ontario. It transmits a pulsed signal on three frequencies with a pulse repetition frequency of 532 Hz and pulse length of 75 µs. Three receiver stations are used to determine incoming meteor orbits based on the reflected signals."
+}

@@ -1,0 +1,85 @@
+{
+    "pageid": "6551",
+    "title": "Cuban Jammer",
+    "spectrum": {
+        "filename": "Cuban Jammer spectrum.png",
+        "url": "https://www.sigidwiki.com/images/7/73/Cuban_Jammer_spectrum.png"
+    },
+    "audio": {
+        "filename": "6030 khz.wav",
+        "url": "https://www.sigidwiki.com/images/5/5f/6030_khz.wav"
+    },
+    "category": [],
+    "frequency": [
+        {
+            "value": 7335000,
+            "description": ""
+        },
+        {
+            "value": 7355000,
+            "description": ""
+        },
+        {
+            "value": 7375000,
+            "description": ""
+        },
+        {
+            "value": 7435000,
+            "description": ""
+        },
+        {
+            "value": 9490000,
+            "description": ""
+        },
+        {
+            "value": 9565000,
+            "description": ""
+        },
+        {
+            "value": 9955000,
+            "description": ""
+        },
+        {
+            "value": 11860000,
+            "description": ""
+        },
+        {
+            "value": 11930000,
+            "description": ""
+        },
+        {
+            "value": 13820000,
+            "description": ""
+        },
+        {
+            "value": 5980000,
+            "description": ""
+        },
+        {
+            "value": 6030000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 10000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [],
+    "mode": [
+        {
+            "value": "DSB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Cuba",
+            "description": ""
+        }
+    ],
+    "short description": "Cuban jammers jam the frequencies of Radio Martí, Radio Republica and occasionally WRMI radio.",
+    "description": ""
+}

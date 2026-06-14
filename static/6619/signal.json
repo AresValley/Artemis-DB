@@ -1,0 +1,53 @@
+{
+    "pageid": "6619",
+    "title": "Federal Signal Modem-MSK",
+    "spectrum": {
+        "filename": "Fs msk.png",
+        "url": "https://www.sigidwiki.com/images/c/c6/Fs_msk.png"
+    },
+    "audio": {
+        "filename": "Fsmsk sample.mp3",
+        "url": "https://www.sigidwiki.com/images/b/bf/Fsmsk_sample.mp3"
+    },
+    "category": [
+        "Utility",
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 150000000,
+            "description": ""
+        },
+        {
+            "value": 160000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 6000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "MSK",
+            "description": "Minimum-Shift Keying"
+        }
+    ],
+    "mode": [
+        {
+            "value": "NFM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "United States",
+            "description": ""
+        }
+    ],
+    "short description": "Signalling protocol developed for Federal Signal's various warning and mass notification appliances. This signal is used for activation and telemetry of all units in a network.",
+    "description": "The **Federal Signal Digital** signalling protocol developed for Federal Signal's various warning and mass notification appliances. This signal is used for activation and telemetry of all units in a network.\n\nThe modem can be used in tandem with Federal Signal's [Commander Digital System (aka SFCDware)](https://www.fedsig.com/product/sfcd-commander-digital-system). \n\nThis protocol is commonly found among their line of mass warning and notification appliances. It is often heard over public safety/fire/police radio to control warning sirens. The entire system can be configured to transmit daily at a user-defined time to poll health checks on units in the system or manually commanded to activate or deactivate one or more nodes within a system. The protocol may also be used to remotely upgrade or program units if desired."
+}

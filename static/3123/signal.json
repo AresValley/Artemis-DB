@@ -1,0 +1,61 @@
+{
+    "pageid": "3123",
+    "title": "MD-674",
+    "spectrum": {
+        "filename": "MD-674.png",
+        "url": "https://www.sigidwiki.com/images/4/45/MD-674.png"
+    },
+    "audio": {
+        "filename": "md-674.mp3",
+        "url": "https://www.sigidwiki.com/images/d/d4/Md-674.mp3"
+    },
+    "category": [
+        "Digital",
+        "Military"
+    ],
+    "frequency": [
+        {
+            "value": 3000000,
+            "description": ""
+        },
+        {
+            "value": 30000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 200,
+            "description": ""
+        },
+        {
+            "value": 250,
+            "description": ""
+        },
+        {
+            "value": 300,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "FSK",
+            "description": "Frequency-Shift Keying"
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "United States",
+            "description": ""
+        }
+    ],
+    "short description": "MD-674, also known as Wireline FSK, is a very old United States Military FSK Modem from the 1960's. Uses 85 Hz FSK shift. Speeds of 50 Bd, 75 Bd, 100 Bd, and 150 Bd have been logged. No longer seen today.",
+    "description": "MD-674, also known as Wireline FSK, is a very old United States Military FSK Modem from the 1960's. Uses 85 Hz FSK shift. Speeds of 50 Bd, 75 Bd, 100 Bd, and 150 Bd have been logged. No longer seen today.\n\nThe MD-674 Modem is designed to output to a 4-channel VFT wire circuit, so it's use is not in wireless transmission but wired transmissions over telephone circuits. The [MD-522](https://www.sigidwiki.com/wiki/MD-522) is the wireless version of this signal, designed for transmitting with a radio frequency transmitter and receiver."
+}

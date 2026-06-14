@@ -1,0 +1,61 @@
+{
+    "pageid": "3388",
+    "title": "Coherent BPSK",
+    "spectrum": {
+        "filename": "Coherent PSK.jpg",
+        "url": "https://www.sigidwiki.com/images/4/4e/Coherent_PSK.jpg"
+    },
+    "audio": {
+        "filename": "Coherent PSK.mp3",
+        "url": "https://www.sigidwiki.com/images/3/32/Coherent_PSK.mp3"
+    },
+    "category": [
+        "Digital",
+        "Amateur Radio"
+    ],
+    "frequency": [
+        {
+            "value": 138000,
+            "description": ""
+        },
+        {
+            "value": 1881000,
+            "description": ""
+        },
+        {
+            "value": 14081000,
+            "description": ""
+        },
+        {
+            "value": 18081000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 200,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "PSK",
+            "description": "Phase-Shift Keying"
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ],
+    "short description": "Coherent BPSK, also known as C-BPSK, was an experimental amateur mode developed by Bill DeCarle VE2IQ.",
+    "description": "**Coherent BPSK**, also known as C-BPSK, was an experimental amateur mode developed by Bill de Carle VE2IQ."
+}

@@ -1,0 +1,52 @@
+{
+    "pageid": "1731",
+    "title": "Digital Multimedia Broadcasting (DMB)",
+    "spectrum": {
+        "filename": "DMB-TDMB-Waterfall-01.jpg",
+        "url": "https://www.sigidwiki.com/images/a/a3/DMB-TDMB-Waterfall-01.jpg"
+    },
+    "audio": {
+        "filename": null,
+        "url": null
+    },
+    "category": [
+        "Digital",
+        "Commercial"
+    ],
+    "frequency": [
+        {
+            "value": 174000000,
+            "description": ""
+        },
+        {
+            "value": 216000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 1536000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "DQPSK",
+            "description": "Differential Quadrature Phase-Shift Keying"
+        },
+        {
+            "value": "OFDM",
+            "description": "Orthogonal Frequency-Division Multiplexing"
+        }
+    ],
+    "mode": [],
+    "location": [
+        {
+            "value": "South Korea",
+            "description": ""
+        }
+    ],
+    "short description": "Digital Multimedia Broadcasting (DMB) is a digital radio transmission technology developed in South Korea as part of the national IT project for sending multimedia such as TV, radio and datacasting to mobile devices such as mobile phones, laptops and GPS navigation systems.",
+    "description": "[Category:Requested](https://www.sigidwiki.com/wiki/Category%3ARequested)\n\n [signal description::Digital Multimedia Broadcasting (DMB) is a digital radio transmission technology developed in South Korea as part of the national IT project for sending multimedia such as TV, radio and datacasting to mobile devices such as mobile phones, laptops and GPS navigation systems.](https://www.sigidwiki.com/wiki/signal_description%3A%3ADigital_Multimedia_Broadcasting_%28DMB%29_is_a_digital_radio_transmission_technology_developed_in_South_Korea_as_part_of_the_national_IT_project_for_sending_multimedia_such_as_TV%2C_radio_and_datacasting_to_mobile_devices_such_as_mobile_phones%2C_laptops_and_GPS_navigation_systems.)"
+}

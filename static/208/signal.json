@@ -1,50 +1,57 @@
 {
-    "signal": {
-        "name": "Graw DFM-06 Weather Balloon (Radiosonde)",
-        "url": "https://www.sigidwiki.com/wiki/Graw_DFM-06_Weather_Balloon_(Radiosonde)"
+    "pageid": "208",
+    "title": "Tire Pressure Monitoring System (TPMS)",
+    "spectrum": {
+        "filename": "TPMS.png",
+        "url": "https://www.sigidwiki.com/images/d/d2/TPMS.png"
+    },
+    "audio": {
+        "filename": "TPMS_audio.mp3",
+        "url": "https://www.sigidwiki.com/images/1/1b/TPMS_audio.mp3"
     },
     "category": [
-        "Digital",
         "Utility"
     ],
     "frequency": [
         {
-            "value": 400010000,
+            "value": 315000000,
             "description": ""
         },
         {
-            "value": 405990000,
+            "value": 434000000,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 20000,
+            "value": 100000,
             "description": ""
         }
     ],
     "acf": [
         {
-            "value": 2000.0,
+            "value": 7.433,
             "description": "Main"
         }
     ],
     "modulation": [
         {
             "value": "FSK",
-            "description": ""
+            "description": "Frequency-Shift Keying"
         }
     ],
     "mode": [
         {
-            "value": "NFM",
+            "value": "AM",
             "description": ""
         }
     ],
     "location": [
         {
-            "value": "Europe",
+            "value": "Worldwide",
             "description": ""
         }
-    ]
+    ],
+    "short description": "TPMS (Tire-Pressure Monitoring System), more specifically Direct TPMS (dTPMS), is a system that uses pressure sensors to monitor tire pressure on vehicles.",
+    "description": "**TPMS (Tire-Pressure Monitoring System)**, more specifically **Direct TPMS (dTPMS)**, is a system that uses pressure sensors to monitor tire pressure on vehicles. This is the RF signal that is transmitted from wireless TPMS pressure sensor variants of TPMS, as there are mechanical, electrical, and magnetic variants which do not employ RF transmission of data to the car. Each tire outfitted with this system contains a pressure sensor that may also monitor temperature. Data is constantly being fed from the sensors to the car's receiver."
 }

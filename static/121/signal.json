@@ -1,43 +1,60 @@
 {
-    "signal": {
-        "name": "Continuous Tone-Coded Squelch System (CTCSS)",
-        "url": "https://www.sigidwiki.com/wiki/Continuous_Tone-Coded_Squelch_System_(CTCSS)"
+    "pageid": "121",
+    "title": "2G (GSM) Global System for Mobile Communications",
+    "spectrum": {
+        "filename": "GSM TK 03 BCCH.jpg",
+        "url": "https://www.sigidwiki.com/images/4/45/GSM_TK_03_BCCH.jpg"
     },
-    "category": [],
+    "audio": {
+        "filename": "GSM_TK_03_BCCH.mp3",
+        "url": "https://www.sigidwiki.com/images/6/6c/GSM_TK_03_BCCH.mp3"
+    },
+    "category": [
+        "Digital",
+        "Commercial"
+    ],
     "frequency": [
         {
-            "value": 30000000,
+            "value": 850000000,
             "description": ""
         },
         {
-            "value": 800000000,
+            "value": 900000000,
+            "description": ""
+        },
+        {
+            "value": 1800000000,
+            "description": ""
+        },
+        {
+            "value": 1900000000,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 5000,
-            "description": ""
-        },
-        {
-            "value": 12500,
-            "description": ""
-        },
-        {
-            "value": 30000,
+            "value": 200000,
             "description": ""
         }
     ],
     "acf": [],
     "modulation": [
         {
-            "value": "CW",
-            "description": ""
+            "value": "GMSK",
+            "description": "Gaussian Minimum-Shift Keying"
         }
     ],
     "mode": [
         {
-            "value": "NFM",
+            "value": "RAW",
+            "description": ""
+        },
+        {
+            "value": "AM",
+            "description": ""
+        },
+        {
+            "value": "FM",
             "description": ""
         }
     ],
@@ -46,5 +63,7 @@
             "value": "Worldwide",
             "description": ""
         }
-    ]
+    ],
+    "short description": "GSM (Global System for Mobile Communications) is a standard developed by ETSI to describe the protocols for second-generation (2G) digital cellular networks used by mobile phones. As of 2014, it has become the default global standard for mobile communications.",
+    "description": "**GSM** (**Global System for Mobile Communications**, originally *Groupe Spécial Mobile*), is a standard developed by ETSI to describe the protocols for second-generation (2G) digital cellular networks used by mobile phones, first deployed in Finland in July 1991. As of 2014 it has become the default global standard for mobile communications - with over 90% market share, operating in over 219 countries and territories. As the need for more low-band 5G and 4G networks grow, operators around the world began phasing out GSM to re-farm spectrum. In the U.S, AT&T shut down GSM in 2017 while T-Mobile GSM continues to operate at reduced capacity in 2026. T-Mobile has begun shutting down its GSM network, however it is taking place slowly over the course of multiple years. In Australia, Optus GSM was decommissioned in 2017."
 }

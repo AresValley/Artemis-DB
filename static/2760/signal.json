@@ -1,0 +1,60 @@
+{
+    "pageid": "2760",
+    "title": "MMP-4800",
+    "spectrum": {
+        "filename": "Mpp4800.png",
+        "url": "https://www.sigidwiki.com/images/f/fe/Mpp4800.png"
+    },
+    "audio": {
+        "filename": "mmp4800.mp3",
+        "url": "https://www.sigidwiki.com/images/f/fc/Mmp4800.mp3"
+    },
+    "category": [
+        "Digital",
+        "Commercial"
+    ],
+    "frequency": [
+        {
+            "value": 400000000,
+            "description": ""
+        },
+        {
+            "value": 500000000,
+            "description": ""
+        },
+        {
+            "value": 900000000,
+            "description": ""
+        },
+        {
+            "value": 150000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 25000,
+            "description": ""
+        },
+        {
+            "value": 12500,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [],
+    "mode": [
+        {
+            "value": "NFM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ],
+    "short description": "MMP-4800 was a MDT (Mobile Data Terminal) protocol developed by Canadian company Mobile Data International (MDI) in 1982 for their Mobile Data Terminals. Used by public safety and commercial industries. Phased out.",
+    "description": "**MMP-4800** was a MDT (Mobile Data Terminal) protocol developed by Canadian company Mobile Data International (MDI) in 1982. Used by public safety and commercial industries. Phased out.\n\nTransmitted at 4800 bps, had two-way functionality, and occupied 25 kHz UHF/VHF voice channel, or 12.5 kHz sideband.\n\nUsers of this included Swedish Police, Phoenix Fire Dept., and other commercial companies.\n\nWhen MDI was purchased by Motorola in 1988, Motorola decided to discontinue MDI's MMP-4800 protocol in favor of it's own [MDC-4800](https://www.sigidwiki.com/wiki/MDC-4800) protocol."
+}

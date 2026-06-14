@@ -1,0 +1,61 @@
+{
+    "pageid": "6418",
+    "title": "Digisonde",
+    "spectrum": {
+        "filename": "DigisondeCrop.png",
+        "url": "https://www.sigidwiki.com/images/9/9f/DigisondeCrop.png"
+    },
+    "audio": {
+        "filename": "Digisonde.mp3",
+        "url": "https://www.sigidwiki.com/images/7/7b/Digisonde.mp3"
+    },
+    "category": [
+        "Radar"
+    ],
+    "frequency": [
+        {
+            "value": 500000,
+            "description": ""
+        },
+        {
+            "value": 30000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 30000,
+            "description": ""
+        }
+    ],
+    "acf": [
+        {
+            "value": 5.0,
+            "description": "Main"
+        },
+        {
+            "value": 10.0,
+            "description": "Main"
+        }
+    ],
+    "modulation": [
+        {
+            "value": "Pulse",
+            "description": "Undisclosed Pulse Modulation"
+        }
+    ],
+    "mode": [
+        {
+            "value": "RAW",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ],
+    "short description": "Digisondes are ionosondes that use pulsed signal that can gather more radar information than a traditional ionosonde sweep.",
+    "description": "Digisondes are ionosondes that use pulsed signal that can gather more radar information than a traditional ionosonde sweep. It is sometimes called \"The Grinder\" by amateur operators.\n\nThe specifications of the Digisonde transmitters can be found here on the [manufacture's website](https://www.digisonde.com/digisonde.html#features-section). A map of all the Digisonde locations can be found on their [main page](https://www.digisonde.com/index.html)."
+}

@@ -1,0 +1,62 @@
+{
+    "pageid": "558",
+    "title": "Tetrapol",
+    "spectrum": {
+        "filename": "Tetrapolnew.jpg",
+        "url": "https://www.sigidwiki.com/images/2/2e/Tetrapolnew.jpg"
+    },
+    "audio": {
+        "filename": "Tetrapol_Voice_Tfc.mp3",
+        "url": "https://www.sigidwiki.com/images/e/e4/Tetrapol_Voice_Tfc.mp3"
+    },
+    "category": [
+        "Trunked Radio",
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 370000000,
+            "description": ""
+        },
+        {
+            "value": 400000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 12500,
+            "description": ""
+        },
+        {
+            "value": 10000,
+            "description": ""
+        }
+    ],
+    "acf": [
+        {
+            "value": 20.0,
+            "description": "Main"
+        }
+    ],
+    "modulation": [
+        {
+            "value": "GMSK",
+            "description": "Gaussian Minimum-Shift Keying"
+        }
+    ],
+    "mode": [
+        {
+            "value": "NFM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Europe",
+            "description": ""
+        }
+    ],
+    "short description": "Tetrapol is a digital professional mobile radio standard for digital voice and data communication used by public safety and military throughout Europe. Tetrapol was originally developed by Matra Communication (Currently part of EADS/Airbus Group) in France in the 1980's.",
+    "description": "**Tetrapol** is a digital professional mobile radio standard for digital voice and data communication used by public safety and military throughout Europe. Tetrapol was originally developed by Matra Communication (Currently part of EADS/Airbus Group) in France in the 1980s. At the time, the system was known as \"Matracom 9600\".\n\nThe first Tetrapol customers were the Gendarmerie (mid-1992) and the police (early 1995) in France. Today, Tetrapol technology is\nsupported and is being further developed by two organisations: the Tetrapol Forum (predominantly manufacturers) and the Tetrapol User's Club (user organisations). Tetrapol is not to be confused with the similar sounding [TETRA](https://www.sigidwiki.com/wiki/Terrestrial_Trunked_Radio_%28TETRA%29) system."
+}

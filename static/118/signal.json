@@ -1,33 +1,44 @@
 {
-    "signal": {
-        "name": "Coherent CW",
-        "url": "https://www.sigidwiki.com/wiki/Coherent_CW"
+    "pageid": "118",
+    "title": "STANAG 4285",
+    "spectrum": {
+        "filename": "STANAG_4285.jpg",
+        "url": "https://www.sigidwiki.com/images/e/e8/STANAG_4285.jpg"
+    },
+    "audio": {
+        "filename": "STANAG4285_TFC.mp3",
+        "url": "https://www.sigidwiki.com/images/7/7e/STANAG4285_TFC.mp3"
     },
     "category": [
-        "Digital",
-        "Amateur Radio"
+        "Military",
+        "Digital"
     ],
     "frequency": [
         {
-            "value": 3000000,
+            "value": 1890000,
             "description": ""
         },
         {
-            "value": 30000000,
+            "value": 22700000,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 1,
+            "value": 2750,
             "description": ""
         }
     ],
-    "acf": [],
+    "acf": [
+        {
+            "value": 106.66,
+            "description": "Main"
+        }
+    ],
     "modulation": [
         {
-            "value": "OOK",
-            "description": ""
+            "value": "PSK",
+            "description": "Phase-Shift Keying"
         }
     ],
     "mode": [
@@ -41,5 +52,7 @@
             "value": "Worldwide",
             "description": ""
         }
-    ]
+    ],
+    "short description": "STANAG 4285 is specified by the NATO (North Atlantic Treaty Organization) Military Agency for Standardization in \"Characteristics of 1200 / 2400 / 3600 Bits per Second Single Tone Modulators / Demodulators for HF Radio Links\"",
+    "description": "**STANAG 4285** is specified by the NATO (North Atlantic Treaty Organization) Military Agency for Standardization in \"Characteristics of 1200 / 2400 / 3600 Bits per Second Single Tone Modulators / Demodulators for HF Radio Links\". This data modem is very similar to [MIL-STD-188-110 Serial](https://www.sigidwiki.com/wiki/MIL-STD-188-110_Serial)."
 }

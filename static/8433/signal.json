@@ -1,0 +1,52 @@
+{
+    "pageid": "8433",
+    "title": "Chinese/Asian radio \"MDC1200\"",
+    "spectrum": {
+        "filename": "Fakemdc1200.png",
+        "url": "https://www.sigidwiki.com/images/4/4e/Fakemdc1200.png"
+    },
+    "audio": {
+        "filename": "Audio 446070200Hz 17-25-07 13-03-2026.wav",
+        "url": "https://www.sigidwiki.com/images/a/a6/Audio_446070200Hz_17-25-07_13-03-2026.wav"
+    },
+    "category": [
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 136000000,
+            "description": ""
+        },
+        {
+            "value": 470000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 16000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "FSK",
+            "description": "Frequency-Shift Keying"
+        }
+    ],
+    "mode": [
+        {
+            "value": "FM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ],
+    "short description": "Chinese radios failing to mimic mdc1200 or produces really old mdc1200 sound.",
+    "description": "Modern asian and chinese radios will likely have a roger tone setting available with some radtels and baofengs having and option called \"TONE1200\" and this is supposed to make your radio's transmit something that sounds like old analog police radio networks but most radios will fail to do that. Instead the roger tone or packet that is transmitting sounds more like something out of an MPT1327 System or the old motorola astro mdc1200 that sounds more similar. As its different to the modern mdc1200."
+}

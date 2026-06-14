@@ -1,0 +1,53 @@
+{
+    "pageid": "876",
+    "title": "DeltaFix",
+    "spectrum": {
+        "filename": "Deltafix.jpg",
+        "url": "https://www.sigidwiki.com/images/c/cd/Deltafix.jpg"
+    },
+    "audio": {
+        "filename": "Deltafixaudio.mp3",
+        "url": "https://www.sigidwiki.com/images/8/84/Deltafixaudio.mp3"
+    },
+    "category": [
+        "Marine",
+        "Navigation"
+    ],
+    "frequency": [
+        {
+            "value": 1700000,
+            "description": ""
+        },
+        {
+            "value": 3400000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 250,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "FSK",
+            "description": "Frequency-Shift Keying"
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ],
+    "short description": "DeltaFix was a DGPS system that was used to provide precision positioning used in the survey and oceanographic industry.",
+    "description": "**DeltaFix** was a DGPS system that was used to provide precision positioning used in the survey and oceanographic industry.\n\nDeltaFix, owned by Fugro Survey, was a development of [HyperFix](https://www.sigidwiki.com/wiki/HyperFix) that enables DGPS (Differential GPS) corrections to be transmitted using the data time slot 'D' in HyperFix transmissions.\n\nThere are currently no DeltaFix stations operating in Europe anymore."
+}

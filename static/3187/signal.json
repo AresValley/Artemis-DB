@@ -1,0 +1,69 @@
+{
+    "pageid": "3187",
+    "title": "RTTYM",
+    "spectrum": {
+        "filename": "RTTYM.png",
+        "url": "https://www.sigidwiki.com/images/8/8c/RTTYM.png"
+    },
+    "audio": {
+        "filename": "RTTYM.mp3",
+        "url": "https://www.sigidwiki.com/images/1/19/RTTYM.mp3"
+    },
+    "category": [
+        "Digital",
+        "Amateur Radio"
+    ],
+    "frequency": [
+        {
+            "value": 3000000,
+            "description": ""
+        },
+        {
+            "value": 30000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 150,
+            "description": ""
+        },
+        {
+            "value": 250,
+            "description": ""
+        },
+        {
+            "value": 500,
+            "description": ""
+        },
+        {
+            "value": 1000,
+            "description": ""
+        },
+        {
+            "value": 2000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "FSK",
+            "description": "Frequency-Shift Keying"
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ],
+    "short description": "RTTYM, developed by  Nick Fedoseev (UT2UZ) in 2005, is a digital mode derived from Olivia. It aims to deliver a compromise of speed and performance. RTTYM is about 4x faster than Olivia, but trades the speed for reduced robustness and sensitivity.",
+    "description": "OLIVIA based Modes: [Olivia](https://www.sigidwiki.com/wiki/Olivia) - [Contestia](https://www.sigidwiki.com/wiki/Contestia) - [RTTYM](https://www.sigidwiki.com/wiki/RTTYM) - [PAX](https://www.sigidwiki.com/wiki/PAX) - [VOICE](https://www.sigidwiki.com/wiki/VOICE)\n\n**RTTYM**, developed by Nick Fedoseev (UT2UZ) in 2005, is a digital mode derived from [Olivia](https://www.sigidwiki.com/wiki/Olivia). It aims to deliver a compromise of speed and performance. RTTYM is about 4x faster than Olivia, but trades the speed for reduced robustness and sensitivity.\n\nCompared to Olivia, RTTYM has +3 dB minimum signal to noise ratio compared to Olivia. RTTYM uses a block size of 16 where Olivia uses a block size of 64. RTTYM uses a slightly modified [RTTY](https://www.sigidwiki.com/wiki/RTTY) Baudot 5-bit alphabet encoding."
+}

@@ -1,0 +1,34 @@
+{
+    "pageid": "4274",
+    "title": "49MHz RC Car Controller",
+    "spectrum": {
+        "filename": "Zx24o2.PNG",
+        "url": "https://www.sigidwiki.com/images/c/ce/Zx24o2.PNG"
+    },
+    "audio": {
+        "filename": "Recording_126_.mp3",
+        "url": "https://www.sigidwiki.com/images/0/06/Recording_126_.mp3"
+    },
+    "category": [
+        "Utility",
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 49200000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [],
+    "acf": [],
+    "modulation": [],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [],
+    "short description": "The sound of an RC controller signal from an old amphibious toy car",
+    "description": ""
+}

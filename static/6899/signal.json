@@ -1,0 +1,54 @@
+{
+    "pageid": "6899",
+    "title": "Horus Binary 4FSK - v2",
+    "spectrum": {
+        "filename": "Horus4fskwaterfall.png",
+        "url": "https://www.sigidwiki.com/images/f/f8/Horus4fskwaterfall.png"
+    },
+    "audio": {
+        "filename": "Horus4fsk.mp3",
+        "url": "https://www.sigidwiki.com/images/8/8a/Horus4fsk.mp3"
+    },
+    "category": [
+        "Utility",
+        "Amateur Radio",
+        "Analogue"
+    ],
+    "frequency": [
+        {
+            "value": 431000000,
+            "description": ""
+        },
+        {
+            "value": 434000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 1000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "FSK",
+            "description": "Frequency-Shift Keying"
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ],
+    "short description": "An efficient RTTY-like 4FSK mode that transmits binary data, used for amateur high altitude balloon telemetry. Developed by the Project Horus group.",
+    "description": "Horus 4FSK is a binary frequency shift keyed transmission mode developed by the [Project Horus](https://www.areg.org.au/archives/category/activities/project-horus) amateur HAB (High-altitude balloon) group. This mode is similar to RTTY, although it is 4FSK instead of 2FSK. Horus 4FSK offers better SNR performance (~7dB) compared to most telemetry modes previously used for HAB telemetry. In addition, this mode transmits binary data at 100 baud instead of ASCII text (typically at 45 or 50 baud) like RTTY, making it more efficient per a given transmission period.\n\nThere are two versions of Horus 4FSK, v1 and v2. The only notable difference between them is the packet length being 22 bytes for v1, and 32 for v2. v1 is deprecated and no longer in use."
+}

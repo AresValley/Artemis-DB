@@ -1,0 +1,65 @@
+{
+    "pageid": "5630",
+    "title": "China digital radio (CDR)",
+    "spectrum": {
+        "filename": "CroppedCDR.png",
+        "url": "https://www.sigidwiki.com/images/9/93/CroppedCDR.png"
+    },
+    "audio": {
+        "filename": "CDRrecording1.mp3",
+        "url": "https://www.sigidwiki.com/images/9/96/CDRrecording1.mp3"
+    },
+    "category": [
+        "Commercial",
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 106100000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 100000,
+            "description": ""
+        },
+        {
+            "value": 200000,
+            "description": ""
+        },
+        {
+            "value": 300000,
+            "description": ""
+        },
+        {
+            "value": 400000,
+            "description": ""
+        },
+        {
+            "value": 500000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "OFDM",
+            "description": "Orthogonal Frequency-Division Multiplexing"
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "China",
+            "description": ""
+        }
+    ],
+    "short description": "Convergent Digital Radio (CDR) or China Digital Radio is an in-band-on-channel (IBOC) digital radio broadcasting format used in China. It can be found in multiple bandwidth configurations with different modulation formats.",
+    "description": "Convergent Digital Radio (CDR), also known as China Digital Radio (CDR), is an In-Band On-Channel (IBOC) digital radio broadcasting standard that operates in the FM band (88 MHz to 108 MHz). It is also known as ITU Digital System H."
+}

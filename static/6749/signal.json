@@ -1,0 +1,53 @@
+{
+    "pageid": "6749",
+    "title": "METOP Advanced High Resolution Picture Transmission (AHRPT)",
+    "spectrum": {
+        "filename": "METOP-AHRPT-WF.png",
+        "url": "https://www.sigidwiki.com/images/4/47/METOP-AHRPT-WF.png"
+    },
+    "audio": {
+        "filename": null,
+        "url": null
+    },
+    "category": [
+        "Satellite",
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 1701300000,
+            "description": ""
+        },
+        {
+            "value": 1707000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 6000000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "QPSK",
+            "description": "Quadrature Phase-Shift Keying"
+        }
+    ],
+    "mode": [
+        {
+            "value": "RAW",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ],
+    "short description": "A high-speed digital link used by METOP weather satellites for direct data dissemination.",
+    "description": "The METOP series of satellites transmit high resolution pictures from AVHRR and data from several other instruments over an AHRPT link. \n\nDue to a much larger instrument payload than NOAA POES satellites, a faster method of disseminating data from the satellites had to be devised. BPSK was replaced by QPSK and to ensure correct decoding, forward error correction (FEC) was added too. As a result, the data rate passed from 664.5 kbit/s of POES HRPT to 3.5 Mbit/s, over 5 times faster, not including overhead of FEC which brings the total data rate to 4.7 Mbit/s."
+}

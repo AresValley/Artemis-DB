@@ -1,0 +1,53 @@
+{
+    "pageid": "1985",
+    "title": "Primex Wireless Time Sync",
+    "spectrum": {
+        "filename": "A112.jpg",
+        "url": "https://www.sigidwiki.com/images/3/35/A112.jpg"
+    },
+    "audio": {
+        "filename": "Signal2.mp3",
+        "url": "https://www.sigidwiki.com/images/7/70/Signal2.mp3"
+    },
+    "category": [
+        "Time",
+        "Commercial"
+    ],
+    "frequency": [
+        {
+            "value": 72020000,
+            "description": ""
+        },
+        {
+            "value": 72980000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 20000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "PSK",
+            "description": "Phase-Shift Keying"
+        }
+    ],
+    "mode": [
+        {
+            "value": "NFM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ],
+    "short description": "Primex Wireless Time Sync is a VHF Time Synchronization signal used in Primex Wireless's XR Series.",
+    "description": "**Primex Wireless Time Sync** is a VHF Time Synchronization signal used in Primex Wireless's XR Series. Has data rate of 2 KBps. Uses BPSK modulation (possible Offset mode)."
+}

@@ -1,0 +1,52 @@
+{
+    "pageid": "6997",
+    "title": "GOES CDA Telemetry",
+    "spectrum": {
+        "filename": "Cda.png",
+        "url": "https://www.sigidwiki.com/images/8/8a/Cda.png"
+    },
+    "audio": {
+        "filename": null,
+        "url": null
+    },
+    "category": [
+        "Satellite"
+    ],
+    "frequency": [
+        {
+            "value": 1693000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 80000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "BPSK",
+            "description": "Binary Phase-Shift Keying"
+        }
+    ],
+    "mode": [
+        {
+            "value": "RAW",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "United States",
+            "description": ""
+        },
+        {
+            "value": "Asia",
+            "description": ""
+        }
+    ],
+    "short description": "Telemetry signal sent from GOES 16, 17 and 18. GOES is a family of Geostationary Operational Environmental Satellite operated by the United States National Oceanic and Atmospheric Administration (NOAA).",
+    "description": "Telemetry signal sent from GOES 16, 17 and 18."
+}

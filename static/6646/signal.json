@@ -1,0 +1,47 @@
+{
+    "pageid": "6646",
+    "title": "ICV",
+    "spectrum": {
+        "filename": "ICV.png",
+        "url": "https://www.sigidwiki.com/images/b/b8/ICV.png"
+    },
+    "audio": {
+        "filename": "ICV audio.mp3",
+        "url": "https://www.sigidwiki.com/images/1/10/ICV_audio.mp3"
+    },
+    "category": [
+        "Military"
+    ],
+    "frequency": [
+        {
+            "value": 20270,
+            "description": ""
+        },
+        {
+            "value": 20760,
+            "description": ""
+        }
+    ],
+    "bandwidth": [],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "MSK",
+            "description": "Minimum-Shift Keying"
+        }
+    ],
+    "mode": [
+        {
+            "value": "CW",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Italy",
+            "description": ""
+        }
+    ],
+    "short description": "ICV is a NATO-operated VLF transmitted located in the island of Tavolara, Sardinia, Italy.",
+    "description": "ICV is a NATO-operated VLF transmitted located in the island of Tavolara, near Golfo Aranci, Sardinia, Italy. \nIt transmits on 20.27 kHz and 20.76 kHz with MSK modulation.\n\nIt uses a vally-span antenna strung across a small bay (Baia degli Angeli)."
+}

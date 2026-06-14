@@ -1,0 +1,52 @@
+{
+    "pageid": "5274",
+    "title": "SuperDARN (Super Dual Auroral Radar Network)",
+    "spectrum": {
+        "filename": "SuperDARN new showcase by Userbotnet.png",
+        "url": "https://www.sigidwiki.com/images/a/a2/SuperDARN_new_showcase_by_Userbotnet.png"
+    },
+    "audio": {
+        "filename": "SuperDARN.mp3",
+        "url": "https://www.sigidwiki.com/images/1/14/SuperDARN.mp3"
+    },
+    "category": [
+        "Radar"
+    ],
+    "frequency": [
+        {
+            "value": 9000000,
+            "description": ""
+        },
+        {
+            "value": 16000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 6000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "PPM",
+            "description": "Pulse Position Modulation"
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ],
+    "short description": "SuperDARN (Super Dual Auroral Radar Network) is an international radar network used for scientific purposes. The network is used to study plasma convection in the upper atmosphere.",
+    "description": "**SuperDARN (Super Dual Auroral Radar Network)** (sometimes known as *The Grasshopper*) is an international radar network used for scientific purposes. The network is used to study plasma convection in the upper atmosphere. All worldwide sites are operated by various research organizations and universities."
+}

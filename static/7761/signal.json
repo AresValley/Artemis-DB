@@ -1,0 +1,43 @@
+{
+    "pageid": "7761",
+    "title": "Possible quarry telemetry",
+    "spectrum": {
+        "filename": "2025-01-01 21 02 28-.png",
+        "url": "https://www.sigidwiki.com/images/6/67/2025-01-01_21_02_28-.png"
+    },
+    "audio": {
+        "filename": "20250101.wav",
+        "url": "https://www.sigidwiki.com/images/3/34/20250101.wav"
+    },
+    "category": [
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 462775000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 8000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [],
+    "mode": [
+        {
+            "value": "NFM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Australia",
+            "description": ""
+        }
+    ],
+    "short description": "possible quarry telemetry observed on 462.775, appears to pulse every second",
+    "description": ""
+}

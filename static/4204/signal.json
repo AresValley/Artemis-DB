@@ -1,0 +1,54 @@
+{
+    "pageid": "4204",
+    "title": "MPT1394 Keyfob",
+    "spectrum": {
+        "filename": "Mpt1394_keyfob.PNG",
+        "url": "https://www.sigidwiki.com/images/b/b5/Mpt1394_keyfob.PNG"
+    },
+    "audio": {
+        "filename": "Honda mpt1340 keyfob.mp3",
+        "url": "https://www.sigidwiki.com/images/d/de/Honda_mpt1340_keyfob.mp3"
+    },
+    "category": [],
+    "frequency": [
+        {
+            "value": 433920000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 10300,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "ASK",
+            "description": "Amplitude-Shift Keying"
+        }
+    ],
+    "mode": [
+        {
+            "value": "AM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Europe",
+            "description": ""
+        },
+        {
+            "value": "Japan",
+            "description": ""
+        },
+        {
+            "value": "Asia",
+            "description": ""
+        }
+    ],
+    "short description": "Remote key less entry fob for Honda car's with door lock, Unlock and remote boot/trunk open feature (keyfob data may be same as other manufactures)",
+    "description": ""
+}

@@ -1,0 +1,57 @@
+{
+    "pageid": "3740",
+    "title": "Vaisala RS92-KL Weather Balloon (Radiosonde)",
+    "spectrum": {
+        "filename": "RS92-KL.jpg",
+        "url": "https://www.sigidwiki.com/images/3/34/RS92-KL.jpg"
+    },
+    "audio": {
+        "filename": "RS92KL.mp3",
+        "url": "https://www.sigidwiki.com/images/1/1b/RS92KL.mp3"
+    },
+    "category": [
+        "Analogue",
+        "Utility"
+    ],
+    "frequency": [
+        {
+            "value": 400000000,
+            "description": ""
+        },
+        {
+            "value": 403000000,
+            "description": ""
+        },
+        {
+            "value": 406000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 200000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "FSK",
+            "description": "Frequency-Shift Keying"
+        }
+    ],
+    "mode": [
+        {
+            "value": "NFM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ],
+    "short description": "RS92-KL and RS92-K are analog radiosondes built by Vaisala in Finland. These radiosondes are used for weather balloons.",
+    "description": "**RS92-KL** and **RS92-K** are analog radiosondes built by Vaisala in Finland. These radiosondes are used for weather balloons.\n\nOperates with a 200mW transmitter. The RS92-K models have Temperature, Humidity, and Pressure sensors, where the RS92-KL has an additional [LORAN-C](https://www.sigidwiki.com/wiki/LORAN) Receiver for wind calculation."
+}

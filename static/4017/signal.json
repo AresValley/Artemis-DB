@@ -1,0 +1,56 @@
+{
+    "pageid": "4017",
+    "title": "Inmarsat-D(D+) Downlink",
+    "spectrum": {
+        "filename": "Inmarsat D.jpg",
+        "url": "https://www.sigidwiki.com/images/9/98/Inmarsat_D.jpg"
+    },
+    "audio": {
+        "filename": "inmarsat mfsk.mp3",
+        "url": "https://www.sigidwiki.com/images/3/3a/Inmarsat_mfsk.mp3"
+    },
+    "category": [
+        "Satellite",
+        "Commercial",
+        "Digital",
+        "Marine",
+        "Utility"
+    ],
+    "frequency": [
+        {
+            "value": 1525000000,
+            "description": ""
+        },
+        {
+            "value": 1559000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 640,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "FSK",
+            "description": "Frequency-Shift Keying"
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ],
+    "short description": "Inmarsat D+ (and it's predecessor, Inmarsat D) was Inmarsat's satellite paging system. The main use of the technology was in tracking trucks and buoys and SCADA applications.",
+    "description": "**Inmarsat D+** (and it's predecessor, **Inmarsat D**) was Inmarsat's satellite paging system. The main purpose was for tracking trucks and buoys and SCADA applications. The original Inmarsat-D terminals were one-way (to mobile) pagers. The newer Inmarsat-D+ terminals were the equivalent of a two-way pager. This signal is the downlink from satellite to mobile station. The infrastructure is now rendered obsolete by the newer [IsatData Pro](https://www.sigidwiki.com/wiki/IsatData_Pro) service."
+}

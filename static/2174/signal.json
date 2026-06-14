@@ -1,0 +1,65 @@
+{
+    "pageid": "2174",
+    "title": "Multiple sub-Nyquist Sampling Encoding (MUSE)",
+    "spectrum": {
+        "filename": "NoWaterfallFiller.png",
+        "url": "https://www.sigidwiki.com/images/1/12/NoWaterfallFiller.png"
+    },
+    "audio": {
+        "filename": null,
+        "url": null
+    },
+    "category": [
+        "Analogue",
+        "Commercial"
+    ],
+    "frequency": [
+        {
+            "value": 8000000000,
+            "description": ""
+        },
+        {
+            "value": 12000000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 8000000,
+            "description": ""
+        },
+        {
+            "value": 27000000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "FM",
+            "description": "Frequency Modulation"
+        },
+        {
+            "value": "DPCM",
+            "description": "Differential Pulse Code Modulation"
+        },
+        {
+            "value": "VSB",
+            "description": "Vestigial Sideband Modulation"
+        }
+    ],
+    "mode": [
+        {
+            "value": "RAW",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ],
+    "short description": "Multiplite sub-Nyquist Sampling Encoding (MUSE) also known as Hi-Vision was a early analogue high-defition television standard developed by NHK Science and Technical Research Laboratories. Replaced by digital ISDB broadcast since 2007.",
+    "description": "**This Article is currently in stub process. Feel free to add on to it by adding accurate images, sound files, and IF-IQ, by hitting the \"Edit\" button above this page.**\n\n**Multiplite sub-Nyquist Sampling Encoding (MUSE)** also known as Hi-Vision was a early analogue high-defition television standard developed by NHK Science and Technical Research Laboratories. Replaced by digital ISDB broadcast since 2007."
+}

@@ -1,44 +1,72 @@
 {
-    "signal": {
-        "name": "Digital Multimedia Broadcasting (DMB)",
-        "url": "https://www.sigidwiki.com/wiki/Digital_Multimedia_Broadcasting_(DMB)"
+    "pageid": "143",
+    "title": "AFSK Paging Link",
+    "spectrum": {
+        "filename": "AFSK POCSAG pic 1.PNG",
+        "url": "https://www.sigidwiki.com/images/e/e6/AFSK_POCSAG_pic_1.PNG"
+    },
+    "audio": {
+        "filename": "AFSK POCSAG audio recording.wav",
+        "url": "https://www.sigidwiki.com/images/9/92/AFSK_POCSAG_audio_recording.wav"
     },
     "category": [
-        "Digital",
-        "Commercial"
+        "Digital"
     ],
     "frequency": [
         {
-            "value": 174000000,
+            "value": 72000000,
             "description": ""
         },
         {
-            "value": 216000000,
+            "value": 850000000,
+            "description": ""
+        },
+        {
+            "value": 928000000,
+            "description": ""
+        },
+        {
+            "value": 76000000,
+            "description": ""
+        },
+        {
+            "value": 450000000,
+            "description": ""
+        },
+        {
+            "value": 460000000,
+            "description": ""
+        },
+        {
+            "value": 470000000,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 1536000,
+            "value": 9000,
             "description": ""
         }
     ],
     "acf": [],
     "modulation": [
         {
-            "value": "DQPSK",
-            "description": ""
-        },
+            "value": "AFSK",
+            "description": "Audio Frequency-Shift Keying"
+        }
+    ],
+    "mode": [
         {
-            "value": "OFDM",
+            "value": "NFM",
             "description": ""
         }
     ],
-    "mode": [],
     "location": [
         {
-            "value": "South Korea",
+            "value": "Worldwide",
             "description": ""
         }
-    ]
+    ],
+    "short description": "A variant of POCSAG/FLEX with audio FSK modulation based off of the bell 202 tones. Typically found as uplinks/downlinks to pager network transmitters.",
+    "description": "POCSAG can be modulated with audio FSK tones to ensure that audio modems can encode these properly. These variants use Bell 202 esque mark and spaces to modulate the signal.\nThe bandwidth of the original POCSAG signal determines how intense the modulation deviation is...\n\nin the new england states: They use 1000 and 2300 hz.\nIn the midwest, the bell 202 and a variant known as \"1300-2100\" also exist. 1300-2100 is for extremely low bandwidth pocsag...\nPhase inversion can also take place in some modulations which give off a slight difference in sound..."
 }

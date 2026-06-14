@@ -1,0 +1,56 @@
+{
+    "pageid": "6403",
+    "title": "ATSC 3.0 Broadcast",
+    "spectrum": {
+        "filename": "ATSC3.png",
+        "url": "https://www.sigidwiki.com/images/0/06/ATSC3.png"
+    },
+    "audio": {
+        "filename": null,
+        "url": null
+    },
+    "category": [
+        "Digital",
+        "Commercial"
+    ],
+    "frequency": [],
+    "bandwidth": [
+        {
+            "value": 6000000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "OFDM",
+            "description": "Orthogonal Frequency-Division Multiplexing"
+        },
+        {
+            "value": "QAM",
+            "description": "Quadrature Amplitude Modulation"
+        }
+    ],
+    "mode": [
+        {
+            "value": "RAW",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "United States",
+            "description": ""
+        },
+        {
+            "value": "South Korea",
+            "description": ""
+        },
+        {
+            "value": "Jamaica",
+            "description": ""
+        }
+    ],
+    "short description": "The Advanced Television Systems Committee (ATSC) 3.0 standard (marketed as NextGen TV) is a revised set of video broadcasting specifications that outlines improvements to spectrum efficiency.",
+    "description": "The **Advanced Television Systems Committee (ATSC) 3.0** standard (marketed as **NextGen TV**), is a revised set of video broadcasting specifications which outlines improvements to spectrum efficiency."
+}

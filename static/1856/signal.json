@@ -1,0 +1,54 @@
+{
+    "pageid": "1856",
+    "title": "Kiwi",
+    "spectrum": {
+        "filename": "Kiwi_thumb.jpg",
+        "url": "https://www.sigidwiki.com/images/8/85/Kiwi_thumb.jpg"
+    },
+    "audio": {
+        "filename": "137 050 kiwi.mp3",
+        "url": "https://www.sigidwiki.com/images/b/b6/137_050_kiwi.mp3"
+    },
+    "category": [
+        "Digital",
+        "Utility",
+        "Aviation"
+    ],
+    "frequency": [
+        {
+            "value": 137950000,
+            "description": ""
+        },
+        {
+            "value": 138500000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 12500,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "FSK",
+            "description": "Frequency-Shift Keying"
+        }
+    ],
+    "mode": [
+        {
+            "value": "NFM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "France",
+            "description": ""
+        }
+    ],
+    "short description": "Kiwi is a telemetry mode developed by CNES used on amateur rockets and radio balloons in France.",
+    "description": "**Kiwi** is a telemetry mode developed by [CNES](https://en.wikipedia.org/wiki/CNES) used on amateur rockets and radio balloons in France. It's primarily geared towards students and radio clubs as a project, such as making a weather balloon. In use from 2004-2008."
+}

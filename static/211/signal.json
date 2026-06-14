@@ -1,38 +1,61 @@
 {
-    "signal": {
-        "name": "Ground-Based Augmentation System (GBAS)",
-        "url": "https://www.sigidwiki.com/wiki/Ground-Based_Augmentation_System_(GBAS)"
+    "pageid": "211",
+    "title": "Next Generation Digital Narrowband (NXDN)",
+    "spectrum": {
+        "filename": "NXDN_6.25.jpg",
+        "url": "https://www.sigidwiki.com/images/f/f6/NXDN_6.25.jpg"
+    },
+    "audio": {
+        "filename": "NXDN_Trunking_Channel.mp3",
+        "url": "https://www.sigidwiki.com/images/a/a8/NXDN_Trunking_Channel.mp3"
     },
     "category": [
-        "Aviation",
-        "Navigation"
+        "Trunked Radio",
+        "Digital"
     ],
     "frequency": [
         {
-            "value": 108000000,
+            "value": 136000000,
             "description": ""
         },
         {
-            "value": 117975000,
+            "value": 174000000,
+            "description": ""
+        },
+        {
+            "value": 400000000,
+            "description": ""
+        },
+        {
+            "value": 520000000,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 15000,
+            "value": 6250,
+            "description": ""
+        },
+        {
+            "value": 12500,
             "description": ""
         }
     ],
-    "acf": [],
+    "acf": [
+        {
+            "value": 80.0,
+            "description": "Main"
+        }
+    ],
     "modulation": [
         {
-            "value": "D8PSK",
-            "description": ""
+            "value": "FSK",
+            "description": "Frequency-Shift Keying"
         }
     ],
     "mode": [
         {
-            "value": "AM",
+            "value": "NFM",
             "description": ""
         }
     ],
@@ -41,5 +64,7 @@
             "value": "Worldwide",
             "description": ""
         }
-    ]
+    ],
+    "short description": "NXDN is a digital narrowband trunked radio protocol used in commercial, business & industry, transport and Public Safety professional radio systems.",
+    "description": "**NXDN** is a digital narrowband trunked radio protocol developed by ICOM Inc. and JVCKENWOOD Co. The NXDN protocol is used in commercial, business & industry, transport and Public Safety professional radio systems. NXDN has recently been recognized by the ITU as an international digital radio communications standard. \n\nNXDN uses FDMA, and a NXDN channel be either 12.5 kHz or 6.25 kHz wide. 6.25 kHz dual-channel systems can be configured to fit within a 12.5 kHz channel. This effectively doubles the spectrum efficiency compared to an analog NFM system occupying a 12.5 kHz channel. The architecture of NXDN is such that two NXDN channels, within a 12.5 kHz channel for example, can be allocated as voice/voice, voice/data, or data/data. \n\nKenwood's brand for NXDN equipment is \"NEXEDGE\", while Icom's brand for NXDN equipment is \"IDAS\", or Icom Digital Advanced System."
 }

@@ -1,0 +1,72 @@
+{
+    "pageid": "1536",
+    "title": "Emergency Alert System (EAS)",
+    "spectrum": {
+        "filename": "EAS NFM.jpg",
+        "url": "https://www.sigidwiki.com/images/0/08/EAS_NFM.jpg"
+    },
+    "audio": {
+        "filename": "EAS Alert Tornado Warning.mp3",
+        "url": "https://www.sigidwiki.com/images/d/d5/EAS_Alert_Tornado_Warning.mp3"
+    },
+    "category": [
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 162400000,
+            "description": ""
+        },
+        {
+            "value": 162425000,
+            "description": ""
+        },
+        {
+            "value": 162450000,
+            "description": ""
+        },
+        {
+            "value": 162475000,
+            "description": ""
+        },
+        {
+            "value": 162500000,
+            "description": ""
+        },
+        {
+            "value": 162525000,
+            "description": ""
+        },
+        {
+            "value": 162550000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 1200,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "AFSK",
+            "description": "Audio Frequency-Shift Keying"
+        }
+    ],
+    "mode": [
+        {
+            "value": "NFM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "United States",
+            "description": ""
+        }
+    ],
+    "short description": "The Emergency Alert System (EAS) is a national warning system in the United States, implemented since 1997, superceding the Emergency Broadcast System (EBS).",
+    "description": "**The Emergency Alert System (EAS)** is a national warning system in the United States, implemented since 1997, superseding the Emergency Broadcast System (EBS). The official EAS is designed to enable the President of the United States to speak to the public within 10 minutes. In addition to this requirement, EAS is also designed to alert the public of local weather emergencies such as tornadoes and flash floods.\n \nEAS is jointly coordinated by the Federal Emergency Management Agency (FEMA), the Federal Communications Commission (FCC) and the National Weather Service (NOAA/NWS)."
+}

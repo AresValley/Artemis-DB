@@ -1,0 +1,55 @@
+{
+    "pageid": "5715",
+    "title": "CBET",
+    "spectrum": {
+        "filename": "CBET2.png",
+        "url": "https://www.sigidwiki.com/images/e/e4/CBET2.png"
+    },
+    "audio": {
+        "filename": "Encodingtones-only.mp3",
+        "url": "https://www.sigidwiki.com/images/2/27/Encodingtones-only.mp3"
+    },
+    "category": [
+        "Commercial",
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 88000000,
+            "description": ""
+        },
+        {
+            "value": 108000000,
+            "description": ""
+        },
+        {
+            "value": 520,
+            "description": ""
+        },
+        {
+            "value": 1700000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 2000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "FM",
+            "description": "Frequency Modulation"
+        },
+        {
+            "value": "AM",
+            "description": "Amplitude Modulation"
+        }
+    ],
+    "mode": [],
+    "location": [],
+    "short description": "CBET \"Critical Band Encoded Tones\" are tones added into radio broadcast's audio output for identification purposes.",
+    "description": "CBET/eCBET tones are a set of 10 frequency modulated tones between 1-3kHz. These signals are inserted into broadcast audio in over 50 major markets for identification by \"Portable People Meters\" used in Nielsen's rating scheme. Nielsen controversially purports that these signals are encoded in such a way that they are 'masked' by the program audio. \n\nThere are 10 bands, each of which can carry 1 of 18 tones. There are 16 tones to a signal, so the stream is 4 bits wide, and the other two tones are used as \"STOP\" and \"SYNC\" markers. This allows for an data rate of 8 bits per second to be encoded onto the audio.\nAll bands carry identical information, but each bit within a band is encoded with a different tone from any of the other bands. This appears random or uncorrelated at first glance, but the pattern emerges pretty quickly if you do a long enough analysis. The same message gets identically repeated 12 to 13 times per minute and the message only changes once per minute."
+}

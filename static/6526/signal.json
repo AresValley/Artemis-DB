@@ -1,0 +1,49 @@
+{
+    "pageid": "6526",
+    "title": "Rain Master sprinkler control",
+    "spectrum": {
+        "filename": "154_600.png",
+        "url": "https://www.sigidwiki.com/images/8/84/154_600.png"
+    },
+    "audio": {
+        "filename": "1546000Tone_1.mp3",
+        "url": "https://www.sigidwiki.com/images/5/5a/1546000Tone_1.mp3"
+    },
+    "category": [
+        "Utility",
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 154600000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 12000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "FSK",
+            "description": "Frequency-Shift Keying"
+        }
+    ],
+    "mode": [
+        {
+            "value": "FM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ],
+    "short description": "Control signal for grass sprinkler watering system",
+    "description": ""
+}

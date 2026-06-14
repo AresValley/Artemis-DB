@@ -1,0 +1,48 @@
+{
+    "pageid": "6855",
+    "title": "Chilean Naval Time Signal",
+    "spectrum": {
+        "filename": "ChileanTimeSignal.png",
+        "url": "https://www.sigidwiki.com/images/3/3b/ChileanTimeSignal.png"
+    },
+    "audio": {
+        "filename": "ChileTimeSignal.wav",
+        "url": "https://www.sigidwiki.com/images/6/63/ChileTimeSignal.wav"
+    },
+    "category": [
+        "Time"
+    ],
+    "frequency": [
+        {
+            "value": 148125000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 12500,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "FM",
+            "description": "Frequency Modulation"
+        }
+    ],
+    "mode": [
+        {
+            "value": "NFM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Chile",
+            "description": ""
+        }
+    ],
+    "short description": "Naval VHF time signal found in Chilean Coast, in Vina Del Mar",
+    "description": ""
+}

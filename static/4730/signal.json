@@ -1,0 +1,61 @@
+{
+    "pageid": "4730",
+    "title": "NOAA POES High Resolution Picture Transmission (HRPT)",
+    "spectrum": {
+        "filename": "NOAA-HRPT-WF.png",
+        "url": "https://www.sigidwiki.com/images/c/c7/NOAA-HRPT-WF.png"
+    },
+    "audio": {
+        "filename": null,
+        "url": null
+    },
+    "category": [
+        "Satellite",
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 1698000000,
+            "description": ""
+        },
+        {
+            "value": 1702500000,
+            "description": ""
+        },
+        {
+            "value": 1707000000,
+            "description": ""
+        },
+        {
+            "value": 2247500000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 3000000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "PSK",
+            "description": "Phase-Shift Keying"
+        }
+    ],
+    "mode": [
+        {
+            "value": "RAW",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ],
+    "short description": "A digital link to transmit images and other data collected from the satellite at a high resolution.",
+    "description": "The NOAA POES series of satellites transmit high resolution pictures from the AVHRR (main radiometer) and additionally, data from AMSU (Advanced Microwave Sounding Unit), HIRS (High-resolution InfraRed Sounder), SEM (Space Environment Monitor) and, for NOAA 19 only, MHS (Microwave Humidity Sounder) instruments over an HRPT link. \n\nThe signal is PSK modulated at 665 kbit/s. \n\nThe main payload of HRPT is AVHRR data composed of six channels in the visible, near-infrared and infrared spectrum; only five of those can be transmitted together at a given time. \n\nThe data are digitized to 10-bit precision and transmitted at 360 lines per minute (LPM) at 665 kilobits per second (kbps). The HRPT data stream also includes non-imagery data from other instruments on board the spacecraft. \n\nNOAA-19 was decommissioned prematurely on August 12th 2025, leaving NOAA-15 as the last remaining satellite using this mode. It's L-band signal was much weaker compared to that of NOAA-19's which meant that it was practically no longer receivable for a lot of hobbyists. Finally on August 19th 2025, the final satellite transmitting this mode (NOAA-15) was decommissioned. This brought an end to multiple popular NOAA modes, including APT and DSB. This mode is no longer in use."
+}

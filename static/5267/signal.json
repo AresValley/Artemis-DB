@@ -1,0 +1,26 @@
+{
+    "pageid": "5267",
+    "title": "National Public Alerting System (NPAS)",
+    "spectrum": {
+        "filename": "NPAS2.jpg",
+        "url": "https://www.sigidwiki.com/images/5/5f/NPAS2.jpg"
+    },
+    "audio": {
+        "filename": "AlertReady-NPAS.mp3",
+        "url": "https://www.sigidwiki.com/images/0/06/AlertReady-NPAS.mp3"
+    },
+    "category": [],
+    "frequency": [],
+    "bandwidth": [],
+    "acf": [],
+    "modulation": [],
+    "mode": [],
+    "location": [
+        {
+            "value": "Canada",
+            "description": ""
+        }
+    ],
+    "short description": "The National Public Alerting System (NPAS), branded to consumers as Alert Ready, is a national warning system in Canada. The tone does not carry any information to be decoded. Information about Emergencies is communicated via on screen text and text-to-speech.",
+    "description": "The **National Public Alerting System (NPAS)**, branded to consumers as **Alert Ready**, is a national warning system in Canada. The tone does not carry any information to be decoded. Information about Emergencies is communicated via on screen text and text-to-speech. A message in English and then French is often used. \n\nThe waterfall image is as seen on AM radio."
+}

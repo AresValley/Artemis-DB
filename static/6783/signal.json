@@ -1,0 +1,49 @@
+{
+    "pageid": "6783",
+    "title": "BlueWalker-3 Wideband Telemetry",
+    "spectrum": {
+        "filename": "BW3WB.png",
+        "url": "https://www.sigidwiki.com/images/5/50/BW3WB.png"
+    },
+    "audio": {
+        "filename": null,
+        "url": null
+    },
+    "category": [
+        "Satellite",
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 2245000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 1000000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "BPSK",
+            "description": "Binary Phase-Shift Keying"
+        }
+    ],
+    "mode": [
+        {
+            "value": "RAW",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ],
+    "short description": "Wideband telemetry signal from BlueWalker-3 experimental satellite.",
+    "description": "- [Baseband](https://cdn.rgbcraft.com/altro/basebands/BlueWalker-3-WB.wav)"
+}

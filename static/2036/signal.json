@@ -1,0 +1,61 @@
+{
+    "pageid": "2036",
+    "title": "Thales Système 3000 Skyhopper",
+    "spectrum": {
+        "filename": "ALE psk mfsk thales skyhopper.jpg",
+        "url": "https://www.sigidwiki.com/images/3/37/ALE_psk_mfsk_thales_skyhopper.jpg"
+    },
+    "audio": {
+        "filename": "SKYHOPPER_ALE1.mp3",
+        "url": "https://www.sigidwiki.com/images/d/d1/SKYHOPPER_ALE1.mp3"
+    },
+    "category": [
+        "Military",
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 1500000,
+            "description": ""
+        },
+        {
+            "value": 30000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 2000,
+            "description": ""
+        },
+        {
+            "value": 2600,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "PSK",
+            "description": "Phase-Shift Keying"
+        },
+        {
+            "value": "FSK",
+            "description": "Frequency-Shift Keying"
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ],
+    "short description": "Thales Système 3000 Skyhopper is the frequency hopping mode of the Système 3000 Modem. Characterized by it's very short bursts and frequency hopping behavior.",
+    "description": "**Thales Système 3000 Skyhopper** is the frequency hopping mode of the [Système 3000 Modem](https://www.sigidwiki.com/wiki/Thales_Syst%C3%A8me_3000_HF_Modem). Characterized by its very short bursts and frequency hopping behavior.\n\nThe Skyhopper mode supports wide-band hopping up to 2 MHz wide. ALE and PSK burst data can be sent using Skyhopper mode."
+}

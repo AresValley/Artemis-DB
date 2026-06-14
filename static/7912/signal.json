@@ -1,0 +1,62 @@
+{
+    "pageid": "7912",
+    "title": "F07 number station",
+    "spectrum": {
+        "filename": "F07 img.png",
+        "url": "https://www.sigidwiki.com/images/9/91/F07_img.png"
+    },
+    "audio": {
+        "filename": "Fluffles F07 recording.mp3",
+        "url": "https://www.sigidwiki.com/images/e/e6/Fluffles_F07_recording.mp3"
+    },
+    "category": [
+        "Military",
+        "Numbers Stations",
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 5000000,
+            "description": ""
+        },
+        {
+            "value": 17500000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 4000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "FSK",
+            "description": "Frequency-Shift Keying"
+        },
+        {
+            "value": "BPSK",
+            "description": "Binary Phase-Shift Keying"
+        },
+        {
+            "value": "FSK",
+            "description": "Frequency-Shift Keying"
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Russia",
+            "description": ""
+        }
+    ],
+    "short description": "F07 is a Russian digital number station known for using multiple modulation types, including MFSK, BPSK and FSK.",
+    "description": "F07 is a Russian digital number station that is active every Tuesday and Thursday. It is known for using multiple modulation types, including 5 seperate MFSK data bursts, each divided by either BPSK data or carrier tones. All, if not most of these transmissions have been documented in the past. It is for that reason that we have an exact schedule of each transmission that can be seen on the Priyom website (link down in the description)."
+}

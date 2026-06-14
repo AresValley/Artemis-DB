@@ -1,1 +1,0 @@
-National Television System Committee (NTSC) Television broadcast is an analogue television broadcast mode. Currently being phased out in parts of the world in favor of digital broadcast. The successor of NTSC is ATSC.

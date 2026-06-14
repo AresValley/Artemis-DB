@@ -1,0 +1,53 @@
+{
+    "pageid": "2849",
+    "title": "Interoperable Electronic Train Management System (I-ETMS)",
+    "spectrum": {
+        "filename": "I-ETMS.PNG",
+        "url": "https://www.sigidwiki.com/images/3/3d/I-ETMS.PNG"
+    },
+    "audio": {
+        "filename": "I-ETMS USB.wav",
+        "url": "https://www.sigidwiki.com/images/3/33/I-ETMS_USB.wav"
+    },
+    "category": [
+        "Digital",
+        "Utility"
+    ],
+    "frequency": [
+        {
+            "value": 219000000,
+            "description": ""
+        },
+        {
+            "value": 222000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 2000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "GMSK",
+            "description": "Gaussian Minimum-Shift Keying"
+        }
+    ],
+    "mode": [
+        {
+            "value": "NFM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "United States",
+            "description": ""
+        }
+    ],
+    "short description": "Transmits train telemetry",
+    "description": "**Interoperable Electronic Train Management System (I-ETMS)** transmits train telemetry between cars and wayside equipment."
+}

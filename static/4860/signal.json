@@ -1,0 +1,49 @@
+{
+    "pageid": "4860",
+    "title": "Ionized Meteor Trails",
+    "spectrum": {
+        "filename": "Screen 1506684611.68 (3).jpg",
+        "url": "https://www.sigidwiki.com/images/7/71/Screen_1506684611.68_%283%29.jpg"
+    },
+    "audio": {
+        "filename": "2018-02-25 06-58-19.mp3",
+        "url": "https://www.sigidwiki.com/images/4/4d/2018-02-25_06-58-19.mp3"
+    },
+    "category": [
+        "Interfering",
+        "Analogue"
+    ],
+    "frequency": [
+        {
+            "value": 88300000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 1000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "CW",
+            "description": "Continuous Wave"
+        }
+    ],
+    "mode": [
+        {
+            "value": "CW",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ],
+    "short description": "Meteors traversing the E region of the atmosphere approximately 60 - 90 miles up create ionizing trails which can reflect and refract radio waves from commercial FM radio stations that are hundreds and sometimes thousands of miles away from the receiver.",
+    "description": "Meteors traversing the E region of the atmosphere approximately 60 - 90 miles up create ionizing trails which can briefly reflect radio waves from commercial FM radio and TV stations that are hundreds and sometimes thousands of miles away from the receiver."
+}

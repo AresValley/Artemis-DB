@@ -1,1 +1,0 @@
-A direct broadcast sent in the X band by the NASA Aqua satellite for reception by end users.

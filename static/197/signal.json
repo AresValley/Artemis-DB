@@ -1,36 +1,129 @@
 {
-    "signal": {
-        "name": "GRAVES",
-        "url": "https://www.sigidwiki.com/wiki/GRAVES"
+    "pageid": "197",
+    "title": "Radio Teletype (RTTY)",
+    "spectrum": {
+        "filename": "RTTY thumbnail.jpg",
+        "url": "https://www.sigidwiki.com/images/f/f5/RTTY_thumbnail.jpg"
+    },
+    "audio": {
+        "filename": "RTTY 170Hz 45.45bd.mp3",
+        "url": "https://www.sigidwiki.com/images/2/23/RTTY_170Hz_45.45bd.mp3"
     },
     "category": [
-        "Military",
-        "Radar"
+        "Amateur Radio",
+        "Digital"
     ],
     "frequency": [
         {
-            "value": 143050000,
+            "value": 147300,
+            "description": ""
+        },
+        {
+            "value": 3570000,
+            "description": ""
+        },
+        {
+            "value": 4583000,
+            "description": ""
+        },
+        {
+            "value": 5330500,
+            "description": ""
+        },
+        {
+            "value": 5346500,
+            "description": ""
+        },
+        {
+            "value": 5357000,
+            "description": ""
+        },
+        {
+            "value": 5371500,
+            "description": ""
+        },
+        {
+            "value": 5403500,
+            "description": ""
+        },
+        {
+            "value": 7040000,
+            "description": ""
+        },
+        {
+            "value": 7080000,
+            "description": ""
+        },
+        {
+            "value": 7125000,
+            "description": ""
+        },
+        {
+            "value": 7646000,
+            "description": ""
+        },
+        {
+            "value": 11039000,
+            "description": ""
+        },
+        {
+            "value": 14070000,
+            "description": ""
+        },
+        {
+            "value": 14467300,
+            "description": ""
+        },
+        {
+            "value": 28150000,
+            "description": ""
+        },
+        {
+            "value": 10100800,
+            "description": ""
+        },
+        {
+            "value": 10130000,
             "description": ""
         }
     ],
     "bandwidth": [
         {
-            "value": 1000,
+            "value": 85,
+            "description": ""
+        },
+        {
+            "value": 170,
+            "description": ""
+        },
+        {
+            "value": 450,
+            "description": ""
+        },
+        {
+            "value": 850,
             "description": ""
         }
     ],
     "acf": [],
-    "modulation": [],
+    "modulation": [
+        {
+            "value": "FSK",
+            "description": "Frequency-Shift Keying"
+        }
+    ],
     "mode": [
         {
-            "value": "RAW I/Q",
+            "value": "USB",
             "description": ""
         }
     ],
     "location": [
         {
-            "value": "France",
+            "value": "Worldwide",
             "description": ""
         }
-    ]
+    ],
+    "short description": "RTTY (Also known as Baudot or ITA2) uses the Baudot 5-bit alphabet with FSK to send text messages over the shortwave. This mode is gradually dying out in favor of more robust modes like PSK31 in the amateur service.",
+    "description": "**RTTY** (Also known as Baudot or ITA2) uses the Baudot 5-bit alphabet with FSK to send text messages over the shortwave. This mode is gradually dying out in favor of more robust modes like PSK31 in the amateur service. Uses the ITA-2 alphabet (Commonly known as Baudot, derived from the Murray code). Apart from occasional ham use, the only other known user is the Deutscher Wetterdienst (German Meteorological Service).\n\nThere are many modes that sound like Baudot, but in fact aren't. For example, the Russians use a 50 baud /200 Hz system that to the ear, sounds like Baudot. Closer examination with tools for viewing waveforms and other data will show this clearly.\n\nAmong amateur radio, the most common default mode of RTTY is 170 Hz with 45.45Bd."
 }

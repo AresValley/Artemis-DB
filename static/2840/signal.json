@@ -1,0 +1,52 @@
+{
+    "pageid": "2840",
+    "title": "Automated Train Control System (ATCS)",
+    "spectrum": {
+        "filename": "ATCS2.png",
+        "url": "https://www.sigidwiki.com/images/0/0f/ATCS2.png"
+    },
+    "audio": {
+        "filename": "Atcs AF.mp3",
+        "url": "https://www.sigidwiki.com/images/f/f1/Atcs_AF.mp3"
+    },
+    "category": [
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 936987500,
+            "description": ""
+        },
+        {
+            "value": 896887500,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 12500,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "FSK",
+            "description": "Frequency-Shift Keying"
+        }
+    ],
+    "mode": [
+        {
+            "value": "NFM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "United States",
+            "description": ""
+        }
+    ],
+    "short description": "Automated Train Control System (ATCS), specifically ATCS Spec. 200, is a standardized communication system for railroads designed to ensure safety by monitoring locations of trains and locomotives, providing analysis and reporting, and automation of track warrants and similar orders.",
+    "description": ""
+}

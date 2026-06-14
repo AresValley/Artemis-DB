@@ -1,0 +1,53 @@
+{
+    "pageid": "2276",
+    "title": "ICAO Selcal",
+    "spectrum": {
+        "filename": "ICAO Selcall sample.jpg",
+        "url": "https://www.sigidwiki.com/images/2/2f/ICAO_Selcall_sample.jpg"
+    },
+    "audio": {
+        "filename": "hf aircraft.mp3",
+        "url": "https://www.sigidwiki.com/images/d/dd/Hf_aircraft.mp3"
+    },
+    "category": [
+        "Aviation",
+        "Analogue"
+    ],
+    "frequency": [
+        {
+            "value": 300000000,
+            "description": ""
+        },
+        {
+            "value": 3000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 1500,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "FSK",
+            "description": "Frequency-Shift Keying"
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ],
+    "short description": "ICAO Selcal (also known as AVCALL, ANNEX 10, or just SELCAL) is a HF/VHF aviation selective calling system used by ground stations to initiate radio communications with aircraft.",
+    "description": "**ICAO Selcal** (also known as AVCALL, ANNEX 10, or just SELCAL) is a HF/VHF aviation selective calling system used by ground stations to initiate radio communications with aircraft. This mode is defined by the [International Civil Aviation Organization (ICAO)](http://www.icao.int/)\n\nThe first version of Selcal in 1985 used only 12 tones (A through M except I). In 1994, the standard was extended to have 16 tones, adding tones P, Q, R, and S. With the 16 tone format, the number of possible allowable codes was extended to 10,920. Selcal codes assigned to aircraft previously use a subset of only twelve letters/tones. Therefore, more than one aircraft may be designated by the same code\n\n [Aviation Spectrum Resources, Inc. (ASRI)](https://www.asri.aero/) is the worldwide International Civil Aviation Organization (ICAO) registrar for all Selective Calling (SELCAL) system codes (This was formerly done by [Aeronautical Radio, Incorporated (ARINC)](https://en.wikipedia.org/wiki/ARINC).) To avoid confusion from two or more aircraft using the same SELCAL code, ASRI tries to assign code duplicates to aircraft that do not usually operate in the same region of the world or on the same HF radio frequencies. However, aircraft commonly move between different geographical regions and it is now routine for two aircraft with the same SELCAL code to be found flying in the same region. Therefore, air crew always verify both SELCAL and call sign (i.e., aircraft tail registration, or telephony designator and flight identification) to be sure their aircraft is the intended recipient."
+}

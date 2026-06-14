@@ -1,0 +1,73 @@
+{
+    "pageid": "8568",
+    "title": "Digital Video Broadcasting — Satellite (DVB-S)",
+    "spectrum": {
+        "filename": "DVB-S.jpg",
+        "url": "https://www.sigidwiki.com/images/8/8d/DVB-S.jpg"
+    },
+    "audio": {
+        "filename": "V_SAT-TV_Thor_DVB-S2.mp3",
+        "url": "https://www.sigidwiki.com/images/a/a0/V_SAT-TV_Thor_DVB-S2.mp3"
+    },
+    "category": [
+        "Digital",
+        "Commercial"
+    ],
+    "frequency": [
+        {
+            "value": 10700000000,
+            "description": ""
+        },
+        {
+            "value": 12700000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 100000,
+            "description": ""
+        },
+        {
+            "value": 72000000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "QPSK",
+            "description": "Quadrature Phase-Shift Keying"
+        },
+        {
+            "value": "D8PSK",
+            "description": "Differential 8-Phase-Shift Keying"
+        },
+        {
+            "value": "APSK",
+            "description": "Amplitude Phase-Shift Keying"
+        },
+        {
+            "value": "APSK",
+            "description": "Amplitude Phase-Shift Keying"
+        }
+    ],
+    "mode": [
+        {
+            "value": "ACM/VCM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Europe",
+            "description": ""
+        },
+        {
+            "value": "Asia",
+            "description": ""
+        }
+    ],
+    "short description": "DVB‑S and DVB‑S2 are both satellite broadcasting standards, but DVB‑S2 is a more advanced and efficient evolution of the original system.",
+    "description": "**DVB‑S** is the first‑generation standard for digital satellite TV broadcasting. It was introduced in the mid‑1990s and defines how MPEG‑2 transport streams are transmitted over 11/12 GHz satellite channels. It uses QPSK modulation and a combination of convolutional and Reed‑Solomon coding to ensure reliable transmission. It became widely adopted by satellite operators for TV and data services. \n\n**DVB‑S2** (Digital Video Broadcasting – Satellite, Second Generation)\nDVB‑S2 is the second‑generation standard designed to improve efficiency, flexibility, and performance. It introduces more advanced modulation schemes such as QPSK, 8PSK, 16APSK, and 32APSK, along with stronger LDPC/BCH error correction. DVB‑S2 supports a wide range of applications including broadcasting, interactive services, and news gathering, offering significantly better spectral efficiency compared to DVB‑S."
+}

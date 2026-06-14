@@ -1,0 +1,56 @@
+{
+    "pageid": "4153",
+    "title": "Inmarsat IsatM2M",
+    "spectrum": {
+        "filename": "Inmarsat-D.jpg",
+        "url": "https://www.sigidwiki.com/images/7/75/Inmarsat-D.jpg"
+    },
+    "audio": {
+        "filename": "Inmarsat-D-audio.mp3",
+        "url": "https://www.sigidwiki.com/images/9/90/Inmarsat-D-audio.mp3"
+    },
+    "category": [
+        "Satellite",
+        "Digital",
+        "Utility",
+        "Marine",
+        "Commercial"
+    ],
+    "frequency": [
+        {
+            "value": 1525000000,
+            "description": ""
+        },
+        {
+            "value": 1559000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 1024,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "FSK",
+            "description": "Frequency-Shift Keying"
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ],
+    "short description": "IsatM2M Service operated by Inmarsat on existing Inmarsat-D/D+ infrastructure.",
+    "description": "**IsatM2M Paging Service** was operated by Inmarsat on (then) existing [Inmarsat-D/D+](https://www.sigidwiki.com/wiki/Inmarsat-D%28D%2B%29_Downlink) infrastructure. It was used for transport vehicle security, industrial equipment monitoring (SCADA) and marine tracking. Similar waveform to [Inmarsat-D/D+](https://www.sigidwiki.com/wiki/Inmarsat-D%28D%2B%29_Downlink) but employs faster bit rate and wider bandwidth."
+}

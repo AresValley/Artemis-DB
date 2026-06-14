@@ -1,0 +1,52 @@
+{
+    "pageid": "1734",
+    "title": "Bluetooth",
+    "spectrum": {
+        "filename": "blut.png",
+        "url": "https://www.sigidwiki.com/images/a/a5/Blut.png"
+    },
+    "audio": {
+        "filename": "Bluetooth.mp3",
+        "url": "https://www.sigidwiki.com/images/3/3c/Bluetooth.mp3"
+    },
+    "category": [
+        "Digital",
+        "Utility"
+    ],
+    "frequency": [
+        {
+            "value": 2400000000,
+            "description": ""
+        },
+        {
+            "value": 2485000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 1000000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "GFSK",
+            "description": "Gaussian Frequency-Shift Keying"
+        },
+        {
+            "value": "DPSK",
+            "description": "Differential Phase-Shift Keying"
+        }
+    ],
+    "mode": [],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ],
+    "short description": "Bluetooth is a wireless technology standard for exchanging data over short distances from fixed and mobile devices and building personal area networks (PANs). Invented by telecom vendor Ericsson in 1994, it was initially conceived as a wireless alternative to RS-232 data cables. It can connect several devices, overcoming synchronization problems.",
+    "description": "Bluetooth is a wireless technology standard for exchanging data over short distances (using short-wavelength UHF radio waves in the ISM band from 2.4 to 2.485 GHz) from fixed and mobile devices, and building personal area networks (PANs). Invented by telecom vendor Ericsson in 1994, it was originally conceived as a wireless alternative to RS-232 data cables. It can connect several devices, overcoming problems of synchronization.\n\nBluetooth can, and often does, interfere with 2.4GHz Wi-Fi channels, however the adaptive frequency hopping feature can minimize disruptions to Wi-Fi."
+}

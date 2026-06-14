@@ -1,0 +1,44 @@
+{
+    "pageid": "3975",
+    "title": "HORYU-4 Telemetry",
+    "spectrum": {
+        "filename": "HORYU-4 Telemetry Waterfall2.png",
+        "url": "https://www.sigidwiki.com/images/0/08/HORYU-4_Telemetry_Waterfall2.png"
+    },
+    "audio": {
+        "filename": "HORYU-4_Telemetry.mp3",
+        "url": "https://www.sigidwiki.com/images/6/6d/HORYU-4_Telemetry.mp3"
+    },
+    "category": [
+        "Satellite",
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 437375000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "BPSK",
+            "description": "Binary Phase-Shift Keying"
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ],
+    "short description": "Telemetry signal sent from the HORYU-4 university-class satellite Launched by Kyushu Institute of Technology in Japan",
+    "description": "This is a telemetry signal sent from the HORYU-4 university-class satellite, Launched by Kyushu Institute of Technology in Japan, on 2016 Feb."
+}

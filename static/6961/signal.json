@@ -1,0 +1,54 @@
+{
+    "pageid": "6961",
+    "title": "Spectrum Painting",
+    "spectrum": {
+        "filename": "Spectrum paint.jpg",
+        "url": "https://www.sigidwiki.com/images/b/be/Spectrum_paint.jpg"
+    },
+    "audio": {
+        "filename": null,
+        "url": null
+    },
+    "category": [],
+    "frequency": [
+        {
+            "value": 2000000,
+            "description": ""
+        },
+        {
+            "value": 10000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 4000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "OFDM",
+            "description": "Orthogonal Frequency-Division Multiplexing"
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        },
+        {
+            "value": "LSB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ],
+    "short description": "A form of SSTV that directly modulates an image to IQ by scanning across it so it shows up when viewed using a waterfall.\n\nUsed by Hams for experimentation methods.",
+    "description": "Spectrum Painting, also known as RF paint, is a form of SSTV that uses an input image directly modulated to IQ over the RF spectrum to produce a raw result, instead of a modulated scanline sequence in the form of an actual analog signal (Robot, Martin, Scottie, PD) or digital bitstream (FSK, PSK, etc)."
+}

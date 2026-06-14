@@ -1,0 +1,53 @@
+{
+    "pageid": "6912",
+    "title": "M20 Radiosonde",
+    "spectrum": {
+        "filename": "M20_WF.png",
+        "url": "https://www.sigidwiki.com/images/1/1a/M20_WF.png"
+    },
+    "audio": {
+        "filename": "M20.mp3",
+        "url": "https://www.sigidwiki.com/images/9/93/M20.mp3"
+    },
+    "category": [
+        "Utility",
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 400150000,
+            "description": ""
+        },
+        {
+            "value": 406000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 30000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "FSK",
+            "description": "Frequency-Shift Keying"
+        }
+    ],
+    "mode": [
+        {
+            "value": "NFM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ],
+    "short description": "Telemetry signal transmitted by M20 radiosondes",
+    "description": ""
+}

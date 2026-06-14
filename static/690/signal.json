@@ -1,0 +1,57 @@
+{
+    "pageid": "690",
+    "title": "Piccolo",
+    "spectrum": {
+        "filename": "Piccolo Mk12.png",
+        "url": "https://www.sigidwiki.com/images/1/15/Piccolo_Mk12.png"
+    },
+    "audio": {
+        "filename": "PICCOLO_MK_VI_12.mp3",
+        "url": "https://www.sigidwiki.com/images/4/4e/PICCOLO_MK_VI_12.mp3"
+    },
+    "category": [
+        "Military",
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 3000000,
+            "description": ""
+        },
+        {
+            "value": 30000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 180,
+            "description": ""
+        },
+        {
+            "value": 300,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "FSK",
+            "description": "Frequency-Shift Keying"
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ],
+    "short description": "Piccolo was a MFSK system developed by the UK Foreign and Commonwealth Office (FCO) to communicate with foreign embassies and UK military stations around the world. No longer used.",
+    "description": "**Piccolo** was a MFSK system developed by the UK Foreign and Commonwealth Office (FCO) to communicate with foreign embassies and UK military stations around the world. No longer used.\n\nTwo Types:\n\n- MK6: 180 Hz wide 6-tone MFSK version of Piccolo. Uses [ITA-2](http://www.wavecom.ch/content/ext/decoder-online-help/default.htm#!worddocuments/ita2alphabet.htm) encoding for alphanumeric text.\n\n- MK12: 300 Hz wide 12-tone MFSK version of Piccolo. Uses [ITA-5](http://www.wavecom.ch/content/ext/decoder-online-help/default.htm#!worddocuments/ita5alphabet.htm) encoding for alphanumeric text."
+}

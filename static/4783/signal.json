@@ -1,0 +1,46 @@
+{
+    "pageid": "4783",
+    "title": "One Beep, Two Beeps",
+    "spectrum": {
+        "filename": "Picture.png",
+        "url": "https://www.sigidwiki.com/images/e/e2/Picture.png"
+    },
+    "audio": {
+        "filename": "Nov 28.wav",
+        "url": "https://www.sigidwiki.com/images/b/b8/Nov_28.wav"
+    },
+    "category": [
+        "Military"
+    ],
+    "frequency": [
+        {
+            "value": 4508000,
+            "description": ""
+        },
+        {
+            "value": 4500000,
+            "description": ""
+        },
+        {
+            "value": 6429200,
+            "description": ""
+        }
+    ],
+    "bandwidth": [],
+    "acf": [],
+    "modulation": [],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Norway",
+            "description": ""
+        }
+    ],
+    "short description": "One Beep, Two Beeps is a nickname given to a signal emitted by the Norwegian Navy communications center in Bodø",
+    "description": "**One Beep, Two Beeps** is a nickname given to a signal emitted by the Norwegian Navy communications center in Bodø (callsigns: LBA, LBJ, JWG, JWT, JWZ, JXU). As implied by the name, it consists of noise with occasional 760 Hz beeps, one or more at a time.\n\nThe signal sometimes appears on the Norwegian [STANAG 4285](https://www.sigidwiki.com/wiki/STANAG_4285) channels."
+}

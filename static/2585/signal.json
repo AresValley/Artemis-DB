@@ -1,0 +1,54 @@
+{
+    "pageid": "2585",
+    "title": "1G (NMT) Nordic Mobile Telephone",
+    "spectrum": {
+        "filename": "NMT.jpg",
+        "url": "https://www.sigidwiki.com/images/5/52/NMT.jpg"
+    },
+    "audio": {
+        "filename": "Nmt-450.mp3",
+        "url": "https://www.sigidwiki.com/images/1/12/Nmt-450.mp3"
+    },
+    "category": [
+        "Digital",
+        "Commercial",
+        "Analogue"
+    ],
+    "frequency": [
+        {
+            "value": 453000000,
+            "description": ""
+        },
+        {
+            "value": 960000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 25000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "FSK",
+            "description": "Frequency-Shift Keying"
+        }
+    ],
+    "mode": [
+        {
+            "value": "NFM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ],
+    "short description": "Nordic Mobile Telephone (NMT, NMT-450, and NMT-900) is a first generation analog cell phone system. Originally designed for and by Nordic countries (Finland, Sweden, Norway, Denmark) it was widely deployed around the world. Nowadays (as of 2015) NMT is defunct.",
+    "description": "**Nordic Mobile Telephone (NMT, NMT-450, and NMT-900)** is a first generation analog cell phone system. Originally designed for and by Nordic countries (Finland, Sweden, Norway, Denmark) it was widely deployed around the world, for example in Saudi Arabia, Russia and Switzerland. It was completely automatic and allowed for users to roam freely in participating countries. Nowadays (as of 2015) NMT is defunct.\n\nVoice is transmitted as NFM, data as FSK. Data rate is 1200 baud, with mark/space frequencies of 1200/1800 Hz."
+}

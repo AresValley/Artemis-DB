@@ -1,0 +1,52 @@
+{
+    "pageid": "2989",
+    "title": "DUP-ARQ-2",
+    "spectrum": {
+        "filename": "DUP_ARQ-2.jpg",
+        "url": "https://www.sigidwiki.com/images/7/73/DUP_ARQ-2.jpg"
+    },
+    "audio": {
+        "filename": "Dup-arq-2_(dat_2_08).mp3",
+        "url": "https://www.sigidwiki.com/images/7/7f/Dup-arq-2_%28dat_2_08%29.mp3"
+    },
+    "category": [
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 3000000,
+            "description": ""
+        },
+        {
+            "value": 30000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 1300,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "FSK",
+            "description": "Frequency-Shift Keying"
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ],
+    "short description": "DUP-ARQ-2 (also known as ARTRAC II) is a further development of the DUP-ARQ system and the system characteristics are very similar. DUP-ARQ-2 allows transmission of ITA-2 (Baudot) or ITA-5 (ASCII) characters depending on the application.",
+    "description": "**DUP-ARQ-2** (also known as ARTRAC II) is a further development of the [DUP-ARQ](https://www.sigidwiki.com/wiki/DUP-ARQ) system and the system characteristics are very similar. DUP-ARQ-2 allows transmission of ITA-2 (Baudot) or ITA-5 (ASCII) characters depending on the application. DUP-ARQ-2 is twice as fast as DUP-ARQ, running at 250 Bd. Norway was a major user of DUP-ARQ-2"
+}

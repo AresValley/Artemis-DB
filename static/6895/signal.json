@@ -1,0 +1,61 @@
+{
+    "pageid": "6895",
+    "title": "77Ya6 'Voronezh' radar",
+    "spectrum": {
+        "filename": "Voronezh-dm-437-439-mhz.jpeg",
+        "url": "https://www.sigidwiki.com/images/4/42/Voronezh-dm-437-439-mhz.jpeg"
+    },
+    "audio": {
+        "filename": "Voronezh.mp3",
+        "url": "https://www.sigidwiki.com/images/7/74/Voronezh.mp3"
+    },
+    "category": [
+        "Military",
+        "Radar"
+    ],
+    "frequency": [
+        {
+            "value": 150000000,
+            "description": ""
+        },
+        {
+            "value": 200000000,
+            "description": ""
+        },
+        {
+            "value": 430000000,
+            "description": ""
+        },
+        {
+            "value": 440000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 2000000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "FMCW",
+            "description": "Frequency-Modulated Continuous Wave"
+        }
+    ],
+    "mode": [
+        {
+            "value": "AM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Russia",
+            "description": ""
+        }
+    ],
+    "short description": "Voronezh (Воронеж) is a Russian radar family capable of aircraft and ballistic missile monitoring.",
+    "description": "Voronezh (Воронеж) is a Russian radar family capable of aircraft and ballistic missile monitoring."
+}

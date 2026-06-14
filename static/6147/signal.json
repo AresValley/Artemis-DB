@@ -1,0 +1,57 @@
+{
+    "pageid": "6147",
+    "title": "B-Netz",
+    "spectrum": {
+        "filename": "Bnetz2.png",
+        "url": "https://www.sigidwiki.com/images/2/29/Bnetz2.png"
+    },
+    "audio": {
+        "filename": "Bnetz cell broadcast.wav",
+        "url": "https://www.sigidwiki.com/images/2/22/Bnetz_cell_broadcast.wav"
+    },
+    "category": [
+        "Commercial"
+    ],
+    "frequency": [
+        {
+            "value": 148000000,
+            "description": ""
+        },
+        {
+            "value": 153000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 12500,
+            "description": ""
+        }
+    ],
+    "acf": [
+        {
+            "value": 150.0,
+            "description": "Main"
+        }
+    ],
+    "modulation": [
+        {
+            "value": "FSK",
+            "description": "Frequency-Shift Keying"
+        }
+    ],
+    "mode": [
+        {
+            "value": "FM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Europe",
+            "description": ""
+        }
+    ],
+    "short description": "B-Netz, was an analog, commercial mobile radio telephone network that was operated by the Deutsche Bundespost in Germany (at first only West Germany) from 1972 until 1994. The system was also implemented in neighboring countries Austria, The Netherlands and Luxembourg.",
+    "description": "The B refers to the fact that it was the country's second public mobile telephone network, following the A-Netz.\n\nAs opposed to its predecessor, it featured direct-dialing (so that human operators were not required to connect calls). The frequency plan originally included only 38 channels (with one call possible per frequency channel), but it was upgraded to incorporate the A-Netz frequencies when that network was retired in 1980. The upgraded network had 78 channels and is sometimes referred to as the B2-Netz.\n\nA major limitation of system was that, in order to reach a subscriber, one had to know his location since the handset would assume the local area code of the base station serving it. Handoff was not possible and calls were dropped when cells were switched. Roaming was possible between the implementing countries.\n\nAt its height in 1986, the network had 158 base stations and about 27,000 subscribers in Germany and 1,770 in Austria. At the end of 1988, there were 1,078 participants in West Berlin alone. The network was vastly oversubscribed and finding an available channel could prove difficult.\n\nThe connection between base station and handset unencrypted, so eavesdropping was easy and common. In rare cases, additional devices were added by both participants to encrypt conversations (such as discussions of important politicians).\n\nThe B-Netz would eventually be superseded by the technically superior C-Netz, which was put into operation on May 1, 1985."
+}

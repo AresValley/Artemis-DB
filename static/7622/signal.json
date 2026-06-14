@@ -1,0 +1,52 @@
+{
+    "pageid": "7622",
+    "title": "MSF",
+    "spectrum": {
+        "filename": "MSF_3.png",
+        "url": "https://www.sigidwiki.com/images/b/b2/MSF_3.png"
+    },
+    "audio": {
+        "filename": "MSF.ogg",
+        "url": "https://www.sigidwiki.com/images/7/73/MSF.ogg"
+    },
+    "category": [
+        "Time"
+    ],
+    "frequency": [
+        {
+            "value": 60000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 5,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "OOK",
+            "description": "On-Off Keying"
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "United Kingdom",
+            "description": ""
+        },
+        {
+            "value": "Europe",
+            "description": ""
+        }
+    ],
+    "short description": "MSF is a time signal station in Anthorn, United Kingdom, which broadcasts the UK national time reference",
+    "description": "**MSF**, previously also known as **Rugby clock**, is a time signal station in Anthorn, United Kingdom. It transmits the UK national time reference which is maintained by the National Physical Laboratory (NPL). Transmitted power is about 15 kW EIRP. The signal is usable in much of northern and western Europe, and reception outside Europe may be more difficult. Time and date information is encoded in the lengths of the on-off keyed second markers. \n\nThe MSF signal can be confused with [WWVB](https://www.sigidwiki.com/wiki/WWVB) and [JJY-60](https://www.sigidwiki.com/wiki/JJY). It can be identified by using a decoder, or if a decoder is not available, location of the receiver often gives a clue about which signal was heard."
+}

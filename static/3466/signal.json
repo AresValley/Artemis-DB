@@ -1,0 +1,54 @@
+{
+    "pageid": "3466",
+    "title": "Iridium",
+    "spectrum": {
+        "filename": "IridiumTDMA.png",
+        "url": "https://www.sigidwiki.com/images/2/29/IridiumTDMA.png"
+    },
+    "audio": {
+        "filename": "Iridium.mp3",
+        "url": "https://www.sigidwiki.com/images/e/e4/Iridium.mp3"
+    },
+    "category": [
+        "Satellite",
+        "Commercial",
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 1616000000,
+            "description": ""
+        },
+        {
+            "value": 1626500000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 31500,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "PSK",
+            "description": "Phase-Shift Keying"
+        }
+    ],
+    "mode": [
+        {
+            "value": "RAW",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ],
+    "short description": "This is the L-band uplink/downlink for the Low Earth Orbit Iridium Satellite Constellation. This system is used for satellite based phone calls.",
+    "description": "This is the L-band uplink/downlink for the Low Earth Orbit **Iridium Satellite Constellation**. This system is used for satellite based phone calls."
+}

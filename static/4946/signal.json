@@ -1,0 +1,53 @@
+{
+    "pageid": "4946",
+    "title": "Meteomodem M10 Weather Balloon (Radiosonde)",
+    "spectrum": {
+        "filename": "M10-sigidwiki1.jpg",
+        "url": "https://www.sigidwiki.com/images/1/13/M10-sigidwiki1.jpg"
+    },
+    "audio": {
+        "filename": "SDRSharp 20171211 002407Z 400996820Hz.mp3",
+        "url": "https://www.sigidwiki.com/images/6/61/SDRSharp_20171211_002407Z_400996820Hz.mp3"
+    },
+    "category": [
+        "Digital",
+        "Utility"
+    ],
+    "frequency": [
+        {
+            "value": 400000000,
+            "description": ""
+        },
+        {
+            "value": 406000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 30000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "PSK",
+            "description": "Phase-Shift Keying"
+        }
+    ],
+    "mode": [
+        {
+            "value": "NFM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ],
+    "short description": "Weather balloon (radiosonde) telemetry data.",
+    "description": ""
+}

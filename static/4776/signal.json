@@ -1,0 +1,49 @@
+{
+    "pageid": "4776",
+    "title": "Road Coordination/Maintenance Telemetry",
+    "spectrum": {
+        "filename": "Weird signal in vhf band.PNG",
+        "url": "https://www.sigidwiki.com/images/7/76/Weird_signal_in_vhf_band.PNG"
+    },
+    "audio": {
+        "filename": "SDRSharp_20171204_074409Z_151010000Hz_AF.wav",
+        "url": "https://www.sigidwiki.com/images/4/46/SDRSharp_20171204_074409Z_151010000Hz_AF.wav"
+    },
+    "category": [
+        "Digital",
+        "Utility"
+    ],
+    "frequency": [
+        {
+            "value": 151010000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 6700,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "FSK",
+            "description": "Frequency-Shift Keying"
+        }
+    ],
+    "mode": [
+        {
+            "value": "FM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ],
+    "short description": "A sort of SCADA signaling method used to cooordinate traffic or other road works using external NFM transmitters.  Can also be shared with road commission vehicles and related things.",
+    "description": "{{#tag:html5media|File:SDRSharp_20171204_074409Z_151010000Hz_AF.wav}}\n\n- [Roads Department License](https://wireless2.fcc.gov/UlsApp/UlsSearch/license.jsp?licKey=1199540)"
+}

@@ -1,0 +1,77 @@
+{
+    "pageid": "8519",
+    "title": "5G Broadcast (MBMS) Multimedia Broadcast / Multicast Service",
+    "spectrum": {
+        "filename": "5G broadcast mbms.jpg",
+        "url": "https://www.sigidwiki.com/images/6/6b/5G_broadcast_mbms.jpg"
+    },
+    "audio": {
+        "filename": "649.5 5G BROADCAST 5M.mp3",
+        "url": "https://www.sigidwiki.com/images/5/50/649.5_5G_BROADCAST_5M.mp3"
+    },
+    "category": [
+        "Commercial",
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 470000000,
+            "description": ""
+        },
+        {
+            "value": 694000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 5000000,
+            "description": ""
+        },
+        {
+            "value": 6000000,
+            "description": ""
+        },
+        {
+            "value": 7000000,
+            "description": ""
+        },
+        {
+            "value": 8000000,
+            "description": ""
+        },
+        {
+            "value": 10000000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "QPSK",
+            "description": "Quadrature Phase-Shift Keying"
+        },
+        {
+            "value": "QAM",
+            "description": "Quadrature Amplitude Modulation"
+        },
+        {
+            "value": "QAM",
+            "description": "Quadrature Amplitude Modulation"
+        }
+    ],
+    "mode": [
+        {
+            "value": "OFDM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Europe",
+            "description": ""
+        }
+    ],
+    "short description": "A technology originally introduced in LTE (eMBMS) that enables efficient transmission of the same content to a large number of users at once — that is, broadcast or multicast instead of individual unicast. In 5G, its evolution is used for the so‑called LTE‑based 5G Terrestrial Broadcast.",
+    "description": "**It is a technology originally introduced in LTE (eMBMS) that enables efficient transmission of the same content to a large number of users at once** — that is, broadcast or multicast instead of individual unicast. In 5G, its evolution is used for the so‑called LTE‑based 5G Terrestrial Broadcast."
+}

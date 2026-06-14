@@ -1,0 +1,45 @@
+{
+    "pageid": "7916",
+    "title": "KY57/58 voice encryption",
+    "spectrum": {
+        "filename": "ky57 58.png",
+        "url": "https://www.sigidwiki.com/images/5/58/Ky57_58.png"
+    },
+    "audio": {
+        "filename": "Ky57 58 audio.wav",
+        "url": "https://www.sigidwiki.com/images/0/0e/Ky57_58_audio.wav"
+    },
+    "category": [],
+    "frequency": [
+        {
+            "value": 250000000,
+            "description": ""
+        },
+        {
+            "value": 400000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 32000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "CVSDM",
+            "description": "Continuously Variable Slope Delta Modulation"
+        }
+    ],
+    "mode": [
+        {
+            "value": "FM",
+            "description": ""
+        }
+    ],
+    "location": [],
+    "short description": "The KY57/58/68 Transmission Security Device is designed to protect the transmission of voice or data in the form of audio tones.  Uses CVSD modulation like Securenet.",
+    "description": "[LINK](https://www.prc68.com/I/KY57.shtml)"
+}

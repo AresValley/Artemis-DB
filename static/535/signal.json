@@ -1,0 +1,73 @@
+{
+    "pageid": "535",
+    "title": "ReFLEX",
+    "spectrum": {
+        "filename": "ReFLEX.jpg",
+        "url": "https://www.sigidwiki.com/images/3/37/ReFLEX.jpg"
+    },
+    "audio": {
+        "filename": "ReFLEXaudio1.mp3",
+        "url": "https://www.sigidwiki.com/images/e/e2/ReFLEXaudio1.mp3"
+    },
+    "category": [
+        "Digital",
+        "Commercial"
+    ],
+    "frequency": [
+        {
+            "value": 896000000,
+            "description": ""
+        },
+        {
+            "value": 902000000,
+            "description": ""
+        },
+        {
+            "value": 929000000,
+            "description": ""
+        },
+        {
+            "value": 932000000,
+            "description": ""
+        },
+        {
+            "value": 940000000,
+            "description": ""
+        },
+        {
+            "value": 941000000,
+            "description": ""
+        },
+        {
+            "value": 940210000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 40000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "FSK",
+            "description": "Frequency-Shift Keying"
+        }
+    ],
+    "mode": [
+        {
+            "value": "NFM",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "United States",
+            "description": ""
+        }
+    ],
+    "short description": "ReFLEX is a two-way paging variant of FLEX.",
+    "description": "**ReFLEX** is a two-way paging variant of [FLEX](https://www.sigidwiki.com/wiki/FLEX).\n\nPotentially also ReFLEX or another variant: [LINK](https://www.sigidwiki.com/wiki/Unknown_paging_940p862)"
+}

@@ -1,0 +1,72 @@
+{
+    "pageid": "2162",
+    "title": "Integrated Services Digital Broadcasting—Terrestrial (ISDB-T)",
+    "spectrum": {
+        "filename": null,
+        "url": null
+    },
+    "audio": {
+        "filename": null,
+        "url": null
+    },
+    "category": [
+        "Commercial"
+    ],
+    "frequency": [
+        {
+            "value": 470000000,
+            "description": ""
+        },
+        {
+            "value": 770000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 6000000,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "QPSK",
+            "description": "Quadrature Phase-Shift Keying"
+        },
+        {
+            "value": "QAM",
+            "description": "Quadrature Amplitude Modulation"
+        }
+    ],
+    "mode": [
+        {
+            "value": "RAW",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Japan",
+            "description": ""
+        },
+        {
+            "value": "Philippines",
+            "description": ""
+        },
+        {
+            "value": "Argentina",
+            "description": ""
+        },
+        {
+            "value": "Ecuador",
+            "description": ""
+        },
+        {
+            "value": "Brazil",
+            "description": ""
+        }
+    ],
+    "short description": "ISDB-T (Integrated Services Digital Broadcasting – Terrestrial) is a new type of digital broadcasting system for providing audio, video and multimedia services. ISDB-T system was standardized at the Association of Radio Industries and Businesses (ARIB) in Japan. ISDB-T uses a modulation method referred to as Band Segmented Transmission (BST) OFDM.",
+    "description": "[Category:Requested](https://www.sigidwiki.com/wiki/Category%3ARequested)"
+}

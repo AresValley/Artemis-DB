@@ -1,0 +1,53 @@
+{
+    "pageid": "3807",
+    "title": "OPERA Beacon and Data",
+    "spectrum": {
+        "filename": "Opera-1.png",
+        "url": "https://www.sigidwiki.com/images/8/87/Opera-1.png"
+    },
+    "audio": {
+        "filename": "Op05.mp3",
+        "url": "https://www.sigidwiki.com/images/b/b2/Op05.mp3"
+    },
+    "category": [
+        "Amateur Radio",
+        "Digital"
+    ],
+    "frequency": [
+        {
+            "value": 136000,
+            "description": ""
+        },
+        {
+            "value": 10000000000,
+            "description": ""
+        }
+    ],
+    "bandwidth": [
+        {
+            "value": 1.5,
+            "description": ""
+        }
+    ],
+    "acf": [],
+    "modulation": [
+        {
+            "value": "ASK",
+            "description": "Amplitude-Shift Keying"
+        }
+    ],
+    "mode": [
+        {
+            "value": "USB",
+            "description": ""
+        }
+    ],
+    "location": [
+        {
+            "value": "Worldwide",
+            "description": ""
+        }
+    ],
+    "short description": "OPERA Ad-Hoc Data/Beacon. The system is unique in that utilizes a serial data stream and Manchester coding, its therefore impossible to lose lock and its extremely robust in disturbed paths and heavy static.",
+    "description": "** OPERA ASK Beacon system**, operating on 136 kHz, 477 kHz, HF, VHF, UHF, up to 3 cm.\n\nThe system is unique in that utilizes a serial data stream and Manchester coding , its therefore impossible to lose lock and its extremely robust in disturbed paths and heavy static, experienced on 136/477 bands\n\nEarly versions carried 15 chars plain text 'Opera QSO mode' [v1-4-1] at -20 dB s/n\n\nThe currant version, contains the traditional 250 bit serial data transmission on all bands, the 136 and 477 Bands are provided with a 'second chance' correlation, single pass detector, providing -5/-6 db lower detection level. The 'Opera Dynamic' Call sign list is maintained, by either stand alone decodes [two the same]and/or web distributed decoded call's and from the software generated web TX beacon. \n\nNB: As correlation detections, always have valid calls. Should the PC be web linked, The system uses detection and decode time spots, in 'real time' to validate Dynamic spots. The recovered average audio frequency is also supplied for reference, which may assist authenticating 'single detections'\n\nOpera is an engineering beacon system, providing average s/n along the time line, average audio frequency of the signal and a % fade, which is graphically represented, by a decode line, a lost data bit, being set to + 3 dB above the minimum decode level, i.e., fade margin.\n\nDecode/Detection requirements, A minimum of 40% of the data, recovered, either in Blocks or Randomly along the timeline, i.e. ,there is no start, middle or end, just a 40%+ capture."
+}
