@@ -3,6 +3,7 @@ import urllib.parse
 import json
 import time
 import os
+import argparse
 
 from utils.constants import Constants, ProjectPath
 from models.signal import Signal
@@ -70,7 +71,7 @@ def get_identified_signal_urls() -> list[Signal]:
     return all_signals
 
 
-def update_index_json(all_signals: list[Signal]):
+def update_index_json(all_signals: list[Signal], db_version):
     """
     Questa funzione aggiorna l'indice index.json dove:
     - I nuovi segnali vengono aggiunti tramitet l'identificatore unico pageid
@@ -89,8 +90,13 @@ def update_index_json(all_signals: list[Signal]):
         
         if page_id_str not in index_data:
             new_entries_record.append(signal.title)
-        
-        index_data[page_id_str] = signal.title
+            index_data[page_id_str] = {
+                'title': signal.title,
+                'added_in_db': db_version
+            }
+        else:
+            index_data[page_id_str]['title'] = signal.title
+
 
     with open(ProjectPath.INDEX_JSON, 'w', encoding='utf-8') as f:
         json.dump(index_data, f, ensure_ascii=False, indent=4)
@@ -110,5 +116,15 @@ def update_index_json(all_signals: list[Signal]):
     print("="*50)
 
 if __name__ == "__main__":
+    parser = argparse.ArgumentParser(description="Signals scraper from sigidwiki")
+    parser.add_argument(
+        '-v',
+        '--database_version', 
+        type=int,
+        help='New database version (eg. 73)',
+        required=True
+    )
+
+    args = parser.parse_args()
     signals_scraped = get_identified_signal_urls()
-    update_index_json(signals_scraped)
+    update_index_json(signals_scraped, args.database_version)

@@ -44,7 +44,10 @@ class Constants():
         3661,
         6330,
         6229,
-        6244
+        6244,
+        8795,
+        8785,
+        7761
     ]
 
     KNOWN_MODULATIONS = {

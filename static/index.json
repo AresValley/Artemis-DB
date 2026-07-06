@@ -1,585 +1,2334 @@
 {
-    "389": "'Ghadir' OTH Radar",
-    "4366": "'OTH-SW' OTH Radar",
-    "5450": "'Vario' Airplane Data Controller",
-    "7807": "17067bps FSK",
-    "2585": "1G (NMT) Nordic Mobile Telephone",
-    "6110": "1G Advanced Mobile Phone System (AMPS)",
-    "6681": "2006 Kia Grand Carnival Keyfob",
-    "483": "29B6 'Kontayner' OTH Radar",
-    "121": "2G (GSM) Global System for Mobile Communications",
-    "3926": "2G CDMA (IS-95)",
-    "3872": "3G WCDMA",
-    "4274": "49MHz RC Car Controller",
-    "3463": "4G (LTE) Long Term Evolution Uplink",
-    "551": "4G LTE Network",
-    "8438": "4G LTE450",
-    "5644": "5G 'New Radio' Cellular Radio - Downlink",
-    "8512": "5G (NR) New Radio Uplink",
-    "8519": "5G Broadcast (MBMS) Multimedia Broadcast / Multicast Service",
-    "6895": "77Ya6 'Voronezh' radar",
-    "8152": "802.11ah",
-    "8300": "802.11ax",
-    "5317": "802.11n",
-    "5811": "8PSK",
-    "1946": "Accurate positioning by Low Frequencies (ALF)",
-    "3893": "Acer X222W monitor, sleep pulse",
-    "143": "AFSK Paging Link",
-    "44": "Aircraft Communications Addressing and Reporting System (ACARS)",
-    "7090": "AIST 2D",
-    "7108": "AKKORD-SS-PD",
-    "1748": "ALE-400",
-    "4237": "Alps Electric Co. TWB1U840 Key Fob",
-    "8180": "Altai Radiotelephone",
-    "95": "Amplitude Modulation (AM)",
-    "3948": "Amplitude Modulation Signalling System (AMSS)",
-    "1957": "AMSAT-P3D",
-    "6969": "Aprizesat",
-    "6945": "Aqua Direct Broadcast (DB)",
-    "3973": "ARGOS A-DCS",
-    "1198": "ARQ-E(E3)",
-    "1972": "ARQ-M2-242",
-    "1973": "ARQ-M2-342",
-    "1974": "ARQ-M4-242",
-    "1975": "ARQ-M4-342",
-    "1978": "ARQ-N",
-    "1960": "ARQ6-90",
-    "1963": "ARQ6-98",
-    "1981": "ASCII",
-    "6403": "ATSC 3.0 Broadcast",
-    "553": "ATSC Broadcast",
-    "8557": "AUDI keyfob",
-    "305": "Autocab",
-    "2840": "Automated Train Control System (ATCS)",
-    "130": "Automatic Dependent Surveillance-Broadcast (ADS-B)",
-    "54": "Automatic Identification System (AIS)",
-    "201": "Automatic Link Establishment (2G ALE)",
-    "651": "Automatic Link Establishment (3G ALE ARCS)",
-    "1950": "Automatic Link Set-up (ALIS)",
-    "88": "Automatic Packet Reporting System (APRS)",
-    "91": "Automatic Picture Transmission (APT)",
-    "1992": "Automatic Transmitter Identification System (ATIS)",
-    "2044": "AUTOSPEC",
-    "6147": "B-Netz",
-    "4191": "BALDR Weather Sensor Telemetry",
-    "7750": "Baofeng GMSK",
-    "7611": "Beta",
-    "283": "Binary Interchange of Information and Signaling (BIIS)",
-    "1734": "Bluetooth",
-    "5292": "Bluetooth Low Energy",
-    "6783": "BlueWalker-3 Wideband Telemetry",
-    "3644": "BMW Key-Code signal",
-    "3708": "BPC",
-    "4081": "BPM",
-    "153": "BR-6028",
-    "8663": "BRAS-3 (RS-10)",
-    "7075": "Broadband Global Area Network (BGAN)",
-    "7630": "Canadian Meteor Orbit Radar (CMOR)",
-    "6013": "CAS-4A/B Satellite Telemetry",
-    "5715": "CBET",
-    "2213": "CCIR 493-4 Selcall",
-    "2066": "CCIR Selcall",
-    "2073": "CCITT",
-    "3996": "CDMA2000 (3G physical layer)",
-    "6926": "CDMA420",
-    "6855": "Chilean Naval Time Signal",
-    "5630": "China digital radio (CDR)",
-    "7257": "Chinese 'Foghorn' OTH radar",
-    "7924": "Chinese 160kHz-wide OTH radar",
-    "7474": "Chinese 30-tone OFDM modem",
-    "656": "Chinese 4+4",
-    "2638": "Chinese Firedrake Jammer",
-    "3838": "Chinese Multitonal Jammer",
-    "7772": "Chinese-64 MFSK",
-    "8433": "Chinese/Asian radio \"MDC1200\"",
-    "3212": "CHIP",
-    "2060": "CHU",
-    "1210": "CIS 3x100 VFT",
-    "1214": "CIS 3x144 VFT",
-    "1207": "CIS 3xBaudot-50 VFT",
-    "7662": "CIS FTM-4",
-    "7340": "CIS MFSK-11",
-    "3437": "CIS MFSK-16 XPA2",
-    "7162": "CIS MFSK-16 XPB",
-    "1530": "CIS MFSK-20 XPA",
-    "7294": "CIS MFSK-21-13",
-    "2935": "CIS MFSK-68",
-    "1570": "CIS OFDM HDR Modem",
-    "8671": "CIS OFDM-121",
-    "7653": "CIS W-MFSK-17",
-    "660": "CIS-11",
-    "1581": "CIS-112",
-    "938": "CIS-12",
-    "2041": "CIS-1200 (T-230-1A 'Mahovik')",
-    "1664": "CIS-128",
-    "1229": "CIS-1280",
-    "943": "CIS-14",
-    "948": "CIS-16",
-    "1574": "CIS-20",
-    "1226": "CIS-300",
-    "689": "CIS-3000",
-    "1219": "CIS-36-50",
-    "1223": "CIS-40.5",
-    "2913": "CIS-48",
-    "2457": "CIS-50-50",
-    "1232": "CIS-8181",
-    "6779": "CLOUDSAT Downlink",
-    "627": "CLOVER 2000",
-    "2416": "CLOVER 2500",
-    "2389": "CLOVER-I",
-    "631": "CLOVER-II",
-    "6487": "Cobra Dane",
-    "640": "Codan Data Modem",
-    "521": "CODAR",
-    "6847": "COFDMTV",
-    "3388": "Coherent BPSK",
-    "3389": "Coherent CW",
-    "1742": "CompuLert",
-    "1236": "Contestia",
-    "2095": "Continuous Tone-Coded Squelch System (CTCSS)",
-    "6825": "Contrôle de vitesse par balises (KVB)",
-    "691": "Coquelet",
-    "6771": "CORIOLIS Tactical Direct Broadcast",
-    "1250": "CRY2001 Voice Scrambler",
-    "6551": "Cuban Jammer",
-    "2903": "CV-786",
-    "166": "D-STAR",
-    "2875": "Datawell Buoy HF Link",
-    "5637": "DB0UPB research beacon",
-    "1254": "DCF77",
-    "3904": "Delfi-C3 Telemetry",
-    "876": "DeltaFix",
-    "4549": "Denso 4EA Key Fob",
-    "5485": "DFM-09",
-    "2473": "Differential Global Positioning System (DGPS)",
-    "6418": "Digisonde",
-    "109": "Digital Audio Broadcasting (DAB)",
-    "355": "Digital Audio Broadcasting Plus (DAB+)",
-    "2421": "Digital Dispatch Systems MDT",
-    "1727": "Digital Enhanced Cordless Telecommunications (DECT)",
-    "1739": "Digital Mobile Radio (DMR)",
-    "1731": "Digital Multimedia Broadcasting (DMB)",
-    "6728": "Digital NBTV",
-    "1738": "Digital Private Mobile Radio (dPMR)",
-    "115": "Digital Radio Mondiale (DRM)",
-    "6584": "Digital Radio Mondiale Plus (DRM+)",
-    "8574": "Digital Video Broadcasting — Cable (DVB-C)",
-    "8568": "Digital Video Broadcasting — Satellite (DVB-S)",
-    "206": "Digital Video Broadcasting — Terrestrial (DVB-T)",
-    "6512": "Digital-Coded Squelch (DCS)",
-    "5999": "DisplayPort Interference",
-    "870": "Distress Radiobeacon (Analog)",
-    "1552": "Distress Radiobeacon (Digital)",
-    "195": "Distributed Power Unit (DPU)",
-    "832": "DominoEX",
-    "3227": "DominoF",
-    "1257": "Driftnet Buoy Radio Beacon",
-    "2309": "Dual Tone Multi Frequency (DTMF)",
-    "5454": "Duga radar",
-    "2986": "DUP-ARQ",
-    "2989": "DUP-ARQ-2",
-    "2992": "DUP-FEC-2",
-    "5691": "EasyPal Digital SSTV",
-    "8560": "EBRO S800 keyfob",
-    "420": "ECG Telemetry",
-    "2199": "EEA",
-    "2548": "EFR Teleswitch",
-    "2102": "EIA",
-    "5607": "Electric Fence Remote Control",
-    "5821": "ELEKTRO-L GGAK-E Direct Broadcast",
-    "1536": "Emergency Alert System (EAS)",
-    "4134": "Emergency Managers Weather Information Network (EMWIN) - Repeater",
-    "194": "End of Train Device (EOTD)",
-    "82": "Enhanced Digital Access Communications System (EDACS)",
-    "6601": "Ethernet Over Powerline",
-    "2260": "EURO",
-    "4955": "Eurobalise downlink",
-    "335": "European Radio Message System (ERMES)",
-    "7985": "F03 numbers station",
-    "7912": "F07 number station",
-    "3073": "FEC-A",
-    "6619": "Federal Signal Modem-MSK",
-    "2264": "FLASH-OFDM",
-    "203": "FLEX",
-    "94": "FM Broadcast Radio",
-    "6711": "FM NBTV",
-    "2247": "FreeDV COHPSK",
-    "6398": "FreeDV plus Video",
-    "2246": "Frequency Division Multiplex Digital Voice (FDMDV)",
-    "4965": "Friedland Libra+ 48249SL wireless doorbell",
-    "867": "FSK441",
-    "3721": "FSQ",
-    "7854": "FST4",
-    "6885": "FST4W",
-    "5624": "FT4",
-    "4702": "FT8",
-    "161": "FUNcube-1 Telemetry",
-    "6993": "Futuba RC Controller",
-    "1291": "G-TOR",
-    "2774": "Gandalf MDT",
-    "8044": "GK-2A LRIT ( Low-Rate Image Transmission )",
-    "1743": "Glenayre Paging Link",
-    "1290": "Globe Wireless HF Network",
-    "3933": "GM2100 (R&S)",
-    "429": "GMDSS Digital Selective Calling",
-    "6997": "GOES CDA Telemetry",
-    "6322": "GOES Data Collection System (DCS)",
-    "6610": "GOES High Rate Information Transmission (HRIT)",
-    "7035": "GOES Rebroadcast (GRB)",
-    "3085": "Golay Paging (GSC)",
-    "6046": "Gonets",
-    "7755": "Google Pixel Interference",
-    "5395": "GRAVES",
-    "1997": "Graw DFM-06 Weather Balloon (Radiosonde)",
-    "5597": "GRAW DFM-09 Weather Balloon (Radiosonde)",
-    "6536": "Graw DFM-17 (Radiosonde)",
-    "4935": "Grimeton Radio (SAQ)",
-    "5993": "Ground-Based Augmentation System (GBAS)",
-    "5753": "GYN2 GBR",
-    "1298": "HC-265 Voice Scrambler",
-    "1305": "HC-ARQ",
-    "4049": "HD Radio (AM)",
-    "3943": "HD Radio (FM)",
-    "5823": "HDMI RFI Clock",
-    "1309": "Hellschreiber",
-    "7221": "HF trading link '120 Hz FMCW idle tone'",
-    "3567": "HFGCS (High Frequency Global Communications System)",
-    "2679": "High Frequency Active Auroral Research Program (HAARP)",
-    "2958": "High Frequency Data and Voice Link (HFDVL)",
-    "137": "High Frequency Data Link (HFDL)",
-    "5325": "High Power Auroral Stimulation (HIPAS)",
-    "6940": "High Resolution Data (HRD)",
-    "2623": "High Speed USB Noise",
-    "3119": "HNG-FEC",
-    "5867": "Hoffman Broadfield Signpost AVM System",
-    "6899": "Horus Binary 4FSK - v2",
-    "3975": "HORYU-4 Telemetry",
-    "5242": "HP Laptop",
-    "873": "HyperFix",
-    "4691": "Hyundai Mobis RKE-4F16 Key Fob",
-    "2276": "ICAO Selcal",
-    "6009": "ICARUS (International Cooperation for Animal Research Using Space)",
-    "6646": "ICV",
-    "192": "ILS Marker Beacon",
-    "5171": "IMet-1 RS Radiosonde",
-    "1953": "Improved Automatic Link Set-up (ALIS-2)",
-    "7361": "Induction cooker interference",
-    "7768": "Industrial key opener",
-    "3277": "Inmarsat Aero",
-    "4153": "Inmarsat IsatM2M",
-    "3143": "Inmarsat-C TDM",
-    "4017": "Inmarsat-D(D+) Downlink",
-    "5992": "Instrument Landing System",
-    "158": "Integrated Digital Enhanced Network (iDEN)",
-    "2162": "Integrated Services Digital Broadcasting—Terrestrial (ISDB-T)",
-    "2849": "Interoperable Electronic Train Management System (I-ETMS)",
-    "4860": "Ionized Meteor Trails",
-    "191": "Ionosonde",
-    "2056": "IRA-ARQ",
-    "8606": "Iranian 'Bubble' Jammer",
-    "2900": "Iranian Navy QPSK Modem",
-    "3466": "Iridium",
-    "6833": "IS-54 D-AMPS",
-    "6622": "IsatData Pro",
-    "1329": "ISCAT",
-    "174": "ISM Band device",
-    "236": "ISM Band Weather sensor",
-    "1874": "Israeli Intelligence VFT",
-    "3034": "Israeli Navy Hybrid Modem (188-110 MOD)",
-    "1846": "Israeli VFT",
-    "212": "Japan Military 8-Channel FSK",
-    "128": "Japanese Slot Machine (XSL)",
-    "5204": "Jim Creek (NLK)",
-    "1667": "Jindalee Operational Radar Network (JORN)",
-    "3716": "JJY",
-    "6283": "John Deere RTK Radio 450",
-    "5775": "JS8",
-    "7532": "JT4",
-    "368": "JT65",
-    "1342": "JT6M",
-    "1348": "JT9",
-    "1351": "JTMS",
-    "8167": "Kenwood FleetSync",
-    "1935": "KG-STV",
-    "6786": "Kia SVI-JFRGE04 Key Fob",
-    "1856": "Kiwi",
-    "7916": "KY57/58 voice encryption",
-    "6092": "Land Rover Discovery 4 Car Key",
-    "3232": "Lentus",
-    "6052": "LEOSAR Downlink",
-    "2652": "Lightning Sferics",
-    "542": "Link-11",
-    "4045": "Link-11 (UHF)",
-    "5967": "Lockheed Martin LMS-6 (Radiosonde)",
-    "4172": "Logic Trunked Radio (LTR)",
-    "6775": "Logitech(R) Wireless Mouse+Keyboard Signal",
-    "205": "LoJack",
-    "6493": "LoRa",
-    "1356": "LORAN",
-    "8752": "Low Frequency Bicycle Computer Sensor",
-    "2722": "Low Rate Picture Transmission (LRPT)",
-    "8584": "LRS restaurant pager",
-    "7048": "LTE420 MCX",
-    "6504": "M17 RF Protocol",
-    "6912": "M20 Radiosonde",
-    "8715": "Magnetron (microwave owen)",
-    "3479": "Marconi Selenia 25-Tone Modem",
-    "5707": "Mazda SKE126-01 Key Fob",
-    "1765": "Mazielka (X06)",
-    "3134": "MD-522",
-    "3123": "MD-674",
-    "4683": "MDC-4800",
-    "5262": "MDC1200",
-    "4946": "Meteomodem M10 Weather Balloon (Radiosonde)",
-    "6614": "Meteomodem PilotSonde Weather Balloon",
-    "6742": "METEOR-M High Resolution Picture Transmission (HRPT)",
-    "4021": "Meteosat WEFAX",
-    "6749": "METOP Advanced High Resolution Picture Transmission (AHRPT)",
-    "5430": "MFJ-269C Antenna SWR Analyzer",
-    "4819": "Microsonde Mark II Weather Balloon - LORAN-C signal (Radiosonde)",
-    "8722": "Microwave motion sensor (doppler radar module)",
-    "1828": "MIL-STD-110-342",
-    "1678": "MIL-STD-188-110 Appendix A 16-Tone",
-    "1677": "MIL-STD-188-110 Appendix B 39-Tone",
-    "1660": "MIL-STD-188-110 Serial",
-    "4814": "Milstar",
-    "2760": "MMP-4800",
-    "204": "MOBITEX",
-    "2206": "MODAT",
-    "1831": "Modernised High Frequency Communications System (MHFCS)",
-    "7588": "Monaco Enterprises MAAP Fire Alarm",
-    "6972": "MONITOR-2(RS39S)",
-    "567": "Morse Code (CW)",
-    "5503": "Motorola ASTRO 25 HPD Air Interface",
-    "5679": "Motorola MOSCAD SCADA telemetry",
-    "5032": "Motorola SECURENET",
-    "78": "Motorola Type II",
-    "8349": "MPDA",
-    "76": "MPT 1327",
-    "4204": "MPT1394 Keyfob",
-    "6883": "MRZ-3MK Weather Balloon (radiosonde)",
-    "6566": "MRZ-N1 Weather Balloon (radiosonde)",
-    "7622": "MSF",
-    "5934": "MSK144",
-    "1362": "MSM-1250 Modem",
-    "1370": "MT63",
-    "200": "Multi Frequency Shift Keying (MFSK)",
-    "2174": "Multiple sub-Nyquist Sampling Encoding (MUSE)",
-    "2175": "Multiplexed Analogue Components (MAC)",
-    "259": "Multitone Paging",
-    "2172": "Narrow-Bandwidth Television (NBTV)",
-    "2270": "NATEL",
-    "5267": "National Public Alerting System (NPAS)",
-    "5094": "NB-IOT",
-    "1728": "Near Field Communication (NFC)",
-    "6796": "Near Instantaneous Companded Audio Multiplex (NICAM)",
-    "211": "Next Generation Digital Narrowband (NXDN)",
-    "436": "NFM Voice",
-    "180": "Nissan Car Key",
-    "8774": "Nissan Qashqai Keyless Entry LF (Intelligent Key)",
-    "4850": "NML",
-    "4718": "NOAA Direct Sounder Broadcast (DSB)",
-    "6758": "NOAA ITOS High Resolution Picture Transmission (HRPT)",
-    "4730": "NOAA POES High Resolution Picture Transmission (HRPT)",
-    "3433": "Nokia Adaptive Message Terminal",
-    "1391": "Non-Directional Beacon (NDB)",
-    "2890": "North Korean Diplo FSK",
-    "2912": "North Korean Diplo PSK",
-    "7568": "North Korean noise jammer",
-    "7042": "North Korean Siren Jammer",
-    "4864": "NOV",
-    "4848": "NPM",
-    "2158": "NTSC Broadcast",
-    "4852": "NWC",
-    "6724": "OFDM NBTV",
-    "504": "Olivia",
-    "4783": "One Beep, Two Beeps",
-    "6161": "OOK RC Car Remote Control",
-    "1737": "OpenSky",
-    "380": "OpenWay CENTRON Smart-Meter",
-    "3807": "OPERA Beacon and Data",
-    "188": "Orbcomm",
-    "5065": "OrbComm Mobile Telephony",
-    "8372": "OTP-2 Satellite Musical Beacon",
-    "7957": "P03 numbers station",
-    "7933": "P07 numbers station",
-    "955": "PACKET",
-    "887": "PACTOR I",
-    "895": "PACTOR II",
-    "912": "PACTOR III",
-    "917": "PACTOR IV",
-    "7894": "Pager (POCSAG 1200)",
-    "107": "PAL Broadcast",
-    "2370": "Panther-H Modem",
-    "3220": "PAX",
-    "140": "Phase Shift Keying (PSK)",
-    "7485": "PI4",
-    "690": "Piccolo",
-    "442": "PLUTO II OTH Radar",
-    "67": "POCSAG",
-    "8396": "Podsolnukh 'Sunflower' Radar",
-    "3151": "POL-ARQ",
-    "2831": "Polish Intelligence 100bd 625Hz FSK",
-    "156": "Portable Traffic Lights",
-    "1732": "Positive Train Control (PTC)",
-    "7761": "Possible quarry telemetry",
-    "1866": "PRC-16",
-    "6560": "Primary Aeronautical Surveillance Radar",
-    "1985": "Primex Wireless Time Sync",
-    "6787": "PROBA 1/2 Downlink",
-    "61": "Project 25 (P25)",
-    "6626": "ProVoice",
-    "5420": "PSK Paging link",
-    "3166": "PSK-AM",
-    "3235": "PSK2K",
-    "146": "Pulse Coded Modulated (PCM) RC Toy",
-    "2220": "Pursuit Wireless Car Key",
-    "3410": "Q-MAC HF Modem",
-    "3405": "Q15X25",
-    "7872": "Q65",
-    "6639": "QO-100-modem",
-    "3329": "Quadcopter Telemetry Signal",
-    "8333": "Quansheng UVK5 Digital Text Message",
-    "3421": "RAC-ARQ",
-    "7702": "Radar altimeter",
-    "4119": "Radio Data Link Access Procedure (RD-LAP)",
-    "2193": "Radio Data System (RDS)",
-    "6370": "Radio Navigation Satellite System (RNSS)",
-    "6144": "Radio Telephone Network C (C-Netz)",
-    "197": "Radio Teletype (RTTY)",
-    "8613": "Radio-relay link",
-    "4875": "Radioteknicheskaya Systema Dalney Navigatsii (RSDN-20)",
-    "6526": "Rain Master sprinkler control",
-    "754": "RBU",
-    "6650": "RDL VLF",
-    "134": "Redundant Digital File Transfer (RDFT)",
-    "535": "ReFLEX",
-    "5803": "Relocatable Over-the-Horizon Radar (ROTHR)",
-    "7619": "RF heating and welding interference",
-    "1736": "RFID",
-    "4776": "Road Coordination/Maintenance Telemetry",
-    "3201": "Robust PACKET",
-    "1394": "ROS",
-    "3187": "RTTYM",
-    "3265": "RUM-FEC",
-    "3272": "RUM-MOI FEC",
-    "704": "Russian Diplo VFT PSK 64Bd",
-    "2814": "Russian Intelligence 200bd 1000Hz FSK (F06)",
-    "8320": "Russian Intelligence 200bd 500Hz FSK (F01)",
-    "7387": "Russian MFSK-OFDM-chirp hybrid modem",
-    "8612": "Russian military 20bd 7kHz FSK",
-    "6804": "Russian OTH 'Ghadir' type",
-    "6634": "Russian overhead power line telemetry system",
-    "1596": "RWM",
-    "6764": "S-Band Jammer",
-    "1401": "Saab Grintek MHF-50 MFSK Modem",
-    "8323": "Samsung Washing Machine Interference",
-    "4937": "SAS/SRC",
-    "4953": "SAS2",
-    "4950": "SAS3",
-    "5580": "Schneider Trio E-Series Modem",
-    "2171": "SECAM",
-    "6564": "Secondary surveillance radar (SSR)",
-    "8159": "SECOR 4 (EGRS 4)",
-    "5749": "Sensus Water meter (Acquisition units)",
-    "414": "Serdolik",
-    "4962": "SHR",
-    "3290": "SI-ARQ",
-    "3291": "SI-FEC",
-    "7395": "Siemens 1.5T MRI Scanner",
-    "673": "Siemens CHX-200 FSK Modem",
-    "3621": "SIGFOX",
-    "7506": "SIMONe meteor radar",
-    "6677": "Single frequency russian overhead power line telemetry system",
-    "102": "Single Sideband Voice",
-    "838": "SiriusXM Satellite Radio",
-    "296": "SITOR-A",
-    "620": "SITOR-B",
-    "7499": "SKiYMET meteor radar",
-    "6814": "SkyOFDM",
-    "960": "Slow-Scan Television (SSTV)",
-    "5947": "Smart TV Interference",
-    "6003": "Snap Circuits SCROV-10 Remote Control",
-    "5403": "SNOTEL (Snow Telemetry)",
-    "8141": "SOLRAD 7B (COSPAR ID: 1965-016D)",
-    "1525": "Sonne",
-    "6099": "Soyuz-MS spacecraft telemetry",
-    "2013": "SP-14 (XP)",
-    "6961": "Spectrum Painting",
-    "3296": "SPREAD",
-    "1622": "STANAG 4197",
-    "118": "STANAG 4285",
-    "1627": "STANAG 4415",
-    "1414": "STANAG 4481",
-    "1418": "STANAG 4529",
-    "1694": "STANAG 4539",
-    "3300": "STANAG 5065",
-    "430": "STP403 Bus PIT System",
-    "5274": "SuperDARN (Super Dual Auroral Radar Network)",
-    "4317": "Supervisory Control And Data Acquisition (SCADA)",
-    "3314": "SWED-ARQ",
-    "7349": "Switching Electronic Interference",
-    "6574": "Tactical Air Navigation System (TACAN)",
-    "1836": "TDF",
-    "73": "Terrestrial Trunked Radio (TETRA)",
-    "558": "Tetrapol",
-    "4323": "Thales SALAMANDRE (HFXL)",
-    "2030": "Thales Système 3000 HF Modem",
-    "2036": "Thales Système 3000 Skyhopper",
-    "2023": "Thales Système 3000 Voice Scrambler",
-    "6530": "The 'Air Horn'",
-    "5588": "The Alarm",
-    "2561": "The Buzzer (ZhUOZ MDZhB UZB76)",
-    "4247": "The Goose",
-    "5481": "The Pip",
-    "1421": "THOR",
-    "1443": "THROB",
-    "208": "Tire Pressure Monitoring System (TPMS)",
-    "6111": "Total Access Communication System (TACS)",
-    "177": "Toyota Car Key",
-    "6703": "Traffic Light Control R09",
-    "5988": "Transit 5B-5",
-    "3357": "TT2300",
-    "8580": "TV Satellite Telemetry",
-    "3349": "TWINPLEX",
-    "2503": "UHF Vehicle Location System",
-    "2838": "UIC 751-3",
-    "4074": "UK AM Data System (UK-AMDS)",
-    "3106": "UK GOV MIL WINDRM51",
-    "6424": "Ultra Low Latency (ULL) Electronic Trading Network",
-    "697": "UTC (Coordinated Universal Time) Time Standard",
-    "3682": "Vaisala RS41-SG Weather Balloon (Radiosonde)",
-    "5118": "Vaisala RS80",
-    "3740": "Vaisala RS92-KL Weather Balloon (Radiosonde)",
-    "70": "Vaisala RS92-SGP Weather Balloon (Radiosonde)",
-    "6289": "VARA HF",
-    "2315": "VDEW",
-    "3573": "Vehicle Counting System",
-    "2781": "VEZHA-S",
-    "171": "VHF Data Link - Mode 2 (VDL-M2)",
-    "572": "VHF Omnidirectional Range (VOR)",
-    "3303": "Vietnamese Siren Jammer",
-    "3362": "VISEL",
-    "4647": "Visonic MCT-201",
-    "3224": "VOICE",
-    "207": "Voice Inversion Scrambling",
-    "99": "WEFAX",
-    "6667": "Wettersonde E084 (Radiosonde)",
-    "7714": "Whelen DTMF",
-    "1733": "WiMAX",
-    "579": "WinDRM",
-    "5472": "Wireless Hydrophone System (WHS)",
-    "7578": "Wireless Smart Utility Networks (Wi-SUN)",
-    "3581": "Wireless Temperature Sensor",
-    "5137": "WSPR",
-    "5207": "WWVB",
-    "7057": "XMPP trials",
-    "1587": "Yachta T-219 Voice Scrambler",
-    "5083": "Yaesu System Fusion",
-    "3441": "Yugoslavian 16-Tone Modem",
-    "3450": "Yugoslavian 20-Tone Modem",
-    "8250": "Zaliv52",
-    "8414": "Zigbee",
-    "2344": "ZVEI Selcall",
-    "6671": "Électricité de France HNZ"
+    "389": {
+        "title": "'Ghadir' OTH Radar",
+        "added_in_db": 65
+    },
+    "4366": {
+        "title": "'OTH-SW' OTH Radar",
+        "added_in_db": 65
+    },
+    "5450": {
+        "title": "'Vario' Airplane Data Controller",
+        "added_in_db": 65
+    },
+    "7807": {
+        "title": "17067bps FSK",
+        "added_in_db": 73
+    },
+    "2585": {
+        "title": "1G (NMT) Nordic Mobile Telephone",
+        "added_in_db": 73
+    },
+    "6110": {
+        "title": "1G Advanced Mobile Phone System (AMPS)",
+        "added_in_db": 65
+    },
+    "6681": {
+        "title": "2006 Kia Grand Carnival Keyfob",
+        "added_in_db": 65
+    },
+    "483": {
+        "title": "29B6 'Kontayner' OTH Radar",
+        "added_in_db": 65
+    },
+    "121": {
+        "title": "2G (GSM) Global System for Mobile Communications",
+        "added_in_db": 73
+    },
+    "3926": {
+        "title": "2G CDMA (IS-95)",
+        "added_in_db": 65
+    },
+    "3872": {
+        "title": "3G WCDMA",
+        "added_in_db": 65
+    },
+    "4274": {
+        "title": "49MHz RC Car Controller",
+        "added_in_db": 65
+    },
+    "3463": {
+        "title": "4G (LTE) Long Term Evolution Uplink",
+        "added_in_db": 73
+    },
+    "551": {
+        "title": "4G LTE Network",
+        "added_in_db": 65
+    },
+    "8438": {
+        "title": "4G LTE450",
+        "added_in_db": 73
+    },
+    "5644": {
+        "title": "5G 'New Radio' Cellular Radio - Downlink",
+        "added_in_db": 73
+    },
+    "8512": {
+        "title": "5G (NR) New Radio Uplink",
+        "added_in_db": 73
+    },
+    "8519": {
+        "title": "5G Broadcast (MBMS) Multimedia Broadcast / Multicast Service",
+        "added_in_db": 73
+    },
+    "6895": {
+        "title": "77Ya6 'Voronezh' radar",
+        "added_in_db": 65
+    },
+    "8152": {
+        "title": "802.11ah",
+        "added_in_db": 73
+    },
+    "8300": {
+        "title": "802.11ax",
+        "added_in_db": 73
+    },
+    "5317": {
+        "title": "802.11n",
+        "added_in_db": 65
+    },
+    "5811": {
+        "title": "8PSK",
+        "added_in_db": 65
+    },
+    "1946": {
+        "title": "Accurate positioning by Low Frequencies (ALF)",
+        "added_in_db": 65
+    },
+    "3893": {
+        "title": "Acer X222W monitor, sleep pulse",
+        "added_in_db": 65
+    },
+    "143": {
+        "title": "AFSK Paging Link",
+        "added_in_db": 65
+    },
+    "44": {
+        "title": "Aircraft Communications Addressing and Reporting System (ACARS)",
+        "added_in_db": 65
+    },
+    "7090": {
+        "title": "AIST 2D",
+        "added_in_db": 65
+    },
+    "7108": {
+        "title": "AKKORD-SS-PD",
+        "added_in_db": 65
+    },
+    "1748": {
+        "title": "ALE-400",
+        "added_in_db": 65
+    },
+    "4237": {
+        "title": "Alps Electric Co. TWB1U840 Key Fob",
+        "added_in_db": 65
+    },
+    "8180": {
+        "title": "Altai Radiotelephone",
+        "added_in_db": 73
+    },
+    "95": {
+        "title": "Amplitude Modulation (AM)",
+        "added_in_db": 65
+    },
+    "3948": {
+        "title": "Amplitude Modulation Signalling System (AMSS)",
+        "added_in_db": 65
+    },
+    "1957": {
+        "title": "AMSAT-P3D",
+        "added_in_db": 65
+    },
+    "6969": {
+        "title": "Aprizesat",
+        "added_in_db": 65
+    },
+    "6945": {
+        "title": "Aqua Direct Broadcast (DB)",
+        "added_in_db": 65
+    },
+    "3973": {
+        "title": "ARGOS A-DCS",
+        "added_in_db": 65
+    },
+    "1198": {
+        "title": "ARQ-E(E3)",
+        "added_in_db": 65
+    },
+    "1972": {
+        "title": "ARQ-M2-242",
+        "added_in_db": 65
+    },
+    "1973": {
+        "title": "ARQ-M2-342",
+        "added_in_db": 65
+    },
+    "1974": {
+        "title": "ARQ-M4-242",
+        "added_in_db": 65
+    },
+    "1975": {
+        "title": "ARQ-M4-342",
+        "added_in_db": 65
+    },
+    "1978": {
+        "title": "ARQ-N",
+        "added_in_db": 65
+    },
+    "1960": {
+        "title": "ARQ6-90",
+        "added_in_db": 65
+    },
+    "1963": {
+        "title": "ARQ6-98",
+        "added_in_db": 65
+    },
+    "1981": {
+        "title": "ASCII",
+        "added_in_db": 65
+    },
+    "6403": {
+        "title": "ATSC 3.0 Broadcast",
+        "added_in_db": 65
+    },
+    "553": {
+        "title": "ATSC Broadcast",
+        "added_in_db": 65
+    },
+    "8557": {
+        "title": "AUDI keyfob",
+        "added_in_db": 73
+    },
+    "305": {
+        "title": "Autocab",
+        "added_in_db": 65
+    },
+    "2840": {
+        "title": "Automated Train Control System (ATCS)",
+        "added_in_db": 65
+    },
+    "130": {
+        "title": "Automatic Dependent Surveillance-Broadcast (ADS-B)",
+        "added_in_db": 65
+    },
+    "54": {
+        "title": "Automatic Identification System (AIS)",
+        "added_in_db": 65
+    },
+    "201": {
+        "title": "Automatic Link Establishment (2G ALE)",
+        "added_in_db": 65
+    },
+    "651": {
+        "title": "Automatic Link Establishment (3G ALE ARCS)",
+        "added_in_db": 65
+    },
+    "8780": {
+        "title": "Automatic Link Establishment (4G ALE WALE)",
+        "added_in_db": 74
+    },
+    "1950": {
+        "title": "Automatic Link Set-up (ALIS)",
+        "added_in_db": 65
+    },
+    "88": {
+        "title": "Automatic Packet Reporting System (APRS)",
+        "added_in_db": 65
+    },
+    "91": {
+        "title": "Automatic Picture Transmission (APT)",
+        "added_in_db": 65
+    },
+    "1992": {
+        "title": "Automatic Transmitter Identification System (ATIS)",
+        "added_in_db": 65
+    },
+    "2044": {
+        "title": "AUTOSPEC",
+        "added_in_db": 65
+    },
+    "6147": {
+        "title": "B-Netz",
+        "added_in_db": 65
+    },
+    "4191": {
+        "title": "BALDR Weather Sensor Telemetry",
+        "added_in_db": 65
+    },
+    "7750": {
+        "title": "Baofeng GMSK",
+        "added_in_db": 73
+    },
+    "7611": {
+        "title": "Beta",
+        "added_in_db": 71
+    },
+    "283": {
+        "title": "Binary Interchange of Information and Signaling (BIIS)",
+        "added_in_db": 65
+    },
+    "1734": {
+        "title": "Bluetooth",
+        "added_in_db": 65
+    },
+    "5292": {
+        "title": "Bluetooth Low Energy",
+        "added_in_db": 73
+    },
+    "6783": {
+        "title": "BlueWalker-3 Wideband Telemetry",
+        "added_in_db": 65
+    },
+    "3644": {
+        "title": "BMW Key-Code signal",
+        "added_in_db": 65
+    },
+    "3708": {
+        "title": "BPC",
+        "added_in_db": 65
+    },
+    "4081": {
+        "title": "BPM",
+        "added_in_db": 65
+    },
+    "153": {
+        "title": "BR-6028",
+        "added_in_db": 65
+    },
+    "8663": {
+        "title": "BRAS-3 (RS-10)",
+        "added_in_db": 73
+    },
+    "7075": {
+        "title": "Broadband Global Area Network (BGAN)",
+        "added_in_db": 65
+    },
+    "7630": {
+        "title": "Canadian Meteor Orbit Radar (CMOR)",
+        "added_in_db": 71
+    },
+    "6013": {
+        "title": "CAS-4A/B Satellite Telemetry",
+        "added_in_db": 65
+    },
+    "5715": {
+        "title": "CBET",
+        "added_in_db": 65
+    },
+    "2213": {
+        "title": "CCIR 493-4 Selcall",
+        "added_in_db": 65
+    },
+    "2066": {
+        "title": "CCIR Selcall",
+        "added_in_db": 65
+    },
+    "2073": {
+        "title": "CCITT",
+        "added_in_db": 65
+    },
+    "3996": {
+        "title": "CDMA2000 (3G physical layer)",
+        "added_in_db": 65
+    },
+    "6926": {
+        "title": "CDMA420",
+        "added_in_db": 65
+    },
+    "6855": {
+        "title": "Chilean Naval Time Signal",
+        "added_in_db": 65
+    },
+    "5630": {
+        "title": "China digital radio (CDR)",
+        "added_in_db": 65
+    },
+    "7257": {
+        "title": "Chinese 'Foghorn' OTH radar",
+        "added_in_db": 65
+    },
+    "7924": {
+        "title": "Chinese 160kHz-wide OTH radar",
+        "added_in_db": 72
+    },
+    "7474": {
+        "title": "Chinese 30-tone OFDM modem",
+        "added_in_db": 65
+    },
+    "656": {
+        "title": "Chinese 4+4",
+        "added_in_db": 65
+    },
+    "2638": {
+        "title": "Chinese Firedrake Jammer",
+        "added_in_db": 65
+    },
+    "3838": {
+        "title": "Chinese Multitonal Jammer",
+        "added_in_db": 65
+    },
+    "7772": {
+        "title": "Chinese-64 MFSK",
+        "added_in_db": 72
+    },
+    "8433": {
+        "title": "Chinese/Asian radio \"MDC1200\"",
+        "added_in_db": 73
+    },
+    "3212": {
+        "title": "CHIP",
+        "added_in_db": 65
+    },
+    "2060": {
+        "title": "CHU",
+        "added_in_db": 65
+    },
+    "1210": {
+        "title": "CIS 3x100 VFT",
+        "added_in_db": 65
+    },
+    "1214": {
+        "title": "CIS 3x144 VFT",
+        "added_in_db": 65
+    },
+    "1207": {
+        "title": "CIS 3xBaudot-50 VFT",
+        "added_in_db": 65
+    },
+    "7662": {
+        "title": "CIS FTM-4",
+        "added_in_db": 71
+    },
+    "7340": {
+        "title": "CIS MFSK-11",
+        "added_in_db": 73
+    },
+    "3437": {
+        "title": "CIS MFSK-16 XPA2",
+        "added_in_db": 65
+    },
+    "7162": {
+        "title": "CIS MFSK-16 XPB",
+        "added_in_db": 65
+    },
+    "1530": {
+        "title": "CIS MFSK-20 XPA",
+        "added_in_db": 65
+    },
+    "7294": {
+        "title": "CIS MFSK-21-13",
+        "added_in_db": 65
+    },
+    "2935": {
+        "title": "CIS MFSK-68",
+        "added_in_db": 65
+    },
+    "1570": {
+        "title": "CIS OFDM HDR Modem",
+        "added_in_db": 65
+    },
+    "8671": {
+        "title": "CIS OFDM-121",
+        "added_in_db": 73
+    },
+    "7653": {
+        "title": "CIS W-MFSK-17",
+        "added_in_db": 73
+    },
+    "660": {
+        "title": "CIS-11",
+        "added_in_db": 65
+    },
+    "1581": {
+        "title": "CIS-112",
+        "added_in_db": 65
+    },
+    "938": {
+        "title": "CIS-12",
+        "added_in_db": 65
+    },
+    "2041": {
+        "title": "CIS-1200 (T-230-1A 'Mahovik')",
+        "added_in_db": 73
+    },
+    "1664": {
+        "title": "CIS-128",
+        "added_in_db": 65
+    },
+    "1229": {
+        "title": "CIS-1280",
+        "added_in_db": 65
+    },
+    "943": {
+        "title": "CIS-14",
+        "added_in_db": 65
+    },
+    "948": {
+        "title": "CIS-16",
+        "added_in_db": 65
+    },
+    "1574": {
+        "title": "CIS-20",
+        "added_in_db": 65
+    },
+    "1226": {
+        "title": "CIS-300",
+        "added_in_db": 65
+    },
+    "689": {
+        "title": "CIS-3000",
+        "added_in_db": 65
+    },
+    "1219": {
+        "title": "CIS-36-50",
+        "added_in_db": 65
+    },
+    "1223": {
+        "title": "CIS-40.5",
+        "added_in_db": 65
+    },
+    "2913": {
+        "title": "CIS-48",
+        "added_in_db": 65
+    },
+    "2457": {
+        "title": "CIS-50-50",
+        "added_in_db": 65
+    },
+    "1232": {
+        "title": "CIS-8181",
+        "added_in_db": 65
+    },
+    "6779": {
+        "title": "CLOUDSAT Downlink",
+        "added_in_db": 65
+    },
+    "627": {
+        "title": "CLOVER 2000",
+        "added_in_db": 65
+    },
+    "2416": {
+        "title": "CLOVER 2500",
+        "added_in_db": 65
+    },
+    "2389": {
+        "title": "CLOVER-I",
+        "added_in_db": 65
+    },
+    "631": {
+        "title": "CLOVER-II",
+        "added_in_db": 65
+    },
+    "6487": {
+        "title": "Cobra Dane",
+        "added_in_db": 65
+    },
+    "640": {
+        "title": "Codan Data Modem",
+        "added_in_db": 65
+    },
+    "521": {
+        "title": "CODAR",
+        "added_in_db": 65
+    },
+    "6847": {
+        "title": "COFDMTV",
+        "added_in_db": 65
+    },
+    "3388": {
+        "title": "Coherent BPSK",
+        "added_in_db": 65
+    },
+    "3389": {
+        "title": "Coherent CW",
+        "added_in_db": 65
+    },
+    "1742": {
+        "title": "CompuLert",
+        "added_in_db": 65
+    },
+    "1236": {
+        "title": "Contestia",
+        "added_in_db": 65
+    },
+    "2095": {
+        "title": "Continuous Tone-Coded Squelch System (CTCSS)",
+        "added_in_db": 65
+    },
+    "6825": {
+        "title": "Contrôle de vitesse par balises (KVB)",
+        "added_in_db": 65
+    },
+    "691": {
+        "title": "Coquelet",
+        "added_in_db": 65
+    },
+    "6771": {
+        "title": "CORIOLIS Tactical Direct Broadcast",
+        "added_in_db": 65
+    },
+    "1250": {
+        "title": "CRY2001 Voice Scrambler",
+        "added_in_db": 65
+    },
+    "6551": {
+        "title": "Cuban Jammer",
+        "added_in_db": 65
+    },
+    "2903": {
+        "title": "CV-786",
+        "added_in_db": 65
+    },
+    "166": {
+        "title": "D-STAR",
+        "added_in_db": 65
+    },
+    "2875": {
+        "title": "Datawell Buoy HF Link",
+        "added_in_db": 65
+    },
+    "5637": {
+        "title": "DB0UPB research beacon",
+        "added_in_db": 65
+    },
+    "1254": {
+        "title": "DCF77",
+        "added_in_db": 65
+    },
+    "3904": {
+        "title": "Delfi-C3 Telemetry",
+        "added_in_db": 65
+    },
+    "876": {
+        "title": "DeltaFix",
+        "added_in_db": 65
+    },
+    "4549": {
+        "title": "Denso 4EA Key Fob",
+        "added_in_db": 65
+    },
+    "5485": {
+        "title": "DFM-09",
+        "added_in_db": 65
+    },
+    "2473": {
+        "title": "Differential Global Positioning System (DGPS)",
+        "added_in_db": 65
+    },
+    "6418": {
+        "title": "Digisonde",
+        "added_in_db": 65
+    },
+    "109": {
+        "title": "Digital Audio Broadcasting (DAB)",
+        "added_in_db": 65
+    },
+    "355": {
+        "title": "Digital Audio Broadcasting Plus (DAB+)",
+        "added_in_db": 65
+    },
+    "2421": {
+        "title": "Digital Dispatch Systems MDT",
+        "added_in_db": 65
+    },
+    "1727": {
+        "title": "Digital Enhanced Cordless Telecommunications (DECT)",
+        "added_in_db": 65
+    },
+    "1739": {
+        "title": "Digital Mobile Radio (DMR)",
+        "added_in_db": 65
+    },
+    "1731": {
+        "title": "Digital Multimedia Broadcasting (DMB)",
+        "added_in_db": 65
+    },
+    "6728": {
+        "title": "Digital NBTV",
+        "added_in_db": 65
+    },
+    "1738": {
+        "title": "Digital Private Mobile Radio (dPMR)",
+        "added_in_db": 65
+    },
+    "115": {
+        "title": "Digital Radio Mondiale (DRM)",
+        "added_in_db": 65
+    },
+    "6584": {
+        "title": "Digital Radio Mondiale Plus (DRM+)",
+        "added_in_db": 65
+    },
+    "8574": {
+        "title": "Digital Video Broadcasting — Cable (DVB-C)",
+        "added_in_db": 73
+    },
+    "8568": {
+        "title": "Digital Video Broadcasting — Satellite (DVB-S)",
+        "added_in_db": 73
+    },
+    "206": {
+        "title": "Digital Video Broadcasting — Terrestrial (DVB-T)",
+        "added_in_db": 65
+    },
+    "6512": {
+        "title": "Digital-Coded Squelch (DCS)",
+        "added_in_db": 65
+    },
+    "5999": {
+        "title": "DisplayPort Interference",
+        "added_in_db": 65
+    },
+    "870": {
+        "title": "Distress Radiobeacon (Analog)",
+        "added_in_db": 65
+    },
+    "1552": {
+        "title": "Distress Radiobeacon (Digital)",
+        "added_in_db": 65
+    },
+    "195": {
+        "title": "Distributed Power Unit (DPU)",
+        "added_in_db": 65
+    },
+    "832": {
+        "title": "DominoEX",
+        "added_in_db": 65
+    },
+    "3227": {
+        "title": "DominoF",
+        "added_in_db": 65
+    },
+    "1257": {
+        "title": "Driftnet Buoy Radio Beacon",
+        "added_in_db": 65
+    },
+    "2309": {
+        "title": "Dual Tone Multi Frequency (DTMF)",
+        "added_in_db": 65
+    },
+    "5454": {
+        "title": "Duga radar",
+        "added_in_db": 73
+    },
+    "2986": {
+        "title": "DUP-ARQ",
+        "added_in_db": 65
+    },
+    "2989": {
+        "title": "DUP-ARQ-2",
+        "added_in_db": 65
+    },
+    "2992": {
+        "title": "DUP-FEC-2",
+        "added_in_db": 65
+    },
+    "5691": {
+        "title": "EasyPal Digital SSTV",
+        "added_in_db": 73
+    },
+    "8560": {
+        "title": "EBRO S800 keyfob",
+        "added_in_db": 73
+    },
+    "420": {
+        "title": "ECG Telemetry",
+        "added_in_db": 65
+    },
+    "2199": {
+        "title": "EEA",
+        "added_in_db": 65
+    },
+    "2548": {
+        "title": "EFR Teleswitch",
+        "added_in_db": 65
+    },
+    "2102": {
+        "title": "EIA",
+        "added_in_db": 65
+    },
+    "5607": {
+        "title": "Electric Fence Remote Control",
+        "added_in_db": 65
+    },
+    "5821": {
+        "title": "ELEKTRO-L GGAK-E Direct Broadcast",
+        "added_in_db": 65
+    },
+    "1536": {
+        "title": "Emergency Alert System (EAS)",
+        "added_in_db": 65
+    },
+    "4134": {
+        "title": "Emergency Managers Weather Information Network (EMWIN) - Repeater",
+        "added_in_db": 65
+    },
+    "194": {
+        "title": "End of Train Device (EOTD)",
+        "added_in_db": 65
+    },
+    "82": {
+        "title": "Enhanced Digital Access Communications System (EDACS)",
+        "added_in_db": 65
+    },
+    "6601": {
+        "title": "Ethernet Over Powerline",
+        "added_in_db": 73
+    },
+    "2260": {
+        "title": "EURO",
+        "added_in_db": 65
+    },
+    "4955": {
+        "title": "Eurobalise downlink",
+        "added_in_db": 65
+    },
+    "335": {
+        "title": "European Radio Message System (ERMES)",
+        "added_in_db": 65
+    },
+    "7985": {
+        "title": "F03 numbers station",
+        "added_in_db": 73
+    },
+    "7912": {
+        "title": "F07 number station",
+        "added_in_db": 73
+    },
+    "3073": {
+        "title": "FEC-A",
+        "added_in_db": 65
+    },
+    "6619": {
+        "title": "Federal Signal Modem-MSK",
+        "added_in_db": 65
+    },
+    "2264": {
+        "title": "FLASH-OFDM",
+        "added_in_db": 65
+    },
+    "203": {
+        "title": "FLEX",
+        "added_in_db": 65
+    },
+    "94": {
+        "title": "FM Broadcast Radio",
+        "added_in_db": 65
+    },
+    "6711": {
+        "title": "FM NBTV",
+        "added_in_db": 65
+    },
+    "2247": {
+        "title": "FreeDV COHPSK",
+        "added_in_db": 65
+    },
+    "6398": {
+        "title": "FreeDV plus Video",
+        "added_in_db": 65
+    },
+    "2246": {
+        "title": "Frequency Division Multiplex Digital Voice (FDMDV)",
+        "added_in_db": 65
+    },
+    "4965": {
+        "title": "Friedland Libra+ 48249SL wireless doorbell",
+        "added_in_db": 65
+    },
+    "867": {
+        "title": "FSK441",
+        "added_in_db": 65
+    },
+    "3721": {
+        "title": "FSQ",
+        "added_in_db": 65
+    },
+    "7854": {
+        "title": "FST4",
+        "added_in_db": 72
+    },
+    "6885": {
+        "title": "FST4W",
+        "added_in_db": 65
+    },
+    "5624": {
+        "title": "FT4",
+        "added_in_db": 65
+    },
+    "4702": {
+        "title": "FT8",
+        "added_in_db": 65
+    },
+    "161": {
+        "title": "FUNcube-1 Telemetry",
+        "added_in_db": 65
+    },
+    "6993": {
+        "title": "Futuba RC Controller",
+        "added_in_db": 65
+    },
+    "1291": {
+        "title": "G-TOR",
+        "added_in_db": 65
+    },
+    "2774": {
+        "title": "Gandalf MDT",
+        "added_in_db": 65
+    },
+    "8044": {
+        "title": "GK-2A LRIT ( Low-Rate Image Transmission )",
+        "added_in_db": 73
+    },
+    "1743": {
+        "title": "Glenayre Paging Link",
+        "added_in_db": 65
+    },
+    "1290": {
+        "title": "Globe Wireless HF Network",
+        "added_in_db": 65
+    },
+    "3933": {
+        "title": "GM2100 (R&S)",
+        "added_in_db": 65
+    },
+    "429": {
+        "title": "GMDSS Digital Selective Calling",
+        "added_in_db": 65
+    },
+    "6997": {
+        "title": "GOES CDA Telemetry",
+        "added_in_db": 65
+    },
+    "6322": {
+        "title": "GOES Data Collection System (DCS)",
+        "added_in_db": 65
+    },
+    "6610": {
+        "title": "GOES High Rate Information Transmission (HRIT)",
+        "added_in_db": 65
+    },
+    "7035": {
+        "title": "GOES Rebroadcast (GRB)",
+        "added_in_db": 65
+    },
+    "3085": {
+        "title": "Golay Paging (GSC)",
+        "added_in_db": 65
+    },
+    "6046": {
+        "title": "Gonets",
+        "added_in_db": 65
+    },
+    "7755": {
+        "title": "Google Pixel Interference",
+        "added_in_db": 73
+    },
+    "5395": {
+        "title": "GRAVES",
+        "added_in_db": 65
+    },
+    "1997": {
+        "title": "Graw DFM-06 Weather Balloon (Radiosonde)",
+        "added_in_db": 65
+    },
+    "5597": {
+        "title": "GRAW DFM-09 Weather Balloon (Radiosonde)",
+        "added_in_db": 65
+    },
+    "6536": {
+        "title": "Graw DFM-17 (Radiosonde)",
+        "added_in_db": 65
+    },
+    "4935": {
+        "title": "Grimeton Radio (SAQ)",
+        "added_in_db": 65
+    },
+    "5993": {
+        "title": "Ground-Based Augmentation System (GBAS)",
+        "added_in_db": 65
+    },
+    "5753": {
+        "title": "GYN2 GBR",
+        "added_in_db": 65
+    },
+    "1298": {
+        "title": "HC-265 Voice Scrambler",
+        "added_in_db": 65
+    },
+    "1305": {
+        "title": "HC-ARQ",
+        "added_in_db": 65
+    },
+    "4049": {
+        "title": "HD Radio (AM)",
+        "added_in_db": 65
+    },
+    "3943": {
+        "title": "HD Radio (FM)",
+        "added_in_db": 65
+    },
+    "5823": {
+        "title": "HDMI RFI Clock",
+        "added_in_db": 65
+    },
+    "1309": {
+        "title": "Hellschreiber",
+        "added_in_db": 65
+    },
+    "7221": {
+        "title": "HF trading link '120 Hz FMCW idle tone'",
+        "added_in_db": 73
+    },
+    "3567": {
+        "title": "HFGCS (High Frequency Global Communications System)",
+        "added_in_db": 65
+    },
+    "2679": {
+        "title": "High Frequency Active Auroral Research Program (HAARP)",
+        "added_in_db": 65
+    },
+    "2958": {
+        "title": "High Frequency Data and Voice Link (HFDVL)",
+        "added_in_db": 65
+    },
+    "137": {
+        "title": "High Frequency Data Link (HFDL)",
+        "added_in_db": 65
+    },
+    "5325": {
+        "title": "High Power Auroral Stimulation (HIPAS)",
+        "added_in_db": 65
+    },
+    "6940": {
+        "title": "High Resolution Data (HRD)",
+        "added_in_db": 65
+    },
+    "2623": {
+        "title": "High Speed USB Noise",
+        "added_in_db": 65
+    },
+    "3119": {
+        "title": "HNG-FEC",
+        "added_in_db": 65
+    },
+    "5867": {
+        "title": "Hoffman Broadfield Signpost AVM System",
+        "added_in_db": 73
+    },
+    "6899": {
+        "title": "Horus Binary 4FSK - v2",
+        "added_in_db": 65
+    },
+    "3975": {
+        "title": "HORYU-4 Telemetry",
+        "added_in_db": 65
+    },
+    "5242": {
+        "title": "HP Laptop",
+        "added_in_db": 65
+    },
+    "873": {
+        "title": "HyperFix",
+        "added_in_db": 65
+    },
+    "4691": {
+        "title": "Hyundai Mobis RKE-4F16 Key Fob",
+        "added_in_db": 65
+    },
+    "2276": {
+        "title": "ICAO Selcal",
+        "added_in_db": 65
+    },
+    "6009": {
+        "title": "ICARUS (International Cooperation for Animal Research Using Space)",
+        "added_in_db": 65
+    },
+    "6646": {
+        "title": "ICV",
+        "added_in_db": 65
+    },
+    "192": {
+        "title": "ILS Marker Beacon",
+        "added_in_db": 65
+    },
+    "5171": {
+        "title": "IMet-1 RS Radiosonde",
+        "added_in_db": 65
+    },
+    "1953": {
+        "title": "Improved Automatic Link Set-up (ALIS-2)",
+        "added_in_db": 65
+    },
+    "7361": {
+        "title": "Induction cooker interference",
+        "added_in_db": 65
+    },
+    "7768": {
+        "title": "Industrial key opener",
+        "added_in_db": 73
+    },
+    "3277": {
+        "title": "Inmarsat Aero",
+        "added_in_db": 65
+    },
+    "4153": {
+        "title": "Inmarsat IsatM2M",
+        "added_in_db": 65
+    },
+    "3143": {
+        "title": "Inmarsat-C TDM",
+        "added_in_db": 65
+    },
+    "4017": {
+        "title": "Inmarsat-D(D+) Downlink",
+        "added_in_db": 65
+    },
+    "5992": {
+        "title": "Instrument Landing System",
+        "added_in_db": 65
+    },
+    "158": {
+        "title": "Integrated Digital Enhanced Network (iDEN)",
+        "added_in_db": 65
+    },
+    "2162": {
+        "title": "Integrated Services Digital Broadcasting—Terrestrial (ISDB-T)",
+        "added_in_db": 65
+    },
+    "2849": {
+        "title": "Interoperable Electronic Train Management System (I-ETMS)",
+        "added_in_db": 73
+    },
+    "4860": {
+        "title": "Ionized Meteor Trails",
+        "added_in_db": 65
+    },
+    "191": {
+        "title": "Ionosonde",
+        "added_in_db": 65
+    },
+    "2056": {
+        "title": "IRA-ARQ",
+        "added_in_db": 65
+    },
+    "8606": {
+        "title": "Iranian 'Bubble' Jammer",
+        "added_in_db": 73
+    },
+    "2900": {
+        "title": "Iranian Navy QPSK Modem",
+        "added_in_db": 65
+    },
+    "3466": {
+        "title": "Iridium",
+        "added_in_db": 65
+    },
+    "6833": {
+        "title": "IS-54 D-AMPS",
+        "added_in_db": 73
+    },
+    "6622": {
+        "title": "IsatData Pro",
+        "added_in_db": 65
+    },
+    "1329": {
+        "title": "ISCAT",
+        "added_in_db": 65
+    },
+    "174": {
+        "title": "ISM Band device",
+        "added_in_db": 65
+    },
+    "236": {
+        "title": "ISM Band Weather sensor",
+        "added_in_db": 65
+    },
+    "1874": {
+        "title": "Israeli Intelligence VFT",
+        "added_in_db": 65
+    },
+    "3034": {
+        "title": "Israeli Navy Hybrid Modem (188-110 MOD)",
+        "added_in_db": 65
+    },
+    "1846": {
+        "title": "Israeli VFT",
+        "added_in_db": 65
+    },
+    "212": {
+        "title": "Japan Military 8-Channel FSK",
+        "added_in_db": 65
+    },
+    "128": {
+        "title": "Japanese Slot Machine (XSL)",
+        "added_in_db": 65
+    },
+    "5204": {
+        "title": "Jim Creek (NLK)",
+        "added_in_db": 65
+    },
+    "1667": {
+        "title": "Jindalee Operational Radar Network (JORN)",
+        "added_in_db": 65
+    },
+    "3716": {
+        "title": "JJY",
+        "added_in_db": 65
+    },
+    "6283": {
+        "title": "John Deere RTK Radio 450",
+        "added_in_db": 65
+    },
+    "5775": {
+        "title": "JS8",
+        "added_in_db": 65
+    },
+    "7532": {
+        "title": "JT4",
+        "added_in_db": 70
+    },
+    "368": {
+        "title": "JT65",
+        "added_in_db": 65
+    },
+    "1342": {
+        "title": "JT6M",
+        "added_in_db": 65
+    },
+    "1348": {
+        "title": "JT9",
+        "added_in_db": 65
+    },
+    "1351": {
+        "title": "JTMS",
+        "added_in_db": 65
+    },
+    "8167": {
+        "title": "Kenwood FleetSync",
+        "added_in_db": 73
+    },
+    "1935": {
+        "title": "KG-STV",
+        "added_in_db": 65
+    },
+    "6786": {
+        "title": "Kia SVI-JFRGE04 Key Fob",
+        "added_in_db": 65
+    },
+    "1856": {
+        "title": "Kiwi",
+        "added_in_db": 65
+    },
+    "7916": {
+        "title": "KY57/58 voice encryption",
+        "added_in_db": 73
+    },
+    "6092": {
+        "title": "Land Rover Discovery 4 Car Key",
+        "added_in_db": 73
+    },
+    "3232": {
+        "title": "Lentus",
+        "added_in_db": 65
+    },
+    "6052": {
+        "title": "LEOSAR Downlink",
+        "added_in_db": 65
+    },
+    "2652": {
+        "title": "Lightning Sferics",
+        "added_in_db": 65
+    },
+    "542": {
+        "title": "Link-11",
+        "added_in_db": 65
+    },
+    "4045": {
+        "title": "Link-11 (UHF)",
+        "added_in_db": 65
+    },
+    "5967": {
+        "title": "Lockheed Martin LMS-6 (Radiosonde)",
+        "added_in_db": 65
+    },
+    "4172": {
+        "title": "Logic Trunked Radio (LTR)",
+        "added_in_db": 65
+    },
+    "6775": {
+        "title": "Logitech(R) Wireless Mouse+Keyboard Signal",
+        "added_in_db": 65
+    },
+    "205": {
+        "title": "LoJack",
+        "added_in_db": 65
+    },
+    "6493": {
+        "title": "LoRa",
+        "added_in_db": 65
+    },
+    "1356": {
+        "title": "LORAN",
+        "added_in_db": 65
+    },
+    "8752": {
+        "title": "Low Frequency Bicycle Computer Sensor",
+        "added_in_db": 73
+    },
+    "2722": {
+        "title": "Low Rate Picture Transmission (LRPT)",
+        "added_in_db": 65
+    },
+    "8584": {
+        "title": "LRS restaurant pager",
+        "added_in_db": 73
+    },
+    "7048": {
+        "title": "LTE420 MCX",
+        "added_in_db": 73
+    },
+    "6504": {
+        "title": "M17 RF Protocol",
+        "added_in_db": 65
+    },
+    "6912": {
+        "title": "M20 Radiosonde",
+        "added_in_db": 65
+    },
+    "8715": {
+        "title": "Magnetron (microwave oven)",
+        "added_in_db": 73
+    },
+    "3479": {
+        "title": "Marconi Selenia 25-Tone Modem",
+        "added_in_db": 65
+    },
+    "5707": {
+        "title": "Mazda SKE126-01 Key Fob",
+        "added_in_db": 65
+    },
+    "1765": {
+        "title": "Mazielka (X06)",
+        "added_in_db": 65
+    },
+    "3134": {
+        "title": "MD-522",
+        "added_in_db": 65
+    },
+    "3123": {
+        "title": "MD-674",
+        "added_in_db": 65
+    },
+    "4683": {
+        "title": "MDC-4800",
+        "added_in_db": 65
+    },
+    "5262": {
+        "title": "MDC1200",
+        "added_in_db": 65
+    },
+    "4946": {
+        "title": "Meteomodem M10 Weather Balloon (Radiosonde)",
+        "added_in_db": 65
+    },
+    "6614": {
+        "title": "Meteomodem PilotSonde Weather Balloon",
+        "added_in_db": 65
+    },
+    "6742": {
+        "title": "METEOR-M High Resolution Picture Transmission (HRPT)",
+        "added_in_db": 65
+    },
+    "4021": {
+        "title": "Meteosat WEFAX",
+        "added_in_db": 65
+    },
+    "6749": {
+        "title": "METOP Advanced High Resolution Picture Transmission (AHRPT)",
+        "added_in_db": 65
+    },
+    "5430": {
+        "title": "MFJ-269C Antenna SWR Analyzer",
+        "added_in_db": 65
+    },
+    "4819": {
+        "title": "Microsonde Mark II Weather Balloon - LORAN-C signal (Radiosonde)",
+        "added_in_db": 65
+    },
+    "8722": {
+        "title": "Microwave motion sensor (doppler radar module)",
+        "added_in_db": 73
+    },
+    "1828": {
+        "title": "MIL-STD-110-342",
+        "added_in_db": 65
+    },
+    "1678": {
+        "title": "MIL-STD-188-110 Appendix A 16-Tone",
+        "added_in_db": 65
+    },
+    "1677": {
+        "title": "MIL-STD-188-110 Appendix B 39-Tone",
+        "added_in_db": 65
+    },
+    "1660": {
+        "title": "MIL-STD-188-110 Serial",
+        "added_in_db": 65
+    },
+    "4814": {
+        "title": "Milstar",
+        "added_in_db": 65
+    },
+    "2760": {
+        "title": "MMP-4800",
+        "added_in_db": 65
+    },
+    "204": {
+        "title": "MOBITEX",
+        "added_in_db": 65
+    },
+    "2206": {
+        "title": "MODAT",
+        "added_in_db": 65
+    },
+    "1831": {
+        "title": "Modernised High Frequency Communications System (MHFCS)",
+        "added_in_db": 65
+    },
+    "7588": {
+        "title": "Monaco Enterprises MAAP Fire Alarm",
+        "added_in_db": 72
+    },
+    "6972": {
+        "title": "MONITOR-2(RS39S)",
+        "added_in_db": 65
+    },
+    "567": {
+        "title": "Morse Code (CW)",
+        "added_in_db": 65
+    },
+    "5503": {
+        "title": "Motorola ASTRO 25 HPD Air Interface",
+        "added_in_db": 65
+    },
+    "5679": {
+        "title": "Motorola MOSCAD SCADA telemetry",
+        "added_in_db": 65
+    },
+    "5032": {
+        "title": "Motorola SECURENET",
+        "added_in_db": 65
+    },
+    "78": {
+        "title": "Motorola Type II",
+        "added_in_db": 65
+    },
+    "8349": {
+        "title": "MPDA",
+        "added_in_db": 73
+    },
+    "76": {
+        "title": "MPT 1327",
+        "added_in_db": 65
+    },
+    "4204": {
+        "title": "MPT1394 Keyfob",
+        "added_in_db": 65
+    },
+    "6883": {
+        "title": "MRZ-3MK Weather Balloon (radiosonde)",
+        "added_in_db": 65
+    },
+    "6566": {
+        "title": "MRZ-N1 Weather Balloon (radiosonde)",
+        "added_in_db": 65
+    },
+    "7622": {
+        "title": "MSF",
+        "added_in_db": 71
+    },
+    "5934": {
+        "title": "MSK144",
+        "added_in_db": 65
+    },
+    "1362": {
+        "title": "MSM-1250 Modem",
+        "added_in_db": 65
+    },
+    "1370": {
+        "title": "MT63",
+        "added_in_db": 65
+    },
+    "200": {
+        "title": "Multi Frequency Shift Keying (MFSK)",
+        "added_in_db": 65
+    },
+    "2174": {
+        "title": "Multiple sub-Nyquist Sampling Encoding (MUSE)",
+        "added_in_db": 73
+    },
+    "2175": {
+        "title": "Multiplexed Analogue Components (MAC)",
+        "added_in_db": 73
+    },
+    "259": {
+        "title": "Multitone Paging",
+        "added_in_db": 65
+    },
+    "2172": {
+        "title": "Narrow-Bandwidth Television (NBTV)",
+        "added_in_db": 65
+    },
+    "2270": {
+        "title": "NATEL",
+        "added_in_db": 65
+    },
+    "5267": {
+        "title": "National Public Alerting System (NPAS)",
+        "added_in_db": 65
+    },
+    "5094": {
+        "title": "NB-IOT",
+        "added_in_db": 65
+    },
+    "1728": {
+        "title": "Near Field Communication (NFC)",
+        "added_in_db": 65
+    },
+    "6796": {
+        "title": "Near Instantaneous Companded Audio Multiplex (NICAM)",
+        "added_in_db": 65
+    },
+    "211": {
+        "title": "Next Generation Digital Narrowband (NXDN)",
+        "added_in_db": 65
+    },
+    "436": {
+        "title": "NFM Voice",
+        "added_in_db": 65
+    },
+    "180": {
+        "title": "Nissan Car Key",
+        "added_in_db": 65
+    },
+    "8774": {
+        "title": "Nissan Qashqai Keyless Entry LF (Intelligent Key)",
+        "added_in_db": 73
+    },
+    "4850": {
+        "title": "NML",
+        "added_in_db": 65
+    },
+    "4718": {
+        "title": "NOAA Direct Sounder Broadcast (DSB)",
+        "added_in_db": 65
+    },
+    "6758": {
+        "title": "NOAA ITOS High Resolution Picture Transmission (HRPT)",
+        "added_in_db": 65
+    },
+    "4730": {
+        "title": "NOAA POES High Resolution Picture Transmission (HRPT)",
+        "added_in_db": 65
+    },
+    "3433": {
+        "title": "Nokia Adaptive Message Terminal",
+        "added_in_db": 65
+    },
+    "1391": {
+        "title": "Non-Directional Beacon (NDB)",
+        "added_in_db": 65
+    },
+    "2890": {
+        "title": "North Korean Diplo FSK",
+        "added_in_db": 65
+    },
+    "2912": {
+        "title": "North Korean Diplo PSK",
+        "added_in_db": 65
+    },
+    "7568": {
+        "title": "North Korean noise jammer",
+        "added_in_db": 70
+    },
+    "7042": {
+        "title": "North Korean Siren Jammer",
+        "added_in_db": 65
+    },
+    "4864": {
+        "title": "NOV",
+        "added_in_db": 65
+    },
+    "4848": {
+        "title": "NPM",
+        "added_in_db": 65
+    },
+    "2158": {
+        "title": "NTSC Broadcast",
+        "added_in_db": 65
+    },
+    "4852": {
+        "title": "NWC",
+        "added_in_db": 65
+    },
+    "6724": {
+        "title": "OFDM NBTV",
+        "added_in_db": 65
+    },
+    "504": {
+        "title": "Olivia",
+        "added_in_db": 65
+    },
+    "4783": {
+        "title": "One Beep, Two Beeps",
+        "added_in_db": 65
+    },
+    "6161": {
+        "title": "OOK RC Car Remote Control",
+        "added_in_db": 65
+    },
+    "1737": {
+        "title": "OpenSky",
+        "added_in_db": 65
+    },
+    "380": {
+        "title": "OpenWay CENTRON Smart-Meter",
+        "added_in_db": 73
+    },
+    "3807": {
+        "title": "OPERA Beacon and Data",
+        "added_in_db": 65
+    },
+    "188": {
+        "title": "Orbcomm",
+        "added_in_db": 65
+    },
+    "5065": {
+        "title": "OrbComm Mobile Telephony",
+        "added_in_db": 65
+    },
+    "8372": {
+        "title": "OTP-2 Satellite Musical Beacon",
+        "added_in_db": 73
+    },
+    "7957": {
+        "title": "P03 numbers station",
+        "added_in_db": 73
+    },
+    "7933": {
+        "title": "P07 numbers station",
+        "added_in_db": 73
+    },
+    "955": {
+        "title": "PACKET",
+        "added_in_db": 65
+    },
+    "887": {
+        "title": "PACTOR I",
+        "added_in_db": 65
+    },
+    "895": {
+        "title": "PACTOR II",
+        "added_in_db": 65
+    },
+    "912": {
+        "title": "PACTOR III",
+        "added_in_db": 65
+    },
+    "917": {
+        "title": "PACTOR IV",
+        "added_in_db": 65
+    },
+    "7894": {
+        "title": "Pager (POCSAG 1200)",
+        "added_in_db": 73
+    },
+    "107": {
+        "title": "PAL Broadcast",
+        "added_in_db": 65
+    },
+    "2370": {
+        "title": "Panther-H Modem",
+        "added_in_db": 65
+    },
+    "3220": {
+        "title": "PAX",
+        "added_in_db": 65
+    },
+    "140": {
+        "title": "Phase Shift Keying (PSK)",
+        "added_in_db": 65
+    },
+    "7485": {
+        "title": "PI4",
+        "added_in_db": 70
+    },
+    "690": {
+        "title": "Piccolo",
+        "added_in_db": 65
+    },
+    "442": {
+        "title": "PLUTO II OTH Radar",
+        "added_in_db": 65
+    },
+    "67": {
+        "title": "POCSAG",
+        "added_in_db": 65
+    },
+    "8396": {
+        "title": "Podsolnukh 'Sunflower' Radar",
+        "added_in_db": 73
+    },
+    "3151": {
+        "title": "POL-ARQ",
+        "added_in_db": 65
+    },
+    "2831": {
+        "title": "Polish Intelligence 100bd 625Hz FSK",
+        "added_in_db": 65
+    },
+    "156": {
+        "title": "Portable Traffic Lights",
+        "added_in_db": 65
+    },
+    "1732": {
+        "title": "Positive Train Control (PTC)",
+        "added_in_db": 65
+    },
+    "1866": {
+        "title": "PRC-16",
+        "added_in_db": 65
+    },
+    "6560": {
+        "title": "Primary Aeronautical Surveillance Radar",
+        "added_in_db": 65
+    },
+    "1985": {
+        "title": "Primex Wireless Time Sync",
+        "added_in_db": 65
+    },
+    "6787": {
+        "title": "PROBA 1/2 Downlink",
+        "added_in_db": 65
+    },
+    "61": {
+        "title": "Project 25 (P25)",
+        "added_in_db": 65
+    },
+    "6626": {
+        "title": "ProVoice",
+        "added_in_db": 65
+    },
+    "5420": {
+        "title": "PSK Paging link",
+        "added_in_db": 65
+    },
+    "3166": {
+        "title": "PSK-AM",
+        "added_in_db": 65
+    },
+    "3235": {
+        "title": "PSK2K",
+        "added_in_db": 65
+    },
+    "146": {
+        "title": "Pulse Coded Modulated (PCM) RC Toy",
+        "added_in_db": 65
+    },
+    "2220": {
+        "title": "Pursuit Wireless Car Key",
+        "added_in_db": 65
+    },
+    "3410": {
+        "title": "Q-MAC HF Modem",
+        "added_in_db": 65
+    },
+    "3405": {
+        "title": "Q15X25",
+        "added_in_db": 65
+    },
+    "7872": {
+        "title": "Q65",
+        "added_in_db": 72
+    },
+    "6639": {
+        "title": "QO-100-modem",
+        "added_in_db": 65
+    },
+    "3329": {
+        "title": "Quadcopter Telemetry Signal",
+        "added_in_db": 65
+    },
+    "8333": {
+        "title": "Quansheng UVK5 Digital Text Message",
+        "added_in_db": 73
+    },
+    "3421": {
+        "title": "RAC-ARQ",
+        "added_in_db": 65
+    },
+    "7702": {
+        "title": "Radar altimeter",
+        "added_in_db": 71
+    },
+    "4119": {
+        "title": "Radio Data Link Access Procedure (RD-LAP)",
+        "added_in_db": 65
+    },
+    "2193": {
+        "title": "Radio Data System (RDS)",
+        "added_in_db": 65
+    },
+    "6370": {
+        "title": "Radio Navigation Satellite System (RNSS)",
+        "added_in_db": 73
+    },
+    "6144": {
+        "title": "Radio Telephone Network C (C-Netz)",
+        "added_in_db": 65
+    },
+    "197": {
+        "title": "Radio Teletype (RTTY)",
+        "added_in_db": 65
+    },
+    "8613": {
+        "title": "Radio-relay link",
+        "added_in_db": 73
+    },
+    "4875": {
+        "title": "Radioteknicheskaya Systema Dalney Navigatsii (RSDN-20)",
+        "added_in_db": 73
+    },
+    "6526": {
+        "title": "Rain Master sprinkler control",
+        "added_in_db": 65
+    },
+    "754": {
+        "title": "RBU",
+        "added_in_db": 65
+    },
+    "6650": {
+        "title": "RDL VLF",
+        "added_in_db": 73
+    },
+    "134": {
+        "title": "Redundant Digital File Transfer (RDFT)",
+        "added_in_db": 65
+    },
+    "535": {
+        "title": "ReFLEX",
+        "added_in_db": 65
+    },
+    "5803": {
+        "title": "Relocatable Over-the-Horizon Radar (ROTHR)",
+        "added_in_db": 65
+    },
+    "7619": {
+        "title": "RF heating and welding interference",
+        "added_in_db": 71
+    },
+    "1736": {
+        "title": "RFID",
+        "added_in_db": 65
+    },
+    "4776": {
+        "title": "Road Coordination/Maintenance Telemetry",
+        "added_in_db": 73
+    },
+    "3201": {
+        "title": "Robust PACKET",
+        "added_in_db": 65
+    },
+    "1394": {
+        "title": "ROS",
+        "added_in_db": 65
+    },
+    "3187": {
+        "title": "RTTYM",
+        "added_in_db": 65
+    },
+    "3265": {
+        "title": "RUM-FEC",
+        "added_in_db": 65
+    },
+    "3272": {
+        "title": "RUM-MOI FEC",
+        "added_in_db": 65
+    },
+    "704": {
+        "title": "Russian Diplo VFT PSK 64Bd",
+        "added_in_db": 65
+    },
+    "2814": {
+        "title": "Russian Intelligence 200bd 1000Hz FSK (F06)",
+        "added_in_db": 73
+    },
+    "8320": {
+        "title": "Russian Intelligence 200bd 500Hz FSK (F01)",
+        "added_in_db": 73
+    },
+    "7387": {
+        "title": "Russian MFSK-OFDM-chirp hybrid modem",
+        "added_in_db": 70
+    },
+    "8612": {
+        "title": "Russian military 20bd 7kHz FSK",
+        "added_in_db": 73
+    },
+    "6804": {
+        "title": "Russian OTH 'Ghadir' type",
+        "added_in_db": 65
+    },
+    "6634": {
+        "title": "Russian overhead power line telemetry system",
+        "added_in_db": 65
+    },
+    "1596": {
+        "title": "RWM",
+        "added_in_db": 65
+    },
+    "6764": {
+        "title": "S-Band Jammer",
+        "added_in_db": 65
+    },
+    "1401": {
+        "title": "Saab Grintek MHF-50 MFSK Modem",
+        "added_in_db": 65
+    },
+    "8323": {
+        "title": "Samsung Washing Machine Interference",
+        "added_in_db": 73
+    },
+    "4937": {
+        "title": "SAS/SRC",
+        "added_in_db": 65
+    },
+    "4953": {
+        "title": "SAS2",
+        "added_in_db": 65
+    },
+    "4950": {
+        "title": "SAS3",
+        "added_in_db": 65
+    },
+    "5580": {
+        "title": "Schneider Trio E-Series Modem",
+        "added_in_db": 65
+    },
+    "2171": {
+        "title": "SECAM",
+        "added_in_db": 73
+    },
+    "6564": {
+        "title": "Secondary surveillance radar (SSR)",
+        "added_in_db": 65
+    },
+    "8159": {
+        "title": "SECOR 4 (EGRS 4)",
+        "added_in_db": 73
+    },
+    "5749": {
+        "title": "Sensus Water meter (Acquisition units)",
+        "added_in_db": 65
+    },
+    "414": {
+        "title": "Serdolik",
+        "added_in_db": 65
+    },
+    "4962": {
+        "title": "SHR",
+        "added_in_db": 65
+    },
+    "3290": {
+        "title": "SI-ARQ",
+        "added_in_db": 65
+    },
+    "3291": {
+        "title": "SI-FEC",
+        "added_in_db": 65
+    },
+    "7395": {
+        "title": "Siemens 1.5T MRI Scanner",
+        "added_in_db": 65
+    },
+    "673": {
+        "title": "Siemens CHX-200 FSK Modem",
+        "added_in_db": 65
+    },
+    "3621": {
+        "title": "SIGFOX",
+        "added_in_db": 65
+    },
+    "7506": {
+        "title": "SIMONe meteor radar",
+        "added_in_db": 73
+    },
+    "6677": {
+        "title": "Single frequency russian overhead power line telemetry system",
+        "added_in_db": 65
+    },
+    "102": {
+        "title": "Single Sideband Voice",
+        "added_in_db": 65
+    },
+    "838": {
+        "title": "SiriusXM Satellite Radio",
+        "added_in_db": 65
+    },
+    "296": {
+        "title": "SITOR-A",
+        "added_in_db": 65
+    },
+    "620": {
+        "title": "SITOR-B",
+        "added_in_db": 65
+    },
+    "7499": {
+        "title": "SKiYMET meteor radar",
+        "added_in_db": 73
+    },
+    "6814": {
+        "title": "SkyOFDM",
+        "added_in_db": 65
+    },
+    "960": {
+        "title": "Slow-Scan Television (SSTV)",
+        "added_in_db": 65
+    },
+    "5947": {
+        "title": "Smart TV Interference",
+        "added_in_db": 65
+    },
+    "6003": {
+        "title": "Snap Circuits SCROV-10 Remote Control",
+        "added_in_db": 65
+    },
+    "5403": {
+        "title": "SNOTEL (Snow Telemetry)",
+        "added_in_db": 65
+    },
+    "8141": {
+        "title": "SOLRAD 7B (COSPAR ID: 1965-016D)",
+        "added_in_db": 73
+    },
+    "1525": {
+        "title": "Sonne",
+        "added_in_db": 65
+    },
+    "6099": {
+        "title": "Soyuz-MS spacecraft telemetry",
+        "added_in_db": 65
+    },
+    "2013": {
+        "title": "SP-14 (XP)",
+        "added_in_db": 65
+    },
+    "6961": {
+        "title": "Spectrum Painting",
+        "added_in_db": 65
+    },
+    "3296": {
+        "title": "SPREAD",
+        "added_in_db": 65
+    },
+    "1622": {
+        "title": "STANAG 4197",
+        "added_in_db": 65
+    },
+    "118": {
+        "title": "STANAG 4285",
+        "added_in_db": 65
+    },
+    "1627": {
+        "title": "STANAG 4415",
+        "added_in_db": 65
+    },
+    "1414": {
+        "title": "STANAG 4481",
+        "added_in_db": 65
+    },
+    "1418": {
+        "title": "STANAG 4529",
+        "added_in_db": 65
+    },
+    "1694": {
+        "title": "STANAG 4539",
+        "added_in_db": 65
+    },
+    "3300": {
+        "title": "STANAG 5065",
+        "added_in_db": 65
+    },
+    "430": {
+        "title": "STP403 Bus PIT System",
+        "added_in_db": 65
+    },
+    "5274": {
+        "title": "SuperDARN (Super Dual Auroral Radar Network)",
+        "added_in_db": 65
+    },
+    "4317": {
+        "title": "Supervisory Control And Data Acquisition (SCADA)",
+        "added_in_db": 65
+    },
+    "3314": {
+        "title": "SWED-ARQ",
+        "added_in_db": 65
+    },
+    "7349": {
+        "title": "Switching Electronic Interference",
+        "added_in_db": 65
+    },
+    "6574": {
+        "title": "Tactical Air Navigation System (TACAN)",
+        "added_in_db": 65
+    },
+    "1836": {
+        "title": "TDF",
+        "added_in_db": 65
+    },
+    "73": {
+        "title": "Terrestrial Trunked Radio (TETRA)",
+        "added_in_db": 65
+    },
+    "558": {
+        "title": "Tetrapol",
+        "added_in_db": 65
+    },
+    "4323": {
+        "title": "Thales SALAMANDRE (HFXL)",
+        "added_in_db": 65
+    },
+    "2030": {
+        "title": "Thales Système 3000 HF Modem",
+        "added_in_db": 65
+    },
+    "2036": {
+        "title": "Thales Système 3000 Skyhopper",
+        "added_in_db": 65
+    },
+    "2023": {
+        "title": "Thales Système 3000 Voice Scrambler",
+        "added_in_db": 65
+    },
+    "6530": {
+        "title": "The 'Air Horn'",
+        "added_in_db": 65
+    },
+    "5588": {
+        "title": "The Alarm",
+        "added_in_db": 65
+    },
+    "2561": {
+        "title": "The Buzzer (ZhUOZ MDZhB UZB76)",
+        "added_in_db": 65
+    },
+    "4247": {
+        "title": "The Goose",
+        "added_in_db": 65
+    },
+    "5481": {
+        "title": "The Pip",
+        "added_in_db": 65
+    },
+    "1421": {
+        "title": "THOR",
+        "added_in_db": 65
+    },
+    "1443": {
+        "title": "THROB",
+        "added_in_db": 65
+    },
+    "208": {
+        "title": "Tire Pressure Monitoring System (TPMS)",
+        "added_in_db": 65
+    },
+    "6111": {
+        "title": "Total Access Communication System (TACS)",
+        "added_in_db": 65
+    },
+    "177": {
+        "title": "Toyota Car Key",
+        "added_in_db": 65
+    },
+    "6703": {
+        "title": "Traffic Light Control R09",
+        "added_in_db": 65
+    },
+    "5988": {
+        "title": "Transit 5B-5",
+        "added_in_db": 65
+    },
+    "3357": {
+        "title": "TT2300",
+        "added_in_db": 65
+    },
+    "8580": {
+        "title": "TV Satellite Telemetry",
+        "added_in_db": 73
+    },
+    "3349": {
+        "title": "TWINPLEX",
+        "added_in_db": 65
+    },
+    "2503": {
+        "title": "UHF Vehicle Location System",
+        "added_in_db": 65
+    },
+    "2838": {
+        "title": "UIC 751-3",
+        "added_in_db": 65
+    },
+    "4074": {
+        "title": "UK AM Data System (UK-AMDS)",
+        "added_in_db": 65
+    },
+    "3106": {
+        "title": "UK GOV MIL WINDRM51",
+        "added_in_db": 65
+    },
+    "6424": {
+        "title": "Ultra Low Latency (ULL) Electronic Trading Network",
+        "added_in_db": 65
+    },
+    "697": {
+        "title": "UTC (Coordinated Universal Time) Time Standard",
+        "added_in_db": 65
+    },
+    "3682": {
+        "title": "Vaisala RS41-SG Weather Balloon (Radiosonde)",
+        "added_in_db": 65
+    },
+    "5118": {
+        "title": "Vaisala RS80",
+        "added_in_db": 73
+    },
+    "3740": {
+        "title": "Vaisala RS92-KL Weather Balloon (Radiosonde)",
+        "added_in_db": 65
+    },
+    "70": {
+        "title": "Vaisala RS92-SGP Weather Balloon (Radiosonde)",
+        "added_in_db": 65
+    },
+    "6289": {
+        "title": "VARA HF",
+        "added_in_db": 65
+    },
+    "2315": {
+        "title": "VDEW",
+        "added_in_db": 65
+    },
+    "3573": {
+        "title": "Vehicle Counting System",
+        "added_in_db": 65
+    },
+    "2781": {
+        "title": "VEZHA-S",
+        "added_in_db": 65
+    },
+    "171": {
+        "title": "VHF Data Link - Mode 2 (VDL-M2)",
+        "added_in_db": 65
+    },
+    "572": {
+        "title": "VHF Omnidirectional Range (VOR)",
+        "added_in_db": 65
+    },
+    "3303": {
+        "title": "Vietnamese Siren Jammer",
+        "added_in_db": 65
+    },
+    "3362": {
+        "title": "VISEL",
+        "added_in_db": 65
+    },
+    "4647": {
+        "title": "Visonic MCT-201",
+        "added_in_db": 65
+    },
+    "3224": {
+        "title": "VOICE",
+        "added_in_db": 65
+    },
+    "207": {
+        "title": "Voice Inversion Scrambling",
+        "added_in_db": 73
+    },
+    "99": {
+        "title": "WEFAX",
+        "added_in_db": 65
+    },
+    "6667": {
+        "title": "Wettersonde E084 (Radiosonde)",
+        "added_in_db": 65
+    },
+    "7714": {
+        "title": "Whelen DTMF",
+        "added_in_db": 73
+    },
+    "1733": {
+        "title": "WiMAX",
+        "added_in_db": 65
+    },
+    "579": {
+        "title": "WinDRM",
+        "added_in_db": 65
+    },
+    "5472": {
+        "title": "Wireless Hydrophone System (WHS)",
+        "added_in_db": 65
+    },
+    "7578": {
+        "title": "Wireless Smart Utility Networks (Wi-SUN)",
+        "added_in_db": 70
+    },
+    "3581": {
+        "title": "Wireless Temperature Sensor",
+        "added_in_db": 65
+    },
+    "5137": {
+        "title": "WSPR",
+        "added_in_db": 65
+    },
+    "5207": {
+        "title": "WWVB",
+        "added_in_db": 65
+    },
+    "7057": {
+        "title": "XMPP trials",
+        "added_in_db": 65
+    },
+    "1587": {
+        "title": "Yachta T-219 Voice Scrambler",
+        "added_in_db": 65
+    },
+    "5083": {
+        "title": "Yaesu System Fusion",
+        "added_in_db": 65
+    },
+    "3441": {
+        "title": "Yugoslavian 16-Tone Modem",
+        "added_in_db": 65
+    },
+    "3450": {
+        "title": "Yugoslavian 20-Tone Modem",
+        "added_in_db": 65
+    },
+    "8250": {
+        "title": "Zaliv52",
+        "added_in_db": 73
+    },
+    "8414": {
+        "title": "Zigbee",
+        "added_in_db": 73
+    },
+    "2344": {
+        "title": "ZVEI Selcall",
+        "added_in_db": 65
+    },
+    "6671": {
+        "title": "Électricité de France HNZ",
+        "added_in_db": 65
+    }
 }
