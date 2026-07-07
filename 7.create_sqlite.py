@@ -111,7 +111,7 @@ class Static2Sqlite:
 
                 # Process Audio
                 if sig.audio.get('url'):
-                    doc_id = Documents.create(
+                    document = Documents.create(
                         extension='ogg',
                         sig=sig_id,
                         name='Main',
