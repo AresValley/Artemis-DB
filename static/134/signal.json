@@ -1,6 +1,7 @@
 {
     "pageid": "134",
     "title": "Redundant Digital File Transfer (RDFT)",
+    "added_since": 65,
     "spectrum": {
         "filename": "Digtrx_intro.jpg",
         "url": "https://www.sigidwiki.com/images/5/54/Digtrx_intro.jpg"

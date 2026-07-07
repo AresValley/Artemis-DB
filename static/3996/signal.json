@@ -1,6 +1,7 @@
 {
     "pageid": "3996",
     "title": "CDMA2000 (3G physical layer)",
+    "added_since": 65,
     "spectrum": {
         "filename": "CDMA2.png",
         "url": "https://www.sigidwiki.com/images/b/b2/CDMA2.png"

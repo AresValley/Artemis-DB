@@ -1,6 +1,7 @@
 {
     "pageid": "3893",
     "title": "Acer X222W monitor, sleep pulse",
+    "added_since": 65,
     "spectrum": {
         "filename": "Acer monitor default sleep signal.PNG",
         "url": "https://www.sigidwiki.com/images/d/da/Acer_monitor_default_sleep_signal.PNG"

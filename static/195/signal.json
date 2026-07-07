@@ -1,6 +1,7 @@
 {
     "pageid": "195",
     "title": "Distributed Power Unit (DPU)",
+    "added_since": 65,
     "spectrum": {
         "filename": "DPU.jpg",
         "url": "https://www.sigidwiki.com/images/e/e6/DPU.jpg"

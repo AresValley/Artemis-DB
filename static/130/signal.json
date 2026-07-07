@@ -1,6 +1,7 @@
 {
     "pageid": "130",
     "title": "Automatic Dependent Surveillance-Broadcast (ADS-B)",
+    "added_since": 65,
     "spectrum": {
         "filename": "ADS-BTHMB.jpg",
         "url": "https://www.sigidwiki.com/images/3/3f/ADS-BTHMB.jpg"

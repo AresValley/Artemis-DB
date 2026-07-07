@@ -1,6 +1,7 @@
 {
     "pageid": "236",
     "title": "ISM Band Weather sensor",
+    "added_since": 65,
     "spectrum": {
         "filename": "Alecto_wxthmb.png",
         "url": "https://www.sigidwiki.com/images/6/64/Alecto_wxthmb.png"

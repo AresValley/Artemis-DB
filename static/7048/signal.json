@@ -1,6 +1,7 @@
 {
     "pageid": "7048",
     "title": "LTE420 MCX",
+    "added_since": 73,
     "spectrum": {
         "filename": "LTE-M.png",
         "url": "https://www.sigidwiki.com/images/8/81/LTE-M.png"

@@ -1,6 +1,7 @@
 {
     "pageid": "8722",
     "title": "Microwave motion sensor (doppler radar module)",
+    "added_since": 73,
     "spectrum": {
         "filename": "MWlamp.jpg",
         "url": "https://www.sigidwiki.com/images/4/43/MWlamp.jpg"

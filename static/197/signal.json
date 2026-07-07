@@ -1,6 +1,7 @@
 {
     "pageid": "197",
     "title": "Radio Teletype (RTTY)",
+    "added_since": 65,
     "spectrum": {
         "filename": "RTTY thumbnail.jpg",
         "url": "https://www.sigidwiki.com/images/f/f5/RTTY_thumbnail.jpg"

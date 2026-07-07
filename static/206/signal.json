@@ -1,6 +1,7 @@
 {
     "pageid": "206",
     "title": "Digital Video Broadcasting — Terrestrial (DVB-T)",
+    "added_since": 65,
     "spectrum": {
         "filename": "DVB-T image.jpg",
         "url": "https://www.sigidwiki.com/images/e/ec/DVB-T_image.jpg"

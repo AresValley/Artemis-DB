@@ -1,6 +1,7 @@
 {
     "pageid": "211",
     "title": "Next Generation Digital Narrowband (NXDN)",
+    "added_since": 65,
     "spectrum": {
         "filename": "NXDN_6.25.jpg",
         "url": "https://www.sigidwiki.com/images/f/f6/NXDN_6.25.jpg"

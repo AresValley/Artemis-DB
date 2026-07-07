@@ -1,6 +1,7 @@
 {
     "pageid": "200",
     "title": "Multi Frequency Shift Keying (MFSK)",
+    "added_since": 65,
     "spectrum": {
         "filename": "MFSK_8_thmb.jpg",
         "url": "https://www.sigidwiki.com/images/e/e6/MFSK_8_thmb.jpg"

@@ -1,6 +1,7 @@
 {
     "pageid": "6926",
     "title": "CDMA420",
+    "added_since": 65,
     "spectrum": {
         "filename": "CDMA420LTE420.png",
         "url": "https://www.sigidwiki.com/images/4/4b/CDMA420LTE420.png"

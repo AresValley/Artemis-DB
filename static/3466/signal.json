@@ -1,6 +1,7 @@
 {
     "pageid": "3466",
     "title": "Iridium",
+    "added_since": 65,
     "spectrum": {
         "filename": "IridiumTDMA.png",
         "url": "https://www.sigidwiki.com/images/2/29/IridiumTDMA.png"

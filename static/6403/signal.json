@@ -1,6 +1,7 @@
 {
     "pageid": "6403",
     "title": "ATSC 3.0 Broadcast",
+    "added_since": 65,
     "spectrum": {
         "filename": "ATSC3.png",
         "url": "https://www.sigidwiki.com/images/0/06/ATSC3.png"

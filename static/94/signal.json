@@ -1,6 +1,7 @@
 {
     "pageid": "94",
     "title": "FM Broadcast Radio",
+    "added_since": 65,
     "spectrum": {
         "filename": "Broadcast_FM.jpg",
         "url": "https://www.sigidwiki.com/images/0/0e/Broadcast_FM.jpg"

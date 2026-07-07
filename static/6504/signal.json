@@ -1,6 +1,7 @@
 {
     "pageid": "6504",
     "title": "M17 RF Protocol",
+    "added_since": 65,
     "spectrum": {
         "filename": "M17_wf.png",
         "url": "https://www.sigidwiki.com/images/c/c8/M17_wf.png"

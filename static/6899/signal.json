@@ -1,6 +1,7 @@
 {
     "pageid": "6899",
     "title": "Horus Binary 4FSK - v2",
+    "added_since": 65,
     "spectrum": {
         "filename": "Horus4fskwaterfall.png",
         "url": "https://www.sigidwiki.com/images/f/f8/Horus4fskwaterfall.png"

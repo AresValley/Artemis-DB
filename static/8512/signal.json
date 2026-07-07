@@ -1,6 +1,7 @@
 {
     "pageid": "8512",
     "title": "5G (NR) New Radio Uplink",
+    "added_since": 73,
     "spectrum": {
         "filename": "NR_O2_15_uplink.jpg",
         "url": "https://www.sigidwiki.com/images/5/54/NR_O2_15_uplink.jpg"

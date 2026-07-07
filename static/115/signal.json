@@ -1,6 +1,7 @@
 {
     "pageid": "115",
     "title": "Digital Radio Mondiale (DRM)",
+    "added_since": 65,
     "spectrum": {
         "filename": "DRMimage.png",
         "url": "https://www.sigidwiki.com/images/2/26/DRMimage.png"

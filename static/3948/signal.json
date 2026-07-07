@@ -1,6 +1,7 @@
 {
     "pageid": "3948",
     "title": "Amplitude Modulation Signalling System (AMSS)",
+    "added_since": 65,
     "spectrum": {
         "filename": "AMSS.jpg",
         "url": "https://www.sigidwiki.com/images/0/02/AMSS.jpg"

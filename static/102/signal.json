@@ -1,6 +1,7 @@
 {
     "pageid": "102",
     "title": "Single Sideband Voice",
+    "added_since": 65,
     "spectrum": {
         "filename": "SSB_Voice.jpg",
         "url": "https://www.sigidwiki.com/images/9/9c/SSB_Voice.jpg"

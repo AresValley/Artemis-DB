@@ -1,6 +1,7 @@
 {
     "pageid": "5420",
     "title": "PSK Paging link",
+    "added_since": 65,
     "spectrum": {
         "filename": "purc signaling.png",
         "url": "https://www.sigidwiki.com/images/b/bb/Purc_signaling.png"

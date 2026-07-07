@@ -1,6 +1,7 @@
 {
     "pageid": "156",
     "title": "Portable Traffic Lights",
+    "added_since": 65,
     "spectrum": {
         "filename": "PortTrafLight_Waterfall.png",
         "url": "https://www.sigidwiki.com/images/4/43/PortTrafLight_Waterfall.png"

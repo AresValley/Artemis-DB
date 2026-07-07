@@ -1,6 +1,7 @@
 {
     "pageid": "551",
     "title": "4G LTE Network",
+    "added_since": 65,
     "spectrum": {
         "filename": "LTE_Thumb.jpg",
         "url": "https://www.sigidwiki.com/images/9/99/LTE_Thumb.jpg"

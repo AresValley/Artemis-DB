@@ -1,6 +1,7 @@
 {
     "pageid": "6536",
     "title": "Graw DFM-17 (Radiosonde)",
+    "added_since": 65,
     "spectrum": {
         "filename": "Dfmwaterfall.png",
         "url": "https://www.sigidwiki.com/images/9/99/Dfmwaterfall.png"

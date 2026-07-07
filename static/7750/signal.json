@@ -1,6 +1,7 @@
 {
     "pageid": "7750",
     "title": "Baofeng GMSK",
+    "added_since": 73,
     "spectrum": {
         "filename": "Baofeng_GMSK.png",
         "url": "https://www.sigidwiki.com/images/9/90/Baofeng_GMSK.png"

@@ -1,6 +1,7 @@
 {
     "pageid": "1733",
     "title": "WiMAX",
+    "added_since": 65,
     "spectrum": {
         "filename": null,
         "url": null

@@ -1,6 +1,7 @@
 {
     "pageid": "88",
     "title": "Automatic Packet Reporting System (APRS)",
+    "added_since": 65,
     "spectrum": {
         "filename": "APRS.jpg",
         "url": "https://www.sigidwiki.com/images/e/e3/APRS.jpg"

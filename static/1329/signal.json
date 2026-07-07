@@ -1,6 +1,7 @@
 {
     "pageid": "1329",
     "title": "ISCAT",
+    "added_since": 65,
     "spectrum": {
         "filename": "ISCAT-A_Sim.jpg",
         "url": "https://www.sigidwiki.com/images/0/03/ISCAT-A_Sim.jpg"

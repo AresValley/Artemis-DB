@@ -1,6 +1,7 @@
 {
     "pageid": "5503",
     "title": "Motorola ASTRO 25 HPD Air Interface",
+    "added_since": 65,
     "spectrum": {
         "filename": "Motorola-ASTRO25-HPD-HAI.png",
         "url": "https://www.sigidwiki.com/images/a/a4/Motorola-ASTRO25-HPD-HAI.png"

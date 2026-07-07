@@ -1,6 +1,7 @@
 {
     "pageid": "6564",
     "title": "Secondary surveillance radar (SSR)",
+    "added_since": 65,
     "spectrum": {
         "filename": "Interrogator.JPG",
         "url": "https://www.sigidwiki.com/images/a/a6/Interrogator.JPG"

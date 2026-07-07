@@ -1,6 +1,7 @@
 {
     "pageid": "3143",
     "title": "Inmarsat-C TDM",
+    "added_since": 65,
     "spectrum": {
         "filename": "Inmarsat_TDM_NCS.jpg",
         "url": "https://www.sigidwiki.com/images/2/24/Inmarsat_TDM_NCS.jpg"

@@ -1,6 +1,7 @@
 {
     "pageid": "8613",
     "title": "Radio-relay link",
+    "added_since": 73,
     "spectrum": {
         "filename": "RRlink.jpg",
         "url": "https://www.sigidwiki.com/images/1/17/RRlink.jpg"

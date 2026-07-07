@@ -1,6 +1,7 @@
 {
     "pageid": "5292",
     "title": "Bluetooth Low Energy",
+    "added_since": 73,
     "spectrum": {
         "filename": "BLE.jpg",
         "url": "https://www.sigidwiki.com/images/c/ce/BLE.jpg"

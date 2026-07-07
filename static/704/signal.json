@@ -1,6 +1,7 @@
 {
     "pageid": "704",
     "title": "Russian Diplo VFT PSK 64Bd",
+    "added_since": 65,
     "spectrum": {
         "filename": "CIS_unk.jpg",
         "url": "https://www.sigidwiki.com/images/3/3b/CIS_unk.jpg"

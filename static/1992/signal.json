@@ -1,6 +1,7 @@
 {
     "pageid": "1992",
     "title": "Automatic Transmitter Identification System (ATIS)",
+    "added_since": 65,
     "spectrum": {
         "filename": "ATIS voice samp.jpg",
         "url": "https://www.sigidwiki.com/images/f/f7/ATIS_voice_samp.jpg"

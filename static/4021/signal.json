@@ -1,6 +1,7 @@
 {
     "pageid": "4021",
     "title": "Meteosat WEFAX",
+    "added_since": 65,
     "spectrum": {
         "filename": "Waterfall1.png",
         "url": "https://www.sigidwiki.com/images/4/4d/Waterfall1.png"

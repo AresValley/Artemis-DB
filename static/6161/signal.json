@@ -1,6 +1,7 @@
 {
     "pageid": "6161",
     "title": "OOK RC Car Remote Control",
+    "added_since": 65,
     "spectrum": {
         "filename": "27MhzRCWaterfall.png",
         "url": "https://www.sigidwiki.com/images/e/e6/27MhzRCWaterfall.png"

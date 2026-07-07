@@ -1,6 +1,7 @@
 {
     "pageid": "171",
     "title": "VHF Data Link - Mode 2 (VDL-M2)",
+    "added_since": 65,
     "spectrum": {
         "filename": "VDL2_Waterfallthmb.jpg",
         "url": "https://www.sigidwiki.com/images/1/15/VDL2_Waterfallthmb.jpg"

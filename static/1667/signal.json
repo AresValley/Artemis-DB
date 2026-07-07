@@ -1,6 +1,7 @@
 {
     "pageid": "1667",
     "title": "Jindalee Operational Radar Network (JORN)",
+    "added_since": 65,
     "spectrum": {
         "filename": "JORN.png",
         "url": "https://www.sigidwiki.com/images/d/d4/JORN.png"

@@ -1,6 +1,7 @@
 {
     "pageid": "4946",
     "title": "Meteomodem M10 Weather Balloon (Radiosonde)",
+    "added_since": 65,
     "spectrum": {
         "filename": "M10-sigidwiki1.jpg",
         "url": "https://www.sigidwiki.com/images/1/13/M10-sigidwiki1.jpg"

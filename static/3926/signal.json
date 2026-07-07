@@ -1,6 +1,7 @@
 {
     "pageid": "3926",
     "title": "2G CDMA (IS-95)",
+    "added_since": 65,
     "spectrum": {
         "filename": "2gcdma.png",
         "url": "https://www.sigidwiki.com/images/5/52/2gcdma.png"

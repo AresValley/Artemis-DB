@@ -1,6 +1,7 @@
 {
     "pageid": "2095",
     "title": "Continuous Tone-Coded Squelch System (CTCSS)",
+    "added_since": 65,
     "spectrum": {
         "filename": "CTCSS vce.jpg",
         "url": "https://www.sigidwiki.com/images/0/09/CTCSS_vce.jpg"

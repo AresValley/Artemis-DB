@@ -1,6 +1,7 @@
 {
     "pageid": "1728",
     "title": "Near Field Communication (NFC)",
+    "added_since": 65,
     "spectrum": {
         "filename": "NFC.png",
         "url": "https://www.sigidwiki.com/images/b/b0/NFC.png"

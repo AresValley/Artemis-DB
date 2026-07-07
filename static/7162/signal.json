@@ -1,6 +1,7 @@
 {
     "pageid": "7162",
     "title": "CIS MFSK-16 XPB",
+    "added_since": 65,
     "spectrum": {
         "filename": "XPB4 b.png",
         "url": "https://www.sigidwiki.com/images/6/6e/XPB4_b.png"

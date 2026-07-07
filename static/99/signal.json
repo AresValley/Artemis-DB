@@ -1,6 +1,7 @@
 {
     "pageid": "99",
     "title": "WEFAX",
+    "added_since": 65,
     "spectrum": {
         "filename": "Weather_Fascimile.jpg",
         "url": "https://www.sigidwiki.com/images/c/c9/Weather_Fascimile.jpg"

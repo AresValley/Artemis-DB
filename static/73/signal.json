@@ -1,6 +1,7 @@
 {
     "pageid": "73",
     "title": "Terrestrial Trunked Radio (TETRA)",
+    "added_since": 65,
     "spectrum": {
         "filename": "TETRA.jpg",
         "url": "https://www.sigidwiki.com/images/7/78/TETRA.jpg"

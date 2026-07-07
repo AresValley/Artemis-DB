@@ -1,6 +1,7 @@
 {
     "pageid": "1391",
     "title": "Non-Directional Beacon (NDB)",
+    "added_since": 65,
     "spectrum": {
         "filename": "Ndb-pes.jpg",
         "url": "https://www.sigidwiki.com/images/4/44/Ndb-pes.jpg"

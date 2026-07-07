@@ -1,6 +1,7 @@
 {
     "pageid": "1552",
     "title": "Distress Radiobeacon (Digital)",
+    "added_since": 65,
     "spectrum": {
         "filename": "Epirb.jpg",
         "url": "https://www.sigidwiki.com/images/5/56/Epirb.jpg"

@@ -1,6 +1,7 @@
 {
     "pageid": "7619",
     "title": "RF heating and welding interference",
+    "added_since": 71,
     "spectrum": {
         "filename": "RF heating 2.png",
         "url": "https://www.sigidwiki.com/images/3/38/RF_heating_2.png"

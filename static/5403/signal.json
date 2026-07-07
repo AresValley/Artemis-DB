@@ -1,6 +1,7 @@
 {
     "pageid": "5403",
     "title": "SNOTEL (Snow Telemetry)",
+    "added_since": 65,
     "spectrum": {
         "filename": "SNOTEL.png",
         "url": "https://www.sigidwiki.com/images/5/53/SNOTEL.png"

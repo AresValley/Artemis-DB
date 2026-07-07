@@ -1,6 +1,7 @@
 {
     "pageid": "567",
     "title": "Morse Code (CW)",
+    "added_since": 65,
     "spectrum": {
         "filename": "CW.jpg",
         "url": "https://www.sigidwiki.com/images/e/e8/CW.jpg"

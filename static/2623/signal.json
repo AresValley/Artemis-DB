@@ -1,6 +1,7 @@
 {
     "pageid": "2623",
     "title": "High Speed USB Noise",
+    "added_since": 65,
     "spectrum": {
         "filename": "USB noise.png",
         "url": "https://www.sigidwiki.com/images/a/a3/USB_noise.png"

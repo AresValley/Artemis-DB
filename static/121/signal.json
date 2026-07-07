@@ -1,6 +1,7 @@
 {
     "pageid": "121",
     "title": "2G (GSM) Global System for Mobile Communications",
+    "added_since": 73,
     "spectrum": {
         "filename": "GSM TK 03 BCCH.jpg",
         "url": "https://www.sigidwiki.com/images/4/45/GSM_TK_03_BCCH.jpg"

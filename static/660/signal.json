@@ -1,6 +1,7 @@
 {
     "pageid": "660",
     "title": "CIS-11",
+    "added_since": 65,
     "spectrum": {
         "filename": "CIS-11.jpg",
         "url": "https://www.sigidwiki.com/images/8/8d/CIS-11.jpg"

@@ -1,6 +1,7 @@
 {
     "pageid": "2875",
     "title": "Datawell Buoy HF Link",
+    "added_since": 65,
     "spectrum": {
         "filename": "datawell_2FSK.jpg",
         "url": "https://www.sigidwiki.com/images/7/7c/Datawell_2FSK.jpg"

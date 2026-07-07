@@ -1,6 +1,7 @@
 {
     "pageid": "2722",
     "title": "Low Rate Picture Transmission (LRPT)",
+    "added_since": 65,
     "spectrum": {
         "filename": "LRPTWaterfall.jpg",
         "url": "https://www.sigidwiki.com/images/1/17/LRPTWaterfall.jpg"

@@ -1,6 +1,7 @@
 {
     "pageid": "3904",
     "title": "Delfi-C3 Telemetry",
+    "added_since": 65,
     "spectrum": {
         "filename": "Delfi-C3.jpg",
         "url": "https://www.sigidwiki.com/images/d/d7/Delfi-C3.jpg"

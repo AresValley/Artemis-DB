@@ -1,6 +1,7 @@
 {
     "pageid": "5597",
     "title": "GRAW DFM-09 Weather Balloon (Radiosonde)",
+    "added_since": 65,
     "spectrum": {
         "filename": "DFM092.png",
         "url": "https://www.sigidwiki.com/images/2/26/DFM092.png"

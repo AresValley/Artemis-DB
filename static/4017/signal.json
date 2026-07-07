@@ -1,6 +1,7 @@
 {
     "pageid": "4017",
     "title": "Inmarsat-D(D+) Downlink",
+    "added_since": 65,
     "spectrum": {
         "filename": "Inmarsat D.jpg",
         "url": "https://www.sigidwiki.com/images/9/98/Inmarsat_D.jpg"

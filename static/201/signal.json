@@ -1,6 +1,7 @@
 {
     "pageid": "201",
     "title": "Automatic Link Establishment (2G ALE)",
+    "added_since": 65,
     "spectrum": {
         "filename": "ALE2G.jpg",
         "url": "https://www.sigidwiki.com/images/f/f9/ALE2G.jpg"

@@ -1,6 +1,7 @@
 {
     "pageid": "5137",
     "title": "WSPR",
+    "added_since": 65,
     "spectrum": {
         "filename": "WSPR.png",
         "url": "https://www.sigidwiki.com/images/b/b9/WSPR.png"

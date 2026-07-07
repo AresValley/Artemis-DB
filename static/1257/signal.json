@@ -1,6 +1,7 @@
 {
     "pageid": "1257",
     "title": "Driftnet Buoy Radio Beacon",
+    "added_since": 65,
     "spectrum": {
         "filename": "DriftnetBuoyDrift.jpg",
         "url": "https://www.sigidwiki.com/images/d/d8/DriftnetBuoyDrift.jpg"

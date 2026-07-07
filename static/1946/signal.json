@@ -1,6 +1,7 @@
 {
     "pageid": "1946",
     "title": "Accurate positioning by Low Frequencies (ALF)",
+    "added_since": 65,
     "spectrum": {
         "filename": "ALF-RDS.jpg",
         "url": "https://www.sigidwiki.com/images/4/49/ALF-RDS.jpg"

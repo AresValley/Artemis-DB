@@ -1,6 +1,7 @@
 {
     "pageid": "6110",
     "title": "1G Advanced Mobile Phone System (AMPS)",
+    "added_since": 65,
     "spectrum": {
         "filename": "AmpsCC.png",
         "url": "https://www.sigidwiki.com/images/6/6c/AmpsCC.png"

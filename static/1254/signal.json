@@ -1,6 +1,7 @@
 {
     "pageid": "1254",
     "title": "DCF77",
+    "added_since": 65,
     "spectrum": {
         "filename": "DCF77.jpg",
         "url": "https://www.sigidwiki.com/images/d/db/DCF77.jpg"

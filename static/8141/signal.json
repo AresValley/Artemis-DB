@@ -1,6 +1,7 @@
 {
     "pageid": "8141",
     "title": "SOLRAD 7B (COSPAR ID: 1965-016D)",
+    "added_since": 73,
     "spectrum": {
         "filename": "Solrad7bwf.png",
         "url": "https://www.sigidwiki.com/images/2/23/Solrad7bwf.png"

@@ -1,6 +1,7 @@
 {
     "pageid": "5811",
     "title": "8PSK",
+    "added_since": 65,
     "spectrum": {
         "filename": "8PSK500F.png",
         "url": "https://www.sigidwiki.com/images/f/f1/8PSK500F.png"

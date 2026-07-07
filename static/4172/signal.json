@@ -1,6 +1,7 @@
 {
     "pageid": "4172",
     "title": "Logic Trunked Radio (LTR)",
+    "added_since": 65,
     "spectrum": {
         "filename": "LTR2.png",
         "url": "https://www.sigidwiki.com/images/1/19/LTR2.png"

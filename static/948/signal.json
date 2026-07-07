@@ -1,6 +1,7 @@
 {
     "pageid": "948",
     "title": "CIS-16",
+    "added_since": 65,
     "spectrum": {
         "filename": "CIS-16Tfcc.jpg",
         "url": "https://www.sigidwiki.com/images/3/3a/CIS-16Tfcc.jpg"

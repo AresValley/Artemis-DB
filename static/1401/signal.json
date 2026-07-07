@@ -1,6 +1,7 @@
 {
     "pageid": "1401",
     "title": "Saab Grintek MHF-50 MFSK Modem",
+    "added_since": 65,
     "spectrum": {
         "filename": "MHF-50.jpg",
         "url": "https://www.sigidwiki.com/images/4/4c/MHF-50.jpg"

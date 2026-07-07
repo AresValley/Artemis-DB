@@ -1,6 +1,7 @@
 {
     "pageid": "5749",
     "title": "Sensus Water meter (Acquisition units)",
+    "added_since": 65,
     "spectrum": {
         "filename": "SWD.png",
         "url": "https://www.sigidwiki.com/images/0/09/SWD.png"

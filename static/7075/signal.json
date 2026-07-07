@@ -1,6 +1,7 @@
 {
     "pageid": "7075",
     "title": "Broadband Global Area Network (BGAN)",
+    "added_since": 65,
     "spectrum": {
         "filename": "Bgan.png",
         "url": "https://www.sigidwiki.com/images/9/96/Bgan.png"

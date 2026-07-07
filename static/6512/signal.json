@@ -1,6 +1,7 @@
 {
     "pageid": "6512",
     "title": "Digital-Coded Squelch (DCS)",
+    "added_since": 65,
     "spectrum": {
         "filename": "DCS.JPG",
         "url": "https://www.sigidwiki.com/images/c/c4/DCS.JPG"

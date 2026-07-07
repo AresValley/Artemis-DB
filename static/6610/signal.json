@@ -1,6 +1,7 @@
 {
     "pageid": "6610",
     "title": "GOES High Rate Information Transmission (HRIT)",
+    "added_since": 65,
     "spectrum": {
         "filename": "HRITnew.png",
         "url": "https://www.sigidwiki.com/images/6/66/HRITnew.png"

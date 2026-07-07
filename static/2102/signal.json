@@ -1,6 +1,7 @@
 {
     "pageid": "2102",
     "title": "EIA",
+    "added_since": 65,
     "spectrum": {
         "filename": "EIA 5-tone.jpg",
         "url": "https://www.sigidwiki.com/images/8/85/EIA_5-tone.jpg"

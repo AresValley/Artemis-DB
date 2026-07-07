@@ -1,6 +1,7 @@
 {
     "pageid": "6825",
     "title": "Contrôle de vitesse par balises (KVB)",
+    "added_since": 65,
     "spectrum": {
         "filename": null,
         "url": null

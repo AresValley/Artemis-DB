@@ -1,6 +1,7 @@
 {
     "pageid": "7630",
     "title": "Canadian Meteor Orbit Radar (CMOR)",
+    "added_since": 71,
     "spectrum": {
         "filename": "CMOR 1.png",
         "url": "https://www.sigidwiki.com/images/5/55/CMOR_1.png"

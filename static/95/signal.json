@@ -1,6 +1,7 @@
 {
     "pageid": "95",
     "title": "Amplitude Modulation (AM)",
+    "added_since": 65,
     "spectrum": {
         "filename": "AM_radio.jpg",
         "url": "https://www.sigidwiki.com/images/f/f5/AM_radio.jpg"

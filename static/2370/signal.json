@@ -1,6 +1,7 @@
 {
     "pageid": "2370",
     "title": "Panther-H Modem",
+    "added_since": 65,
     "spectrum": {
         "filename": "Panther-H SOC.png",
         "url": "https://www.sigidwiki.com/images/5/54/Panther-H_SOC.png"

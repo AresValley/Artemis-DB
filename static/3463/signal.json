@@ -1,6 +1,7 @@
 {
     "pageid": "3463",
     "title": "4G (LTE) Long Term Evolution Uplink",
+    "added_since": 73,
     "spectrum": {
         "filename": "LTE_O2_10_uplink-data download.jpg",
         "url": "https://www.sigidwiki.com/images/a/a2/LTE_O2_10_uplink-data_download.jpg"

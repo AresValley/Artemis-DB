@@ -1,6 +1,7 @@
 {
     "pageid": "6940",
     "title": "High Resolution Data (HRD)",
+    "added_since": 65,
     "spectrum": {
         "filename": "Hrd.png",
         "url": "https://www.sigidwiki.com/images/6/6c/Hrd.png"

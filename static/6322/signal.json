@@ -1,6 +1,7 @@
 {
     "pageid": "6322",
     "title": "GOES Data Collection System (DCS)",
+    "added_since": 65,
     "spectrum": {
         "filename": "GoesDCS300bd.jpeg",
         "url": "https://www.sigidwiki.com/images/3/38/GoesDCS300bd.jpeg"

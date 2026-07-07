@@ -1,6 +1,7 @@
 {
     "pageid": "1570",
     "title": "CIS OFDM HDR Modem",
+    "added_since": 65,
     "spectrum": {
         "filename": "CIS-45 33bd.jpg",
         "url": "https://www.sigidwiki.com/images/0/04/CIS-45_33bd.jpg"

@@ -1,6 +1,7 @@
 {
     "pageid": "6993",
     "title": "Futuba RC Controller",
+    "added_since": 65,
     "spectrum": {
         "filename": "Futuba t2pc rc controller waterfall.png",
         "url": "https://www.sigidwiki.com/images/b/b1/Futuba_t2pc_rc_controller_waterfall.png"

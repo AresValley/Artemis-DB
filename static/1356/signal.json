@@ -1,6 +1,7 @@
 {
     "pageid": "1356",
     "title": "LORAN",
+    "added_since": 65,
     "spectrum": {
         "filename": "LORAN.png",
         "url": "https://www.sigidwiki.com/images/1/17/LORAN.png"

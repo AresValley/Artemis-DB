@@ -1,6 +1,7 @@
 {
     "pageid": "70",
     "title": "Vaisala RS92-SGP Weather Balloon (Radiosonde)",
+    "added_since": 65,
     "spectrum": {
         "filename": "VaisalaRS92SGP.png",
         "url": "https://www.sigidwiki.com/images/0/00/VaisalaRS92SGP.png"

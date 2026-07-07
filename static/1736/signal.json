@@ -1,6 +1,7 @@
 {
     "pageid": "1736",
     "title": "RFID",
+    "added_since": 65,
     "spectrum": {
         "filename": "13.56MHz_RFID_roomlock_card.jpg",
         "url": "https://www.sigidwiki.com/images/e/ec/13.56MHz_RFID_roomlock_card.jpg"

@@ -1,6 +1,7 @@
 {
     "pageid": "1536",
     "title": "Emergency Alert System (EAS)",
+    "added_since": 65,
     "spectrum": {
         "filename": "EAS NFM.jpg",
         "url": "https://www.sigidwiki.com/images/0/08/EAS_NFM.jpg"

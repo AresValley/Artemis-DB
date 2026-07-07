@@ -1,6 +1,7 @@
 {
     "pageid": "4134",
     "title": "Emergency Managers Weather Information Network (EMWIN) - Repeater",
+    "added_since": 65,
     "spectrum": {
         "filename": "EMWIN.png",
         "url": "https://www.sigidwiki.com/images/1/14/EMWIN.png"

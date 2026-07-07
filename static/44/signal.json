@@ -1,6 +1,7 @@
 {
     "pageid": "44",
     "title": "Aircraft Communications Addressing and Reporting System (ACARS)",
+    "added_since": 65,
     "spectrum": {
         "filename": "ACARS.jpg",
         "url": "https://www.sigidwiki.com/images/0/06/ACARS.jpg"

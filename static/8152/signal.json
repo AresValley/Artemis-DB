@@ -1,6 +1,7 @@
 {
     "pageid": "8152",
     "title": "802.11ah",
+    "added_since": 73,
     "spectrum": {
         "filename": null,
         "url": null

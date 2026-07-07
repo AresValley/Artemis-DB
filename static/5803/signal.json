@@ -1,6 +1,7 @@
 {
     "pageid": "5803",
     "title": "Relocatable Over-the-Horizon Radar (ROTHR)",
+    "added_since": 65,
     "spectrum": {
         "filename": "UnknownHF.PNG",
         "url": "https://www.sigidwiki.com/images/d/d7/UnknownHF.PNG"

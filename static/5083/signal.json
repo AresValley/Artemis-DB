@@ -1,6 +1,7 @@
 {
     "pageid": "5083",
     "title": "Yaesu System Fusion",
+    "added_since": 65,
     "spectrum": {
         "filename": "YSFopt.png",
         "url": "https://www.sigidwiki.com/images/5/5e/YSFopt.png"

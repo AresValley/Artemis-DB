@@ -1,6 +1,7 @@
 {
     "pageid": "2473",
     "title": "Differential Global Positioning System (DGPS)",
+    "added_since": 65,
     "spectrum": {
         "filename": "DGPS 200Bd.png",
         "url": "https://www.sigidwiki.com/images/8/83/DGPS_200Bd.png"

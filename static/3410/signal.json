@@ -1,6 +1,7 @@
 {
     "pageid": "3410",
     "title": "Q-MAC HF Modem",
+    "added_since": 65,
     "spectrum": {
         "filename": "QMAC.jpg",
         "url": "https://www.sigidwiki.com/images/b/b1/QMAC.jpg"

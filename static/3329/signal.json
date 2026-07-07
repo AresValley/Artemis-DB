@@ -1,12 +1,13 @@
 {
     "pageid": "3329",
     "title": "Quadcopter Telemetry Signal",
+    "added_since": 65,
     "spectrum": {
         "filename": "Quadcopter.png",
         "url": "https://www.sigidwiki.com/images/4/4c/Quadcopter.png"
     },
     "audio": {
-        "filename": "N/A",
+        "filename": null,
         "url": null
     },
     "category": [

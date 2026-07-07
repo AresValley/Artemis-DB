@@ -1,6 +1,7 @@
 {
     "pageid": "6566",
     "title": "MRZ-N1 Weather Balloon (radiosonde)",
+    "added_since": 65,
     "spectrum": {
         "filename": "MHZ.PNG",
         "url": "https://www.sigidwiki.com/images/8/80/MHZ.PNG"

@@ -1,6 +1,7 @@
 {
     "pageid": "6764",
     "title": "S-Band Jammer",
+    "added_since": 65,
     "spectrum": {
         "filename": "RADAR JAMMER HDSDR.jpg",
         "url": "https://www.sigidwiki.com/images/b/bf/RADAR_JAMMER_HDSDR.jpg"

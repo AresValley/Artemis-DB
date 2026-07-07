@@ -1,6 +1,7 @@
 {
     "pageid": "143",
     "title": "AFSK Paging Link",
+    "added_since": 65,
     "spectrum": {
         "filename": "AFSK POCSAG pic 1.PNG",
         "url": "https://www.sigidwiki.com/images/e/e6/AFSK_POCSAG_pic_1.PNG"

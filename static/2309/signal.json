@@ -1,6 +1,7 @@
 {
     "pageid": "2309",
     "title": "Dual Tone Multi Frequency (DTMF)",
+    "added_since": 65,
     "spectrum": {
         "filename": "DTMF tones.png",
         "url": "https://www.sigidwiki.com/images/d/d4/DTMF_tones.png"

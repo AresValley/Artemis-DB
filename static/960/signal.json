@@ -1,6 +1,7 @@
 {
     "pageid": "960",
     "title": "Slow-Scan Television (SSTV)",
+    "added_since": 65,
     "spectrum": {
         "filename": "Robot_36waterfall.jpg",
         "url": "https://www.sigidwiki.com/images/3/3a/Robot_36waterfall.jpg"

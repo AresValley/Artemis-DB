@@ -1,6 +1,7 @@
 {
     "pageid": "2958",
     "title": "High Frequency Data and Voice Link (HFDVL)",
+    "added_since": 65,
     "spectrum": {
         "filename": "HFDVL.jpg",
         "url": "https://www.sigidwiki.com/images/e/e5/HFDVL.jpg"

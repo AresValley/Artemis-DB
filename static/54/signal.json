@@ -1,6 +1,7 @@
 {
     "pageid": "54",
     "title": "Automatic Identification System (AIS)",
+    "added_since": 65,
     "spectrum": {
         "filename": "AIS.jpg",
         "url": "https://www.sigidwiki.com/images/f/f7/AIS.jpg"

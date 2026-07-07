@@ -1,6 +1,7 @@
 {
     "pageid": "7755",
     "title": "Google Pixel Interference",
+    "added_since": 73,
     "spectrum": {
         "filename": "27MHz pulsing signal.png",
         "url": "https://www.sigidwiki.com/images/6/69/27MHz_pulsing_signal.png"

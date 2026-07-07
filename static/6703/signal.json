@@ -1,6 +1,7 @@
 {
     "pageid": "6703",
     "title": "Traffic Light Control R09",
+    "added_since": 65,
     "spectrum": {
         "filename": "R09_16_Dresden.png",
         "url": "https://www.sigidwiki.com/images/d/de/R09_16_Dresden.png"

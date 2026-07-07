@@ -1,6 +1,7 @@
 {
     "pageid": "389",
     "title": "'Ghadir' OTH Radar",
+    "added_since": 65,
     "spectrum": {
         "filename": "IranOTH.png",
         "url": "https://www.sigidwiki.com/images/5/53/IranOTH.png"

@@ -1,6 +1,7 @@
 {
     "pageid": "2172",
     "title": "Narrow-Bandwidth Television (NBTV)",
+    "added_since": 65,
     "spectrum": {
         "filename": "nbtv_32.gif",
         "url": "https://www.sigidwiki.com/images/e/e8/Nbtv_32.gif"

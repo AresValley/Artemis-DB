@@ -1,6 +1,7 @@
 {
     "pageid": "6052",
     "title": "LEOSAR Downlink",
+    "added_since": 65,
     "spectrum": {
         "filename": "LEOTIT.png",
         "url": "https://www.sigidwiki.com/images/a/a3/LEOTIT.png"

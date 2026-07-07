@@ -1,6 +1,7 @@
 {
     "pageid": "7035",
     "title": "GOES Rebroadcast (GRB)",
+    "added_since": 65,
     "spectrum": {
         "filename": null,
         "url": null

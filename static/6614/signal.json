@@ -1,6 +1,7 @@
 {
     "pageid": "6614",
     "title": "Meteomodem PilotSonde Weather Balloon",
+    "added_since": 65,
     "spectrum": {
         "filename": "Pilotsonde.png",
         "url": "https://www.sigidwiki.com/images/d/dc/Pilotsonde.png"

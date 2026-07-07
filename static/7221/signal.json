@@ -1,6 +1,7 @@
 {
     "pageid": "7221",
     "title": "HF trading link '120 Hz FMCW idle tone'",
+    "added_since": 73,
     "spectrum": {
         "filename": "Radar FMCW 120Hz.png",
         "url": "https://www.sigidwiki.com/images/a/a5/Radar_FMCW_120Hz.png"

@@ -1,6 +1,7 @@
 {
     "pageid": "870",
     "title": "Distress Radiobeacon (Analog)",
+    "added_since": 65,
     "spectrum": {
         "filename": "Analog_radiobeacon.jpg",
         "url": "https://www.sigidwiki.com/images/7/75/Analog_radiobeacon.jpg"

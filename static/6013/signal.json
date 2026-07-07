@@ -1,6 +1,7 @@
 {
     "pageid": "6013",
     "title": "CAS-4A/B Satellite Telemetry",
+    "added_since": 65,
     "spectrum": {
         "filename": "CAS4B2.png",
         "url": "https://www.sigidwiki.com/images/4/42/CAS4B2.png"

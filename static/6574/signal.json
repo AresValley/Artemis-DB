@@ -1,6 +1,7 @@
 {
     "pageid": "6574",
     "title": "Tactical Air Navigation System (TACAN)",
+    "added_since": 65,
     "spectrum": {
         "filename": "TACAN.png",
         "url": "https://www.sigidwiki.com/images/d/dc/TACAN.png"

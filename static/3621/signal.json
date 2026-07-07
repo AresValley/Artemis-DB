@@ -1,6 +1,7 @@
 {
     "pageid": "3621",
     "title": "SIGFOX",
+    "added_since": 65,
     "spectrum": {
         "filename": "3_SIGFOX.jpg",
         "url": "https://www.sigidwiki.com/images/b/bb/3_SIGFOX.jpg"

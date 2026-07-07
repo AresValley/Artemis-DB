@@ -1,6 +1,7 @@
 {
     "pageid": "4049",
     "title": "HD Radio (AM)",
+    "added_since": 65,
     "spectrum": {
         "filename": "hd_radio_am.jpg",
         "url": "https://www.sigidwiki.com/images/7/78/Hd_radio_am.jpg"

@@ -1,6 +1,7 @@
 {
     "pageid": "7387",
     "title": "Russian MFSK-OFDM-chirp hybrid modem",
+    "added_since": 70,
     "spectrum": {
         "filename": "Unknown data mfsk sweep ofdm medium.png",
         "url": "https://www.sigidwiki.com/images/8/85/Unknown_data_mfsk_sweep_ofdm_medium.png"

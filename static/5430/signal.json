@@ -1,6 +1,7 @@
 {
     "pageid": "5430",
     "title": "MFJ-269C Antenna SWR Analyzer",
+    "added_since": 65,
     "spectrum": {
         "filename": "Gqrx_wf_20190607_204049.png",
         "url": "https://www.sigidwiki.com/images/d/d7/Gqrx_wf_20190607_204049.png"

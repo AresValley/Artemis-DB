@@ -1,6 +1,7 @@
 {
     "pageid": "6855",
     "title": "Chilean Naval Time Signal",
+    "added_since": 65,
     "spectrum": {
         "filename": "ChileanTimeSignal.png",
         "url": "https://www.sigidwiki.com/images/3/3b/ChileanTimeSignal.png"

@@ -1,6 +1,7 @@
 {
     "pageid": "1739",
     "title": "Digital Mobile Radio (DMR)",
+    "added_since": 65,
     "spectrum": {
         "filename": "DMR.jpg",
         "url": "https://www.sigidwiki.com/images/8/87/DMR.jpg"

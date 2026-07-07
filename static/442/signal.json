@@ -1,6 +1,7 @@
 {
     "pageid": "442",
     "title": "PLUTO II OTH Radar",
+    "added_since": 65,
     "spectrum": {
         "filename": "PLUTO_II.png",
         "url": "https://www.sigidwiki.com/images/e/e8/PLUTO_II.png"

@@ -1,6 +1,7 @@
 {
     "pageid": "3300",
     "title": "STANAG 5065",
+    "added_since": 65,
     "spectrum": {
         "filename": "STANAG 5065 FSK.jpg",
         "url": "https://www.sigidwiki.com/images/7/72/STANAG_5065_FSK.jpg"

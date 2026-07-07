@@ -1,6 +1,7 @@
 {
     "pageid": "335",
     "title": "European Radio Message System (ERMES)",
+    "added_since": 65,
     "spectrum": {
         "filename": "ERMES_waterfall.jpg",
         "url": "https://www.sigidwiki.com/images/3/34/ERMES_waterfall.jpg"

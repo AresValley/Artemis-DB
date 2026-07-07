@@ -1,6 +1,7 @@
 {
     "pageid": "91",
     "title": "Automatic Picture Transmission (APT)",
+    "added_since": 65,
     "spectrum": {
         "filename": "APT_NOAA.jpg",
         "url": "https://www.sigidwiki.com/images/0/08/APT_NOAA.jpg"

@@ -1,6 +1,7 @@
 {
     "pageid": "208",
     "title": "Tire Pressure Monitoring System (TPMS)",
+    "added_since": 65,
     "spectrum": {
         "filename": "TPMS.png",
         "url": "https://www.sigidwiki.com/images/d/d2/TPMS.png"

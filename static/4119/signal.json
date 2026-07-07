@@ -1,6 +1,7 @@
 {
     "pageid": "4119",
     "title": "Radio Data Link Access Procedure (RD-LAP)",
+    "added_since": 65,
     "spectrum": {
         "filename": "RD-LAP image.jpg",
         "url": "https://www.sigidwiki.com/images/c/ce/RD-LAP_image.jpg"

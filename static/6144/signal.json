@@ -1,6 +1,7 @@
 {
     "pageid": "6144",
     "title": "Radio Telephone Network C (C-Netz)",
+    "added_since": 65,
     "spectrum": {
         "filename": "Cnetz2.png",
         "url": "https://www.sigidwiki.com/images/9/9c/Cnetz2.png"

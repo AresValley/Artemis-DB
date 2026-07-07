@@ -1,6 +1,7 @@
 {
     "pageid": "4730",
     "title": "NOAA POES High Resolution Picture Transmission (HRPT)",
+    "added_since": 65,
     "spectrum": {
         "filename": "NOAA-HRPT-WF.png",
         "url": "https://www.sigidwiki.com/images/c/c7/NOAA-HRPT-WF.png"

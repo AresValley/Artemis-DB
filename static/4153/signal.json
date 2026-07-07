@@ -1,6 +1,7 @@
 {
     "pageid": "4153",
     "title": "Inmarsat IsatM2M",
+    "added_since": 65,
     "spectrum": {
         "filename": "Inmarsat-D.jpg",
         "url": "https://www.sigidwiki.com/images/7/75/Inmarsat-D.jpg"

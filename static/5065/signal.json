@@ -1,6 +1,7 @@
 {
     "pageid": "5065",
     "title": "OrbComm Mobile Telephony",
+    "added_since": 65,
     "spectrum": {
         "filename": "Watervall.png",
         "url": "https://www.sigidwiki.com/images/0/0b/Watervall.png"

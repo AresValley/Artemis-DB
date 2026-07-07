@@ -1,6 +1,7 @@
 {
     "pageid": "174",
     "title": "ISM Band device",
+    "added_since": 65,
     "spectrum": {
         "filename": "ISMBandPowerMeter_Waterfallthmb.jpg",
         "url": "https://www.sigidwiki.com/images/a/a5/ISMBandPowerMeter_Waterfallthmb.jpg"

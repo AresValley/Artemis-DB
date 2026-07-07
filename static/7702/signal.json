@@ -1,6 +1,7 @@
 {
     "pageid": "7702",
     "title": "Radar altimeter",
+    "added_since": 71,
     "spectrum": {
         "filename": "Radar altimeter5.PNG",
         "url": "https://www.sigidwiki.com/images/4/44/Radar_altimeter5.PNG"

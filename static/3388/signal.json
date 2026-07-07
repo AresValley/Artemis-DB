@@ -1,6 +1,7 @@
 {
     "pageid": "3388",
     "title": "Coherent BPSK",
+    "added_since": 65,
     "spectrum": {
         "filename": "Coherent PSK.jpg",
         "url": "https://www.sigidwiki.com/images/4/4e/Coherent_PSK.jpg"

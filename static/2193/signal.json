@@ -1,6 +1,7 @@
 {
     "pageid": "2193",
     "title": "Radio Data System (RDS)",
+    "added_since": 65,
     "spectrum": {
         "filename": "RBDS.png",
         "url": "https://www.sigidwiki.com/images/3/3b/RBDS.png"

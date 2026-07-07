@@ -1,6 +1,7 @@
 {
     "pageid": "137",
     "title": "High Frequency Data Link (HFDL)",
+    "added_since": 65,
     "spectrum": {
         "filename": "HFDL.jpg",
         "url": "https://www.sigidwiki.com/images/0/0f/HFDL.jpg"

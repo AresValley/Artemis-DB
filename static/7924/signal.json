@@ -1,6 +1,7 @@
 {
     "pageid": "7924",
     "title": "Chinese 160kHz-wide OTH radar",
+    "added_since": 72,
     "spectrum": {
         "filename": "Chinese radar 160kHz wide.png",
         "url": "https://www.sigidwiki.com/images/1/13/Chinese_radar_160kHz_wide.png"

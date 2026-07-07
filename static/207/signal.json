@@ -1,6 +1,7 @@
 {
     "pageid": "207",
     "title": "Voice Inversion Scrambling",
+    "added_since": 73,
     "spectrum": {
         "filename": "Voice inversion.png",
         "url": "https://www.sigidwiki.com/images/6/61/Voice_inversion.png"

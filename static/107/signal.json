@@ -1,6 +1,7 @@
 {
     "pageid": "107",
     "title": "PAL Broadcast",
+    "added_since": 65,
     "spectrum": {
         "filename": "PAL.jpg",
         "url": "https://www.sigidwiki.com/images/f/ff/PAL.jpg"

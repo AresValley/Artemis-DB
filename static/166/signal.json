@@ -1,6 +1,7 @@
 {
     "pageid": "166",
     "title": "D-STAR",
+    "added_since": 65,
     "spectrum": {
         "filename": "DSTAR.jpg",
         "url": "https://www.sigidwiki.com/images/7/71/DSTAR.jpg"

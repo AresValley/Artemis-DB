@@ -1,6 +1,7 @@
 {
     "pageid": "4191",
     "title": "BALDR Weather Sensor Telemetry",
+    "added_since": 65,
     "spectrum": {
         "filename": "OOK SDR Sharp.PNG",
         "url": "https://www.sigidwiki.com/images/d/df/OOK_SDR_Sharp.PNG"

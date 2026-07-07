@@ -1,6 +1,7 @@
 {
     "pageid": "420",
     "title": "ECG Telemetry",
+    "added_since": 65,
     "spectrum": {
         "filename": "beeper.png",
         "url": "https://www.sigidwiki.com/images/e/ed/Beeper.png"

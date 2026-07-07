@@ -1,6 +1,7 @@
 {
     "pageid": "429",
     "title": "GMDSS Digital Selective Calling",
+    "added_since": 65,
     "spectrum": {
         "filename": "DSC_GMDSS.jpg",
         "url": "https://www.sigidwiki.com/images/c/c8/DSC_GMDSS.jpg"

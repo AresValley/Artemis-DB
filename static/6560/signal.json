@@ -1,6 +1,7 @@
 {
     "pageid": "6560",
     "title": "Primary Aeronautical Surveillance Radar",
+    "added_since": 65,
     "spectrum": {
         "filename": "L-band radar.JPG",
         "url": "https://www.sigidwiki.com/images/7/7b/L-band_radar.JPG"

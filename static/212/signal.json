@@ -1,6 +1,7 @@
 {
     "pageid": "212",
     "title": "Japan Military 8-Channel FSK",
+    "added_since": 65,
     "spectrum": {
         "filename": "Japan_8_2-fsk.jpg",
         "url": "https://www.sigidwiki.com/images/9/9c/Japan_8_2-fsk.jpg"

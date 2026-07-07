@@ -1,6 +1,7 @@
 {
     "pageid": "5823",
     "title": "HDMI RFI Clock",
+    "added_since": 65,
     "spectrum": {
         "filename": "HDMI clock 4rd.png",
         "url": "https://www.sigidwiki.com/images/b/ba/HDMI_clock_4rd.png"

@@ -1,6 +1,7 @@
 {
     "pageid": "6619",
     "title": "Federal Signal Modem-MSK",
+    "added_since": 65,
     "spectrum": {
         "filename": "Fs msk.png",
         "url": "https://www.sigidwiki.com/images/c/c6/Fs_msk.png"
