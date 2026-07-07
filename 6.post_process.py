@@ -160,8 +160,10 @@ if __name__ == "__main__":
     with open(ProjectPath.INDEX_JSON, 'r', encoding='utf-8') as f:
         index = json.load(f)
     
-    for pageid, title in tqdm(index.items()):
-        signal = Signal(pageid, title)
+    for pageid, data in tqdm(index.items()):
+        title = data['title']
+        added_since = data['added_in_db']
+        signal = Signal(pageid, title, added_since)
         signal.load()
         normalize_modulation(signal)
         normalize_location(signal)

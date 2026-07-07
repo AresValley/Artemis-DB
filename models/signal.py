@@ -7,9 +7,10 @@ from utils.constants import ProjectPath
 
 
 class Signal:
-    def __init__(self, pageid: int, title: str):
+    def __init__(self, pageid: int, title: str, added_since: int):
         self.pageid = pageid
         self.title = title
+        self.added_since = added_since
 
         self.spectrum = {
             'filename': None,
@@ -50,12 +51,13 @@ class Signal:
 
     @property
     def full_description(self) -> str:
-        return f'# SUMMARY\n{self.short_description}\n# DETAILS\n{self.description}'
+        return f'### SUMMARY\n{self.short_description}\n### DETAILS\n{self.description}'
 
     def save(self):
         output_data = {
             "pageid": self.pageid,
             "title": self.title,
+            "added_since": self.added_since,
             "spectrum": self.spectrum,
             "audio": self.audio,
             "category": self.category,
@@ -86,6 +88,7 @@ class Signal:
 
             self.pageid = data['pageid']
             self.title = data['title']
+            self.added_since = data['added_since']
             self.spectrum = data['spectrum']
             self.audio = data['audio']
             self.category = data['category']

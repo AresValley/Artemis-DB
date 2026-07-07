@@ -33,7 +33,7 @@ def get_identified_signal_urls() -> list[Signal]:
         "action":    "query",
         "list":      "categorymembers",
         "cmtitle":   "Category:Signal",
-        "cmnamespace": "0",               # only article
+        "cmnamespace": "0",               # solo articoli
         "cmlimit":   "500",
     }
 
@@ -45,7 +45,7 @@ def get_identified_signal_urls() -> list[Signal]:
 
         for page in pages:
             if page["pageid"] not in Constants.SIG_EXCLUSION:
-                signal = Signal(page["pageid"], page["title"])
+                signal = Signal(page["pageid"], page["title"], "")
                 all_signals.append(signal)
             else:
                 excluded.append((page["pageid"], page["title"]))

@@ -138,10 +138,14 @@ def get_descriptions_for_chunk(session, signals_chunk: list[Signal]):
 
     pages = data.get("query", {}).get("pages", {})
 
+    # Mappa per ritrovare l'oggetto Signal originale nel chunk usando il titolo come chiave
+    signal_map = {sig.title: sig for sig in signals_chunk}
     result = []
 
     for page_id, page_data in pages.items():
-        signal = Signal(page_id, page_data['title'])
+        title = page_data['title']
+        signal = signal_map[title]
+            
         signal.load()
 
         wikitext_raw = page_data["revisions"][0].get("*", "")
@@ -162,8 +166,11 @@ if __name__ == "__main__":
     signals = []
     signals_with_description = []
 
-    for pageid, title in index.items():
-        sig = Signal(pageid, title)
+    for pageid, data in index.items():
+        title = data['title']
+        added_since = data['added_in_db']
+        
+        sig = Signal(int(pageid), title, added_since=added_since)
         sig.load()
         signals.append(sig)
 

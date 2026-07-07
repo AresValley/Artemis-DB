@@ -18,10 +18,13 @@ if __name__ == "__main__":
 
     tqdm.write(f"Processing {len(index)} signals...")
 
-    for pageid, title in tqdm(index.items()):
+    for pageid, data in tqdm(index.items()):
+        title = data['title']
+        added_since = data['added_in_db']
+
         try:
             tqdm.write(f'{pageid}\t{title}\t\t\t')
-            signal = Signal(pageid, title)
+            signal = Signal(pageid, title, added_since)
             signal.load()
 
             os.makedirs(signal.media_dir, exist_ok=True)

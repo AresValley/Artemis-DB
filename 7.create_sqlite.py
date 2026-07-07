@@ -7,87 +7,100 @@ import shutil
 from tqdm import tqdm
 
 from utils.constants import ProjectPath, Constants
-from utils.sql_utils import ArtemisDB
 from utils.generic_utils import checksum_sha256
+
 from models.signal import Signal
+from models.model import (
+    database, Info, Signals, Category, CategoryLabel, Frequency, Bandwidth, 
+    Modulation, Mode, Location, Acf, Documents, SqliteDatabase
+)
 
 
 class Static2Sqlite:
     def __init__(self, db_version):
-        sig_db = ArtemisDB('data')
-        sig_db.create_db()
+
+        db = SqliteDatabase(ProjectPath.DATA_DIR / "data.sqlite", autoconnect=False)
+        database.initialize(db)
+
+        with database:
+
+            database.create_tables([
+                Info, Signals, Acf, Bandwidth, CategoryLabel, 
+                Category, Documents, Frequency, Location, Mode, Modulation
+            ])
 
         ####################### MARK: Sign DB
-        sig_db.sign_db(
-            'SigID',
-            str(datetime.date.today()),
-            db_version,
-            Constants.EDITABLE
-        )
+            Info.create(
+                name='SigID',
+                date=str(datetime.date.today()),
+                version=db_version,
+                editable=Constants.EDITABLE
+            )
 
-        with open(ProjectPath.INDEX_JSON) as file:
-            index = json.load(file)
+            with open(ProjectPath.INDEX_JSON) as file:
+                index = json.load(file)
 
-        all_signals = []
+            all_signals = []
 
         ####################### MARK: Scan Tags
-        print("Extracting signals and unique category tags...")
-        for pageid, title in index.items():
-            sig = Signal(pageid, title)
-            sig.load()
-            all_signals.append(sig)
+            print("Extracting signals and unique category tags...")
+            for pageid, data in index.items():
+                title = data['title']
+                added_since = data['added_in_db']
+                sig = Signal(pageid, title, added_since)
+                sig.load()
+                all_signals.append(sig)
 
-        cat_idx = {}
-        for cat in Constants.CATEGORIES:
-            clb_id = sig_db.add_category_label(cat)
-            cat_idx[cat] = clb_id
+            cat_idx = {}
+            for cat in Constants.CATEGORIES:
+                category = CategoryLabel.create(value=cat)
+                cat_idx[cat] = category.clb_id
 
         ####################### MARK: Scan & Batch Insert Signals
-        print("Executing fast batch load into SQLite database...")
-        
-        # Open transaction block
-        sig_db.begin_transaction()
-
-        try:
+            print("Executing fast batch load into SQLite database...")
+            
             for sig in tqdm(all_signals):
-                sig_id = sig_db.add_signal(
-                    sig.title,
-                    sig.full_description,
-                    sig.url
+                signal = Signals.create(
+                    name=sig.title,
+                    description=sig.full_description,
+                    url=sig.url,
+                    since_version=sig.added_since
                 )
+                sig_id = signal.sig_id
 
                 for cat in sig.category:
-                    sig_db.add_category(sig_id, cat_idx[cat])
+                    Category.create(sig=sig_id, clb=cat_idx[cat])
 
                 for freq in sig.frequency:
-                    sig_db.add_frequency(sig_id, freq['value'], freq['description'])
+                    Frequency.create(sig=sig_id, value=freq['value'], description=freq['description'])
 
                 for band in sig.bandwidth:
-                    sig_db.add_bandwidth(sig_id, band['value'], band['description'])
+                    Bandwidth.create(sig=sig_id, value=band['value'], description=band['description'])
 
                 for acf in sig.acf:
-                    sig_db.add_acf(sig_id, acf['value'], acf['description'])
+                    Acf.create(sig=sig_id, value=acf['value'], description=acf['description'])
 
                 for modulation in sig.modulation:
-                    sig_db.add_modulation(sig_id, modulation['value'], modulation['description'])
+                    Modulation.create(sig=sig_id, value=modulation['value'], description=modulation['description'])
 
                 for mode in sig.mode:
-                    sig_db.add_mode(sig_id, mode['value'], mode['description'])
+                    Mode.create(sig=sig_id, value=mode['value'], description=mode['description'])
 
                 for location in sig.location:
-                    sig_db.add_location(sig_id, location['value'], location['description'])
+                    Location.create(sig=sig_id, value=location['value'], description=location['description'])
 
                 ####################### MARK: Copy Media
                 # Process Spectrum Image
                 if sig.spectrum.get('url'):
-                    doc_id = sig_db.add_document(
-                        'png',
-                        sig_id,
-                        'Main',
-                        'This is the wiki spectrum of the signal from www.sigidwiki.com',
-                        'Image',
-                        1
+                    document = Documents.create(
+                        extension='png',
+                        sig=sig_id,
+                        name='Main',
+                        description='This is the wiki spectrum of the signal from www.sigidwiki.com',
+                        type='Image',
+                        preview=1
                     )
+                    doc_id = document.doc_id
                     src_file_path = sig.media_dir / "1.png"
                     dst_file_path = ProjectPath.MEDIA_DIR / f"{doc_id}.png"
                     
@@ -98,14 +111,15 @@ class Static2Sqlite:
 
                 # Process Audio
                 if sig.audio.get('url'):
-                    doc_id = sig_db.add_document(
-                        'ogg',
-                        sig_id,
-                        'Main',
-                        'This is the wiki audio of the signal from www.sigidwiki.com',
-                        'Audio',
-                        1
+                    doc_id = Documents.create(
+                        extension='ogg',
+                        sig=sig_id,
+                        name='Main',
+                        description='This is the wiki audio of the signal from www.sigidwiki.com',
+                        type='Audio',
+                        preview=1
                     )
+                    doc_id = document.doc_id
                     src_file_path = sig.media_dir / "1.ogg"
                     dst_file_path = ProjectPath.MEDIA_DIR / f"{doc_id}.ogg"
                     
@@ -113,16 +127,6 @@ class Static2Sqlite:
                         shutil.copy(src_file_path, dst_file_path)
                     else:
                         print(f"\n[Warning] Audio file missing on disk: {src_file_path}")
-
-            # Commit everything onto disk in one sequence
-            sig_db.commit_transaction()
-            print("Import successfully completed!")
-
-        except Exception as e:
-            # Revert entire process if something breaks midway to prevent DB corruption
-            sig_db.rollback_transaction()
-            print(f"\n[Critical Error] ETL Pipeline aborted. Database rolled back. Error: {e}")
-            raise e
 
 
 def make_archive():
@@ -134,7 +138,7 @@ def make_archive():
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="Artemis DB Parser")
-    parser.add_argument("--version", type=int, help="Database version", required=True)
+    parser.add_argument("-v", "--version", type=int, help="Database version", required=True)
     args = parser.parse_args()
 
     os.makedirs(ProjectPath.DATA_DIR, exist_ok=True)

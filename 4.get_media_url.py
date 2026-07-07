@@ -51,8 +51,11 @@ if __name__ == "__main__":
 
     all_media_filename = []
 
-    for pageid, title in index.items():
-        sig = Signal(pageid, title)
+    for pageid, data in index.items():
+        title = data['title']
+        added_since = data['added_in_db']
+
+        sig = Signal(pageid, title,added_since)
         sig.load()
         if sig.spectrum['filename']:
             all_media_filename.append(sig.spectrum['filename'])
@@ -94,9 +97,11 @@ if __name__ == "__main__":
         # Grace period
         time.sleep(2)
 
-    # Saving all jsons
-    for pageid, title in index.items():
-        sig = Signal(pageid, title)
+    # Salvataggio json
+    for pageid, data in index.items():
+        title = data['title']
+        added_since = data['added_in_db']
+        sig = Signal(pageid, title, added_since)
         sig.load()
 
         if sig.spectrum['filename']:

@@ -7,6 +7,7 @@ name = "artemis-db"
 version = "2.0.0"
 source = { virtual = "." }
 dependencies = [
+    { name = "peewee" },
     { name = "pillow" },
     { name = "rapidfuzz" },
     { name = "requests" },
@@ -16,6 +17,7 @@ dependencies = [
 
 [package.metadata]
 requires-dist = [
+    { name = "peewee", specifier = ">=4.1.1" },
     { name = "pillow", specifier = ">=12.2.0" },
     { name = "rapidfuzz", specifier = ">=3.14.5" },
     { name = "requests", specifier = ">=2.34.2" },
@@ -89,6 +91,15 @@ source = { registry = "https://pypi.org/simple" }
 sdist = { url = "https://files.pythonhosted.org/packages/cd/63/9496c57188a2ee585e0f1db071d75089a11e98aa86eb99d9d7618fc1edce/idna-3.18.tar.gz", hash = "sha256:ffb385a7e039654cef1ab9ef32c6fafe283c0c0467bba1d9029738ce4a14a848", size = 196711, upload-time = "2026-06-02T14:34:07.794Z" }
 wheels = [
     { url = "https://files.pythonhosted.org/packages/1e/5e/d4e9f1a599fb8e573b7b87160658329fbf28d19eac2718f51fc3def3aa5a/idna-3.18-py3-none-any.whl", hash = "sha256:7f952cbe720b688055e3f87de14f5c3e5fdaa8bc3928985c4077ca689de849a2", size = 65455, upload-time = "2026-06-02T14:34:06.319Z" },
+]
+
+[[package]]
+name = "peewee"
+version = "4.1.1"
+source = { registry = "https://pypi.org/simple" }
+sdist = { url = "https://files.pythonhosted.org/packages/5d/bf/6bbce77d98d2239b0be427f1c41af039388b6288b93ac1ec0123479eda8a/peewee-4.1.1.tar.gz", hash = "sha256:6fb1782252046e088599ed005342d7db6d17d48cacea27bc3c9a74f04646224d", size = 772233, upload-time = "2026-06-28T13:52:49.638Z" }
+wheels = [
+    { url = "https://files.pythonhosted.org/packages/a5/ab/fc0f2f735acb85aa1707b9bde9f21c2a9a64d3c80b5076c3b56c3865431e/peewee-4.1.1-py3-none-any.whl", hash = "sha256:f9a2d16463d5c9208ac7c6eb8aa64cddd98e2f4da8ced8983d4869d5202aa0ce", size = 170332, upload-time = "2026-06-28T13:52:48.166Z" },
 ]
 
 [[package]]

@@ -110,7 +110,11 @@ if __name__ == "__main__":
     
     session = requests.session()
     
-    for pageid, title in tqdm(index.items()):
+    for pageid, data in tqdm(index.items()):
+
+        title = data['title']
+        added_since = data['added_in_db']
+
         tqdm.write(f"🟦 Downloading: {title}")
 
         signal_json = None
@@ -119,7 +123,7 @@ if __name__ == "__main__":
         
         while signal_json is None:
             try:
-                signal_json = get_signal_data(session, Signal(pageid, title))
+                signal_json = get_signal_data(session, Signal(pageid, title, added_since))
 
             except Exception as e: 
                 attempts += 1
